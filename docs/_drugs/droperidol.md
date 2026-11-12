@@ -72,7 +72,13 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-O Brasil tem 4 registros (2 válidos e 2 cancelados) para o droperidol. Os dados compilados não trazem o detalhamento dos registros (nome comercial, forma farmacêutica e texto de indicação), por isso a tabela é omitida.
+O Brasil tem 3 registros (2 válidos e 1 cancelado) para o droperidol. Os dados compilados não trazem o detalhamento dos registros (nome comercial, forma farmacêutica e texto de indicação), por isso a tabela é omitida.
+
+<!-- review:begin br-lic-20261112-droperidol-1 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “O Brasil tem 4 registros (2 válidos e 2 cancelados)” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 3 registros para este medicamento, 2 válidos e 1 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261112-droperidol-1 -->
 
 ## Considerações de Segurança
 
@@ -92,6 +98,19 @@ Para advertências e contraindicações oficiais, consulte a bula.
 - Dados de mecanismo de ação detalhados e das advertências e contraindicações da bula na ANVISA
 - Estudos pré-clínicos ou clínicos que avaliem diretamente o droperidol na síndrome de Tourette
 - Avaliação de viabilidade de via de administração e de segurança cardíaca (monitoramento de QT) para uso repetido
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-12 | Registros: 4 (2 cancelados) → 3 (1 cancelado) | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

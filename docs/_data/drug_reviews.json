@@ -1977,7 +1977,32 @@
    ],
    "checked": "2026-11-06",
    "summary": "Removido: “Os detalhes individuais dos registros (nome comercial, forma farmacêutica e indicação aprovada) não estão disponíveis no Evidence Pack atual”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
+   "history": [
+    {
+     "id": "br-lic-20261106-bilastina-1",
+     "drug": "bilastina",
+     "file": "bilastina.md",
+     "action": "correct",
+     "claim": "Os detalhes individuais dos registros (nome comercial, forma farmacêutica e indicação aprovada) não estão disponíveis no Evidence Pack atual. Está confirmado que Bilastina possui **19 registros** na base regulatória brasileira com situação **comercializado**, porém a coleta dos campos individuais ainda não foi realizada.",
+     "replacement": "Está confirmado que Bilastina possui **19 registros** na base regulatória brasileira com situação **comercializado**, porém a coleta dos campos individuais ainda não foi realizada.",
+     "note": "Removido: a descrição dos produtos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 23 registros para este medicamento, 21 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：product）",
+     "sources": [
+      {
+       "title": "ANVISA – Dados abertos de medicamentos",
+       "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-06",
+     "summary": "Removido: “Os detalhes individuais dos registros (nome comercial, forma farmacêutica e indicação aprovada) não estão disponíveis no Evidence Pack atual”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
+     "retired": "2026-11-12",
+     "reason": "錨點那句的張數／狀態由 br-lic-20261112-bilastina-1 依事實層更正；錨點改成句中不受更正影響的部分，框的位置不變"
+    }
+   ],
+   "anchor": "na base regulatória brasileira com situação **comercializado**, porém a coleta dos campos individuais ainda não foi realizada."
   },
   {
    "id": "br-lic-20261106-bimatoprost-1",
@@ -2197,7 +2222,32 @@
    ],
    "checked": "2026-11-06",
    "summary": "Removido: “No entanto, os detalhes dos registros (número, nome comercial, forma farmacêutica e indicação aprovada) **não foram preenchidos no Evidence ”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
+   "history": [
+    {
+     "id": "br-lic-20261106-bortezomibe-1",
+     "drug": "bortezomibe",
+     "file": "bortezomibe.md",
+     "action": "correct",
+     "claim": "O bortezomibe possui **20 registros** com status \"Comercializado\". No entanto, os detalhes dos registros (número, nome comercial, forma farmacêutica e indicação aprovada) **não foram preenchidos no Evidence Pack atual**.",
+     "replacement": "O bortezomibe possui **20 registros** com status \"Comercializado\".",
+     "note": "Removido: a descrição dos produtos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 26 registros para este medicamento, 23 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：product）",
+     "sources": [
+      {
+       "title": "ANVISA – Dados abertos de medicamentos",
+       "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-06",
+     "summary": "Removido: “No entanto, os detalhes dos registros (número, nome comercial, forma farmacêutica e indicação aprovada) **não foram preenchidos no Evidence ”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
+     "retired": "2026-11-12",
+     "reason": "錨點那句的張數／狀態由 br-lic-20261112-bortezomibe-1 依事實層更正；錨點改成句中不受更正影響的部分，框的位置不變"
+    }
+   ],
+   "anchor": "com status \"Comercializado\"."
   },
   {
    "id": "br-lic-20261106-bosentan-1",
@@ -2638,7 +2688,32 @@
    ],
    "checked": "2026-11-06",
    "summary": "Removido: “Os detalhes individuais dos registros não estão disponíveis nos dados deste relatório”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
+   "history": [
+    {
+     "id": "br-lic-20261106-calcitriol-1",
+     "drug": "calcitriol",
+     "file": "calcitriol.md",
+     "action": "correct",
+     "claim": "O fármaco consta como comercializado no Brasil, com 2 registros válidos e 10 cancelados, segundo os dados regulatórios compilados. Os detalhes individuais dos registros não estão disponíveis nos dados deste relatório.",
+     "replacement": "O fármaco consta como comercializado no Brasil, com 2 registros válidos e 10 cancelados, segundo os dados regulatórios compilados.",
+     "note": "Removido: a afirmação contradizia os dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 11 registros para este medicamento, 2 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：generic）",
+     "sources": [
+      {
+       "title": "ANVISA – Dados abertos de medicamentos",
+       "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-06",
+     "summary": "Removido: “Os detalhes individuais dos registros não estão disponíveis nos dados deste relatório”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
+     "retired": "2026-11-12",
+     "reason": "錨點那句的張數／狀態由 br-lic-20261112-calcitriol-1 依事實層更正；錨點改成句中不受更正影響的部分，框的位置不變"
+    }
+   ],
+   "anchor": "O fármaco consta como comercializado no Brasil,"
   },
   {
    "id": "br-lic-20261106-calcium_dihydrate_chloride-1",
@@ -6172,7 +6247,32 @@
    ],
    "checked": "2026-11-06",
    "summary": "Removido: “No entanto, os detalhes individuais de cada registro (número de registro ANVISA, nome comercial, forma farmacêutica e texto de indicação apr”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
+   "history": [
+    {
+     "id": "br-lic-20261106-levofloxacina-1",
+     "drug": "levofloxacina",
+     "file": "levofloxacina.md",
+     "action": "correct",
+     "claim": "Foram identificados **4 registros** da Levofloxacina na base regulatória brasileira, confirmando que o fármaco está em situação de comercialização ativa. No entanto, os detalhes individuais de cada registro (número de registro ANVISA, nome comercial, forma farmacêutica e texto de indicação aprovada) não foram recuperados nesta execução do pipeline — os campos retornaram vazios.",
+     "replacement": "Foram identificados **4 registros** da Levofloxacina na base regulatória brasileira, confirmando que o fármaco está em situação de comercialização ativa.",
+     "note": "Removido: a descrição dos produtos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 78 registros para este medicamento, 38 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：product）",
+     "sources": [
+      {
+       "title": "ANVISA – Dados abertos de medicamentos",
+       "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-06",
+     "summary": "Removido: “No entanto, os detalhes individuais de cada registro (número de registro ANVISA, nome comercial, forma farmacêutica e texto de indicação apr”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
+     "retired": "2026-11-12",
+     "reason": "錨點那句的張數／狀態由 br-lic-20261112-levofloxacina-1 依事實層更正；錨點改成句中不受更正影響的部分，框的位置不變"
+    }
+   ],
+   "anchor": "da Levofloxacina na base regulatória brasileira, confirmando que o fármaco está em situação de comercialização ativa."
   },
   {
    "id": "br-lic-20261106-levometionina-1",
@@ -7195,7 +7295,32 @@
    ],
    "checked": "2026-11-06",
    "summary": "Removido: “não há registro válido atualmente”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
+   "history": [
+    {
+     "id": "br-lic-20261106-mirtazapine-1",
+     "drug": "mirtazapine",
+     "file": "mirtazapine.md",
+     "action": "correct",
+     "claim": "Todos os 20 registros encontrados são de medicamentos de componente único e estão **cancelados**; não há registro válido atualmente.",
+     "replacement": "Todos os 20 registros encontrados são de medicamentos de componente único e estão **cancelados**.",
+     "note": "Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 36 registros para este medicamento, 30 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+     "sources": [
+      {
+       "title": "ANVISA – Dados abertos de medicamentos",
+       "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-06",
+     "summary": "Removido: “não há registro válido atualmente”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
+     "retired": "2026-11-12",
+     "reason": "錨點那句的張數／狀態由 br-lic-20261112-mirtazapine-1 依事實層更正；錨點改成句中不受更正影響的部分，框的位置不變"
+    }
+   ],
+   "anchor": "Exibem-se os 5 primeiros."
   },
   {
    "id": "br-lic-20261106-mirtazapine-2",
@@ -10040,7 +10165,32 @@
    ],
    "checked": "2026-11-06",
    "summary": "Removido: “Todos os 8 registros estão válidos; o”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
+   "history": [
+    {
+     "id": "br-lic-20261106-spironolactone-2",
+     "drug": "spironolactone",
+     "file": "spironolactone.md",
+     "action": "correct",
+     "claim": "Todos os 8 registros estão válidos; o medicamento é comercializado no Brasil, com 8 licenças válidas de 8.",
+     "replacement": "O medicamento é comercializado no Brasil, com 8 licenças válidas de 8.",
+     "note": "Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 29 registros para este medicamento, 10 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
+     "sources": [
+      {
+       "title": "ANVISA – Dados abertos de medicamentos",
+       "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-06",
+     "summary": "Removido: “Todos os 8 registros estão válidos; o”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
+     "retired": "2026-11-12",
+     "reason": "錨點那句的張數／狀態由 br-lic-20261112-spironolactone-1 依事實層更正；錨點改成句中不受更正影響的部分，框的位置不變"
+    }
+   ],
+   "anchor": "O medicamento é comercializado"
   },
   {
    "id": "br-lic-20261106-sulfamethoxazole-1",
@@ -11790,6 +11940,606 @@
    "checked": "2026-11-12",
    "method": "2026-11-12 人工核對：查核機制的許可證檢查（gate 第 18 項）發現許可證表有 4 個號碼不屬於本藥，逐筆對照 data/raw/anvisa_medicamentos.csv（DADOS_ABERTOS_MEDICAMENTOS）的 PRINCIPIO_ATIVO",
    "anchor": "| Registro | Produto | Forma farmacêutica | Situação |"
+  },
+  {
+   "id": "br-lic-20261112-amikacin-1",
+   "drug": "amikacin",
+   "file": "amikacin.md",
+   "action": "correct",
+   "claim": "os três registros no Brasil estão cancelados",
+   "replacement": "dos 18 registros no Brasil, 15 estão cancelados e 3 válidos",
+   "summary": "Registros: “os três estão cancelados” → 18 registros, 15 cancelados e 3 válidos",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 18 registros para este medicamento, 3 válidos e 15 cancelados ou caducos; os números atuais estão no Resumo rápido.",
+   "finding": "AI 產生的正文的張數／狀態是 10-31 依成分重建前舊證據包（最多 20 筆）的數字；事實層 total 18、valid 3、cancelled 15、partial False（data-20261105-122515）",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（正文張數對事實層）"
+  },
+  {
+   "id": "br-lic-20261112-arginine-1",
+   "drug": "arginine",
+   "file": "arginine.md",
+   "action": "correct",
+   "claim": "Foram encontrados 18 registros, e os 18 estão válidos",
+   "replacement": "Foram encontrados 73 registros, dos quais 24 estão válidos",
+   "summary": "Registros: 18 (todos válidos) → 73 (24 válidos)",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 73 registros para este medicamento, 24 válidos e 49 cancelados ou caducos; os números atuais estão no Resumo rápido.",
+   "finding": "AI 產生的正文的張數／狀態是 10-31 依成分重建前舊證據包（最多 20 筆）的數字；事實層 total 73、valid 24、cancelled 49、partial False（data-20261105-122515）",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（正文張數對事實層）"
+  },
+  {
+   "id": "br-lic-20261112-axitinibe-1",
+   "drug": "axitinibe",
+   "file": "axitinibe.md",
+   "action": "correct",
+   "claim": "com 2 licenças ativas na ANVISA",
+   "replacement": "com 2 licenças na ANVISA (1 ativa e 1 cancelada)",
+   "summary": "Licenças ativas: 2 → 1 (de 2)",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 2 registros para este medicamento, 1 válidos e 1 cancelados ou caducos; os números atuais estão no Resumo rápido.",
+   "finding": "AI 產生的正文的張數／狀態是 10-31 依成分重建前舊證據包（最多 20 筆）的數字；事實層 total 2、valid 1、cancelled 1、partial False（data-20261105-122515）",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（正文張數對事實層）"
+  },
+  {
+   "id": "br-lic-20261112-aztreonam-1",
+   "drug": "aztreonam",
+   "file": "aztreonam.md",
+   "action": "correct",
+   "claim": "Dos 11 registros, 3 estão válidos e 8 cancelados.",
+   "replacement": "Dos 12 registros, 3 estão válidos e 9 cancelados.",
+   "summary": "Registros: 11 (8 cancelados) → 12 (9 cancelados)",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 12 registros para este medicamento, 3 válidos e 9 cancelados ou caducos; os números atuais estão no Resumo rápido.",
+   "finding": "AI 產生的正文的張數／狀態是 10-31 依成分重建前舊證據包（最多 20 筆）的數字；事實層 total 12、valid 3、cancelled 9、partial False（data-20261105-122515）",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（正文張數對事實層）"
+  },
+  {
+   "id": "br-lic-20261112-calcitriol-1",
+   "drug": "calcitriol",
+   "file": "calcitriol.md",
+   "action": "correct",
+   "claim": "com 2 registros válidos e 10 cancelados",
+   "replacement": "com 2 registros válidos e 9 cancelados",
+   "summary": "Registros cancelados: 10 → 9",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 11 registros para este medicamento, 2 válidos e 9 cancelados ou caducos; os números atuais estão no Resumo rápido.",
+   "finding": "AI 產生的正文的張數／狀態是 10-31 依成分重建前舊證據包（最多 20 筆）的數字；事實層 total 11、valid 2、cancelled 9、partial False（data-20261105-122515）",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（正文張數對事實層）"
+  },
+  {
+   "id": "br-lic-20261112-caspofungin-1",
+   "drug": "caspofungin",
+   "file": "caspofungin.md",
+   "action": "correct",
+   "claim": "5 dos 5 registros são válidos",
+   "replacement": "4 dos 6 registros são válidos",
+   "summary": "Registros válidos: 5 de 5 → 4 de 6",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 6 registros para este medicamento, 4 válidos e 2 cancelados ou caducos; os números atuais estão no Resumo rápido.",
+   "finding": "AI 產生的正文的張數／狀態是 10-31 依成分重建前舊證據包（最多 20 筆）的數字；事實層 total 6、valid 4、cancelled 2、partial False（data-20261105-122515）",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（正文張數對事實層）"
+  },
+  {
+   "id": "br-lic-20261112-droperidol-1",
+   "drug": "droperidol",
+   "file": "droperidol.md",
+   "action": "correct",
+   "claim": "O Brasil tem 4 registros (2 válidos e 2 cancelados)",
+   "replacement": "O Brasil tem 3 registros (2 válidos e 1 cancelado)",
+   "summary": "Registros: 4 (2 cancelados) → 3 (1 cancelado)",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 3 registros para este medicamento, 2 válidos e 1 cancelados ou caducos; os números atuais estão no Resumo rápido.",
+   "finding": "AI 產生的正文的張數／狀態是 10-31 依成分重建前舊證據包（最多 20 筆）的數字；事實層 total 3、valid 2、cancelled 1、partial False（data-20261105-122515）",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（正文張數對事實層）"
+  },
+  {
+   "id": "br-lic-20261112-dutasteride-1",
+   "drug": "dutasteride",
+   "file": "dutasteride.md",
+   "action": "correct",
+   "claim": "Todos os 13 registros encontram-se válidos.",
+   "replacement": "Dos 21 registros, 15 encontram-se válidos.",
+   "summary": "Registros válidos: “todos os 13” → 15 de 21",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 21 registros para este medicamento, 15 válidos e 6 cancelados ou caducos; os números atuais estão no Resumo rápido.",
+   "finding": "AI 產生的正文的張數／狀態是 10-31 依成分重建前舊證據包（最多 20 筆）的數字；事實層 total 21、valid 15、cancelled 6、partial False（data-20261105-122515）",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（正文張數對事實層）"
+  },
+  {
+   "id": "br-lic-20261112-fentanyl-1",
+   "drug": "fentanyl",
+   "file": "fentanyl.md",
+   "action": "correct",
+   "claim": "Todos os 11 registros encontram-se **válidos**.",
+   "replacement": "Dos 29 registros, 10 encontram-se **válidos**.",
+   "summary": "Registros válidos: “todos os 11” → 10 de 29",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 29 registros para este medicamento, 10 válidos e 19 cancelados ou caducos; os números atuais estão no Resumo rápido.",
+   "finding": "AI 產生的正文的張數／狀態是 10-31 依成分重建前舊證據包（最多 20 筆）的數字；事實層 total 29、valid 10、cancelled 19、partial False（data-20261105-122515）",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（正文張數對事實層）"
+  },
+  {
+   "id": "br-lic-20261112-ganirelix-1",
+   "drug": "ganirelix",
+   "file": "ganirelix.md",
+   "action": "correct",
+   "claim": "os três registros no Brasil estão cancelados, o que limita a viabilidade regulatória imediata.",
+   "replacement": "dos 4 registros no Brasil, 3 estão válidos e 1 cancelado.",
+   "summary": "Registros: “os três estão cancelados” → 4 registros, 3 válidos",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 4 registros para este medicamento, 3 válidos e 1 cancelados ou caducos; os números atuais estão no Resumo rápido.",
+   "finding": "AI 產生的正文的張數／狀態是 10-31 依成分重建前舊證據包（最多 20 筆）的數字；事實層 total 4、valid 3、cancelled 1、partial False（data-20261105-122515）",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（正文張數對事實層）"
+  },
+  {
+   "id": "br-lic-20261112-isoleucine-1",
+   "drug": "isoleucine",
+   "file": "isoleucine.md",
+   "action": "correct",
+   "claim": "Dos 16 registros encontrados, os 16 estão válidos.",
+   "replacement": "Dos 31 registros, 14 estão válidos.",
+   "summary": "Registros válidos: 16 de 16 → 14 de 31",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 31 registros para este medicamento, 14 válidos e 17 cancelados ou caducos; os números atuais estão no Resumo rápido.",
+   "finding": "AI 產生的正文的張數／狀態是 10-31 依成分重建前舊證據包（最多 20 筆）的數字；事實層 total 31、valid 14、cancelled 17、partial False（data-20261105-122515）",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（正文張數對事實層）"
+  },
+  {
+   "id": "br-lic-20261112-threonine-1",
+   "drug": "threonine",
+   "file": "threonine.md",
+   "action": "correct",
+   "claim": "Dos 17 registros encontrados, 17 estão válidos.",
+   "replacement": "Dos 33 registros, 15 estão válidos.",
+   "summary": "Registros válidos: 17 de 17 → 15 de 33",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 33 registros para este medicamento, 15 válidos e 18 cancelados ou caducos; os números atuais estão no Resumo rápido.",
+   "finding": "AI 產生的正文的張數／狀態是 10-31 依成分重建前舊證據包（最多 20 筆）的數字；事實層 total 33、valid 15、cancelled 18、partial False（data-20261105-122515）",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（正文張數對事實層）"
+  },
+  {
+   "id": "br-lic-20261112-levofloxacina-1",
+   "drug": "levofloxacina",
+   "file": "levofloxacina.md",
+   "action": "correct",
+   "claim": "Foram identificados **4 registros**",
+   "replacement": "Foram identificados **78 registros** (38 válidos)",
+   "summary": "Registros: 4 → 78 (38 válidos)",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 78 registros para este medicamento, 38 válidos e 40 cancelados ou caducos; os números atuais estão no Resumo rápido.",
+   "finding": "AI 產生的正文的張數／狀態是 10-31 依成分重建前舊證據包（最多 20 筆）的數字；事實層 total 78、valid 38、cancelled 40、partial False（data-20261105-122515）",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（正文張數對事實層）"
+  },
+  {
+   "id": "br-lic-20261112-levofloxacina-2",
+   "drug": "levofloxacina",
+   "file": "levofloxacina.md",
+   "action": "correct",
+   "claim": "O pipeline identificou 4 registros",
+   "replacement": "O pipeline identificou 78 registros (38 válidos)",
+   "summary": "Registros: 4 → 78 (38 válidos)",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 78 registros para este medicamento, 38 válidos e 40 cancelados ou caducos; os números atuais estão no Resumo rápido.",
+   "finding": "AI 產生的正文的張數／狀態是 10-31 依成分重建前舊證據包（最多 20 筆）的數字；事實層 total 78、valid 38、cancelled 40、partial False（data-20261105-122515）",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（正文張數對事實層）"
+  },
+  {
+   "id": "br-lic-20261112-bilastina-1",
+   "drug": "bilastina",
+   "file": "bilastina.md",
+   "action": "correct",
+   "claim": "possui **19 registros**",
+   "replacement": "possui **23 registros** (21 válidos)",
+   "summary": "Registros: 19 → 23 (21 válidos)",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 23 registros para este medicamento, 21 válidos e 2 cancelados ou caducos; os números atuais estão no Resumo rápido.",
+   "finding": "AI 產生的正文的張數／狀態是 10-31 依成分重建前舊證據包（最多 20 筆）的數字；事實層 total 23、valid 21、cancelled 2、partial False（data-20261105-122515）",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（正文張數對事實層）"
+  },
+  {
+   "id": "br-lic-20261112-bortezomibe-1",
+   "drug": "bortezomibe",
+   "file": "bortezomibe.md",
+   "action": "correct",
+   "claim": "possui **20 registros**",
+   "replacement": "possui **26 registros** (23 válidos)",
+   "summary": "Registros: 20 → 26 (23 válidos)",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 26 registros para este medicamento, 23 válidos e 3 cancelados ou caducos; os números atuais estão no Resumo rápido.",
+   "finding": "AI 產生的正文的張數／狀態是 10-31 依成分重建前舊證據包（最多 20 筆）的數字；事實層 total 26、valid 23、cancelled 3、partial False（data-20261105-122515）",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（正文張數對事實層）"
+  },
+  {
+   "id": "br-lic-20261112-levometionina-1",
+   "drug": "levometionina",
+   "file": "levometionina.md",
+   "action": "correct",
+   "claim": "com 20 licenças vigentes",
+   "replacement": "com 10 licenças vigentes (de 46 registros)",
+   "summary": "Licenças vigentes: 20 → 10 (de 46)",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 46 registros para este medicamento, 10 válidos e 36 cancelados ou caducos; os números atuais estão no Resumo rápido.",
+   "finding": "AI 產生的正文的張數／狀態是 10-31 依成分重建前舊證據包（最多 20 筆）的數字；事實層 total 46、valid 10、cancelled 36、partial False（data-20261105-122515）",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（正文張數對事實層）"
+  },
+  {
+   "id": "br-lic-20261112-metamizole-1",
+   "drug": "metamizole",
+   "file": "metamizole.md",
+   "action": "correct",
+   "claim": "Todos os 20 registros constam como válidos.",
+   "replacement": "Dos 496 registros, 171 constam como válidos.",
+   "summary": "Registros válidos: “todos os 20” → 171 de 496",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 496 registros para este medicamento, 171 válidos e 325 cancelados ou caducos; os números atuais estão no Resumo rápido.",
+   "finding": "AI 產生的正文的張數／狀態是 10-31 依成分重建前舊證據包（最多 20 筆）的數字；事實層 total 496、valid 171、cancelled 325、partial False（data-20261105-122515）",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（正文張數對事實層）"
+  },
+  {
+   "id": "br-lic-20261112-sulfamethoxazole-1",
+   "drug": "sulfamethoxazole",
+   "file": "sulfamethoxazole.md",
+   "action": "correct",
+   "claim": "Todos os 20 registros constam como válidos.",
+   "replacement": "Dos 112 registros, 23 constam como válidos.",
+   "summary": "Registros válidos: “todos os 20” → 23 de 112",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 112 registros para este medicamento, 23 válidos e 89 cancelados ou caducos; os números atuais estão no Resumo rápido.",
+   "finding": "AI 產生的正文的張數／狀態是 10-31 依成分重建前舊證據包（最多 20 筆）的數字；事實層 total 112、valid 23、cancelled 89、partial False（data-20261105-122515）",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（正文張數對事實層）"
+  },
+  {
+   "id": "br-lic-20261112-trimethoprim-1",
+   "drug": "trimethoprim",
+   "file": "trimethoprim.md",
+   "action": "correct",
+   "claim": "Todos os 20 registros constam como válidos.",
+   "replacement": "Dos 111 registros, 23 constam como válidos.",
+   "summary": "Registros válidos: “todos os 20” → 23 de 111",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 111 registros para este medicamento, 23 válidos e 88 cancelados ou caducos; os números atuais estão no Resumo rápido.",
+   "finding": "AI 產生的正文的張數／狀態是 10-31 依成分重建前舊證據包（最多 20 筆）的數字；事實層 total 111、valid 23、cancelled 88、partial False（data-20261105-122515）",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（正文張數對事實層）"
+  },
+  {
+   "id": "br-lic-20261112-mirtazapine-1",
+   "drug": "mirtazapine",
+   "file": "mirtazapine.md",
+   "action": "correct",
+   "claim": "Todos os 20 registros encontrados são de medicamentos de componente único e estão **cancelados**.",
+   "replacement": "Os 36 registros são de medicamentos de componente único; 30 estão **válidos** e 6 cancelados.",
+   "summary": "Registros: “todos os 20 cancelados” → 36 registros, 30 válidos",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 36 registros para este medicamento, 30 válidos e 6 cancelados ou caducos; os números atuais estão no Resumo rápido.",
+   "finding": "AI 產生的正文的張數／狀態是 10-31 依成分重建前舊證據包（最多 20 筆）的數字；事實層 total 36、valid 30、cancelled 6、partial False（data-20261105-122515）",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（正文張數對事實層）"
+  },
+  {
+   "id": "br-lic-20261112-mometasone-1",
+   "drug": "mometasone",
+   "file": "mometasone.md",
+   "action": "correct",
+   "claim": "dos 9 registros encontrados, 9 estão vigentes",
+   "replacement": "dos 58 registros, 28 estão vigentes",
+   "summary": "Registros vigentes: 9 de 9 → 28 de 58",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 58 registros para este medicamento, 28 válidos e 30 cancelados ou caducos; os números atuais estão no Resumo rápido.",
+   "finding": "AI 產生的正文的張數／狀態是 10-31 依成分重建前舊證據包（最多 20 筆）的數字；事實層 total 58、valid 28、cancelled 30、partial False（data-20261105-122515）",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（正文張數對事實層）"
+  },
+  {
+   "id": "br-lic-20261112-procaine-1",
+   "drug": "procaine",
+   "file": "procaine.md",
+   "action": "correct",
+   "claim": "dos 4 registros encontrados, 4 têm licença válida",
+   "replacement": "dos 40 registros, 8 têm licença válida",
+   "summary": "Registros válidos: 4 de 4 → 8 de 40",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 40 registros para este medicamento, 8 válidos e 32 cancelados ou caducos; os números atuais estão no Resumo rápido.",
+   "finding": "AI 產生的正文的張數／狀態是 10-31 依成分重建前舊證據包（最多 20 筆）的數字；事實層 total 40、valid 8、cancelled 32、partial False（data-20261105-122515）",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（正文張數對事實層）"
+  },
+  {
+   "id": "br-lic-20261112-rivastigmine-1",
+   "drug": "rivastigmine",
+   "file": "rivastigmine.md",
+   "action": "correct",
+   "claim": "Todos os 17 registros encontram-se válidos.",
+   "replacement": "Dos 42 registros, 19 encontram-se válidos.",
+   "summary": "Registros válidos: “todos os 17” → 19 de 42",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 42 registros para este medicamento, 19 válidos e 23 cancelados ou caducos; os números atuais estão no Resumo rápido.",
+   "finding": "AI 產生的正文的張數／狀態是 10-31 依成分重建前舊證據包（最多 20 筆）的數字；事實層 total 42、valid 19、cancelled 23、partial False（data-20261105-122515）",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（正文張數對事實層）"
+  },
+  {
+   "id": "br-lic-20261112-ropivacaine-1",
+   "drug": "ropivacaine",
+   "file": "ropivacaine.md",
+   "action": "correct",
+   "claim": "Todos os 8 registros encontram-se **válidos**",
+   "replacement": "Dos 13 registros, 7 encontram-se **válidos**",
+   "summary": "Registros válidos: “todos os 8” → 7 de 13",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 13 registros para este medicamento, 7 válidos e 6 cancelados ou caducos; os números atuais estão no Resumo rápido.",
+   "finding": "AI 產生的正文的張數／狀態是 10-31 依成分重建前舊證據包（最多 20 筆）的數字；事實層 total 13、valid 7、cancelled 6、partial False（data-20261105-122515）",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（正文張數對事實層）"
+  },
+  {
+   "id": "br-lic-20261112-spironolactone-1",
+   "drug": "spironolactone",
+   "file": "spironolactone.md",
+   "action": "correct",
+   "claim": "no Brasil, com 8 licenças válidas de 8.",
+   "replacement": "no Brasil, com 10 licenças válidas de 29.",
+   "summary": "Licenças válidas: 8 de 8 → 10 de 29",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 29 registros para este medicamento, 10 válidos e 19 cancelados ou caducos; os números atuais estão no Resumo rápido.",
+   "finding": "AI 產生的正文的張數／狀態是 10-31 依成分重建前舊證據包（最多 20 筆）的數字；事實層 total 29、valid 10、cancelled 19、partial False（data-20261105-122515）",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（正文張數對事實層）"
+  },
+  {
+   "id": "br-lic-20261112-spironolactone-2",
+   "drug": "spironolactone",
+   "file": "spironolactone.md",
+   "action": "correct",
+   "claim": "com 8 licenças válidas de 8, e",
+   "replacement": "com 10 licenças válidas de 29, e",
+   "summary": "Licenças válidas: 8 de 8 → 10 de 29",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 29 registros para este medicamento, 10 válidos e 19 cancelados ou caducos; os números atuais estão no Resumo rápido.",
+   "finding": "AI 產生的正文的張數／狀態是 10-31 依成分重建前舊證據包（最多 20 筆）的數字；事實層 total 29、valid 10、cancelled 19、partial False（data-20261105-122515）",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（正文張數對事實層）"
+  },
+  {
+   "id": "br-lic-20261112-hesperidin-1",
+   "drug": "hesperidin",
+   "file": "hesperidin.md",
+   "action": "correct",
+   "claim": "(15 válidos e 5 cancelados)",
+   "replacement": "(35 válidos e 16 cancelados)",
+   "summary": "Registros: 15 válidos e 5 cancelados → 35 válidos e 16 cancelados",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 51 registros para este medicamento, 35 válidos e 16 cancelados ou caducos; os números atuais estão no Resumo rápido.",
+   "finding": "AI 產生的正文的張數／狀態是 10-31 依成分重建前舊證據包（最多 20 筆）的數字；事實層 total 51、valid 35、cancelled 16、partial False（data-20261105-122515）",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（正文張數對事實層）"
+  },
+  {
+   "id": "br-lic-20261112-iron-1",
+   "drug": "iron",
+   "file": "iron.md",
+   "action": "correct",
+   "claim": "com 4 registros válidos e 16 cancelados",
+   "replacement": "com pelo menos 3 registros válidos e 17 cancelados",
+   "summary": "Registros: 4 válidos e 16 cancelados → pelo menos 3 válidos e 17 cancelados",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): pelo menos 20 registros para este medicamento, pelo menos 3 válidos e 17 cancelados ou caducos; os números atuais estão no Resumo rápido.",
+   "finding": "AI 產生的正文的張數／狀態是 10-31 依成分重建前舊證據包（最多 20 筆）的數字；事實層 total None、valid 3、cancelled 17、partial True（data-20261105-122515）",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（正文張數對事實層）"
+  },
+  {
+   "id": "br-lic-20261112-esomeprazole-1",
+   "drug": "esomeprazole",
+   "file": "esomeprazole.md",
+   "action": "correct",
+   "claim": "Há 15 registros no total",
+   "replacement": "Há 57 registros no total",
+   "summary": "Registros no total: 15 → 57",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 57 registros para este medicamento, 30 válidos e 27 cancelados ou caducos; os números atuais estão no Resumo rápido.",
+   "finding": "AI 產生的正文的張數／狀態是 10-31 依成分重建前舊證據包（最多 20 筆）的數字；事實層 total 57、valid 30、cancelled 27、partial False（data-20261105-122515）",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（正文張數對事實層）"
   }
  ]
 }

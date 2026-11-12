@@ -62,13 +62,19 @@ No entanto, a entrada da doença está marcada como obsoleta na terminologia de 
 
 ## Informações de Comercialização no Brasil
 
-O fármaco consta como comercializado no Brasil, com 2 registros válidos e 10 cancelados, segundo os dados regulatórios compilados.
+O fármaco consta como comercializado no Brasil, com 2 registros válidos e 9 cancelados, segundo os dados regulatórios compilados.
 
 <!-- review:begin br-lic-20261106-calcitriol-1 -->
 
 > **Correção de verificação (2026-11-06)**: Texto original: “O fármaco consta como comercializado no Brasil, com 2 registros válidos e 10 cancelados, segundo os dados regulatórios compilados. Os detalhes individuais dos registros não estão disponíveis nos dados deste relatório.” Removido: a afirmação contradizia os dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 11 registros para este medicamento, 2 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-calcitriol-1 -->
+
+<!-- review:begin br-lic-20261112-calcitriol-1 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “com 2 registros válidos e 10 cancelados” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 11 registros para este medicamento, 2 válidos e 9 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261112-calcitriol-1 -->
 
 ## Considerações de Segurança
 
@@ -99,7 +105,8 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “Os detalhes individuais dos registros não estão disponíveis nos dados deste relatório” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Os detalhes individuais dos registros não estão disponíveis nos dados deste relatório” | Corrigido (revisado em 2026-11-12; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Registros cancelados: 10 → 9 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

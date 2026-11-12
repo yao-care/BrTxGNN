@@ -71,7 +71,13 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-Dos 16 registros encontrados, os 16 estão válidos. Principais registros (5 de 16):
+Dos 31 registros, 14 estão válidos. Principais registros (5 de 16):
+
+<!-- review:begin br-lic-20261112-isoleucine-1 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Dos 16 registros encontrados, os 16 estão válidos.” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 31 registros para este medicamento, 14 válidos e 17 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261112-isoleucine-1 -->
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -144,6 +150,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “A previsão baseia-se apenas no modelo (L5), sem ensaios clínicos nem literatura e sem mecanismo estabelecido, embora o medicamento seja come” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Registros válidos: 16 de 16 → 14 de 31 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

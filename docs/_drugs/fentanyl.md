@@ -74,7 +74,13 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 11 registros encontram-se **válidos**. Os cinco principais:
+Dos 29 registros, 10 encontram-se **válidos**. Os cinco principais:
+
+<!-- review:begin br-lic-20261112-fentanyl-1 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Todos os 11 registros encontram-se **válidos**.” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 29 registros para este medicamento, 10 válidos e 19 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261112-fentanyl-1 -->
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -143,6 +149,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “e a ausência de registros vigentes no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Registros válidos: “todos os 11” → 10 de 29 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

@@ -82,7 +82,13 @@ Nenhum dos estudos abaixo é ensaio clínico de eficácia. Os achados abaixo for
 
 ## Informações de Comercialização no Brasil
 
-Todos os 20 registros constam como válidos. Abaixo, os 5 principais:
+Dos 496 registros, 171 constam como válidos. Abaixo, os 5 principais:
+
+<!-- review:begin br-lic-20261112-metamizole-1 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Todos os 20 registros constam como válidos.” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 496 registros para este medicamento, 171 válidos e 325 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261112-metamizole-1 -->
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -156,6 +162,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, o medicamento é comercializado no Brasil, com 20 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Registros válidos: “todos os 20” → 171 de 496 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

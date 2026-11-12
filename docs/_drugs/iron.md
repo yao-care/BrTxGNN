@@ -62,7 +62,13 @@ Portanto, a plausibilidade biológica é baixa e a previsão deve ser tratada co
 
 ## Informações de Comercialização no Brasil
 
-O ferro está comercializado no Brasil, com 4 registros válidos e 16 cancelados. Os dados disponíveis são parciais, portanto a lista de registros pode estar incompleta.
+O ferro está comercializado no Brasil, com pelo menos 3 registros válidos e 17 cancelados. Os dados disponíveis são parciais, portanto a lista de registros pode estar incompleta.
+
+<!-- review:begin br-lic-20261112-iron-1 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “com 4 registros válidos e 16 cancelados” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): pelo menos 20 registros para este medicamento, pelo menos 3 válidos e 17 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261112-iron-1 -->
 
 ## Considerações de Segurança
 
@@ -85,6 +91,19 @@ Para advertências e contraindicações, consulte a bula.
 - Revisão da literatura sobre anemia megaloblástica constitucional que demonstre qualquer resposta ao ferro.
 - Bula local, com advertências e contraindicações, para a triagem de segurança.
 - Verificação de rota e forma farmacêutica compatíveis com o uso pretendido.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-12 | Registros: 4 válidos e 16 cancelados → pelo menos 3 válidos e 17 cancelados | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

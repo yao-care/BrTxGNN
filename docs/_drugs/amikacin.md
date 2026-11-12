@@ -113,7 +113,13 @@ Também há um estudo de sensibilidade de *S. typhi* (PMID 8354556, 1993) em que
 **Decisão: Hold**
 
 **Justificativa:**
-- Apesar da pontuação alta do TxGNN (0,9982), não há ensaios clínicos e a literatura é indireta (epidemiologia e antibiogramas). Um estudo comparativo em febre tifoide relatou eficácia clínica de apenas 36,4% com amicacina, contra 100% com ofloxacino. A penetração intracelular limitada dos aminoglicosídeos e a existência de alternativas estabelecidas (azitromicina, cefalosporinas de terceira geração, fluoroquinolonas) reduzem o interesse da proposta. Além disso, os três registros no Brasil estão cancelados.
+- Apesar da pontuação alta do TxGNN (0,9982), não há ensaios clínicos e a literatura é indireta (epidemiologia e antibiogramas). Um estudo comparativo em febre tifoide relatou eficácia clínica de apenas 36,4% com amicacina, contra 100% com ofloxacino. A penetração intracelular limitada dos aminoglicosídeos e a existência de alternativas estabelecidas (azitromicina, cefalosporinas de terceira geração, fluoroquinolonas) reduzem o interesse da proposta. Além disso, dos 18 registros no Brasil, 15 estão cancelados e 3 válidos.
+
+<!-- review:begin br-lic-20261112-amikacin-1 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “os três registros no Brasil estão cancelados” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 18 registros para este medicamento, 3 válidos e 15 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261112-amikacin-1 -->
 
 **Para prosseguir, é necessário:**
 - Obter a bula da ANVISA com advertências e contraindicações (lacuna bloqueante na triagem de segurança).
@@ -137,6 +143,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “(não há registro vigente no Brasil)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Registros: “os três estão cancelados” → 18 registros, 15 cancelados e 3 válidos | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

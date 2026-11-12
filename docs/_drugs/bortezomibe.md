@@ -80,13 +80,19 @@ Atualmente não há previsão de nova indicação, portanto não foram coletadas
 
 ## Informações de Comercialização no Brasil
 
-O bortezomibe possui **20 registros** com status "Comercializado".
+O bortezomibe possui **26 registros** (23 válidos) com status "Comercializado".
 
 <!-- review:begin br-lic-20261106-bortezomibe-1 -->
 
 > **Correção de verificação (2026-11-06)**: Texto original: “O bortezomibe possui **20 registros** com status "Comercializado". No entanto, os detalhes dos registros (número, nome comercial, forma farmacêutica e indicação aprovada) **não foram preenchidos no Evidence Pack atual**.” Removido: a descrição dos produtos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 26 registros para este medicamento, 23 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-bortezomibe-1 -->
+
+<!-- review:begin br-lic-20261112-bortezomibe-1 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “possui **20 registros**” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 26 registros para este medicamento, 23 válidos e 3 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261112-bortezomibe-1 -->
 
 > ⚠️ É necessário complementar os dados de registro junto à ANVISA para completar esta seção.
 
@@ -144,7 +150,8 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “No entanto, os detalhes dos registros (número, nome comercial, forma farmacêutica e indicação aprovada) **não foram preenchidos no Evidence ” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “No entanto, os detalhes dos registros (número, nome comercial, forma farmacêutica e indicação aprovada) **não foram preenchidos no Evidence ” | Corrigido (revisado em 2026-11-12; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Registros: 20 → 26 (23 válidos) | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

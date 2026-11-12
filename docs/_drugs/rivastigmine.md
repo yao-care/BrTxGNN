@@ -76,7 +76,13 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 17 registros encontram-se válidos. Abaixo, os 5 principais:
+Dos 42 registros, 19 encontram-se válidos. Abaixo, os 5 principais:
+
+<!-- review:begin br-lic-20261112-rivastigmine-1 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Todos os 17 registros encontram-se válidos.” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 42 registros para este medicamento, 19 válidos e 23 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261112-rivastigmine-1 -->
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -155,6 +161,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-10-31 | Removido: “diante da situação "apenas cancelados"” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Registros válidos: “todos os 17” → 19 de 42 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

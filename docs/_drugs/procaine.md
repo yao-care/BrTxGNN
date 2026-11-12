@@ -93,7 +93,13 @@ Nenhum desses trabalhos demonstra benefício da procaína no tratamento da metem
 
 ## Informações de Comercialização no Brasil
 
-O medicamento é comercializado: dos 4 registros encontrados, 4 têm licença válida.
+O medicamento é comercializado: dos 40 registros, 8 têm licença válida.
+
+<!-- review:begin br-lic-20261112-procaine-1 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “dos 4 registros encontrados, 4 têm licença válida” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 40 registros para este medicamento, 8 válidos e 32 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261112-procaine-1 -->
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -177,6 +183,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 |------|------|------|------|
 | 2026-11-06 | Removido: “e os registros no Brasil estão todos cancelados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “já que não há registro vigente no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Registros válidos: 4 de 4 → 8 de 40 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

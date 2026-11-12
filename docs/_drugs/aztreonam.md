@@ -64,7 +64,13 @@ Por isso, esta previsão deve ser tratada como uma hipótese não sustentada, e 
 
 ## Informações de Comercialização no Brasil
 
-Segundo os dados compilados, há registros válidos de aztreonam de agente único no Brasil, e a situação geral é de comercialização. Dos 11 registros, 3 estão válidos e 8 cancelados.
+Segundo os dados compilados, há registros válidos de aztreonam de agente único no Brasil, e a situação geral é de comercialização. Dos 12 registros, 3 estão válidos e 9 cancelados.
+
+<!-- review:begin br-lic-20261112-aztreonam-1 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Dos 11 registros, 3 estão válidos e 8 cancelados.” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 12 registros para este medicamento, 3 válidos e 9 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261112-aztreonam-1 -->
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -98,6 +104,19 @@ Para advertências e contraindicações, consulte a bula.
 - Evidência biológica ou clínica que ligue o aztreonam ao metabolismo ou à depuração da amilase
 - Dados de mecanismo de ação detalhados
 - Texto de bula (advertências e contraindicações) para a triagem de segurança
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-12 | Registros: 11 (8 cancelados) → 12 (9 cancelados) | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

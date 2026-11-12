@@ -73,7 +73,13 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Os dados locais indicam que há registros válidos para hesperidina no Brasil (15 válidos e 5 cancelados), e a lista pode estar incompleta. Não há detalhes de registros individuais disponíveis nos dados compilados para este relatório.
+Os dados locais indicam que há registros válidos para hesperidina no Brasil (35 válidos e 16 cancelados), e a lista pode estar incompleta. Não há detalhes de registros individuais disponíveis nos dados compilados para este relatório.
+
+<!-- review:begin br-lic-20261112-hesperidin-1 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “(15 válidos e 5 cancelados)” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 51 registros para este medicamento, 35 válidos e 16 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261112-hesperidin-1 -->
 
 ## Considerações de Segurança
 
@@ -91,6 +97,19 @@ Consulte a bula para informações de segurança. Não foram encontradas intera�
 - Obter dados do mecanismo de ação (por exemplo, via DrugBank)
 - Realizar estudos pré-clínicos *in vitro* e *in vivo* da hesperidina em modelos de neoplasia mieloproliferativa (por exemplo, linhagens com mutação JAK2)
 - Avaliar a compatibilidade de vias de administração e a biodisponibilidade, dada a baixa absorção típica de flavonoides glicosilados
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-12 | Registros: 15 válidos e 5 cancelados → 35 válidos e 16 cancelados | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

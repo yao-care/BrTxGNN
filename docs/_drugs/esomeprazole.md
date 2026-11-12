@@ -99,7 +99,13 @@ Não foram encontrados ensaios clínicos nem literatura que estudem diretamente 
 
 A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
-Há 15 registros no total; a tabela mostra apenas os cinco primeiros.
+Há 57 registros no total; a tabela mostra apenas os cinco primeiros.
+
+<!-- review:begin br-lic-20261112-esomeprazole-1 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Há 15 registros no total” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 57 registros para este medicamento, 30 válidos e 27 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261112-esomeprazole-1 -->
 
 ## Considerações de Segurança
 
@@ -117,6 +123,19 @@ Há 15 registros no total; a tabela mostra apenas os cinco primeiros.
 - Revisão sistemática da literatura e busca de estudos clínicos ou observacionais que tratem diretamente da doença
 - Obtenção das advertências e contraindicações da bula, hoje ausentes nos dados compilados para este relatório
 - Reavaliação da segurança e das interações medicamentosas antes de qualquer avanço
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-12 | Registros no total: 15 → 57 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

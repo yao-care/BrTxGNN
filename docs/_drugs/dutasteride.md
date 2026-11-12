@@ -78,7 +78,13 @@ Como referência indireta, para outra indicação prevista (alopecia areata difu
 
 ## Informações de Comercialização no Brasil
 
-Todos os 13 registros encontram-se válidos. Principais registros:
+Dos 21 registros, 15 encontram-se válidos. Principais registros:
+
+<!-- review:begin br-lic-20261112-dutasteride-1 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Todos os 13 registros encontram-se válidos.” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 21 registros para este medicamento, 15 válidos e 6 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261112-dutasteride-1 -->
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -141,6 +147,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, o medicamento é comercializado no Brasil, com 13 registros válidos de 13” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Registros válidos: “todos os 13” → 15 de 21 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

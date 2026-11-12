@@ -96,7 +96,13 @@ Para a segunda indicação prevista (conjuntivite), a literatura mais relevante 
 
 ## Informações de Comercialização no Brasil
 
-Todos os 20 registros constam como válidos. Principais registros:
+Dos 111 registros, 23 constam como válidos. Principais registros:
+
+<!-- review:begin br-lic-20261112-trimethoprim-1 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Todos os 20 registros constam como válidos.” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 111 registros para este medicamento, 23 válidos e 88 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261112-trimethoprim-1 -->
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -159,6 +165,19 @@ Para advertências formais, consulte a bula.
 - Esclarecer a etiologia da ceratoconjuntivite epitelial punctata (viral vs. bacteriana) e se há justificativa para antibacteriano.
 - Considerar priorizar a **conjuntivite bacteriana** (L3) como pergunta de pesquisa, verificando o contexto de produto combinado tópico (polimixina B + trimetoprima) e a situação regulatória atual.
 - Definir a via de administração (tópica oftálmica vs. oral) e a disponibilidade de formulação no Brasil.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-12 | Registros válidos: “todos os 20” → 23 de 111 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

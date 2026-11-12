@@ -59,13 +59,19 @@ O modelo TxGNN **não gerou previsões de reposicionamento** para este fármaco 
 
 ## Informações de Comercialização no Brasil
 
-Foram identificados **4 registros** da Levofloxacina na base regulatória brasileira, confirmando que o fármaco está em situação de comercialização ativa.
+Foram identificados **78 registros** (38 válidos) da Levofloxacina na base regulatória brasileira, confirmando que o fármaco está em situação de comercialização ativa.
 
 <!-- review:begin br-lic-20261106-levofloxacina-1 -->
 
 > **Correção de verificação (2026-11-06)**: Texto original: “Foram identificados **4 registros** da Levofloxacina na base regulatória brasileira, confirmando que o fármaco está em situação de comercialização ativa. No entanto, os detalhes individuais de cada registro (número de registro ANVISA, nome comercial, forma farmacêutica e texto de indicação aprovada) não foram recuperados nesta execução do pipeline — os campos retornaram vazios.” Removido: a descrição dos produtos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 78 registros para este medicamento, 38 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-levofloxacina-1 -->
+
+<!-- review:begin br-lic-20261112-levofloxacina-1 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Foram identificados **4 registros**” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 78 registros para este medicamento, 38 válidos e 40 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261112-levofloxacina-1 -->
 
 É necessário complementar a consulta à base ANVISA para obter esses dados antes de qualquer análise regulatória comparativa.
 
@@ -76,7 +82,13 @@ Foram identificados **4 registros** da Levofloxacina na base regulatória brasil
 **Decisão: Hold**
 
 **Justificativa:**
-O pipeline identificou 4 registros da Levofloxacina no mercado brasileiro, porém nenhuma predição TxGNN foi gerada e os dados regulatórios detalhados estão ausentes, tornando impossível conduzir uma avaliação de reposicionamento neste momento.
+O pipeline identificou 78 registros (38 válidos) da Levofloxacina no mercado brasileiro, porém nenhuma predição TxGNN foi gerada e os dados regulatórios detalhados estão ausentes, tornando impossível conduzir uma avaliação de reposicionamento neste momento.
+
+<!-- review:begin br-lic-20261112-levofloxacina-2 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “O pipeline identificou 4 registros” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 78 registros para este medicamento, 38 válidos e 40 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261112-levofloxacina-2 -->
 
 **Para prosseguir, é necessário:**
 - Resolver o mapeamento DrugBank (DrugBank ID ausente) para que o modelo TxGNN possa processar o fármaco corretamente — INN a usar na consulta: `levofloxacin`
@@ -93,7 +105,9 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “No entanto, os detalhes individuais de cada registro (número de registro ANVISA, nome comercial, forma farmacêutica e texto de indicação apr” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “No entanto, os detalhes individuais de cada registro (número de registro ANVISA, nome comercial, forma farmacêutica e texto de indicação apr” | Corrigido (revisado em 2026-11-12; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Registros: 4 → 78 (38 válidos) | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Registros: 4 → 78 (38 válidos) | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

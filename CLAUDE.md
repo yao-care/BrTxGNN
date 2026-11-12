@@ -523,3 +523,5 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
 - ganciclovir 頁的許可證表原本收了 4 筆 valganciclovir（另一個藥）的登記，用 2 筆 correct 紀錄刪掉（`br-lic-20261112-ganciclovir-*`）。
 - bedaquilina_fumarate：11-06 的刪句在「2.」處切斷、留下未閉合的粗體「**2.」；紀錄改成整項刪除，前版存在 history。
 `site_config.PROGRAM_LINE_RE` 排除程式產生的「A tabela mostra até 30 registros…」一行（轉紀錄與驗證時不當成正文）。
+- 2026-11-12 正文許可證張數對事實層掃描：28 頁 30 筆 correct 紀錄（`br-lic-20261112-*`）把 AI 正文依 10-31 前舊證據包（最多 20 筆）寫的市場事實張數改成事實層（例：metamizole「20 張全部有效」→496 張中 171 張有效、mirtazapine「20 張全部註銷」→36 張中 30 張有效）；錨在被更正句上的 6 筆舊紀錄改錨，前版存 history。
+  講證據包／流程的句子（「O Evidence Pack retornou N registros」、待辦「Recuperar os detalhes dos N registros」）與「pelo menos／lista parcial／5 de N」之類的顯示說明不改。

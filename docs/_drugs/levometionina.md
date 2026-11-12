@@ -38,9 +38,15 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 ## Resumo em Uma Frase
 
-LEVOMETIONINA (L-metionina) é um aminoácido essencial com registro ativo no Brasil, com 20 licenças vigentes.
+LEVOMETIONINA (L-metionina) é um aminoácido essencial com registro ativo no Brasil, com 10 licenças vigentes (de 46 registros).
 O modelo TxGNN **não gerou previsões de reposicionamento** para este fármaco na versão atual do pipeline,
 e há lacunas críticas de dados — incluindo indicação aprovada, mecanismo de ação e informações de segurança — que impedem a análise completa.
+
+<!-- review:begin br-lic-20261112-levometionina-1 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “com 20 licenças vigentes” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 46 registros para este medicamento, 10 válidos e 36 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261112-levometionina-1 -->
 
 ---
 
@@ -130,6 +136,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 |------|------|------|------|
 | 2026-11-06 | Removido: “O fármaco possui **20 registros ativos** no Brasil. No entanto, os detalhes individuais de cada registro (número de registro, nome comercial” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “**Verificar dados TFDA:** Investigar por que os 20 registros retornaram sem detalhes de produto (possível problema de parsing ou codificação” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Licenças vigentes: 20 → 10 (de 46) | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

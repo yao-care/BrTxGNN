@@ -38,9 +38,15 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 ## Resumo em Uma Frase
 
-Axitinibe é um fármaco registrado no Brasil com 2 licenças ativas na ANVISA, porém os dados de indicação original e mecanismo de ação não estão disponíveis neste Evidence Pack.
+Axitinibe é um fármaco registrado no Brasil com 2 licenças na ANVISA (1 ativa e 1 cancelada), porém os dados de indicação original e mecanismo de ação não estão disponíveis neste Evidence Pack.
 O modelo TxGNN **não gerou previsões de reposicionamento** para este fármaco com os dados atuais, tornando inviável a análise de novas indicações.
 Para avançar na avaliação, é necessário complementar os dados faltantes identificados em dois gaps críticos.
+
+<!-- review:begin br-lic-20261112-axitinibe-1 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “com 2 licenças ativas na ANVISA” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 2 registros para este medicamento, 1 válidos e 1 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261112-axitinibe-1 -->
 
 ---
 
@@ -119,6 +125,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | 2026-11-06 | Removido: “Foram identificados **2 registros ativos** de Axitinibe na ANVISA” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Os registros existem conforme confirmado pelo query TFDA (resultado: 2 licenças), mas os campos de detalhamento não foram retornados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “(fonte: TFDA/ANVISA, método: download e parse do PDF da bula)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Licenças ativas: 2 → 1 (de 2) | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

@@ -64,7 +64,13 @@ Qualquer associação seria especulativa, por exemplo um efeito indireto via col
 
 ## Informações de Comercialização no Brasil
 
-O medicamento está comercializado no Brasil: 5 dos 5 registros são válidos.
+O medicamento está comercializado no Brasil: 4 dos 6 registros são válidos.
+
+<!-- review:begin br-lic-20261112-caspofungin-1 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “5 dos 5 registros são válidos” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 6 registros para este medicamento, 4 válidos e 2 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261112-caspofungin-1 -->
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -121,6 +127,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 |------|------|------|------|
 | 2026-11-06 | Removido: “(5 de 5 registros válidos)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “já que não há registro válido no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Registros válidos: 5 de 5 → 4 de 6 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

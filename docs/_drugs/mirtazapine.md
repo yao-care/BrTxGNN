@@ -68,13 +68,19 @@ Outras previsões do modelo seguem a mesma lógica:
 
 ## Informações de Comercialização no Brasil
 
-Todos os 20 registros encontrados são de medicamentos de componente único e estão **cancelados**. Exibem-se os 5 primeiros.
+Os 36 registros são de medicamentos de componente único; 30 estão **válidos** e 6 cancelados. Exibem-se os 5 primeiros.
 
 <!-- review:begin br-lic-20261106-mirtazapine-1 -->
 
 > **Correção de verificação (2026-11-06)**: Texto original: “Todos os 20 registros encontrados são de medicamentos de componente único e estão **cancelados**; não há registro válido atualmente.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 36 registros para este medicamento, 30 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-mirtazapine-1 -->
+
+<!-- review:begin br-lic-20261112-mirtazapine-1 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Todos os 20 registros encontrados são de medicamentos de componente único e estão **cancelados**.” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 36 registros para este medicamento, 30 válidos e 6 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261112-mirtazapine-1 -->
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -157,9 +163,10 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “não há registro válido atualmente” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “não há registro válido atualmente” | Corrigido (revisado em 2026-11-12; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Além disso, o medicamento é comercializado no Brasil, com 20 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “dado que não há registro válido no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Registros: “todos os 20 cancelados” → 36 registros, 30 válidos | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

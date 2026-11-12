@@ -81,7 +81,13 @@ Na enxaqueca, a ropivacaína é aplicada de forma localizada em estruturas ligad
 
 ## Informações de Comercialização no Brasil
 
-Todos os 8 registros encontram-se **válidos**; o medicamento está comercializado.
+Dos 13 registros, 7 encontram-se **válidos**; o medicamento está comercializado.
+
+<!-- review:begin br-lic-20261112-ropivacaine-1 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Todos os 8 registros encontram-se **válidos**” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 13 registros para este medicamento, 7 válidos e 6 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261112-ropivacaine-1 -->
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -156,6 +162,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, embora o medicamento esteja comercializado, com 8 registros válidos de 8, faltam dados de bula e de mecanismo de ação” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Verificar a situação regulatória: não há registro válido no Brasil, o que exigiria novo registro ou comercialização por outra via” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Registros válidos: “todos os 8” → 7 de 13 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

@@ -64,7 +64,13 @@ Uma conexão indireta possível seria o suporte nutricional (enteral ou parenter
 
 ## Informações de Comercialização no Brasil
 
-Dos 17 registros encontrados, 17 estão válidos. São listados abaixo os 5 principais.
+Dos 33 registros, 15 estão válidos. São listados abaixo os 5 principais.
+
+<!-- review:begin br-lic-20261112-threonine-1 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Dos 17 registros encontrados, 17 estão válidos.” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 33 registros para este medicamento, 15 válidos e 18 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261112-threonine-1 -->
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -143,6 +149,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 |------|------|------|------|
 | 2026-11-06 | Removido: “O medicamento está comercializado no Brasil, com 17 registros válidos de 17” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “(medicamento comercializado, com 17 registros válidos de 17)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Registros válidos: 17 de 17 → 15 de 33 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

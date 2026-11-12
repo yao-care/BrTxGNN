@@ -70,7 +70,13 @@ Há, porém, ressalvas importantes: o único trabalho encontrado é um estudo ep
 
 ## Informações de Comercialização no Brasil
 
-Todos os 20 registros constam como válidos. Abaixo, os 5 principais:
+Dos 112 registros, 23 constam como válidos. Abaixo, os 5 principais:
+
+<!-- review:begin br-lic-20261112-sulfamethoxazole-1 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Todos os 20 registros constam como válidos.” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 112 registros para este medicamento, 23 válidos e 89 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261112-sulfamethoxazole-1 -->
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -142,6 +148,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, o medicamento é comercializado no Brasil, com 20 registros válidos, e não existe formulação ocular” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Registros válidos: “todos os 20” → 23 de 112 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

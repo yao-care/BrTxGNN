@@ -91,7 +91,13 @@ Para advertências e contraindicações, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão para hipertricose é apoiada apenas pelo modelo (L5), sem ensaios clínicos nem literatura, e não há vínculo mecanístico plausível. Além disso, os três registros no Brasil estão cancelados, o que limita a viabilidade regulatória imediata.
+A previsão para hipertricose é apoiada apenas pelo modelo (L5), sem ensaios clínicos nem literatura, e não há vínculo mecanístico plausível. Além disso, dos 4 registros no Brasil, 3 estão válidos e 1 cancelado.
+
+<!-- review:begin br-lic-20261112-ganirelix-1 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “os três registros no Brasil estão cancelados, o que limita a viabilidade regulatória imediata.” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 4 registros para este medicamento, 3 válidos e 1 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261112-ganirelix-1 -->
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA para advertências e contraindicações, hoje ausentes e que bloqueiam a triagem de segurança
@@ -99,6 +105,19 @@ A previsão para hipertricose é apoiada apenas pelo modelo (L5), sem ensaios cl
 - Realizar busca sistemática na literatura e em registros de ensaios para hipertricose e para as indicações endócrinas reprodutivas (especialmente puberdade precoce central)
 - Avaliar a situação regulatória e a disponibilidade de formas farmacêuticas, considerando que o medicamento é comercializado, com 3 registros válidos de 3
 - Considerar a priorização de indicações com maior plausibilidade biológica em vez da hipertricose
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-12 | Registros: “os três estão cancelados” → 4 registros, 3 válidos | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -85,7 +85,13 @@ A relação com a indicação original é indireta: o uso aprovado é nutriciona
 
 ## Informações de Comercialização no Brasil
 
-Foram encontrados 18 registros, e os 18 estão válidos; o medicamento é comercializado no Brasil. Principais registros (5 de 18):
+Foram encontrados 73 registros, dos quais 24 estão válidos; o medicamento é comercializado no Brasil. Principais registros (5 de 18):
+
+<!-- review:begin br-lic-20261112-arginine-1 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Foram encontrados 18 registros, e os 18 estão válidos” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 73 registros para este medicamento, 24 válidos e 49 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261112-arginine-1 -->
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -169,6 +175,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 |------|------|------|------|
 | 2026-11-06 | Removido: “(18 registros válidos de 18)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “dado que não há registro válido no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Registros: 18 (todos válidos) → 73 (24 válidos) | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 
