@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "HALOPERIDOL"
 predicted_indications: ["congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "syndromic myopia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "atypical glycine encephalopathy"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 description: "Haloperidol: nova indicação prevista, Doença congênita de glicosilação com fucosilação defeituosa (congenital disorder of glycosylation with defective fucosy… (nível de evidência L5). Indicação origi…"
 ---
 
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | Doença congênita de glicosilação com fucosilação defeituosa (congenital disorder of glycosylation with defective fucosylation) |
 | Pontuação de Previsão TxGNN | 0,9991 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 13 de 30) |
-| Número de Registros | 30 (ativos: 13) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 12 de 30) |
+| Número de Registros | 30 (ativos: 12) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

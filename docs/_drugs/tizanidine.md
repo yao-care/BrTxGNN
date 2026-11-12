@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 642
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-13
 monitor_inn: "Tizanidine"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "Tourette syndrome", "ulerythema ophryogenesis"]
 description: "Tizanidine: nova indicação prevista, Enxaqueca (migraine disorder) (nível de evidência L2). Indicação original: Não consta nos dados locais"
@@ -50,8 +50,8 @@ O nível de evidência é **L2**.
 | Nova Indicação Prevista | Enxaqueca (migraine disorder) |
 | Pontuação de Previsão TxGNN | 0.9979 |
 | Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 5) |
-| Número de Registros | 5 (ativos: 3) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 5) |
+| Número de Registros | 5 (ativos: 2) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 ## Por que Esta Previsão é Razoável?
@@ -87,7 +87,7 @@ Como o fármaco já é usado para reduzir o tônus muscular, é plausível que o
 |------|------|------|------|
 | 100470659 | SIRDALUD | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
 | 123520196 | CLORIDRATO DE TIZANIDINA | RANBAXY FARMACÊUTICA LTDA | Ativo |
-| 156490008 | CLORIDRATO DE TIZANIDINA | UNICHEM FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 156490008 | CLORIDRATO DE TIZANIDINA | UNICHEM FARMACÊUTICA DO BRASIL LTDA | Cancelado |
 | 100680055 | SIRDALUD | NOVARTIS BIOCIENCIAS S.A | Cancelado |
 | 103700746 | CLORIDRATO DE TIZANIDINA | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
 

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 572
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 description: "Rivastigmine: nova indicação prevista, Glaucoma (glaucoma) (nível de evidência L5). Indicação original: Outros produtos que atuam sobre o sistema nervoso"
 monitor_inn: "RIVASTIGMINE"
 predicted_indications: ["glaucoma"]
@@ -50,8 +50,8 @@ atualmente com **0 ensaios clínicos** e **3 publicações** (uma revisão, um e
 | Nova Indicação Prevista | Glaucoma (glaucoma) |
 | Pontuação de Previsão TxGNN | 0,9927 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 19 de 42) |
-| Número de Registros | 42 (ativos: 19) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 18 de 42) |
+| Número de Registros | 42 (ativos: 18) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -104,7 +104,7 @@ Dos 42 registros, 19 encontram-se válidos. Abaixo, os 5 principais:
 | 125760042 | HEMITARTARATO DE RIVASTIGMINA | UNITED MEDICAL LTDA | Ativo |
 | 135690644 | VASTIGMA | EMS SIGMA PHARMA LTDA | Ativo |
 | 143810266 | HEMITARTARATO DE RIVASTIGMINA | CIMED INDUSTRIA S.A | Ativo |
-| 154230245 | HIDROGENOTARTARATO DE RIVASTIGMINA | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 154230245 | HIDROGENOTARTARATO DE RIVASTIGMINA | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Cancelado |
 | 100470489 | HIDROGENOTARTARATO DE RIVASTIGMINA (PORT. 344/98 - LISTA C1) | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 | 100470509 | RIGMINA | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 | 100470631 | HEMITARTARATO DE RIVASTIGMINA | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Aztreonam"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "gonococcal urethritis", "Ureaplasma urethritis", "blood group incompatibility", "premalignant hematological system disease", "epiglottitis", "monoclonal gammopathy", "xanthogranulomatous pyelonephritis"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-13
 description: "Aztreonam: nova indicação prevista, Hiperamilasemia (hyperamylasemia) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | Hiperamilasemia (hyperamylasemia) |
 | Pontuação de Previsão TxGNN | 0,9973 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 12) |
-| Número de Registros | 12 (ativos: 3) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 12) |
+| Número de Registros | 12 (ativos: 2) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -76,7 +76,7 @@ Segundo os dados compilados, há registros válidos de aztreonam de agente únic
 |------|------|------|------|
 | 100630199 | AZANEM | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
 | 100630231 | AZTREONAM | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
-| 110110003 | AZEUS | NEWCOM FARMACEUTICA LTDA. | Ativo |
+| 110110003 | AZEUS | NEWCOM FARMACEUTICA LTDA. | Cancelado |
 | 100410178 | AZEUS | FRESENIUS KABI BRASIL LTDA | Cancelado |
 | 100430032 | AZTREONAM | EUROFARMA LABORATORIOS S.A. | Cancelado |
 | 100430704 | AZETRAM | EUROFARMA LABORATORIOS S.A. | Cancelado |

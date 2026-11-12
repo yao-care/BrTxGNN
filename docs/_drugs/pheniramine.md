@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 519
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 monitor_inn: "pheniramine"
 predicted_indications: ["nasal cavity disease"]
 description: "Pheniramine: nova indicação prevista, Nasal cavity disease (nível de evidência L5). Indicação original: DESCONGESTIONATES OFTALMICOS"
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **4 publicações** (nenhuma com ev
 | Nova Indicação Prevista | Nasal cavity disease |
 | Pontuação de Previsão TxGNN | 0.9928 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 7 de 7) |
-| Número de Registros | 7 (ativos: 7) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 6 de 7) |
+| Número de Registros | 7 (ativos: 6) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -85,7 +85,13 @@ Atualmente não há ensaios clínicos relacionados registrados.
 | Registro nº 155840212 | Clanistil | Não informada | Descongestionantes oftálmicos |
 | Registro nº 186200022 | Colírio Moura Brasil Aliv | Não informada | Descongestionantes oftálmicos |
 
-Todos os 7 registros encontrados estão válidos; a tabela lista apenas os 5 principais.
+Dos 7 registros encontrados, 6 estão válidos; a tabela lista apenas os 5 principais.
+
+<!-- review:begin br-lic-20261113-pheniramine-1 -->
+
+> **Correção de verificação (2026-11-13)**: Texto original: “Todos os 7 registros encontrados estão válidos;” Segundo os dados abertos da ANVISA (2026-11-13), o registro 186200022 passou a Inativo; 6 dos 7 registros estão ativos. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261113-pheniramine-1 -->
 
 ## Considerações de Segurança
 
@@ -105,8 +111,14 @@ Consulte a bula para as advertências e interações medicamentosas oficiais; n�
 **Decisão: Hold**
 
 **Justificativa:**
-- A pontuação do TxGNN é alta (0,9928), mas vem do modelo de deep learning e não constitui evidência biológica; não há ensaios clínicos nem literatura de eficácia (nível L4). O medicamento é comercializado no Brasil, com 7 registros válidos de 7.
+- A pontuação do TxGNN é alta (0,9928), mas vem do modelo de deep learning e não constitui evidência biológica; não há ensaios clínicos nem literatura de eficácia (nível L4). O medicamento é comercializado no Brasil, com 6 registros válidos de 7.
 - As demais previsões (doença da cavidade nasal e laringofaringite aguda) estão em L5, sem qualquer estudo, e também em Hold.
+
+<!-- review:begin br-lic-20261113-pheniramine-2 -->
+
+> **Correção de verificação (2026-11-13)**: Texto original: “com 7 registros válidos de 7” Segundo os dados abertos da ANVISA (2026-11-13), 6 dos 7 registros estão ativos (186200022 passou a Inativo). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261113-pheniramine-2 -->
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa bloqueante para a triagem de segurança.
@@ -130,6 +142,8 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “dado que não há registro válido no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-13 | Registros válidos: 7 → 6 de 7 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-13 | Registros válidos: 7 → 6 de 7 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

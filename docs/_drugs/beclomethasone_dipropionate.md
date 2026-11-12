@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 110
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-13
 description: "Beclomethasone Dipropionate: nova indicação prevista, Eczema atópico (atopic eczema) (nível de evidência L3). Indicação original: Antiasmáticos"
 monitor_inn: "BECLOMETHASONE DIPROPIONATE"
 predicted_indications: ["atopic eczema"]
@@ -50,8 +50,8 @@ atualmente com **0 ensaios clínicos** e **9 publicações** relacionadas, em su
 | Nova Indicação Prevista | Eczema atópico (atopic eczema) |
 | Pontuação de Previsão TxGNN | 0,9941 |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 13 de 13) |
-| Número de Registros | 13 (ativos: 13) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 12 de 13) |
+| Número de Registros | 13 (ativos: 12) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -82,7 +82,13 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Os 13 registros encontrados estão válidos (13 de 13); o medicamento é comercializado. Principais registros:
+Dos 13 registros encontrados, 12 estão válidos; o medicamento é comercializado. Principais registros:
+
+<!-- review:begin br-lic-20261113-beclomethasone_dipropionate-1 -->
+
+> **Correção de verificação (2026-11-13)**: Texto original: “Os 13 registros encontrados estão válidos (13 de 13)” Segundo os dados abertos da ANVISA (2026-11-13), o registro 110130296 passou a Inativo; 12 dos 13 registros estão ativos. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261113-beclomethasone_dipropionate-1 -->
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -108,7 +114,13 @@ As advertências e contraindicações da bula brasileira não estavam disponíve
 **Decisão: Hold**
 
 **Justificativa:**
-- Não há ensaios clínicos registrados e a literatura é majoritariamente indireta ou voltada à segurança. A indicação é uma extensão dentro da classe dos corticosteroides, e não reposicionamento inovador. Além disso, o medicamento é comercializado no Brasil, com 13 registros válidos (de 13), mas faltam dados de bula, o que impede a triagem de segurança.
+- Não há ensaios clínicos registrados e a literatura é majoritariamente indireta ou voltada à segurança. A indicação é uma extensão dentro da classe dos corticosteroides, e não reposicionamento inovador. Além disso, o medicamento é comercializado no Brasil, com 12 registros válidos (de 13), mas faltam dados de bula, o que impede a triagem de segurança.
+
+<!-- review:begin br-lic-20261113-beclomethasone_dipropionate-2 -->
+
+> **Correção de verificação (2026-11-13)**: Texto original: “com 13 registros válidos (de 13)” Segundo os dados abertos da ANVISA (2026-11-13), 12 dos 13 registros estão ativos (110130296 passou a Inativo). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261113-beclomethasone_dipropionate-2 -->
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações).
@@ -116,6 +128,20 @@ As advertências e contraindicações da bula brasileira não estavam disponíve
 - Esclarecer a situação regulatória: motivos dos cancelamentos e disponibilidade atual de formulações tópicas ou outras no mercado.
 - Buscar ensaios controlados que comparem a beclometasona com corticosteroides tópicos já estabelecidos no eczema atópico.
 - Avaliar o risco em crianças (supressão adrenal, crescimento) e a ressalva sobre a produção de IgE.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-13 | Registros válidos: 13 → 12 de 13 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-13 | Registros válidos: 13 → 12 de 13 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

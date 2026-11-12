@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 551
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 monitor_inn: "Procaine"
 predicted_indications: ["methemoglobinemia", "methemoglobinemia, alpha type", "Tourette syndrome", "anaphylaxis", "methemoglobin reductase deficiency", "hyperthyroidism", "fibromyalgia", "tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis"]
 description: "Procaine: nova indicação prevista, Metemoglobinemia (methemoglobinemia) (nível de evidência L4). Indicação original: ANESTESICOS LOCAIS"
@@ -49,8 +49,8 @@ O modelo TxGNN prevê, como principal candidata, a **metemoglobinemia (methemogl
 | Nova Indicação Prevista | Metemoglobinemia (methemoglobinemia) |
 | Pontuação de Previsão TxGNN | 0.9950 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 40) |
-| Número de Registros | 40 (ativos: 8) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 7 de 40) |
+| Número de Registros | 40 (ativos: 7) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -106,7 +106,7 @@ O medicamento é comercializado: dos 40 registros, 8 têm licença válida.
 | 103420050 | PASSAJÁ | FARMABRAZ BETA ATALAIA FARMACEUTICA LTDA. | Ativo |
 | 103700158 | BENZAPEN G | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
 | 105700050 | DORDENTE | HEARST LABORATÓRIOS DO BRASIL LTDA | Ativo |
-| 110110031 | WONILIN | NEWCOM FARMACEUTICA LTDA. | Ativo |
+| 110110031 | WONILIN | NEWCOM FARMACEUTICA LTDA. | Cancelado |
 | 110390113 | FURP-BENZILPENICILINA PROCAINA + BENZILPENICILINA POTASSICA | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Ativo |
 | 115600080 | AFTINE | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
 | 116370115 | PENKARON | BLAU FARMACÊUTICA S.A. | Ativo |

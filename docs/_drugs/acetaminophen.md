@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 18
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-13
 description: "Acetaminophen: usos conhecidos e situação de mercado no Brasil; atualmente nenhuma nova indicação candidata"
 predicted_indications: []
 ---
@@ -47,7 +47,7 @@ Os candidatos que o modelo TxGNN (pontuação ≥ 0,99) gerou para Acetaminophen
 | Novas indicações previstas | Nenhuma (todos os candidatos do modelo que puderam ser rastreados são usos conhecidos) |
 | Usos conhecidos entre os candidatos do modelo | 0 |
 | Nível de evidência | Não se aplica |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 13) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 12) |
 | Número de Registros | pelo menos 20 |
 
 ## Usos conhecidos entre os candidatos do modelo
@@ -79,7 +79,7 @@ Os candidatos que o modelo TxGNN (pontuação ≥ 0,99) gerou para Acetaminophen
 | 109630049 | PARACETAMOL |  | Cancelado |
 | 167250010 | PARACETAMOL |  | Ativo |
 | 147610028 | PARACETAMOL |  | Cancelado |
-| 118190187 | PARACETAMOL |  | Ativo |
+| 118190187 | PARACETAMOL |  | Cancelado |
 | 154230008 | PARACETAMOL |  | Ativo |
 | 100850148 | PARACETAMOL |  | Ativo |
 | 103110178 | PARACETAMOL |  | Ativo |

@@ -9053,6 +9053,46 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）"
   },
   {
+   "id": "br-lic-20261113-pheniramine-1",
+   "drug": "pheniramine",
+   "file": "pheniramine.md",
+   "action": "correct",
+   "claim": "Todos os 7 registros encontrados estão válidos;",
+   "replacement": "Dos 7 registros encontrados, 6 estão válidos;",
+   "summary": "Registros válidos: 7 → 6 de 7",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-13), o registro 186200022 passou a Inativo; 6 dos 7 registros estão ativos.",
+   "finding": "正文寫 7 張全有效；ANVISA 11-13：186200022 Ativo→Inativo",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-13"
+    }
+   ],
+   "checked": "2026-11-13",
+   "method": "2026-11-13 人工查核（每週排程停損頁，正文對 ANVISA 新事實）"
+  },
+  {
+   "id": "br-lic-20261113-pheniramine-2",
+   "drug": "pheniramine",
+   "file": "pheniramine.md",
+   "action": "correct",
+   "claim": "com 7 registros válidos de 7",
+   "replacement": "com 6 registros válidos de 7",
+   "summary": "Registros válidos: 7 → 6 de 7",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-13), 6 dos 7 registros estão ativos (186200022 passou a Inativo).",
+   "finding": "同上，下一步段落",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-13"
+    }
+   ],
+   "checked": "2026-11-13",
+   "method": "2026-11-13 人工查核（每週排程停損頁，正文對 ANVISA 新事實）"
+  },
+  {
    "id": "br-lic-20261106-phenobarbital-1",
    "drug": "phenobarbital",
    "file": "phenobarbital.md",
@@ -13908,6 +13948,86 @@
    ],
    "checked": "2026-11-12",
    "method": "2026-11-12 人工查核（顯示說明的總數對事實層與表格）"
+  },
+  {
+   "id": "br-lic-20261113-beclomethasone_dipropionate-1",
+   "drug": "beclomethasone_dipropionate",
+   "file": "beclomethasone_dipropionate.md",
+   "action": "correct",
+   "claim": "Os 13 registros encontrados estão válidos (13 de 13)",
+   "replacement": "Dos 13 registros encontrados, 12 estão válidos",
+   "summary": "Registros válidos: 13 → 12 de 13",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-13), o registro 110130296 passou a Inativo; 12 dos 13 registros estão ativos.",
+   "finding": "正文寫 13 張全有效；ANVISA 11-13：110130296 Ativo→Inativo，13 張中 12 有效",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-13"
+    }
+   ],
+   "checked": "2026-11-13",
+   "method": "2026-11-13 人工查核（每週排程停損頁，正文對 ANVISA 新事實）"
+  },
+  {
+   "id": "br-lic-20261113-beclomethasone_dipropionate-2",
+   "drug": "beclomethasone_dipropionate",
+   "file": "beclomethasone_dipropionate.md",
+   "action": "correct",
+   "claim": "com 13 registros válidos (de 13)",
+   "replacement": "com 12 registros válidos (de 13)",
+   "summary": "Registros válidos: 13 → 12 de 13",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-13), 12 dos 13 registros estão ativos (110130296 passou a Inativo).",
+   "finding": "同上，下一步段落的張數",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-13"
+    }
+   ],
+   "checked": "2026-11-13",
+   "method": "2026-11-13 人工查核（每週排程停損頁，正文對 ANVISA 新事實）"
+  },
+  {
+   "id": "br-lic-20261113-dexamethasone-1",
+   "drug": "dexamethasone",
+   "file": "dexamethasone.md",
+   "action": "correct",
+   "claim": "Foram identificados 85 registros válidos e 178 cancelados",
+   "replacement": "Foram identificados 83 registros válidos e 180 cancelados",
+   "summary": "Registros válidos: 85 → 83; cancelados: 178 → 180",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-13), dos 263 registros de dexametasona, 83 estão ativos e 180 inativos (100431384 e 109630046 passaram a Inativo).",
+   "finding": "正文張數照 11-13 事實層：263 張中有效 83、註銷 180",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-13"
+    }
+   ],
+   "checked": "2026-11-13",
+   "method": "2026-11-13 人工查核（每週排程停損頁，正文對 ANVISA 新事實）"
+  },
+  {
+   "id": "br-lic-20261113-dexamethasone-2",
+   "drug": "dexamethasone",
+   "file": "dexamethasone.md",
+   "action": "correct",
+   "claim": "| 100431384 | KOIDEXA | EUROFARMA LABORATORIOS S.A. | Ativo |",
+   "replacement": "| 100431384 | KOIDEXA | EUROFARMA LABORATORIOS S.A. | Cancelado |",
+   "summary": "Tabela: o registro 100431384 (KOIDEXA) está inativo",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-13), o registro 100431384 (KOIDEXA) passou a Inativo.",
+   "finding": "表格列 100431384（KOIDEXA）寫 Ativo；ANVISA 11-13 Ativo→Inativo，照站上表格寫法改 Cancelado",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-13"
+    }
+   ],
+   "checked": "2026-11-13",
+   "method": "2026-11-13 人工查核（每週排程停損頁，正文對 ANVISA 新事實）"
   }
  ]
 }

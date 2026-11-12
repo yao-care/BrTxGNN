@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Lidocaine"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "papillary conjunctivitis", "rosacea conjunctivitis", "exposure keratitis", "atopic conjunctivitis", "conjunctival disorder", "nephrotic syndrome", "non-human animal disease", "tinea corporis", "sporadic idiopathic steroid-resistant nephrotic syndrome"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 description: "Lidocaine: nova indicação prevista, Ceratoconjuntivite epitelial punctata (nível de evidência L5). Indicação original: Anestésicos locais"
 ---
 
@@ -51,8 +51,8 @@ O modelo TxGNN prevê que pode ser eficaz para **ceratoconjuntivite epitelial pu
 | Nova Indicação Prevista | Ceratoconjuntivite epitelial punctata |
 | Pontuação de Previsão TxGNN | 0,9999 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 55 de 182) |
-| Número de Registros | 182 (ativos: 55) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 54 de 182) |
+| Número de Registros | 182 (ativos: 54) |
 | Decisão Recomendada | Hold |
 
 ---

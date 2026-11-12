@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 364
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-13
 monitor_inn: "imipenem"
 predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "sinusitis", "chronic rhinosinusitis", "typhoid fever", "chronic ethmoidal sinusitis", "paranasal sinus neoplasm (disease)", "eosinophilia-myalgia syndrome"]
 description: "Imipenem: nova indicação prevista, Esclerodermia difusa (diffuse scleroderma) (nível de evidência L5). Indicação original: Não consta nos dados locais"
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **Esclerodermia difusa (diffuse s
 | Nova Indicação Prevista | Esclerodermia difusa (diffuse scleroderma) |
 | Pontuação de Previsão TxGNN | 0.9999 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 9 de 21) |
-| Número de Registros | 21 (ativos: 9) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 21) |
+| Número de Registros | 21 (ativos: 8) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -70,7 +70,7 @@ Entre os registros válidos de produtos com imipenem (em associação com cilast
 | 101710236 | RECARBRIO | MERCK SHARP & DOHME FARMACEUTICA LTDA. | Ativo |
 | 102010053 | PENEXIL | QUIMICA HALLER LTDA | Ativo |
 | 104970228 | IMICIL | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
-| 110110037 | IMIPENEM + CILASTATINA SÓDICA | NEWCOM FARMACEUTICA LTDA. | Ativo |
+| 110110037 | IMIPENEM + CILASTATINA SÓDICA | NEWCOM FARMACEUTICA LTDA. | Cancelado |
 | 123520204 | IMIPENEM + CILASTATINA SÓDICA | RANBAXY FARMACÊUTICA LTDA | Ativo |
 | 137040002 | IMIPENEM + CILASTATINA SÓDICA | MIDFARMA PRODUTOS FARMACEUTICOS LTDA | Ativo |
 | 155620013 | IMIPENEM + CILASTATINA | ANTIBIÓTICOS DO BRASIL LTDA | Ativo |

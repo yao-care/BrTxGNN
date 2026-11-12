@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 486
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 monitor_inn: "OMEPRAZOLE"
 predicted_indications: ["duodenal obstruction"]
 description: "Omeprazole: nova indicação prevista, Duodenal obstruction (nível de evidência L5). Indicação original: Não consta nos dados locais"
@@ -50,8 +50,8 @@ mas atualmente há apenas **1 ensaio clínico** (sem relação direta com o trat
 | Nova Indicação Prevista | Duodenal obstruction |
 | Pontuação de Previsão TxGNN | 0.9964 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 40 de 128) |
-| Número de Registros | 128 (ativos: 40) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 39 de 128) |
+| Número de Registros | 128 (ativos: 39) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

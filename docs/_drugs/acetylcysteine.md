@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 22
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 description: "Acetylcysteine: nova indicação prevista, Doença trombótica (thrombotic disease) (nível de evidência L2). Indicação original: Expectorantes balsâmicos e mucolítico"
 monitor_inn: "Acetylcysteine"
 predicted_indications: ["thrombotic disease", "closed-angle glaucoma", "nasal cavity disease", "dry eye syndrome", "pharyngitis", "acute laryngopharyngitis", "tracheal disease", "transient ischemic attack (disease)", "laryngotracheitis", "angle-closure glaucoma"]
@@ -50,8 +50,8 @@ atualmente com **7 ensaios clínicos** e **20 publicações** apoiando esta dire
 | Nova Indicação Prevista | Doença trombótica (thrombotic disease) |
 | Pontuação de Previsão TxGNN | 0,9996 |
 | Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 33 de 68) |
-| Número de Registros | 68 (ativos: 33) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 32 de 68) |
+| Número de Registros | 68 (ativos: 32) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 ## Por que Esta Previsão é Razoável?
@@ -121,7 +121,7 @@ O medicamento está comercializado. Principais registros:
 | 105830972 | ACETILCISTEÍNA | GERMED FARMACEUTICA LTDA | Ativo |
 | 115600206 | PULMONARE | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
 | 115600232 | ACETILCISTEÍNA | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
-| 116370073 | ACETILCISTEÍNA | BLAU FARMACÊUTICA S.A. | Ativo |
+| 116370073 | ACETILCISTEÍNA | BLAU FARMACÊUTICA S.A. | Cancelado |
 | 116370122 | BROMUC | BLAU FARMACÊUTICA S.A. | Ativo |
 | 125680100 | ACETILCISTEÍNA | PRATI DONADUZZI & CIA LTDA | Ativo |
 | 125680127 | ACETILCISTEÍNA | PRATI DONADUZZI & CIA LTDA | Ativo |

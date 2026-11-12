@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 465
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 description: "Mometasone: nova indicação prevista, Linfoma cutâneo primário de células T (primary cutaneous T-cell lymph… (nível de evidência L5). Indicação original: Produtos para terapia nasal de ação específica"
 monitor_inn: "Mometasone"
 predicted_indications: ["primary cutaneous T-cell lymphoma"]
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e apenas **2 publicações** (ambos r
 | Nova Indicação Prevista | Linfoma cutâneo primário de células T (primary cutaneous T-cell lymphoma) |
 | Pontuação de Previsão TxGNN | 0,9936 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 28 de 58) |
-| Número de Registros | 58 (ativos: 28) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 26 de 58) |
+| Número de Registros | 58 (ativos: 26) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -93,8 +93,8 @@ O medicamento é comercializado no Brasil: dos 58 registros, 28 estão vigentes.
 | 102350791 | FUROATO DE MOMETASONA | EMS S/A | Ativo |
 | 102351472 | FUROATO DE MOMETASONA | EMS S/A | Ativo |
 | 102351479 | ATOF | EMS S/A | Ativo |
-| 105730631 | FUROATO DE MOMETASONA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
-| 105730664 | FUROATO DE MOMETASONA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730631 | FUROATO DE MOMETASONA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Cancelado |
+| 105730664 | FUROATO DE MOMETASONA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Cancelado |
 | 105830485 | FUROATO DE MOMETASONA | GERMED FARMACEUTICA LTDA | Ativo |
 | 105831053 | FUROATO DE MOMETASONA | GERMED FARMACEUTICA LTDA | Ativo |
 | 105831069 | FUROATO DE MOMETASONA | GERMED FARMACEUTICA LTDA | Ativo |

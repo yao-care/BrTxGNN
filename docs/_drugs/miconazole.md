@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 457
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 description: "Miconazole: nova indicação prevista, Acne (acne vulgaris) (nível de evidência L4). Indicação original: Antimicótico"
 monitor_inn: "Miconazole"
 predicted_indications: ["acne (disease)"]
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **acne (acne vulgaris)**, mas atu
 | Nova Indicação Prevista | Acne (acne vulgaris) |
 | Pontuação de Previsão TxGNN | 0,9954 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 15 de 131) |
-| Número de Registros | 131 (ativos: 15) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 14 de 131) |
+| Número de Registros | 131 (ativos: 14) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -96,7 +96,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 | 154230112 | GINO-COLON | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
 | 154230115 | TINIDAZOL + NITRATO DE MICONAZOL | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
 | 156510132 | METRONIDAZOL + NITRATO DE MICONAZOL | ZYDUS NIKKHO FARMACÊUTICA LTDA | Ativo |
-| 157211207 | DAKTARIN GEL ORAL | KENVUE LTDA. | Ativo |
+| 157211207 | DAKTARIN GEL ORAL | KENVUE LTDA. | Cancelado |
 | 178170068 | TINIDAZOL + NITRATO DE MICONAZOL | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Ativo |
 | 178170806 | AMPLIUM G | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Ativo |
 | 100920060 | MICOTICS | LABORATORIO INDUSTRIAL FARMACÊUTICO LIFAR LTDA | Cancelado |

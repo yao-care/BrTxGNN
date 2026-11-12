@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 259
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-13
 monitor_inn: "Dexamethasone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "prolapse of lacrimal gland"]
 description: "Dexamethasone: nova indicação prevista, Alopecia mucinosa (nível de evidência L5). Indicação original: Não consta nos dados locais"
@@ -48,8 +48,8 @@ Dexametasona é um glicocorticoide com ampla utilização clínica. O modelo TxG
 | Nova Indicação Prevista | Alopecia mucinosa |
 | Pontuação de Previsão TxGNN | 0.9999 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 85 de 263) |
-| Número de Registros | 263 (ativos: 85) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 83 de 263) |
+| Número de Registros | 263 (ativos: 83) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -68,14 +68,20 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-Há registros válidos no Brasil, e o medicamento consta como comercializado. Foram identificados 85 registros válidos e 178 cancelados, dentro do total de 263 registros. Principais registros:
+Há registros válidos no Brasil, e o medicamento consta como comercializado. Foram identificados 83 registros válidos e 180 cancelados, dentro do total de 263 registros. Principais registros:
+
+<!-- review:begin br-lic-20261113-dexamethasone-1 -->
+
+> **Correção de verificação (2026-11-13)**: Texto original: “Foram identificados 85 registros válidos e 178 cancelados” Segundo os dados abertos da ANVISA (2026-11-13), dos 263 registros de dexametasona, 83 estão ativos e 180 inativos (100431384 e 109630046 passaram a Inativo). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261113-dexamethasone-1 -->
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100431331 | FOSFATO DISSÓDICO DE DEXAMETASONA | EUROFARMA LABORATORIOS S.A. | Ativo |
 | 100431339 | CLORIDRATO DE TIAMINA + CLORIDRATO DE PIRIDOXINA + CIANOCOBA | EUROFARMA LABORATORIOS S.A. | Ativo |
 | 100431346 | DEXALGEN NF | EUROFARMA LABORATORIOS S.A. | Ativo |
-| 100431384 | KOIDEXA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431384 | KOIDEXA | EUROFARMA LABORATORIOS S.A. | Cancelado |
 | 100431464 | CITOBÊ-DEXA | EUROFARMA LABORATORIOS S.A. | Ativo |
 | 100681086 | CILODEX | NOVARTIS BIOCIENCIAS S.A | Ativo |
 | 100681097 | MAXIDEX | NOVARTIS BIOCIENCIAS S.A | Ativo |
@@ -103,6 +109,12 @@ Há registros válidos no Brasil, e o medicamento consta como comercializado. Fo
 | 104970139 | UNIDEXA | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
 | 104971305 | TOBRACORT | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
 
+<!-- review:begin br-lic-20261113-dexamethasone-2 -->
+
+> **Correção de verificação (2026-11-13)**: Texto original: “100431384 / KOIDEXA / EUROFARMA LABORATORIOS S.A. / Ativo” Segundo os dados abertos da ANVISA (2026-11-13), o registro 100431384 (KOIDEXA) passou a Inativo. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261113-dexamethasone-2 -->
+
 ## Considerações de Segurança
 
 - **Interações Medicamentosas** (100 interações registradas; exemplos): 
@@ -123,6 +135,19 @@ Para advertências e contraindicações, consulte a bula.
 - Revisão de literatura dirigida sobre glicocorticoides na mucinose folicular, incluindo séries e relatos de caso.
 - Dados de mecanismo de ação da dexametasona e análise de compatibilidade de via de administração (sistêmica, tópica ou intralesional).
 - Advertências e contraindicações extraídas das bulas da ANVISA para a avaliação de segurança.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-13 | Registros válidos: 85 → 83; cancelados: 178 → 180 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-13 | Tabela: o registro 100431384 (KOIDEXA) está inativo | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 483
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 description: "Ofloxacin: nova indicação prevista, Polyclonal hyperviscosity syndrome (síndrome de hiperviscosidade poli… (nível de evidência L5). Indicação original: Antiinfecciosos"
 monitor_inn: "ofloxacin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder", "punctate epithelial keratoconjunctivitis"]
@@ -50,8 +50,8 @@ Entre as 10 previsões analisadas, a mais bem sustentada por dados é a **peste 
 | Nova Indicação Prevista | Polyclonal hyperviscosity syndrome (síndrome de hiperviscosidade policlonal) |
 | Pontuação de Previsão TxGNN | 0,9991 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 6 de 30) |
-| Número de Registros | 30 (ativos: 6) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 30) |
+| Número de Registros | 30 (ativos: 5) |
 | Decisão Recomendada | Hold |
 
 > Observação: as 10 previsões têm pontuações muito próximas (0,9957 a 0,9991), então a posição no ranking do modelo não distingue bem a plausibilidade biológica. A pontuação da previsão de maior valor vem do modelo TxGNN (aprendizado profundo) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica. A tabela abaixo resume as demais previsões.
@@ -119,7 +119,7 @@ O medicamento é comercializado no Brasil.
 | 102980492 | NOSTIL | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
 | 107150097 | FLOXINA | CAZI QUIMICA FARMACEUTICA INDUSTRIA E COMERCIO LTD | Ativo |
 | 126250061 | LFM - OFLOXACINO | LABORATÓRIO FARMACÊUTICO DA MARINHA | Ativo |
-| 167730555 | OFLOXALIS | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 167730555 | OFLOXALIS | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 | 100230246 | OFLOXACINO | ALCON LABORATÓRIOS DO BRASIL LTDA. | Cancelado |
 | 102700116 | OXITOPENA | ARISTON INDS QUIMS FTCAS LTDA | Cancelado |
 | 103700384 | OFLOXACINO | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |

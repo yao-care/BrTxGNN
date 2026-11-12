@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 201
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-13
 description: "Cefaclor: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
 predicted_indications: []
 ---
@@ -47,8 +47,8 @@ O modelo TxGNN não produziu nenhum candidato com pontuação igual ou superior 
 | Novas indicações previstas | Nenhuma (nenhum candidato do modelo atingiu pontuação de 0,99 ou mais) |
 | Usos conhecidos registrados para este medicamento | 10 |
 | Nível de evidência | Não aplicável |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 28) |
-| Número de Registros | 28 (ativos: 3) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 28) |
+| Número de Registros | 28 (ativos: 2) |
 
 ## Usos conhecidos registrados para este medicamento
 

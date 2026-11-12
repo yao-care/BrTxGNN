@@ -5,7 +5,7 @@ layout: default
 title: Acetonida De Triamcinolone
 parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 21
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-13
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -42,7 +42,7 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 | Item | Conteúdo |
 |------|------|
 | Indicação Original | GLICOCORTICOIDES TOPICOS - ASSOCIACAO MEDICAMENTOSA; GLICOCORTICOIDES TOP. SIMP. EXC. USO OFTALM.; GLICOCORTICOIDES SISTEMICOS; OUTROS MEDICAMENTOS COM ACAO NO APARELHO VISUAL; ANTINFECCIOSOS TOPICOS-ASSOCIACOES MEDICAMENTOSAS |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 19) |
 | Número de Registros | pelo menos 20 |
 
 ---

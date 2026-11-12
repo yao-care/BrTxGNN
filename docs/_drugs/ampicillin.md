@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 65
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-13
 monitor_inn: "Ampicillin"
 predicted_indications: ["laryngitis", "Ureaplasma urethritis", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "gingivitis", "paranasal sinus neoplasm (disease)", "bacterial arthritis", "conjunctivitis", "pericoronitis"]
 description: "Ampicillin: nova indicação prevista, laringite (laryngitis) (nível de evidência L5). Indicação original: Não consta nos dados locais"
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **laringite (laryngitis)**, mas o
 | Nova Indicação Prevista | laringite (laryngitis) |
 | Pontuação de Previsão TxGNN | 0.9997 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 18 de 125) |
-| Número de Registros | 125 (ativos: 18) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 17 de 125) |
+| Número de Registros | 125 (ativos: 17) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -92,7 +92,7 @@ Há registros válidos na ANVISA, conforme os dados compilados (18 válidos e 10
 | 103700299 | AMPICILINA SÓDICA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
 | 103700793 | ULCTAM | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
 | 110110013 | AMPICILINA SÓDICA + SULBACTAM SÓDICO | NEWCOM FARMACEUTICA LTDA. | Ativo |
-| 110110059 | AMPLATIL | NEWCOM FARMACEUTICA LTDA. | Ativo |
+| 110110059 | AMPLATIL | NEWCOM FARMACEUTICA LTDA. | Cancelado |
 | 116370098 | CILINON | BLAU FARMACÊUTICA S.A. | Ativo |
 | 116370186 | AMPICILINA SÓDICA + SULBACTAM SÓDICO | BLAU FARMACÊUTICA S.A. | Ativo |
 | 116370202 | AMPCTAN | BLAU FARMACÊUTICA S.A. | Ativo |

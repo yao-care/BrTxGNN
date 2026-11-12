@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 569
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 description: "Risperidone: nova indicação prevista, Paralisia do olhar horizontal familiar com escoliose progressiva (gaz… (nível de evidência L5). Indicação original: Neurolépticos (antipsicótico)"
 monitor_inn: "RISPERIDONE"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania"]
@@ -50,8 +50,8 @@ Atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta dire�
 | Nova Indicação Prevista | Paralisia do olhar horizontal familiar com escoliose progressiva (gaze palsy, familial horizontal, with progressive scoliosis) |
 | Pontuação de Previsão TxGNN | 0,9976 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 27 de 54) |
-| Número de Registros | 54 (ativos: 27) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 28 de 54) |
+| Número de Registros | 54 (ativos: 28) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

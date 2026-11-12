@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 559
 evidence_level: L3
 indication_count: 6
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 monitor_inn: "Ranitidine"
 predicted_indications: ["peptic ulcer perforation", "duodenal obstruction", "gastroduodenitis", "Smouldering systemic mastocytosis", "abnormality of glucagon secretion", "lymphoadenopathic mastocytosis with eosinophilia"]
 description: "Ranitidine: nova indicação prevista, Peptic ulcer perforation (nível de evidência L3). Indicação original: ANTIULCEROSOS"
@@ -50,8 +50,8 @@ Atualmente há **0 ensaios clínicos** vinculados a esta indicação e **20 publ
 | Nova Indicação Prevista | Peptic ulcer perforation |
 | Pontuação de Previsão TxGNN | 0.9988 |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 16 de 140) |
-| Número de Registros | 140 (ativos: 16) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 15 de 140) |
+| Número de Registros | 140 (ativos: 15) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -108,7 +108,7 @@ Principais registros:
 | 105730437 | LABEL GOTAS | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
 | 105730573 | CLORIDRATO DE RANITIDINA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
 | 108840309 | IQUEGO - RANITIDINA | INDÚSTRIA QUÍMICA DO ESTADO DE GOIÁS S/A - IQUEGO | Ativo |
-| 110110055 | CLORIDRATO DE RANITIDINA | NEWCOM FARMACEUTICA LTDA. | Ativo |
+| 110110055 | CLORIDRATO DE RANITIDINA | NEWCOM FARMACEUTICA LTDA. | Cancelado |
 | 110390210 | CLORIDRATO DE RANITIDINA | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Ativo |
 | 110850025 | CLORIDRATO DE RANITIDINA | FARMACE INDÚSTRIA QUÍMICO-FARMACÊUTICA CEARENSE LT | Ativo |
 | 113430140 | CLORIDRATO DE RANITIDINA | HIPOLABOR FARMACEUTICA LTDA | Ativo |

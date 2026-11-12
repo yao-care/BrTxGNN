@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Mebendazole"
 predicted_indications: ["acne (disease)"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 description: "Mebendazole: nova indicação prevista, Acne (acne (disease)) (nível de evidência L5). Indicação original: ANTI-HELMINTICOS DO TRATO GASTRINTESTINAL"
 ---
 
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **Acne (acne (disease))**, mas h�
 | Nova Indicação Prevista | Acne (acne (disease)) |
 | Pontuação de Previsão TxGNN | 0,9920 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 10 de 121) |
-| Número de Registros | 121 (ativos: 10) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 9 de 121) |
+| Número de Registros | 121 (ativos: 9) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -91,7 +91,7 @@ Segundo os dados compilados, o status de comercialização é "Comercializado".
 | 109630041 | MENTELMIN | THEODORO F SOBRAL & CIA LTDA | Ativo |
 | 138410036 | HELMILAB | NATULAB LABORATORIO S.A | Ativo |
 | 154230030 | MENBEL | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
-| 154230069 | MEBENDAZOL | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 154230069 | MEBENDAZOL | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Cancelado |
 | 154230210 | MEBENDAZOL | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
 | 100020104 | ASCARIOBEL | LABORATORIO SEDABEL LTDA | Cancelado |
 | 100380019 | HELMIN | BRASTERAPICA PHARMACEUTICA LTDA. | Cancelado |

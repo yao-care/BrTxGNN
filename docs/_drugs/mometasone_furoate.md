@@ -6,7 +6,7 @@ nav_exclude: true
 title: MOMETASONE FUROATE
 drugbank_id: DB14512
 permalink: /drugs/mometasone_furoate/
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-13
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -18,8 +18,8 @@ evidence_level: N/A
 
 | Item | Conteúdo |
 |------|----------|
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 16 de 18) |
-| Número de Registros | 18 (ativos: 16) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 14 de 18) |
+| Número de Registros | 18 (ativos: 14) |
 | DrugBank ID | [DB14512](https://go.drugbank.com/drugs/DB14512) |
 | Novas indicações previstas | Nenhuma |
 
