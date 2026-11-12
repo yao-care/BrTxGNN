@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Azithromycin. 10 indicações previstas."
 permalink: /news/azithromycin/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-12
 ---
 
 # Notícias sobre Azithromycin
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Azithromycin?">
-<strong>Azithromycin</strong> tem atualmente <strong>43 notícias</strong> e 10 indicações previstas.
+<strong>Azithromycin</strong> tem atualmente <strong>44 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ Esta página combina as indicações previstas por IA para Azithromycin com as n
 <p><a href="{{ '/drugs/azithromycin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (43)
+## Notícias relacionadas (44)
+
+### [Estudo: 56% dos brasileiros não sabem se prevenir contra câncer de próstata - CNN Brasil](https://news.google.com/rss/articles/CBMirgFBVV95cUxObXV2WjRwZmxzVjk2WDFfakhMbEp6SGhFWU9DY25UMnVkYWxIWmg4T055cndZWW1zbW5jR090NzJtN1RVX0dWOUhIUG16eDhPZTZpNlNkQVA2WjBNNUdnNi1USk9HQUJ6NG1lRFB4QWJkNnJZc2tGY0tvemw0THZJYUdMNERValFDSTZMakRYekhCejZYWkQtQk9rMmVHRnhYNS1QOXdtSjVJYjctLVE?oc=5)
+
+2026-11-11 <span class="news-indication-tag">câncer</span>
+
+Fonte: [CNN Brasil](https://news.google.com/rss/articles/CBMirgFBVV95cUxObXV2WjRwZmxzVjk2WDFfakhMbEp6SGhFWU9DY25UMnVkYWxIWmg4T055cndZWW1zbW5jR090NzJtN1RVX0dWOUhIUG16eDhPZTZpNlNkQVA2WjBNNUdnNi1USk9HQUJ6NG1lRFB4QWJkNnJZc2tGY0tvemw0THZJYUdMNERValFDSTZMakRYekhCejZYWkQtQk9rMmVHRnhYNS1QOXdtSjVJYjctLVE?oc=5)
+
+---
 
 ### [Cientista alagoano cria fórmula que pode ajudar em pesquisas contra o câncer de próstata](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLUZYYTV6T21KeTFMbGd2aWlDZGE0TlZyUGtYN0JpVE5xUUpfTk4za2RLNVN3QWJzbnByb1I4S1RZUV9YM180ang2SXdOUEZsMXF1a2FVNFZVMTJBUTJMZFZWTVVXSlZsdWFBc2c0MGpkeVc0cmRqaElqT2pCR21FZWQ5NFlud2F4WEprazF3b0dBRG5EcEFod1hNci1aLTN4QWVMUmVlREpNa1E0STdaanFwR2swMERTX2xmcFlrWmVxcXfSAb4BQVVfeXFMT2NXM0VWbEZmSm1kdm1MQ081WlF0N2R1ZjNJUXpDZVpveHM2bDhMaVZkdjFnVUhPOGFQZTRpanRTMkxKQV9hZzc3b0h1dUJvQW1HcXFwVUVsNGFpVDNjU1dsbkk0RVViVGxvUE9sV3pualJHSllKYkRUb3UtemozT09mUHA2WFowQkFxMmNnREtrTWJISXlYN21iQUFlaUwxWTZwdENDc2hTaDVNaGFxSzh4a05wUVZqRm12amU4dw?oc=5)
 

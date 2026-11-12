@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com GLUTAMIC ACID. 0 indicações previstas."
 permalink: /news/glutamic_acid/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-12
 ---
 
 # Notícias sobre GLUTAMIC ACID
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre GLUTAMIC ACID?">
-<strong>GLUTAMIC ACID</strong> tem atualmente <strong>5 notícias</strong> e 0 indicações previstas.
+<strong>GLUTAMIC ACID</strong> tem atualmente <strong>6 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ Esta página combina as indicações previstas por IA para GLUTAMIC ACID com as 
 <p><a href="{{ '/drugs/glutamic-acid/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (5)
+## Notícias relacionadas (6)
+
+### ['Dois terços dos casos de Alzheimer são em mulheres', alerta neurocientista](https://news.google.com/rss/articles/CBMiugFBVV95cUxPaTdhUFViazlydVhtdmZ5WUp1TktwOGgxWGdTX3FqNUZ0Qmtlck5IdjlBbkt4OUdVQUtiVHJMTnR6V3J0Mi1DOE9YMUxMNTc3OVlaczA0RW82VEpxOXN3elRGUm83X0otWC1VRWJiMWg4Sk43cTRfZWJJQVBVc1h1bUV0aHdxb1QzMU9DekNrY0ZKVGphbVJkY25NU3p0blludm9QMmh1akZLTk9FZ29teENidDN0SHg3Snc?oc=5)
+
+2026-11-11 <span class="news-indication-tag">demência</span> <span class="news-indication-tag">menopausa</span>
+
+Fonte: [UOL](https://news.google.com/rss/articles/CBMiugFBVV95cUxPaTdhUFViazlydVhtdmZ5WUp1TktwOGgxWGdTX3FqNUZ0Qmtlck5IdjlBbkt4OUdVQUtiVHJMTnR6V3J0Mi1DOE9YMUxMNTc3OVlaczA0RW82VEpxOXN3elRGUm83X0otWC1VRWJiMWg4Sk43cTRfZWJJQVBVc1h1bUV0aHdxb1QzMU9DekNrY0ZKVGphbVJkY25NU3p0blludm9QMmh1akZLTk9FZ29teENidDN0SHg3Snc?oc=5)
+
+---
 
 ### [‘Envelhecer não é fracasso’: Autoridade em menopausa nos EUA desfaz mitos sobre reposição hormonal](https://news.google.com/rss/articles/CBMisAJBVV95cUxNNEZMVk0xbnNKSFY2bE4tSG5rNk9JaWVDdlZpZGlBOG1Ca3lSdy02bmtGTHlxN0VQRWNJTTctNWtnbDZ6dDN2SWJ3c2VHZnNMdUExT2VIN2NvMlVaU2hqMDhsRmp4d256WUVDcldTZENYa1k4T0JtZEQ3andHSjltcXUzSERRVGZpZmJKSng5bHAxcVB0a2FRTFA5MnZzWW1TM1ZiUWRaUzhxa0tfazhsQ1kya3BlQ1BaZVBLSXFfR2dIcHlMQ09maU1USmNKYzk4MVJPcU5YdnFkRTBRQ3FNYmFCalUwRE1SVjVmWFU4UDRUc1U3Njg2cVRJOEdtUmttYVpDVHFqNllyWTljb09PdkdwT3ItV1ViUE1nVmM0WEt2TjFVbjhMbDB2bnp5SjFt0gG_AkFVX3lxTE1OVU1WMURzM2ZiLTNBZFpEcXJyUmRFWlN0a2xVUi1hNnRVbEsxajV2VzRhNTZMNTNhQWUwY2ZGY1JYQkRmUkp3d3g5emJMTkdueHBJX0owWjJtaGN2U2M3SzBwaVFTV3BSLTNwbVk2OGF6Vi1MOGlSSmZrTDkyQldGcTVqbmhFcnBkRGZZa3NzYk55V1UycEp6NjBwUUlWSjQydDVJZlR4WFlndzBWZkNESGozdjRBbUpWanhFZ3VZN3F6NDV3enZHQ2Z3b1JpdjJsakdJSDBiSFNvU1QtbFFOVW1YYk1YdXBudHF5WnA3M0ZZelBIOGhySGMyUjhyeEhWUDExNVhEOGJuWVlHbEVtaUl4YV83cF8wc1BhdDJ5SjQ0UXVPNE1kMWVjbTVBdzBxNEVsQVFobWYzVzFXcWc?oc=5)
 

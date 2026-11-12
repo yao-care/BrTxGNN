@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Ganciclovir. 0 indicações previstas."
 permalink: /news/ganciclovir/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-12
 ---
 
 # Notícias sobre Ganciclovir
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Ganciclovir?">
-<strong>Ganciclovir</strong> tem atualmente <strong>1 notícias</strong> e 0 indicações previstas.
+<strong>Ganciclovir</strong> tem atualmente <strong>2 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ Esta página combina as indicações previstas por IA para Ganciclovir com as no
 <p><a href="{{ '/drugs/ganciclovir/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (1)
+## Notícias relacionadas (2)
+
+### [Vacina contra pneumonia não foi liberada para pessoas acima de 58 anos; veja quem pode tomar - Tribuna do Norte](https://news.google.com/rss/articles/CBMixwFBVV95cUxNeGhPcm1UMHNLNzVMQWNsX1dCNEFNSjVPOEhLNnAyRnBoaFR0QUFXMGgxSG11MkxwckdjUW9TenlNVnlDNUgza182ZjdhWXR4VFZPaFhVNy1LQ1MyeDRrZ3FRUDJubTRhdzFGYzFEY0Y4TVpPalQtVWMtOEFWTld0SEhTVGxCVGJuMjQ1Rm9sOXlFZnVUdUYtNVdKYW1ad1hNS2otckpNX1RrNENkT3phV1M4YXU3NllQZVJ6LTNYWW14TXdGYTA4?oc=5)
+
+2026-11-11 <span class="news-indication-tag">pneumonia</span> <span class="news-indication-tag">pneumonia</span>
+
+Fonte: [Tribuna do Norte](https://news.google.com/rss/articles/CBMixwFBVV95cUxNeGhPcm1UMHNLNzVMQWNsX1dCNEFNSjVPOEhLNnAyRnBoaFR0QUFXMGgxSG11MkxwckdjUW9TenlNVnlDNUgza182ZjdhWXR4VFZPaFhVNy1LQ1MyeDRrZ3FRUDJubTRhdzFGYzFEY0Y4TVpPalQtVWMtOEFWTld0SEhTVGxCVGJuMjQ1Rm9sOXlFZnVUdUYtNVdKYW1ad1hNS2otckpNX1RrNENkT3phV1M4YXU3NllQZVJ6LTNYWW14TXdGYTA4?oc=5)
+
+---
 
 ### [Vacina Pneumo 20 em Belém: saiba onde tomar, quem tem direito e documentos para receber dose contra pneumonia](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQeXczajhTdGx4bVVSNjA5V0hpeVlCSHRyYUxBaVZBQUZ4YmRZTEtoX0ViQy11eGphRHFfU09IQzBnakg3UWIxTS1RWUcwS0FoMW9HRkg0OUs2ZmM2d2FZazFHektXWW4zc0otTExkbUFWSEpVT0JHUDNsSm5GNGkzYl9ZMEdIcG9LTmhNeHhGbW1DVTNkY0R0Y3JWX3FCX21SSkdEOEhBb3N4X1BsZExqZEpMYlpJeUwwc0dNZkl0Qjd0aFIwRGFvdnZkakdDSU9ncnVvYjA3MWl2VkRKTWFNcHlaSG5aLWcxaV9SSkVwbEVnQU3SAYICQVVfeXFMUDI5TTBUbWFHWDF3MWRIc3FJQmttVTd0MUhVN3otLWNPNm52TmM3aW9ienltNS1nOWRRckdTcE1PcURJVnlJSjBwUENSeDJSUEZ5anRVeUxWM1VQU2JKNFR2V2EwZDZxMzVoTmJ4cEJnOXBBM2FQd29wdThGRnVLUlJNNk1tYk5ZbTJXbjVaWC05ZlpRdE55VWxfOUN4aF9QczllU1pIX2hXWTBGa3JrWTdTdmIzRVM1anJRdk5kc2ZQUU1PWVFYSHBHaVB4X3JHRmR5ZXB3eHNxNTA2S20ySUw5c3FDMW5iZmRrc2ZNT1d6SE9PUzBJZThaT1o5RGp1QllB?oc=5)
 

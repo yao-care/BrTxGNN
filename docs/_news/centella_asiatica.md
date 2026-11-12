@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Centella asiatica. 0 indicações previstas."
 permalink: /news/centella_asiatica/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # Notícias sobre Centella asiatica
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Centella asiatica?">
-<strong>Centella asiatica</strong> tem atualmente <strong>2 notícias</strong> e 0 indicações previstas.
+<strong>Centella asiatica</strong> tem atualmente <strong>3 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -29,13 +29,21 @@ Esta página combina as indicações previstas por IA para Centella asiatica com
 <p><a href="{{ '/drugs/centella-asiatica/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (2)
+## Notícias relacionadas (3)
 
 ### [Especialistas em psicologia explicam: “Quem cantarola enquanto faz tarefa de casa pode não estar apenas de bom humor, mas regulando a ansiedade sem perceber” - Portal 6](https://news.google.com/rss/articles/CBMilwJBVV95cUxQN0ROT2JEbDN4SUhGeGh4aURHQU9XWlRuU01oYnBGNUdzTS1rNTJOUHYyU2NWUUlvRXFvREVTR010QUROVHRGakVlSHpCZjdsdjh6UVdQOHFkQkU1YmI0X184aURNS0NjdnJaYk9paHotUmNHSzZVYWNKcFhiT2NicWRtdEpxSE50WmxlYWIzTFpyWTJIeXNPUHFKbk9TX0J4ZXE2YWZrMXlUSkhQOUhzaDhwSjBRNW1UNWMzaXhZUHRlUlZmNWRfbDRqV0tuYVZNU2dOdzhhV21MV05UTV9kSTBtd1RuVTRYblZmZE5qcGg2aXJDX0dhOUctNUlqRERHTHl6YUdPT1RNQlR0eEs2a0ViRmpZd2s?oc=5)
 
 2026-11-10 <span class="news-indication-tag">ansiedade</span>
 
 Fonte: [Portal 6](https://news.google.com/rss/articles/CBMilwJBVV95cUxQN0ROT2JEbDN4SUhGeGh4aURHQU9XWlRuU01oYnBGNUdzTS1rNTJOUHYyU2NWUUlvRXFvREVTR010QUROVHRGakVlSHpCZjdsdjh6UVdQOHFkQkU1YmI0X184aURNS0NjdnJaYk9paHotUmNHSzZVYWNKcFhiT2NicWRtdEpxSE50WmxlYWIzTFpyWTJIeXNPUHFKbk9TX0J4ZXE2YWZrMXlUSkhQOUhzaDhwSjBRNW1UNWMzaXhZUHRlUlZmNWRfbDRqV0tuYVZNU2dOdzhhV21MV05UTV9kSTBtd1RuVTRYblZmZE5qcGg2aXJDX0dhOUctNUlqRERHTHl6YUdPT1RNQlR0eEs2a0ViRmpZd2s?oc=5)
+
+---
+
+### [Alba Cardalda, neuropsicóloga: dizer não é difícil porque aprendemos a agradar os outros, e o custo aparece em estresse, ansiedade e queda da autoestima - Portal 6](https://news.google.com/rss/articles/CBMikAJBVV95cUxQZWJxMTMwaDhnOHJTeHd3eE5Tc0VrdExYZDNBUmQtVWdJZTZrOHRfLVBpbjVvOFFKOWs0b09Kd0txdEpCX01xMVhPa3hqUlQtaGV6RWM4aHBFOXJ4NmtIRVNobVlZWWdDaTd1U241dkF6czNmTUIwOEpxV1Y1eEVsQ3hvZUZBSlFDVjRTSnBGZVdnRTN6RUxpYlZJMlFpY0JZMDRNOXhZc3RtMVhJRnQyNjJ6azA2cGlobmxYTkxMNlY5cXZWMHpKOHdxcWpLWGlITGhzMkNIR2NfQWIySC1VQmNYSmxOMmFTcjhnXzNkYVVUMVUzMTVOTjgwbWhCd2VsUGlBQ2hyWkd6MEoxT3ROcQ?oc=5)
+
+2026-11-10 <span class="news-indication-tag">ansiedade</span>
+
+Fonte: [Portal 6](https://news.google.com/rss/articles/CBMikAJBVV95cUxQZWJxMTMwaDhnOHJTeHd3eE5Tc0VrdExYZDNBUmQtVWdJZTZrOHRfLVBpbjVvOFFKOWs0b09Kd0txdEpCX01xMVhPa3hqUlQtaGV6RWM4aHBFOXJ4NmtIRVNobVlZWWdDaTd1U241dkF6czNmTUIwOEpxV1Y1eEVsQ3hvZUZBSlFDVjRTSnBGZVdnRTN6RUxpYlZJMlFpY0JZMDRNOXhZc3RtMVhJRnQyNjJ6azA2cGlobmxYTkxMNlY5cXZWMHpKOHdxcWpLWGlITGhzMkNIR2NfQWIySC1VQmNYSmxOMmFTcjhnXzNkYVVUMVUzMTVOTjgwbWhCd2VsUGlBQ2hyWkd6MEoxT3ROcQ?oc=5)
 
 ---
 

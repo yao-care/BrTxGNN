@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Gefitinib. 9 indicações previstas."
 permalink: /news/gefitinib/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-12
 ---
 
 # Notícias sobre Gefitinib
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Gefitinib?">
-<strong>Gefitinib</strong> tem atualmente <strong>51 notícias</strong> e 9 indicações previstas.
+<strong>Gefitinib</strong> tem atualmente <strong>54 notícias</strong> e 9 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,31 @@ Esta página combina as indicações previstas por IA para Gefitinib com as not�
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (51)
+## Notícias relacionadas (54)
+
+### ['Dois terços dos casos de Alzheimer são em mulheres', alerta neurocientista](https://news.google.com/rss/articles/CBMiugFBVV95cUxPaTdhUFViazlydVhtdmZ5WUp1TktwOGgxWGdTX3FqNUZ0Qmtlck5IdjlBbkt4OUdVQUtiVHJMTnR6V3J0Mi1DOE9YMUxMNTc3OVlaczA0RW82VEpxOXN3elRGUm83X0otWC1VRWJiMWg4Sk43cTRfZWJJQVBVc1h1bUV0aHdxb1QzMU9DekNrY0ZKVGphbVJkY25NU3p0blludm9QMmh1akZLTk9FZ29teENidDN0SHg3Snc?oc=5)
+
+2026-11-11 <span class="news-indication-tag">demência</span> <span class="news-indication-tag">menopausa</span>
+
+Fonte: [UOL](https://news.google.com/rss/articles/CBMiugFBVV95cUxPaTdhUFViazlydVhtdmZ5WUp1TktwOGgxWGdTX3FqNUZ0Qmtlck5IdjlBbkt4OUdVQUtiVHJMTnR6V3J0Mi1DOE9YMUxMNTc3OVlaczA0RW82VEpxOXN3elRGUm83X0otWC1VRWJiMWg4Sk43cTRfZWJJQVBVc1h1bUV0aHdxb1QzMU9DekNrY0ZKVGphbVJkY25NU3p0blludm9QMmh1akZLTk9FZ29teENidDN0SHg3Snc?oc=5)
+
+---
+
+### [Estudo: 56% dos brasileiros não sabem se prevenir contra câncer de próstata - CNN Brasil](https://news.google.com/rss/articles/CBMirgFBVV95cUxObXV2WjRwZmxzVjk2WDFfakhMbEp6SGhFWU9DY25UMnVkYWxIWmg4T055cndZWW1zbW5jR090NzJtN1RVX0dWOUhIUG16eDhPZTZpNlNkQVA2WjBNNUdnNi1USk9HQUJ6NG1lRFB4QWJkNnJZc2tGY0tvemw0THZJYUdMNERValFDSTZMakRYekhCejZYWkQtQk9rMmVHRnhYNS1QOXdtSjVJYjctLVE?oc=5)
+
+2026-11-11 <span class="news-indication-tag">câncer</span>
+
+Fonte: [CNN Brasil](https://news.google.com/rss/articles/CBMirgFBVV95cUxObXV2WjRwZmxzVjk2WDFfakhMbEp6SGhFWU9DY25UMnVkYWxIWmg4T055cndZWW1zbW5jR090NzJtN1RVX0dWOUhIUG16eDhPZTZpNlNkQVA2WjBNNUdnNi1USk9HQUJ6NG1lRFB4QWJkNnJZc2tGY0tvemw0THZJYUdMNERValFDSTZMakRYekhCejZYWkQtQk9rMmVHRnhYNS1QOXdtSjVJYjctLVE?oc=5)
+
+---
+
+### [Atividade física prepara o cérebro de pacientes com depressão para a psicoterapia - Agência FAPESP](https://news.google.com/rss/articles/CBMiswFBVV95cUxQUllKemJVZ2tkUUVYbTh4anl3NGtmc25qbmJ6d2FxSkVWX2pmUXU0dm1wRHpRZG1uZVFmUkpQMjhzdThmOFd2ME03RF95Q0JVYTRoM0JWRHVuNFZYTUJZRkxJT2RkNWtfM043TGlfRC1PY3RkVnNQU1F4SkJrSGRxZVlfZEtMU3pJR2RKYjNhYkR2MWN4dXFyM0VabTdmX3RNQ2kzb203QlJYNllmWFhDMFVUSQ?oc=5)
+
+2026-11-11 <span class="news-indication-tag">demência</span>
+
+Fonte: [Agência FAPESP](https://news.google.com/rss/articles/CBMiswFBVV95cUxQUllKemJVZ2tkUUVYbTh4anl3NGtmc25qbmJ6d2FxSkVWX2pmUXU0dm1wRHpRZG1uZVFmUkpQMjhzdThmOFd2ME03RF95Q0JVYTRoM0JWRHVuNFZYTUJZRkxJT2RkNWtfM043TGlfRC1PY3RkVnNQU1F4SkJrSGRxZVlfZEtMU3pJR2RKYjNhYkR2MWN4dXFyM0VabTdmX3RNQ2kzb203QlJYNllmWFhDMFVUSQ?oc=5)
+
+---
 
 ### [Cientista alagoano cria fórmula que pode ajudar em pesquisas contra o câncer de próstata](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLUZYYTV6T21KeTFMbGd2aWlDZGE0TlZyUGtYN0JpVE5xUUpfTk4za2RLNVN3QWJzbnByb1I4S1RZUV9YM180ang2SXdOUEZsMXF1a2FVNFZVMTJBUTJMZFZWTVVXSlZsdWFBc2c0MGpkeVc0cmRqaElqT2pCR21FZWQ5NFlud2F4WEprazF3b0dBRG5EcEFod1hNci1aLTN4QWVMUmVlREpNa1E0STdaanFwR2swMERTX2xmcFlrWmVxcXfSAb4BQVVfeXFMT2NXM0VWbEZmSm1kdm1MQ081WlF0N2R1ZjNJUXpDZVpveHM2bDhMaVZkdjFnVUhPOGFQZTRpanRTMkxKQV9hZzc3b0h1dUJvQW1HcXFwVUVsNGFpVDNjU1dsbkk0RVViVGxvUE9sV3pualJHSllKYkRUb3UtemozT09mUHA2WFowQkFxMmNnREtrTWJISXlYN21iQUFlaUwxWTZwdENDc2hTaDVNaGFxSzh4a05wUVZqRm12amU4dw?oc=5)
 

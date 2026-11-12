@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Gestodene. 0 indicações previstas."
 permalink: /news/gestodene/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # Notícias sobre Gestodene
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Gestodene?">
-<strong>Gestodene</strong> tem atualmente <strong>44 notícias</strong> e 0 indicações previstas.
+<strong>Gestodene</strong> tem atualmente <strong>45 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ Esta página combina as indicações previstas por IA para Gestodene com as not�
 <p><a href="{{ '/drugs/gestodene/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (44)
+## Notícias relacionadas (45)
+
+### [Estudo: 56% dos brasileiros não sabem se prevenir contra câncer de próstata - CNN Brasil](https://news.google.com/rss/articles/CBMirgFBVV95cUxObXV2WjRwZmxzVjk2WDFfakhMbEp6SGhFWU9DY25UMnVkYWxIWmg4T055cndZWW1zbW5jR090NzJtN1RVX0dWOUhIUG16eDhPZTZpNlNkQVA2WjBNNUdnNi1USk9HQUJ6NG1lRFB4QWJkNnJZc2tGY0tvemw0THZJYUdMNERValFDSTZMakRYekhCejZYWkQtQk9rMmVHRnhYNS1QOXdtSjVJYjctLVE?oc=5)
+
+2026-11-11 <span class="news-indication-tag">câncer</span>
+
+Fonte: [CNN Brasil](https://news.google.com/rss/articles/CBMirgFBVV95cUxObXV2WjRwZmxzVjk2WDFfakhMbEp6SGhFWU9DY25UMnVkYWxIWmg4T055cndZWW1zbW5jR090NzJtN1RVX0dWOUhIUG16eDhPZTZpNlNkQVA2WjBNNUdnNi1USk9HQUJ6NG1lRFB4QWJkNnJZc2tGY0tvemw0THZJYUdMNERValFDSTZMakRYekhCejZYWkQtQk9rMmVHRnhYNS1QOXdtSjVJYjctLVE?oc=5)
+
+---
 
 ### [Cientista alagoano cria fórmula que pode ajudar em pesquisas contra o câncer de próstata](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLUZYYTV6T21KeTFMbGd2aWlDZGE0TlZyUGtYN0JpVE5xUUpfTk4za2RLNVN3QWJzbnByb1I4S1RZUV9YM180ang2SXdOUEZsMXF1a2FVNFZVMTJBUTJMZFZWTVVXSlZsdWFBc2c0MGpkeVc0cmRqaElqT2pCR21FZWQ5NFlud2F4WEprazF3b0dBRG5EcEFod1hNci1aLTN4QWVMUmVlREpNa1E0STdaanFwR2swMERTX2xmcFlrWmVxcXfSAb4BQVVfeXFMT2NXM0VWbEZmSm1kdm1MQ081WlF0N2R1ZjNJUXpDZVpveHM2bDhMaVZkdjFnVUhPOGFQZTRpanRTMkxKQV9hZzc3b0h1dUJvQW1HcXFwVUVsNGFpVDNjU1dsbkk0RVViVGxvUE9sV3pualJHSllKYkRUb3UtemozT09mUHA2WFowQkFxMmNnREtrTWJISXlYN21iQUFlaUwxWTZwdENDc2hTaDVNaGFxSzh4a05wUVZqRm12amU4dw?oc=5)
 
@@ -48,19 +56,19 @@ Fonte: [Folha de S.Paulo](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOe
 
 ---
 
-### ['Quase morri depois de uma dor de dente virar sepse e causar uma doença cardíaca rara'](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DNUYyb2IydG1MS1hyLXFoQ0xrYlZfRnRFVGpIdzRNQm5SWjN4TWt2SWdwZGNrSlpOVmdyMnZwc0QtRm5OWTVlcm1sWlZIRzZiTzNlZm9vUnc3YnUxVzd0TG45c9IBaEFVX3lxTE1HMk5CZlBWNjNCUVBzMzRaZ2RLcHdkYzFtYVBmRFZWUHVzamt5eDczbnFWNVA2MUR6Y1FZbDFDd25ESERSUWo2UlRsRUlkdXRqY05oV2NtRWJhZ0pmWHBBckc2emdqZVNO?oc=5)
-
-2026-11-10 <span class="news-indication-tag">doença cardíaca</span>
-
-Fonte: [BBC](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DNUYyb2IydG1MS1hyLXFoQ0xrYlZfRnRFVGpIdzRNQm5SWjN4TWt2SWdwZGNrSlpOVmdyMnZwc0QtRm5OWTVlcm1sWlZIRzZiTzNlZm9vUnc3YnUxVzd0TG45c9IBaEFVX3lxTE1HMk5CZlBWNjNCUVBzMzRaZ2RLcHdkYzFtYVBmRFZWUHVzamt5eDczbnFWNVA2MUR6Y1FZbDFDd25ESERSUWo2UlRsRUlkdXRqY05oV2NtRWJhZ0pmWHBBckc2emdqZVNO?oc=5)
-
----
-
 ### [Ela disse que mãe estava 'caçando problema'; dias depois, descobriu câncer](https://news.google.com/rss/articles/CBMizwFBVV95cUxOVjdULTY0SElFdVotZW0yVDdjMmhIaW1ldVRVLVJlMzl3THFmR2lYWEdDX3dIaXVDS3F2T1djSjl2Sk5mOWZhRnhyM25tSHMyaEl4ZzBmUlEybGRmNnhIQk1zTnRyUk96OVhsLWgtUXpDUG9MNTNOSnlLNEpXODZ6YmZSb2IwcUJyeDMybTY3czhLMWlGcHp0bkdobmY0eUZZS0ZuS3VJV3ZOU0NJNGZhV045M1ZLdGY0aHpjYlliRG9mTHpRZzRNM1VxTXRpUXM?oc=5)
 
 2026-11-10 <span class="news-indication-tag">câncer</span>
 
 Fonte: [UOL](https://news.google.com/rss/articles/CBMizwFBVV95cUxOVjdULTY0SElFdVotZW0yVDdjMmhIaW1ldVRVLVJlMzl3THFmR2lYWEdDX3dIaXVDS3F2T1djSjl2Sk5mOWZhRnhyM25tSHMyaEl4ZzBmUlEybGRmNnhIQk1zTnRyUk96OVhsLWgtUXpDUG9MNTNOSnlLNEpXODZ6YmZSb2IwcUJyeDMybTY3czhLMWlGcHp0bkdobmY0eUZZS0ZuS3VJV3ZOU0NJNGZhV045M1ZLdGY0aHpjYlliRG9mTHpRZzRNM1VxTXRpUXM?oc=5)
+
+---
+
+### ['Quase morri depois de uma dor de dente virar sepse e causar uma doença cardíaca rara'](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DNUYyb2IydG1MS1hyLXFoQ0xrYlZfRnRFVGpIdzRNQm5SWjN4TWt2SWdwZGNrSlpOVmdyMnZwc0QtRm5OWTVlcm1sWlZIRzZiTzNlZm9vUnc3YnUxVzd0TG45c9IBaEFVX3lxTE1HMk5CZlBWNjNCUVBzMzRaZ2RLcHdkYzFtYVBmRFZWUHVzamt5eDczbnFWNVA2MUR6Y1FZbDFDd25ESERSUWo2UlRsRUlkdXRqY05oV2NtRWJhZ0pmWHBBckc2emdqZVNO?oc=5)
+
+2026-11-10 <span class="news-indication-tag">doença cardíaca</span>
+
+Fonte: [BBC](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DNUYyb2IydG1MS1hyLXFoQ0xrYlZfRnRFVGpIdzRNQm5SWjN4TWt2SWdwZGNrSlpOVmdyMnZwc0QtRm5OWTVlcm1sWlZIRzZiTzNlZm9vUnc3YnUxVzd0TG45c9IBaEFVX3lxTE1HMk5CZlBWNjNCUVBzMzRaZ2RLcHdkYzFtYVBmRFZWUHVzamt5eDczbnFWNVA2MUR6Y1FZbDFDd25ESERSUWo2UlRsRUlkdXRqY05oV2NtRWJhZ0pmWHBBckc2emdqZVNO?oc=5)
 
 ---
 
