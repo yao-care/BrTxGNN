@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Centella asiatica?">
-<strong>Centella asiatica</strong> tem atualmente <strong>3 notícias</strong> e 0 indicações previstas.
+<strong>Centella asiatica</strong> tem atualmente <strong>4 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ Esta página combina as indicações previstas por IA para Centella asiatica com
 <p><a href="{{ '/drugs/centella-asiatica/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (3)
+## Notícias relacionadas (4)
+
+### [Só de pensar em voar já bate ansiedade? Saiba o que pode estar por trás desse medo - O GLOBO](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNY0dHdXd4bVdDTDRGTm5NTW04Z0VFemViUHZRbzkzZzkyZjBLZzlNbElERkhPcDg2amdWQlRwOUZ1bVRXV19xY296NF9ReVN1bTgtblJDbjYzUkJrQ0dROGVNc1NBaEdoYTNqcTJQMFloR0NsUXlXdmdVQUw3cnlEZi1JTzF2ZWltMDRhYUVTd0tkXzdhZnVQRDFIMHo0VWxoN2s1N2Z2VTZteFFMWkxEekN4OGkzdGFIUXkwUnUtZ2NyZWE0clNiVVlvNXdiWUps0gHfAUFVX3lxTFBUbTk0dkVjcGlnNGpqSzQ4T0ZSdzdxQ0NrSUxVVlV2R1NzS1l4bWRINGtHLWJIbE5paDE0QTVac3JYTVZMMnN2LVd2cW5xUVFzb0VfcXh3SHUtM0dWWFdGT3BGN1phUGFzWHJaTjlQcE9CbG9oWkVJaUhRWXZ4TVBObGwzWXFNZVdfSDVjbWt3NzlHY0VGX182YTQ0V0VKclhRX2VGNDg0cnVZSmtFSlhVVkotT0EyQzFkOGh2N3hSOGV2b0NWeUF3QVpkTk85VldNOVRvVzFDSVVwWGo1UmM?oc=5)
+
+2026-11-12 <span class="news-indication-tag">ansiedade</span>
+
+Fonte: [O GLOBO](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNY0dHdXd4bVdDTDRGTm5NTW04Z0VFemViUHZRbzkzZzkyZjBLZzlNbElERkhPcDg2amdWQlRwOUZ1bVRXV19xY296NF9ReVN1bTgtblJDbjYzUkJrQ0dROGVNc1NBaEdoYTNqcTJQMFloR0NsUXlXdmdVQUw3cnlEZi1JTzF2ZWltMDRhYUVTd0tkXzdhZnVQRDFIMHo0VWxoN2s1N2Z2VTZteFFMWkxEekN4OGkzdGFIUXkwUnUtZ2NyZWE0clNiVVlvNXdiWUps0gHfAUFVX3lxTFBUbTk0dkVjcGlnNGpqSzQ4T0ZSdzdxQ0NrSUxVVlV2R1NzS1l4bWRINGtHLWJIbE5paDE0QTVac3JYTVZMMnN2LVd2cW5xUVFzb0VfcXh3SHUtM0dWWFdGT3BGN1phUGFzWHJaTjlQcE9CbG9oWkVJaUhRWXZ4TVBObGwzWXFNZVdfSDVjbWt3NzlHY0VGX182YTQ0V0VKclhRX2VGNDg0cnVZSmtFSlhVVkotT0EyQzFkOGh2N3hSOGV2b0NWeUF3QVpkTk85VldNOVRvVzFDSVVwWGo1UmM?oc=5)
+
+---
 
 ### [Especialistas em psicologia explicam: “Quem cantarola enquanto faz tarefa de casa pode não estar apenas de bom humor, mas regulando a ansiedade sem perceber” - Portal 6](https://news.google.com/rss/articles/CBMilwJBVV95cUxQN0ROT2JEbDN4SUhGeGh4aURHQU9XWlRuU01oYnBGNUdzTS1rNTJOUHYyU2NWUUlvRXFvREVTR010QUROVHRGakVlSHpCZjdsdjh6UVdQOHFkQkU1YmI0X184aURNS0NjdnJaYk9paHotUmNHSzZVYWNKcFhiT2NicWRtdEpxSE50WmxlYWIzTFpyWTJIeXNPUHFKbk9TX0J4ZXE2YWZrMXlUSkhQOUhzaDhwSjBRNW1UNWMzaXhZUHRlUlZmNWRfbDRqV0tuYVZNU2dOdzhhV21MV05UTV9kSTBtd1RuVTRYblZmZE5qcGg2aXJDX0dhOUctNUlqRERHTHl6YUdPT1RNQlR0eEs2a0ViRmpZd2s?oc=5)
 
