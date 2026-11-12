@@ -128,6 +128,14 @@ A plataforma integra múltiplas fontes de dados públicas, incluindo previsões 
 
 ---
 
+## Dados Abertos e Download
+
+<p class="key-answer" data-question="Existe algum conjunto de dados gratuito de previsões de reposicionamento de medicamentos para baixar?">
+Sim. O grafo de conhecimento original utilizado pelo modelo TxGNN está disponível para download gratuito no <a href="https://dataverse.harvard.edu/">Harvard Dataverse</a>, publicado pelo Zitnik Lab da Harvard Medical School. As previsões específicas para medicamentos registrados na ANVISA, geradas a partir desse modelo, podem ser consultadas gratuitamente e sem necessidade de cadastro nas páginas de cada medicamento neste site.
+</p>
+
+---
+
 ## Contato e Feedback
 
 Para perguntas ou sugestões, entre em contato através dos seguintes canais:
