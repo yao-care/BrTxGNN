@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Letermovir?">
-<strong>Letermovir</strong> tem atualmente <strong>52 notícias</strong> e 1 indicações previstas.
+<strong>Letermovir</strong> tem atualmente <strong>53 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ Esta página combina as indicações previstas por IA para Letermovir com as not
 <p><a href="{{ '/drugs/letermovir/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (52)
+## Notícias relacionadas (53)
+
+### [Comissão do Senado aprova vacina contra herpes-zóster no SUS; projeto vai à Câmara - Folha de S.Paulo](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdms2X2lTakNNQUhkTDdHbkdfeEdRSHlKVzkyTGp5U2FsY2tUdDgyUlpQLXRLSXZZOXpWc0EtdTYyY1VXWkxqcGl0UElndDBTUkc5eVJGcXNGVTlvbEozemNRcnBwVG15SzZkV2ROQVBIUk9kbW5tVEY3dEJxOGd2UDR0ZkRDZWZqRVJHT3k1R1h6Z0xCV3VnbC1Xekp4bVVtbkE0U2t2SWdrYXdlTk9LS2Jlc1BDZVNPRThOaWpJbVVxUHRZSDZsZ1RIMTZleTJYNTJ4OTQxZUwxZw?oc=5)
+
+2026-11-13 <span class="news-indication-tag">herpes-zóster</span>
+
+Fonte: [Folha de S.Paulo](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdms2X2lTakNNQUhkTDdHbkdfeEdRSHlKVzkyTGp5U2FsY2tUdDgyUlpQLXRLSXZZOXpWc0EtdTYyY1VXWkxqcGl0UElndDBTUkc5eVJGcXNGVTlvbEozemNRcnBwVG15SzZkV2ROQVBIUk9kbW5tVEY3dEJxOGd2UDR0ZkRDZWZqRVJHT3k1R1h6Z0xCV3VnbC1Xekp4bVVtbkE0U2t2SWdrYXdlTk9LS2Jlc1BDZVNPRThOaWpJbVVxUHRZSDZsZ1RIMTZleTJYNTJ4OTQxZUwxZw?oc=5)
+
+---
 
 ### [Família denuncia sutura sem anestesia em paciente com câncer - Campo Grande News](https://news.google.com/rss/articles/CBMiugFBVV95cUxOMXJybVJUSGFtRlBGMW9wTWV6M3VNOFVfVklsUWUxdzFHaVpmT2JRNlJseS1HRU1kM1had2J4bzU3dkN4WU1laUZYdk5pZ1JXeHV1TmdLVk16NWZWemc5MjJGbXdZRUFpbHE0Unlyc3dUc1ozNWdJXy1UYjNFTnZSc21WM2hNaktKUHY2RzN3cUNnV0cxa28yN0d6cTZlWUtLYUU2ZmZBcmlINDJJVjM2NG5zX2xQRmZteVHSAboBQVVfeXFMUGhQVWRod3o2X3BVeDlRcTl2aWtVbFlnaDlpakxhSWpoeFBMNkFvQXJmanVGS0NUdEktb1hheVNQa3VyNmVkVEdZNmJTYW10N0M2QUptRXFGeUU5MmpUckFyTjQ3XzlKd2lvc0xzaWVDV0YxQ3g0c0NyckpuTGQ0M1dad0hNMTFncU50ZGEwMTdJZGE4Q0ZwS3lmanp1NEZ1NWtqV3FqdkhJUy05eDlfMi1pWWRtUk1MZkpR?oc=5)
 

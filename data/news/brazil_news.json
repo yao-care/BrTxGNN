@@ -1,31 +1,79 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-11-13T05:35:33.361235+00:00",
-  "total_fetched": 102,
-  "unique_count": 101,
-  "health_related_count": 46,
+  "fetched_at": "2026-11-13T14:06:29.000845+00:00",
+  "total_fetched": 87,
+  "unique_count": 86,
+  "health_related_count": 34,
   "news": [
     {
-      "id": "bf24b621351b",
-      "title": "Após caso de raiva em morcego, Zoonoses orienta população sobre cuidados - Folha BV",
-      "published": "2026-11-12T21:43:26+00:00",
-      "summary": "Após caso de raiva em morcego, Zoonoses orienta população sobre cuidados&nbsp;&nbsp;Folha BVBoa Vista registra caso de raiva em morcego&nbsp;&nbsp;G1Vacinação antirrábica percorre três bairros neste fim de semana – CGNotícias&nbsp;&nbsp;Prefeitura de Campo GrandeVacinação antirrábica terá dois pontos fixos neste sábado em Campo Grande&nbsp;&nbsp;MidiamaxEspecialistas em saúde orientam: se um morcego entrar em casa, nunca devemos tocar nele com as mãos e precisamos deixar uma saída aberta&nbsp;&n",
+      "id": "d68293597a68",
+      "title": "Casos de mpox ultrapassam mil em 2026 e se concentram em seis estados - Agência Brasil",
+      "published": "2026-11-13T10:00:00+00:00",
+      "summary": "Casos de mpox ultrapassam mil em 2026 e se concentram em seis estados&nbsp;&nbsp;Agência BrasilAvanço da mpox no Brasil: novo vírus, vacina fracionada e falha de remédio&nbsp;&nbsp;UOLDuas linhagens do vírus da mpox são identificadas no Rio, aponta nota técnica elaborada por pesquisadores da UFRJ&nbsp;&nbsp;Extra onlineMpox: Ministério da Saúde garante 25 mil doses de vacina após negociação internacional&nbsp;&nbsp;GOV.BRCasos de mpox passam de 1 000 no Brasil e 581 notificações são investigadas",
       "sources": [
         {
-          "name": "Folha BV",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRExMV3RWZVktWXhnZlQ4bEZxZk1yaWpXU0pQbHRVVFhRdWxtV0VCSjN5VnFqbE93aWc3Y0Nad3VlenJCRGVnTzhocXJGc29NcmszZWMtNWFBWjhRX25Qa1IwenF6a3ZkVVNBcFBxQ3gwNENVRDFWaGN4LU1PeVB2RFlQTV9YcmpBTzBmRk5jbGlQRHJ6eUhjanpBTzNZRnAtZ2lfQnhFNFk?oc=5"
+          "name": "Agência Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWkd4b0FHS09NTG5mMVNueU10V0ZHZDBkM1ZyWUhsWUFETVJRbzB5el9zd3BKN0lybXdwZnlfTTAxUHNOVG0tN2p0b1RoQ2Y3aTFiUUpLQ2kzSGU4R2l3S29GbDNBVXh1SDd6QXlCWkFtUDV2SUFmbm11cWJDNk95WXNKQXpwZHo5RG5zVV9OY21xV2JKT1lQOGRjeEhuS1VKMFNZVVhTVXp1R1IzMHo3V05ZZzMtYjRRZ3ZGNzV3YzM0QQ?oc=5"
         }
       ]
     },
     {
-      "id": "a55c9dd5be01",
-      "title": "Brasil ultrapassa mil casos de mpox com alta de 22% em menos de uma semana - Band",
-      "published": "2026-11-12T20:36:39+00:00",
-      "summary": "Brasil ultrapassa mil casos de mpox com alta de 22% em menos de uma semana&nbsp;&nbsp;BandBrasil ultrapassa mil casos de mpox em 2026 após alta de 23% em seis dias; país registra uma morte&nbsp;&nbsp;G1Mpox: aumento de casos exige monitoramento&nbsp;&nbsp;Portal Drauzio VarellaMpox no Brasil: vírus que causou crise na África avança em SP e outros Estados&nbsp;&nbsp;EstadãoCasos de mpox passam de 1 000 no Brasil e 581 notificações são investigadas&nbsp;&nbsp;VEJA",
+      "id": "61e2c27db3bc",
+      "title": "SP tem 485 postos de vacinação contra a Covid-19; veja quem deve se imunizar - G1",
+      "published": "2026-11-13T08:00:01+00:00",
+      "summary": "SP tem 485 postos de vacinação contra a Covid-19; veja quem deve se imunizar&nbsp;&nbsp;G1Veja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
-          "name": "Band",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV2kwUDkyWVc4S2N6cUZIR2lkRU5Dc2trZzU0NXdwS2pkajJiaWJlekctZ1pNLUtWLVp2b3NtQmN5RGtiQV9RaXBNSXk2UlZjNEJ1Uk55NnpOMExtZ1R3WUpNTTJvZVlnNEx3NDlFbnJIdUMyd0dCSllzZ2tKeWJObmJBXzVVYmhMeC1QTHJJQkNjMG5XU005M0hKWndQMWFxVW9oTDV3?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZEtuVERZR0I4bzdPa1ZOVFhFMFVXZDJjMmNudldFN19DaTNFb0tKWjhGYzRXZmZWNm9yYU1GV3UzOGtGTjhaemQwc3lJdUtuWXFWUG53dmJMaEpyaTNyUVFRRUx2RExaWXI0UWhUWl9paUN5ZGdjNW5DeHJhT1hRVnZoc1hHektFMXZjNk1MWGNGQ0hRazkwVDBKV05hQzZnYUhUYjBGZkJ4ajZ5eXV1VjBFZlZpLXp1RFd3amNlbmxtVDNmWDhuTGpocU1vOTDSAd4BQVVfeXFMUGpQclZPa3RiVkpOUzc4eEh4WWNxMDNBcHd2WU85SkRuWTVYaDJiV0NPdFB6YWg0RnFiNGdDcXV4bnd1S0JTZ3Q4YmItWWl2VkxzVTM1ZmdGTnE5Yi1kdFFhSnFBNDlsemRFbDFBclpNcE5rWkZIS2k4T0hmdktzRjBnOWJydjNLVTd5QWVtaU5lbUxXVFFCYWRMV2Q4cklJYjVObmlILWZQNVlWQ0pLWC1UVDJueDN5MUU3ajZpYUFYY0lfdm1jaVV1WGFIWEVqVmlFWUxHVWJvQWRJeG93?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f1a43208f162",
+      "title": "A creatina pode fortalecer o cérebro? Protege do Alzheimer? Veja os efeitos do suplemento realmente comprovados - O GLOBO",
+      "published": "2026-11-13T07:30:00+00:00",
+      "summary": "A creatina pode fortalecer o cérebro? Protege do Alzheimer? Veja os efeitos do suplemento realmente comprovados&nbsp;&nbsp;O GLOBOCreatina: como o suplemento age no organismo, indicações e riscos do uso excessivo&nbsp;&nbsp;Portal Drauzio VarellaDe suplemento esportivo a aliado da massa muscular&nbsp;&nbsp;Guia da FarmáciaCreatina fortalece o cérebro? Estudos ainda não confirmam benefício cognitivo&nbsp;&nbsp;Diário do Centro do MundoCreatina virou moda: conheça os benefícios do suplemento para ",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUlJpczd3bm95VWxrR0tMbTN4SEtDT2s3Uy1jeGYwbXNjaFBST3J5WkJrVkxJeHduWTl1RWRjX3pfMHVPcUk3VGEyS0VCcXpZLWdhVzc1TkxHZXIxdEZLWUZwM0stT094c21tbnVBNy1lR3lWSEFrUG50Q0UtdHR5NnAzMmRHX0lpR3haMDJQaFl0QlV3Zy1fUzZfRzN3X29DblJqNUl1MGtzVHl5VU1lOFF4WFJzSUZvb1lYU3l0OUNrWVViUUdqUHBQeFdwaDNNMkdNS1c4Ui1LSU1zVEhJczlaRnJmSlRicDJhV0FQbTF4cFBYSlk4VNIBhwJBVV95cUxNUUJEdUZ2cEVaQ3I0NWdmT3J2cTVRMnpGS2hMSTY1YTFKTzluRHAtSHJDcmpvTEZmOUx0ZUJnOTZ4NVBWWE1DTUpVdnNSb3lfTnJWZC1KNFRfM2VVUEZ6cHFKSmRWcTRXeGN3bTdEVlk5U1ZQclJtNzhNcnQ5Yk5rVXprd3VQbUlCc1ZIaWMydXpaMWlWWDdUczZRQzF3Y0pNXzF6c3RLdjRqZ0ZMSmlTeV9UZkpVWlJpbjNmQS1POGNKNEszRkRabFd2NG9PbzR0NE44ZE92dnRIdkJQYVNQT19PNWFWVzVfT0haR0w4ZzZZbmxxQndCVjVRb193Mk5GdmNsZjdUYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "31def6acb7a0",
+      "title": "Comissão do Senado aprova vacina contra herpes-zóster no SUS; projeto vai à Câmara - Folha de S.Paulo",
+      "published": "2026-11-13T06:37:00+00:00",
+      "summary": "Comissão do Senado aprova vacina contra herpes-zóster no SUS; projeto vai à Câmara&nbsp;&nbsp;Folha de S.PauloCAS aprova estabilidade para gestantes e vacina contra herpes-zóster no SUS&nbsp;&nbsp;SenadoVacina herpes-zóster: após aval do Senado, projeto que inclui dose no SUS vai à Câmara; entenda&nbsp;&nbsp;O GLOBOPlenário aprecia 22 matérias, incluindo projeto que prevê vacina contra herpes-zóster na rede pública&nbsp;&nbsp;Assembleia Legislativa de AlagoasSabin passa a oferecer em Belém combo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdms2X2lTakNNQUhkTDdHbkdfeEdRSHlKVzkyTGp5U2FsY2tUdDgyUlpQLXRLSXZZOXpWc0EtdTYyY1VXWkxqcGl0UElndDBTUkc5eVJGcXNGVTlvbEozemNRcnBwVG15SzZkV2ROQVBIUk9kbW5tVEY3dEJxOGd2UDR0ZkRDZWZqRVJHT3k1R1h6Z0xCV3VnbC1Xekp4bVVtbkE0U2t2SWdrYXdlTk9LS2Jlc1BDZVNPRThOaWpJbVVxUHRZSDZsZ1RIMTZleTJYNTJ4OTQxZUwxZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dde1da2963c7",
+      "title": "5,3 milhões de brasileiros têm diabetes e não sabem; teste online simples ajuda a entender risco de desenvolver a doença - G1",
+      "published": "2026-11-13T05:00:01+00:00",
+      "summary": "5,3 milhões de brasileiros têm diabetes e não sabem; teste online simples ajuda a entender risco de desenvolver a doença&nbsp;&nbsp;G1Diabetes: pesquisa aponta baixa percepção de risco e obstáculos para avaliação&nbsp;&nbsp;EstadãoDiabetes tipo 2 exige cuidado além da glicemia, alerta especialista&nbsp;&nbsp;TerraMais de 252 milhões de adultos têm diabetes e não sabem, aponta IDF&nbsp;&nbsp;Agora RNCajamar realiza ação especial de saúde no Dia Mundial do Diabetes neste sábado (14) – Notícias&nbs",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPV1pmQTQzS1VuMGZaeHlDeS1hX0wxcTRkYkhlaGhUVkYtZ2RSTUw3NHpsNXpCOGstQzg5R3hTbWQ2RzRPOEFUcXdCSWJYRWtIbm9kSVNqVi1zcVdiOFZJU1dNSHFhM3NweVdteW1JYUh2ZHkxWU9IbktMYjEyck9aZmViQ1pqMlEzU1Y1elF2cGcxY2NDOHZnd0xDTkpsTGZFcVVyZm1LbUpUUEc0UFgyTFRhSVYwQlVCb3pnTGxQNTNldnAtZVpNVnBhbTl0TlBxMm5reVpiZUhZY2tkVmZYWVpRZE1GTm54bjVoN3BkZDEyUnU0M21XT3c4SVBiOEHSAY4CQVVfeXFMTS1zeVBIR2RCWVFUcnJfMlRnUEpTZVIxZXl6VEFnVGk0S3lldFNhQTJjZlhVOEY1N0ZBcmN1dm9NY3hTeWpIUF9YR1NXamN4bk5TS0Z6amZYa21mZzhoMHRySWhMbWRPMUVIYkNxdVN4dFpqeU5RMkg0MDBHYmZwRnBQMWFHc2ZneDVGckNQUmFCdnI1MlJBRkJrR2RPSDRjVS1IR3Z0a1BtbWxaeDhSYVFzRjZScWhJS3hiYlVuS2hBUzFXTno3U25JeUtkM0t2Skw4R2ZqMVh2VW5URWZUOUM5dEsxUkxrNzgzOHFMWXVaY0NLMi1seUdXY2RSdVZWVjA5UXp4TVl6eDMyNXRB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bf24b621351b",
+      "title": "Após caso de raiva em morcego, Zoonoses orienta população sobre cuidados - Folha BV",
+      "published": "2026-11-12T21:43:26+00:00",
+      "summary": "Após caso de raiva em morcego, Zoonoses orienta população sobre cuidados&nbsp;&nbsp;Folha BVVacinação antirrábica percorre três bairros neste fim de semana – CGNotícias&nbsp;&nbsp;Prefeitura de Campo GrandeBoa Vista registra caso de raiva em morcego&nbsp;&nbsp;G1Vacinação antirrábica terá dois pontos fixos neste sábado em Campo Grande&nbsp;&nbsp;MidiamaxEspecialistas em saúde orientam: se um morcego entrar em casa, nunca devemos tocar nele com as mãos e precisamos deixar uma saída aberta&nbsp;&n",
+      "sources": [
+        {
+          "name": "Folha BV",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRExMV3RWZVktWXhnZlQ4bEZxZk1yaWpXU0pQbHRVVFhRdWxtV0VCSjN5VnFqbE93aWc3Y0Nad3VlenJCRGVnTzhocXJGc29NcmszZWMtNWFBWjhRX25Qa1IwenF6a3ZkVVNBcFBxQ3gwNENVRDFWaGN4LU1PeVB2RFlQTV9YcmpBTzBmRk5jbGlQRHJ6eUhjanpBTzNZRnAtZ2lfQnhFNFk?oc=5"
         }
       ]
     },
@@ -42,50 +90,26 @@
       ]
     },
     {
-      "id": "912cc20e6028",
-      "title": "Vacina herpes-zóster: após aval do Senado, projeto que inclui dose no SUS vai à Câmara; entenda - O GLOBO",
-      "published": "2026-11-12T17:06:03+00:00",
-      "summary": "Vacina herpes-zóster: após aval do Senado, projeto que inclui dose no SUS vai à Câmara; entenda&nbsp;&nbsp;O GLOBOSenado aprova inclusão de vacina contra herpes-zóster no SUS; projeto segue para a Câmara&nbsp;&nbsp;G1CAS aprova estabilidade para gestantes e vacina contra herpes-zóster no SUS&nbsp;&nbsp;SenadoVacina para herpes: após aval do Senado, projeto que inclui dose no SUS vai à Câmara&nbsp;&nbsp;InfoMoneyPlenário aprecia 22 matérias, incluindo projeto que prevê vacina contra herpes-zóster",
+      "id": "478d4a884e14",
+      "title": "Congresso aprova R$ 13,2 milhões para a pesquisa científica no Brasil - Senado",
+      "published": "2026-11-12T15:59:24+00:00",
+      "summary": "Congresso aprova R$ 13,2 milhões para a pesquisa científica no Brasil&nbsp;&nbsp;Senado",
       "sources": [
         {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaVl3TUxwaFlxVFNxNHZ5aS05d1Z0XzdKTmxqbmxLMlRta2stWm9aRThmb2dKZEVmU3VMcWJ0Ymo2MG8xSmIxZS04MThTWFFwaDRXakpCZkMzYmR1VWotbFJhRUlQT3NidGV5VC1QRE9SeVVwRUJWZVFEVS11SWZ0R0FoNmNER2QzSzdON3YtRWpxN0ViY0I4c3lUMnJack9VOUtteXh1R2xIRXFlQlNRTHhSMFlJWl8wbDZ0bFl2SjRjX24zWlZpWE9kLWR2WUtTdlRadWYtV3JTdEYtSHJwR0xn0gHwAUFVX3lxTE5BWmZ0TzhSYWM5MkZGRnVSZi0yeTdOT3hoUi16RzQxZGRSQXI2S2ZtdVdpWW9TeUxWOUpTTjB6OEFkS3ByS0xFQTQtRHNCMkliZzFaVWdva1B1SGluN1NZcFllWkJ0SzBSeHFIeEdINHRuSHhLcDNka0tFSEMzZDAwQ0ozVWphUmVzT1dCa1BCbWw2djhNYi1BUHZrWUpKaDA0SlhBRW5LWlZvMG41Q2Jzb3lFUURDM0d2bDFKZ0E1T2NTaFBnWmhHVzBlWkdRVlN3WDNsUGdkM2lEdmpadDV5Ymk2Z2U5NG1uM0U4ZUJnUw?oc=5"
+          "name": "Senado",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOFZpZUZBeERqV2RQWk1qdzBUWDdLcHN5d19QcXdyR3Q2YkVIUWF5SUZFTmM0WjZqSzdla0NzdGp6NWNFT3lhdnJuVWhmQmt6UTQ0VWE5cDBJSUVtaElvMThETmJtSVEyUUhOWDdMUURIY3BCWDVha1JDWUxJanNwLUR5YWNnZ0k5LWR6N19tbEpnWjV1MmpjVENBRXhkMVRrWVJXUTRnNFZNZldONFRiOXZOSUMwUGc0dEhDV1A4dk5ISU0?oc=5"
         }
       ]
     },
     {
-      "id": "46cff068c4f4",
-      "title": "NAION: o que é a doença ocular rara associada a medicamentos como Ozempic que pode causar perda súbita da visão - O GLOBO",
-      "published": "2026-11-12T15:54:18+00:00",
-      "summary": "NAION: o que é a doença ocular rara associada a medicamentos como Ozempic que pode causar perda súbita da visão&nbsp;&nbsp;O GLOBOQual é o risco de doença grave nos olhos por uso de Ozempic e Mounjaro que gerou alerta de agência dos EUA&nbsp;&nbsp;G1Risco de perda de visão: EUA exige novo alerta para canetas emagrecedoras&nbsp;&nbsp;CNN BrasilFDA emite avisos sobre efeitos colaterais de Ozempic e Mounjaro&nbsp;&nbsp;Poder360NAION: o que é a doença ocular rara que a FDA associa à semaglutida e ou",
+      "id": "287604e9e949",
+      "title": "Câncer de próstata: 78% dos homens esperam mais de 60 dias por tratamento - UOL Notícias",
+      "published": "2026-11-12T14:23:57+00:00",
+      "summary": "Câncer de próstata: 78% dos homens esperam mais de 60 dias por tratamento&nbsp;&nbsp;UOL NotíciasCâncer de próstata: 8 em cada 10 pacientes já diagnosticados demoram mais de 60 dias para iniciar o tratamento no SUS&nbsp;&nbsp;G1SUS ultrapassa 1 milhão de procedimentos para tratamento do câncer de próstata — Ministério da Saúde&nbsp;&nbsp;GOV.BRHomens negros apresentam maior risco de desenvolver câncer de próstata&nbsp;&nbsp;Agência BrasilOpinião | Novos tratamentos ampliam o controle do câncer d",
       "sources": [
         {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOb2E4MWdhZHBJNl90RkJWT2JYTWZQeGhtNzRpTTl3QmZoeUQ5M0pyOHJoX2duVTV5MmxydUw1c0dBQm5TRmZMVFl1VGlRUExwakprQnAzWk1IdGN4elF3ekI0ODc3bEhPTWpySlZtUTNrT3ZrRkNZTnJrM1dhM1JidWVOMzhDVHB6S1lHY0t3UkN1aXRKSnNaTmYwbThkUUJremk0cEdzeXMyMl9LZ0NmRTdXS0k4Uk9LQXFRYk9fTE5HQTBoZjFmcms4SnRHQUdZYzNlb3lJdHhLU2pNZ0JRWDUzM0txc3dTQzgxN3JIUnJ2NVY0OFZuOFln0gGIAkFVX3lxTE4xcU5ZQkVqQUJDREFodFUyT2Vzb2k5Q3VHbEstMmx5ZFZkaXIwVGgwRHVlbXkxUzJFTWtHSkt6QU5RUGFwX015UndOclI0aVNucFBnQ3IwcVBUQTJ5VXhlUlJTX3MyVGsxQzg5RjZUeXZaLTcyRWtiMnIwUGRER1gzSDBzcVkwOXVrdW9RbllLV2lYYlNZaGtqUHlWTmQ2QXd5em9TOE1HU1hOTVdlNjBId1ZKNXZidks5dFV3R2lXdkNnTUprcDBONzZINXVNaHRMVnhrSmpRZGNSZzg1SHdqQnItWENsRjdFcmlrakpyaXp3MVBQZXJpVHRUNkVfS29xX3B5QWNUMw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0f48e8f641ac",
-      "title": "Frutose pode estimular disseminação de células do câncer, sugere estudo - Metrópoles",
-      "published": "2026-11-12T15:30:00+00:00",
-      "summary": "Frutose pode estimular disseminação de células do câncer, sugere estudo&nbsp;&nbsp;MetrópolesFrutose vira sinal de metástase no câncer de ovário&nbsp;&nbsp;O CafezinhoEstudo identifica possível relação entre frutose e avanço do câncer de ovário&nbsp;&nbsp;Tribuna do Sertão",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbnhxOE4yUUJEMDUyZjBRLVJYZThSSVFiSWpVcGM3OWhaUUpDZVdTNjI2TDM0dTdrTTFDVDBWWHB6Uk92cktEQlpZZk9Vb3dDQ1EyV2RjalVRSUJiWVMzcFhZWEdMcHZIQXdHaEZyUW40TWZ0SzlTak5mV2FDbDl0X3BsN0FVaXEtdVV1bEdsZHRRT2J1QVlIdy1OZzg4NGh6NW1Nak9B?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9c682a18692e",
-      "title": "Após cirurgia no cérebro, homem de 29 anos acorda vendo o rosto de seu gato em todas as pessoas - CNN Brasil",
-      "published": "2026-11-12T13:39:09+00:00",
-      "summary": "Após cirurgia no cérebro, homem de 29 anos acorda vendo o rosto de seu gato em todas as pessoas&nbsp;&nbsp;CNN BrasilPaciente acorda de cirurgia cerebral e passa a ver o rosto de seu gato em humanos; entenda a condição rara PMO&nbsp;&nbsp;O GLOBOHomem passa a enxergar seu gato em todos os rostos após cirurgia cerebral&nbsp;&nbsp;Brasil 247Homem passa a enxergar traços de sua gata nos rostos de outras pessoas&nbsp;&nbsp;Correio BrazilienseHomem com ‘síndrome da face demoníaca’ enxerga feições de ",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaFNGbmMyOTcwMzRzYl9HTEFSWW5rQ25oV1RJS1Y1ODdQcmRHOGZoQzM5cE1BQTI3ZG15bV9FTktBN3dwWTU3ZGtVd1JxLW9uMXFoTUFxeDliZ0pWYVRyNlhENFk3SjFXbGwtaUwzeFR3dEktZ2FiblE5OEtya25TUzQ3dnVEaXBzbFhLOUk1S0txOGpfOEstVlh3dkh2NHVKbWF2Nkx1SGpMM3p3V1RjN2x2anhJazhvbDJONFREaF9xS3VCV1BPdWw5LVY3a2h2X1ZV?oc=5"
+          "name": "UOL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUTZVTnVWeU8wMnFQRXFKdTctM2laSGl5cVVDZF9YWFVQV1U2cUVrY1FMTlN5S3ZJRkgyM204Nmprbjl4SlNJRFhlQUZ2MVpHTUdqX05QYzI5SGRLRTExVGVBcmVUODI1T0xQdm5nc2tZRXNLWGpUbF9zdzRVdUFvS1NoNm92eTRZdE5SNWJhNy16SkRsNnFOLTZjWlE4dERtSDhDd0Z6aXF6UllkZlJXVkN2NGdtTXVGQ2ROLXNPdU51MnVfcU5jdXJTemlKS0dQT1dNUFVvUG9PaVRFbThXeFFkVU9yTGZsMkE?oc=5"
         }
       ]
     },
@@ -105,7 +129,7 @@
       "id": "5683260d44aa",
       "title": "XFG: tudo sobre a variante da Covid-19 que predomina no Brasil em meio a alta de casos - O GLOBO",
       "published": "2026-11-12T12:59:14+00:00",
-      "summary": "XFG: tudo sobre a variante da Covid-19 que predomina no Brasil em meio a alta de casos&nbsp;&nbsp;O GLOBOTudo o que se sabe sobre a nova variante e a alta de covid-19 no Brasil&nbsp;&nbsp;VEJACovid avança no Brasil com predominância da cepa XFG, mais transmissível; conheça sintomas&nbsp;&nbsp;Folha de S.PauloNova cepa de covid preocupa especialistas&nbsp;&nbsp;BNC AmazonasXFG: o que se sabe sobre a variante do coronavírus que predomina no Brasil&nbsp;&nbsp;Estadão",
+      "summary": "XFG: tudo sobre a variante da Covid-19 que predomina no Brasil em meio a alta de casos&nbsp;&nbsp;O GLOBOTudo o que se sabe sobre a nova variante e a alta de covid-19 no Brasil&nbsp;&nbsp;VEJACovid avança no Brasil com predominância da cepa XFG, mais transmissível; conheça sintomas&nbsp;&nbsp;Folha de S.PauloCovid-19: nova cepa e aumento de casos geram preocupação&nbsp;&nbsp;R7XFG: o que se sabe sobre a variante do coronavírus que predomina no Brasil&nbsp;&nbsp;Estadão",
       "sources": [
         {
           "name": "O GLOBO",
@@ -150,14 +174,14 @@
       ]
     },
     {
-      "id": "cb1f4864d6d2",
-      "title": "Câncer de próstata: 8 em cada 10 pacientes já diagnosticados demoram mais de 60 dias para iniciar o tratamento no SUS - G1",
-      "published": "2026-11-12T10:55:00+00:00",
-      "summary": "Câncer de próstata: 8 em cada 10 pacientes já diagnosticados demoram mais de 60 dias para iniciar o tratamento no SUS&nbsp;&nbsp;G1Veja mais manchetes e perspectivas no Google Notícias",
+      "id": "9c682a18692e",
+      "title": "Após cirurgia no cérebro, homem de 29 anos acorda vendo o rosto de seu gato em todas as pessoas - CNN Brasil",
+      "published": "2026-11-12T10:39:09+00:00",
+      "summary": "Após cirurgia no cérebro, homem de 29 anos acorda vendo o rosto de seu gato em todas as pessoas&nbsp;&nbsp;CNN BrasilPaciente acorda de cirurgia cerebral e passa a ver o rosto de seu gato em humanos; entenda a condição rara PMO&nbsp;&nbsp;O GLOBOHomem passa a enxergar seu gato em todos os rostos após cirurgia cerebral&nbsp;&nbsp;Brasil 247Homem de 29 anos opera o cérebro e passa a enxergar traços do próprio gato no rosto de outras pessoas&nbsp;&nbsp;O POVOHomem com ‘síndrome da face demoníaca’ e",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOU3pKMDM2S01QYnVVbHp4TUFkckc4c2NYbnV0VWRXWGswcXF2bkxxWWQySUZBQkJLdzg2Q3NkTHF0U2pia3hsM3JFZTQ4SlVzZnJiRU41cTZFRGc1dG1pVnUtNjltQUdxaW1WNU1hWE5aTHBDUmZiZzVvWHJQaDRVelJhUy14bXVlV2lpUlEwanUwZGo5Yktnd0xnT2RsRDgtSDUwYzRkZ1pxdi1zQkx2UlRWaExud0oxY3VTWHlBOGtNSVE1Wk1BX0FmRVJPeDRkaF9rZDhkS3BlcDBDSVV0bUpLT1J3NDJhbkdjZHZRN3NrZFJRV19VOHNoVmHSAYsCQVVfeXFMTkszRUREU2d0VXFOVVM1QU52aDJqdThvZ0pxQnJkR1M0OGtuSmE2eXJaZXZuTlB6ZGdWU3NKLXlXSWtVOVFuZjBuUU82ek5nenM5M1pWNWp6YUxmcFpxdjZBYncyNUYtdkNmdE85STNNTVphTkNkcFlZU1ZvdEEtdUNkMERjWEg3ekJhU2VUOEktRmpISUJRc3lManhNb3ZScHp0X1ZQZWY0RE51TWJBam9RT1hnb1pEMmZPRTFwWFFRV3pzcm1sYkZBNk5sUEpaSnJnU01DVmdlZzN6RGM4UDF4ZWxXNUVzZ2ZvR2tQZ09VUEtSN2xBaWNNaS1XTExWc29DbTREZnlrdGln?oc=5"
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaFNGbmMyOTcwMzRzYl9HTEFSWW5rQ25oV1RJS1Y1ODdQcmRHOGZoQzM5cE1BQTI3ZG15bV9FTktBN3dwWTU3ZGtVd1JxLW9uMXFoTUFxeDliZ0pWYVRyNlhENFk3SjFXbGwtaUwzeFR3dEktZ2FiblE5OEtya25TUzQ3dnVEaXBzbFhLOUk1S0txOGpfOEstVlh3dkh2NHVKbWF2Nkx1SGpMM3p3V1RjN2x2anhJazhvbDJONFREaF9xS3VCV1BPdWw5LVY3a2h2X1ZV?oc=5"
         }
       ]
     },
@@ -186,18 +210,6 @@
       ]
     },
     {
-      "id": "db741188727f",
-      "title": "Mpox: variante de vírus que causou crise na África avança em regiões do Brasil; entenda - O GLOBO",
-      "published": "2026-11-12T07:30:01+00:00",
-      "summary": "Mpox: variante de vírus que causou crise na África avança em regiões do Brasil; entenda&nbsp;&nbsp;O GLOBOMpox: tudo o que se sabe sobre a variante que está em circulação no Brasil&nbsp;&nbsp;O GLOBOGoverno garante a compra de 25 mil doses da vacina contra a mpox&nbsp;&nbsp;Agência BrasilUFRJ alerta para alta de casos positivos de mpox no RJ&nbsp;&nbsp;SBT NewsInquérito investiga falhas na distribuição de vacinas para mpox&nbsp;&nbsp;R7",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQlNDNXhLT1VPYWYteU1yUGlPZ1FlQ2VvMG1MaE92MVJtY0hKc0d3aXh2a3JQNUZMRWVtcEp0TGl5VlBOOV9kLVBkUHo3elptenJER1oyc1l3bnNJdlJocFd1VWsydnM0RmlkbmtpRW9UT1NraDBTNGlqbnV6aHgyeERZSGtKOXNINzNOUVVVZEpaZFFJa004akNxQ1FPYXlsa1N3QXNva0hlYkRlM01OWV9GUy01d0xxM0t3QTJwWHdrQXFVa1B5bHBCNFZtWmJxQmxHZkE5Z0HSAecBQVVfeXFMTkFUNVJYaF9KaGxWZzluaGpFNEg0aHMzQXUwNERWOUp0Um1CRnZfU0YxdzJYMGpqS19GaW1uZFFlZmhWdEVleXpCSlFvQzhyZFN1QmxHcWF3SUJrcDc3QkItYVRLWmc4NjJGYVRyc3BaaXVfQ2Nva0I4anhxclZyOEtVZ19OQUZFdlBvYjUxbDdhVFFmOHR5anRCZ1l4OTVQVTdtdEFVajJENjZVblQ4T0RGRmV4VDdndmRyUUtPcVV3U1lzenpEN3U4WGZFX3J6dlhkVXV3TnhKdzVTQll1WVY5OXJ5eTQ4?oc=5"
-        }
-      ]
-    },
-    {
       "id": "83e4fabc2c1f",
       "title": "Dormir apenas 4 horas altera o cérebro com um impacto equivalente ao consumo de seis cervejas: 'O desempenho diminui' - O GLOBO",
       "published": "2026-11-12T07:30:00+00:00",
@@ -222,34 +234,10 @@
       ]
     },
     {
-      "id": "61a019ab4ecc",
-      "title": "Com alta de casos de Covid, especialistas orientam quem deve se vacinar - Folha de S.Paulo",
-      "published": "2026-11-12T07:00:00+00:00",
-      "summary": "Com alta de casos de Covid, especialistas orientam quem deve se vacinar&nbsp;&nbsp;Folha de S.PauloQuem nunca recebeu nenhuma dose da vacina contra a covid-19 ainda pode se imunizar?&nbsp;&nbsp;VEJAVacinação segue como principal proteção contra a Covid&nbsp;&nbsp;G1Vacina contra a Covid-19 faz parte do calendário básico de vacinação; veja quem pode se imunizar&nbsp;&nbsp;REDE BRASIL DE TELEVISÃOCovid-19: Ministério da Saúde reforça vacinação para grupos prioritários em 2026&nbsp;&nbsp;Ceará Agor",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcGRaeXE5NVVSaG5CdlloNUdsX2lXNTA5MmJyTW5LdDlGREdpYnM4YU1ZcmI3TEhubUZSR3RGM0lzbkhwa0dkbXlrZzgyRzR1ajBVbHVEYU04emlPVmk1bm43WWhrMkd2UlJHd3VqVFQwSVVZZVlWU2gzd1VkX3RKMk8zUG1RMW1icy1IaHNhdkdvaHIzakh3VktJZzlJR3BHRm9rUzI4SVh3Y1FOdDhWb2QtcVV1b04tZG10cGRRbVVQNlZMeEVKVzJiaw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5555aa0a6ac7",
-      "title": "Emagrecer com canetas pode provocar mudanças em partes do corpo que você nem imagina; entenda - O GLOBO",
-      "published": "2026-11-12T07:00:00+00:00",
-      "summary": "Emagrecer com canetas pode provocar mudanças em partes do corpo que você nem imagina; entenda&nbsp;&nbsp;O GLOBOTecnologias para combater a flacidez pós-perda de peso viram foco na estética&nbsp;&nbsp;RCWTVInstituto Wanfi aposta em medicina regenerativa e estética&nbsp;&nbsp;Pequenas Empresas & Grandes NegóciosCanetas emagrecedoras podem diminuir os seios? Veja o que acontece&nbsp;&nbsp;O GLOBO",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPT3ZtNHlObTl0MHVXay1ESzQ3U3RVbzV2V1RvLWxKWlRuSldPNTVtMEFyRDQ3QTFXTlVzZ2VaRlIyMmU2THEtVTMyNmVCRjhzQmM0a2lsRER6Q2x0bmZUMklOcTV1VDh0bG80d1N5R2t5RHd2Uk5lV1hqaUo5U3RpYXJMSm1RWjNKT0VHZDZzVnNEV1RONFZBZC1YeXRLYllGaEtpenlPVHBiNWIwY3BpU1liMTFIQUF2WWZ6M0tIZlpwd1Nvc3dPRDYzZXFOdU9oWHpGNkl0UUwteUpfYTdJ0gHuAUFVX3lxTE5OTVdKNmhueG5WSldFMFA0QjlyOE1oLWc0QndqMTUweDhaamhDXzhsT1JiclljMm9BSzlMdWo1bzlsUTJIOXVJRTN3N0FoTWtGeEl2azI4NDItZXhWS25nV19sVlNVcUMzMlBXXzlRU2tMczBPWkZqYTFKT1NhMm0za2lQUmtVLWZWWUU5ZU0zMVoyY1JUZGRTQ2liMXhXOGl5V0VVM3NFWVY4UmYzVG14YzhkRjJUR3BkM19tYjdQQ2U2alc0ZDVFSUJHYzJXcjlkblNaS3UxU3ktNXA3ZzQ4OUF3aHhGNXZaRERfU1E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f188697c66c5",
       "title": "Não sabe quem pode tomar a vacina? Preparamos um \"servição\" sobre a Covid - Metrópoles",
       "published": "2026-11-12T05:45:00+00:00",
-      "summary": "Não sabe quem pode tomar a vacina? Preparamos um \"servição\" sobre a Covid&nbsp;&nbsp;MetrópolesDF registra aumento recente de casos de Covid e reforça alerta para vacinação&nbsp;&nbsp;G1Covid cai 76% no DF, mas avanço recente dos casos acende alerta para vacinação&nbsp;&nbsp;Jornal de BrasíliaDF concentra quase 30% dos casos de Covid-19 do ano em apenas cinco semanas&nbsp;&nbsp;Jornal OpçãoVacinação no DF: saiba tudo sobre caderneta, calendário de rotina e doses especiais&nbsp;&nbsp;Secretaria d",
+      "summary": "Não sabe quem pode tomar a vacina? Preparamos um \"servição\" sobre a Covid&nbsp;&nbsp;MetrópolesCom alta de casos de Covid, especialistas orientam quem deve se vacinar&nbsp;&nbsp;Folha de S.PauloCovid-19: DF tem alta no número de casos da doença desde outubro; entenda e veja como se vacinar&nbsp;&nbsp;G1Quem nunca recebeu nenhuma dose da vacina contra a covid-19 ainda pode se imunizar?&nbsp;&nbsp;VEJAVacinação no DF: saiba tudo sobre caderneta, calendário de rotina e doses especiais&nbsp;&nbsp;Jo",
       "sources": [
         {
           "name": "Metrópoles",
@@ -270,18 +258,6 @@
       ]
     },
     {
-      "id": "2f301f8eded3",
-      "title": "Cientistas da China desenvolvem pente que promete combater a calvíce - Band",
-      "published": "2026-11-12T00:11:00+00:00",
-      "summary": "Cientistas da China desenvolvem pente que promete combater a calvíce&nbsp;&nbsp;BandBoas notícias para quem está sofrendo com queda de cabelo.&nbsp;&nbsp;Vietnam.vnPesquisadores da Universidade de Beihang criam pente que promete combater a calvície&nbsp;&nbsp;Click SergipeCientistas desenvolvem pente elétrico que pode ajudar no tratamento da calvície&nbsp;&nbsp;Portal SGCCientistas criam \"pente elétrico\" que pode ser solução para a calvície&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Band",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUzRtdVpPaE1ncjlkZDhaM0U4eGpQVXM0LVJoU1FQV3liMmpjc2dWRWJ3aUJseXFZeks2WHQ3VmdZeUREV1VoSEx5d0o1N2RBZlRCcnM4UWhMM1JLUzVlSW91X3RzbllBQ3RtWURWSGRxWUFnMUJoYWhSTEVlYnA1dHNPT0RQaU93dzVLemFqMThqOHdOWFhJdDlZQTFXSG8?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d0a449d8a8d9",
       "title": "Ação de redução de danos com disponibilização de seringas em festival em SP gera debate nas redes - Folha de S.Paulo",
       "published": "2026-11-11T23:17:00+00:00",
@@ -294,62 +270,14 @@
       ]
     },
     {
-      "id": "b6a65b372316",
-      "title": "Novos tratamentos ampliam o controle do câncer de próstata e a qualidade de vida - Estadão",
-      "published": "2026-11-11T23:00:00+00:00",
-      "summary": "Novos tratamentos ampliam o controle do câncer de próstata e a qualidade de vida&nbsp;&nbsp;EstadãoPrevenção e novos tratamentos aumentam as chances de cura do câncer de próstata&nbsp;&nbsp;G1Radioterapeuta do Mater Dei aponta vantagens da radioterapia para pacientes com câncer de próstata&nbsp;&nbsp;Rádio MetrópoleEle adiou o exame de próstata por vergonha. O que a lei garante quando o diagnóstico chega&nbsp;&nbsp;DeFato Online10 pesquisas da UFU sobre câncer de próstata&nbsp;&nbsp;Comunica UFU",
-      "sources": [
-        {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUi1LR0lmTmlKd1JDRmNVd25nUVNEdWFLeHZnakdVUnY5NTMtWWdyMXR0STUzWFIxazVjOTJ4QUtKRGlfbUZLVldDNExGQkRTUDlWR1JiaHV5NkxSQTJNVW5XVkR3VGd1UFBYeFY2NWVFUWoxZ21IeC14UWNhLWo3Ui1NNzRSdDl1TndlM29rVU5QUTFhS0VoNDkxYmRLTHpZVmtwcEszUW9xTkFZMm9lMTdTdmtraDZ5Q2pLcy1tdXNxSFpWOVdvS9IBzgFBVV95cUxQb0VjbzhnRnZtTjRPeEVQSHdlV0JXdlc0NGFDMFpkaEFHLXZ6alJuYVJBQS1TQ2lhczFySXBaS2pCVEdOclVjYmdPc2prUnlKdWlScUEtR1loMmp6YVg4OHdmZURvV1dnSzlzblNTMzRCTGNBTUZyZlFuMXRHcFlOdEh2c0c2NG1Vb1hCdkR5Y0wydlRzUm1OSzFwbWZZRGhxeFlRMDl0OWdkbFZVUUZrbnlQRHB2ekZXRWVJSzVPUXdmYlB5a3N0ak0wX2l0Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1c57193eb51e",
-      "title": "Gabriel Rolón, psicólogo argentino: 'É difícil para o ser humano abrir mão do sofrimento, porque é no sofrimento que encontramos um lugar. Todos nós temos essa ambivalência' - Terra",
-      "published": "2026-11-11T21:51:00+00:00",
-      "summary": "Gabriel Rolón, psicólogo argentino: 'É difícil para o ser humano abrir mão do sofrimento, porque é no sofrimento que encontramos um lugar. Todos nós temos essa ambivalência'&nbsp;&nbsp;Terra",
-      "sources": [
-        {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPeDZZMHZrWmxRVDNtNDQ0RENxZjV2RUx5X3llT1ZzdTE3RnRBMGg2LW1PbmJUS3ByaW5aUnJWVFZuRDdZeHBtQ1Y4cFZsZDNWTVY4VjR1VVdDUl9MVDEyajliOURwWUJ2UzdtbGZJSjJvQWFyTUpTVklRak1qQzVrOFRZM3E1cnNOYUJ5WThyWUlCekVVakRFdWdUcjZZcC1jbC0tUnJWYzFsU0kwcjBDM3FOd2pydkdCYkVXbGRuWFRRMDVpU2hiQ3ZTWkVDenIwRUIxRXRaamU0a2NVRGFfMlRuYXd1TXJuQWx0QjBWMFlmMW4zMTRCYW5TY2FSVVpHVWh4a19UN0lNcWNWWlluYjlGYTU1MmdHajNxY2dvRXRmR2IteEY4a2IwVjh5Sm5LLW1MMGZmaU05cDhFX25LazRMckNPdEVmWDRYaHRGMW9wakswWXFkem9sUFhZaUk0VFR6OEtEOU5KQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4d7830ab37ea",
       "title": "Retatrutida reduz dores no joelho em pelo menos 50%, mostra estudo - CNN Brasil",
       "published": "2026-11-11T20:45:32+00:00",
-      "summary": "Retatrutida reduz dores no joelho em pelo menos 50%, mostra estudo&nbsp;&nbsp;CNN BrasilNova caneta emagrecedora também trata as dores da artrose de joelho&nbsp;&nbsp;VEJAO que a balança não revela sobre o tratamento farmacológico da obesidade&nbsp;&nbsp;MedscapeRetatrutida reduz dor da osteoartrite de joelho, aponta estudo&nbsp;&nbsp;Afya | HomeUm novo medicamento experimental para emagrecer também ajuda a aliviar a dor nos joelhos com artrose&nbsp;&nbsp;Terra",
+      "summary": "Retatrutida reduz dores no joelho em pelo menos 50%, mostra estudo&nbsp;&nbsp;CNN BrasilNova caneta emagrecedora também trata as dores da artrose de joelho&nbsp;&nbsp;VEJARetatrutida experimental vai além da perda de peso? Dois ensaios clínicos apontam um efeito na dor da artrose no joelho em pessoas que vivem com excesso de peso&nbsp;&nbsp;Estado de MinasUm novo medicamento experimental para emagrecer também ajuda a aliviar a dor nos joelhos com artrose&nbsp;&nbsp;Terra13/11/2026 | Retatrutida,",
       "sources": [
         {
           "name": "CNN Brasil",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRnN5YW5PNm9NNGVaZzhsMG1MWTZiTkhRb2EyOFZXTVhfYTc3V1FtLTF0ZXRHcEVSRzAxc01tTU1oM2ZIWjgyQjZDZERyUS0wdnhrQjZWNTNodXlfSDlmOGdVZVZzS0tsYk5velhMZEpqYzNyV25RZVZpWjhyZmZPYjRUZllkT0xNMFVFOURlV256dktNWFhRQkFBaXNoQWN5X0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "00bd5ba1baf2",
-      "title": "Homem faz cirurgia e passa a ver olhos de gatos em humanos; estudo analisou - Globo",
-      "published": "2026-11-11T20:44:45+00:00",
-      "summary": "Homem faz cirurgia e passa a ver olhos de gatos em humanos; estudo analisou&nbsp;&nbsp;Globo",
-      "sources": [
-        {
-          "name": "Globo",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZGE1aWFnVV9nYXZxWTFrWGc4Wlo5TWlLdUlFb29VWGthaDdObjdhcHd1eTAyall5dmI0NGk5eXVfbkRNQmJPZUVBSVpEV0JaaW9rc2NfUy1lbFRKMnNUTnJGS3c4ZFEwVEpsdHExTzNfc05VblgxeTFXZGpVeVZ6dWh3bWFWX05wWWwta0RGM19VZjNxLXFYTlpSX1dENUY0cDNVUktQcGhKckRfS0VZeHdVLU04cjdUNkxRZUo3NnpWdGJuaTA0T0h6c2ZuT1pYdTRr0gHiAUFVX3lxTE16N2pzYWQ2bm8xRjB2cHNPTXZmbktmWk5rTTkybEhQU1dXYlA5dGlJeVpNcjhfV1RrREN6ZWl2d1FhUFlmNjNyblJ4Tk1NajZEdzBsX3FNeVVsby0wdElabVJZUWxSOWZjQUw0Y2UxcDVSdHFEeXQ0OHgxLWoxdXNUS1RKU0MzUXZPQ0REdDQzVXBuRE9mZmwwNDFtY1lhcU41OFgzbjVUOVlYY0Z2TUs4OGFrRHVRek5NbmpsZVJiZTBnUlBhNUViNmlHSXhDX0tuQW0zd3V3LTllSjZzNDBDNUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ee7ea826171b",
-      "title": "Como a perícia ajuda a desvendar crimes? Programa leva bastidores da ciência forense a escolas de MS - Midiamax",
-      "published": "2026-11-11T19:56:00+00:00",
-      "summary": "Como a perícia ajuda a desvendar crimes? Programa leva bastidores da ciência forense a escolas de MS&nbsp;&nbsp;Midiamax",
-      "sources": [
-        {
-          "name": "Midiamax",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVXdsMXJ1TWFocXB2bWJpRkJWVkY3WUN4X1ltbHlYMkJzR1QxZURDaTRtUzN2eHR2WUpyQS1tdWRVcFB1Vk1xT2pRUm9JV2duM2JwelZESXNvdUhLVWlYY3dDM1Rna0JSNGphenlYbHBHVHN0LWx4TnVHMmxfZEYtdGY2Njdnb1VieEs3M3pDcHZIcVNJMktiVHEyaUFxQWxwTlU3SmtRa1ltQjRtajZDYS1xdHZjNUtUSVo1dVJfOA?oc=5"
         }
       ]
     },
@@ -369,7 +297,7 @@
       "id": "af578b9e7466",
       "title": "Casos de Mpox confirmados no Ceará sobem para 78; saiba como se proteger da doença - Diário do Nordeste",
       "published": "2026-11-11T18:44:00+00:00",
-      "summary": "Casos de Mpox confirmados no Ceará sobem para 78; saiba como se proteger da doença&nbsp;&nbsp;Diário do NordesteCeará tem 78 casos confirmados de MPOX&nbsp;&nbsp;G1Saúde Ceará reforça orientações para prevenção da mpox em nova nota técnica&nbsp;&nbsp;Governo do Estado do CearáNOTA OFICIAL Secretaria da Saúde de Sobral confirma dois casos de MPOX no município&nbsp;&nbsp;Prefeitura de SobralVacina contra mpox chega ao Ceará: confira quem pode ser imunizado&nbsp;&nbsp;Portal Ceará",
+      "summary": "Casos de Mpox confirmados no Ceará sobem para 78; saiba como se proteger da doença&nbsp;&nbsp;Diário do NordesteVídeo: Ceará tem 78 casos confirmados de MPOX | Vídeos CETV 2ª Edição&nbsp;&nbsp;G1Saúde Ceará reforça orientações para prevenção da mpox em nova nota técnica&nbsp;&nbsp;Governo do Estado do CearáNOTA OFICIAL Secretaria da Saúde de Sobral confirma dois casos de MPOX no município&nbsp;&nbsp;Prefeitura de SobralVacina contra mpox chega ao Ceará: confira quem pode ser imunizado&nbsp;&nbsp",
       "sources": [
         {
           "name": "Diário do Nordeste",
@@ -405,7 +333,7 @@
       "id": "cfb3a7865657",
       "title": "Consumo de energéticos está associado a 11 vezes mais relatos de parada cardíaca em jovens adultos, indica pesquisa - Extra online",
       "published": "2026-11-11T16:49:35+00:00",
-      "summary": "Consumo de energéticos está associado a 11 vezes mais relatos de parada cardíaca em jovens adultos, indica pesquisa&nbsp;&nbsp;Extra onlineConsumo excessivo de energéticos acende alerta para riscos à saúde do coração&nbsp;&nbsp;Jornal de BrasíliaEstas bebidas podem prejudicar suas artérias e aumentar o risco de infarto&nbsp;&nbsp;Meio NewsParada cardíaca aparece 11 vezes mais em relatos sobre energéticos, diz estudo&nbsp;&nbsp;O CafezinhoEnergéticos acendem alerta para a saúde cardíaca dos joven",
+      "summary": "Consumo de energéticos está associado a 11 vezes mais relatos de parada cardíaca em jovens adultos, indica pesquisa&nbsp;&nbsp;Extra onlineConsumo excessivo de energéticos acende alerta para riscos à saúde do coração&nbsp;&nbsp;Jornal de BrasíliaEstas bebidas podem prejudicar suas artérias e aumentar o risco de infarto&nbsp;&nbsp;Meio NewsPesquisa aponta associação entre consumo de energéticos e maior ocorrência de problemas cardíacos em jovens&nbsp;&nbsp;Rádio Cidade 99.7 FMBebidas energéticas:",
       "sources": [
         {
           "name": "Extra online",
@@ -429,7 +357,7 @@
       "id": "efe2ca3260b7",
       "title": "Como controlar a glicose no sangue com escolhas simples na alimentação - UOL",
       "published": "2026-11-11T15:00:00+00:00",
-      "summary": "Como controlar a glicose no sangue com escolhas simples na alimentação&nbsp;&nbsp;UOLDiabetes na gravidez: atenção ao horário das refeições pode ajudar no controle da glicemia&nbsp;&nbsp;Extra onlineCaminhar depois de comer pode provocar uma mudança importante no açúcar do sangue&nbsp;&nbsp;TerraDiabetes tipo 2: como a ordem dos alimentos no prato afeta o controle da glicose&nbsp;&nbsp;Tua SaúdeComer salada antes do arroz faz diferença? Estudos revelam o que acontece no organismo&nbsp;&nbsp;Catr",
+      "summary": "Como controlar a glicose no sangue com escolhas simples na alimentação&nbsp;&nbsp;UOLDiabetes tipo 2: cuidados com alimentação e exercícios ajudam no controle da glicose&nbsp;&nbsp;GZHPrograma de até 900 calorias leva 54% à remissão do diabetes tipo 2&nbsp;&nbsp;UOLPessoas com diabetes precisam evitar arroz e frutas? Um médico responde.&nbsp;&nbsp;Vietnam.vnPedCast: \"Alimentação saudável na prevenção do diabetes\"&nbsp;&nbsp;Sociedade Brasileira de Pediatria",
       "sources": [
         {
           "name": "UOL",
@@ -438,38 +366,14 @@
       ]
     },
     {
-      "id": "8b07b475d7ed",
-      "title": "Parkinson: detalhe na forma de andar aparece sete anos antes da doença - Metrópoles",
-      "published": "2026-11-11T14:17:00+00:00",
-      "summary": "Parkinson: detalhe na forma de andar aparece sete anos antes da doença&nbsp;&nbsp;MetrópolesAlterações no modo de caminhar começam até 7 anos antes do diagnóstico de Parkinson&nbsp;&nbsp;UOL",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORXZIZEg4Rld1QnhjVTVKalVxbU5qZGlfeFV3a05Ma3VMZmVXTkRaY3dXeFVMUmxWVnV3VS1ac0NqZlZaZHNJMHlhWnFJM3dBdjZfTFhkQ0tma3BRWFNTVnFSYW1reTBsdXlYelpDMWFGVzdfTTBsenBUa09HY3hWa3Rhejd3Q2Vyb1V3cUlybmVFeFpuTGR1akRmSkY2VUNuWkJhRA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6f345719e1c8",
       "title": "“Tatuagem de fuligem”: os impactos da fumaça de incêndios florestais sobre a saúde - Jornal da USP",
-      "published": "2026-11-11T14:15:00+00:00",
+      "published": "2026-11-11T14:19:52+00:00",
       "summary": "“Tatuagem de fuligem”: os impactos da fumaça de incêndios florestais sobre a saúde&nbsp;&nbsp;Jornal da USP",
       "sources": [
         {
           "name": "Jornal da USP",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONVVaWkJUazlhQ3BuWHlJbUhzZlRPVnU4RS10SVNhWTZyT1d5Q3RjUE9NRWc3eWNXLWxNeDNyRF9iVmdCbXJfZmtpMW9HVXVUZ1Jfal8wUTRsaHA0cTRtUUl3YzFGVHJ2OVhuNVROZ3NBZXc0M0tRUm5TaXByUlJWcDczTGkzdlhlMHdyb1dydHdhbG9WelNFYXphUzZicmNNMXZrQUl1cjdreUhVcGlKRQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "24117a31ab94",
-      "title": "Covid-19 avança em 18 estados no Brasil; veja quem deve se vacinar e quando fazer o teste - Exame",
-      "published": "2026-11-11T13:38:22+00:00",
-      "summary": "Covid-19 avança em 18 estados no Brasil; veja quem deve se vacinar e quando fazer o teste&nbsp;&nbsp;Exame",
-      "sources": [
-        {
-          "name": "Exame",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUWFKc1lxcFZjTnQ1NmNPNE84WFlaR3R1LUdvdnNPekRwUGptdEhaZVl2OGhXZ2pBd1ZBNGdETnRWX3JualIxM0lHSUkzWDd4N3Z4dEc4MGRpbGExLVI4Y2pfVXdDdy1jLWs5ZjZacWN0MXY4LUpfTXVOS25mX2JxTEEzYlM2eUZLZFBILVFvemxGYnpuSEtGNGI3RjNuUU5jU0NYLVpXMEM4WmNMZExXdUp6N0h2UQ?oc=5"
         }
       ]
     },
@@ -486,62 +390,14 @@
       ]
     },
     {
-      "id": "b74d7accdf2a",
-      "title": "Interromper o uso de Ozempic pode dobrar o risco de infarto, alerta estudo; entenda o motivo - O GLOBO",
-      "published": "2026-11-11T11:12:42+00:00",
-      "summary": "Interromper o uso de Ozempic pode dobrar o risco de infarto, alerta estudo; entenda o motivo&nbsp;&nbsp;O GLOBOSuspender fármacos GLP-1 em diabéticos associa-se a risco duplicado de enfarte, AVC e morte&nbsp;&nbsp;Euronews.comOzempic: interromper tratamento pode dobrar risco de infarto, AVC ou morte, diz estudo&nbsp;&nbsp;ExameJP1: Parar de usar Ozempic pode dobrar risco de infarto; Entenda&nbsp;&nbsp;sampi.net.brInterromper Ozempic pode elevar risco de infarto, diz estudo&nbsp;&nbsp;Diário do C",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQekppa25ZekxGVXV2U3hIdXp5QXhLVVdTMm5sN3VPV3dpWUpxbTRFaVBibzJhTkE0MFh5QVAtTXVPQ3daNHo4dkpLTFhDREUyWllOWW0waEFrOFQwLWhOVHdsTmRGb0JuOUhQX3ZlU2lMVWVESTlRU3ZDMWRieUVIVXJWRTVRRmUyREhQMzlINXBmV1JWMEY4MlpBWno4Ri1BanEyYklaSUktTGczbkJfc1U3UVBuUThzaEhqRkFVMU1mUXQzSG5QYdIB1wFBVV95cUxNSW1YRVdaXzd3MW9rUjhmWXh6SE1wZk5sWDAwWGI0SUtiT0x3cE9SZlFBajZPRWdkZ09QSW85clR0X0pGaWJaWWlPdlBpMDZGZ0ZXYXhtMERHZlRxVzdYWkNrSUN1LUdVOVVmZDF2ZTFxMk84NFdYemlTOFZpdjUxMWg4blhOOHk3dmYyazBfdUFndTBYQlctSmxRaVJ5SElvSGRNV0JWQmt0UWZxRnFMOHRTYmhtQjVEVGg1TkxsU3JYZk5GX0lNbmk3d3VNNFpCVVAxd3NmSQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fd142bd3ca75",
-      "title": "Corvos são mais rápidos que humanos para tomar decisões, sugere estudo - Folha de S.Paulo",
-      "published": "2026-11-11T09:00:00+00:00",
-      "summary": "Corvos são mais rápidos que humanos para tomar decisões, sugere estudo&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUFAtRjY3SHh4N3NUX3BIRTFPaHdyM25weXM3ODRDU1Zkd2JkTVljVWVEUk1SRHpQaEhsbVdQOWlwRHVwdDVtYWY3NUZjZnNGQVA1S1ZSLTlrRlpURjlxTkR1TkhHbm5MRGgxU2FsZVBycjdUSFdVYXJCTU5pQ0FnUWNxVWpRQXBONGtIRjFRVjUzTnJlUUFEZGJMMGxya0E3YUxLMDJ6cXBHTHNEeHQ2SFJNMXgzRWlBbGZoRkx3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "36d112eeeee2",
-      "title": "Terapia com células CAR-T devolve movimentos a pacientes com a doença de Céline Dion - Superinteressante",
-      "published": "2026-11-11T09:00:00+00:00",
-      "summary": "Terapia com células CAR-T devolve movimentos a pacientes com a doença de Céline Dion&nbsp;&nbsp;Superinteressante",
-      "sources": [
-        {
-          "name": "Superinteressante",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcFI1OGNFaS0xUlQ0anVvZ2dES0pfSDlNUnhORnM1RDlXTmVIN0tUaVRoSENBTjliQldVMXhIWEptN1g4VmNUUVVtdmthdkZEcTBSX1VudWJhRENJeGIyLV9pN2ItS0I5UkZTMlNkRHhuT3ZWM0pNVHJqOWhmWTVpbnVNRWh0dUhWSEZVTTNwbUVZOGVXQmV1NGY1ZWdQa19fZi1adm5GWHdpZkpEVGRrenR4TkN4SzA4V1NMUw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "aa7733f035f1",
       "title": "Três no máximo? A verdade por trás da quantidade recomendada de ovos para comer por semana - O GLOBO",
       "published": "2026-11-11T07:30:00+00:00",
-      "summary": "Três no máximo? A verdade por trás da quantidade recomendada de ovos para comer por semana&nbsp;&nbsp;O GLOBOQuantos ovos por dia é saudável comer sem prejudicar o colesterol&nbsp;&nbsp;Tua SaúdeOvo todo dia faz mal? Nutricionista explica quantos ovos consumir por semana&nbsp;&nbsp;TerraNutricionistas indicam até sete ovos por semana em dieta equilibrada&nbsp;&nbsp;Diário do Centro do MundoNutricionistas estipulam o número máximo de ovos para comer em uma semana&nbsp;&nbsp;Rádio Pampa",
+      "summary": "Três no máximo? A verdade por trás da quantidade recomendada de ovos para comer por semana&nbsp;&nbsp;O GLOBOQuantos ovos por dia é saudável comer sem prejudicar o colesterol&nbsp;&nbsp;Tua SaúdeOvo todo dia faz mal? Nutricionista explica quantos ovos consumir por semana&nbsp;&nbsp;TerraNutricionistas estipulam o número máximo de ovos para comer em uma semana&nbsp;&nbsp;Rádio Pampa",
       "sources": [
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMlVlb3h1THhqeTF5S2ZsV1JMaFdqbEdFM0VxM1FHSlkzX00yS1daZHlmczhxZUJHei1UaWtTeDFfUldEM3I1Q3d2SkVsQlU4cURCSHR5ZEZHZmp3SzlmbTNJVkJSWnhDNnJSZFVCMjJWWDFMM2MteTJGVEVBNnROcDRmd2xqUVA3YWVjNXVkaGRlV3UzQjl0VTdLcnkzNTZCLUoyZmV4cmZkQ0EzX0RLRk1WVjVJRWFHSGtIRW8xZzAxWmdnRTVJV0NvYUNXVkhRNGpVVnhsdmdyRlpUNVHSAewBQVVfeXFMUDhlMHUzWHJuSDE4M3ppLVo4c2lqc3plZURjcTdCdVM4MkJGX25GZ1J5YlZMaS1LTm5wVXJaZHZMS1ZiYlZ5bnRBZ3hJUmo1dUlXNkx5ZVZ5MHhJdjVsREhaZnlqSzN1d3NDdmhYUVRzZlh4bHo1UEJ0M3B6Z0ZaSV9XbDR4cVlrODRYRlRKcEw2bWgtUGhtQUdTZHBlbGZFV0l2LXZUNTd3QnRSWjVQUTF0cU14LUVkVFVsUm9nZUx4Sy1EWmQ3aFB5WHlnaDN3azNyejRUNkdONjU5aVlEZUYwMjRpWjJaTmRTcm0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "26cb207f5ef2",
-      "title": "Creatina: como o suplemento age no organismo, indicações e riscos do uso excessivo - Portal Drauzio Varella",
-      "published": "2026-11-10T19:09:43+00:00",
-      "summary": "Creatina: como o suplemento age no organismo, indicações e riscos do uso excessivo&nbsp;&nbsp;Portal Drauzio VarellaCreatina virou moda: conheça os benefícios do suplemento para os músculos&nbsp;&nbsp;R7",
-      "sources": [
-        {
-          "name": "Portal Drauzio Varella",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVmpSQ1NjNFVuc1lhcWxwejdUMzlhOHlYWEJDYWFyYW5ZRjRfUWJ3RlJ6YzFsZEJCcHdZVFcyLVQxLTVlQjEwZDBUU1BPM0dya0djUlA5S1EyV0dmcnhuLW15M3lvQW9OVmhUYnpPYXd0YmdOMmRJMWhKNGRqUXQ4Y1FXVTJpRWJLblRwaGswemdUMGhVeVlabS1Na0k4cE5tS2Y4VXJRODJ5WlY2Q0NxaWRFQ3FjNXR6YXlXOHZFZWFlNlNCaE9IVm5WR0Y?oc=5"
         }
       ]
     },
