@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Trastuzumab. 6 indicações previstas."
 permalink: /news/trastuzumab/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 ---
 
 # Notícias sobre Trastuzumab
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Trastuzumab?">
-<strong>Trastuzumab</strong> tem atualmente <strong>48 notícias</strong> e 6 indicações previstas.
+<strong>Trastuzumab</strong> tem atualmente <strong>52 notícias</strong> e 6 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,31 @@ Esta página combina as indicações previstas por IA para Trastuzumab com as no
 <p><a href="{{ '/drugs/trastuzumab/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (48)
+## Notícias relacionadas (52)
+
+### [Família denuncia sutura sem anestesia em paciente com câncer - Campo Grande News](https://news.google.com/rss/articles/CBMiugFBVV95cUxOMXJybVJUSGFtRlBGMW9wTWV6M3VNOFVfVklsUWUxdzFHaVpmT2JRNlJseS1HRU1kM1had2J4bzU3dkN4WU1laUZYdk5pZ1JXeHV1TmdLVk16NWZWemc5MjJGbXdZRUFpbHE0Unlyc3dUc1ozNWdJXy1UYjNFTnZSc21WM2hNaktKUHY2RzN3cUNnV0cxa28yN0d6cTZlWUtLYUU2ZmZBcmlINDJJVjM2NG5zX2xQRmZteVHSAboBQVVfeXFMUGhQVWRod3o2X3BVeDlRcTl2aWtVbFlnaDlpakxhSWpoeFBMNkFvQXJmanVGS0NUdEktb1hheVNQa3VyNmVkVEdZNmJTYW10N0M2QUptRXFGeUU5MmpUckFyTjQ3XzlKd2lvc0xzaWVDV0YxQ3g0c0NyckpuTGQ0M1dad0hNMTFncU50ZGEwMTdJZGE4Q0ZwS3lmanp1NEZ1NWtqV3FqdkhJUy05eDlfMi1pWWRtUk1MZkpR?oc=5)
+
+2026-11-12 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Campo Grande News](https://news.google.com/rss/articles/CBMiugFBVV95cUxOMXJybVJUSGFtRlBGMW9wTWV6M3VNOFVfVklsUWUxdzFHaVpmT2JRNlJseS1HRU1kM1had2J4bzU3dkN4WU1laUZYdk5pZ1JXeHV1TmdLVk16NWZWemc5MjJGbXdZRUFpbHE0Unlyc3dUc1ozNWdJXy1UYjNFTnZSc21WM2hNaktKUHY2RzN3cUNnV0cxa28yN0d6cTZlWUtLYUU2ZmZBcmlINDJJVjM2NG5zX2xQRmZteVHSAboBQVVfeXFMUGhQVWRod3o2X3BVeDlRcTl2aWtVbFlnaDlpakxhSWpoeFBMNkFvQXJmanVGS0NUdEktb1hheVNQa3VyNmVkVEdZNmJTYW10N0M2QUptRXFGeUU5MmpUckFyTjQ3XzlKd2lvc0xzaWVDV0YxQ3g0c0NyckpuTGQ0M1dad0hNMTFncU50ZGEwMTdJZGE4Q0ZwS3lmanp1NEZ1NWtqV3FqdkhJUy05eDlfMi1pWWRtUk1MZkpR?oc=5)
+
+---
+
+### [Vacina herpes-zóster: após aval do Senado, projeto que inclui dose no SUS vai à Câmara; entenda - O GLOBO](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaVl3TUxwaFlxVFNxNHZ5aS05d1Z0XzdKTmxqbmxLMlRta2stWm9aRThmb2dKZEVmU3VMcWJ0Ymo2MG8xSmIxZS04MThTWFFwaDRXakpCZkMzYmR1VWotbFJhRUlQT3NidGV5VC1QRE9SeVVwRUJWZVFEVS11SWZ0R0FoNmNER2QzSzdON3YtRWpxN0ViY0I4c3lUMnJack9VOUtteXh1R2xIRXFlQlNRTHhSMFlJWl8wbDZ0bFl2SjRjX24zWlZpWE9kLWR2WUtTdlRadWYtV3JTdEYtSHJwR0xn0gHwAUFVX3lxTE5BWmZ0TzhSYWM5MkZGRnVSZi0yeTdOT3hoUi16RzQxZGRSQXI2S2ZtdVdpWW9TeUxWOUpTTjB6OEFkS3ByS0xFQTQtRHNCMkliZzFaVWdva1B1SGluN1NZcFllWkJ0SzBSeHFIeEdINHRuSHhLcDNka0tFSEMzZDAwQ0ozVWphUmVzT1dCa1BCbWw2djhNYi1BUHZrWUpKaDA0SlhBRW5LWlZvMG41Q2Jzb3lFUURDM0d2bDFKZ0E1T2NTaFBnWmhHVzBlWkdRVlN3WDNsUGdkM2lEdmpadDV5Ymk2Z2U5NG1uM0U4ZUJnUw?oc=5)
+
+2026-11-12 <span class="news-indication-tag">herpes-zóster</span>
+
+Fonte: [O GLOBO](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaVl3TUxwaFlxVFNxNHZ5aS05d1Z0XzdKTmxqbmxLMlRta2stWm9aRThmb2dKZEVmU3VMcWJ0Ymo2MG8xSmIxZS04MThTWFFwaDRXakpCZkMzYmR1VWotbFJhRUlQT3NidGV5VC1QRE9SeVVwRUJWZVFEVS11SWZ0R0FoNmNER2QzSzdON3YtRWpxN0ViY0I4c3lUMnJack9VOUtteXh1R2xIRXFlQlNRTHhSMFlJWl8wbDZ0bFl2SjRjX24zWlZpWE9kLWR2WUtTdlRadWYtV3JTdEYtSHJwR0xn0gHwAUFVX3lxTE5BWmZ0TzhSYWM5MkZGRnVSZi0yeTdOT3hoUi16RzQxZGRSQXI2S2ZtdVdpWW9TeUxWOUpTTjB6OEFkS3ByS0xFQTQtRHNCMkliZzFaVWdva1B1SGluN1NZcFllWkJ0SzBSeHFIeEdINHRuSHhLcDNka0tFSEMzZDAwQ0ozVWphUmVzT1dCa1BCbWw2djhNYi1BUHZrWUpKaDA0SlhBRW5LWlZvMG41Q2Jzb3lFUURDM0d2bDFKZ0E1T2NTaFBnWmhHVzBlWkdRVlN3WDNsUGdkM2lEdmpadDV5Ymk2Z2U5NG1uM0U4ZUJnUw?oc=5)
+
+---
+
+### [Frutose pode estimular disseminação de células do câncer, sugere estudo](https://news.google.com/rss/articles/CBMipgFBVV95cUxPbnhxOE4yUUJEMDUyZjBRLVJYZThSSVFiSWpVcGM3OWhaUUpDZVdTNjI2TDM0dTdrTTFDVDBWWHB6Uk92cktEQlpZZk9Vb3dDQ1EyV2RjalVRSUJiWVMzcFhZWEdMcHZIQXdHaEZyUW40TWZ0SzlTak5mV2FDbDl0X3BsN0FVaXEtdVV1bEdsZHRRT2J1QVlIdy1OZzg4NGh6NW1Nak9B?oc=5)
+
+2026-11-12 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Metrópoles](https://news.google.com/rss/articles/CBMipgFBVV95cUxPbnhxOE4yUUJEMDUyZjBRLVJYZThSSVFiSWpVcGM3OWhaUUpDZVdTNjI2TDM0dTdrTTFDVDBWWHB6Uk92cktEQlpZZk9Vb3dDQ1EyV2RjalVRSUJiWVMzcFhZWEdMcHZIQXdHaEZyUW40TWZ0SzlTak5mV2FDbDl0X3BsN0FVaXEtdVV1bEdsZHRRT2J1QVlIdy1OZzg4NGh6NW1Nak9B?oc=5)
+
+---
 
 ### [Câncer de próstata: 78% dos homens esperam mais de 60 dias por tratamento - UOL Notícias](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUTZVTnVWeU8wMnFQRXFKdTctM2laSGl5cVVDZF9YWFVQV1U2cUVrY1FMTlN5S3ZJRkgyM204Nmprbjl4SlNJRFhlQUZ2MVpHTUdqX05QYzI5SGRLRTExVGVBcmVUODI1T0xQdm5nc2tZRXNLWGpUbF9zdzRVdUFvS1NoNm92eTRZdE5SNWJhNy16SkRsNnFOLTZjWlE4dERtSDhDd0Z6aXF6UllkZlJXVkN2NGdtTXVGQ2ROLXNPdU51MnVfcU5jdXJTemlKS0dQT1dNUFVvUG9PaVRFbThXeFFkVU9yTGZsMkE?oc=5)
 
@@ -53,6 +77,14 @@ Fonte: [UOL Notícias](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUTZV
 2026-11-12 <span class="news-indication-tag">câncer</span>
 
 Fonte: [G1](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOU3pKMDM2S01QYnVVbHp4TUFkckc4c2NYbnV0VWRXWGswcXF2bkxxWWQySUZBQkJLdzg2Q3NkTHF0U2pia3hsM3JFZTQ4SlVzZnJiRU41cTZFRGc1dG1pVnUtNjltQUdxaW1WNU1hWE5aTHBDUmZiZzVvWHJQaDRVelJhUy14bXVlV2lpUlEwanUwZGo5Yktnd0xnT2RsRDgtSDUwYzRkZ1pxdi1zQkx2UlRWaExud0oxY3VTWHlBOGtNSVE1Wk1BX0FmRVJPeDRkaF9rZDhkS3BlcDBDSVV0bUpLT1J3NDJhbkdjZHZRN3NrZFJRV19VOHNoVmHSAYsCQVVfeXFMTkszRUREU2d0VXFOVVM1QU52aDJqdThvZ0pxQnJkR1M0OGtuSmE2eXJaZXZuTlB6ZGdWU3NKLXlXSWtVOVFuZjBuUU82ek5nenM5M1pWNWp6YUxmcFpxdjZBYncyNUYtdkNmdE85STNNTVphTkNkcFlZU1ZvdEEtdUNkMERjWEg3ekJhU2VUOEktRmpISUJRc3lManhNb3ZScHp0X1ZQZWY0RE51TWJBam9RT1hnb1pEMmZPRTFwWFFRV3pzcm1sYkZBNk5sUEpaSnJnU01DVmdlZzN6RGM4UDF4ZWxXNUVzZ2ZvR2tQZ09VUEtSN2xBaWNNaS1XTExWc29DbTREZnlrdGln?oc=5)
+
+---
+
+### [Homens se preocupam com o tamanho do pênis, mas adiam cuidados com a saúde, mostra pesquisa - Jornal Correio](https://news.google.com/rss/articles/CBMizwFBVV95cUxNQnUwb3hDRmxHdlNRbGd6T29vbFJFY1phZi13bjFSYkZYSHFxMTZGREpKZFFEV1Rsc0RNYjFZb3FCMlhNZUV6eDBhSUJRM2hxaEw2MVF5S0R5VlJUaUs4TnNRTGRxc25WN2lYLUZnUUtuMkFWTzhWNUpyWG55SmowWWFGVWpQUDJUYUg2QV9ISGJrRFlSaUJRQjRtSndaUGJTTjZYNDNkYXl0a0szODUwTmE5VzRnRUw1ckt2cTNmQmpLOFBoNGN4MnJGN1pINkE?oc=5)
+
+2026-11-12 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Jornal Correio](https://news.google.com/rss/articles/CBMizwFBVV95cUxNQnUwb3hDRmxHdlNRbGd6T29vbFJFY1phZi13bjFSYkZYSHFxMTZGREpKZFFEV1Rsc0RNYjFZb3FCMlhNZUV6eDBhSUJRM2hxaEw2MVF5S0R5VlJUaUs4TnNRTGRxc25WN2lYLUZnUUtuMkFWTzhWNUpyWG55SmowWWFGVWpQUDJUYUg2QV9ISGJrRFlSaUJRQjRtSndaUGJTTjZYNDNkYXl0a0szODUwTmE5VzRnRUw1ckt2cTNmQmpLOFBoNGN4MnJGN1pINkE?oc=5)
 
 ---
 

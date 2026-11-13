@@ -3,9 +3,9 @@ layout: default
 title: "Notícias sobre herpes-zóster (herpes zoster)"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre herpes-zóster (herpes zoster). 1 notícias, 3 medicamentos relacionados."
+description: "Notícias de saúde sobre herpes-zóster (herpes zoster). 2 notícias, 3 medicamentos relacionados."
 permalink: /news/herpes-zoster/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 ---
 
 # Notícias sobre herpes-zóster (herpes zoster)
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre herpes-zóster (herpes zoster)?">
-<strong>herpes-zóster (herpes zoster)</strong> tem atualmente <strong>1 notícias</strong> e 3 medicamentos relacionados.
+<strong>herpes-zóster (herpes zoster)</strong> tem atualmente <strong>2 notícias</strong> e 3 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,15 @@ Esta página reúne as notícias de saúde mais recentes sobre «herpes-zóster�
 </ul>
 </div>
 
-## Notícias relacionadas (1)
+## Notícias relacionadas (2)
+
+### [Vacina herpes-zóster: após aval do Senado, projeto que inclui dose no SUS vai à Câmara; entenda - O GLOBO](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaVl3TUxwaFlxVFNxNHZ5aS05d1Z0XzdKTmxqbmxLMlRta2stWm9aRThmb2dKZEVmU3VMcWJ0Ymo2MG8xSmIxZS04MThTWFFwaDRXakpCZkMzYmR1VWotbFJhRUlQT3NidGV5VC1QRE9SeVVwRUJWZVFEVS11SWZ0R0FoNmNER2QzSzdON3YtRWpxN0ViY0I4c3lUMnJack9VOUtteXh1R2xIRXFlQlNRTHhSMFlJWl8wbDZ0bFl2SjRjX24zWlZpWE9kLWR2WUtTdlRadWYtV3JTdEYtSHJwR0xn0gHwAUFVX3lxTE5BWmZ0TzhSYWM5MkZGRnVSZi0yeTdOT3hoUi16RzQxZGRSQXI2S2ZtdVdpWW9TeUxWOUpTTjB6OEFkS3ByS0xFQTQtRHNCMkliZzFaVWdva1B1SGluN1NZcFllWkJ0SzBSeHFIeEdINHRuSHhLcDNka0tFSEMzZDAwQ0ozVWphUmVzT1dCa1BCbWw2djhNYi1BUHZrWUpKaDA0SlhBRW5LWlZvMG41Q2Jzb3lFUURDM0d2bDFKZ0E1T2NTaFBnWmhHVzBlWkdRVlN3WDNsUGdkM2lEdmpadDV5Ymk2Z2U5NG1uM0U4ZUJnUw?oc=5)
+
+2026-11-12
+
+Fonte: [O GLOBO](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaVl3TUxwaFlxVFNxNHZ5aS05d1Z0XzdKTmxqbmxLMlRta2stWm9aRThmb2dKZEVmU3VMcWJ0Ymo2MG8xSmIxZS04MThTWFFwaDRXakpCZkMzYmR1VWotbFJhRUlQT3NidGV5VC1QRE9SeVVwRUJWZVFEVS11SWZ0R0FoNmNER2QzSzdON3YtRWpxN0ViY0I4c3lUMnJack9VOUtteXh1R2xIRXFlQlNRTHhSMFlJWl8wbDZ0bFl2SjRjX24zWlZpWE9kLWR2WUtTdlRadWYtV3JTdEYtSHJwR0xn0gHwAUFVX3lxTE5BWmZ0TzhSYWM5MkZGRnVSZi0yeTdOT3hoUi16RzQxZGRSQXI2S2ZtdVdpWW9TeUxWOUpTTjB6OEFkS3ByS0xFQTQtRHNCMkliZzFaVWdva1B1SGluN1NZcFllWkJ0SzBSeHFIeEdINHRuSHhLcDNka0tFSEMzZDAwQ0ozVWphUmVzT1dCa1BCbWw2djhNYi1BUHZrWUpKaDA0SlhBRW5LWlZvMG41Q2Jzb3lFUURDM0d2bDFKZ0E1T2NTaFBnWmhHVzBlWkdRVlN3WDNsUGdkM2lEdmpadDV5Ymk2Z2U5NG1uM0U4ZUJnUw?oc=5)
+
+---
 
 ### [Inclusão de vacina contra herpes-zóster no SUS vai à Câmara](https://news.google.com/rss/articles/CBMitwFBVV95cUxQRFlPOE54ZUwtQjJSWWE1SC1SRm51SmVoY2N0dTdWc0ZZOGJXVWlmUDF1QlNsWHJfd091RkRiek9Rc1VWZlJRRm9KeEM2WU5ONzkxT0tVV1FiUzVmam5MQ2NBbEpRdzQwT2VycHlxVU1vOGlxSWZJWFZoYkl0MVluMkF3U0VjaW13aHJvYVh5WFF6ckdCMTVNSnZWVkZpWEp5LUVjTXUwRGJEalRtODZCV3JtSGllUHM?oc=5)
 

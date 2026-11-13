@@ -1,67 +1,79 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-11-12T23:17:23.459942+00:00",
-  "total_fetched": 98,
-  "unique_count": 97,
-  "health_related_count": 43,
+  "fetched_at": "2026-11-13T05:35:33.361235+00:00",
+  "total_fetched": 102,
+  "unique_count": 101,
+  "health_related_count": 46,
   "news": [
     {
-      "id": "416a8f850d21",
-      "title": "Brasil ultrapassa mil casos de mpox em 2026 após alta de 23% em seis dias; país registra uma morte - G1",
-      "published": "2026-11-12T20:45:42+00:00",
-      "summary": "Brasil ultrapassa mil casos de mpox em 2026 após alta de 23% em seis dias; país registra uma morte&nbsp;&nbsp;G1Mpox: aumento de casos exige monitoramento&nbsp;&nbsp;Portal Drauzio VarellaMpox no Brasil: vírus que causou crise na África avança em SP e outros Estados&nbsp;&nbsp;EstadãoBahia confirma cinco casos de mpox em 2026; veja onde foram registrados&nbsp;&nbsp;Rádio MetrópoleCasos de mpox passam de 1 000 no Brasil e 581 notificações são investigadas&nbsp;&nbsp;VEJA",
+      "id": "bf24b621351b",
+      "title": "Após caso de raiva em morcego, Zoonoses orienta população sobre cuidados - Folha BV",
+      "published": "2026-11-12T21:43:26+00:00",
+      "summary": "Após caso de raiva em morcego, Zoonoses orienta população sobre cuidados&nbsp;&nbsp;Folha BVBoa Vista registra caso de raiva em morcego&nbsp;&nbsp;G1Vacinação antirrábica percorre três bairros neste fim de semana – CGNotícias&nbsp;&nbsp;Prefeitura de Campo GrandeVacinação antirrábica terá dois pontos fixos neste sábado em Campo Grande&nbsp;&nbsp;MidiamaxEspecialistas em saúde orientam: se um morcego entrar em casa, nunca devemos tocar nele com as mãos e precisamos deixar uma saída aberta&nbsp;&n",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNaWxBV0R4LTAydmY0cHJCdGVPT1kzcWdWQVI3RTNxVEswMGZvUEVLWHJYVTREVFJqZlkxQVdQVHdCWmlCUkVhdGJmYUdKaXpTNG9mS1k0c3hDTEZ4WV9lc1BrWFR1WWRjVFlCR0tWU0pUWDdSNWxPblZMZnE3b2NaMG1DWXZKdEdROFZGSmswZExUd2VyczVaRGtBVkxMb1RXRlMzYlU0T0MtQVRWMmJLaVdneFY2NTJlLUZnZlNocXZyUkEzckMwWWZFZHRLaXV0YlJBMFd3RzE4Y3hUX1VVTVZvOVZHREhvNnJv0gH6AUFVX3lxTE1mYWNXa3RibUxncERfbDNieEF0UUZSNjNvQ0ZzRm5xTFVHSE1pd2FaMERaOWI3WUlqc0FLakZma2g4Qmg5NkM2aVFkNmpYNExFNkJIa3FEQlJqYS1ON1JUcUxHazByVnFjMm5ULXd2cUY0VGxGS3NQMmF1d0FEa2FNSkdYOHFmVkxkTFIyWUN2cmZvcUVzZWJEQzhicm9INV85ZEZvRlpwRHczSmdBZW5jWHkxcWVyeW1xNDdUYWFTY3A4b19US1dLQnhmSU0tRnRlVGVvZktYSm5scGtRLXFXRFByak02c0VrbHR4ZVIzWXlSZ3NkRmM5b1E?oc=5"
+          "name": "Folha BV",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRExMV3RWZVktWXhnZlQ4bEZxZk1yaWpXU0pQbHRVVFhRdWxtV0VCSjN5VnFqbE93aWc3Y0Nad3VlenJCRGVnTzhocXJGc29NcmszZWMtNWFBWjhRX25Qa1IwenF6a3ZkVVNBcFBxQ3gwNENVRDFWaGN4LU1PeVB2RFlQTV9YcmpBTzBmRk5jbGlQRHJ6eUhjanpBTzNZRnAtZ2lfQnhFNFk?oc=5"
         }
       ]
     },
     {
-      "id": "a62a4f373650",
-      "title": "Mostrar na novela um Nordeste do atraso e a Faria Lima pulsante é vender que só um Brasil 'dá certo', diz pesquisador - BBC",
-      "published": "2026-11-12T19:42:01+00:00",
-      "summary": "Mostrar na novela um Nordeste do atraso e a Faria Lima pulsante é vender que só um Brasil 'dá certo', diz pesquisador&nbsp;&nbsp;BBC",
+      "id": "a55c9dd5be01",
+      "title": "Brasil ultrapassa mil casos de mpox com alta de 22% em menos de uma semana - Band",
+      "published": "2026-11-12T20:36:39+00:00",
+      "summary": "Brasil ultrapassa mil casos de mpox com alta de 22% em menos de uma semana&nbsp;&nbsp;BandBrasil ultrapassa mil casos de mpox em 2026 após alta de 23% em seis dias; país registra uma morte&nbsp;&nbsp;G1Mpox: aumento de casos exige monitoramento&nbsp;&nbsp;Portal Drauzio VarellaMpox no Brasil: vírus que causou crise na África avança em SP e outros Estados&nbsp;&nbsp;EstadãoCasos de mpox passam de 1 000 no Brasil e 581 notificações são investigadas&nbsp;&nbsp;VEJA",
       "sources": [
         {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8yaDZTMmF1NjlzNUtJX0I2dDJFT2djUXktTVVHR2RpVVN1WXZ1SDc3SFdBTnF4VVp5eE9oa3E0eHBoZHJGZW5FS1J3cXM1VW1tZHdlUV9SRXptSktBX2FYb3J4Zw?oc=5"
+          "name": "Band",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV2kwUDkyWVc4S2N6cUZIR2lkRU5Dc2trZzU0NXdwS2pkajJiaWJlekctZ1pNLUtWLVp2b3NtQmN5RGtiQV9RaXBNSXk2UlZjNEJ1Uk55NnpOMExtZ1R3WUpNTTJvZVlnNEx3NDlFbnJIdUMyd0dCSllzZ2tKeWJObmJBXzVVYmhMeC1QTHJJQkNjMG5XU005M0hKWndQMWFxVW9oTDV3?oc=5"
         }
       ]
     },
     {
-      "id": "e13036003b46",
-      "title": "Ausente da COP31 por diagnóstico de ELA, Carlos Nobre é homenageado por Mercadante e aplaudido de pé - Exame",
-      "published": "2026-11-12T16:52:57+00:00",
-      "summary": "Ausente da COP31 por diagnóstico de ELA, Carlos Nobre é homenageado por Mercadante e aplaudido de pé&nbsp;&nbsp;Exame",
+      "id": "c80f8eb8d57e",
+      "title": "Família denuncia sutura sem anestesia em paciente com câncer - Campo Grande News",
+      "published": "2026-11-12T18:59:00+00:00",
+      "summary": "Família denuncia sutura sem anestesia em paciente com câncer&nbsp;&nbsp;Campo Grande News",
       "sources": [
         {
-          "name": "Exame",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM3p5a1JKNmhQYWhpcF9nVEJoZ2lNdnJnWFY0MEZGa0dFX1pmT2RZem5Ja1pXUWhHeTcwMmJCdG9vUU5iTk9KSnRPVWZkVnhFdTRPSnc3elFUaGFmU1YwQURlY1drTWxhT2dDYVV4a21ZRGRuX0JmSVZYeUx6T215Rl9yVmJkR1RqSWU1Q1FYcmE2QVNzc1hHSi1IdzJ3MW1URTg3OHlfZFd5SmE1blJZSUF3ZTczS0QtaGVvNjRrdw?oc=5"
+          "name": "Campo Grande News",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMXJybVJUSGFtRlBGMW9wTWV6M3VNOFVfVklsUWUxdzFHaVpmT2JRNlJseS1HRU1kM1had2J4bzU3dkN4WU1laUZYdk5pZ1JXeHV1TmdLVk16NWZWemc5MjJGbXdZRUFpbHE0Unlyc3dUc1ozNWdJXy1UYjNFTnZSc21WM2hNaktKUHY2RzN3cUNnV0cxa28yN0d6cTZlWUtLYUU2ZmZBcmlINDJJVjM2NG5zX2xQRmZteVHSAboBQVVfeXFMUGhQVWRod3o2X3BVeDlRcTl2aWtVbFlnaDlpakxhSWpoeFBMNkFvQXJmanVGS0NUdEktb1hheVNQa3VyNmVkVEdZNmJTYW10N0M2QUptRXFGeUU5MmpUckFyTjQ3XzlKd2lvc0xzaWVDV0YxQ3g0c0NyckpuTGQ0M1dad0hNMTFncU50ZGEwMTdJZGE4Q0ZwS3lmanp1NEZ1NWtqV3FqdkhJUy05eDlfMi1pWWRtUk1MZkpR?oc=5"
         }
       ]
     },
     {
-      "id": "a67bcfaaa126",
-      "title": "O fim do mundo é amanhã? Estudo de 1960 prevê data para o apocalipse; entenda - Exame",
-      "published": "2026-11-12T16:51:19+00:00",
-      "summary": "O fim do mundo é amanhã? Estudo de 1960 prevê data para o apocalipse; entenda&nbsp;&nbsp;Exame",
+      "id": "912cc20e6028",
+      "title": "Vacina herpes-zóster: após aval do Senado, projeto que inclui dose no SUS vai à Câmara; entenda - O GLOBO",
+      "published": "2026-11-12T17:06:03+00:00",
+      "summary": "Vacina herpes-zóster: após aval do Senado, projeto que inclui dose no SUS vai à Câmara; entenda&nbsp;&nbsp;O GLOBOSenado aprova inclusão de vacina contra herpes-zóster no SUS; projeto segue para a Câmara&nbsp;&nbsp;G1CAS aprova estabilidade para gestantes e vacina contra herpes-zóster no SUS&nbsp;&nbsp;SenadoVacina para herpes: após aval do Senado, projeto que inclui dose no SUS vai à Câmara&nbsp;&nbsp;InfoMoneyPlenário aprecia 22 matérias, incluindo projeto que prevê vacina contra herpes-zóster",
       "sources": [
         {
-          "name": "Exame",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQY19ycG91a084b05ucDBBWG9TNEZEeERiRzNnS3phME9LbTRGQWJRbDAzcFFjWFZRN19NLVoxb240dllEVExzM01QbWdIVDRqUnBPeFBFQmtBR25kdmk3cEhpbTBnUDZTcFlDRVVGTTlObElnXzg2dmowWnFuaWt1RjVGanpudlBwSzZ2dHgybzV4RS03T3N5RmEzQTR3cllaZHI4ZA?oc=5"
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaVl3TUxwaFlxVFNxNHZ5aS05d1Z0XzdKTmxqbmxLMlRta2stWm9aRThmb2dKZEVmU3VMcWJ0Ymo2MG8xSmIxZS04MThTWFFwaDRXakpCZkMzYmR1VWotbFJhRUlQT3NidGV5VC1QRE9SeVVwRUJWZVFEVS11SWZ0R0FoNmNER2QzSzdON3YtRWpxN0ViY0I4c3lUMnJack9VOUtteXh1R2xIRXFlQlNRTHhSMFlJWl8wbDZ0bFl2SjRjX24zWlZpWE9kLWR2WUtTdlRadWYtV3JTdEYtSHJwR0xn0gHwAUFVX3lxTE5BWmZ0TzhSYWM5MkZGRnVSZi0yeTdOT3hoUi16RzQxZGRSQXI2S2ZtdVdpWW9TeUxWOUpTTjB6OEFkS3ByS0xFQTQtRHNCMkliZzFaVWdva1B1SGluN1NZcFllWkJ0SzBSeHFIeEdINHRuSHhLcDNka0tFSEMzZDAwQ0ozVWphUmVzT1dCa1BCbWw2djhNYi1BUHZrWUpKaDA0SlhBRW5LWlZvMG41Q2Jzb3lFUURDM0d2bDFKZ0E1T2NTaFBnWmhHVzBlWkdRVlN3WDNsUGdkM2lEdmpadDV5Ymk2Z2U5NG1uM0U4ZUJnUw?oc=5"
         }
       ]
     },
     {
-      "id": "287604e9e949",
-      "title": "Câncer de próstata: 78% dos homens esperam mais de 60 dias por tratamento - UOL Notícias",
-      "published": "2026-11-12T14:23:57+00:00",
-      "summary": "Câncer de próstata: 78% dos homens esperam mais de 60 dias por tratamento&nbsp;&nbsp;UOL NotíciasCâncer de próstata: 8 em cada 10 pacientes já diagnosticados demoram mais de 60 dias para iniciar o tratamento no SUS&nbsp;&nbsp;G1Câncer de próstata em SP terá 20 mil diagnósticos anuais&nbsp;&nbsp;Portal ABC do ABCAtendimentos por câncer de próstata crescem em São Paulo&nbsp;&nbsp;G105/11/2026 - Atendimentos por câncer de próstata no SUS de SP crescem 21,8% entre 2023 e 2025&nbsp;&nbsp;Secretaria d",
+      "id": "46cff068c4f4",
+      "title": "NAION: o que é a doença ocular rara associada a medicamentos como Ozempic que pode causar perda súbita da visão - O GLOBO",
+      "published": "2026-11-12T15:54:18+00:00",
+      "summary": "NAION: o que é a doença ocular rara associada a medicamentos como Ozempic que pode causar perda súbita da visão&nbsp;&nbsp;O GLOBOQual é o risco de doença grave nos olhos por uso de Ozempic e Mounjaro que gerou alerta de agência dos EUA&nbsp;&nbsp;G1Risco de perda de visão: EUA exige novo alerta para canetas emagrecedoras&nbsp;&nbsp;CNN BrasilFDA emite avisos sobre efeitos colaterais de Ozempic e Mounjaro&nbsp;&nbsp;Poder360NAION: o que é a doença ocular rara que a FDA associa à semaglutida e ou",
       "sources": [
         {
-          "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUTZVTnVWeU8wMnFQRXFKdTctM2laSGl5cVVDZF9YWFVQV1U2cUVrY1FMTlN5S3ZJRkgyM204Nmprbjl4SlNJRFhlQUZ2MVpHTUdqX05QYzI5SGRLRTExVGVBcmVUODI1T0xQdm5nc2tZRXNLWGpUbF9zdzRVdUFvS1NoNm92eTRZdE5SNWJhNy16SkRsNnFOLTZjWlE4dERtSDhDd0Z6aXF6UllkZlJXVkN2NGdtTXVGQ2ROLXNPdU51MnVfcU5jdXJTemlKS0dQT1dNUFVvUG9PaVRFbThXeFFkVU9yTGZsMkE?oc=5"
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOb2E4MWdhZHBJNl90RkJWT2JYTWZQeGhtNzRpTTl3QmZoeUQ5M0pyOHJoX2duVTV5MmxydUw1c0dBQm5TRmZMVFl1VGlRUExwakprQnAzWk1IdGN4elF3ekI0ODc3bEhPTWpySlZtUTNrT3ZrRkNZTnJrM1dhM1JidWVOMzhDVHB6S1lHY0t3UkN1aXRKSnNaTmYwbThkUUJremk0cEdzeXMyMl9LZ0NmRTdXS0k4Uk9LQXFRYk9fTE5HQTBoZjFmcms4SnRHQUdZYzNlb3lJdHhLU2pNZ0JRWDUzM0txc3dTQzgxN3JIUnJ2NVY0OFZuOFln0gGIAkFVX3lxTE4xcU5ZQkVqQUJDREFodFUyT2Vzb2k5Q3VHbEstMmx5ZFZkaXIwVGgwRHVlbXkxUzJFTWtHSkt6QU5RUGFwX015UndOclI0aVNucFBnQ3IwcVBUQTJ5VXhlUlJTX3MyVGsxQzg5RjZUeXZaLTcyRWtiMnIwUGRER1gzSDBzcVkwOXVrdW9RbllLV2lYYlNZaGtqUHlWTmQ2QXd5em9TOE1HU1hOTVdlNjBId1ZKNXZidks5dFV3R2lXdkNnTUprcDBONzZINXVNaHRMVnhrSmpRZGNSZzg1SHdqQnItWENsRjdFcmlrakpyaXp3MVBQZXJpVHRUNkVfS29xX3B5QWNUMw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0f48e8f641ac",
+      "title": "Frutose pode estimular disseminação de células do câncer, sugere estudo - Metrópoles",
+      "published": "2026-11-12T15:30:00+00:00",
+      "summary": "Frutose pode estimular disseminação de células do câncer, sugere estudo&nbsp;&nbsp;MetrópolesFrutose vira sinal de metástase no câncer de ovário&nbsp;&nbsp;O CafezinhoEstudo identifica possível relação entre frutose e avanço do câncer de ovário&nbsp;&nbsp;Tribuna do Sertão",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbnhxOE4yUUJEMDUyZjBRLVJYZThSSVFiSWpVcGM3OWhaUUpDZVdTNjI2TDM0dTdrTTFDVDBWWHB6Uk92cktEQlpZZk9Vb3dDQ1EyV2RjalVRSUJiWVMzcFhZWEdMcHZIQXdHaEZyUW40TWZ0SzlTak5mV2FDbDl0X3BsN0FVaXEtdVV1bEdsZHRRT2J1QVlIdy1OZzg4NGh6NW1Nak9B?oc=5"
         }
       ]
     },
@@ -69,7 +81,7 @@
       "id": "9c682a18692e",
       "title": "Após cirurgia no cérebro, homem de 29 anos acorda vendo o rosto de seu gato em todas as pessoas - CNN Brasil",
       "published": "2026-11-12T13:39:09+00:00",
-      "summary": "Após cirurgia no cérebro, homem de 29 anos acorda vendo o rosto de seu gato em todas as pessoas&nbsp;&nbsp;CNN BrasilPaciente acorda de cirurgia cerebral e passa a ver o rosto de seu gato em humanos; entenda a condição rara PMO&nbsp;&nbsp;O GLOBOHomem passa a enxergar seu gato em todos os rostos após cirurgia cerebral&nbsp;&nbsp;Brasil 247Homem com ‘síndrome da face demoníaca’ enxerga feições de gata em pessoas&nbsp;&nbsp;Aventuras na HistóriaHomem passa a enxergar traços de sua gata nos rostos ",
+      "summary": "Após cirurgia no cérebro, homem de 29 anos acorda vendo o rosto de seu gato em todas as pessoas&nbsp;&nbsp;CNN BrasilPaciente acorda de cirurgia cerebral e passa a ver o rosto de seu gato em humanos; entenda a condição rara PMO&nbsp;&nbsp;O GLOBOHomem passa a enxergar seu gato em todos os rostos após cirurgia cerebral&nbsp;&nbsp;Brasil 247Homem passa a enxergar traços de sua gata nos rostos de outras pessoas&nbsp;&nbsp;Correio BrazilienseHomem com ‘síndrome da face demoníaca’ enxerga feições de ",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -86,6 +98,18 @@
         {
           "name": "Portal Ponto X",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUG5UallxeE1uTW5qb1FYM0s2LUx5TTJUOWc3WGVHVmNSdUZlTHFhOF9tOXlZSV9nQlU2eXdQLTlSRFA5a1M1UWRwaTVldXVLY3FMRGZvTkFudXJvbmw5SWNuQzdCcW5wTHNNRnRaR19SUHM0ZFJLeVRvWERBY2lqT2ZZT3VTc3Y3MUtmcUdWbWZSN2Mta3RhUWVyUHlPOGVRM0tDdmJZSHpVR25IYzZwUVVlczNXZ0hOdWhV?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5683260d44aa",
+      "title": "XFG: tudo sobre a variante da Covid-19 que predomina no Brasil em meio a alta de casos - O GLOBO",
+      "published": "2026-11-12T12:59:14+00:00",
+      "summary": "XFG: tudo sobre a variante da Covid-19 que predomina no Brasil em meio a alta de casos&nbsp;&nbsp;O GLOBOTudo o que se sabe sobre a nova variante e a alta de covid-19 no Brasil&nbsp;&nbsp;VEJACovid avança no Brasil com predominância da cepa XFG, mais transmissível; conheça sintomas&nbsp;&nbsp;Folha de S.PauloNova cepa de covid preocupa especialistas&nbsp;&nbsp;BNC AmazonasXFG: o que se sabe sobre a variante do coronavírus que predomina no Brasil&nbsp;&nbsp;Estadão",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVFJtbEdwNlV1RnFmRGVYdVdzaFRWZ3lmRUhhT1ZtdUxHUEJhYzlSTVlkTldzZF8xZGlXR1dkR1VVU2xRUXpOdm5BWU1ZUVJUQjB6SHVsQm9ocFhZcnZDNWJkSmZYV3NZRU9xRDhnNDBEVjktcXNVRU5SaEtyLW5zeTFNOXdiU2Z5UWRERzZsNl9DYUZZMHVQSWprU25hOU5nNHFTNHFJYzRVTkJibnc3QXZjODFCUnowZFN4cVV0N2xXRG96UmF4bm9WREtXSkJMbHBoZWFGQ2vSAecBQVVfeXFMUFlZcTVDUTVPNGppYWJ0eWRxeDZYdFJiUkw0ZkIxNUZCaFRZV1RCZk44VjlGMjQ3ekpJc3lIUXlsYk0yOHlSMlVSaC1hNE9vOWtvY1B0X1FDcVJXWVBja2VvY1lDeEpGTjRqVjV0VkNwb0xXYXUtTDlOVHI5TkxKaVEyUmpHaERINzAxcDRQUVBqOWYtTExQRE91WVVsUUdINHo4MjVwUnlSMmV6R2FSdmh2eWlHVWxTbVd5SXRla2lRRlF6Qk9tZkVWUWpqM21tS1o3cm92ZG54WHVEY2FpVGE1dWNVbGlj?oc=5"
         }
       ]
     },
@@ -126,10 +150,46 @@
       ]
     },
     {
+      "id": "cb1f4864d6d2",
+      "title": "Câncer de próstata: 8 em cada 10 pacientes já diagnosticados demoram mais de 60 dias para iniciar o tratamento no SUS - G1",
+      "published": "2026-11-12T10:55:00+00:00",
+      "summary": "Câncer de próstata: 8 em cada 10 pacientes já diagnosticados demoram mais de 60 dias para iniciar o tratamento no SUS&nbsp;&nbsp;G1Veja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOU3pKMDM2S01QYnVVbHp4TUFkckc4c2NYbnV0VWRXWGswcXF2bkxxWWQySUZBQkJLdzg2Q3NkTHF0U2pia3hsM3JFZTQ4SlVzZnJiRU41cTZFRGc1dG1pVnUtNjltQUdxaW1WNU1hWE5aTHBDUmZiZzVvWHJQaDRVelJhUy14bXVlV2lpUlEwanUwZGo5Yktnd0xnT2RsRDgtSDUwYzRkZ1pxdi1zQkx2UlRWaExud0oxY3VTWHlBOGtNSVE1Wk1BX0FmRVJPeDRkaF9rZDhkS3BlcDBDSVV0bUpLT1J3NDJhbkdjZHZRN3NrZFJRV19VOHNoVmHSAYsCQVVfeXFMTkszRUREU2d0VXFOVVM1QU52aDJqdThvZ0pxQnJkR1M0OGtuSmE2eXJaZXZuTlB6ZGdWU3NKLXlXSWtVOVFuZjBuUU82ek5nenM5M1pWNWp6YUxmcFpxdjZBYncyNUYtdkNmdE85STNNTVphTkNkcFlZU1ZvdEEtdUNkMERjWEg3ekJhU2VUOEktRmpISUJRc3lManhNb3ZScHp0X1ZQZWY0RE51TWJBam9RT1hnb1pEMmZPRTFwWFFRV3pzcm1sYkZBNk5sUEpaSnJnU01DVmdlZzN6RGM4UDF4ZWxXNUVzZ2ZvR2tQZ09VUEtSN2xBaWNNaS1XTExWc29DbTREZnlrdGln?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1135635ecb50",
+      "title": "Homens se preocupam com o tamanho do pênis, mas adiam cuidados com a saúde, mostra pesquisa - Jornal Correio",
+      "published": "2026-11-12T08:10:00+00:00",
+      "summary": "Homens se preocupam com o tamanho do pênis, mas adiam cuidados com a saúde, mostra pesquisa&nbsp;&nbsp;Jornal CorreioAmputações de pênis acendem alerta no Brasil&nbsp;&nbsp;ABC RepórterVaidade sim, exame não: por que o homem cuida da aparência e foge do médico&nbsp;&nbsp;al1.com.brQuase 3 mil amputações de pênis em cinco anos: o alerta que vai além do câncer de próstata&nbsp;&nbsp;Âncora 1Pênis maior garante mais satisfação? Revisão aponta limites das evidências&nbsp;&nbsp;GazetaWeb",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQnUwb3hDRmxHdlNRbGd6T29vbFJFY1phZi13bjFSYkZYSHFxMTZGREpKZFFEV1Rsc0RNYjFZb3FCMlhNZUV6eDBhSUJRM2hxaEw2MVF5S0R5VlJUaUs4TnNRTGRxc25WN2lYLUZnUUtuMkFWTzhWNUpyWG55SmowWWFGVWpQUDJUYUg2QV9ISGJrRFlSaUJRQjRtSndaUGJTTjZYNDNkYXl0a0szODUwTmE5VzRnRUw1ckt2cTNmQmpLOFBoNGN4MnJGN1pINkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ca482fa3e7e4",
+      "title": "Pesquisa encontra microplásticos no sangue de antas e tamanduás - Folha de S.Paulo",
+      "published": "2026-11-12T08:00:00+00:00",
+      "summary": "Pesquisa encontra microplásticos no sangue de antas e tamanduás&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVkN0eTkyUnlWUWszVTYtYXFudEhVR1U1SkNtNnJTakpHbjY4bV9mX3JrR2RDdHVWY0gxY2NXa25EMkNUTjhtQ01wWUJoTDB2Vi15Vk1LSDZSNTV3c3RtOFBnekV5ZndwZHNxTmNZaFNPT3kwVWhCLWw4QWdFWUhqUVhUUXAyN2s1N0RZMVVlOGZvZkkwaEoxb0luRDVzSTg3UjR2NGJ3MWgzNlhZVmZVc3JleENGWlU?oc=5"
+        }
+      ]
+    },
+    {
       "id": "db741188727f",
       "title": "Mpox: variante de vírus que causou crise na África avança em regiões do Brasil; entenda - O GLOBO",
       "published": "2026-11-12T07:30:01+00:00",
-      "summary": "Mpox: variante de vírus que causou crise na África avança em regiões do Brasil; entenda&nbsp;&nbsp;O GLOBOGoverno garante a compra de 25 mil doses da vacina contra a mpox&nbsp;&nbsp;Agência BrasilMpox: entenda situação atual das vacinas e se há aumento de casos no Brasil&nbsp;&nbsp;Assine AbrilCasos de mpox voltam a subir, antiviral falha em testes e Brasil compra 25 mil doses da vacina&nbsp;&nbsp;TerraMpox: Ministério da Saúde garante 25 mil doses de vacina após negociação internacional&nbsp;&n",
+      "summary": "Mpox: variante de vírus que causou crise na África avança em regiões do Brasil; entenda&nbsp;&nbsp;O GLOBOMpox: tudo o que se sabe sobre a variante que está em circulação no Brasil&nbsp;&nbsp;O GLOBOGoverno garante a compra de 25 mil doses da vacina contra a mpox&nbsp;&nbsp;Agência BrasilUFRJ alerta para alta de casos positivos de mpox no RJ&nbsp;&nbsp;SBT NewsInquérito investiga falhas na distribuição de vacinas para mpox&nbsp;&nbsp;R7",
       "sources": [
         {
           "name": "O GLOBO",
@@ -141,11 +201,35 @@
       "id": "83e4fabc2c1f",
       "title": "Dormir apenas 4 horas altera o cérebro com um impacto equivalente ao consumo de seis cervejas: 'O desempenho diminui' - O GLOBO",
       "published": "2026-11-12T07:30:00+00:00",
-      "summary": "Dormir apenas 4 horas altera o cérebro com um impacto equivalente ao consumo de seis cervejas: 'O desempenho diminui'&nbsp;&nbsp;O GLOBODormir pouco afeta o cérebro como o álcool; entenda o alerta de especialista&nbsp;&nbsp;TerraPor que seu cérebro precisa de momentos de descanso&nbsp;&nbsp;redeutv.com.brO que acontece no cérebro enquanto você dorme? Estudo sugere que o sono ajuda a “lavar” resíduos, mas a ideia ainda divide cientistas&nbsp;&nbsp;Correio BrazilienseUma noite maldormida tem menos",
+      "summary": "Dormir apenas 4 horas altera o cérebro com um impacto equivalente ao consumo de seis cervejas: 'O desempenho diminui'&nbsp;&nbsp;O GLOBODormir pouco afeta o cérebro como o álcool; entenda o alerta de especialista&nbsp;&nbsp;TerraO que acontece no cérebro enquanto você dorme? Estudo sugere que o sono ajuda a “lavar” resíduos, mas a ideia ainda divide cientistas&nbsp;&nbsp;Correio BrazilienseUma noite maldormida tem menos impacto no cérebro de pessoas mais velhas, revela ciência&nbsp;&nbsp;Folha P",
       "sources": [
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUlhKZkpySjA0SlMyUWdzSE93Mll2eDBHYjZ2RWN5ZVZpUVpxNE1TaGVmcHhraW5EN2N1OFVXcUpyZFlPS0dONlV0Qi1Bb1Q5d09xQWx5TklRN0hjVUdsb1lPTklqMWo0QWZod2d5LUNGcDNZY3dFNVdZWGVkSUloOTZjd2ZNMzlCbUhfdGh1QVhXMHg2QmZXUEpiQmthZmgwTjZZMkJOQ3dSMEJtejZ4aDIwQV9GclFRbnBlVlhRbURLVE93RlR1UEp1LU00a0QzYnRrRXhucjBESmFXUnFmRG05Q2ZJcmhyRkJWaUdWSFFURVdrYzVxc0p5WFJKVWvSAY4CQVVfeXFMTW16cU1WVU45TVlfNmg5Vzhjd0VkWXFjQnljVi1oT2FTRDdhNC1kc2U3dGdDVHhMRG9KclJmbGNXcjZqcE1iRVU1WTQwenc0elQzRk9UeUtGXzdiVWNVcEFQaHN6cUF6WUluSEpvRmR2S19iZ2xrQ3pudDViOTNJNTdTRnF6ejFMdXR5UWlOeUd6eXY5NXY2a3NmT3JZRmdSMG1oN0V5cFB3TmZyc1daZlRWSzM0WWRDV09DMnRmd0xHN1pySGEzZE5Cd2YzNnE4YzBLMnBYZl8tZHIyc09ScFJZaUN4WXF4dnEtQjRkaDl2Y0xSa1BocVU5VU9tTXdmRmV0UWNFOUhwblN5cnN3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e947716d9ac8",
+      "title": "Menina de 13 anos ganha coração novo em transplante e vence miocardiopatia - Metrópoles",
+      "published": "2026-11-12T07:10:00+00:00",
+      "summary": "Menina de 13 anos ganha coração novo em transplante e vence miocardiopatia&nbsp;&nbsp;MetrópolesMãe de menina após sucesso em transplante: \"Queria dar meu coração a ela\"&nbsp;&nbsp;MetrópolesMenina de 13 anos ganha coração novo e alta após 17 dias na UTI; mãe se emociona&nbsp;&nbsp;Só Notícia BoaJovem de 13 anos passa por transplante de coração e supera miocardiopatia no DF&nbsp;&nbsp;Diário GoianienseAdolescente recebe transplante de coração e deixa UTI após 17 dias&nbsp;&nbsp;Diário do Centro ",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMDA4ZERLYnBHUUg4YU1Zb2NHVlh4YnZSR3UwekRPQlNkM2tuMkNtVjhsRkttampUTnRmU0hjZzRLWFZleDhRR1ByRUFoN0JGNzNScUhtekNjZjhGMjdyWUc0ZVlySzFlZlVIVkp3RW9sWUxtT0RjR1duVm52RWh2QnhFRHNrX0VkTGJyeVRycmJ2cHJpN2g1QlJENTY3MHhhVGw2UDNDSzJ3Vy0xLXdKa3FFS1lQQzg1V1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "61a019ab4ecc",
+      "title": "Com alta de casos de Covid, especialistas orientam quem deve se vacinar - Folha de S.Paulo",
+      "published": "2026-11-12T07:00:00+00:00",
+      "summary": "Com alta de casos de Covid, especialistas orientam quem deve se vacinar&nbsp;&nbsp;Folha de S.PauloQuem nunca recebeu nenhuma dose da vacina contra a covid-19 ainda pode se imunizar?&nbsp;&nbsp;VEJAVacinação segue como principal proteção contra a Covid&nbsp;&nbsp;G1Vacina contra a Covid-19 faz parte do calendário básico de vacinação; veja quem pode se imunizar&nbsp;&nbsp;REDE BRASIL DE TELEVISÃOCovid-19: Ministério da Saúde reforça vacinação para grupos prioritários em 2026&nbsp;&nbsp;Ceará Agor",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcGRaeXE5NVVSaG5CdlloNUdsX2lXNTA5MmJyTW5LdDlGREdpYnM4YU1ZcmI3TEhubUZSR3RGM0lzbkhwa0dkbXlrZzgyRzR1ajBVbHVEYU04emlPVmk1bm43WWhrMkd2UlJHd3VqVFQwSVVZZVlWU2gzd1VkX3RKMk8zUG1RMW1icy1IaHNhdkdvaHIzakh3VktJZzlJR3BHRm9rUzI4SVh3Y1FOdDhWb2QtcVV1b04tZG10cGRRbVVQNlZMeEVKVzJiaw?oc=5"
         }
       ]
     },
@@ -213,7 +297,7 @@
       "id": "b6a65b372316",
       "title": "Novos tratamentos ampliam o controle do câncer de próstata e a qualidade de vida - Estadão",
       "published": "2026-11-11T23:00:00+00:00",
-      "summary": "Novos tratamentos ampliam o controle do câncer de próstata e a qualidade de vida&nbsp;&nbsp;EstadãoSUS ultrapassa 1 milhão de procedimentos para tratamento do câncer de próstata — Ministério da Saúde&nbsp;&nbsp;Governo FederalPrevenção e novos tratamentos aumentam as chances de cura do câncer de próstata&nbsp;&nbsp;G1Radioterapeuta do Mater Dei aponta vantagens da radioterapia para pacientes com câncer de próstata&nbsp;&nbsp;Rádio MetrópoleEle adiou o exame de próstata por vergonha. O que a lei ",
+      "summary": "Novos tratamentos ampliam o controle do câncer de próstata e a qualidade de vida&nbsp;&nbsp;EstadãoPrevenção e novos tratamentos aumentam as chances de cura do câncer de próstata&nbsp;&nbsp;G1Radioterapeuta do Mater Dei aponta vantagens da radioterapia para pacientes com câncer de próstata&nbsp;&nbsp;Rádio MetrópoleEle adiou o exame de próstata por vergonha. O que a lei garante quando o diagnóstico chega&nbsp;&nbsp;DeFato Online10 pesquisas da UFU sobre câncer de próstata&nbsp;&nbsp;Comunica UFU",
       "sources": [
         {
           "name": "Estadão",
@@ -222,14 +306,14 @@
       ]
     },
     {
-      "id": "096c1b28fb38",
-      "title": "XFG: o que se sabe sobre a variante do coronavírus que predomina no Brasil - Estadão",
-      "published": "2026-11-11T22:12:00+00:00",
-      "summary": "XFG: o que se sabe sobre a variante do coronavírus que predomina no Brasil&nbsp;&nbsp;EstadãoVeja mais manchetes e perspectivas no Google Notícias",
+      "id": "1c57193eb51e",
+      "title": "Gabriel Rolón, psicólogo argentino: 'É difícil para o ser humano abrir mão do sofrimento, porque é no sofrimento que encontramos um lugar. Todos nós temos essa ambivalência' - Terra",
+      "published": "2026-11-11T21:51:00+00:00",
+      "summary": "Gabriel Rolón, psicólogo argentino: 'É difícil para o ser humano abrir mão do sofrimento, porque é no sofrimento que encontramos um lugar. Todos nós temos essa ambivalência'&nbsp;&nbsp;Terra",
       "sources": [
         {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZkJxWnoyLUlSWDh3WXE1Z3QtWXl5cnFuS1hQLXlwa2E5ak9BLTVDbVA4Z1AzRmpUVlhQeVUzVkw0THhsTThKTW9PNUI5MWptSWg4ZFhkN3BoNFRsNURrcFhxVFhxXzl4VEt4d0xaZC1uSmtRLUJObV9qbEJic0IybklkUFNJOUtxQndRRVh2VEdqQ2p6YW83bF9hdFM0RlZWTDFaOElRVWFLTmlERFZIN0JIeGM0dGNvOFhCRHEyU091ZTVfMXJFWVJvUdIB0AFBVV95cUxQZW5KWDVzaEpaUi12UzhreEpncmJpRkx1TEl0U1ZWcjJmOEd6NTB0bjFMRlJoVnViUUFEN0pQUEx3U2tCUkZrenhYU1FfbTEzZURlV18zaXd1cjhtTm41N3o2MjU4UTUzTjZER0dQSW40RG1tMjlPSGt4STZNY2RMSmp6N1VwQ1F3TW4wNzAzMVhra0hYNjZxSmZtRXlQaUl3WlpLOXAtOU5TaHpnS1JBOGl2QzYwTEY1dHNVTjV3czgwZU1tZmRoYk4yUkFXNzky?oc=5"
+          "name": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPeDZZMHZrWmxRVDNtNDQ0RENxZjV2RUx5X3llT1ZzdTE3RnRBMGg2LW1PbmJUS3ByaW5aUnJWVFZuRDdZeHBtQ1Y4cFZsZDNWTVY4VjR1VVdDUl9MVDEyajliOURwWUJ2UzdtbGZJSjJvQWFyTUpTVklRak1qQzVrOFRZM3E1cnNOYUJ5WThyWUlCekVVakRFdWdUcjZZcC1jbC0tUnJWYzFsU0kwcjBDM3FOd2pydkdCYkVXbGRuWFRRMDVpU2hiQ3ZTWkVDenIwRUIxRXRaamU0a2NVRGFfMlRuYXd1TXJuQWx0QjBWMFlmMW4zMTRCYW5TY2FSVVpHVWh4a19UN0lNcWNWWlluYjlGYTU1MmdHajNxY2dvRXRmR2IteEY4a2IwVjh5Sm5LLW1MMGZmaU05cDhFX25LazRMckNPdEVmWDRYaHRGMW9wakswWXFkem9sUFhZaUk0VFR6OEtEOU5KQQ?oc=5"
         }
       ]
     },
@@ -318,18 +402,6 @@
       ]
     },
     {
-      "id": "2dbdb9f05487",
-      "title": "Obesidade: nova definição de diagnóstico supera o IMC; entenda - O GLOBO",
-      "published": "2026-11-11T17:25:49+00:00",
-      "summary": "Obesidade: nova definição de diagnóstico supera o IMC; entenda&nbsp;&nbsp;O GLOBOEstudo diz que obesidade nem sempre significa ter problemas de saúde&nbsp;&nbsp;Folha de S.PauloIMC pode esconder obesidade: estudo com 844 mil adultos testa outro diagnóstico&nbsp;&nbsp;Época NegóciosEstudo propõe substituir IMC por medida de cintura na avaliação da obesidade&nbsp;&nbsp;CartaCapitalEstudo indica que índice de massa corporal é insuficiente para avaliar a obesidade&nbsp;&nbsp;Observador",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYjJidDNteWJ3RFhNbUh6eEZNc3FVZnJlSmlGN2tITnBvREZwcHlkOFRSeWM3MzRrUDB3XzNhTnJYWnFaYkVRLVcwY2pmZko5cDEzbVdFNkFyUTR5LVp1YmtXSGNRODAzbzBXXzJmNm5SbENPTEtBaTdsTUtYbFZYQzFjN1FsU29VOGU4WW9jS3JVd3RkdWUwbWFfdkJGSlEzSWdFLWZQNS03RlAtbG5FQmUyMWFnSW_SAcYBQVVfeXFMUENaeUl5SzFYMFpVRnA5Nzk3MGtrTWQ5SUU5VlJ1bC1ob2NQcWJXMEpvaUU0ZktzRC1TdXBWN2N6S21namxsRGpPeVlsLTJyWXNiZkdseDRvQkd3T0gwejJIS1p6VjVPdnNXN0FwSGctMk1FWnQ3bVVCbVl3MGRQeHF2NHAxbjVkMk84TnFiRmNwbzluaUlEOV8wa3I5NEhWMmtrTXNPbTJ1T0RNVDdieWpMMVUwVzNTc0RqaEExSDFhZ2o5WFVB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "cfb3a7865657",
       "title": "Consumo de energéticos está associado a 11 vezes mais relatos de parada cardíaca em jovens adultos, indica pesquisa - Extra online",
       "published": "2026-11-11T16:49:35+00:00",
@@ -342,14 +414,38 @@
       ]
     },
     {
-      "id": "900df9e617a1",
-      "title": "Inclusão de vacina contra herpes-zóster no SUS vai à Câmara - Senado",
-      "published": "2026-11-11T16:01:37+00:00",
-      "summary": "Inclusão de vacina contra herpes-zóster no SUS vai à Câmara&nbsp;&nbsp;SenadoVeja mais manchetes e perspectivas no Google Notícias",
+      "id": "9a7529d676be",
+      "title": "IMC não basta para saber quem tem obesidade e deixa escapar parte dos casos - G1",
+      "published": "2026-11-11T16:00:01+00:00",
+      "summary": "IMC não basta para saber quem tem obesidade e deixa escapar parte dos casos&nbsp;&nbsp;G1Estudo diz que obesidade nem sempre significa ter problemas de saúde&nbsp;&nbsp;Folha de S.PauloIMC pode esconder obesidade: estudo com 844 mil adultos testa outro diagnóstico&nbsp;&nbsp;Época NegóciosEstudo propõe substituir IMC por medida de cintura na avaliação da obesidade&nbsp;&nbsp;CartaCapitalEstudo indica que índice de massa corporal é insuficiente para avaliar a obesidade&nbsp;&nbsp;Observador",
       "sources": [
         {
-          "name": "Senado",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRFlPOE54ZUwtQjJSWWE1SC1SRm51SmVoY2N0dTdWc0ZZOGJXVWlmUDF1QlNsWHJfd091RkRiek9Rc1VWZlJRRm9KeEM2WU5ONzkxT0tVV1FiUzVmam5MQ2NBbEpRdzQwT2VycHlxVU1vOGlxSWZJWFZoYkl0MVluMkF3U0VjaW13aHJvYVh5WFF6ckdCMTVNSnZWVkZpWEp5LUVjTXUwRGJEalRtODZCV3JtSGllUHM?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVTdrcXZ0M3BBSU81bWd1ek9pOE5UTDNXbXpvWjQxMlBwT2JNQTBoMk9DZkkzQ2JWUThycGdCeW5ZR0hCWmVXX094X3d2SjgwXzJHaVRkamVINXhJODljRjBiOHVrX2hZNW82WTFiQ05lT0VwV0hoZmdZcUF3SGwxTGpPV3FmMFhjSExZelVsWmE3N1k2Z2p1YjBoWVdDU29GVE9KUHE1enV5VGFaaTgxR3BwamdoQkpmZFItRm1FQi12NzdxMmfSAdQBQVVfeXFMTXJZa05sMTYyVlVERVVkRm5IRjM0VHRRSlhaRGgxTkU4cmdLY2JhU3FDNTdfUnFpdmdsRnBuYWZNNVVlM2ZWdkItSWpJWXRfQV9JV2UxM01OYXQ4REp0LTdLc0hncWl4b1VZaTVJMzBmUlpveFdhZEpSbV9RR052RzhlS2FjeFl6ZHRmRmstaG5kLS1pODdzcGk3c1V5RjUwX1htb3RGTTAwWm9sMGwzNXBDNkZsOXRCQ1BsRnFmb2pDUVFRWW5CNjlPZHlwUXFOOUt6cEU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "efe2ca3260b7",
+      "title": "Como controlar a glicose no sangue com escolhas simples na alimentação - UOL",
+      "published": "2026-11-11T15:00:00+00:00",
+      "summary": "Como controlar a glicose no sangue com escolhas simples na alimentação&nbsp;&nbsp;UOLDiabetes na gravidez: atenção ao horário das refeições pode ajudar no controle da glicemia&nbsp;&nbsp;Extra onlineCaminhar depois de comer pode provocar uma mudança importante no açúcar do sangue&nbsp;&nbsp;TerraDiabetes tipo 2: como a ordem dos alimentos no prato afeta o controle da glicose&nbsp;&nbsp;Tua SaúdeComer salada antes do arroz faz diferença? Estudos revelam o que acontece no organismo&nbsp;&nbsp;Catr",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT19YV24yYnR4T09IN2JyRVZ2a1FEeHA1Y1FQTWtQVjN6Mkh6ZDZmanlXWDA1ajRlSGU2UXlJZWp3aTJGSzNrWENLbnM1ZV9KQ2xmMEo1VnBrSDViclJ2OVNLdWpueUQ4ZGNUTHVVY0trdFV3Rk1rcFNYTUtYR2V1LUl5SUl0cEFCU0VGa2U5R0tPc2t5RUloLTZJYkJod2lHQnVNZjJxTnptLWloZlppTXB4ZUZwdDVqc0VjZVZiMHh2eGVxamFZaW1TeUdUUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8b07b475d7ed",
+      "title": "Parkinson: detalhe na forma de andar aparece sete anos antes da doença - Metrópoles",
+      "published": "2026-11-11T14:17:00+00:00",
+      "summary": "Parkinson: detalhe na forma de andar aparece sete anos antes da doença&nbsp;&nbsp;MetrópolesAlterações no modo de caminhar começam até 7 anos antes do diagnóstico de Parkinson&nbsp;&nbsp;UOL",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORXZIZEg4Rld1QnhjVTVKalVxbU5qZGlfeFV3a05Ma3VMZmVXTkRaY3dXeFVMUmxWVnV3VS1ac0NqZlZaZHNJMHlhWnFJM3dBdjZfTFhkQ0tma3BRWFNTVnFSYW1reTBsdXlYelpDMWFGVzdfTTBsenBUa09HY3hWa3Rhejd3Q2Vyb1V3cUlybmVFeFpuTGR1akRmSkY2VUNuWkJhRA?oc=5"
         }
       ]
     },
@@ -374,18 +470,6 @@
         {
           "name": "Exame",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUWFKc1lxcFZjTnQ1NmNPNE84WFlaR3R1LUdvdnNPekRwUGptdEhaZVl2OGhXZ2pBd1ZBNGdETnRWX3JualIxM0lHSUkzWDd4N3Z4dEc4MGRpbGExLVI4Y2pfVXdDdy1jLWs5ZjZacWN0MXY4LUpfTXVOS25mX2JxTEEzYlM2eUZLZFBILVFvemxGYnpuSEtGNGI3RjNuUU5jU0NYLVpXMEM4WmNMZExXdUp6N0h2UQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "aaa0c4365d1f",
-      "title": "Alterações no modo de caminhar começam até 7 anos antes do diagnóstico de Parkinson - UOL",
-      "published": "2026-11-11T12:28:11+00:00",
-      "summary": "Alterações no modo de caminhar começam até 7 anos antes do diagnóstico de Parkinson&nbsp;&nbsp;UOLParkinson: detalhe na forma de andar aparece sete anos antes da doença&nbsp;&nbsp;MetrópolesTremores nas mãos em repouso e passos curtos: os sinais iniciais da Doença de Parkinson&nbsp;&nbsp;Tua Saúde",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNXpPZF92M3JrR0xiSG5VVFdYRFVqMWtYOGJVY1FoalJDaEFMZ0ptakh5bHZkOFdpNjVRMGJpSDVFdXB5LWVkUmxmWWhBRzdzbGMzZkdfYm9RSjZ6bHZZSUZIVXd6Tm1FcFRUQjlqd1l4STRtV0ZEWjA0SVNnU2F3MFQzNjJ0QllZcmFmeVYyZlpqM0tPcDlXYW5jMzNYNGVkWExDQkVUeVlrMWdPeGF4ZEtkaFB4eUxOeUd2RFU2TGdnZXdyWVp0QW04VmtuLVBh?oc=5"
         }
       ]
     },
@@ -438,62 +522,14 @@
       ]
     },
     {
-      "id": "23f6aa695356",
-      "title": "Vacina contra pneumonia não foi liberada para pessoas acima de 58 anos; veja quem pode tomar - Tribuna do Norte",
-      "published": "2026-11-11T08:58:11+00:00",
-      "summary": "Vacina contra pneumonia não foi liberada para pessoas acima de 58 anos; veja quem pode tomar&nbsp;&nbsp;Tribuna do NorteBH substitui vacina Pneumo 23 pela Pneumo 20 na rede municipal de saúde&nbsp;&nbsp;Prefeitura de Belo HorizonteVacinas Pneumo-20 já estão disponíveis em São João da Boa Vista&nbsp;&nbsp;Jornal do ParabrisaBarreiras disponibiliza vacina Pneumo 20 para idosos e crianças nas salas de vacinação das USF&nbsp;&nbsp;Prefeitura de Barreiras – BAVacina Pneumo 20 em Belém: saiba onde tom",
-      "sources": [
-        {
-          "name": "Tribuna do Norte",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeGhPcm1UMHNLNzVMQWNsX1dCNEFNSjVPOEhLNnAyRnBoaFR0QUFXMGgxSG11MkxwckdjUW9TenlNVnlDNUgza182ZjdhWXR4VFZPaFhVNy1LQ1MyeDRrZ3FRUDJubTRhdzFGYzFEY0Y4TVpPalQtVWMtOEFWTld0SEhTVGxCVGJuMjQ1Rm9sOXlFZnVUdUYtNVdKYW1ad1hNS2otckpNX1RrNENkT3phV1M4YXU3NllQZVJ6LTNYWW14TXdGYTA4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "081e19cd9650",
-      "title": "O que é rabdomiólise? Conheça os sintomas e riscos do excesso de treino - Gshow",
-      "published": "2026-11-11T08:00:01+00:00",
-      "summary": "O que é rabdomiólise? Conheça os sintomas e riscos do excesso de treino&nbsp;&nbsp;GshowVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "Gshow",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSkZYcjhjYWpBaUVDWERFUi1GOXZEcWFFTjF6cFJCV05SZzlTdUJzcC1nU296dEhxVzNBVC15Mk1vUEM1MGttdmxCZGw0Mm9aNGpGNFFuTmJaRGxLMkQzekt1QTBDeXFoV1VLOFgyRXlPU1Axd1I4bDVZQWNIRkItaVc0X1FpZEN5TU5LSXIzTTd5bUVUdGRtbkhtc0Vhb3BxVjlUZVNOYmpveEFmQzMzc1BTYnBPcTYxMkhUeFZtZG4wSm83Zy1R0gHWAUFVX3lxTE9LX0Y2QlM0QUl5SmFoNmtCNjBmS09TeWNIOXZyY0xBb3kzb0tzdjZLd0Nncl9RZ2g0ZHltdkV6RkhZaC1lbUdMRzdOYWhIcUR4eFFrWHFYeVZQU19OSGZtVVV6Q0M3emIyUndwR2NYNkFzSV9jUHltNGVQSmtQU24weElBd2RDNmI4Mko2SnE2aVRTaURqMGxDeHI4N3hTak5SVmN4U2NZdVEzTnZRMkRhWEd6YmxTWFRtSFFsZDJLUXk0UW5HR0hRVXlzQjFqWXVVUkhNZ1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c447dc5864d8",
-      "title": "'Dois terços dos casos de Alzheimer são em mulheres', alerta neurocientista - UOL",
-      "published": "2026-11-11T08:00:00+00:00",
-      "summary": "'Dois terços dos casos de Alzheimer são em mulheres', alerta neurocientista&nbsp;&nbsp;UOLTerapia hormonal na menopausa pode estar associada a menor risco de Alzheimer, diz estudo&nbsp;&nbsp;R7Menopausa tardia é associada a menos danos nos vasos do cérebro em estudo&nbsp;&nbsp;MetrópolesO hábito que ajuda a prevenir demência em mulheres, alerta neurologista&nbsp;&nbsp;Notícias ao MinutoTerapia hormonal pode estar associada a menor risco de Alzheimer, diz estudo&nbsp;&nbsp;TV Guararapes",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaTdhUFViazlydVhtdmZ5WUp1TktwOGgxWGdTX3FqNUZ0Qmtlck5IdjlBbkt4OUdVQUtiVHJMTnR6V3J0Mi1DOE9YMUxMNTc3OVlaczA0RW82VEpxOXN3elRGUm83X0otWC1VRWJiMWg4Sk43cTRfZWJJQVBVc1h1bUV0aHdxb1QzMU9DekNrY0ZKVGphbVJkY25NU3p0blludm9QMmh1akZLTk9FZ29teENidDN0SHg3Snc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bee88e26f823",
+      "id": "aa7733f035f1",
       "title": "Três no máximo? A verdade por trás da quantidade recomendada de ovos para comer por semana - O GLOBO",
       "published": "2026-11-11T07:30:00+00:00",
       "summary": "Três no máximo? A verdade por trás da quantidade recomendada de ovos para comer por semana&nbsp;&nbsp;O GLOBOQuantos ovos por dia é saudável comer sem prejudicar o colesterol&nbsp;&nbsp;Tua SaúdeOvo todo dia faz mal? Nutricionista explica quantos ovos consumir por semana&nbsp;&nbsp;TerraNutricionistas indicam até sete ovos por semana em dieta equilibrada&nbsp;&nbsp;Diário do Centro do MundoNutricionistas estipulam o número máximo de ovos para comer em uma semana&nbsp;&nbsp;Rádio Pampa",
       "sources": [
         {
           "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMlVlb3h1THhqeTF5S2ZsV1JMaFdqbEdFM0VxM1FHSlkzX00yS1daZHlmczhxZUJHei1UaWtTeDFfUldEM3I1Q3d2SkVsQlU4cURCSHR5ZEZHZmp3SzlmbTNJVkJSWnhDNnJSZFVCMjJWWDFMM2MteTJGVEVBNnROcDRmd2xqUVA3YWVjNXVkaGRlV3UzQjl0VTdLcnkzNTZCLUoyZmV4cmZkQ0EzX0RLRk1WVjVJRWFHSGtIRW8xZzAxWmdnRTVJV0NvYUNXVkhRNGpVVnhsdmdyRlpUNVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4fa9314c4ade",
-      "title": "Atividade física prepara o cérebro de pacientes com depressão para a psicoterapia - Agência FAPESP",
-      "published": "2026-11-11T03:02:37+00:00",
-      "summary": "Atividade física prepara o cérebro de pacientes com depressão para a psicoterapia&nbsp;&nbsp;Agência FAPESP",
-      "sources": [
-        {
-          "name": "Agência FAPESP",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUllKemJVZ2tkUUVYbTh4anl3NGtmc25qbmJ6d2FxSkVWX2pmUXU0dm1wRHpRZG1uZVFmUkpQMjhzdThmOFd2ME03RF95Q0JVYTRoM0JWRHVuNFZYTUJZRkxJT2RkNWtfM043TGlfRC1PY3RkVnNQU1F4SkJrSGRxZVlfZEtMU3pJR2RKYjNhYkR2MWN4dXFyM0VabTdmX3RNQ2kzb203QlJYNllmWFhDMFVUSQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMlVlb3h1THhqeTF5S2ZsV1JMaFdqbEdFM0VxM1FHSlkzX00yS1daZHlmczhxZUJHei1UaWtTeDFfUldEM3I1Q3d2SkVsQlU4cURCSHR5ZEZHZmp3SzlmbTNJVkJSWnhDNnJSZFVCMjJWWDFMM2MteTJGVEVBNnROcDRmd2xqUVA3YWVjNXVkaGRlV3UzQjl0VTdLcnkzNTZCLUoyZmV4cmZkQ0EzX0RLRk1WVjVJRWFHSGtIRW8xZzAxWmdnRTVJV0NvYUNXVkhRNGpVVnhsdmdyRlpUNVHSAewBQVVfeXFMUDhlMHUzWHJuSDE4M3ppLVo4c2lqc3plZURjcTdCdVM4MkJGX25GZ1J5YlZMaS1LTm5wVXJaZHZMS1ZiYlZ5bnRBZ3hJUmo1dUlXNkx5ZVZ5MHhJdjVsREhaZnlqSzN1d3NDdmhYUVRzZlh4bHo1UEJ0M3B6Z0ZaSV9XbDR4cVlrODRYRlRKcEw2bWgtUGhtQUdTZHBlbGZFV0l2LXZUNTd3QnRSWjVQUTF0cU14LUVkVFVsUm9nZUx4Sy1EWmQ3aFB5WHlnaDN3azNyejRUNkdONjU5aVlEZUYwMjRpWjJaTmRTcm0?oc=5"
         }
       ]
     },
