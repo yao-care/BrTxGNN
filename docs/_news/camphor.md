@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Camphor. 9 indicações previstas."
 permalink: /news/camphor/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-13
 ---
 
 # Notícias sobre Camphor
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Camphor?">
-<strong>Camphor</strong> tem atualmente <strong>1 notícias</strong> e 9 indicações previstas.
+<strong>Camphor</strong> tem atualmente <strong>2 notícias</strong> e 9 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,21 @@ Esta página combina as indicações previstas por IA para Camphor com as notíc
 <p><a href="{{ '/drugs/camphor/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (1)
+## Notícias relacionadas (2)
 
 ### ['Quase morri depois de uma dor de dente virar sepse e causar uma doença cardíaca rara'](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DNUYyb2IydG1MS1hyLXFoQ0xrYlZfRnRFVGpIdzRNQm5SWjN4TWt2SWdwZGNrSlpOVmdyMnZwc0QtRm5OWTVlcm1sWlZIRzZiTzNlZm9vUnc3YnUxVzd0TG45c9IBaEFVX3lxTE1HMk5CZlBWNjNCUVBzMzRaZ2RLcHdkYzFtYVBmRFZWUHVzamt5eDczbnFWNVA2MUR6Y1FZbDFDd25ESERSUWo2UlRsRUlkdXRqY05oV2NtRWJhZ0pmWHBBckc2emdqZVNO?oc=5)
 
 2026-11-10 <span class="news-indication-tag">doença cardíaca</span>
 
 Fonte: [BBC](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DNUYyb2IydG1MS1hyLXFoQ0xrYlZfRnRFVGpIdzRNQm5SWjN4TWt2SWdwZGNrSlpOVmdyMnZwc0QtRm5OWTVlcm1sWlZIRzZiTzNlZm9vUnc3YnUxVzd0TG45c9IBaEFVX3lxTE1HMk5CZlBWNjNCUVBzMzRaZ2RLcHdkYzFtYVBmRFZWUHVzamt5eDczbnFWNVA2MUR6Y1FZbDFDd25ESERSUWo2UlRsRUlkdXRqY05oV2NtRWJhZ0pmWHBBckc2emdqZVNO?oc=5)
+
+---
+
+### ['Quase morri depois de uma dor de dente virar sepse e causar uma doença cardíaca rara'](https://news.google.com/rss/articles/CBMihgJBVV95cUxNTTkwdm14b1g4VWNjN3ZUOHdSVkoyUmZmTm5lZ3lDX3pia28zaVRxQXQyTkZaN2FWZks1cjBpb3F2S0hjN2RtbGdqSWNVUjBHbE5IeS1RaTNRdXktb3hjQ2VHeTJQc0VCSk1fSkRLSjFkMW5fa0Yxd2ZkX3lDbmRnS2dlakxvX09JdDlCSTJTNHg2M1pQZjVLbjFkU1FXX2t2U2g2RFhLcWE4a1ZJdWowdzRpNHdRMmRFRjZ2ZlRrNUFHMWhGOUoxeGhvSFU2Y3RSc1huZGRvMGIyRnlhOGZHaE9fQlZ5c3czNFNTOHU2SVNacGRKWlZ3eEVvV2x3OWRMQ3RiUVFB?oc=5)
+
+2026-11-10 <span class="news-indication-tag">doença cardíaca</span>
+
+Fonte: [Terra](https://news.google.com/rss/articles/CBMihgJBVV95cUxNTTkwdm14b1g4VWNjN3ZUOHdSVkoyUmZmTm5lZ3lDX3pia28zaVRxQXQyTkZaN2FWZks1cjBpb3F2S0hjN2RtbGdqSWNVUjBHbE5IeS1RaTNRdXktb3hjQ2VHeTJQc0VCSk1fSkRLSjFkMW5fa0Yxd2ZkX3lDbmRnS2dlakxvX09JdDlCSTJTNHg2M1pQZjVLbjFkU1FXX2t2U2g2RFhLcWE4a1ZJdWowdzRpNHdRMmRFRjZ2ZlRrNUFHMWhGOUoxeGhvSFU2Y3RSc1huZGRvMGIyRnlhOGZHaE9fQlZ5c3czNFNTOHU2SVNacGRKWlZ3eEVvV2x3OWRMQ3RiUVFB?oc=5)
 
 ---
 

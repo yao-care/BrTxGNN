@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Letermovir?">
-<strong>Letermovir</strong> tem atualmente <strong>53 notícias</strong> e 1 indicações previstas.
+<strong>Letermovir</strong> tem atualmente <strong>55 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ Esta página combina as indicações previstas por IA para Letermovir com as not
 <p><a href="{{ '/drugs/letermovir/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (53)
+## Notícias relacionadas (55)
+
+### [Quais bebidas podem aumentar o risco de câncer de estômago? Estudo alerta contra o consumo diário - O GLOBO](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQS3NMUUlra25jckEtaGozem9XS3doVEdGTjJveG1wenhFQ25yR0hiZ3pjS1ZUbmRpQ1JHWHdCbF9nYnM1b2tXbmF3WDczcm5WVnh5Nk9ISTBFM19faGpmVEJTc2NKdm5YRENyYWhzWFJFN05tNVgxSDVCNy1neFNKOEZJOGdkc2plcEdkZWZqMXV2NHhpNU1QNjUyZnp2ZWU4NFZTOF95WkszQU92cG8xRVJKQ3MwU0FWSnh6eFhFblowUE9KSmJZcF9hVGd3VHdRSDluS0I1T2lFSmZKaE5EVFFXU2RfRE3SAfYBQVVfeXFMT2xxekxZVGVhRnlUbDYyOWd0MmdEbTdIYWN6TlhjdXRXbGlXbV9sLU0wb21GOTY3d01yaTMxUi1QaG9wc1lTWnBGY05vejRMQU13QXNOTEstNlhhX0Q1THJqczZhVEhYOWdJZjF0a0pIR1RHS191M1ZsWER5Y3A2am9oOFJKRl9sc1M0a2Vhb3dOYVgxRW80c0VqdFlGRTlfTjVTSm9aajA2QU52dFJCdmdia2U2T0JfVThNZ3NseW0yYjM1UFRJbWlCekJNc1RxZmQzZ00xV0dHZkhyVHBxV3J6clQ0dlhnQlJYWXFzVE9pUFktcndR?oc=5)
+
+2026-11-13 <span class="news-indication-tag">câncer</span>
+
+Fonte: [O GLOBO](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQS3NMUUlra25jckEtaGozem9XS3doVEdGTjJveG1wenhFQ25yR0hiZ3pjS1ZUbmRpQ1JHWHdCbF9nYnM1b2tXbmF3WDczcm5WVnh5Nk9ISTBFM19faGpmVEJTc2NKdm5YRENyYWhzWFJFN05tNVgxSDVCNy1neFNKOEZJOGdkc2plcEdkZWZqMXV2NHhpNU1QNjUyZnp2ZWU4NFZTOF95WkszQU92cG8xRVJKQ3MwU0FWSnh6eFhFblowUE9KSmJZcF9hVGd3VHdRSDluS0I1T2lFSmZKaE5EVFFXU2RfRE3SAfYBQVVfeXFMT2xxekxZVGVhRnlUbDYyOWd0MmdEbTdIYWN6TlhjdXRXbGlXbV9sLU0wb21GOTY3d01yaTMxUi1QaG9wc1lTWnBGY05vejRMQU13QXNOTEstNlhhX0Q1THJqczZhVEhYOWdJZjF0a0pIR1RHS191M1ZsWER5Y3A2am9oOFJKRl9sc1M0a2Vhb3dOYVgxRW80c0VqdFlGRTlfTjVTSm9aajA2QU52dFJCdmdia2U2T0JfVThNZ3NseW0yYjM1UFRJbWlCekJNc1RxZmQzZ00xV0dHZkhyVHBxV3J6clQ0dlhnQlJYWXFzVE9pUFktcndR?oc=5)
+
+---
 
 ### [Comissão do Senado aprova vacina contra herpes-zóster no SUS; projeto vai à Câmara - Folha de S.Paulo](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdms2X2lTakNNQUhkTDdHbkdfeEdRSHlKVzkyTGp5U2FsY2tUdDgyUlpQLXRLSXZZOXpWc0EtdTYyY1VXWkxqcGl0UElndDBTUkc5eVJGcXNGVTlvbEozemNRcnBwVG15SzZkV2ROQVBIUk9kbW5tVEY3dEJxOGd2UDR0ZkRDZWZqRVJHT3k1R1h6Z0xCV3VnbC1Xekp4bVVtbkE0U2t2SWdrYXdlTk9LS2Jlc1BDZVNPRThOaWpJbVVxUHRZSDZsZ1RIMTZleTJYNTJ4OTQxZUwxZw?oc=5)
 
@@ -56,6 +64,14 @@ Fonte: [Campo Grande News](https://news.google.com/rss/articles/CBMiugFBVV95cUxO
 2026-11-12 <span class="news-indication-tag">herpes-zóster</span>
 
 Fonte: [O GLOBO](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaVl3TUxwaFlxVFNxNHZ5aS05d1Z0XzdKTmxqbmxLMlRta2stWm9aRThmb2dKZEVmU3VMcWJ0Ymo2MG8xSmIxZS04MThTWFFwaDRXakpCZkMzYmR1VWotbFJhRUlQT3NidGV5VC1QRE9SeVVwRUJWZVFEVS11SWZ0R0FoNmNER2QzSzdON3YtRWpxN0ViY0I4c3lUMnJack9VOUtteXh1R2xIRXFlQlNRTHhSMFlJWl8wbDZ0bFl2SjRjX24zWlZpWE9kLWR2WUtTdlRadWYtV3JTdEYtSHJwR0xn0gHwAUFVX3lxTE5BWmZ0TzhSYWM5MkZGRnVSZi0yeTdOT3hoUi16RzQxZGRSQXI2S2ZtdVdpWW9TeUxWOUpTTjB6OEFkS3ByS0xFQTQtRHNCMkliZzFaVWdva1B1SGluN1NZcFllWkJ0SzBSeHFIeEdINHRuSHhLcDNka0tFSEMzZDAwQ0ozVWphUmVzT1dCa1BCbWw2djhNYi1BUHZrWUpKaDA0SlhBRW5LWlZvMG41Q2Jzb3lFUURDM0d2bDFKZ0E1T2NTaFBnWmhHVzBlWkdRVlN3WDNsUGdkM2lEdmpadDV5Ymk2Z2U5NG1uM0U4ZUJnUw?oc=5)
+
+---
+
+### [Chiclete consegue reduzir presença do HPV e bactérias ligadas ao câncer - CNN Brasil](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX0hHYlhVRVpmY3cxcF9iZGR3cWt4NkU2WXItQ0FTSnFTcjVnaFBTTU5zdkoweTNkVVdONU5ra01kMGl4NUJReURGZ29XQzk5eXk5S0gwS09XeUxPVnJhUU1zekRjekNfVUNjYXluU3l4ME80R3Q3MjFvUUh1LW9tUmhJU0FnUnRTUXJkbk5rM0NBN1JtcjQ1aDVQSTU2Ry10NlBiT3JUZzJxYkk?oc=5)
+
+2026-11-12 <span class="news-indication-tag">câncer</span>
+
+Fonte: [CNN Brasil](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX0hHYlhVRVpmY3cxcF9iZGR3cWt4NkU2WXItQ0FTSnFTcjVnaFBTTU5zdkoweTNkVVdONU5ra01kMGl4NUJReURGZ29XQzk5eXk5S0gwS09XeUxPVnJhUU1zekRjekNfVUNjYXluU3l4ME80R3Q3MjFvUUh1LW9tUmhJU0FnUnRTUXJkbk5rM0NBN1JtcjQ1aDVQSTU2Ry10NlBiT3JUZzJxYkk?oc=5)
 
 ---
 

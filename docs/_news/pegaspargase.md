@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre PEGASPARGASE?">
-<strong>PEGASPARGASE</strong> tem atualmente <strong>50 notícias</strong> e 7 indicações previstas.
+<strong>PEGASPARGASE</strong> tem atualmente <strong>52 notícias</strong> e 7 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -39,13 +39,29 @@ Esta página combina as indicações previstas por IA para PEGASPARGASE com as n
 <p><a href="{{ '/drugs/pegaspargase/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (50)
+## Notícias relacionadas (52)
+
+### [Quais bebidas podem aumentar o risco de câncer de estômago? Estudo alerta contra o consumo diário - O GLOBO](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQS3NMUUlra25jckEtaGozem9XS3doVEdGTjJveG1wenhFQ25yR0hiZ3pjS1ZUbmRpQ1JHWHdCbF9nYnM1b2tXbmF3WDczcm5WVnh5Nk9ISTBFM19faGpmVEJTc2NKdm5YRENyYWhzWFJFN05tNVgxSDVCNy1neFNKOEZJOGdkc2plcEdkZWZqMXV2NHhpNU1QNjUyZnp2ZWU4NFZTOF95WkszQU92cG8xRVJKQ3MwU0FWSnh6eFhFblowUE9KSmJZcF9hVGd3VHdRSDluS0I1T2lFSmZKaE5EVFFXU2RfRE3SAfYBQVVfeXFMT2xxekxZVGVhRnlUbDYyOWd0MmdEbTdIYWN6TlhjdXRXbGlXbV9sLU0wb21GOTY3d01yaTMxUi1QaG9wc1lTWnBGY05vejRMQU13QXNOTEstNlhhX0Q1THJqczZhVEhYOWdJZjF0a0pIR1RHS191M1ZsWER5Y3A2am9oOFJKRl9sc1M0a2Vhb3dOYVgxRW80c0VqdFlGRTlfTjVTSm9aajA2QU52dFJCdmdia2U2T0JfVThNZ3NseW0yYjM1UFRJbWlCekJNc1RxZmQzZ00xV0dHZkhyVHBxV3J6clQ0dlhnQlJYWXFzVE9pUFktcndR?oc=5)
+
+2026-11-13 <span class="news-indication-tag">câncer</span>
+
+Fonte: [O GLOBO](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQS3NMUUlra25jckEtaGozem9XS3doVEdGTjJveG1wenhFQ25yR0hiZ3pjS1ZUbmRpQ1JHWHdCbF9nYnM1b2tXbmF3WDczcm5WVnh5Nk9ISTBFM19faGpmVEJTc2NKdm5YRENyYWhzWFJFN05tNVgxSDVCNy1neFNKOEZJOGdkc2plcEdkZWZqMXV2NHhpNU1QNjUyZnp2ZWU4NFZTOF95WkszQU92cG8xRVJKQ3MwU0FWSnh6eFhFblowUE9KSmJZcF9hVGd3VHdRSDluS0I1T2lFSmZKaE5EVFFXU2RfRE3SAfYBQVVfeXFMT2xxekxZVGVhRnlUbDYyOWd0MmdEbTdIYWN6TlhjdXRXbGlXbV9sLU0wb21GOTY3d01yaTMxUi1QaG9wc1lTWnBGY05vejRMQU13QXNOTEstNlhhX0Q1THJqczZhVEhYOWdJZjF0a0pIR1RHS191M1ZsWER5Y3A2am9oOFJKRl9sc1M0a2Vhb3dOYVgxRW80c0VqdFlGRTlfTjVTSm9aajA2QU52dFJCdmdia2U2T0JfVThNZ3NseW0yYjM1UFRJbWlCekJNc1RxZmQzZ00xV0dHZkhyVHBxV3J6clQ0dlhnQlJYWXFzVE9pUFktcndR?oc=5)
+
+---
 
 ### [Família denuncia sutura sem anestesia em paciente com câncer - Campo Grande News](https://news.google.com/rss/articles/CBMiugFBVV95cUxOMXJybVJUSGFtRlBGMW9wTWV6M3VNOFVfVklsUWUxdzFHaVpmT2JRNlJseS1HRU1kM1had2J4bzU3dkN4WU1laUZYdk5pZ1JXeHV1TmdLVk16NWZWemc5MjJGbXdZRUFpbHE0Unlyc3dUc1ozNWdJXy1UYjNFTnZSc21WM2hNaktKUHY2RzN3cUNnV0cxa28yN0d6cTZlWUtLYUU2ZmZBcmlINDJJVjM2NG5zX2xQRmZteVHSAboBQVVfeXFMUGhQVWRod3o2X3BVeDlRcTl2aWtVbFlnaDlpakxhSWpoeFBMNkFvQXJmanVGS0NUdEktb1hheVNQa3VyNmVkVEdZNmJTYW10N0M2QUptRXFGeUU5MmpUckFyTjQ3XzlKd2lvc0xzaWVDV0YxQ3g0c0NyckpuTGQ0M1dad0hNMTFncU50ZGEwMTdJZGE4Q0ZwS3lmanp1NEZ1NWtqV3FqdkhJUy05eDlfMi1pWWRtUk1MZkpR?oc=5)
 
 2026-11-12 <span class="news-indication-tag">câncer</span>
 
 Fonte: [Campo Grande News](https://news.google.com/rss/articles/CBMiugFBVV95cUxOMXJybVJUSGFtRlBGMW9wTWV6M3VNOFVfVklsUWUxdzFHaVpmT2JRNlJseS1HRU1kM1had2J4bzU3dkN4WU1laUZYdk5pZ1JXeHV1TmdLVk16NWZWemc5MjJGbXdZRUFpbHE0Unlyc3dUc1ozNWdJXy1UYjNFTnZSc21WM2hNaktKUHY2RzN3cUNnV0cxa28yN0d6cTZlWUtLYUU2ZmZBcmlINDJJVjM2NG5zX2xQRmZteVHSAboBQVVfeXFMUGhQVWRod3o2X3BVeDlRcTl2aWtVbFlnaDlpakxhSWpoeFBMNkFvQXJmanVGS0NUdEktb1hheVNQa3VyNmVkVEdZNmJTYW10N0M2QUptRXFGeUU5MmpUckFyTjQ3XzlKd2lvc0xzaWVDV0YxQ3g0c0NyckpuTGQ0M1dad0hNMTFncU50ZGEwMTdJZGE4Q0ZwS3lmanp1NEZ1NWtqV3FqdkhJUy05eDlfMi1pWWRtUk1MZkpR?oc=5)
+
+---
+
+### [Chiclete consegue reduzir presença do HPV e bactérias ligadas ao câncer - CNN Brasil](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX0hHYlhVRVpmY3cxcF9iZGR3cWt4NkU2WXItQ0FTSnFTcjVnaFBTTU5zdkoweTNkVVdONU5ra01kMGl4NUJReURGZ29XQzk5eXk5S0gwS09XeUxPVnJhUU1zekRjekNfVUNjYXluU3l4ME80R3Q3MjFvUUh1LW9tUmhJU0FnUnRTUXJkbk5rM0NBN1JtcjQ1aDVQSTU2Ry10NlBiT3JUZzJxYkk?oc=5)
+
+2026-11-12 <span class="news-indication-tag">câncer</span>
+
+Fonte: [CNN Brasil](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX0hHYlhVRVpmY3cxcF9iZGR3cWt4NkU2WXItQ0FTSnFTcjVnaFBTTU5zdkoweTNkVVdONU5ra01kMGl4NUJReURGZ29XQzk5eXk5S0gwS09XeUxPVnJhUU1zekRjekNfVUNjYXluU3l4ME80R3Q3MjFvUUh1LW9tUmhJU0FnUnRTUXJkbk5rM0NBN1JtcjQ1aDVQSTU2Ry10NlBiT3JUZzJxYkk?oc=5)
 
 ---
 
