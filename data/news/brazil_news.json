@@ -1,19 +1,139 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-11-14T13:07:38.884585+00:00",
-  "total_fetched": 73,
-  "unique_count": 72,
-  "health_related_count": 26,
+  "fetched_at": "2026-11-14T22:04:09.410673+00:00",
+  "total_fetched": 84,
+  "unique_count": 84,
+  "health_related_count": 34,
   "news": [
     {
-      "id": "72b1b40a3f59",
-      "title": "Aos 23, ela descobriu gravidez e câncer ao mesmo tempo: 'Sinal de vida' - UOL",
-      "published": "2026-11-14T12:26:21+00:00",
-      "summary": "Aos 23, ela descobriu gravidez e câncer ao mesmo tempo: 'Sinal de vida'&nbsp;&nbsp;UOL",
+      "id": "d6b5c0769952",
+      "title": "Mpox: veja quem pode ser vacinado e os locais de imunização no Rio - O GLOBO",
+      "published": "2026-11-14T17:57:51+00:00",
+      "summary": "Mpox: veja quem pode ser vacinado e os locais de imunização no Rio&nbsp;&nbsp;O GLOBOBrasil registra primeira morte em meio a aumento de casos de Mpox&nbsp;&nbsp;UOL NotíciasMpox: nova variante que circula pelo Brasil já causou surto na África&nbsp;&nbsp;CNN BrasilRJ confirma primeira morte por mpox no Brasil em 2026&nbsp;&nbsp;SBT NewsRio confirma morte por mpox; estado já tem 382 casos este ano&nbsp;&nbsp;InfoMoney",
       "sources": [
         {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY2s5Qk96R1lMckVFVWxsWDFyNTdvVjVNczZQN3AtWHlBbDZoTDF5enBVeEJFQVdhbk5rRDFPWTZ0eU5pNVpkVTNUOGwzbDdUbDJsWl81SzV2THB6Y0VMczByZEFGbDZmNGppN0hoejc0ZkxpSS1oZnFueTJWQ1RkdllISzUySWVDN0lubTBYS2NIODdVREszYS1ITnVyU2tnR2lueld0RmlJakhMb0ROblFOcmJrdVo4VzM1b25FaUhCYVZ5dkcwQS0xekt4YlE?oc=5"
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQclBsYVZrWDlEUlNYLVJRZVE0WkNwUkJnVU16QXNvRFptMUtZYUxsdDJhd1lWQW44TExISEZSZXJ0TzdMRmxSem5zcThKUEpnbFBZS2I2RHhRSE1NaGI5aTZiSzVoTnFKUFRfZzJqc1d1Rkk1dnIxai1oMVIzb0xHVXljaF8zaVVLMGxwYTFvbS1OQmRWR2R6VVB5T2FSNERWVEFSejR0MjV2OFptYWM3SmIzUG5UMGcybGlR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2b7d6b2c0d0b",
+      "title": "Juazeiro do Norte confirma 2 casos de Mpox, os primeiros registrados no Cariri em 2026 - Portal M1",
+      "published": "2026-11-14T17:35:30+00:00",
+      "summary": "Juazeiro do Norte confirma 2 casos de Mpox, os primeiros registrados no Cariri em 2026&nbsp;&nbsp;Portal M1Ceará tem 78 casos confirmados de MPOX&nbsp;&nbsp;G1Ceará chega a 85 casos confirmados de mpox em 2026; veja cidades&nbsp;&nbsp;O POVOMpox: cuidados e diagnóstico precoce ajudam a prevenir a transmissão da doença&nbsp;&nbsp;Ceará Agora",
+      "sources": [
+        {
+          "name": "Portal M1",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSVE0bGxCOGJ2ZXZuUzBSLW5MSmZ2ekllRXpjMFkyeDFjb0JwN3VSMGlxZUZnTjYyUmlGa0UxUkRna1hwbWJMUURJOHpXYVU5T0JmRldPcGdZMXZqc1hFZUthcTNWNnB5SUdtRWVPVmdOeHFtRHpIdUF6NFgybmIwcTEyQW5taDhyazRfdXJ2T3pTRGNmVV9vMGxR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e4e880c01d5a",
+      "title": "EUA retrocedem um quarto de século e perdem status de país livre de sarampo - ICL Notícias",
+      "published": "2026-11-14T17:08:10+00:00",
+      "summary": "EUA retrocedem um quarto de século e perdem status de país livre de sarampo&nbsp;&nbsp;ICL NotíciasEUA perdem status de eliminação do sarampo após surto em 45 estados&nbsp;&nbsp;UOL NotíciasEUA perdem status de eliminação do sarampo após décadas de controle da doença via vacinação&nbsp;&nbsp;EstadãoEspecialistas explicam por que o sarampo voltou a avançar nos EUA em meio à crise da vacinação&nbsp;&nbsp;Terra14/11/2026 | Sarampo, malária e metas no diabetes&nbsp;&nbsp;Afya | Home",
+      "sources": [
+        {
+          "name": "ICL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRmpQXzRqT1d0NzVSZHNkZTJ3MEZQNlVFQlRza0tLQ2JHR2lzQjNDRUJEdEVRSnFkVWpGdjl0ajJQZmNSWWVwY1lTQTRUdG5VM0dpZzdKMUZuYzhxVGdtOGNQU09YUFowRm5GS1hQd2stbzh3YTI4dFNKVDZSYUtEU09PVzJtTUVvUV9iSnhLZ2syZnFtekxINHdyZkdoZTlqS05ZZ213?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d20268082dbf",
+      "title": "Astro luminoso no céu assusta cearenses com brilho forte durante madrugada - Diário do Nordeste",
+      "published": "2026-11-14T17:05:47+00:00",
+      "summary": "Astro luminoso no céu assusta cearenses com brilho forte durante madrugada&nbsp;&nbsp;Diário do Nordeste",
+      "sources": [
+        {
+          "name": "Diário do Nordeste",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNZlZBS3g1Nm1aZzYwSXR1M25EUFdkRnZqWEZXUjlzTVZzaTA5bWZ5ZkktRFJ3TFNnTG82UGYyOF92NG5fcm9rNUdwTElJVml2U0FyVG9KSUFIbVdCaXhlcXJ1VE1EeEZOeUZIME1HRy01OW52Vk0tamdhTHdBbnQtTXhSZ0lfQl90SXZfM1djUl8ycUIyQnFCTjA1YXRSWmlxMzRqcGRiQXEzV2RMY2NSRUN4RE5jYWJ0b3E2T3ZjYzRRaEZSOUhxaHA0MnZJcUYzNzZKUmRIYXFySnlVV2xZa1VjLU5DOTNzWkVSU093YkprbFVMTU4wVA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e88b9f2f6529",
+      "title": "Quais bebidas podem aumentar o risco de câncer de estômago? Um estudo alerta contra o consumo diário - O GLOBO",
+      "published": "2026-11-14T16:48:15+00:00",
+      "summary": "Quais bebidas podem aumentar o risco de câncer de estômago? Um estudo alerta contra o consumo diário&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOHQzd3g5MFp0WTFRRzhRdDhQU3hYbDV3MXUtaUJRX0ZQbFdJZFhzeG1McjJIMmtvd2dac1JVcUVHUDlwT1BfTUlaNFMzdmswODMwa1pFSXhpaE41RHpyZUZKNHRPM0V6QXRyVVlnT2NXR0hycWZEcmpzQ1BOc2RNMDFlZ2dTTGtYLTV4bnJ6S0lBc1d0WXg3cjdoV2tZZzVScTJHdWpMZDRQaTBqNGlFX1hCbFd2ZXF5aGh5VWYxNEYwY1YtclozWFlDSkZnR0xNRFZDc3hnOXpoRWV2azd0dHJuaGV5aVZxZG0w0gH6AUFVX3lxTE9TN2ZTakJJNWhLLURuU1EzWnNHY0tzeS1nOWlfdDlIalhKODBTcGFBalVrX3JFMlZZZHY0bXk0dkRlSHNWWm5ZTWJQWlVVaW1QRVlfZi1rR2pwQkNTQTNaanBlOXVxNTdxbVFlZGZFckd1S0ZOOEdoN1BCMlV3SnZuWmVrTzRPYUVnSjBjSzEyZFhzdnBwYXl6WFFzWTF6dGFRY3lmZ1dxMTVlZUFSWWVteVJPRVVfZkRfanM3Tnl3eU5kYm9VSkg4Yml4MGh2UkVwVWdLV0dDcU5tM3pzRkhnMk5PYWNHelo1dXhULWgxdTc2amtwQUVKR3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "33dd62fc0757",
+      "title": "Dia Mundial do Diabetes: como canetas emagrecedoras têm ‘revolucionado' o tratamento - BBC",
+      "published": "2026-11-14T14:52:50+00:00",
+      "summary": "Dia Mundial do Diabetes: como canetas emagrecedoras têm ‘revolucionado' o tratamento&nbsp;&nbsp;BBCComo canetas emagrecedoras têm 'revolucionado' o tratamento de diabetes&nbsp;&nbsp;Folha de S.PauloCosméticos, lasers, injetáveis e cirurgias: entenda como as canetas emagrecedoras estão mudando o mercado da beleza&nbsp;&nbsp;O GLOBOUso de canetas: efeitos digestivos ainda são desafio para medicina&nbsp;&nbsp;TerraCanetas emagrecedoras: o que mudou nas academias depois delas&nbsp;&nbsp;Assine Abril",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXSTdSdUtqQWNGUWg0UlRSZ3pYMTViTjRQbXRBWHNvLUZwQndlZGwyRzRzSXpmcWl3X2l6VzhjTHhFWVRpendlbWhaZF9ONllrRUJ0cWFaMUFPLWJwb1p0cUVYSdIBaEFVX3lxTE5iNnFKTTBkb2JVQUFDQVR0NmgyQWxDdWxzdk0tM0k3RUUyWjZweV9CcDNqRlNxbUNkSEZPYWxFR1FWWXk2QkFLUWtDSV9uMjNfXzRJdndJbGZrRG93TVNaMjZGcFVST3I1?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "79b5266055bd",
+      "title": "Por que o coração nunca desenvolve câncer? Novo estudo explica - O GLOBO",
+      "published": "2026-11-14T13:38:05+00:00",
+      "summary": "Por que o coração nunca desenvolve câncer? Novo estudo explica&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORDRaa3JMclIzYnUwZEpSemJZcV90RktFbDNGM3Zwb2NwV3hqUTZQYWR3WXlQZDh2WW1SOTFVNTNQQlN6V3AtYWNkUmdWbGhfajRuSFlTUm43VmlCdnZoYUFrZmtnTkxwaEhVRHRKMldCSzRGZHJ1b2FHc2NxUlNXSHpWWlFnbS1vX3laVXF2SXQ2dS1mTThPSEI4S1pDYnNrNVlQZHFNTnROdlg4VE9GTHpGS0JLTVc00gHHAUFVX3lxTE02RG9QSXR5c1VodHhYY0p5N1lCQnZFWC1jQkdRdXFWWkN4SDBJMTdWZXJ0dGtLZ291dnVKQVFidi1DMDlJRFFvSkRLUDRWYzQzbnFTTE85SzAzNHIzbmN4d2l6dTJkZlFRcWhXX0h3d3dKekI4d0J0WGY1QVdhT1BlRUlkUl9DdnQ3SkFBY0NOTkgzdzZEYmRnWFdETUtkam91RXJpdEU5SDNhb0ZfbjJfb3R5QW9OY3V5SzRBT09VaXpoODY3Z1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "52bf015e2b78",
+      "title": "Estudo do Instituto Butantan revela detalhes inéditos do poliomavírus Malawi detectado em crianças no Brasil - agenciasp.sp.gov.br",
+      "published": "2026-11-14T13:16:36+00:00",
+      "summary": "Estudo do Instituto Butantan revela detalhes inéditos do poliomavírus Malawi detectado em crianças no Brasil&nbsp;&nbsp;agenciasp.sp.gov.br",
+      "sources": [
+        {
+          "name": "agenciasp.sp.gov.br",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdkZJRmhHVU5WZGFEakFkcWhxY3NCSm1UZjhWc08xNmlNTTZSR0ZpMmRRRTJxQWZwTk1FaWx6SjNkSnBPdklrWGVmRkN1T0dPOVJKZVphNGYtNi1tNjlIeEpqYzhHdGFNQWNVXzVWbHRrT3ZDM1M3bFBHT21XcjRFeWZLbnIxYW04bWZVemwwZGNVVFRrXzVMU2FpRXM3enVyMjhEeXRJdk16Ny1mcDhTdmhtNmJuWjJIS243YmQxQ0xqNWtYZDJoTUJkWUx5M0pBT2c1VzVSc3ctSFM2VVo4WA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "067bffd2c452",
+      "title": "Restam apenas cerca de 720 exemplares desta ave no mundo; um experimento com sêmen congelado abre um novo caminho para salvá-la - Terra",
+      "published": "2026-11-14T13:07:00+00:00",
+      "summary": "Restam apenas cerca de 720 exemplares desta ave no mundo; um experimento com sêmen congelado abre um novo caminho para salvá-la&nbsp;&nbsp;Terra",
+      "sources": [
+        {
+          "name": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxON0pEX3I5Tkp3eE5qRkJld25iT3k1RmlySFdrUU9yZ3dxN0Iwc05ZS2RjSktIYzVqTnllejJLbUtwU1psbG01a0JTeHVId0ljU3FLN2d4OE9PbEdBbHZjVHdFZV96ak1kNXdteWVzN3ZOdUItNk5FR0JpOXdwcVlRRjI3aXc0OGRHT1ZaVVk0cWFjMWxSQnNuMnFZV0I1SUtPQ255SXV5blVuNEh2V0x5cms3ck8xU0d6NS10NjFlMUh2RmpqUm9ueWpWeEZVY2dHQnNGOUhaS2M4a1RjUC13MURYRlJibUh0cG5WUm5xdW9iazBmSFNxU2dkVlJ1RzZYYmQ2T0E4TlAxdi1NOHlYQmtpZnhneDFTcjl6T0I5cm04TndnYmhJSWVzSk13Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "40070c313ae6",
+      "title": "Atividade física prepara o cérebro de pacientes com depressão para a psicoterapia - agenciasp.sp.gov.br",
+      "published": "2026-11-14T12:22:00+00:00",
+      "summary": "Atividade física prepara o cérebro de pacientes com depressão para a psicoterapia&nbsp;&nbsp;agenciasp.sp.gov.br",
+      "sources": [
+        {
+          "name": "agenciasp.sp.gov.br",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBvdTlsV1k5OE1weWZxaDVQLTgzYWEyWER0ZXdzNGU5Vndkb3UzRVB0TXlEM0lvbTcySlZDeWw5anFWd0hEUWxmRXdSZTE2WEFmc1ZZVFZRNUt1Z19qVnlMUzcwZHVZY1RLcXhzTFFubE1pRnJVQTA0TE1WTlF0QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "29e0804afe21",
+      "title": "Dia Mundial do Diabetes: 6 sinais silenciosos que merecem atenção - Terra",
+      "published": "2026-11-14T11:08:28+00:00",
+      "summary": "Dia Mundial do Diabetes: 6 sinais silenciosos que merecem atenção&nbsp;&nbsp;TerraDia Mundial de Combate ao diabetes: diagnóstico precoce ajuda a evitar complicações&nbsp;&nbsp;G1Como evitar que o pré-diabetes evolua para diabetes? Conheça os cuidados&nbsp;&nbsp;GZHSaiba quais são os hábitos que podem prejudicar o funcionamento do pâncreas e causar diabetes&nbsp;&nbsp;R7Diabetes: 252 milhões não sabem que vivem com a doença em todo mundo&nbsp;&nbsp;Agência Brasil",
+      "sources": [
+        {
+          "name": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSkJBeVNrX1lfb1F5WmRhaTNJV21XcHFtbU9NMUdLMVlTMDRSNlZrbDRKQkI2U09jZndsOW5JczdnOU00aEIyT1B4QjBzUEN4bEFjcEJjTFhsaFNiWGV0TmlneDRwR0NJZmdaLUlTZC1MSk9RYkpYZ3NVX0ZMa1FTNDM5M1VKRkpNQUF6LWo2aExncTVabVVKYkxVUkZMN3d3U0VmMjRqbmVXamZUY0RLVEFRWEs3V2lEcm1aMlcyNkpIN1N0czdvMG92em54WWdrVHpBa1R6SVJPSzRTcThsQkdudzBGQnFET2hN?oc=5"
         }
       ]
     },
@@ -26,6 +146,18 @@
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdE4tZFo0Wlk5WWN2MUp6aUZCaVJ1d0RvUzlwSzJtQW9nUnd3TVg5WW1JWXdFZlFwaFd0SG91SUJTX2lCZFpCR3RQTlNfQldlV3FPbzcyMGk2bDQwUldxME9GUlRiWVRqNFI4Q1lld2lveWVXakVMU2Y4TlhjQmxRdHhSVEh2R0ZjUnNfbmFkTzRIbEVpUWItSXJFVXE4aVNlSEFFLUg4ajRmc0h5OEFQdVdKUzNfSlZ5eF81V044dUVoTXhOS295bDVnaw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "72b1b40a3f59",
+      "title": "Aos 23, ela descobriu gravidez e câncer ao mesmo tempo: 'Sinal de vida' - UOL",
+      "published": "2026-11-14T08:30:00+00:00",
+      "summary": "Aos 23, ela descobriu gravidez e câncer ao mesmo tempo: 'Sinal de vida'&nbsp;&nbsp;UOL",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY2s5Qk96R1lMckVFVWxsWDFyNTdvVjVNczZQN3AtWHlBbDZoTDF5enBVeEJFQVdhbk5rRDFPWTZ0eU5pNVpkVTNUOGwzbDdUbDJsWl81SzV2THB6Y0VMczByZEFGbDZmNGppN0hoejc0ZkxpSS1oZnFueTJWQ1RkdllISzUySWVDN0lubTBYS2NIODdVREszYS1ITnVyU2tnR2lueld0RmlJakhMb0ROblFOcmJrdVo4VzM1b25FaUhCYVZ5dkcwQS0xekt4YlE?oc=5"
         }
       ]
     },
@@ -54,26 +186,62 @@
       ]
     },
     {
-      "id": "af981e5091be",
-      "title": "Mpox: Secretaria estadual de Saúde confirma primeira morte pela doença no país este ano; paciente é da cidade do Rio - O GLOBO",
-      "published": "2026-11-13T23:23:02+00:00",
-      "summary": "Mpox: Secretaria estadual de Saúde confirma primeira morte pela doença no país este ano; paciente é da cidade do Rio&nbsp;&nbsp;O GLOBORio tem a 1ª morte por Mpox confirmada do país; são 382 casos no estado&nbsp;&nbsp;G1Brasil ultrapassa mil casos de mpox e registra uma morte no Rio&nbsp;&nbsp;Folha de S.PauloMpox: variante associada a casos mais graves avança no Brasil; sintomas e tratamento mudam?&nbsp;&nbsp;EstadãoMpox: Ministério da Saúde garante 25 mil doses de vacina após negociação intern",
+      "id": "073b17096351",
+      "title": "Médico autor de best-seller mostra dieta 'ultra-saudável' com pão caseiro de abobrinha - O GLOBO",
+      "published": "2026-11-14T07:00:00+00:00",
+      "summary": "Médico autor de best-seller mostra dieta 'ultra-saudável' com pão caseiro de abobrinha&nbsp;&nbsp;O GLOBO",
       "sources": [
         {
           "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQcFM4N1h6SGhmWFYzbUN4MGtNam5uSVJBVExmc0NkY0xzMWItV1UtS05kRjU0X0VPdzVBRm1kcWJBbjhMNXFjQkRFUGlvSVBGOFJobkk3MUliWUxwdm81Y1dITTlfUlItaU9iZ290LW5Ja3R2S2xnSG1BR0o4UDI4ZzVpZlBDUXo1UFdOVmRJNUtyYjczWTN5MTFrRVB3ZXVLR0o1ZWczM3Z1N1NNa1FuRl92dFZNdjdSc1A3ZW01NmgxLUthelR6Xzh5NlJwM19xejJtRThrZ3JLZ0dLd2VpWU5sSkdqbzUxNjVSbVhCMFN4WnZLalljTXBacVPSAYsCQVVfeXFMUGQzSVVPcWRoelg3SDdtZ2YyWE1Eek8yZlF1UHRDRkxYSVBHS1BZbmVDdURmanBZbzl2RUN0Tzc4VTg5NXZ3UWgya0dtcEtaN1JMODFSbWk2d1hMdVlPS2J4T2x1a0VwLVEwQ0g1V0RmbTJTcjljdzhxSG5remtQVm03alpjMENmMnNoWHp1ZEJNSUR6YS1QVVNCeXVTdmhyM1A0VWFKdlRKeDVZZUVMTmdGNUFwbE1NcVVzdU4zZnlxa2k1bXhkZkp2MTY2dC1BcW16NUxLT09YbGxvX2loX29YZWVDU3RZZGdxejdFeHg3UmYwaDVHNVBLVnBabENkMEk4LW12YjF2QUNz?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeFlNNDJ4TTN4SGdMdDRlZXRISmNkQldoX1pkNnNHOVdrQ01SbHhiOV90RDFYbmt4RXdka2EwbndnOGNPY01ZbGg4QWpPZUZQY1JBa1BRV1pIUFhCMGZGdWkzbjZoVFRqcklUN0pEcE5DdzI5Q2xubmdLZkNKOGJvQ0NuQUs0WEtqb1NnczY4ZnliQmxLTnpIV2lMczlRWFBDRzZ3SU9NRXBHbERmaUxSWGdLSy1xeUZzSzYwcU9YWTQ4R3FWLUVWLVhCTDZCc0psSGV1LWVQd9IB5gFBVV95cUxOYWVwMDlGZzlrWHlBNXlla2c3QWk0NzFpdFAzTWdrZVJCcVJQWnlmNTJ6dEZJRUhpMFpBelliZ090ZmpzdWJWeng1VngyMHJoVTQ5Sk9oaXdWRjFlUkp0ZXdTbU10WUhnb05TQ2V3M0ZVd2N0bzdaRWRzUDNpcF9BdV8wbUpNcncxeXBId2tPQUh4Q1VabDlXeGdmMWtmWnNydWRPRjlzWHNYNWpGWDlnZEpFYm5NNnFKbnBhek5Hc1VhS3ljOXdBUk9qams2NnVLY3RIbmprWFZBN2o1OGZzQ2ZpVVc5dw?oc=5"
         }
       ]
     },
     {
-      "id": "0130e0659adb",
-      "title": "Carlos Nobre, pesquisador brasileiro referência em mudanças climáticas, tem diagnóstico de ELA - Estadão",
-      "published": "2026-11-13T21:10:00+00:00",
-      "summary": "Carlos Nobre, pesquisador brasileiro referência em mudanças climáticas, tem diagnóstico de ELA&nbsp;&nbsp;Estadão",
+      "id": "0b16ec6489a6",
+      "title": "Diabetes tipo 2 que não responde a tratamento pode ser tratada com cirurgia - Metrópoles",
+      "published": "2026-11-14T05:00:00+00:00",
+      "summary": "Diabetes tipo 2 que não responde a tratamento pode ser tratada com cirurgia&nbsp;&nbsp;MetrópolesUm cirurgião destaca que a cirurgia para a obesidade melhora a diabetes tipo 2 além de perder peso&nbsp;&nbsp;Demócrata",
       "sources": [
         {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVk4tTjV3LWFoU0REeXJKR2pncnhSQmtNaEwyWHE3bUpfTnZqNkxSUElKazA3VjU1cEhQSHRBbS11RmVlZ25LaGtvZHA3dzdOMGUtUkVFYm50Q0c1QWhLS1VBNTczVTJ1Q2tzekRLNGZhTTREdGdYWm5SVXZzdjZHZVhoa0QzbTRBUEZsajNSNk1fY2NwbkdWNnNSWUs5VjJhVGpxLXRaRkpHaVZTcV9aWEo0SUN1MHM2dDR4ZzBBUEU4UXYwQ2fSAcsBQVVfeXFMTjlwWTFQYWxYRFhrcXY4OWlpNDNoSFVyaEFaLTRQQjB0MG1nNDhtRXlxaTlPX2ZhQmRIeWZFY3ZiTDZhVnVTSHF0YzBVMVdXbF9zYUp2V0ZibXBJdWh1MUNRdW9xMkltYzZmZGdSTUVFZmhmOGVoalF2UUJMU0VQZzhnbEZnRVJHbUFuVDJPM25qUlVHVEVhQVVESlE1XzdTODduWmRrTDV4RnFob2Z1WmttX3d2bmg2ZmxBVE40Y3lTM2ZncENRWFFMTm8?oc=5"
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORmxrMEJJTGVkZ2dyd0s3bExOc2pIbEEtek9ONWp6YTF6WUplSmh1dWpkSEYxb0czemhYVHZTdkVUQUV4TFE3N1FINThXYkFreVhrVWVnaUtaZ212eElUS2xURE9qY1VYNW1LTnpXYTlKbFRfS3VRTkVEelFKcTZmZXNfS21velF5dWN0aHUzWjllN0VURExQUFBQLURvT3ItSndwQlVnUmVicnpi?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "229ba133312a",
+      "title": "Carlos Nobre, pesquisador brasileiro referência em mudanças climáticas, tem diagnóstico de ELA - UOL Notícias",
+      "published": "2026-11-13T22:04:00+00:00",
+      "summary": "Carlos Nobre, pesquisador brasileiro referência em mudanças climáticas, tem diagnóstico de ELA&nbsp;&nbsp;UOL Notícias",
+      "sources": [
+        {
+          "name": "UOL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWDFJeVFSMFppZUpIYWhzUENPemhfOW1kWmZQaUJtVDJQbVBiU2RPMHc2U3BJQ0p6T2xMdlZsdktOdWtFSXpnY1pvUFQ4R2NYbm1FY1M3SmhMNzJtcFpIaU5CSHZSa3g1WnBkcnhldmNlUlpHdHg2Yy1mdWU1VS16NVprcGF0VXRla0MtaFNoQnNrQzZJYXlZTVJQNG12U1lZUlc2eWpUYkdqUzB5S1BlUTZoaWc3QlYwc2NDRTBnc3FWQlE1VU1SZGg5VUdqeC1nMWhqeW9XWXdLcWUtTHczUmc0b2k4V1hWc1hfeE1jV051VzlFNlAwLUpCOA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "166e32ae4729",
+      "title": "Cientistas chineses alcançam avanço histórico: pesquisadores chegam a um trilionésimo de grau do zero absoluto e batem recorde - Xataka Brasil",
+      "published": "2026-11-13T20:31:27+00:00",
+      "summary": "Cientistas chineses alcançam avanço histórico: pesquisadores chegam a um trilionésimo de grau do zero absoluto e batem recorde&nbsp;&nbsp;Xataka Brasil",
+      "sources": [
+        {
+          "name": "Xataka Brasil",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVWo4OHktTEJXSWlzUFhqUGVJYnRyVnVqV1F4VFNSak5nWHk0VHVIUjhPU3M3cFM3QUtVOUJEQ2taYWRYdkJiS0Znd3I3YzFLNEVCM0kwVHpBQ2hTWktBYWt3SUtiTWZFZFBVZk1QVlNvWU0ySVZGM01jTGY4OTczcjZpOGlxc0ZLeFUtdWpRbkZmSGZ3cnd0SGNRdTVLX1dQSjVZNkZNaktJRjhoMWk3TG13Z2NKc0NzTjY0cG1tU1F6Z1RBbHJFbmtPSzI0VlhIbjhkWVZrWnNoN1YyVTI5cEtLbVcxNWJmeEpTZA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "38dd148d19e0",
+      "title": "Comissão do Senado aprova vacina contra herpes-zóster no SUS; projeto vai à Câmara - ICL Notícias",
+      "published": "2026-11-13T20:11:34+00:00",
+      "summary": "Comissão do Senado aprova vacina contra herpes-zóster no SUS; projeto vai à Câmara&nbsp;&nbsp;ICL NotíciasVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "ICL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yZHhGUG5BSl9fazRMMWl4cG9sazVfYTFvYWJwVnZBOVJNcWZjS1o5QWZ1VmplY1lOdUNheFFwcUxHeG4tVHZGN0RVVFVIcmw4RnlzSnh2TDd2cFVIaVJfNmdFbVIyUEJUWHR2Rg?oc=5"
         }
       ]
     },
@@ -81,7 +249,7 @@
       "id": "ad4ef5f569cd",
       "title": "Suplementos de creatina também podem fortalecer o cérebro? - InfoMoney",
       "published": "2026-11-13T19:28:39+00:00",
-      "summary": "Suplementos de creatina também podem fortalecer o cérebro?&nbsp;&nbsp;InfoMoneyA creatina pode fortalecer o cérebro? Protege do Alzheimer? Veja os efeitos do suplemento realmente comprovados&nbsp;&nbsp;O GLOBOCreatina: como o suplemento age no organismo, indicações e riscos do uso excessivo&nbsp;&nbsp;Portal Drauzio VarellaCreatina fortalece o cérebro? Estudos ainda não confirmam benefício cognitivo&nbsp;&nbsp;Diário do Centro do MundoO suplemento que ajuda a ganhar força e massa muscular com o ",
+      "summary": "Suplementos de creatina também podem fortalecer o cérebro?&nbsp;&nbsp;InfoMoneyCreatina pode ajudar o cérebro, mas ciência ainda impõe ressalvas&nbsp;&nbsp;Folha de S.PauloA creatina pode fortalecer o cérebro? Protege do Alzheimer? Veja os efeitos do suplemento realmente comprovados&nbsp;&nbsp;O GLOBODe suplemento esportivo a aliado da massa muscular&nbsp;&nbsp;Guia da FarmáciaCreatina para mulheres após os 40 anos: médicos destacam ganhos na massa muscular e na memória&nbsp;&nbsp;Tua Saúde",
       "sources": [
         {
           "name": "InfoMoney",
@@ -90,38 +258,26 @@
       ]
     },
     {
-      "id": "e71f562b7959",
-      "title": "Quais bebidas podem aumentar o risco de câncer de estômago? Estudo alerta contra o consumo diário - O GLOBO",
-      "published": "2026-11-13T18:52:39+00:00",
-      "summary": "Quais bebidas podem aumentar o risco de câncer de estômago? Estudo alerta contra o consumo diário&nbsp;&nbsp;O GLOBO",
+      "id": "8e766d6f86bf",
+      "title": "AVC: 5 vilões silenciosos que aumentam o risco da doença - iG Saúde",
+      "published": "2026-11-13T18:46:00+00:00",
+      "summary": "AVC: 5 vilões silenciosos que aumentam o risco da doença&nbsp;&nbsp;iG SaúdeRisco cardiometabólico acende alerta para a combinação de fatores que afetam o coração&nbsp;&nbsp;Folha PEEstilo de vida e saúde: a chave para reduzir ataques cardíacos e AVCs&nbsp;&nbsp;100fronteiras.comO que mais causa infarto e AVC: maus hábitos ou genética? Veja estudo&nbsp;&nbsp;viva.com.brMais de 100 mil brasileiros morrem anualmente por AVC&nbsp;&nbsp;Jornal da USP",
       "sources": [
         {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQS3NMUUlra25jckEtaGozem9XS3doVEdGTjJveG1wenhFQ25yR0hiZ3pjS1ZUbmRpQ1JHWHdCbF9nYnM1b2tXbmF3WDczcm5WVnh5Nk9ISTBFM19faGpmVEJTc2NKdm5YRENyYWhzWFJFN05tNVgxSDVCNy1neFNKOEZJOGdkc2plcEdkZWZqMXV2NHhpNU1QNjUyZnp2ZWU4NFZTOF95WkszQU92cG8xRVJKQ3MwU0FWSnh6eFhFblowUE9KSmJZcF9hVGd3VHdRSDluS0I1T2lFSmZKaE5EVFFXU2RfRE3SAfYBQVVfeXFMT2xxekxZVGVhRnlUbDYyOWd0MmdEbTdIYWN6TlhjdXRXbGlXbV9sLU0wb21GOTY3d01yaTMxUi1QaG9wc1lTWnBGY05vejRMQU13QXNOTEstNlhhX0Q1THJqczZhVEhYOWdJZjF0a0pIR1RHS191M1ZsWER5Y3A2am9oOFJKRl9sc1M0a2Vhb3dOYVgxRW80c0VqdFlGRTlfTjVTSm9aajA2QU52dFJCdmdia2U2T0JfVThNZ3NseW0yYjM1UFRJbWlCekJNc1RxZmQzZ00xV0dHZkhyVHBxV3J6clQ0dlhnQlJYWXFzVE9pUFktcndR?oc=5"
+          "name": "iG Saúde",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUjUxOWVHNGc3YzJNX1laUFh2aE5rTVBxUzdDVkFseHJycXdGLUtyajlrN0owbkVRanF1QUMyVGpzbU1RbTJwUjBweklrdnhKZGp1a1l1MDNwRjJMalhwTkFTZGVDbFJhUXRrLVBQVmVsajlrTi03QVFCSXRaMlJMZ2twSmtyTWdacHJFcklxbEQtcGxWeEFkc2RFTE5pYk9HM2htbExoSlRQY2FFc0xyaFVCc1NIVTDSAbwBQVVfeXFMUFVFbmI3YjFQVFJDTjUtYk1DYllQU2V6d3plUWQwel9QekZ3c3VsVGc1VF9kbHJnRVc2NUlNbTlMMnhvbXdiUUtwdW9xS2xCekppMU9RN3pDajZENm1SNGM3M2hWSzZzSHFnS0c2c09yWWdWRkhFRWxNUTNYUUdPYnN5SzM5UVcxX1BtMDlGX2lKZ3YzczEwczhCQmMySWJoeWhxRE5hcUxSQ3pMamlaWGFSUVJQLXYxLW9sZVI?oc=5"
         }
       ]
     },
     {
-      "id": "845ec2637fd7",
-      "title": "Previsão indica chuva e risco de tempestades isoladas no Vale do Aço nesta sexta-feira (13) - radioeducadoramg.com.br",
-      "published": "2026-11-13T14:47:11+00:00",
-      "summary": "Previsão indica chuva e risco de tempestades isoladas no Vale do Aço nesta sexta-feira (13)&nbsp;&nbsp;radioeducadoramg.com.br",
+      "id": "c248669adaeb",
+      "title": "Toshisuke Kanazawa, fisiculturista japonês de 90 anos: \"Não como carne, peixe, leite ou iogurte. Minhas três refeições diárias consistem em arroz integral, natto e sopa de missô.\" - TudoGostoso",
+      "published": "2026-11-13T13:42:00+00:00",
+      "summary": "Toshisuke Kanazawa, fisiculturista japonês de 90 anos: \"Não como carne, peixe, leite ou iogurte. Minhas três refeições diárias consistem em arroz integral, natto e sopa de missô.\"&nbsp;&nbsp;TudoGostosoDá para ganhar músculo depois dos 50? O que o fisiculturista japonês de 90 anos ensina&nbsp;&nbsp;Assine AbrilFisiculturista japonês de 90 anos come arroz integral, natto e sopa de missô, sem carne, peixe ou leite&nbsp;&nbsp;Tua SaúdeAos 90 anos, fisiculturista japonês revela dieta sem carne, peix",
       "sources": [
         {
-          "name": "radioeducadoramg.com.br",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU0J5b3RMbzJGeFc1VGM5X3ozdFdSS1NhcU0xM1d1TDl3M1ozNmFPOUpKdVVoRGxneUtoRGRoZksyakNsRDJqSTI3SXVuWUcyeFBPY1YtNUdYRFBadUc3dDRRaV90djBhYm84RWtnQTA0ZkRrcVBxekF1MUsyMGlUMjdvOHpNWkhZaHYtdFdPczVIVDZSQzE1YmNCOGVxQXZpTHNvUlp1dFVoWW1DN2hTZXJsb2RoQ1J1eEltSFNhZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "86f1e43fa091",
-      "title": "VSR: vacina feita com tecnologia usada na Covid-19 demonstra forte proteção contra casos graves a partir de 50 anos - O GLOBO",
-      "published": "2026-11-13T13:04:38+00:00",
-      "summary": "VSR: vacina feita com tecnologia usada na Covid-19 demonstra forte proteção contra casos graves a partir de 50 anos&nbsp;&nbsp;O GLOBOO silêncio dos inocentes: as vítimas da demora do Ministério da Saúde em adotar vacina materna contra o VSR&nbsp;&nbsp;Gazeta do PovoImunização contra a doença associada ao RSV reforça a proteção infantil e reduz a gravidade da doença&nbsp;&nbsp;Jornal MédicoMilhões de brasileiros entram no radar de vacina contra vírus que já fez disparar mortes e internações no B",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNSk9zU2pmY1lUall1WWo2akg0VDJQYzViZG51aXhhTkR4Z1djVXpFU2lWN1c1LWt2UjBpQ2xfYjZpamt2MDRWVFR3cnF2LUZuS0J3TzlPam0xd2pwRTNNMkJKa1B3OGE4cDROaml4aVF6VV8wU1ZjX29STmRUaWJ2RWZZdzBCQ0x2SzQtWXpENG9FQ01uTWJ2SHBzM0ZSVktLcTg5Z2xtdWcxbFBSSVFkaUR5NEgtSC10V0R2U01PWExhOGFBM0JZcXF3b0VDNlRlWHE3UDB0eUNSdV85TktORlhET3g3OHY3cmNJOTRBZV9SYlpHbWJJ0gGGAkFVX3lxTFBySDh3c0ZSSnVuQkp2eFpCNU42NHR1QzBPbUFqWE42RDFQZlBxazBZMlA5dk5CTWtEcXp5bmdWdmZCYnFRV015VFktMElZWkMtUlRwbVJJQ2ducWlSTTlTaFgwZFk5UTVpR3BJWGF4eU43QVVQTDdXWFBkbzg1NnpuNTNPT1FDOGttV3V3ZGpOZF9BYnNIVFF0NGpHSHdUcVJONkY5amxlZ2RxamVFcFVSMlo0S2RzZ2FYYXQ1Z0Iwcjc2YVA3X2ZpRjFGek5hRnFtWm12Y05IVk9LeEN1ckV5bHJXNm1BSXlKMmNlbVpWbEFtNEZ1Ujk0ajRpckNhY2l3M0Q4eFE?oc=5"
+          "name": "TudoGostoso",
+          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPT29BVUEtd1ZXY0NtM0FpQjBLaFJoLTJ0YUF6eVhIU0FWUDdBakx0b2MySUpFYkV2NjdxTTgzUlFBSmpvMWJaVnFLOXlnYlZGbTFGZTF1alNVaUI5S29KdGRaWDlCeXNhM3otX1BnM1VrczNwUHlsY0lVbDBnOEVMSW5qZGhOVjFDbnhEel9ob3p2OXF2SXgzOHJMVlV6ZTNiWGs2cS1nZ3JLamNKZjg1SHdtMmo3cXowQU5PS3FGQzFsM2dpNTlGWi1KRTJyTFluazQzclVLYU51ZDVYSUdBRFNGUVZFTHlONGpOWmRqNEI3aTJIeW1XaHpZV2dxSU1SaW9ackVRZUwtRFo3NnJVQXZoejlvNUVOYThhNnp5Y1NPMzBUYmtXZXhXbk9KcGVHRHh5U3N3TEFrN1dYWjhXRlh2VdIByAJBVV95cUxNNU54eHVacWdGWUJCRXhUemJHZTBtU1NhWUE1R0tTdDE5cXJPemNvR1Z0dUh5SkU0UExFZjlKdnpBRlBRTzlkbnZYVVZZeXlZV0hYaHZnLVYwMU5icEk4M29udWJmcFRBN0VFcmxkQkliR3liU0h6MXdwZDdyV2F5UU9rd2NnV3JCbGt0bmRkZ3doUXVLSGJJOVNUWUloVzdXX0RMSWs0VHlwRDhxTHpjSUdGckhjR0FyOThDMjd3ZlZyeHc2amo4SlhkN3NxVEg4WW1HT25ubTU3V1UtRTU3aUxvM21QZ1BOMERBaGdjbTkwRC1MalBkUW5USm8tdGhTeldjNmJWY3dyZlpMZ0ZKcFFwUXdnOC1MZ2JYVG42dFhlbERyM0V1eFdncXM0MHRqSmFVdEd4Q2VZSFFBM3BxMW5kWnhGeXBT?oc=5"
         }
       ]
     },
@@ -153,47 +309,11 @@
       "id": "a6c200884407",
       "title": "Musculação protege o cérebro? Neurocientista explica importância do glúteo - UOL",
       "published": "2026-11-13T08:30:00+00:00",
-      "summary": "Musculação protege o cérebro? Neurocientista explica importância do glúteo&nbsp;&nbsp;UOLOs avanços da ciência e hábitos que ajudam a manter o cérebro saudável são tema do ‘Globo Repórter’ desta sexta-feira&nbsp;&nbsp;GloboSaúde cerebral: como estimular o cérebro e manter a mente ativa&nbsp;&nbsp;TerraRotina, estresse e ambiente podem interferir no envelhecimento do cérebro&nbsp;&nbsp;Metrópoles» SAÚDE DO CÉREBRO: Prevenção, estímulos cognitivos e vínculos afetivos são aliados do envelhecimento ",
+      "summary": "Musculação protege o cérebro? Neurocientista explica importância do glúteo&nbsp;&nbsp;UOLOs avanços da ciência e hábitos que ajudam a manter o cérebro saudável são tema do ‘Globo Repórter’ desta sexta-feira&nbsp;&nbsp;GloboSaúde cerebral: como estimular o cérebro e manter a mente ativa&nbsp;&nbsp;TerraRotina, estresse e ambiente podem interferir no envelhecimento do cérebro&nbsp;&nbsp;MetrópolesHábitos saudáveis podem ajudar a reduzir o risco de Alzheimer&nbsp;&nbsp;Rádio Clube de Canoinhas",
       "sources": [
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdnBKTzJXaUFSaXpNdHctZGFFNmlKQWpkM2E3Ml94WFVaWHB5alZuRDlaeGh0bGljc2kyMU5HeTNaekhEYldEWGljM3YwUjBHSTl0TURDVHd4RkNvX3lBcWRiazV4ZFFaTTJzMDlYdHlrNkxZa3NxMVdtZk5rTE9jUXBkOEZWRnBPbXlLblR1QWlfbHJyUDFFM0J4aTl0d3B0ZDRVZzliNDJQVzh1NzQySnJyQlhTYTlJT0JRZW5iYklFVlBodkx6T1pyc1o?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "61e2c27db3bc",
-      "title": "SP tem 485 postos de vacinação contra a Covid-19; veja quem deve se imunizar - G1",
-      "published": "2026-11-13T08:00:01+00:00",
-      "summary": "SP tem 485 postos de vacinação contra a Covid-19; veja quem deve se imunizar&nbsp;&nbsp;G1Casos de Covid-19 sobem em SP, mas médicos descartam motivo para pânico&nbsp;&nbsp;VEJA SÃO PAULOVolta da covid? Hospitais privados de SP relatam alta de casos da doença&nbsp;&nbsp;InfoMoneyNota Técnica do COSEMS/SP nº 06 – Aumento de casos de SRAG por Covid-19 no estado de São Paulo&nbsp;&nbsp;COSEMS/SP12/11/2026 - Vacina contra a Covid-19 faz parte do calendário básico de vacinação; veja quem pode se imun",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZEtuVERZR0I4bzdPa1ZOVFhFMFVXZDJjMmNudldFN19DaTNFb0tKWjhGYzRXZmZWNm9yYU1GV3UzOGtGTjhaemQwc3lJdUtuWXFWUG53dmJMaEpyaTNyUVFRRUx2RExaWXI0UWhUWl9paUN5ZGdjNW5DeHJhT1hRVnZoc1hHektFMXZjNk1MWGNGQ0hRazkwVDBKV05hQzZnYUhUYjBGZkJ4ajZ5eXV1VjBFZlZpLXp1RFd3amNlbmxtVDNmWDhuTGpocU1vOTDSAd4BQVVfeXFMUGpQclZPa3RiVkpOUzc4eEh4WWNxMDNBcHd2WU85SkRuWTVYaDJiV0NPdFB6YWg0RnFiNGdDcXV4bnd1S0JTZ3Q4YmItWWl2VkxzVTM1ZmdGTnE5Yi1kdFFhSnFBNDlsemRFbDFBclpNcE5rWkZIS2k4T0hmdktzRjBnOWJydjNLVTd5QWVtaU5lbUxXVFFCYWRMV2Q4cklJYjVObmlILWZQNVlWQ0pLWC1UVDJueDN5MUU3ajZpYUFYY0lfdm1jaVV1WGFIWEVqVmlFWUxHVWJvQWRJeG93?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7b4ec3c23434",
-      "title": "Diabetes: o inimigo silencioso que já vive ao seu lado - O GLOBO",
-      "published": "2026-11-13T07:30:00+00:00",
-      "summary": "Diabetes: o inimigo silencioso que já vive ao seu lado&nbsp;&nbsp;O GLOBO5,3 milhões de brasileiros têm diabetes e não sabem; teste online simples ajuda a entender risco de desenvolver a doença&nbsp;&nbsp;G1Diabetes: 252 milhões não sabem que vivem com a doença em todo mundo&nbsp;&nbsp;Agência BrasilComo evitar que o pré-diabetes evolua para diabetes? Conheça os cuidados&nbsp;&nbsp;GZHDia Mundial do Diabetes alerta para importância do diagnóstico precoce&nbsp;&nbsp;Senado",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbFBUQmE2NFpVYmQydlRSTGs1Ykc4NkNBY2I3Qk9nVzdWVEllR1huSFFnMUhDaWN3eHZtSTFEbGxfNG10dk1nYzRqVTJCWE04ZFhGSWpJY3BiWnVucGVIRmdvYks1ZFl3ZlVrNl9GMnUtQ0JmXzB0eHVEcHJ1N2RrWEt1S0tKNDd0Q2tOeWZ6Y3B1MjlvdThZRUJ3ZEVqU1hjd3IwT0Q5eTh5Z1NQTEtkQVFESnU3WkFiUjM40gHKAUFVX3lxTE9EajIyNE5FbjRIc0tWWXFyM2RfX3N6SkJXY0JHZHJ2Qjd1cmNjMHlMQmRTSEY4R1NJRk5LUVY1UkFkaXlUMFYtVklmTGtTTXhUdFVLUUtMZjIxZXV0eEJnM0N1R0xsR21xR0dnenNXcUhYUjVEXzNsX19wbnVsSnNoWWJnVWZ1X3A5VE9NZzZ6Yl9GX2IxYXRPT0Jnd1hiV01kQ2tOYUF5MHdwTVBPNlVrdjRZV1VaaFFCUWtGekJpbU5RYnJLTXFNQnc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "137452e24978",
-      "title": "Senado aprova inclusão de vacina contra herpes-zóster no SUS; projeto segue para a Câmara - G1",
-      "published": "2026-11-12T23:07:42+00:00",
-      "summary": "Senado aprova inclusão de vacina contra herpes-zóster no SUS; projeto segue para a Câmara&nbsp;&nbsp;G1Comissão do Senado aprova vacina contra herpes-zóster no SUS; projeto vai à Câmara&nbsp;&nbsp;Folha de S.PauloCAS aprova estabilidade para gestantes e vacina contra herpes-zóster no SUS&nbsp;&nbsp;SenadoVacina herpes-zóster: após aval do Senado, projeto que inclui dose no SUS vai à Câmara; entenda&nbsp;&nbsp;O GLOBOPlenário aprecia 22 matérias, incluindo projeto que prevê vacina contra herpes-z",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVVlremN5SWpPNWhGSGIzQTJTdDZvMEdtaWpPVnBpUjc2cG9Na3MtYlhSQmFrQXdydE9Fdk1wZnFjNXZxTGQ3c21NTlBPak9tenJkck10VVo2THQ3MFV5cmljVndBb0F5YWVCVXNvMEJwQngtRC1NSy1JXy1kcmdGSEN3U1RyZUxFaGlSWVBfU21iRzllYlVIUHRnWTkya2JDU1NfWXNTRmZYMlFoejRacXJrZVYyRkUwcllVb2gzY3RSWHR5LVlsXy1oNW9iZUlLUzdsRDZNa9IB5gFBVV95cUxQUE5sSThRQjlXdVMyZndmalFVZkNRT0oyWFFlanRBekZ2Xy0zZHBoY25QU0tRSzFZWEt2cTVEU2JWcEx5eHVmTG5qYTBlN2d2amVwa20xY0JXNkVDMHZZUlRFU2pVbmxkQllDU2pGelk0d3VQZlhXbkgzdV9CeHJJSlV3RjZmTEFZZUZmbG5IdGZhN3RQNllqMzJka0gzYnl3X3pDR3k3cEtwSTM3OVlJRGdaSEFMczZ3TVpZXzVubUw0UmxzWmZndm5NMVAtT0JsU2RaOFlvWFRMOEZkZGNhS3JHaVhYZw?oc=5"
         }
       ]
     },
@@ -213,7 +333,7 @@
       "id": "bf24b621351b",
       "title": "Após caso de raiva em morcego, Zoonoses orienta população sobre cuidados - Folha BV",
       "published": "2026-11-12T21:43:26+00:00",
-      "summary": "Após caso de raiva em morcego, Zoonoses orienta população sobre cuidados&nbsp;&nbsp;Folha BVRaiva: Campo Grande vacina cães e gatos no fim de semana&nbsp;&nbsp;Campo Grande NewsVacinação antirrábica percorre três bairros neste fim de semana – CGNotícias&nbsp;&nbsp;Prefeitura de Campo GrandeBoa Vista registra caso de raiva em morcego&nbsp;&nbsp;G1Vacinação antirrábica terá dois pontos fixos neste sábado em Campo Grande&nbsp;&nbsp;Midiamax",
+      "summary": "Após caso de raiva em morcego, Zoonoses orienta população sobre cuidados&nbsp;&nbsp;Folha BVRaiva: Campo Grande vacina cães e gatos no fim de semana&nbsp;&nbsp;Campo Grande NewsVacinação antirrábica percorre três bairros neste fim de semana – CGNotícias&nbsp;&nbsp;Prefeitura de Campo GrandeBoa Vista registra caso de raiva em morcego&nbsp;&nbsp;G1Com aumento de casos de raiva, CCZ faz mutirão de vacinação na Capital&nbsp;&nbsp;Midiamax",
       "sources": [
         {
           "name": "Folha BV",
@@ -234,38 +354,14 @@
       ]
     },
     {
-      "id": "478d4a884e14",
-      "title": "Congresso aprova R$ 13,2 milhões para a pesquisa científica no Brasil - Senado",
-      "published": "2026-11-12T15:59:24+00:00",
-      "summary": "Congresso aprova R$ 13,2 milhões para a pesquisa científica no Brasil&nbsp;&nbsp;Senado",
+      "id": "83e4fabc2c1f",
+      "title": "Dormir apenas 4 horas altera o cérebro com um impacto equivalente ao consumo de seis cervejas: 'O desempenho diminui' - O GLOBO",
+      "published": "2026-11-12T07:30:00+00:00",
+      "summary": "Dormir apenas 4 horas altera o cérebro com um impacto equivalente ao consumo de seis cervejas: 'O desempenho diminui'&nbsp;&nbsp;O GLOBOO poder do ócio: por que seu cérebro precisa de descanso&nbsp;&nbsp;R7Dormir pouco afeta o cérebro como o álcool; entenda o alerta de especialista&nbsp;&nbsp;TerraUma noite maldormida tem menos impacto no cérebro de pessoas mais velhas, revela ciência&nbsp;&nbsp;Folha PEO que acontece no cérebro enquanto você dorme? Estudo sugere que o sono ajuda a “lavar” resíd",
       "sources": [
         {
-          "name": "Senado",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOFZpZUZBeERqV2RQWk1qdzBUWDdLcHN5d19QcXdyR3Q2YkVIUWF5SUZFTmM0WjZqSzdla0NzdGp6NWNFT3lhdnJuVWhmQmt6UTQ0VWE5cDBJSUVtaElvMThETmJtSVEyUUhOWDdMUURIY3BCWDVha1JDWUxJanNwLUR5YWNnZ0k5LWR6N19tbEpnWjV1MmpjVENBRXhkMVRrWVJXUTRnNFZNZldONFRiOXZOSUMwUGc0dEhDV1A4dk5ISU0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9c682a18692e",
-      "title": "Após cirurgia no cérebro, homem de 29 anos acorda vendo o rosto de seu gato em todas as pessoas - CNN Brasil",
-      "published": "2026-11-12T10:39:09+00:00",
-      "summary": "Após cirurgia no cérebro, homem de 29 anos acorda vendo o rosto de seu gato em todas as pessoas&nbsp;&nbsp;CNN BrasilPaciente acorda de cirurgia cerebral e passa a ver o rosto de seu gato em humanos; entenda a condição rara PMO&nbsp;&nbsp;O GLOBOHomem de 29 anos opera o cérebro e passa a enxergar traços do próprio gato no rosto de outras pessoas&nbsp;&nbsp;O POVOHomem passa a enxergar traços de sua gata nos rostos de outras pessoas&nbsp;&nbsp;Correio BrazilienseDepois de uma cirurgia, começou a ",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaFNGbmMyOTcwMzRzYl9HTEFSWW5rQ25oV1RJS1Y1ODdQcmRHOGZoQzM5cE1BQTI3ZG15bV9FTktBN3dwWTU3ZGtVd1JxLW9uMXFoTUFxeDliZ0pWYVRyNlhENFk3SjFXbGwtaUwzeFR3dEktZ2FiblE5OEtya25TUzQ3dnVEaXBzbFhLOUk1S0txOGpfOEstVlh3dkh2NHVKbWF2Nkx1SGpMM3p3V1RjN2x2anhJazhvbDJONFREaF9xS3VCV1BPdWw5LVY3a2h2X1ZV?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f188697c66c5",
-      "title": "Não sabe quem pode tomar a vacina? Preparamos um \"servição\" sobre a Covid - Metrópoles",
-      "published": "2026-11-12T05:45:00+00:00",
-      "summary": "Não sabe quem pode tomar a vacina? Preparamos um \"servição\" sobre a Covid&nbsp;&nbsp;MetrópolesCom alta de casos de Covid, especialistas orientam quem deve se vacinar&nbsp;&nbsp;Folha de S.PauloCovid-19: DF tem alta no número de casos da doença desde outubro; entenda e veja como se vacinar&nbsp;&nbsp;G1Feira dos Importados tem vacinação neste sábado (14)&nbsp;&nbsp;Jornal de BrasíliaCovid-19: saiba quem deve se vacinar, como se proteger e quando procurar atendimento médico&nbsp;&nbsp;GZH",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeXpTb1dlMFFEZUtrbjlWc2htSkdxS2JVTnBUQ1ZzbGpqSGt4MWtVLTJGQVZmU2ZoUVR2WGJEMnJYUThYTkhmRFRIZFNtWlNoU0t4eGN6M0J4cTlaSU9nS2Zic1JkZU5mZVY3OXVJRmdkdlBfWjV1Mk1WTzJBc3N3MlB5Y1Y4UFpwZTNGZ1NOZ2kyUWpOckpzVnFIc2RHdHBfN3NwNm9ucjdkeWlsSmVnWUg3UjU?oc=5"
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUlhKZkpySjA0SlMyUWdzSE93Mll2eDBHYjZ2RWN5ZVZpUVpxNE1TaGVmcHhraW5EN2N1OFVXcUpyZFlPS0dONlV0Qi1Bb1Q5d09xQWx5TklRN0hjVUdsb1lPTklqMWo0QWZod2d5LUNGcDNZY3dFNVdZWGVkSUloOTZjd2ZNMzlCbUhfdGh1QVhXMHg2QmZXUEpiQmthZmgwTjZZMkJOQ3dSMEJtejZ4aDIwQV9GclFRbnBlVlhRbURLVE93RlR1UEp1LU00a0QzYnRrRXhucjBESmFXUnFmRG05Q2ZJcmhyRkJWaUdWSFFURVdrYzVxc0p5WFJKVWvSAY4CQVVfeXFMTW16cU1WVU45TVlfNmg5Vzhjd0VkWXFjQnljVi1oT2FTRDdhNC1kc2U3dGdDVHhMRG9KclJmbGNXcjZqcE1iRVU1WTQwenc0elQzRk9UeUtGXzdiVWNVcEFQaHN6cUF6WUluSEpvRmR2S19iZ2xrQ3pudDViOTNJNTdTRnF6ejFMdXR5UWlOeUd6eXY5NXY2a3NmT3JZRmdSMG1oN0V5cFB3TmZyc1daZlRWSzM0WWRDV09DMnRmd0xHN1pySGEzZE5Cd2YzNnE4YzBLMnBYZl8tZHIyc09ScFJZaUN4WXF4dnEtQjRkaDl2Y0xSa1BocVU5VU9tTXdmRmV0UWNFOUhwblN5cnN3?oc=5"
         }
       ]
     },
@@ -273,7 +369,7 @@
       "id": "4d7830ab37ea",
       "title": "Retatrutida reduz dores no joelho em pelo menos 50%, mostra estudo - CNN Brasil",
       "published": "2026-11-11T20:45:32+00:00",
-      "summary": "Retatrutida reduz dores no joelho em pelo menos 50%, mostra estudo&nbsp;&nbsp;CNN BrasilNova caneta emagrecedora também trata as dores da artrose de joelho&nbsp;&nbsp;VEJARetatrutida experimental vai além da perda de peso? Dois ensaios clínicos apontam um efeito na dor da artrose no joelho em pessoas que vivem com excesso de peso&nbsp;&nbsp;Estado de MinasUm novo medicamento experimental para emagrecer também ajuda a aliviar a dor nos joelhos com artrose&nbsp;&nbsp;Terra13/11/2026 | Retatrutida,",
+      "summary": "Retatrutida reduz dores no joelho em pelo menos 50%, mostra estudo&nbsp;&nbsp;CNN BrasilNova caneta emagrecedora também trata as dores da artrose de joelho&nbsp;&nbsp;VEJAO que a balança não revela sobre o tratamento farmacológico da obesidade&nbsp;&nbsp;MedscapeRetatrutida experimental vai além da perda de peso? Dois ensaios clínicos apontam um efeito na dor da artrose no joelho em pessoas que vivem com excesso de peso&nbsp;&nbsp;Estado de MinasA Lilly afirma que seus medicamentos contra a obes",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -285,7 +381,7 @@
       "id": "cfb3a7865657",
       "title": "Consumo de energéticos está associado a 11 vezes mais relatos de parada cardíaca em jovens adultos, indica pesquisa - Extra online",
       "published": "2026-11-11T16:49:35+00:00",
-      "summary": "Consumo de energéticos está associado a 11 vezes mais relatos de parada cardíaca em jovens adultos, indica pesquisa&nbsp;&nbsp;Extra onlineConsumo excessivo de energético pode provocar alterações cardíacas&nbsp;&nbsp;G1Nova pesquisa nos EUA relaciona energéticos a infartos e paradas cardíacas em jovens&nbsp;&nbsp;AcheiUSAConsumo excessivo de energéticos acende alerta para riscos à saúde do coração&nbsp;&nbsp;Jornal de BrasíliaEstas bebidas podem prejudicar suas artérias e aumentar o risco de inf",
+      "summary": "Consumo de energéticos está associado a 11 vezes mais relatos de parada cardíaca em jovens adultos, indica pesquisa&nbsp;&nbsp;Extra onlineConsumo excessivo de energético pode provocar alterações cardíacas&nbsp;&nbsp;G1Estudo alerta para possível relação entre energéticos e aumento de parada cardíaca&nbsp;&nbsp;Gazeta do PovoNova pesquisa nos EUA relaciona energéticos a infartos e paradas cardíacas em jovens&nbsp;&nbsp;AcheiUSAConsumo excessivo de energéticos acende alerta para riscos à saúde do",
       "sources": [
         {
           "name": "Extra online",

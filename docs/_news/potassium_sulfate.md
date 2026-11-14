@@ -15,7 +15,7 @@ last_modified_at: 2026-11-14
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Potassium sulfate?">
-<strong>Potassium sulfate</strong> tem atualmente <strong>56 notícias</strong> e 0 indicações previstas.
+<strong>Potassium sulfate</strong> tem atualmente <strong>58 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,23 @@ Esta página combina as indicações previstas por IA para Potassium sulfate com
 <p><a href="{{ '/drugs/potassium-sulfate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (56)
+## Notícias relacionadas (58)
+
+### [Quais bebidas podem aumentar o risco de câncer de estômago? Um estudo alerta contra o consumo diário - O GLOBO](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOHQzd3g5MFp0WTFRRzhRdDhQU3hYbDV3MXUtaUJRX0ZQbFdJZFhzeG1McjJIMmtvd2dac1JVcUVHUDlwT1BfTUlaNFMzdmswODMwa1pFSXhpaE41RHpyZUZKNHRPM0V6QXRyVVlnT2NXR0hycWZEcmpzQ1BOc2RNMDFlZ2dTTGtYLTV4bnJ6S0lBc1d0WXg3cjdoV2tZZzVScTJHdWpMZDRQaTBqNGlFX1hCbFd2ZXF5aGh5VWYxNEYwY1YtclozWFlDSkZnR0xNRFZDc3hnOXpoRWV2azd0dHJuaGV5aVZxZG0w0gH6AUFVX3lxTE9TN2ZTakJJNWhLLURuU1EzWnNHY0tzeS1nOWlfdDlIalhKODBTcGFBalVrX3JFMlZZZHY0bXk0dkRlSHNWWm5ZTWJQWlVVaW1QRVlfZi1rR2pwQkNTQTNaanBlOXVxNTdxbVFlZGZFckd1S0ZOOEdoN1BCMlV3SnZuWmVrTzRPYUVnSjBjSzEyZFhzdnBwYXl6WFFzWTF6dGFRY3lmZ1dxMTVlZUFSWWVteVJPRVVfZkRfanM3Tnl3eU5kYm9VSkg4Yml4MGh2UkVwVWdLV0dDcU5tM3pzRkhnMk5PYWNHelo1dXhULWgxdTc2amtwQUVKR3c?oc=5)
+
+2026-11-14 <span class="news-indication-tag">câncer</span>
+
+Fonte: [O GLOBO](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOHQzd3g5MFp0WTFRRzhRdDhQU3hYbDV3MXUtaUJRX0ZQbFdJZFhzeG1McjJIMmtvd2dac1JVcUVHUDlwT1BfTUlaNFMzdmswODMwa1pFSXhpaE41RHpyZUZKNHRPM0V6QXRyVVlnT2NXR0hycWZEcmpzQ1BOc2RNMDFlZ2dTTGtYLTV4bnJ6S0lBc1d0WXg3cjdoV2tZZzVScTJHdWpMZDRQaTBqNGlFX1hCbFd2ZXF5aGh5VWYxNEYwY1YtclozWFlDSkZnR0xNRFZDc3hnOXpoRWV2azd0dHJuaGV5aVZxZG0w0gH6AUFVX3lxTE9TN2ZTakJJNWhLLURuU1EzWnNHY0tzeS1nOWlfdDlIalhKODBTcGFBalVrX3JFMlZZZHY0bXk0dkRlSHNWWm5ZTWJQWlVVaW1QRVlfZi1rR2pwQkNTQTNaanBlOXVxNTdxbVFlZGZFckd1S0ZOOEdoN1BCMlV3SnZuWmVrTzRPYUVnSjBjSzEyZFhzdnBwYXl6WFFzWTF6dGFRY3lmZ1dxMTVlZUFSWWVteVJPRVVfZkRfanM3Tnl3eU5kYm9VSkg4Yml4MGh2UkVwVWdLV0dDcU5tM3pzRkhnMk5PYWNHelo1dXhULWgxdTc2amtwQUVKR3c?oc=5)
+
+---
+
+### [Por que o coração nunca desenvolve câncer? Novo estudo explica - O GLOBO](https://news.google.com/rss/articles/CBMiuAFBVV95cUxORDRaa3JMclIzYnUwZEpSemJZcV90RktFbDNGM3Zwb2NwV3hqUTZQYWR3WXlQZDh2WW1SOTFVNTNQQlN6V3AtYWNkUmdWbGhfajRuSFlTUm43VmlCdnZoYUFrZmtnTkxwaEhVRHRKMldCSzRGZHJ1b2FHc2NxUlNXSHpWWlFnbS1vX3laVXF2SXQ2dS1mTThPSEI4S1pDYnNrNVlQZHFNTnROdlg4VE9GTHpGS0JLTVc00gHHAUFVX3lxTE02RG9QSXR5c1VodHhYY0p5N1lCQnZFWC1jQkdRdXFWWkN4SDBJMTdWZXJ0dGtLZ291dnVKQVFidi1DMDlJRFFvSkRLUDRWYzQzbnFTTE85SzAzNHIzbmN4d2l6dTJkZlFRcWhXX0h3d3dKekI4d0J0WGY1QVdhT1BlRUlkUl9DdnQ3SkFBY0NOTkgzdzZEYmRnWFdETUtkam91RXJpdEU5SDNhb0ZfbjJfb3R5QW9OY3V5SzRBT09VaXpoODY3Z1E?oc=5)
+
+2026-11-14 <span class="news-indication-tag">câncer</span>
+
+Fonte: [O GLOBO](https://news.google.com/rss/articles/CBMiuAFBVV95cUxORDRaa3JMclIzYnUwZEpSemJZcV90RktFbDNGM3Zwb2NwV3hqUTZQYWR3WXlQZDh2WW1SOTFVNTNQQlN6V3AtYWNkUmdWbGhfajRuSFlTUm43VmlCdnZoYUFrZmtnTkxwaEhVRHRKMldCSzRGZHJ1b2FHc2NxUlNXSHpWWlFnbS1vX3laVXF2SXQ2dS1mTThPSEI4S1pDYnNrNVlQZHFNTnROdlg4VE9GTHpGS0JLTVc00gHHAUFVX3lxTE02RG9QSXR5c1VodHhYY0p5N1lCQnZFWC1jQkdRdXFWWkN4SDBJMTdWZXJ0dGtLZ291dnVKQVFidi1DMDlJRFFvSkRLUDRWYzQzbnFTTE85SzAzNHIzbmN4d2l6dTJkZlFRcWhXX0h3d3dKekI4d0J0WGY1QVdhT1BlRUlkUl9DdnQ3SkFBY0NOTkgzdzZEYmRnWFdETUtkam91RXJpdEU5SDNhb0ZfbjJfb3R5QW9OY3V5SzRBT09VaXpoODY3Z1E?oc=5)
+
+---
 
 ### [Aos 23, ela descobriu gravidez e câncer ao mesmo tempo: 'Sinal de vida'](https://news.google.com/rss/articles/CBMizwFBVV95cUxPY2s5Qk96R1lMckVFVWxsWDFyNTdvVjVNczZQN3AtWHlBbDZoTDF5enBVeEJFQVdhbk5rRDFPWTZ0eU5pNVpkVTNUOGwzbDdUbDJsWl81SzV2THB6Y0VMczByZEFGbDZmNGppN0hoejc0ZkxpSS1oZnFueTJWQ1RkdllISzUySWVDN0lubTBYS2NIODdVREszYS1ITnVyU2tnR2lueld0RmlJakhMb0ROblFOcmJrdVo4VzM1b25FaUhCYVZ5dkcwQS0xekt4YlE?oc=5)
 

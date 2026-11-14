@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre herpes-zóster (herpes zoster)"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre herpes-zóster (herpes zoster). 4 notícias, 3 medicamentos relacionados."
+description: "Notícias de saúde sobre herpes-zóster (herpes zoster). 5 notícias, 3 medicamentos relacionados."
 permalink: /news/herpes-zoster/
 last_modified_at: 2026-11-14
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-14
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre herpes-zóster (herpes zoster)?">
-<strong>herpes-zóster (herpes zoster)</strong> tem atualmente <strong>4 notícias</strong> e 3 medicamentos relacionados.
+<strong>herpes-zóster (herpes zoster)</strong> tem atualmente <strong>5 notícias</strong> e 3 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,15 @@ Esta página reúne as notícias de saúde mais recentes sobre «herpes-zóster�
 </ul>
 </div>
 
-## Notícias relacionadas (4)
+## Notícias relacionadas (5)
+
+### [Comissão do Senado aprova vacina contra herpes-zóster no SUS; projeto vai à Câmara - ICL Notícias](https://news.google.com/rss/articles/CBMibEFVX3lxTE5yZHhGUG5BSl9fazRMMWl4cG9sazVfYTFvYWJwVnZBOVJNcWZjS1o5QWZ1VmplY1lOdUNheFFwcUxHeG4tVHZGN0RVVFVIcmw4RnlzSnh2TDd2cFVIaVJfNmdFbVIyUEJUWHR2Rg?oc=5)
+
+2026-11-13
+
+Fonte: [ICL Notícias](https://news.google.com/rss/articles/CBMibEFVX3lxTE5yZHhGUG5BSl9fazRMMWl4cG9sazVfYTFvYWJwVnZBOVJNcWZjS1o5QWZ1VmplY1lOdUNheFFwcUxHeG4tVHZGN0RVVFVIcmw4RnlzSnh2TDd2cFVIaVJfNmdFbVIyUEJUWHR2Rg?oc=5)
+
+---
 
 ### [Comissão do Senado aprova vacina contra herpes-zóster no SUS; projeto vai à Câmara - Folha de S.Paulo](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdms2X2lTakNNQUhkTDdHbkdfeEdRSHlKVzkyTGp5U2FsY2tUdDgyUlpQLXRLSXZZOXpWc0EtdTYyY1VXWkxqcGl0UElndDBTUkc5eVJGcXNGVTlvbEozemNRcnBwVG15SzZkV2ROQVBIUk9kbW5tVEY3dEJxOGd2UDR0ZkRDZWZqRVJHT3k1R1h6Z0xCV3VnbC1Xekp4bVVtbkE0U2t2SWdrYXdlTk9LS2Jlc1BDZVNPRThOaWpJbVVxUHRZSDZsZ1RIMTZleTJYNTJ4OTQxZUwxZw?oc=5)
 
