@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Tolnaftate. 0 indicações previstas."
 permalink: /news/tolnaftate/
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-14
 ---
 
 # Notícias sobre Tolnaftate
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Tolnaftate?">
-<strong>Tolnaftate</strong> tem atualmente <strong>3 notícias</strong> e 0 indicações previstas.
+<strong>Tolnaftate</strong> tem atualmente <strong>4 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,21 @@ Esta página combina as indicações previstas por IA para Tolnaftate com as not
 <p><a href="{{ '/drugs/tolnaftate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (3)
+## Notícias relacionadas (4)
 
 ### [Comissão do Senado aprova vacina contra herpes-zóster no SUS; projeto vai à Câmara - Folha de S.Paulo](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdms2X2lTakNNQUhkTDdHbkdfeEdRSHlKVzkyTGp5U2FsY2tUdDgyUlpQLXRLSXZZOXpWc0EtdTYyY1VXWkxqcGl0UElndDBTUkc5eVJGcXNGVTlvbEozemNRcnBwVG15SzZkV2ROQVBIUk9kbW5tVEY3dEJxOGd2UDR0ZkRDZWZqRVJHT3k1R1h6Z0xCV3VnbC1Xekp4bVVtbkE0U2t2SWdrYXdlTk9LS2Jlc1BDZVNPRThOaWpJbVVxUHRZSDZsZ1RIMTZleTJYNTJ4OTQxZUwxZw?oc=5)
 
 2026-11-13 <span class="news-indication-tag">herpes-zóster</span>
 
 Fonte: [Folha de S.Paulo](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdms2X2lTakNNQUhkTDdHbkdfeEdRSHlKVzkyTGp5U2FsY2tUdDgyUlpQLXRLSXZZOXpWc0EtdTYyY1VXWkxqcGl0UElndDBTUkc5eVJGcXNGVTlvbEozemNRcnBwVG15SzZkV2ROQVBIUk9kbW5tVEY3dEJxOGd2UDR0ZkRDZWZqRVJHT3k1R1h6Z0xCV3VnbC1Xekp4bVVtbkE0U2t2SWdrYXdlTk9LS2Jlc1BDZVNPRThOaWpJbVVxUHRZSDZsZ1RIMTZleTJYNTJ4OTQxZUwxZw?oc=5)
+
+---
+
+### [Senado aprova inclusão de vacina contra herpes-zóster no SUS; projeto segue para a Câmara](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVVlremN5SWpPNWhGSGIzQTJTdDZvMEdtaWpPVnBpUjc2cG9Na3MtYlhSQmFrQXdydE9Fdk1wZnFjNXZxTGQ3c21NTlBPak9tenJkck10VVo2THQ3MFV5cmljVndBb0F5YWVCVXNvMEJwQngtRC1NSy1JXy1kcmdGSEN3U1RyZUxFaGlSWVBfU21iRzllYlVIUHRnWTkya2JDU1NfWXNTRmZYMlFoejRacXJrZVYyRkUwcllVb2gzY3RSWHR5LVlsXy1oNW9iZUlLUzdsRDZNa9IB5gFBVV95cUxQUE5sSThRQjlXdVMyZndmalFVZkNRT0oyWFFlanRBekZ2Xy0zZHBoY25QU0tRSzFZWEt2cTVEU2JWcEx5eHVmTG5qYTBlN2d2amVwa20xY0JXNkVDMHZZUlRFU2pVbmxkQllDU2pGelk0d3VQZlhXbkgzdV9CeHJJSlV3RjZmTEFZZUZmbG5IdGZhN3RQNllqMzJka0gzYnl3X3pDR3k3cEtwSTM3OVlJRGdaSEFMczZ3TVpZXzVubUw0UmxzWmZndm5NMVAtT0JsU2RaOFlvWFRMOEZkZGNhS3JHaVhYZw?oc=5)
+
+2026-11-12 <span class="news-indication-tag">herpes-zóster</span>
+
+Fonte: [G1](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVVlremN5SWpPNWhGSGIzQTJTdDZvMEdtaWpPVnBpUjc2cG9Na3MtYlhSQmFrQXdydE9Fdk1wZnFjNXZxTGQ3c21NTlBPak9tenJkck10VVo2THQ3MFV5cmljVndBb0F5YWVCVXNvMEJwQngtRC1NSy1JXy1kcmdGSEN3U1RyZUxFaGlSWVBfU21iRzllYlVIUHRnWTkya2JDU1NfWXNTRmZYMlFoejRacXJrZVYyRkUwcllVb2gzY3RSWHR5LVlsXy1oNW9iZUlLUzdsRDZNa9IB5gFBVV95cUxQUE5sSThRQjlXdVMyZndmalFVZkNRT0oyWFFlanRBekZ2Xy0zZHBoY25QU0tRSzFZWEt2cTVEU2JWcEx5eHVmTG5qYTBlN2d2amVwa20xY0JXNkVDMHZZUlRFU2pVbmxkQllDU2pGelk0d3VQZlhXbkgzdV9CeHJJSlV3RjZmTEFZZUZmbG5IdGZhN3RQNllqMzJka0gzYnl3X3pDR3k3cEtwSTM3OVlJRGdaSEFMczZ3TVpZXzVubUw0UmxzWmZndm5NMVAtT0JsU2RaOFlvWFRMOEZkZGNhS3JHaVhYZw?oc=5)
 
 ---
 

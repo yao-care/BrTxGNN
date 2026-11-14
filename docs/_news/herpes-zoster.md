@@ -3,9 +3,9 @@ layout: default
 title: "Notícias sobre herpes-zóster (herpes zoster)"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre herpes-zóster (herpes zoster). 3 notícias, 3 medicamentos relacionados."
+description: "Notícias de saúde sobre herpes-zóster (herpes zoster). 4 notícias, 3 medicamentos relacionados."
 permalink: /news/herpes-zoster/
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-14
 ---
 
 # Notícias sobre herpes-zóster (herpes zoster)
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre herpes-zóster (herpes zoster)?">
-<strong>herpes-zóster (herpes zoster)</strong> tem atualmente <strong>3 notícias</strong> e 3 medicamentos relacionados.
+<strong>herpes-zóster (herpes zoster)</strong> tem atualmente <strong>4 notícias</strong> e 3 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
@@ -32,13 +32,21 @@ Esta página reúne as notícias de saúde mais recentes sobre «herpes-zóster�
 </ul>
 </div>
 
-## Notícias relacionadas (3)
+## Notícias relacionadas (4)
 
 ### [Comissão do Senado aprova vacina contra herpes-zóster no SUS; projeto vai à Câmara - Folha de S.Paulo](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdms2X2lTakNNQUhkTDdHbkdfeEdRSHlKVzkyTGp5U2FsY2tUdDgyUlpQLXRLSXZZOXpWc0EtdTYyY1VXWkxqcGl0UElndDBTUkc5eVJGcXNGVTlvbEozemNRcnBwVG15SzZkV2ROQVBIUk9kbW5tVEY3dEJxOGd2UDR0ZkRDZWZqRVJHT3k1R1h6Z0xCV3VnbC1Xekp4bVVtbkE0U2t2SWdrYXdlTk9LS2Jlc1BDZVNPRThOaWpJbVVxUHRZSDZsZ1RIMTZleTJYNTJ4OTQxZUwxZw?oc=5)
 
 2026-11-13
 
 Fonte: [Folha de S.Paulo](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdms2X2lTakNNQUhkTDdHbkdfeEdRSHlKVzkyTGp5U2FsY2tUdDgyUlpQLXRLSXZZOXpWc0EtdTYyY1VXWkxqcGl0UElndDBTUkc5eVJGcXNGVTlvbEozemNRcnBwVG15SzZkV2ROQVBIUk9kbW5tVEY3dEJxOGd2UDR0ZkRDZWZqRVJHT3k1R1h6Z0xCV3VnbC1Xekp4bVVtbkE0U2t2SWdrYXdlTk9LS2Jlc1BDZVNPRThOaWpJbVVxUHRZSDZsZ1RIMTZleTJYNTJ4OTQxZUwxZw?oc=5)
+
+---
+
+### [Senado aprova inclusão de vacina contra herpes-zóster no SUS; projeto segue para a Câmara](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVVlremN5SWpPNWhGSGIzQTJTdDZvMEdtaWpPVnBpUjc2cG9Na3MtYlhSQmFrQXdydE9Fdk1wZnFjNXZxTGQ3c21NTlBPak9tenJkck10VVo2THQ3MFV5cmljVndBb0F5YWVCVXNvMEJwQngtRC1NSy1JXy1kcmdGSEN3U1RyZUxFaGlSWVBfU21iRzllYlVIUHRnWTkya2JDU1NfWXNTRmZYMlFoejRacXJrZVYyRkUwcllVb2gzY3RSWHR5LVlsXy1oNW9iZUlLUzdsRDZNa9IB5gFBVV95cUxQUE5sSThRQjlXdVMyZndmalFVZkNRT0oyWFFlanRBekZ2Xy0zZHBoY25QU0tRSzFZWEt2cTVEU2JWcEx5eHVmTG5qYTBlN2d2amVwa20xY0JXNkVDMHZZUlRFU2pVbmxkQllDU2pGelk0d3VQZlhXbkgzdV9CeHJJSlV3RjZmTEFZZUZmbG5IdGZhN3RQNllqMzJka0gzYnl3X3pDR3k3cEtwSTM3OVlJRGdaSEFMczZ3TVpZXzVubUw0UmxzWmZndm5NMVAtT0JsU2RaOFlvWFRMOEZkZGNhS3JHaVhYZw?oc=5)
+
+2026-11-12
+
+Fonte: [G1](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVVlremN5SWpPNWhGSGIzQTJTdDZvMEdtaWpPVnBpUjc2cG9Na3MtYlhSQmFrQXdydE9Fdk1wZnFjNXZxTGQ3c21NTlBPak9tenJkck10VVo2THQ3MFV5cmljVndBb0F5YWVCVXNvMEJwQngtRC1NSy1JXy1kcmdGSEN3U1RyZUxFaGlSWVBfU21iRzllYlVIUHRnWTkya2JDU1NfWXNTRmZYMlFoejRacXJrZVYyRkUwcllVb2gzY3RSWHR5LVlsXy1oNW9iZUlLUzdsRDZNa9IB5gFBVV95cUxQUE5sSThRQjlXdVMyZndmalFVZkNRT0oyWFFlanRBekZ2Xy0zZHBoY25QU0tRSzFZWEt2cTVEU2JWcEx5eHVmTG5qYTBlN2d2amVwa20xY0JXNkVDMHZZUlRFU2pVbmxkQllDU2pGelk0d3VQZlhXbkgzdV9CeHJJSlV3RjZmTEFZZUZmbG5IdGZhN3RQNllqMzJka0gzYnl3X3pDR3k3cEtwSTM3OVlJRGdaSEFMczZ3TVpZXzVubUw0UmxzWmZndm5NMVAtT0JsU2RaOFlvWFRMOEZkZGNhS3JHaVhYZw?oc=5)
 
 ---
 

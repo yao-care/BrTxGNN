@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com ATENOLOL. 5 indicações previstas."
 permalink: /news/atenolol/
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-14
 ---
 
 # Notícias sobre ATENOLOL
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre ATENOLOL?">
-<strong>ATENOLOL</strong> tem atualmente <strong>54 notícias</strong> e 5 indicações previstas.
+<strong>ATENOLOL</strong> tem atualmente <strong>56 notícias</strong> e 5 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -37,13 +37,29 @@ Esta página combina as indicações previstas por IA para ATENOLOL com as notí
 <p><a href="{{ '/drugs/atenolol/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (54)
+## Notícias relacionadas (56)
+
+### [Aos 23, ela descobriu gravidez e câncer ao mesmo tempo: 'Sinal de vida'](https://news.google.com/rss/articles/CBMizwFBVV95cUxPY2s5Qk96R1lMckVFVWxsWDFyNTdvVjVNczZQN3AtWHlBbDZoTDF5enBVeEJFQVdhbk5rRDFPWTZ0eU5pNVpkVTNUOGwzbDdUbDJsWl81SzV2THB6Y0VMczByZEFGbDZmNGppN0hoejc0ZkxpSS1oZnFueTJWQ1RkdllISzUySWVDN0lubTBYS2NIODdVREszYS1ITnVyU2tnR2lueld0RmlJakhMb0ROblFOcmJrdVo4VzM1b25FaUhCYVZ5dkcwQS0xekt4YlE?oc=5)
+
+2026-11-14 <span class="news-indication-tag">câncer</span>
+
+Fonte: [UOL](https://news.google.com/rss/articles/CBMizwFBVV95cUxPY2s5Qk96R1lMckVFVWxsWDFyNTdvVjVNczZQN3AtWHlBbDZoTDF5enBVeEJFQVdhbk5rRDFPWTZ0eU5pNVpkVTNUOGwzbDdUbDJsWl81SzV2THB6Y0VMczByZEFGbDZmNGppN0hoejc0ZkxpSS1oZnFueTJWQ1RkdllISzUySWVDN0lubTBYS2NIODdVREszYS1ITnVyU2tnR2lueld0RmlJakhMb0ROblFOcmJrdVo4VzM1b25FaUhCYVZ5dkcwQS0xekt4YlE?oc=5)
+
+---
 
 ### [Quais bebidas podem aumentar o risco de câncer de estômago? Estudo alerta contra o consumo diário - O GLOBO](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQS3NMUUlra25jckEtaGozem9XS3doVEdGTjJveG1wenhFQ25yR0hiZ3pjS1ZUbmRpQ1JHWHdCbF9nYnM1b2tXbmF3WDczcm5WVnh5Nk9ISTBFM19faGpmVEJTc2NKdm5YRENyYWhzWFJFN05tNVgxSDVCNy1neFNKOEZJOGdkc2plcEdkZWZqMXV2NHhpNU1QNjUyZnp2ZWU4NFZTOF95WkszQU92cG8xRVJKQ3MwU0FWSnh6eFhFblowUE9KSmJZcF9hVGd3VHdRSDluS0I1T2lFSmZKaE5EVFFXU2RfRE3SAfYBQVVfeXFMT2xxekxZVGVhRnlUbDYyOWd0MmdEbTdIYWN6TlhjdXRXbGlXbV9sLU0wb21GOTY3d01yaTMxUi1QaG9wc1lTWnBGY05vejRMQU13QXNOTEstNlhhX0Q1THJqczZhVEhYOWdJZjF0a0pIR1RHS191M1ZsWER5Y3A2am9oOFJKRl9sc1M0a2Vhb3dOYVgxRW80c0VqdFlGRTlfTjVTSm9aajA2QU52dFJCdmdia2U2T0JfVThNZ3NseW0yYjM1UFRJbWlCekJNc1RxZmQzZ00xV0dHZkhyVHBxV3J6clQ0dlhnQlJYWXFzVE9pUFktcndR?oc=5)
 
 2026-11-13 <span class="news-indication-tag">câncer</span>
 
 Fonte: [O GLOBO](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQS3NMUUlra25jckEtaGozem9XS3doVEdGTjJveG1wenhFQ25yR0hiZ3pjS1ZUbmRpQ1JHWHdCbF9nYnM1b2tXbmF3WDczcm5WVnh5Nk9ISTBFM19faGpmVEJTc2NKdm5YRENyYWhzWFJFN05tNVgxSDVCNy1neFNKOEZJOGdkc2plcEdkZWZqMXV2NHhpNU1QNjUyZnp2ZWU4NFZTOF95WkszQU92cG8xRVJKQ3MwU0FWSnh6eFhFblowUE9KSmJZcF9hVGd3VHdRSDluS0I1T2lFSmZKaE5EVFFXU2RfRE3SAfYBQVVfeXFMT2xxekxZVGVhRnlUbDYyOWd0MmdEbTdIYWN6TlhjdXRXbGlXbV9sLU0wb21GOTY3d01yaTMxUi1QaG9wc1lTWnBGY05vejRMQU13QXNOTEstNlhhX0Q1THJqczZhVEhYOWdJZjF0a0pIR1RHS191M1ZsWER5Y3A2am9oOFJKRl9sc1M0a2Vhb3dOYVgxRW80c0VqdFlGRTlfTjVTSm9aajA2QU52dFJCdmdia2U2T0JfVThNZ3NseW0yYjM1UFRJbWlCekJNc1RxZmQzZ00xV0dHZkhyVHBxV3J6clQ0dlhnQlJYWXFzVE9pUFktcndR?oc=5)
+
+---
+
+### [Jovem vence câncer de testículo e volta a animar crianças - Campo Grande News](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVEJmQlY3YU1nT01pWU5pY1MtSk1SWXBKX0c4dlA2OVpYM1AwZ0M2d1lDbUxtSEFqZ3lFMXJEYUpVVlBjaUxrRXpoX1ppazJWY25zVVlub0FJWE1HaUFJaFNYOXBBYktqNFhPN3IxdFlCMUtJMWlZRnRMZDkxNjdkVkM2cG5OZ0tzY25aTnVvX3Jqc1g3VW1fS0xsZUVMbGJGZ0N4UHBSZXZBcU84eE1LU3N5TWNJaUFIMmhDRlNHSWVrUUlLMFk3OGxObGpRbWR2QmfSAdIBQVVfeXFMTmJLMFVpRlFvRjJfZTZCMmtsWHZJR1IxLVRCQkZJRlFFVERLM25jcWZsUXpLVzY0eEN0M2FYdnkzTUhXRTlSSk1NYk85anhrTGJTb3E5OWpucjZXcXdRbHE3V1pwcml5bUJrcWVCbVBsS2ZmLTdZS0ZNVlZucmV6UmFBcFdnU2FhTTY3M3pFc2w0ejhySTJoQnhTanhwOWRpR09ZUVFiOFpkTUxEWk5SYnE4Zm5EVTA2cVpwY3JveTZaaG9wVGRqLVEwT3hJeEVIMVFn?oc=5)
+
+2026-11-13 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Campo Grande News](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVEJmQlY3YU1nT01pWU5pY1MtSk1SWXBKX0c4dlA2OVpYM1AwZ0M2d1lDbUxtSEFqZ3lFMXJEYUpVVlBjaUxrRXpoX1ppazJWY25zVVlub0FJWE1HaUFJaFNYOXBBYktqNFhPN3IxdFlCMUtJMWlZRnRMZDkxNjdkVkM2cG5OZ0tzY25aTnVvX3Jqc1g3VW1fS0xsZUVMbGJGZ0N4UHBSZXZBcU84eE1LU3N5TWNJaUFIMmhDRlNHSWVrUUlLMFk3OGxObGpRbWR2QmfSAdIBQVVfeXFMTmJLMFVpRlFvRjJfZTZCMmtsWHZJR1IxLVRCQkZJRlFFVERLM25jcWZsUXpLVzY0eEN0M2FYdnkzTUhXRTlSSk1NYk85anhrTGJTb3E5OWpucjZXcXdRbHE3V1pwcml5bUJrcWVCbVBsS2ZmLTdZS0ZNVlZucmV6UmFBcFdnU2FhTTY3M3pFc2w0ejhySTJoQnhTanhwOWRpR09ZUVFiOFpkTUxEWk5SYnE4Zm5EVTA2cVpwY3JveTZaaG9wVGRqLVEwT3hJeEVIMVFn?oc=5)
 
 ---
 
