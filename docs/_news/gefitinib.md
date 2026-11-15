@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Gefitinib?">
-<strong>Gefitinib</strong> tem atualmente <strong>67 notícias</strong> e 9 indicações previstas.
+<strong>Gefitinib</strong> tem atualmente <strong>69 notícias</strong> e 9 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,29 @@ Esta página combina as indicações previstas por IA para Gefitinib com as not�
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (67)
+## Notícias relacionadas (69)
 
 ### ['Descobriram um tratamento para a demência do meu filho de 5 anos, mas ele custa mais de R$ 20 milhões'](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcno0T1JUeHA1UDQtSUZST21RSU5Qem9za0o2c1MtNGJwbDVVYVNsZTRhMjZPUHIyUjdocndHcGk1MUFERkNJVDVZTTljS3hBallzaVNSaDBGQzZzT0hYVmdIUDBTVlNpMno4a2NyaVZBTUNmb3JKcGJYWmx1d2NtaF9UM1poLV9iaEZ0RzR6bTRTSmUxdnFRSkNueU1ZeDVZS0ZYNExobHZCWjBTTUJBX2lUM3hwc0JNMW5kYUdLYjEwYUN0M0I3TkRZQTloVFkwS094VUp0eWRWZWxVTDk4akIzY0UzZ9IB9AFBVV95cUxPbGdMZzJYWTh6MUJVV0Z5b21fZHdRNFNwZU5MV3lCSGxaNzRqNVA2dk1meTk2bXBBQ1dUeEdSNmdZbm4ySFYtQm9MVkpkb1RwWFBaeGFzMC1BczhkTk9Ncnl2V3JaakdQVkEtSXJGSlhYZWJLZ1VoWnFwc0gzZ2FWcDViYjk0YjdNWWZkNzRyeFJFLUswd3MtWjhFOUEtSl9lLU5OaGtwQU1DU2Fic010bTZQam53emJndmtpS201bndNZ2JuLWFlbEI2Vkgzc0NiZExmam9VczlQOUtCV2VaVGRXcWV5S01tSVNhWVlPQ2M4UGc5?oc=5)
 
 2026-11-15 <span class="news-indication-tag">demência</span>
 
 Fonte: [G1](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcno0T1JUeHA1UDQtSUZST21RSU5Qem9za0o2c1MtNGJwbDVVYVNsZTRhMjZPUHIyUjdocndHcGk1MUFERkNJVDVZTTljS3hBallzaVNSaDBGQzZzT0hYVmdIUDBTVlNpMno4a2NyaVZBTUNmb3JKcGJYWmx1d2NtaF9UM1poLV9iaEZ0RzR6bTRTSmUxdnFRSkNueU1ZeDVZS0ZYNExobHZCWjBTTUJBX2lUM3hwc0JNMW5kYUdLYjEwYUN0M0I3TkRZQTloVFkwS094VUp0eWRWZWxVTDk4akIzY0UzZ9IB9AFBVV95cUxPbGdMZzJYWTh6MUJVV0Z5b21fZHdRNFNwZU5MV3lCSGxaNzRqNVA2dk1meTk2bXBBQ1dUeEdSNmdZbm4ySFYtQm9MVkpkb1RwWFBaeGFzMC1BczhkTk9Ncnl2V3JaakdQVkEtSXJGSlhYZWJLZ1VoWnFwc0gzZ2FWcDViYjk0YjdNWWZkNzRyeFJFLUswd3MtWjhFOUEtSl9lLU5OaGtwQU1DU2Fic010bTZQam53emJndmtpS201bndNZ2JuLWFlbEI2Vkgzc0NiZExmam9VczlQOUtCV2VaVGRXcWV5S01tSVNhWVlPQ2M4UGc5?oc=5)
+
+---
+
+### [Metástase desaparece no primeiro paciente tratado com nova vacina russa contra o câncer - Brasil 247](https://news.google.com/rss/articles/CBMivAFBVV95cUxNU2ljTWtZUmZCNXpXcGkyV3VaTUlJcTV0S1pUbTAyTy01YXFKVGdUd1V6ZGlkTWVNWU5TSm9hMEh3d0lNYzdmUHJRd29iMEN0c0hmbG53NGNFd251SEkzbkdiX0lobkE1b0w2U2lSMTYwQWNTMkNPanFIN2Fvbko5aUpDbTFaeUZ2SUlQRmFYanhYbjVGZVBabUxQTTFQMlVpTGl4bThWd19mb2dhMC1pUkprYmRxSTdEdXdobw?oc=5)
+
+2026-11-15 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Brasil 247](https://news.google.com/rss/articles/CBMivAFBVV95cUxNU2ljTWtZUmZCNXpXcGkyV3VaTUlJcTV0S1pUbTAyTy01YXFKVGdUd1V6ZGlkTWVNWU5TSm9hMEh3d0lNYzdmUHJRd29iMEN0c0hmbG53NGNFd251SEkzbkdiX0lobkE1b0w2U2lSMTYwQWNTMkNPanFIN2Fvbko5aUpDbTFaeUZ2SUlQRmFYanhYbjVGZVBabUxQTTFQMlVpTGl4bThWd19mb2dhMC1pUkprYmRxSTdEdXdobw?oc=5)
+
+---
+
+### [“Perdi o chão”, diz mãe de menino que descobriu câncer após dores na perna](https://news.google.com/rss/articles/CBMipwFBVV95cUxNN0ozVHdZU3FsWlZnRlViUnBmN2UyQ0M4UGxXVTRLcE1GQXdSbkRQcmFPY2NDTDYxZ0NrcnhfVkp6ZWhIcXpQNXFzV3dzb3JidDhnMlRwX3N1SzBxX0N2UkwtRVlSOWtpZ1Z1QlZxc2JhTEdzVkJjbFZsakphdlJyNGE0cWpBZHZodXFJRHUxYW1WN3A4Zm1hYm5PdURiSlBTTHBIZ0VyRQ?oc=5)
+
+2026-11-15 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Metrópoles](https://news.google.com/rss/articles/CBMipwFBVV95cUxNN0ozVHdZU3FsWlZnRlViUnBmN2UyQ0M4UGxXVTRLcE1GQXdSbkRQcmFPY2NDTDYxZ0NrcnhfVkp6ZWhIcXpQNXFzV3dzb3JidDhnMlRwX3N1SzBxX0N2UkwtRVlSOWtpZ1Z1QlZxc2JhTEdzVkJjbFZsakphdlJyNGE0cWpBZHZodXFJRHUxYW1WN3A4Zm1hYm5PdURiSlBTTHBIZ0VyRQ?oc=5)
 
 ---
 
