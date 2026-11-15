@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Phenylbutazone. 3 indicações previstas."
 permalink: /news/phenylbutazone/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 ---
 
 # Notícias sobre Phenylbutazone
@@ -39,7 +39,7 @@ Esta página combina as indicações previstas por IA para Phenylbutazone com as
 
 ### [Retatrutida reduz dores no joelho em pelo menos 50%, mostra estudo - CNN Brasil](https://news.google.com/rss/articles/CBMiogFBVV95cUxQRnN5YW5PNm9NNGVaZzhsMG1MWTZiTkhRb2EyOFZXTVhfYTc3V1FtLTF0ZXRHcEVSRzAxc01tTU1oM2ZIWjgyQjZDZERyUS0wdnhrQjZWNTNodXlfSDlmOGdVZVZzS0tsYk5velhMZEpqYzNyV25RZVZpWjhyZmZPYjRUZllkT0xNMFVFOURlV256dktNWFhRQkFBaXNoQWN5X0E?oc=5)
 
-2026-11-11 <span class="news-indication-tag">artrose</span> <span class="news-indication-tag">osteoartrite</span>
+2026-11-11 <span class="news-indication-tag">artrose</span>
 
 Fonte: [CNN Brasil](https://news.google.com/rss/articles/CBMiogFBVV95cUxQRnN5YW5PNm9NNGVaZzhsMG1MWTZiTkhRb2EyOFZXTVhfYTc3V1FtLTF0ZXRHcEVSRzAxc01tTU1oM2ZIWjgyQjZDZERyUS0wdnhrQjZWNTNodXlfSDlmOGdVZVZzS0tsYk5velhMZEpqYzNyV25RZVZpWjhyZmZPYjRUZllkT0xNMFVFOURlV256dktNWFhRQkFBaXNoQWN5X0E?oc=5)
 
