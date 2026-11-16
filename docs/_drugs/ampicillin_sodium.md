@@ -1,55 +1,16 @@
 ---
-noindex: true
+layout: id_redirect
+permalink: /drugs/ampicillin-sodium/
 sitemap: false
-layout: default
-title: Ampicillin Sodium
-parent: Apenas usos conhecidos (sem novas previsões)
-nav_order: 67
-last_modified_at: 2026-10-29
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+search_exclude: true
+nav_exclude: true
 ---
-
-# Ampicillin Sodium
-{: .fs-9 }
-
-Nível de evidência: **N/A** | Indicações previstas: **0** 
-{: .fs-6 .fw-300 }
-
----
-
-## Índice
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
-<div id="pharmacist" markdown="1">
-
-## Relatório de avaliação farmacêutica
-
-</div>
-
-## Ampicillin Sodium
-{: .text-alpha }
-
-## Visão Geral Rápida
-
-| Item | Conteúdo |
-|------|------|
-| Indicação Original | PENICILINA DE AMPLO ESPECTRO; ANTINFECCIOSOS; ANTIBIOTICOS SISTEMICOS SIMPLES; ANTIBIOTICOS SISTEMICOS-ASSOCIACOES MEDICAMENTOSAS |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 16 de 20) |
-| Número de Registros | 20 (ativos: 16) |
-
----
-
-## Aviso de isenção de responsabilidade
-
-Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
-É necessária validação clínica antes de qualquer aplicação clínica.
-
----
-
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<title>Redirecting&hellip;</title>
+<link rel="canonical" href="{{ site.url }}/drugs/ampicillin/">
+<meta http-equiv="refresh" content="0; url=/drugs/ampicillin/">
+<script>location="/drugs/ampicillin/"</script>
+<a href="/drugs/ampicillin/">/drugs/ampicillin/</a>
+</html>

@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Albendazole. 1 indicações previstas."
 permalink: /news/albendazole/
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-15
 ---
 
 # Notícias sobre Albendazole
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-14
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Albendazole?">
-<strong>Albendazole</strong> tem atualmente <strong>65 notícias</strong> e 1 indicações previstas.
+<strong>Albendazole</strong> tem atualmente <strong>69 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,31 @@ Esta página combina as indicações previstas por IA para Albendazole com as no
 <p><a href="{{ '/drugs/albendazole/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (65)
+## Notícias relacionadas (69)
+
+### ['Descobriram um tratamento para a demência do meu filho de 5 anos, mas ele custa mais de R$ 20 milhões'](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcno0T1JUeHA1UDQtSUZST21RSU5Qem9za0o2c1MtNGJwbDVVYVNsZTRhMjZPUHIyUjdocndHcGk1MUFERkNJVDVZTTljS3hBallzaVNSaDBGQzZzT0hYVmdIUDBTVlNpMno4a2NyaVZBTUNmb3JKcGJYWmx1d2NtaF9UM1poLV9iaEZ0RzR6bTRTSmUxdnFRSkNueU1ZeDVZS0ZYNExobHZCWjBTTUJBX2lUM3hwc0JNMW5kYUdLYjEwYUN0M0I3TkRZQTloVFkwS094VUp0eWRWZWxVTDk4akIzY0UzZ9IB9AFBVV95cUxPbGdMZzJYWTh6MUJVV0Z5b21fZHdRNFNwZU5MV3lCSGxaNzRqNVA2dk1meTk2bXBBQ1dUeEdSNmdZbm4ySFYtQm9MVkpkb1RwWFBaeGFzMC1BczhkTk9Ncnl2V3JaakdQVkEtSXJGSlhYZWJLZ1VoWnFwc0gzZ2FWcDViYjk0YjdNWWZkNzRyeFJFLUswd3MtWjhFOUEtSl9lLU5OaGtwQU1DU2Fic010bTZQam53emJndmtpS201bndNZ2JuLWFlbEI2Vkgzc0NiZExmam9VczlQOUtCV2VaVGRXcWV5S01tSVNhWVlPQ2M4UGc5?oc=5)
+
+2026-11-15 <span class="news-indication-tag">demência</span>
+
+Fonte: [G1](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcno0T1JUeHA1UDQtSUZST21RSU5Qem9za0o2c1MtNGJwbDVVYVNsZTRhMjZPUHIyUjdocndHcGk1MUFERkNJVDVZTTljS3hBallzaVNSaDBGQzZzT0hYVmdIUDBTVlNpMno4a2NyaVZBTUNmb3JKcGJYWmx1d2NtaF9UM1poLV9iaEZ0RzR6bTRTSmUxdnFRSkNueU1ZeDVZS0ZYNExobHZCWjBTTUJBX2lUM3hwc0JNMW5kYUdLYjEwYUN0M0I3TkRZQTloVFkwS094VUp0eWRWZWxVTDk4akIzY0UzZ9IB9AFBVV95cUxPbGdMZzJYWTh6MUJVV0Z5b21fZHdRNFNwZU5MV3lCSGxaNzRqNVA2dk1meTk2bXBBQ1dUeEdSNmdZbm4ySFYtQm9MVkpkb1RwWFBaeGFzMC1BczhkTk9Ncnl2V3JaakdQVkEtSXJGSlhYZWJLZ1VoWnFwc0gzZ2FWcDViYjk0YjdNWWZkNzRyeFJFLUswd3MtWjhFOUEtSl9lLU5OaGtwQU1DU2Fic010bTZQam53emJndmtpS201bndNZ2JuLWFlbEI2Vkgzc0NiZExmam9VczlQOUtCV2VaVGRXcWV5S01tSVNhWVlPQ2M4UGc5?oc=5)
+
+---
+
+### [Metástase desaparece no primeiro paciente tratado com nova vacina russa contra o câncer - Brasil 247](https://news.google.com/rss/articles/CBMivAFBVV95cUxNU2ljTWtZUmZCNXpXcGkyV3VaTUlJcTV0S1pUbTAyTy01YXFKVGdUd1V6ZGlkTWVNWU5TSm9hMEh3d0lNYzdmUHJRd29iMEN0c0hmbG53NGNFd251SEkzbkdiX0lobkE1b0w2U2lSMTYwQWNTMkNPanFIN2Fvbko5aUpDbTFaeUZ2SUlQRmFYanhYbjVGZVBabUxQTTFQMlVpTGl4bThWd19mb2dhMC1pUkprYmRxSTdEdXdobw?oc=5)
+
+2026-11-15 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Brasil 247](https://news.google.com/rss/articles/CBMivAFBVV95cUxNU2ljTWtZUmZCNXpXcGkyV3VaTUlJcTV0S1pUbTAyTy01YXFKVGdUd1V6ZGlkTWVNWU5TSm9hMEh3d0lNYzdmUHJRd29iMEN0c0hmbG53NGNFd251SEkzbkdiX0lobkE1b0w2U2lSMTYwQWNTMkNPanFIN2Fvbko5aUpDbTFaeUZ2SUlQRmFYanhYbjVGZVBabUxQTTFQMlVpTGl4bThWd19mb2dhMC1pUkprYmRxSTdEdXdobw?oc=5)
+
+---
+
+### [“Perdi o chão”, diz mãe de menino que descobriu câncer após dores na perna](https://news.google.com/rss/articles/CBMipwFBVV95cUxNN0ozVHdZU3FsWlZnRlViUnBmN2UyQ0M4UGxXVTRLcE1GQXdSbkRQcmFPY2NDTDYxZ0NrcnhfVkp6ZWhIcXpQNXFzV3dzb3JidDhnMlRwX3N1SzBxX0N2UkwtRVlSOWtpZ1Z1QlZxc2JhTEdzVkJjbFZsakphdlJyNGE0cWpBZHZodXFJRHUxYW1WN3A4Zm1hYm5PdURiSlBTTHBIZ0VyRQ?oc=5)
+
+2026-11-15 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Metrópoles](https://news.google.com/rss/articles/CBMipwFBVV95cUxNN0ozVHdZU3FsWlZnRlViUnBmN2UyQ0M4UGxXVTRLcE1GQXdSbkRQcmFPY2NDTDYxZ0NrcnhfVkp6ZWhIcXpQNXFzV3dzb3JidDhnMlRwX3N1SzBxX0N2UkwtRVlSOWtpZ1Z1QlZxc2JhTEdzVkJjbFZsakphdlJyNGE0cWpBZHZodXFJRHUxYW1WN3A4Zm1hYm5PdURiSlBTTHBIZ0VyRQ?oc=5)
+
+---
 
 ### [Quais bebidas podem aumentar o risco de câncer de estômago? Um estudo alerta contra o consumo diário - O GLOBO](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOHQzd3g5MFp0WTFRRzhRdDhQU3hYbDV3MXUtaUJRX0ZQbFdJZFhzeG1McjJIMmtvd2dac1JVcUVHUDlwT1BfTUlaNFMzdmswODMwa1pFSXhpaE41RHpyZUZKNHRPM0V6QXRyVVlnT2NXR0hycWZEcmpzQ1BOc2RNMDFlZ2dTTGtYLTV4bnJ6S0lBc1d0WXg3cjdoV2tZZzVScTJHdWpMZDRQaTBqNGlFX1hCbFd2ZXF5aGh5VWYxNEYwY1YtclozWFlDSkZnR0xNRFZDc3hnOXpoRWV2azd0dHJuaGV5aVZxZG0w0gH6AUFVX3lxTE9TN2ZTakJJNWhLLURuU1EzWnNHY0tzeS1nOWlfdDlIalhKODBTcGFBalVrX3JFMlZZZHY0bXk0dkRlSHNWWm5ZTWJQWlVVaW1QRVlfZi1rR2pwQkNTQTNaanBlOXVxNTdxbVFlZGZFckd1S0ZOOEdoN1BCMlV3SnZuWmVrTzRPYUVnSjBjSzEyZFhzdnBwYXl6WFFzWTF6dGFRY3lmZ1dxMTVlZUFSWWVteVJPRVVfZkRfanM3Tnl3eU5kYm9VSkg4Yml4MGh2UkVwVWdLV0dDcU5tM3pzRkhnMk5PYWNHelo1dXhULWgxdTc2amtwQUVKR3c?oc=5)
 
@@ -72,6 +96,14 @@ Fonte: [O GLOBO](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQS3NMUUlra2
 2026-11-13 <span class="news-indication-tag">câncer</span>
 
 Fonte: [Campo Grande News](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVEJmQlY3YU1nT01pWU5pY1MtSk1SWXBKX0c4dlA2OVpYM1AwZ0M2d1lDbUxtSEFqZ3lFMXJEYUpVVlBjaUxrRXpoX1ppazJWY25zVVlub0FJWE1HaUFJaFNYOXBBYktqNFhPN3IxdFlCMUtJMWlZRnRMZDkxNjdkVkM2cG5OZ0tzY25aTnVvX3Jqc1g3VW1fS0xsZUVMbGJGZ0N4UHBSZXZBcU84eE1LU3N5TWNJaUFIMmhDRlNHSWVrUUlLMFk3OGxObGpRbWR2QmfSAdIBQVVfeXFMTmJLMFVpRlFvRjJfZTZCMmtsWHZJR1IxLVRCQkZJRlFFVERLM25jcWZsUXpLVzY0eEN0M2FYdnkzTUhXRTlSSk1NYk85anhrTGJTb3E5OWpucjZXcXdRbHE3V1pwcml5bUJrcWVCbVBsS2ZmLTdZS0ZNVlZucmV6UmFBcFdnU2FhTTY3M3pFc2w0ejhySTJoQnhTanhwOWRpR09ZUVFiOFpkTUxEWk5SYnE4Zm5EVTA2cVpwY3JveTZaaG9wVGRqLVEwT3hJeEVIMVFn?oc=5)
+
+---
+
+### [Musculação protege o cérebro? Neurocientista explica importância do glúteo](https://news.google.com/rss/articles/CBMizAFBVV95cUxNdnBKTzJXaUFSaXpNdHctZGFFNmlKQWpkM2E3Ml94WFVaWHB5alZuRDlaeGh0bGljc2kyMU5HeTNaekhEYldEWGljM3YwUjBHSTl0TURDVHd4RkNvX3lBcWRiazV4ZFFaTTJzMDlYdHlrNkxZa3NxMVdtZk5rTE9jUXBkOEZWRnBPbXlLblR1QWlfbHJyUDFFM0J4aTl0d3B0ZDRVZzliNDJQVzh1NzQySnJyQlhTYTlJT0JRZW5iYklFVlBodkx6T1pyc1o?oc=5)
+
+2026-11-13 <span class="news-indication-tag">demência</span>
+
+Fonte: [UOL](https://news.google.com/rss/articles/CBMizAFBVV95cUxNdnBKTzJXaUFSaXpNdHctZGFFNmlKQWpkM2E3Ml94WFVaWHB5alZuRDlaeGh0bGljc2kyMU5HeTNaekhEYldEWGljM3YwUjBHSTl0TURDVHd4RkNvX3lBcWRiazV4ZFFaTTJzMDlYdHlrNkxZa3NxMVdtZk5rTE9jUXBkOEZWRnBPbXlLblR1QWlfbHJyUDFFM0J4aTl0d3B0ZDRVZzliNDJQVzh1NzQySnJyQlhTYTlJT0JRZW5iYklFVlBodkx6T1pyc1o?oc=5)
 
 ---
 

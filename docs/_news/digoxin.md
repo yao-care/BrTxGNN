@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com DIGOXIN. 5 indicações previstas."
 permalink: /news/digoxin/
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-15
 ---
 
 # Notícias sobre DIGOXIN
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre DIGOXIN?">
-<strong>DIGOXIN</strong> tem atualmente <strong>2 notícias</strong> e 5 indicações previstas.
+<strong>DIGOXIN</strong> tem atualmente <strong>3 notícias</strong> e 5 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ Esta página combina as indicações previstas por IA para DIGOXIN com as notíc
 <p><a href="{{ '/drugs/digoxin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (2)
+## Notícias relacionadas (3)
+
+### [AVC: 5 vilões silenciosos que aumentam o risco da doença - iG Saúde](https://news.google.com/rss/articles/CBMitwFBVV95cUxNUjUxOWVHNGc3YzJNX1laUFh2aE5rTVBxUzdDVkFseHJycXdGLUtyajlrN0owbkVRanF1QUMyVGpzbU1RbTJwUjBweklrdnhKZGp1a1l1MDNwRjJMalhwTkFTZGVDbFJhUXRrLVBQVmVsajlrTi03QVFCSXRaMlJMZ2twSmtyTWdacHJFcklxbEQtcGxWeEFkc2RFTE5pYk9HM2htbExoSlRQY2FFc0xyaFVCc1NIVTDSAbwBQVVfeXFMUFVFbmI3YjFQVFJDTjUtYk1DYllQU2V6d3plUWQwel9QekZ3c3VsVGc1VF9kbHJnRVc2NUlNbTlMMnhvbXdiUUtwdW9xS2xCekppMU9RN3pDajZENm1SNGM3M2hWSzZzSHFnS0c2c09yWWdWRkhFRWxNUTNYUUdPYnN5SzM5UVcxX1BtMDlGX2lKZ3YzczEwczhCQmMySWJoeWhxRE5hcUxSQ3pMamlaWGFSUVJQLXYxLW9sZVI?oc=5)
+
+2026-11-13 <span class="news-indication-tag">acidente vascular cerebral</span>
+
+Fonte: [iG Saúde](https://news.google.com/rss/articles/CBMitwFBVV95cUxNUjUxOWVHNGc3YzJNX1laUFh2aE5rTVBxUzdDVkFseHJycXdGLUtyajlrN0owbkVRanF1QUMyVGpzbU1RbTJwUjBweklrdnhKZGp1a1l1MDNwRjJMalhwTkFTZGVDbFJhUXRrLVBQVmVsajlrTi03QVFCSXRaMlJMZ2twSmtyTWdacHJFcklxbEQtcGxWeEFkc2RFTE5pYk9HM2htbExoSlRQY2FFc0xyaFVCc1NIVTDSAbwBQVVfeXFMUFVFbmI3YjFQVFJDTjUtYk1DYllQU2V6d3plUWQwel9QekZ3c3VsVGc1VF9kbHJnRVc2NUlNbTlMMnhvbXdiUUtwdW9xS2xCekppMU9RN3pDajZENm1SNGM3M2hWSzZzSHFnS0c2c09yWWdWRkhFRWxNUTNYUUdPYnN5SzM5UVcxX1BtMDlGX2lKZ3YzczEwczhCQmMySWJoeWhxRE5hcUxSQ3pMamlaWGFSUVJQLXYxLW9sZVI?oc=5)
+
+---
 
 ### ['Quase morri depois de uma dor de dente virar sepse e causar uma doença cardíaca rara'](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DNUYyb2IydG1MS1hyLXFoQ0xrYlZfRnRFVGpIdzRNQm5SWjN4TWt2SWdwZGNrSlpOVmdyMnZwc0QtRm5OWTVlcm1sWlZIRzZiTzNlZm9vUnc3YnUxVzd0TG45c9IBaEFVX3lxTE1HMk5CZlBWNjNCUVBzMzRaZ2RLcHdkYzFtYVBmRFZWUHVzamt5eDczbnFWNVA2MUR6Y1FZbDFDd25ESERSUWo2UlRsRUlkdXRqY05oV2NtRWJhZ0pmWHBBckc2emdqZVNO?oc=5)
 

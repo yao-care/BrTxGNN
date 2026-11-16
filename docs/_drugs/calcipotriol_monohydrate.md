@@ -1,55 +1,16 @@
 ---
-noindex: true
+layout: id_redirect
+permalink: /drugs/calcipotriol-monohydrate/
 sitemap: false
-layout: default
-title: Calcipotriol Monohydrate
-parent: Apenas usos conhecidos (sem novas previsões)
-nav_order: 176
-last_modified_at: 2026-10-29
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+search_exclude: true
+nav_exclude: true
 ---
-
-# Calcipotriol Monohydrate
-{: .fs-9 }
-
-Nível de evidência: **N/A** | Indicações previstas: **0** 
-{: .fs-6 .fw-300 }
-
----
-
-## Índice
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
-<div id="pharmacist" markdown="1">
-
-## Relatório de avaliação farmacêutica
-
-</div>
-
-## Calcipotriol Monohydrate
-{: .text-alpha }
-
-## Visão Geral Rápida
-
-| Item | Conteúdo |
-|------|------|
-| Indicação Original | ANALOGO SINTETICO DA VITAMINA D; GLICOCORTICOIDES TOPICOS - ASSOCIACAO MEDICAMENTOSA |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 2) |
-| Número de Registros | 2 (ativos: 2) |
-
----
-
-## Aviso de isenção de responsabilidade
-
-Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
-É necessária validação clínica antes de qualquer aplicação clínica.
-
----
-
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<title>Redirecting&hellip;</title>
+<link rel="canonical" href="{{ site.url }}/drugs/calcipotriol/">
+<meta http-equiv="refresh" content="0; url=/drugs/calcipotriol/">
+<script>location="/drugs/calcipotriol/"</script>
+<a href="/drugs/calcipotriol/">/drugs/calcipotriol/</a>
+</html>

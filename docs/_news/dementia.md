@@ -3,9 +3,9 @@ layout: default
 title: "Notícias sobre demência (dementia)"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre demência (dementia). 9 notícias, 4 medicamentos relacionados."
+description: "Notícias de saúde sobre demência (dementia). 11 notícias, 4 medicamentos relacionados."
 permalink: /news/dementia/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-15
 ---
 
 # Notícias sobre demência (dementia)
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre demência (dementia)?">
-<strong>demência (dementia)</strong> tem atualmente <strong>9 notícias</strong> e 4 medicamentos relacionados.
+<strong>demência (dementia)</strong> tem atualmente <strong>11 notícias</strong> e 4 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,23 @@ Esta página reúne as notícias de saúde mais recentes sobre «demência» e l
 </ul>
 </div>
 
-## Notícias relacionadas (9)
+## Notícias relacionadas (11)
+
+### ['Descobriram um tratamento para a demência do meu filho de 5 anos, mas ele custa mais de R$ 20 milhões'](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcno0T1JUeHA1UDQtSUZST21RSU5Qem9za0o2c1MtNGJwbDVVYVNsZTRhMjZPUHIyUjdocndHcGk1MUFERkNJVDVZTTljS3hBallzaVNSaDBGQzZzT0hYVmdIUDBTVlNpMno4a2NyaVZBTUNmb3JKcGJYWmx1d2NtaF9UM1poLV9iaEZ0RzR6bTRTSmUxdnFRSkNueU1ZeDVZS0ZYNExobHZCWjBTTUJBX2lUM3hwc0JNMW5kYUdLYjEwYUN0M0I3TkRZQTloVFkwS094VUp0eWRWZWxVTDk4akIzY0UzZ9IB9AFBVV95cUxPbGdMZzJYWTh6MUJVV0Z5b21fZHdRNFNwZU5MV3lCSGxaNzRqNVA2dk1meTk2bXBBQ1dUeEdSNmdZbm4ySFYtQm9MVkpkb1RwWFBaeGFzMC1BczhkTk9Ncnl2V3JaakdQVkEtSXJGSlhYZWJLZ1VoWnFwc0gzZ2FWcDViYjk0YjdNWWZkNzRyeFJFLUswd3MtWjhFOUEtSl9lLU5OaGtwQU1DU2Fic010bTZQam53emJndmtpS201bndNZ2JuLWFlbEI2Vkgzc0NiZExmam9VczlQOUtCV2VaVGRXcWV5S01tSVNhWVlPQ2M4UGc5?oc=5)
+
+2026-11-15
+
+Fonte: [G1](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcno0T1JUeHA1UDQtSUZST21RSU5Qem9za0o2c1MtNGJwbDVVYVNsZTRhMjZPUHIyUjdocndHcGk1MUFERkNJVDVZTTljS3hBallzaVNSaDBGQzZzT0hYVmdIUDBTVlNpMno4a2NyaVZBTUNmb3JKcGJYWmx1d2NtaF9UM1poLV9iaEZ0RzR6bTRTSmUxdnFRSkNueU1ZeDVZS0ZYNExobHZCWjBTTUJBX2lUM3hwc0JNMW5kYUdLYjEwYUN0M0I3TkRZQTloVFkwS094VUp0eWRWZWxVTDk4akIzY0UzZ9IB9AFBVV95cUxPbGdMZzJYWTh6MUJVV0Z5b21fZHdRNFNwZU5MV3lCSGxaNzRqNVA2dk1meTk2bXBBQ1dUeEdSNmdZbm4ySFYtQm9MVkpkb1RwWFBaeGFzMC1BczhkTk9Ncnl2V3JaakdQVkEtSXJGSlhYZWJLZ1VoWnFwc0gzZ2FWcDViYjk0YjdNWWZkNzRyeFJFLUswd3MtWjhFOUEtSl9lLU5OaGtwQU1DU2Fic010bTZQam53emJndmtpS201bndNZ2JuLWFlbEI2Vkgzc0NiZExmam9VczlQOUtCV2VaVGRXcWV5S01tSVNhWVlPQ2M4UGc5?oc=5)
+
+---
+
+### [Musculação protege o cérebro? Neurocientista explica importância do glúteo](https://news.google.com/rss/articles/CBMizAFBVV95cUxNdnBKTzJXaUFSaXpNdHctZGFFNmlKQWpkM2E3Ml94WFVaWHB5alZuRDlaeGh0bGljc2kyMU5HeTNaekhEYldEWGljM3YwUjBHSTl0TURDVHd4RkNvX3lBcWRiazV4ZFFaTTJzMDlYdHlrNkxZa3NxMVdtZk5rTE9jUXBkOEZWRnBPbXlLblR1QWlfbHJyUDFFM0J4aTl0d3B0ZDRVZzliNDJQVzh1NzQySnJyQlhTYTlJT0JRZW5iYklFVlBodkx6T1pyc1o?oc=5)
+
+2026-11-13
+
+Fonte: [UOL](https://news.google.com/rss/articles/CBMizAFBVV95cUxNdnBKTzJXaUFSaXpNdHctZGFFNmlKQWpkM2E3Ml94WFVaWHB5alZuRDlaeGh0bGljc2kyMU5HeTNaekhEYldEWGljM3YwUjBHSTl0TURDVHd4RkNvX3lBcWRiazV4ZFFaTTJzMDlYdHlrNkxZa3NxMVdtZk5rTE9jUXBkOEZWRnBPbXlLblR1QWlfbHJyUDFFM0J4aTl0d3B0ZDRVZzliNDJQVzh1NzQySnJyQlhTYTlJT0JRZW5iYklFVlBodkx6T1pyc1o?oc=5)
+
+---
 
 ### ['Dois terços dos casos de Alzheimer são em mulheres', alerta neurocientista](https://news.google.com/rss/articles/CBMiugFBVV95cUxPaTdhUFViazlydVhtdmZ5WUp1TktwOGgxWGdTX3FqNUZ0Qmtlck5IdjlBbkt4OUdVQUtiVHJMTnR6V3J0Mi1DOE9YMUxMNTc3OVlaczA0RW82VEpxOXN3elRGUm83X0otWC1VRWJiMWg4Sk43cTRfZWJJQVBVc1h1bUV0aHdxb1QzMU9DekNrY0ZKVGphbVJkY25NU3p0blludm9QMmh1akZLTk9FZ29teENidDN0SHg3Snc?oc=5)
 

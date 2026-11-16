@@ -1,56 +1,16 @@
 ---
-noindex: true
+layout: id_redirect
+permalink: /drugs/betamethasone-dipropionate/
 sitemap: false
-layout: default
-title: Betamethasone Dipropionate
-parent: Apenas usos conhecidos (sem novas previsões)
-nav_order: 129
-last_modified_at: 2026-10-31
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+search_exclude: true
+nav_exclude: true
 ---
-
-# Betamethasone Dipropionate
-{: .fs-9 }
-
-Nível de evidência: **N/A** | Indicações previstas: **0** 
-{: .fs-6 .fw-300 }
-
----
-
-## Índice
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
-<div id="pharmacist" markdown="1">
-
-## Relatório de avaliação farmacêutica
-
-</div>
-
-## Betamethasone Dipropionate
-{: .text-alpha }
-
-
-## Visão Geral Rápida
-
-| Item | Conteúdo |
-|------|------|
-| Indicação Original | GLICOCORTICOIDES TOP. SIMP. EXC. USO OFTALM.; CORTICOSTEROIDES TOPICOS; GLICOCORTICOIDES SISTEMICOS; ANTI-HISTAMINICOS SISTEMICOS; GLICOCORTICOIDES TOPICOS - ASSOCIACAO MEDICAMENTOSA; GLICOCORTICOIDES SISTEMICOS-ASSOCIACOES MEDICAMENTOSAS |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
-| Número de Registros | pelo menos 20 |
-
----
-
-## Aviso de isenção de responsabilidade
-
-Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
-É necessária validação clínica antes de qualquer aplicação clínica.
-
----
-
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<title>Redirecting&hellip;</title>
+<link rel="canonical" href="{{ site.url }}/drugs/betamethasone/">
+<meta http-equiv="refresh" content="0; url=/drugs/betamethasone/">
+<script>location="/drugs/betamethasone/"</script>
+<a href="/drugs/betamethasone/">/drugs/betamethasone/</a>
+</html>

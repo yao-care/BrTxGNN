@@ -3,9 +3,9 @@ layout: default
 title: "Notícias sobre herpes-zóster (herpes zoster)"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre herpes-zóster (herpes zoster). 5 notícias, 3 medicamentos relacionados."
+description: "Notícias de saúde sobre herpes-zóster (herpes zoster). 6 notícias, 3 medicamentos relacionados."
 permalink: /news/herpes-zoster/
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-15
 ---
 
 # Notícias sobre herpes-zóster (herpes zoster)
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-14
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre herpes-zóster (herpes zoster)?">
-<strong>herpes-zóster (herpes zoster)</strong> tem atualmente <strong>5 notícias</strong> e 3 medicamentos relacionados.
+<strong>herpes-zóster (herpes zoster)</strong> tem atualmente <strong>6 notícias</strong> e 3 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,15 @@ Esta página reúne as notícias de saúde mais recentes sobre «herpes-zóster�
 </ul>
 </div>
 
-## Notícias relacionadas (5)
+## Notícias relacionadas (6)
+
+### [Senado aprova vacina contra herpes-zóster pelo SUS para maiores de 50 anos](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYmlTQkFJTF9PTXlLRTBPNHY0NkttYXVGMlhrYmxlcUFTQXljbjFVTFR5SkpMcTNQX3pVZXhvOHZNeWJzajN0RVlqN3VoVVVqVTF0cW5meWZhY2lGdlVNaVVfbjQ4TlFYX3FCWlhrdkx5NHo4NTdiLVcyU0UyZ0RLSDNyM2c3OWcwWE51VjYyT0d6Njk4TVdpN2dYdllRNnRnWUdLTE1TbE1vLU0?oc=5)
+
+2026-11-15
+
+Fonte: [Metrópoles](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYmlTQkFJTF9PTXlLRTBPNHY0NkttYXVGMlhrYmxlcUFTQXljbjFVTFR5SkpMcTNQX3pVZXhvOHZNeWJzajN0RVlqN3VoVVVqVTF0cW5meWZhY2lGdlVNaVVfbjQ4TlFYX3FCWlhrdkx5NHo4NTdiLVcyU0UyZ0RLSDNyM2c3OWcwWE51VjYyT0d6Njk4TVdpN2dYdllRNnRnWUdLTE1TbE1vLU0?oc=5)
+
+---
 
 ### [Comissão do Senado aprova vacina contra herpes-zóster no SUS; projeto vai à Câmara - ICL Notícias](https://news.google.com/rss/articles/CBMibEFVX3lxTE5yZHhGUG5BSl9fazRMMWl4cG9sazVfYTFvYWJwVnZBOVJNcWZjS1o5QWZ1VmplY1lOdUNheFFwcUxHeG4tVHZGN0RVVFVIcmw4RnlzSnh2TDd2cFVIaVJfNmdFbVIyUEJUWHR2Rg?oc=5)
 

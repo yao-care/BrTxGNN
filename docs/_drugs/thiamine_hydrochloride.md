@@ -1,55 +1,16 @@
 ---
-noindex: true
+layout: id_redirect
+permalink: /drugs/thiamine-hydrochloride/
 sitemap: false
-layout: default
-title: Thiamine Hydrochloride
-parent: Apenas usos conhecidos (sem novas previsões)
-nav_order: 631
-last_modified_at: 2026-10-31
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+search_exclude: true
+nav_exclude: true
 ---
-
-# Thiamine Hydrochloride
-{: .fs-9 }
-
-Nível de evidência: **N/A** | Indicações previstas: **0** 
-{: .fs-6 .fw-300 }
-
----
-
-## Índice
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
-<div id="pharmacist" markdown="1">
-
-## Relatório de avaliação farmacêutica
-
-</div>
-
-## Thiamine Hydrochloride
-{: .text-alpha }
-
-## Visão Geral Rápida
-
-| Item | Conteúdo |
-|------|----------|
-| Indicação Original | VITAMINAS E SUPLEMENTOS MINERAIS; MONOVITAMINAS EXCETO VITAMINA K; VITAMINA B1 (MONODROGA); VITAMINA B1 EM ASSOCIAÇÃO COM VITAMINAS B6 E/OU B12; PRODUTOS A BASE DE VIT B 12-ASSOCIACOES MEDICAMENTOSAS |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
-| Número de Registros | pelo menos 20 |
-
----
-
-## Aviso de isenção de responsabilidade
-
-Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
-É necessária validação clínica antes de qualquer aplicação clínica.
-
----
-
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<title>Redirecting&hellip;</title>
+<link rel="canonical" href="{{ site.url }}/drugs/thiamine/">
+<meta http-equiv="refresh" content="0; url=/drugs/thiamine/">
+<script>location="/drugs/thiamine/"</script>
+<a href="/drugs/thiamine/">/drugs/thiamine/</a>
+</html>

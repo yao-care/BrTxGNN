@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Ciprofloxacin. 9 indicações previstas."
 permalink: /news/ciprofloxacin/
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-15
 ---
 
 # Notícias sobre Ciprofloxacin
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-14
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Ciprofloxacin?">
-<strong>Ciprofloxacin</strong> tem atualmente <strong>56 notícias</strong> e 9 indicações previstas.
+<strong>Ciprofloxacin</strong> tem atualmente <strong>58 notícias</strong> e 9 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,23 @@ Esta página combina as indicações previstas por IA para Ciprofloxacin com as 
 <p><a href="{{ '/drugs/ciprofloxacin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (56)
+## Notícias relacionadas (58)
+
+### [Metástase desaparece no primeiro paciente tratado com nova vacina russa contra o câncer - Brasil 247](https://news.google.com/rss/articles/CBMivAFBVV95cUxNU2ljTWtZUmZCNXpXcGkyV3VaTUlJcTV0S1pUbTAyTy01YXFKVGdUd1V6ZGlkTWVNWU5TSm9hMEh3d0lNYzdmUHJRd29iMEN0c0hmbG53NGNFd251SEkzbkdiX0lobkE1b0w2U2lSMTYwQWNTMkNPanFIN2Fvbko5aUpDbTFaeUZ2SUlQRmFYanhYbjVGZVBabUxQTTFQMlVpTGl4bThWd19mb2dhMC1pUkprYmRxSTdEdXdobw?oc=5)
+
+2026-11-15 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Brasil 247](https://news.google.com/rss/articles/CBMivAFBVV95cUxNU2ljTWtZUmZCNXpXcGkyV3VaTUlJcTV0S1pUbTAyTy01YXFKVGdUd1V6ZGlkTWVNWU5TSm9hMEh3d0lNYzdmUHJRd29iMEN0c0hmbG53NGNFd251SEkzbkdiX0lobkE1b0w2U2lSMTYwQWNTMkNPanFIN2Fvbko5aUpDbTFaeUZ2SUlQRmFYanhYbjVGZVBabUxQTTFQMlVpTGl4bThWd19mb2dhMC1pUkprYmRxSTdEdXdobw?oc=5)
+
+---
+
+### [“Perdi o chão”, diz mãe de menino que descobriu câncer após dores na perna](https://news.google.com/rss/articles/CBMipwFBVV95cUxNN0ozVHdZU3FsWlZnRlViUnBmN2UyQ0M4UGxXVTRLcE1GQXdSbkRQcmFPY2NDTDYxZ0NrcnhfVkp6ZWhIcXpQNXFzV3dzb3JidDhnMlRwX3N1SzBxX0N2UkwtRVlSOWtpZ1Z1QlZxc2JhTEdzVkJjbFZsakphdlJyNGE0cWpBZHZodXFJRHUxYW1WN3A4Zm1hYm5PdURiSlBTTHBIZ0VyRQ?oc=5)
+
+2026-11-15 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Metrópoles](https://news.google.com/rss/articles/CBMipwFBVV95cUxNN0ozVHdZU3FsWlZnRlViUnBmN2UyQ0M4UGxXVTRLcE1GQXdSbkRQcmFPY2NDTDYxZ0NrcnhfVkp6ZWhIcXpQNXFzV3dzb3JidDhnMlRwX3N1SzBxX0N2UkwtRVlSOWtpZ1Z1QlZxc2JhTEdzVkJjbFZsakphdlJyNGE0cWpBZHZodXFJRHUxYW1WN3A4Zm1hYm5PdURiSlBTTHBIZ0VyRQ?oc=5)
+
+---
 
 ### [Quais bebidas podem aumentar o risco de câncer de estômago? Um estudo alerta contra o consumo diário - O GLOBO](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOHQzd3g5MFp0WTFRRzhRdDhQU3hYbDV3MXUtaUJRX0ZQbFdJZFhzeG1McjJIMmtvd2dac1JVcUVHUDlwT1BfTUlaNFMzdmswODMwa1pFSXhpaE41RHpyZUZKNHRPM0V6QXRyVVlnT2NXR0hycWZEcmpzQ1BOc2RNMDFlZ2dTTGtYLTV4bnJ6S0lBc1d0WXg3cjdoV2tZZzVScTJHdWpMZDRQaTBqNGlFX1hCbFd2ZXF5aGh5VWYxNEYwY1YtclozWFlDSkZnR0xNRFZDc3hnOXpoRWV2azd0dHJuaGV5aVZxZG0w0gH6AUFVX3lxTE9TN2ZTakJJNWhLLURuU1EzWnNHY0tzeS1nOWlfdDlIalhKODBTcGFBalVrX3JFMlZZZHY0bXk0dkRlSHNWWm5ZTWJQWlVVaW1QRVlfZi1rR2pwQkNTQTNaanBlOXVxNTdxbVFlZGZFckd1S0ZOOEdoN1BCMlV3SnZuWmVrTzRPYUVnSjBjSzEyZFhzdnBwYXl6WFFzWTF6dGFRY3lmZ1dxMTVlZUFSWWVteVJPRVVfZkRfanM3Tnl3eU5kYm9VSkg4Yml4MGh2UkVwVWdLV0dDcU5tM3pzRkhnMk5PYWNHelo1dXhULWgxdTc2amtwQUVKR3c?oc=5)
 

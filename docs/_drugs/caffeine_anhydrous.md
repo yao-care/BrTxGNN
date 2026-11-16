@@ -1,104 +1,16 @@
 ---
-noindex: true
+layout: id_redirect
+permalink: /drugs/caffeine-anhydrous/
 sitemap: false
-layout: default
-title: Caffeine Anhydrous
-parent: Apenas Predição do Modelo (L5)
-nav_order: 173
-evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-11-12
-predicted_indications: []
+search_exclude: true
+nav_exclude: true
 ---
-
-# Caffeine Anhydrous
-{: .fs-9 }
-
-Nível de evidência: **L5** | Indicações previstas: **0** 
-{: .fs-6 .fw-300 }
-
----
-
-## Índice
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
-<div id="pharmacist" markdown="1">
-
-## Relatório de avaliação farmacêutica
-
-</div>
-
-## CAFFEINE ANHYDROUS: Avaliação de Reposicionamento — Dados Insuficientes para Análise
-{: .text-alpha }
-
-## Resumo em Uma Frase
-
-CAFFEINE ANHYDROUS é um fármaco sem registro identificado no mercado brasileiro e sem indicações originais mapeadas neste Evidence Pack.
-O modelo TxGNN **não gerou previsões de novas indicações** para este candidato,
-portanto **não há ensaios clínicos, literatura ou pontuação de previsão** disponíveis para análise.
-
----
-
-## Visão Geral Rápida
-
-| Item | Conteúdo |
-|------|------|
-| Indicação Original | Não disponível |
-| Nova Indicação Prevista | Nenhuma previsão gerada pelo TxGNN |
-| Pontuação de Previsão TxGNN | N/D |
-| Nível de Evidência | — (abaixo de L5: sem previsões do modelo) |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
-| Número de Registros | pelo menos 20 |
-| Decisão Recomendada | Hold |
-
----
-
-## Considerações de Segurança
-
-Consulte a bula para informações de segurança.
-
----
-
-## Conclusão e Próximos Passos
-
-**Decisão: Hold**
-
-**Justificativa:**
-O pipeline TxGNN não produziu previsões de reposicionamento para CAFFEINE ANHYDROUS — provavelmente por falha no mapeamento do DrugBank ID (retornou `null`) ou por ausência do fármaco no grafo de conhecimento —, inviabilizando qualquer análise de indicação, mecanismo ou evidência.
-
-**Para prosseguir, é necessário:**
-- Confirmar e registrar o **DrugBank ID** correto para CAFFEINE ANHYDROUS (consulta à DrugBank API pendente — query_log item 3 retornou 1 resultado, mas o ID não foi persistido no Evidence Pack)
-- Reexecutar o pipeline TxGNN com o mapeamento corrigido para gerar `predicted_indications`
-- Obter dados de **MOA** (mecanismo de ação) via DrugBank API para preencher a lacuna DG002
-- Baixar e analisar a **bula da ANVISA** para obter advertências e contraindicações (lacuna DG001, severidade Blocking)
-
-<!-- review:begin br-lic-20261106-caffeine_anhydrous-1 -->
-
-> **Correção de verificação (2026-11-06)**: Texto original: “Baixar e analisar a **bula da ANVISA** para obter advertências e contraindicações (lacuna DG001, severidade Blocking) / Verificar o **status regulatório vigente** no Brasil: o registro retornou 0 licenças — confirmar se houve erro de busca ou se o fármaco de fato não possui registro ativo” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-lic-20261106-caffeine_anhydrous-1 -->
-
-<!-- review:begin log -->
-
-## Registro de verificação
-
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
-
-| Data da verificação | Item | Ação | Fonte |
-|------|------|------|------|
-| 2026-11-06 | Removido: “Verificar o **status regulatório vigente** no Brasil: o registro retornou 0 licenças — confirmar se houve erro de busca ou se o fármaco de f” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-
-<!-- review:end log -->
-
-## Aviso de isenção de responsabilidade
-
-Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
-É necessária validação clínica antes de qualquer aplicação clínica.
-
----
-
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<title>Redirecting&hellip;</title>
+<link rel="canonical" href="{{ site.url }}/drugs/caffeine/">
+<meta http-equiv="refresh" content="0; url=/drugs/caffeine/">
+<script>location="/drugs/caffeine/"</script>
+<a href="/drugs/caffeine/">/drugs/caffeine/</a>
+</html>
