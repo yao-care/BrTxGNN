@@ -9,8 +9,8 @@ nav_exclude: true
 <html>
 <meta charset="utf-8">
 <title>Redirecting&hellip;</title>
-<link rel="canonical" href="{{ site.url }}/news/">
-<meta http-equiv="refresh" content="0; url=/news/">
-<script>location="/news/"</script>
-<a href="/news/">/news/</a>
+<link rel="canonical" href="{{ site.url }}/drugs/levobupivacaína-hydrochloride/">
+<meta http-equiv="refresh" content="0; url=/drugs/levobupivacaína-hydrochloride/">
+<script>location="/drugs/levobupivacaína-hydrochloride/"</script>
+<a href="/drugs/levobupivacaína-hydrochloride/">/drugs/levobupivacaína-hydrochloride/</a>
 </html>

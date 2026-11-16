@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Biperiden. 10 indicações previstas."
 permalink: /news/biperiden/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 ---
 
 # Notícias sobre Biperiden
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Biperiden?">
-<strong>Biperiden</strong> tem atualmente <strong>11 notícias</strong> e 10 indicações previstas.
+<strong>Biperiden</strong> tem atualmente <strong>14 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,37 @@ Esta página combina as indicações previstas por IA para Biperiden com as not�
 <p><a href="{{ '/drugs/biperiden/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (11)
+## Notícias relacionadas (14)
+
+### [Perda de dentes pode estar ligada à demência? Veja o que os estudos revelam sobre a mastigação - CNN Brasil](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPT1FHaXAtX183OERiT194UXR2a25aOHAxUHlMcGJzRF9zb2c5VlNCenRRdFdsTTNRcEN2TjlKZXhFU1Q1LUxoNWlDM1gySVAtM3VRWUtCX2Z5X0tVRjUzbXlOd2JJN1Z1anpDOU9sSXZZTFRxSFk0dnE5V3BQV2RUQlhySGlDMmtsX1JydVV2cHVSQXhnZHJpSHpxZ3A0Y2ZnOVlYVENOUkN0eUxadDBEdTd6Y2JoVnJCZnZodlJzNHFVaHMzSXM2X05oVDJ6NExNaUE?oc=5)
+
+2026-11-16 <span class="news-indication-tag">demência</span>
+
+Fonte: [CNN Brasil](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPT1FHaXAtX183OERiT194UXR2a25aOHAxUHlMcGJzRF9zb2c5VlNCenRRdFdsTTNRcEN2TjlKZXhFU1Q1LUxoNWlDM1gySVAtM3VRWUtCX2Z5X0tVRjUzbXlOd2JJN1Z1anpDOU9sSXZZTFRxSFk0dnE5V3BQV2RUQlhySGlDMmtsX1JydVV2cHVSQXhnZHJpSHpxZ3A0Y2ZnOVlYVENOUkN0eUxadDBEdTd6Y2JoVnJCZnZodlJzNHFVaHMzSXM2X05oVDJ6NExNaUE?oc=5)
+
+---
+
+### [Exame positivo para doença de Alzheimer não significa demência por Alzheimer; entenda a diferença](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQd1JtanJWU1Q5RVcyVEQtWXYzRWNWWno3SXFJZExGaWZydWZBSk1SQkttNlU3R1FHeHUzUkd4MkVXSy1kRmtINGVlWEJ2VUdVX2JTMTI5QlFWbEg2TUxZR1pXRnZERjc3WGZoQTFOaEx5LXF6X3hSQjYzMXQ4QWJBQkYtUGV3VTZROEZzUUpnekhOcUJ6V1lYT2FacUFqZUw0NVBDSWYtWjgyTmdXVzBNSEh4ZHJFT2RDSE9VaDdlb1oyVEs5eFlIREV5QzRWVmdVdjQzc3BwTTduU2dDRVhB0gHkAUFVX3lxTFBXeW9sNlgxcW01ejUxek11WjctZF9LWlNnZV9kWnpKS3lTVExBbDl2Skt3dG5LNWxXZC1ySjd0TTNBQjhnc2V5RkhSZ3JlUDNlS1R4NmdNeldvd2FkTjRVV1dCb0lDSl92YUV5VXhsREJ2cUNoZVY0V2JzWkFQZTMzZFlDS1ZHYUJhVEVRazVyT2JXN3ZLUXZSQXJUaldXZk0xN1dxdVdaYzVuM1ZtT09PLTFhaXdZNXJjV3F1R0ZzWERkNGFxY0Q5SGNJRW5zdnJydW1ycW1jVVJVZVNPMTc1c01ONw?oc=5)
+
+2026-11-16 <span class="news-indication-tag">demência</span>
+
+Fonte: [Estadão](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQd1JtanJWU1Q5RVcyVEQtWXYzRWNWWno3SXFJZExGaWZydWZBSk1SQkttNlU3R1FHeHUzUkd4MkVXSy1kRmtINGVlWEJ2VUdVX2JTMTI5QlFWbEg2TUxZR1pXRnZERjc3WGZoQTFOaEx5LXF6X3hSQjYzMXQ4QWJBQkYtUGV3VTZROEZzUUpnekhOcUJ6V1lYT2FacUFqZUw0NVBDSWYtWjgyTmdXVzBNSEh4ZHJFT2RDSE9VaDdlb1oyVEs5eFlIREV5QzRWVmdVdjQzc3BwTTduU2dDRVhB0gHkAUFVX3lxTFBXeW9sNlgxcW01ejUxek11WjctZF9LWlNnZV9kWnpKS3lTVExBbDl2Skt3dG5LNWxXZC1ySjd0TTNBQjhnc2V5RkhSZ3JlUDNlS1R4NmdNeldvd2FkTjRVV1dCb0lDSl92YUV5VXhsREJ2cUNoZVY0V2JzWkFQZTMzZFlDS1ZHYUJhVEVRazVyT2JXN3ZLUXZSQXJUaldXZk0xN1dxdVdaYzVuM1ZtT09PLTFhaXdZNXJjV3F1R0ZzWERkNGFxY0Q5SGNJRW5zdnJydW1ycW1jVVJVZVNPMTc1c01ONw?oc=5)
+
+---
 
 ### ['Descobriram um tratamento para a demência do meu filho de 5 anos, mas ele custa mais de R$ 20 milhões'](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcno0T1JUeHA1UDQtSUZST21RSU5Qem9za0o2c1MtNGJwbDVVYVNsZTRhMjZPUHIyUjdocndHcGk1MUFERkNJVDVZTTljS3hBallzaVNSaDBGQzZzT0hYVmdIUDBTVlNpMno4a2NyaVZBTUNmb3JKcGJYWmx1d2NtaF9UM1poLV9iaEZ0RzR6bTRTSmUxdnFRSkNueU1ZeDVZS0ZYNExobHZCWjBTTUJBX2lUM3hwc0JNMW5kYUdLYjEwYUN0M0I3TkRZQTloVFkwS094VUp0eWRWZWxVTDk4akIzY0UzZ9IB9AFBVV95cUxPbGdMZzJYWTh6MUJVV0Z5b21fZHdRNFNwZU5MV3lCSGxaNzRqNVA2dk1meTk2bXBBQ1dUeEdSNmdZbm4ySFYtQm9MVkpkb1RwWFBaeGFzMC1BczhkTk9Ncnl2V3JaakdQVkEtSXJGSlhYZWJLZ1VoWnFwc0gzZ2FWcDViYjk0YjdNWWZkNzRyeFJFLUswd3MtWjhFOUEtSl9lLU5OaGtwQU1DU2Fic010bTZQam53emJndmtpS201bndNZ2JuLWFlbEI2Vkgzc0NiZExmam9VczlQOUtCV2VaVGRXcWV5S01tSVNhWVlPQ2M4UGc5?oc=5)
 
 2026-11-15 <span class="news-indication-tag">demência</span>
 
 Fonte: [G1](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcno0T1JUeHA1UDQtSUZST21RSU5Qem9za0o2c1MtNGJwbDVVYVNsZTRhMjZPUHIyUjdocndHcGk1MUFERkNJVDVZTTljS3hBallzaVNSaDBGQzZzT0hYVmdIUDBTVlNpMno4a2NyaVZBTUNmb3JKcGJYWmx1d2NtaF9UM1poLV9iaEZ0RzR6bTRTSmUxdnFRSkNueU1ZeDVZS0ZYNExobHZCWjBTTUJBX2lUM3hwc0JNMW5kYUdLYjEwYUN0M0I3TkRZQTloVFkwS094VUp0eWRWZWxVTDk4akIzY0UzZ9IB9AFBVV95cUxPbGdMZzJYWTh6MUJVV0Z5b21fZHdRNFNwZU5MV3lCSGxaNzRqNVA2dk1meTk2bXBBQ1dUeEdSNmdZbm4ySFYtQm9MVkpkb1RwWFBaeGFzMC1BczhkTk9Ncnl2V3JaakdQVkEtSXJGSlhYZWJLZ1VoWnFwc0gzZ2FWcDViYjk0YjdNWWZkNzRyeFJFLUswd3MtWjhFOUEtSl9lLU5OaGtwQU1DU2Fic010bTZQam53emJndmtpS201bndNZ2JuLWFlbEI2Vkgzc0NiZExmam9VczlQOUtCV2VaVGRXcWV5S01tSVNhWVlPQ2M4UGc5?oc=5)
+
+---
+
+### [Capital cognitivo: educação torna o cérebro resiliente, diz neurocientista](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ2w2Q2lQaHhBUThWQUpxSXFVMUphT3YxdDM4TmxVNWcyTTR0LVpsRDdCcXpHdzVDLU1YU0VobHVtTXIzNDBNT2R3RnBCSGc5VjBQX1VtQVh0Qk1sbkd2N19zNFBJVDVYbFNFWFBGMmtnVW5XS2pLZGJlME9VNFJncVVadmJPNk53T3ZCU2Fid2JnQkRIMlNkYzB3SzlBZEZ0SnFjdWU2M0ZPSDliOFNNdjFmNnVzUzg2ejk0TWdELXFJYmJvUUZEUnQ2VWRYbUtuejh3?oc=5)
+
+2026-11-15 <span class="news-indication-tag">demência</span>
+
+Fonte: [UOL](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ2w2Q2lQaHhBUThWQUpxSXFVMUphT3YxdDM4TmxVNWcyTTR0LVpsRDdCcXpHdzVDLU1YU0VobHVtTXIzNDBNT2R3RnBCSGc5VjBQX1VtQVh0Qk1sbkd2N19zNFBJVDVYbFNFWFBGMmtnVW5XS2pLZGJlME9VNFJncVVadmJPNk53T3ZCU2Fid2JnQkRIMlNkYzB3SzlBZEZ0SnFjdWU2M0ZPSDliOFNNdjFmNnVzUzg2ejk0TWdELXFJYmJvUUZEUnQ2VWRYbUtuejh3?oc=5)
 
 ---
 

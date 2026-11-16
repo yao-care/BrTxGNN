@@ -9,8 +9,8 @@ nav_exclude: true
 <html>
 <meta charset="utf-8">
 <title>Redirecting&hellip;</title>
-<link rel="canonical" href="{{ site.url }}/news/">
-<meta http-equiv="refresh" content="0; url=/news/">
-<script>location="/news/"</script>
-<a href="/news/">/news/</a>
+<link rel="canonical" href="{{ site.url }}/drugs/alectinibe-hydrochloride/">
+<meta http-equiv="refresh" content="0; url=/drugs/alectinibe-hydrochloride/">
+<script>location="/drugs/alectinibe-hydrochloride/"</script>
+<a href="/drugs/alectinibe-hydrochloride/">/drugs/alectinibe-hydrochloride/</a>
 </html>
