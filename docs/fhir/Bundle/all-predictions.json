@@ -2,8 +2,8 @@
   "resourceType": "Bundle",
   "id": "all-predictions",
   "type": "collection",
-  "timestamp": "2026-11-15T13:02:46.051587",
-  "total": 517,
+  "timestamp": "2026-11-16T14:09:30.560523",
+  "total": 575,
   "link": [
     {
       "relation": "self",
@@ -20671,6 +20671,2326 @@
             }
           ],
           "text": "zuclopenthixol"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/abacavir-sulfate",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "abacavir-sulfate",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "abacavir-sulfate",
+              "display": "ABACAVIR SULFATE"
+            }
+          ],
+          "text": "ABACAVIR SULFATE"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/abatacepte",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "abatacepte",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "abatacepte",
+              "display": "ABATACEPTE"
+            }
+          ],
+          "text": "ABATACEPTE"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L4"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/aceclofenaco",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "aceclofenaco",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "aceclofenaco",
+              "display": "ACECLOFENACO"
+            }
+          ],
+          "text": "ACECLOFENACO"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/acetazolamida",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "acetazolamida",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "acetazolamida",
+              "display": "ACETAZOLAMIDA"
+            }
+          ],
+          "text": "ACETAZOLAMIDA"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/acetonida-de-triamcinolone",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "acetonida-de-triamcinolone",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "acetonida-de-triamcinolone",
+              "display": "ACETONIDA DE TRIAMCINOLONE"
+            }
+          ],
+          "text": "ACETONIDA DE TRIAMCINOLONE"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/adalimumabe",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "adalimumabe",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "adalimumabe",
+              "display": "ADALIMUMABE"
+            }
+          ],
+          "text": "ADALIMUMABE"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/adenosina",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "adenosina",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "adenosina",
+              "display": "ADENOSINA"
+            }
+          ],
+          "text": "ADENOSINA"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/aflibercepte",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "aflibercepte",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "aflibercepte",
+              "display": "AFLIBERCEPTE"
+            }
+          ],
+          "text": "AFLIBERCEPTE"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/agomelatina",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "agomelatina",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "agomelatina",
+              "display": "AGOMELATINA"
+            }
+          ],
+          "text": "AGOMELATINA"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/albuterol",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "albuterol",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "albuterol",
+              "display": "ALBUTEROL"
+            }
+          ],
+          "text": "ALBUTEROL"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/albuterol-sulfate",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "albuterol-sulfate",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "albuterol-sulfate",
+              "display": "ALBUTEROL SULFATE"
+            }
+          ],
+          "text": "ALBUTEROL SULFATE"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/alectinibe-hydrochloride",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "alectinibe-hydrochloride",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "alectinibe-hydrochloride",
+              "display": "ALECTINIBE HYDROCHLORIDE"
+            }
+          ],
+          "text": "ALECTINIBE HYDROCHLORIDE"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/amantadina-hydrochloride",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "amantadina-hydrochloride",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "amantadina-hydrochloride",
+              "display": "AMANTADINA HYDROCHLORIDE"
+            }
+          ],
+          "text": "AMANTADINA HYDROCHLORIDE"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/amilorida",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "amilorida",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "amilorida",
+              "display": "AMILORIDA"
+            }
+          ],
+          "text": "AMILORIDA"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/amilorida-hydrochloride",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "amilorida-hydrochloride",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "amilorida-hydrochloride",
+              "display": "AMILORIDA HYDROCHLORIDE"
+            }
+          ],
+          "text": "AMILORIDA HYDROCHLORIDE"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/amlodipina-besylate",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "amlodipina-besylate",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "amlodipina-besylate",
+              "display": "AMLODIPINA BESYLATE"
+            }
+          ],
+          "text": "AMLODIPINA BESYLATE"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/amlodipine-besylate",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "amlodipine-besylate",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "amlodipine-besylate",
+              "display": "AMLODIPINE BESYLATE"
+            }
+          ],
+          "text": "AMLODIPINE BESYLATE"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/amorolfina-hydrochloride",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "amorolfina-hydrochloride",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "amorolfina-hydrochloride",
+              "display": "AMOROLFINA HYDROCHLORIDE"
+            }
+          ],
+          "text": "AMOROLFINA HYDROCHLORIDE"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/anagrelida-hydrochloride",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "anagrelida-hydrochloride",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "anagrelida-hydrochloride",
+              "display": "ANAGRELIDA HYDROCHLORIDE"
+            }
+          ],
+          "text": "ANAGRELIDA HYDROCHLORIDE"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/arginine-aspartate",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "arginine-aspartate",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "arginine-aspartate",
+              "display": "ARGININE ASPARTATE"
+            }
+          ],
+          "text": "ARGININE ASPARTATE"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/arginine-glutamate",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "arginine-glutamate",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "arginine-glutamate",
+              "display": "ARGININE GLUTAMATE"
+            }
+          ],
+          "text": "ARGININE GLUTAMATE"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/articaína-hydrochloride",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "articaína-hydrochloride",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "articaína-hydrochloride",
+              "display": "ARTICAÍNA HYDROCHLORIDE"
+            }
+          ],
+          "text": "ARTICAÍNA HYDROCHLORIDE"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/atazanavir-sulfate",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "atazanavir-sulfate",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "atazanavir-sulfate",
+              "display": "ATAZANAVIR SULFATE"
+            }
+          ],
+          "text": "ATAZANAVIR SULFATE"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/atezolizumabe",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "atezolizumabe",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "atezolizumabe",
+              "display": "ATEZOLIZUMABE"
+            }
+          ],
+          "text": "ATEZOLIZUMABE"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/atomoxetina-hydrochloride",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "atomoxetina-hydrochloride",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "atomoxetina-hydrochloride",
+              "display": "ATOMOXETINA HYDROCHLORIDE"
+            }
+          ],
+          "text": "ATOMOXETINA HYDROCHLORIDE"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/atorvastatin-calcium",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "atorvastatin-calcium",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "atorvastatin-calcium",
+              "display": "ATORVASTATIN CALCIUM"
+            }
+          ],
+          "text": "ATORVASTATIN CALCIUM"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L1"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/axitinibe",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "axitinibe",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "axitinibe",
+              "display": "AXITINIBE"
+            }
+          ],
+          "text": "AXITINIBE"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/bedaquilina-fumarate",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "bedaquilina-fumarate",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "bedaquilina-fumarate",
+              "display": "BEDAQUILINA FUMARATE"
+            }
+          ],
+          "text": "BEDAQUILINA FUMARATE"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/belimumabe",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "belimumabe",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "belimumabe",
+              "display": "BELIMUMABE"
+            }
+          ],
+          "text": "BELIMUMABE"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/benazepril-hydrochloride",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "benazepril-hydrochloride",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "benazepril-hydrochloride",
+              "display": "BENAZEPRIL HYDROCHLORIDE"
+            }
+          ],
+          "text": "BENAZEPRIL HYDROCHLORIDE"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/bendamustina-hydrochloride",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "bendamustina-hydrochloride",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "bendamustina-hydrochloride",
+              "display": "BENDAMUSTINA HYDROCHLORIDE"
+            }
+          ],
+          "text": "BENDAMUSTINA HYDROCHLORIDE"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L1"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/benznidazol",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "benznidazol",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "benznidazol",
+              "display": "BENZNIDAZOL"
+            }
+          ],
+          "text": "BENZNIDAZOL"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/bicalutamida",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "bicalutamida",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "bicalutamida",
+              "display": "BICALUTAMIDA"
+            }
+          ],
+          "text": "BICALUTAMIDA"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/bictegravir-sodium",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "bictegravir-sodium",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "bictegravir-sodium",
+              "display": "BICTEGRAVIR SODIUM"
+            }
+          ],
+          "text": "BICTEGRAVIR SODIUM"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/brigatinibe",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "brigatinibe",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "brigatinibe",
+              "display": "BRIGATINIBE"
+            }
+          ],
+          "text": "BRIGATINIBE"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/bupropion-hydrochloride",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "bupropion-hydrochloride",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "bupropion-hydrochloride",
+              "display": "BUPROPION HYDROCHLORIDE"
+            }
+          ],
+          "text": "BUPROPION HYDROCHLORIDE"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L2"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/cabergolina",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "cabergolina",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "cabergolina",
+              "display": "CABERGOLINA"
+            }
+          ],
+          "text": "CABERGOLINA"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/carbinoxamina-maleate",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "carbinoxamina-maleate",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "carbinoxamina-maleate",
+              "display": "CARBINOXAMINA MALEATE"
+            }
+          ],
+          "text": "CARBINOXAMINA MALEATE"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/carfilzomibe",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "carfilzomibe",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "carfilzomibe",
+              "display": "CARFILZOMIBE"
+            }
+          ],
+          "text": "CARFILZOMIBE"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/cyclophosphamide-monohydrate",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "cyclophosphamide-monohydrate",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "cyclophosphamide-monohydrate",
+              "display": "CYCLOPHOSPHAMIDE MONOHYDRATE"
+            }
+          ],
+          "text": "CYCLOPHOSPHAMIDE MONOHYDRATE"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/leflunomida",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "leflunomida",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "leflunomida",
+              "display": "LEFLUNOMIDA"
+            }
+          ],
+          "text": "LEFLUNOMIDA"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/lenalidomida",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "lenalidomida",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "lenalidomida",
+              "display": "LENALIDOMIDA"
+            }
+          ],
+          "text": "LENALIDOMIDA"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L2"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/leuprorrelina-acetate",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "leuprorrelina-acetate",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "leuprorrelina-acetate",
+              "display": "LEUPRORRELINA ACETATE"
+            }
+          ],
+          "text": "LEUPRORRELINA ACETATE"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/levobupivacaína-hydrochloride",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "levobupivacaína-hydrochloride",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "levobupivacaína-hydrochloride",
+              "display": "LEVOBUPIVACAÍNA HYDROCHLORIDE"
+            }
+          ],
+          "text": "LEVOBUPIVACAÍNA HYDROCHLORIDE"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/levocetirizine-dihydrochloride",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "levocetirizine-dihydrochloride",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "levocetirizine-dihydrochloride",
+              "display": "LEVOCETIRIZINE DIHYDROCHLORIDE"
+            }
+          ],
+          "text": "LEVOCETIRIZINE DIHYDROCHLORIDE"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/levofloxacina",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "levofloxacina",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "levofloxacina",
+              "display": "LEVOFLOXACINA"
+            }
+          ],
+          "text": "LEVOFLOXACINA"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/levometionina",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "levometionina",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "levometionina",
+              "display": "LEVOMETIONINA"
+            }
+          ],
+          "text": "LEVOMETIONINA"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/levonorgestrel-micronizado",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "levonorgestrel-micronizado",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "levonorgestrel-micronizado",
+              "display": "LEVONORGESTREL MICRONIZADO"
+            }
+          ],
+          "text": "LEVONORGESTREL MICRONIZADO"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/orphenadrine-citrate",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "orphenadrine-citrate",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "orphenadrine-citrate",
+              "display": "ORPHENADRINE CITRATE"
+            }
+          ],
+          "text": "ORPHENADRINE CITRATE"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/oxybutynin-hydrochloride",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "oxybutynin-hydrochloride",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "oxybutynin-hydrochloride",
+              "display": "OXYBUTYNIN HYDROCHLORIDE"
+            }
+          ],
+          "text": "OXYBUTYNIN HYDROCHLORIDE"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/oxymetazoline-hydrochloride",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "oxymetazoline-hydrochloride",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "oxymetazoline-hydrochloride",
+              "display": "OXYMETAZOLINE HYDROCHLORIDE"
+            }
+          ],
+          "text": "OXYMETAZOLINE HYDROCHLORIDE"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/palbociclibe",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "palbociclibe",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "palbociclibe",
+              "display": "PALBOCICLIBE"
+            }
+          ],
+          "text": "PALBOCICLIBE"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/paliperidona",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "paliperidona",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "paliperidona",
+              "display": "PALIPERIDONA"
+            }
+          ],
+          "text": "PALIPERIDONA"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/paliperidona-palmitate",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "paliperidona-palmitate",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "paliperidona-palmitate",
+              "display": "PALIPERIDONA PALMITATE"
+            }
+          ],
+          "text": "PALIPERIDONA PALMITATE"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/palivizumabe",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "palivizumabe",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "palivizumabe",
+              "display": "PALIVIZUMABE"
+            }
+          ],
+          "text": "PALIVIZUMABE"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/terbutalina-sulfate",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "terbutalina-sulfate",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "terbutalina-sulfate",
+              "display": "TERBUTALINA SULFATE"
+            }
+          ],
+          "text": "TERBUTALINA SULFATE"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/teriparatida",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "teriparatida",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "teriparatida",
+              "display": "TERIPARATIDA"
+            }
+          ],
+          "text": "TERIPARATIDA"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "BR",
+                "display": "Brazil"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/tiabendazol",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "tiabendazol",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://brtxgnn.yao.care/drugs",
+              "code": "tiabendazol",
+              "display": "TIABENDAZOL"
+            }
+          ],
+          "text": "TIABENDAZOL"
         },
         "intendedJurisdiction": [
           {
