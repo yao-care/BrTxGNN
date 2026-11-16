@@ -9,7 +9,7 @@ drugbank_id: DB11595
 monitor_inn: "Atezolizumab"
 predicted_indications: ["uterine ligament adenocarcinoma", "endocervical carcinoma", "adenoid cystic carcinoma of the cervix uteri", "uterine ligament serous adenocarcinoma", "signet ring cell variant cervical mucinous adenocarcinoma", "intestinal variant cervical mucinous adenocarcinoma"]
 last_modified_at: 2026-11-16
-description: "Atezolizumabe: nova indicação prevista, Uterine ligament adenocarcinoma (nível de evidência L5). Indicação original: Não consta nos dados locais"
+description: "Atezolizumabe: nova indicação prevista, Adenocarcinoma do ligamento uterino (uterine ligament adenocarcinoma) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Atezolizumabe
@@ -34,21 +34,20 @@ Nível de evidência: **L5** | Indicações previstas: **6**
 
 </div>
 
-## Atezolizumabe: Uterine ligament adenocarcinoma
+## Atezolizumabe: Adenocarcinoma do ligamento uterino (uterine ligament adenocarcinoma)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Atezolizumabe é um anticorpo monoclonal que bloqueia o PD-L1, usado em oncologia e com registro ativo no Brasil.
-O modelo TxGNN prevê que ele pode ser eficaz para **Carcinoma urotelial da uretra prostática (prostatic urethra urothelial carcinoma)**.
-Essa previsão conta hoje com **1 ensaio clínico** de fase inicial, que não é específico para esta doença, e **nenhuma publicação** diretamente relacionada.
+Atezolizumabe é um anticorpo monoclonal inibidor de PD-L1, comercializado no Brasil sob o nome Tecentriq.
+O modelo TxGNN prevê que pode ser eficaz para **adenocarcinoma do ligamento uterino (uterine ligament adenocarcinoma)**, mas **não há ensaios clínicos nem publicações** nos dados compilados para este relatório que apoiem diretamente essa previsão. Trata-se, portanto, de uma previsão exclusivamente do modelo.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
 | Indicação Original | Não consta nos dados locais |
-| Nova Indicação Prevista | Uterine ligament adenocarcinoma |
+| Nova Indicação Prevista | Adenocarcinoma do ligamento uterino (uterine ligament adenocarcinoma) |
 | Pontuação de Previsão TxGNN | 0.9993 |
 | Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
@@ -57,39 +56,15 @@ Essa previsão conta hoje com **1 ensaio clínico** de fase inicial, que não é
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação compilados para este relatório. Atezolizumabe é um anticorpo anti-PD-L1. Esse tipo de fármaco impede que o tumor use a via PD-L1/PD-1 para "desligar" os linfócitos T. Com isso, o sistema imune pode voltar a atacar as células tumorais.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Sabe-se que o atezolizumabe bloqueia o PD-L1, restaurando a atividade das células T contra o tumor. Em princípio, esse mecanismo poderia ser aplicável a adenocarcinomas do trato genital feminino.
 
-O carcinoma urotelial da uretra prostática tem a mesma histologia urotelial dos tumores de bexiga e do trato urinário superior. Esses tumores compartilham a biologia da via PD-L1/PD-1, o que torna a plausibilidade biológica alta. Por isso, a pontuação elevada do modelo é coerente com o mecanismo.
-
-Essa plausibilidade, porém, é uma inferência. Nenhum estudo compilado testou o atezolizumabe especificamente nesta localização. O único ensaio identificado é um estudo de fase 1b com várias neoplasias, no qual o atezolizumabe é usado em combinação com outro fármaco.
-
-## Evidências de Ensaios Clínicos
-
-| Número do Ensaio | Fase | Status | Participantes | Principais Achados |
-|---------|------|------|------|---------|
-| [NCT03170960](https://clinicaltrials.gov/study/NCT03170960) | Fase 1 | Ativo, sem recrutamento | 914 | Estudo de fase 1b, aberto e multicêntrico, de escalonamento de dose. Avalia cabozantinibe isolado ou combinado com atezolizumabe em tumores sólidos avançados ou metastáticos, incluindo coortes de carcinoma urotelial (bexiga, pelve renal, ureter e uretra). Mede segurança, tolerabilidade, eficácia preliminar e farmacocinética. Conclusão prevista para setembro de 2027. |
-
-Este estudo usa uma combinação de fármacos, então a contribuição isolada do atezolizumabe não pode ser separada. Ele também é de fase inicial e não é específico da uretra prostática.
-
-## Evidências da Literatura
-
-Atualmente não há literatura relacionada.
+No entanto, a pontuação muito alta do modelo (0,9993) não é sustentada por nenhuma evidência clínica nos dados disponíveis. A relação com a indicação original ainda não foi analisada, e a expressão de PD-L1 nesse tipo de tumor, que é raro, não está estabelecida. Qualquer vínculo seria uma extrapolação a partir de tumores ginecológicos em geral, e não evidência direta.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Detentor | Situação |
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
-| Registro 101000665 | TECENTRIQ | Produtos Roche Químicos e Farmacêuticos S.A. | Válido |
-
-## Citotoxicidade
-
-| Item | Conteúdo |
-|------|------|
-| Classificação de Citotoxicidade | Imunoterapia (anticorpo anti-PD-L1) |
-| Risco de Mielossupressão | Consulte as advertências e precauções na bula |
-| Classificação de Emetogenicidade | Consulte as advertências e precauções na bula |
-| Itens de Monitoramento | Consulte as advertências e precauções na bula |
-| Proteção no Manuseio | Consulte as advertências e precauções na bula |
+| Registro 101000665 | TECENTRIQ | Não informada | Não registrada nos dados locais |
 
 ## Considerações de Segurança
 
@@ -100,13 +75,13 @@ Consulte a bula para informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-- O único ensaio é de fase 1b, em combinação e com várias neoplasias. Por isso, o nível de evidência é L5.
+- Não há ensaios clínicos nem literatura sobre esta doença específica; a previsão se apoia somente na pontuação do modelo, o que corresponde ao nível L5.
 
 **Para prosseguir, é necessário:**
-- Obter e analisar a bula da ANVISA (advertências e contraindicações), pois os dados de segurança locais estão ausentes e isso bloqueia a triagem de segurança.
-- Complementar os dados do mecanismo de ação a partir de uma fonte como o DrugBank.
-- Buscar estudos clínicos ou séries de casos que incluam especificamente tumores uroteliais da uretra prostática tratados com atezolizumabe.
-- Obter os resultados de eficácia da coorte urotelial do estudo NCT03170960 quando forem divulgados, para avaliar o sinal nesta localização.
+- Obter e analisar a bula aprovada pela ANVISA (advertências e contraindicações), hoje ausente dos dados.
+- Complementar os dados de mecanismo de ação a partir de fonte especializada, como o DrugBank.
+- Realizar busca dirigida de estudos clínicos e literatura sobre este tipo tumoral, incluindo séries de casos e dados de expressão de PD-L1.
+- Avaliar a viabilidade de estudos exploratórios (por exemplo, biomarcadores de PD-L1) antes de qualquer decisão de desenvolvimento.
 
 <!-- review:begin log -->
 

@@ -39,7 +39,9 @@ Nível de evidência: **L5** | Indicações previstas: **8**
 
 ## Resumo em Uma Frase
 
-A acetonida de triamcinolona é um glicocorticoide com registros ativos no Brasil. O modelo TxGNN prevê que pode ser eficaz para **alopecia mucinosa (alopecia mucinosa)**, mas **não há ensaios clínicos** e apenas **2 publicações** (dois relatos de caso, nenhum avaliando a triamcinolona) se relacionam a essa direção.
+A acetonida de triancinolona é um glicocorticoide, com registros no Brasil como corticoide de uso tópico e sistêmico.
+O modelo TxGNN prevê que pode ser eficaz para **Alopecia mucinosa (alopecia mucinosa)**,
+mas há **nenhum ensaio clínico** e apenas **2 publicações** (relatos de caso) associadas a esta direção, e nenhuma delas documenta o uso de triancinolona.
 
 ## Visão Geral Rápida
 
@@ -55,11 +57,11 @@ A acetonida de triamcinolona é um glicocorticoide com registros ativos no Brasi
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Sabe-se que a acetonida de triamcinolona pertence à classe dos glicocorticoides, de ação anti-inflamatória e imunossupressora, aplicada por via tópica, intralesional ou em outras vias.
+Atualmente, não há dados detalhados sobre o mecanismo de ação deste fármaco nos dados compilados para este relatório. Pelo que se sabe da classe, a triancinolona é um glicocorticoide com atividade anti-inflamatória e imunossupressora.
 
-A mucinose folicular (alopecia mucinosa) é um distúrbio inflamatório do folículo piloso. Por isso, a ação anti-inflamatória de um corticoide aplicado na lesão é biologicamente plausível. Trata-se, porém, de uma hipótese: a literatura recuperada não avalia a triamcinolona nessa doença.
+A mucinose folicular (alopecia mucinosa) é caracterizada por infiltrado inflamatório perifolicular e acúmulo de mucina. Em princípio, um corticoide poderia reduzir essa inflamação, e isso sustenta a plausibilidade da previsão do modelo.
 
-A pontuação muito alta do TxGNN reflete uma previsão computacional, não evidência clínica. Não há ensaios clínicos e os dois artigos encontrados são relatos de caso: um sobre gel de bexaroteno em mucinose folicular idiopática e outro, de 1964, que descreve um caso da doença. Como nenhum estudo avalia o fármaco nessa doença, o nível de evidência é L5.
+Essa relação, porém, é inferida apenas pela classe do fármaco. A literatura recuperada não descreve o uso de triancinolona nesta doença: um relato de caso trata do gel de bexaroteno em mucinose folicular idiopática, e o outro é um relato antigo (1964) sem resumo disponível. Por isso, nenhum estudo citado avalia diretamente o fármaco na doença, e o nível de evidência é L5.
 
 ## Evidências de Ensaios Clínicos
 
@@ -69,20 +71,20 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [23968145](https://pubmed.ncbi.nlm.nih.gov/23968145/) | 2014 | Relato de caso | International Journal of Dermatology | Primeiro relato de gel de bexaroteno a 1% tratando com sucesso mucinose folicular idiopática persistente, sem associação com linfoma cutâneo de células T. Não envolve triamcinolona. |
-| [14170262](https://pubmed.ncbi.nlm.nih.gov/14170262/) | 1964 | Relato de caso | Hifuka Kiyo. Acta Dermatologica | Descrição de um caso de alopecia mucinosa de Pinkus (mucinose folicular de Jablonska). Sem resumo disponível e sem avaliação da triamcinolona. |
+| [23968145](https://pubmed.ncbi.nlm.nih.gov/23968145/) | 2014 | Relato de caso | International Journal of Dermatology | Primeiro relato de uso de gel de bexaroteno 1% com sucesso em mucinose folicular idiopática persistente, sem associação com linfoma cutâneo de células T; não envolve triancinolona |
+| [14170262](https://pubmed.ncbi.nlm.nih.gov/14170262/) | 1964 | Relato de caso | Hifuka Kiyo. Acta Dermatologica | Relato de um caso de alopecia mucinosa (Pinkus); sem resumo disponível |
 
 ## Informações de Comercialização no Brasil
 
-Há pelo menos 20 registros e a lista pode estar incompleta. Dos 20 listados, 19 estão válidos e 1 está cancelado. Abaixo, os principais registros de produtos de ingrediente único.
+A lista abaixo pode ser parcial: há pelo menos 20 registros, dos quais 19 válidos e 1 cancelado.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
-| 154230127 | Oncicream-A | Não informada | Glicocorticoides tópicos, associação medicamentosa |
-| 102350735 | Acetonida de Triancinolona | Não informada | Glicocorticoides tópicos simples, exceto uso oftálmico |
-| 143810148 | Colujet | Não informada | Glicocorticoides tópicos simples, exceto uso oftálmico |
-| 186200013 | Allenasal | Não informada | Glicocorticoides sistêmicos |
-| 117240005 | Opthaac 40 | Não informada | Outros medicamentos com ação no aparelho visual |
+| 154230127 | ONCICREM-A | Não informada | Glicocorticoides tópicos - associação medicamentosa |
+| 102350735 | Acetonida de triancinolona | Não informada | Glicocorticoides tópicos simples, exceto uso oftálmico |
+| 143810148 | COLUJET | Não informada | Glicocorticoides tópicos simples, exceto uso oftálmico |
+| 186200013 | ALLENASAL | Não informada | Glicocorticoides sistêmicos |
+| 117240005 | OPTHAAC 40 | Não informada | Outros medicamentos com ação no aparelho visual |
 
 ## Considerações de Segurança
 
@@ -93,13 +95,13 @@ Consulte a bula para informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão se baseia apenas no modelo: não há ensaios clínicos e os dois relatos de caso não avaliam a triamcinolona em alopecia mucinosa, o que mantém o nível de evidência em L5.
+- Nenhum estudo disponível avalia a triancinolona na alopecia mucinosa; há apenas dois relatos de caso, nenhum com o fármaco. A pontuação elevada do modelo não é sustentada por evidência clínica.
 
 **Para prosseguir, é necessário:**
-- Revisão da literatura específica sobre triamcinolona (intralesional ou tópica) em mucinose folicular.
-- Dados do mecanismo de ação e das advertências e contraindicações da bula na ANVISA.
-- Avaliação de segurança, incluindo o risco de atrofia cutânea no couro cabeludo.
-- Definição da via de administração e da forma farmacêutica adequadas a essa indicação.
+- Revisão da literatura específica sobre corticoides intralesionais ou tópicos (incluindo triancinolona) em mucinose folicular
+- Dados do mecanismo de ação e das advertências e contraindicações da bula da ANVISA
+- Avaliação da compatibilidade de via de administração e forma farmacêutica
+- Se houver interesse, séries de casos ou estudo exploratório para gerar evidência direta
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

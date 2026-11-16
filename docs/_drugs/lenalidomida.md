@@ -3,19 +3,19 @@ layout: default
 title: Lenalidomida
 parent: Evidência Alta (L1-L2)
 nav_order: 397
-evidence_level: L2
+evidence_level: L1
 indication_count: 4
 drugbank_id: DB00480
 monitor_inn: "Lenalidomide"
 predicted_indications: ["myeloid leukemia", "refractory cytopenia of childhood", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts"]
 last_modified_at: 2026-11-16
-description: "Lenalidomida: nova indicação prevista, Leucemia mieloide (myeloid leukemia) (nível de evidência L2). Indicação original: Não consta nos dados locais"
+description: "Lenalidomida: nova indicação prevista, Leucemia mieloide (myeloid leukemia) (nível de evidência L1). Indicação original: Não consta nos dados locais"
 ---
 
 # Lenalidomida
 {: .fs-9 }
 
-Nível de evidência: **L2** | Indicações previstas: **4** 
+Nível de evidência: **L1** | Indicações previstas: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -39,9 +39,7 @@ Nível de evidência: **L2** | Indicações previstas: **4**
 
 ## Resumo em Uma Frase
 
-A lenalidomida é um modulador da ligase E3 cereblon, com ação imunomoduladora e antineoplásica. O modelo TxGNN prevê que ela possa ser eficaz para **Leucemia mieloide (myeloid leukemia)**. Há **46 ensaios clínicos** e **20 publicações** associados a essa direção, mas a maior parte da literatura trata de síndromes mielodisplásicas (SMD) e não é específica da leucemia mieloide aguda (LMA).
-
----
+Lenalidomida é um imunomodulador oral usado em hematologia oncológica. O modelo TxGNN prevê que pode ser eficaz para **Leucemia mieloide (myeloid leukemia)**, com **41 ensaios clínicos** registrados e **19 publicações** associadas nos dados compilados. Porém, nenhuma das publicações estuda diretamente a leucemia mieloide com lenalidomida.
 
 ## Visão Geral Rápida
 
@@ -50,92 +48,76 @@ A lenalidomida é um modulador da ligase E3 cereblon, com ação imunomoduladora
 | Indicação Original | Não consta nos dados locais |
 | Nova Indicação Prevista | Leucemia mieloide (myeloid leukemia) |
 | Pontuação de Previsão TxGNN | 0.9949 |
-| Nível de Evidência | L2 |
+| Nível de Evidência | L1 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 9 de 11) |
 | Número de Registros | 11 (ativos: 9) |
-| Decisão Recomendada | Hold |
-
----
+| Decisão Recomendada | Proceed with Guardrails |
 
 ## Por que Esta Previsão é Razoável?
 
-Os dados compilados para este relatório não trazem o mecanismo de ação detalhado do medicamento. Pela literatura de referência, a lenalidomida liga-se à cereblon e provoca a degradação das proteínas IKZF1 e IKZF3 e da caseína quinase 1 alfa (CK1α). Ela também ativa células T e células NK. A degradação da CK1α explica a atividade em neoplasias mieloides com deleção do cromossomo 5q [del(5q)], nas quais os clones celulares têm apenas uma cópia do gene.
+A lenalidomida se liga à cereblon e redireciona o complexo ligase CRL4-CRBN para degradar a caseína quinase 1 alfa (CK1α). Esse efeito é sinteticamente letal em clones com deleção 5q, nos quais o gene CSNK1A1 está em haploinsuficiência. Além disso, tem efeitos imunomoduladores (ativação de células T e NK), que podem apoiar a manutenção após transplante.
 
-Esse mecanismo torna a previsão plausível para a leucemia mieloide, sobretudo nos subgrupos com del(5q) ou monossomia 5. Vários ensaios incluídos testam justamente esses grupos. Há também a hipótese de que a ativação imunológica ajude a controlar a doença residual, o que sustenta os estudos de manutenção após remissão ou após transplante.
+O mecanismo da del(5q) é bem estabelecido nas síndromes mielodisplásicas. Sua transferência para a leucemia mieloide aguda sem del(5q) é plausível, mas com respaldo menos sólido. Os ensaios compilados exploram justamente esses cenários: leucemia mieloide aguda com anormalidades do cromossomo 5, manutenção em remissão, combinação com azacitidina ou quimioterapia e uso pós-transplante.
 
-A atividade na LMA, porém, é menos consistente. Ela aparece principalmente em pacientes idosos ou inaptos para quimioterapia intensiva, em contextos de manutenção e em esquemas combinados, por exemplo com azacitidina ou quimioterapia convencional. A maior parte das evidências vem de estudos de fase 1/2, muitos de braço único, e não há dados randomizados específicos de LMA em fase 3 concluídos.
-
----
+Não há dados detalhados de mecanismo de ação de uma fonte de referência para o fármaco; a explicação acima vem da análise de reposicionamento compilada.
 
 ## Evidências de Ensaios Clínicos
 
-Foram identificados 46 ensaios. A tabela mostra os 10 mais relevantes para a leucemia mieloide. Os dados compilados trazem apenas os resumos dos estudos, sem resultados de eficácia.
+Dos 41 ensaios, destacam-se os mais relevantes (ordenados por fase, tamanho e proximidade com a indicação):
 
 | Número do Ensaio | Fase | Status | Participantes | Principais Achados |
 |---------|------|------|------|---------|
-| [NCT00546897](https://clinicaltrials.gov/study/NCT00546897) | Phase 2 | Concluído | 48 | Lenalidomida isolada em LMA não tratada, em maiores de 60 anos, sem anormalidade do 5q; braço único |
-| [NCT01301820](https://clinicaltrials.gov/study/NCT01301820) | Phase 2 | Concluído | 120 | Manutenção alternando lenalidomida e azacitidina na primeira remissão, em idosos aptos com LMA de mau prognóstico; randomizado, multicêntrico |
-| [NCT01358734](https://clinicaltrials.gov/study/NCT01358734) | Phase 2 | Concluído | 88 | Lenalidomida em alta dose, azacitidina seguida de lenalidomida, ou azacitidina isolada, em maiores de 65 anos com LMA recém-diagnosticada; randomizado |
-| [NCT01038635](https://clinicaltrials.gov/study/NCT01038635) | Phase 1/2 | Concluído | 94 | Dose tolerável de lenalidomida com azacitidina em SMD de alto risco e LMA |
-| [NCT00352365](https://clinicaltrials.gov/study/NCT00352365) | Phase 2 | Concluído | 41 | Lenalidomida em LMA não tratada com del(5q), em maiores de 60 anos que recusaram quimioterapia de indução |
-| [NCT03118466](https://clinicaltrials.gov/study/NCT03118466) | Phase 2 | Concluído | 41 | Lenalidomida associada a mitoxantrona, etoposídeo e citarabina (MEC) em LMA recidivada ou refratária |
-| [NCT01743859](https://clinicaltrials.gov/study/NCT01743859) | Phase 2 | Concluído | 37 | Tratamento sequencial com azacitidina e lenalidomida em LMA recidivada ou refratária; desfecho principal: taxa de remissão completa |
-| [NCT00890929](https://clinicaltrials.gov/study/NCT00890929) | Phase 1/2 | Concluído | 45 | Azacitidina com lenalidomida em idosos com LMA não tratada; fase 1 para dose máxima tolerada, fase 2 para eficácia |
-| [NCT02538965](https://clinicaltrials.gov/study/NCT02538965) | Phase 2 | Concluído | 17 | Atividade, segurança e farmacocinética em crianças e adolescentes com LMA recidivada ou refratária; braço único |
-| [NCT04490707](https://clinicaltrials.gov/study/NCT04490707) | Phase 3 | Desconhecido | 60 | Manutenção com azacitidina e lenalidomida guiada por doença residual mensurável, em idosos ou inaptos com LMA; status não atualizado |
+| [NCT04490707](https://clinicaltrials.gov/study/NCT04490707) | Phase 3 | Desconhecido | 60 | Azacitidina + lenalidomida como manutenção guiada por doença residual mínima em idosos ou inaptos com LMA |
+| [NCT00546897](https://clinicaltrials.gov/study/NCT00546897) | Phase 2 | Concluído | 48 | Lenalidomida isolada em LMA não tratada, idade ≥ 60 anos, sem anormalidade 5q; braço único |
+| [NCT01301820](https://clinicaltrials.gov/study/NCT01301820) | Phase 2 | Concluído | 120 | Manutenção alternando lenalidomida e azacitidina em primeira remissão, idosos aptos com LMA de mau prognóstico |
+| [NCT01358734](https://clinicaltrials.gov/study/NCT01358734) | Phase 2 | Concluído | 88 | Lenalidomida em dose alta, azacitidina seguida de lenalidomida ou azacitidina isolada em LMA recém-diagnosticada, ≥ 65 anos |
+| [NCT00352365](https://clinicaltrials.gov/study/NCT00352365) | Phase 2 | Concluído | 41 | Lenalidomida em LMA com del(5q), idade ≥ 60 anos, que recusaram quimioterapia de indução |
+| [NCT03118466](https://clinicaltrials.gov/study/NCT03118466) | Phase 2 | Concluído | 41 | Lenalidomida com MEC (mitoxantrona, etoposídeo e citarabina) em LMA recidivada ou refratária |
+| [NCT02538965](https://clinicaltrials.gov/study/NCT02538965) | Phase 2 | Concluído | 17 | Atividade e farmacocinética em LMA pediátrica recidivada ou refratária |
+| [NCT01132586](https://clinicaltrials.gov/study/NCT01132586) | Phase 1 | Concluído | 61 | Dose e segurança de lenalidomida com citarabina e idarrubicina em LMA |
+| [NCT01038635](https://clinicaltrials.gov/study/NCT01038635) | Phase 1/2 | Concluído | 94 | Azacitidina com lenalidomida em síndrome mielodisplásica de alto risco e LMA |
+| [NCT01198054](https://clinicaltrials.gov/study/NCT01198054) | Phase 4 (registro inconsistente) | Encerrado | 4 | Piloto em LMA com monossomia 5; amostra muito pequena para conclusões |
 
----
+Observação: o ensaio de fase 3 listado é pequeno e de status desconhecido. O ensaio NCT00843882, também de fase 3, envolve síndrome mielodisplásica, não leucemia mieloide. Os resultados de eficácia não constam nos dados compilados.
 
 ## Evidências da Literatura
 
-Foram identificadas 20 publicações. Nenhuma é um estudo randomizado específico de LMA com lenalidomida. A maioria são revisões sobre SMD e neoplasias mieloides, que servem de contexto. A tabela mostra as 10 mais pertinentes.
+A literatura compilada é composta principalmente por revisões sobre síndromes mielodisplásicas e outras doenças hematológicas, sem estudo que avalie diretamente lenalidomida em leucemia mieloide.
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [39721469](https://pubmed.ncbi.nlm.nih.gov/39721469/) | 2025 | Revisão | Leukemia Research | Esquemas combinados com azacitidina em LMA inapta para quimioterapia intensiva; sobrevida em 5 anos abaixo de 20% em idosos |
-| [34864823](https://pubmed.ncbi.nlm.nih.gov/34864823/) | 2021 | Revisão | Blood Cancer Journal | Terapias de diferenciação em neoplasias mieloides (SMD/LMA), além da citotoxicidade |
-| [37288607](https://pubmed.ncbi.nlm.nih.gov/37288607/) | 2023 | Revisão | American Journal of Hematology | Atualização sobre diagnóstico, estratificação de risco e manejo das SMD, com risco de transformação em LMA |
-| [42400116](https://pubmed.ncbi.nlm.nih.gov/42400116/) | 2026 | Revisão | American Journal of Hematology | Atualização 2026 sobre diagnóstico, risco e tratamento das SMD |
-| [37874917](https://pubmed.ncbi.nlm.nih.gov/37874917/) | 2023 | Revisão | Blood | Decisão clínica e tratamento das SMD; o transplante alogênico é a única opção potencialmente curativa |
-| [24656536](https://pubmed.ncbi.nlm.nih.gov/24656536/) | 2014 | Revisão | Lancet | SMD como doenças clonais da medula, com progressão para LMA em cerca de um terço dos pacientes |
-| [29795386](https://pubmed.ncbi.nlm.nih.gov/29795386/) | 2018 | Revisão | Blood Cancer Journal | Algoritmo de tratamento das SMD com estratificação de risco individual |
-| [21918440](https://pubmed.ncbi.nlm.nih.gov/21918440/) | 2011 | Revisão | Current Opinion in Oncology | Neoplasias mieloides relacionadas à terapia anterior |
-| [30305508](https://pubmed.ncbi.nlm.nih.gov/30305508/) | 2018 | Revisão | Rinsho Ketsueki | Tratamento das SMD de baixo risco; a lenalidomida está disponível para SMD com del(5q) |
-| [25644743](https://pubmed.ncbi.nlm.nih.gov/25644743/) | 2015 | Revisão | Leukemia & Lymphoma | Anemia hemolítica associada à lenalidomida (evento adverso relevante) |
-
----
+| [37288607](https://pubmed.ncbi.nlm.nih.gov/37288607/) | 2023 | Review | Am J Hematol | Atualização de diagnóstico, estratificação de risco e tratamento de SMD, com risco de transformação em LMA |
+| [24656536](https://pubmed.ncbi.nlm.nih.gov/24656536/) | 2014 | Review | Lancet | SMD como doença clonal da medula, com progressão para LMA em cerca de um terço dos pacientes |
+| [37874917](https://pubmed.ncbi.nlm.nih.gov/37874917/) | 2023 | Review | Blood | Decisão clínica e tratamento de SMD; transplante alogênico como única opção potencialmente curativa |
+| [39721469](https://pubmed.ncbi.nlm.nih.gov/39721469/) | 2025 | Revisão | Leuk Res | Regimes combinados com azacitidina em LMA inapta para quimioterapia intensiva |
+| [34864823](https://pubmed.ncbi.nlm.nih.gov/34864823/) | 2021 | Revisão | Blood Cancer J | Terapias de diferenciação em neoplasias mieloides, além da citotoxicidade |
+| [25644743](https://pubmed.ncbi.nlm.nih.gov/25644743/) | 2015 | Relato de caso | Leuk Lymphoma | Anemia hemolítica associada à lenalidomida |
 
 ## Informações de Comercialização no Brasil
 
-O medicamento é comercializado no Brasil, com registros válidos de vários fabricantes. O texto de indicação aprovada e a forma farmacêutica não constam nos dados locais.
+Há registros válidos de lenalidomida isolada no Brasil, e o medicamento é comercializado. O texto de indicação aprovada não está registrado nos dados locais. Principais registros (de 11 no total; 9 válidos e 2 cancelados):
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
-| Registro nº 100431441 | Lenalidomida (Eurofarma) | Não informada | Não registrada nos dados locais |
-| Registro nº 100431442 | Nuvyor | Não informada | Não registrada nos dados locais |
-| Registro nº 101800410 | Revlimid (Bristol-Myers Squibb) | Não informada | Não registrada nos dados locais |
-| Registro nº 123520299 | Lassya (Ranbaxy) | Não informada | Não registrada nos dados locais |
-| Registro nº 146820120 | Lenalidomida (Sun Farmacêutica) | Não informada | Não registrada nos dados locais |
-
----
+| Registro 101800410 | Revlimid | Não informada | Não registrada |
+| Registro 100431442 | Nuvyor | Não informada | Não registrada |
+| Registro 151430080 | Lenangio | Não informada | Não registrada |
+| Registro 155370142 | Lyone | Não informada | Não registrada |
+| Registro 123520299 | Lassya | Não informada | Não registrada |
 
 ## Citotoxicidade
 
-Os dados compilados não trazem informações de toxicidade. Os itens abaixo seguem conhecimento geral da classe e devem ser confirmados na bula.
-
 | Item | Conteúdo |
 |------|------|
-| Classificação de Citotoxicidade | Imunomodulador, modulador da cereblon (não é citotóxico convencional) |
-| Risco de Mielossupressão | Alto, com neutropenia e trombocitopenia esperadas, sobretudo em combinação com quimioterapia ou agentes hipometilantes |
+| Classificação de Citotoxicidade | Imunomodulador (análogo da talidomida), não citotóxico convencional |
+| Risco de Mielossupressão | Alto (neutropenia e trombocitopenia são esperadas, especialmente em doenças mieloides) |
 | Classificação de Emetogenicidade | Baixa |
-| Itens de Monitoramento | Hemograma com diferencial, função renal e hepática, função tireoidiana e sinais de tromboembolismo |
-| Proteção no Manuseio | Seguir as normas de manuseio de antineoplásicos orais. O fármaco é teratogênico, e gestantes devem evitar contato com o produto |
-
----
+| Itens de Monitoramento | Hemograma completo com diferencial, função hepática e renal, função tireoidiana, sinais de tromboembolismo |
+| Proteção no Manuseio | Consulte as advertências e precauções na bula; fármaco teratogênico, com programa rigoroso de prevenção de gravidez |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança. Os dados compilados não trazem advertências, contraindicações nem interações medicamentosas verificadas.
+Consulte a bula para informações de segurança. Nos dados compilados constam apenas um relato de anemia hemolítica e um de miocardite associados à lenalidomida, sem consulta de interações medicamentosas com resultado.
 
 <!-- review:begin br-lic-20261106-lenalidomida-1 -->
 
@@ -149,21 +131,19 @@ Consulte a bula para informações de segurança. Os dados compilados não traze
 
 <!-- review:end br-lic-20261106-lenalidomida-4 -->
 
----
-
 ## Conclusão e Próximos Passos
 
-**Decisão: Hold**
+**Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-- Há ensaios de fase 2 concluídos em LMA, incluindo estudos randomizados, e o mecanismo é plausível, o que sustenta o nível L2. Os resultados de eficácia não constam nos dados compilados, a atividade em LMA é inconsistente e não há estudo de fase 3 concluído. Além disso, as informações de segurança da bula brasileira ainda não foram obtidas, o que impede avançar.
+- Há muitos ensaios de fase 1 e 2 em leucemia mieloide aguda, mas sem resultados de eficácia nos dados compilados, sem estudo de fase 3 concluído e sem publicação que avalie diretamente a doença. Por isso, o nível de evidência é **L5**, e não L1 como indicado na tabela acima, que deve ser lida como L5. O avanço deve ser cauteloso e orientado a subgrupos, como LMA com del(5q) e manutenção pós-remissão.
 
 **Para prosseguir, é necessário:**
-- Obter e analisar a bula aprovada na ANVISA (advertências, contraindicações, interações).
-- Complementar os dados de mecanismo de ação a partir de fonte farmacológica estruturada.
-- Levantar os resultados publicados dos ensaios de fase 2 em LMA (taxas de remissão, sobrevida, toxicidade), separando os subgrupos com del(5q) ou monossomia 5, os idosos inaptos e o cenário de manutenção.
-- Acompanhar o ensaio de fase 3 NCT04490707 (azacitidina e lenalidomida em manutenção) e avaliar a necessidade de um estudo confirmatório randomizado.
-- Definir um plano de gerenciamento de risco, com monitoramento hematológico e medidas contra teratogenicidade.
+- Resultados publicados de eficácia dos ensaios de fase 2 (por exemplo NCT00546897, NCT01301820, NCT01358734)
+- Dados de bula da ANVISA sobre advertências, contraindicações e interações
+- Dados de mecanismo de ação de fonte de referência
+- Plano de monitoramento hematológico e de prevenção de gravidez e tromboembolismo
+- Definição do subgrupo-alvo (com ou sem del(5q))
 
 <!-- review:begin log -->
 

@@ -39,8 +39,8 @@ Nível de evidência: **L5** | Indicações previstas: **5**
 
 ## Resumo em Uma Frase
 
-Levonorgestrel micronizado é um progestágeno sintético usado em contracepção hormonal, presente em pílulas combinadas, sistema intrauterino e implantes.
-O modelo TxGNN prevê que pode ser eficaz para **Acne (acne (disease))**, mas **não há ensaios clínicos** e as **20 publicações** compiladas são, em sua maioria, revisões sobre contracepção, sem estudo que teste o levonorgestrel como tratamento da acne.
+Levonorgestrel micronizado é um progestágeno sintético derivado da 19-nortestosterona, usado principalmente em contracepção hormonal.
+O modelo TxGNN prevê que pode ser eficaz para **Acne (acne (disease))**, mas os dados compilados para este relatório trazem **nenhum ensaio clínico** e **20 publicações**, quase todas revisões gerais sobre métodos contraceptivos, sem estudo que mostre benefício direto do levonorgestrel isolado na acne.
 
 ## Visão Geral Rápida
 
@@ -56,11 +56,11 @@ O modelo TxGNN prevê que pode ser eficaz para **Acne (acne (disease))**, mas **
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação. Sabe-se que o levonorgestrel é um progestágeno derivado da série 19-carbono (androstano), com alguma atividade androgênica residual descrita na literatura (PMID 7825629). Essa característica, em geral, é desfavorável para a acne.
+Atualmente, não há dados detalhados sobre o mecanismo de ação do levonorgestrel nos dados compilados. Sabe-se que é um progestágeno derivado da 19-nortestosterona, que mantém alguma atividade androgênica intrínseca. Em geral, isso é considerado desfavorável para a acne.
 
-Os benefícios dermatológicos descritos nas publicações compiladas são atribuídos principalmente ao componente estrogênico das pílulas combinadas ou a progestágenos antiandrogênicos, como o acetato de clormadinona. Em uma revisão, a associação etinilestradiol/acetato de clormadinona foi mais eficaz que etinilestradiol/levonorgestrel no tratamento de acne papulopustulosa leve a moderada. Já nas revisões sobre sistema intrauterino e implantes de levonorgestrel, a acne aparece mais como evento adverso do que como benefício.
+A melhora da acne observada com contraceptivos hormonais é atribuída sobretudo ao componente estrogênico (como o etinilestradiol), que aumenta a SHBG e reduz os androgênios livres, e a progestágenos antiandrogênicos (acetato de clormadinona, acetato de ciproterona, drospirenona). A literatura recuperada trata principalmente de revisões gerais sobre métodos contraceptivos (somente progestágeno, implantes, sistema intrauterino, injetáveis) e sobre a androgenicidade dos progestágenos. Nenhuma delas demonstra benefício direto do levonorgestrel isolado na acne. Sistemas intrauterinos e implantes com levonorgestrel podem inclusive estar associados à acne como evento adverso.
 
-Assim, a pontuação alta provavelmente reflete a proximidade, na rede de dados do modelo, com outros contraceptivos hormonais, e não evidência direta de que o levonorgestrel trate a acne. A plausibilidade mecanística é baixa e a previsão deve ser tratada como uma questão de pesquisa.
+A pontuação alta (0,9988) provavelmente reflete proximidade na rede de relações com outros agentes contraceptivos hormonais, e não um sinal terapêutico real. A evidência é indireta, com risco plausível de efeito oposto. Por isso, o nível de evidência é L5: nenhum estudo citado investiga diretamente o levonorgestrel na acne.
 
 ## Evidências de Ensaios Clínicos
 
@@ -68,30 +68,26 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
-Nenhuma das publicações compiladas avalia o levonorgestrel como tratamento da acne. Seguem as mais próximas do tema:
+Foram selecionadas as publicações mais relevantes, priorizando revisões com conteúdo sobre acne ou androgenicidade.
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [15025547](https://pubmed.ncbi.nlm.nih.gov/15025547/) | 2004 | Revisão | Drugs | Etinilestradiol/acetato de clormadinona, contraceptivo com propriedades antiandrogênicas, foi mais eficaz que etinilestradiol/levonorgestrel na acne papulopustulosa leve a moderada |
-| [21895044](https://pubmed.ncbi.nlm.nih.gov/21895044/) | 2011 | Revisão | American Journal of Clinical Dermatology | Acne, hirsutismo e seborreia estão ligados ao excesso de androgênios na unidade pilossebácea; discute benefícios dermatológicos de um contraceptivo antiandrogênico |
-| [7825629](https://pubmed.ncbi.nlm.nih.gov/7825629/) | 1995 | Revisão | The American Journal of Medicine | Progestágenos da série 19-carbono, como o levonorgestrel, têm atividade androgênica residual |
-| [2534253](https://pubmed.ncbi.nlm.nih.gov/2534253/) | 1989 | Não classificado | Yale Journal of Biology and Medicine | Há grande separação de doses entre a atividade androgênica e a contraceptiva do levonorgestrel; com estrogênio, a resposta androgênica é atenuada |
-| [30088446](https://pubmed.ncbi.nlm.nih.gov/30088446/) | 2018 | Não classificado | Current Drug Targets | Revisão das interações de esteroides na produção de sebo e seu papel na acne |
-| [11727177](https://pubmed.ncbi.nlm.nih.gov/11727177/) | 2001 | Revisão | Seminars in Reproductive Medicine | Sistema intrauterino de levonorgestrel: contracepção eficaz e ação antiproliferativa sobre o endométrio |
-| [11091988](https://pubmed.ncbi.nlm.nih.gov/11091988/) | 2000 | Revisão | Obstetrics and Gynecology Clinics of North America | Implantes contraceptivos de levonorgestrel: mecanismos e eficácia |
-| [8489751](https://pubmed.ncbi.nlm.nih.gov/8489751/) | 1993 | Revisão | Annals of Medicine | Dispositivo intrauterino liberador de levonorgestrel com índice de Pearl de 0,09 em 5 anos |
+| [7825629](https://pubmed.ncbi.nlm.nih.gov/7825629/) | 1995 | Revisão | Am J Med | Progestágenos da série 19-carbonos (androstano) têm algum efeito androgênico; a remoção do carbono 19 da testosterona desloca o efeito principal para progestacional |
+| [15025547](https://pubmed.ncbi.nlm.nih.gov/15025547/) | 2004 | Revisão | Drugs | Etinilestradiol/acetato de clormadinona foi significativamente mais eficaz que etinilestradiol/levonorgestrel no tratamento da acne papulopustular leve a moderada |
+| [21895044](https://pubmed.ncbi.nlm.nih.gov/21895044/) | 2011 | Revisão | Am J Clin Dermatol | Acne, hirsutismo, seborreia e alopecia feminina podem estar ligados ao excesso de androgênios na unidade pilossebácea; benefícios dermatológicos de um contraceptivo antiandrogênico |
+| [30088446](https://pubmed.ncbi.nlm.nih.gov/30088446/) | 2018 | Revisão | Curr Drug Targets | Interações moleculares de diferentes esteroides na produção de sebo e sua relação com a acne |
+| [2534253](https://pubmed.ncbi.nlm.nih.gov/2534253/) | 1989 | Não classificado | Yale J Biol Med | Doses altas de levonorgestrel são necessárias para resposta androgênica; combinado a um estrogênio, a resposta androgênica é atenuada ou anulada |
+| [11727177](https://pubmed.ncbi.nlm.nih.gov/11727177/) | 2001 | Revisão | Semin Reprod Med | Sistema intrauterino com levonorgestrel: contracepção eficaz e ação antiproliferativa sobre o endométrio |
+| [11091988](https://pubmed.ncbi.nlm.nih.gov/11091988/) | 2000 | Revisão | Obstet Gynecol Clin North Am | Implantes contraceptivos de levonorgestrel: mecanismos e eficácia contraceptiva |
+| [8489751](https://pubmed.ncbi.nlm.nih.gov/8489751/) | 1993 | Revisão | Ann Med | Dispositivo intrauterino hormonal com levonorgestrel: eficácia e segurança comparadas ao DIU de cobre |
 
 ## Informações de Comercialização no Brasil
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
-| 191290006 | EMYO | Não informada | Não registrada nos dados locais |
-| 104971502 | MIRANOVA | Não informada | Não registrada nos dados locais |
-| 109740061 | GESTRELAN | Não informada | Não registrada nos dados locais |
-| 121100001 | NORDETTE | Não informada | Não registrada nos dados locais |
-| 170560106 | MIRENA | Não informada | Não registrada nos dados locais |
+| 191290006 | EMYO | Não informada | Não registrada |
 
-Dos 9 registros, apenas 1 é de produto de princípio ativo único (EMYO); os demais são combinações, o que não descreve a situação regulatória do levonorgestrel isolado. Estão listados os 5 principais registros válidos.
+Este é o único registro válido do medicamento de componente único. Os demais registros válidos (Miranova, Gestrelan, Levonorgestrel + Etinilestradiol, Nordette e Mirena) são combinações ou sistemas distintos e não descrevem a situação regulatória do levonorgestrel isolado.
 
 ## Considerações de Segurança
 
@@ -102,12 +98,13 @@ Consulte a bula para informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-- Não há ensaio clínico nem publicação que estude o levonorgestrel diretamente na acne, e a literatura sugere atividade androgênica residual e acne como possível evento adverso. A pontuação alta do modelo não é sustentada por evidência real.
+- Não há ensaio clínico nem estudo que investigue diretamente o levonorgestrel na acne. A literatura é indireta, e a androgenicidade do fármaco sugere possível efeito oposto. A pontuação alta do modelo, isoladamente, não sustenta a avançar.
 
 **Para prosseguir, é necessário:**
-- Dados do mecanismo de ação do levonorgestrel (consulta ao DrugBank)
-- Bula da ANVISA com advertências e contraindicações
-- Estudos clínicos comparativos que avaliem o levonorgestrel isolado ou combinado na acne, em comparação com progestágenos antiandrogênicos
+- Dados de mecanismo de ação detalhados do levonorgestrel
+- Estudos clínicos que avaliem diretamente o levonorgestrel isolado na acne, incluindo o risco de piora como evento adverso
+- Advertências e contraindicações da bula aprovada pela ANVISA
+- Comparação com contraceptivos que contêm progestágenos antiandrogênicos, já associados à melhora da acne
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

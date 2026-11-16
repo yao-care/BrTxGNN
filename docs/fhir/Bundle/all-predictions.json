@@ -2,7 +2,7 @@
   "resourceType": "Bundle",
   "id": "all-predictions",
   "type": "collection",
-  "timestamp": "2026-11-16T14:09:30.560523",
+  "timestamp": "2026-11-16T14:34:44.623545",
   "total": 575,
   "link": [
     {
@@ -20766,7 +20766,7 @@
         "extension": [
           {
             "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L4"
+            "valueCode": "L3"
           }
         ]
       }
@@ -21766,7 +21766,7 @@
         "extension": [
           {
             "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L5"
+            "valueCode": "L4"
           }
         ]
       }
@@ -22366,7 +22366,7 @@
         "extension": [
           {
             "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L2"
+            "valueCode": "L1"
           }
         ]
       }

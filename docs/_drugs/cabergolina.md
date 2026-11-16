@@ -9,7 +9,7 @@ drugbank_id: DB00248
 monitor_inn: "Cabergoline"
 predicted_indications: ["progeria-short stature-pigmented nevi syndrome", "pituitary cancer", "cerebral palsy, spastic quadriplegic", "glaucoma"]
 last_modified_at: 2026-11-16
-description: "Cabergolina: nova indicação prevista, Progeria-short stature-pigmented nevi syndrome (nível de evidência L5). Indicação original: Não consta nos dados locais"
+description: "Cabergolina: nova indicação prevista, Síndrome de progeria, baixa estatura e nevos pigmentados (progeria-short stature-pigmented nevi syndrome) (nível de evidência L5)."
 ---
 
 # Cabergolina
@@ -34,79 +34,76 @@ Nível de evidência: **L5** | Indicações previstas: **4**
 
 </div>
 
-## Cabergolina: Progeria-short stature-pigmented nevi syndrome
+## Cabergolina: Síndrome de progeria, baixa estatura e nevos pigmentados (progeria-short stature-pigmented nevi syndrome)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Cabergolina é um agonista do receptor dopaminérgico D2 com registros ativos no Brasil. O modelo TxGNN prevê que ela pode ser eficaz para **Adenocarcinoma hipofisário (pituitary adenocarcinoma (disease))**. Para essa previsão específica, não há ensaios clínicos registrados e há apenas **3 publicações** (relatos de caso, uma delas sem relação clara com o tema), ou seja, a evidência é fraca.
+Cabergolina é um fármaco que atua como agonista do receptor de dopamina D2 e está registrado no Brasil. O modelo TxGNN prevê que ele possa ser eficaz para a **síndrome de progeria, baixa estatura e nevos pigmentados (progeria-short stature-pigmented nevi syndrome)**, uma condição ultrarrara. Atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção, e a previsão se baseia apenas no modelo computacional.
+
+---
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
 | Indicação Original | Não consta nos dados locais |
-| Nova Indicação Prevista | Progeria-short stature-pigmented nevi syndrome |
+| Nova Indicação Prevista | Síndrome de progeria, baixa estatura e nevos pigmentados (progeria-short stature-pigmented nevi syndrome) |
 | Pontuação de Previsão TxGNN | 0.9906 |
 | Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 15 de 25) |
 | Número de Registros | 25 (ativos: 15) |
 | Decisão Recomendada | Hold |
 
+---
+
 ## Por que Esta Previsão é Razoável?
 
-A cabergolina é um agonista do receptor dopaminérgico D2. Ao ativar esse receptor, suprime a secreção de prolactina e pode limitar o crescimento de tumores lactotróficos. Os dados compilados para este relatório não trazem uma descrição detalhada do mecanismo de ação do fármaco; o que se descreve aqui é o mecanismo farmacológico geral da classe.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos registros compilados para este relatório. Sabe-se que a cabergolina é um agonista potente do receptor de dopamina D2.
 
-A expressão de receptores D2 em tumores hipofisários dá uma base plausível para se considerar seu uso em tumores agressivos ou carcinomas da hipófise. Trata-se, porém, de uma hipótese mecanística: nenhum estudo citado investiga diretamente o adenocarcinoma hipofisário.
+A pontuação do TxGNN é alta (0,9906), mas trata-se de uma previsão puramente computacional. Não há ensaios clínicos, literatura ou via biológica conhecida que conecte o mecanismo dopaminérgico à fisiopatologia da doença.
 
-A literatura associada a esta previsão é composta apenas por relatos de caso: um sobre hipersecreção ectópica de corticotrofina tratada com octreotida ou cabergolina, um sobre adenocarcinoma pancreático em paciente que usava cabergolina por adenoma hipofisário e um sobre neoplasia endócrina múltipla com variante do gene MEN1 de significado incerto. Os dois últimos não têm relevância clara para a indicação prevista. A evidência é, portanto, indireta e anedótica.
+Por isso, a previsão deve ser vista como uma hipótese a investigar, sem respaldo experimental ou clínico até o momento. A pontuação alta, por si só, não permite concluir que o fármaco seja útil nesta condição.
+
+---
 
 ## Evidências de Ensaios Clínicos
 
-Atualmente não há ensaios clínicos relacionados registrados para esta previsão.
+Atualmente não há ensaios clínicos relacionados registrados.
+
+---
 
 ## Evidências da Literatura
 
-| PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|------|---------|
-| [20497940](https://pubmed.ncbi.nlm.nih.gov/20497940/) | 2010 | Relato de caso | Endocrine Practice | Resposta da corticotrofina ao uso prolongado de octreotida ou cabergolina em paciente com secreção ectópica após adrenalectomia; indireta para a indicação |
-| [33569966](https://pubmed.ncbi.nlm.nih.gov/33569966/) | 2021 | Relato de caso | Revista Española de Enfermedades Digestivas | Linfangiectasia duodenal como primeiro sinal de adenocarcinoma pancreático em paciente com adenoma hipofisário tratada com cabergolina; sem relação com a indicação |
-| [41760078](https://pubmed.ncbi.nlm.nih.gov/41760078/) | 2026 | Relato de caso | Medicine | Neoplasia endócrina múltipla com curso clínico atípico e variante do gene MEN1 de significado incerto; sem relação clara com a indicação |
+Atualmente não há literatura relacionada.
+
+---
 
 ## Informações de Comercialização no Brasil
 
-Há registros ativos de cabergolina isolada no Brasil, de diversos fabricantes. Os dados locais não trazem texto de indicação aprovada nem forma farmacêutica para esses registros. Parte dos registros está cancelada.
+O fármaco consta como comercializado no Brasil, com registros válidos de produtos de princípio ativo único, entre eles Dostinex, Caberedux e Cabertrix, além de versões genéricas. Os dados compilados não trazem o texto de indicação aprovada nem a forma farmacêutica dos registros.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| 100431274 | Cabergolina | Não informada | Não informada |
-| 102980410 | Caberedux | Não informada | Não informada |
-| 121100412 | Dostinex | Não informada | Não informada |
-| 122140091 | Cabertrix | Não informada | Não informada |
-| 125680257 | Cabergolina | Não informada | Não informada |
-
-## Citotoxicidade
-
-Não se aplica: a cabergolina não é um antineoplásico citotóxico convencional, e a seção foi omitida.
+---
 
 ## Considerações de Segurança
 
 Consulte a bula para informações de segurança.
 
-Pontos de atenção da literatura compilada: relatos de glaucoma de ângulo fechado bilateral associado à cabergolina e, em outras indicações em estudo, necessidade de monitorar valvulopatia cardíaca em doses mais altas e transtornos do controle de impulsos.
+---
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-- Não há ensaios clínicos nem estudos que investiguem diretamente o adenocarcinoma hipofisário; as três publicações são relatos de caso, dois deles sem relevância clara. Por isso, o nível de evidência é L5, apesar da pontuação alta do modelo (0,9906).
+- A previsão não tem nenhum estudo clínico ou publicação que a sustente, e não há vínculo mecanístico identificável, o que resulta em nível de evidência L5.
+- Uma pontuação alta do modelo, sem dados reais, não basta para avançar.
 
 **Para prosseguir, é necessário:**
-- Estudos que avaliem diretamente a cabergolina em carcinoma hipofisário verdadeiro (e não apenas em adenomas), com validação separada para doença metastática.
-- Dados detalhados do mecanismo de ação.
-- Bula do ANVISA com advertências e contraindicações, para a triagem de segurança.
-- Plano de monitoramento de valvulopatia cardíaca, transtornos do controle de impulsos e eventos oculares.
+- Estabelecer uma hipótese biológica plausível entre a via dopaminérgica D2 e a fisiopatologia desta síndrome.
+- Realizar uma busca sistemática de relatos de caso, estudos pré-clínicos ou dados de mecanismo específicos para esta doença.
+- Obter os dados de mecanismo de ação e as advertências e contraindicações da bula na ANVISA para triagem de segurança.
+- Avaliar a viabilidade de estudos pré-clínicos em modelos celulares ou animais antes de qualquer proposta clínica.
 
 <!-- review:begin log -->
 
