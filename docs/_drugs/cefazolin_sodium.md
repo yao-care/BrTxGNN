@@ -1,55 +1,16 @@
 ---
-noindex: true
+layout: id_redirect
+permalink: /drugs/cefazolin-sodium/
 sitemap: false
-layout: default
-title: Cefazolin Sodium
-parent: Apenas usos conhecidos (sem novas previsões)
-nav_order: 205
-last_modified_at: 2026-10-29
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+search_exclude: true
+nav_exclude: true
 ---
-
-# Cefazolin Sodium
-{: .fs-9 }
-
-Nível de evidência: **N/A** | Indicações previstas: **0** 
-{: .fs-6 .fw-300 }
-
----
-
-## Índice
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
-<div id="pharmacist" markdown="1">
-
-## Relatório de avaliação farmacêutica
-
-</div>
-
-## Cefazolin Sodium
-{: .text-alpha }
-
-## Visão Geral Rápida
-
-| Item | Conteúdo |
-|------|----------|
-| Indicação Original | CEFALOSPORINAS; ANTIBIOTICOS SISTEMICOS SIMPLES |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 7 de 8) |
-| Número de Registros | 8 (ativos: 7) |
-
----
-
-## Aviso de isenção de responsabilidade
-
-Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
-É necessária validação clínica antes de qualquer aplicação clínica.
-
----
-
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<title>Redirecting&hellip;</title>
+<link rel="canonical" href="{{ site.url }}/drugs/cefazolin/">
+<meta http-equiv="refresh" content="0; url=/drugs/cefazolin/">
+<script>location="/drugs/cefazolin/"</script>
+<a href="/drugs/cefazolin/">/drugs/cefazolin/</a>
+</html>

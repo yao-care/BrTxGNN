@@ -1,111 +1,16 @@
 ---
-noindex: true
+layout: id_redirect
+permalink: /drugs/bupivacaine-monohydrate-hydrochloride/
 sitemap: false
-layout: default
-title: Bupivacaine Monohydrate Hydrochloride
-parent: Apenas Predição do Modelo (L5)
-nav_order: 164
-evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-11-12
-predicted_indications: []
+search_exclude: true
+nav_exclude: true
 ---
-
-# Bupivacaine Monohydrate Hydrochloride
-{: .fs-9 }
-
-Nível de evidência: **L5** | Indicações previstas: **0** 
-{: .fs-6 .fw-300 }
-
----
-
-## Índice
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
-<div id="pharmacist" markdown="1">
-
-## Relatório de avaliação farmacêutica
-
-</div>
-
-## Bupivacaína Monohidrato Cloridrato: Avaliação de Reposicionamento Inconclusiva — Sem Previsões TxGNN Disponíveis
-{: .text-alpha }
-
----
-
-## Resumo em Uma Frase
-
-Bupivacaína monohidrato cloridrato é a forma salina da bupivacaína, anestésico local de longa duração utilizado em anestesia regional e bloqueios nervosos. O modelo TxGNN **não gerou nenhuma previsão de reposicionamento** para este composto na execução atual. Sem indicações previstas e sem dados regulatórios no Brasil, a avaliação completa não pode ser realizada neste momento.
-
----
-
-## Visão Geral Rápida
-
-| Item | Conteúdo |
-|------|------|
-| Indicação Original | Não disponível neste pacote de evidências |
-| Nova Indicação Prevista | Nenhuma (modelo TxGNN sem saída) |
-| Pontuação de Previsão TxGNN | N/A |
-| Nível de Evidência | — |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 12 de 12) |
-| Número de Registros | 12 (ativos: 12) |
-| Decisão Recomendada | Hold |
-
----
-
-## Considerações de Segurança
-
-Consulte a bula para informações de segurança.
-
----
-
-## Conclusão e Próximos Passos
-
-**Decisão: Hold**
-
-**Justificativa:**
-O modelo TxGNN não produziu nenhuma previsão de reposicionamento para Bupivacaína Monohidrato Cloridrato nesta execução.
-
-<!-- review:begin br-lic-20261106-bupivacaine_monohydrate_hydrochloride-1 -->
-
-> **Correção de verificação (2026-11-06)**: Texto original: “O modelo TxGNN não produziu nenhuma previsão de reposicionamento para Bupivacaína Monohidrato Cloridrato nesta execução, e o fármaco não possui registro de comercialização no Brasil, tornando inviável o avanço da análise com os dados atuais.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 12 registros para este medicamento, 12 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-lic-20261106-bupivacaine_monohydrate_hydrochloride-1 -->
-
-**Para prosseguir, é necessário:**
-- Verificar se o identificador do fármaco está correto — confirmar se `BUPIVACAINE MONOHYDRATE HYDROCHLORIDE` deve ser normalizado para `BUPIVACAINE` no pipeline de mapeamento TxGNN
-- Obter o DrugBank ID correspondente para acessar MOA, categorias farmacológicas e dados de segurança (Data Gap DG002)
-- Baixar e analisar a bula ANVISA para preencher advertências, contraindicações e indicações originais (Data Gap DG001)
-- Reprocessar o candidato pelo TxGNN após correção do identificador para verificar se surgem previsões de reposicionamento
-
-<!-- review:begin br-lic-20261106-bupivacaine_monohydrate_hydrochloride-2 -->
-
-> **Correção de verificação (2026-11-06)**: Texto original: “Baixar e analisar a bula ANVISA/TFDA para preencher advertências, contraindicações e indicações originais (Data Gap DG001)” Removido: a afirmação contradizia os dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 12 registros para este medicamento, 12 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-lic-20261106-bupivacaine_monohydrate_hydrochloride-2 -->
-
-<!-- review:begin log -->
-
-## Registro de verificação
-
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
-
-| Data da verificação | Item | Ação | Fonte |
-|------|------|------|------|
-| 2026-11-06 | Removido: “e o fármaco não possui registro de comercialização no Brasil, tornando inviável o avanço da análise com os dados atuais” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-06 | Removido: “A/TFD” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-
-<!-- review:end log -->
-
-## Aviso de isenção de responsabilidade
-
-Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
-É necessária validação clínica antes de qualquer aplicação clínica.
-
----
-
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<title>Redirecting&hellip;</title>
+<link rel="canonical" href="{{ site.url }}/drugs/bupivacaine/">
+<meta http-equiv="refresh" content="0; url=/drugs/bupivacaine/">
+<script>location="/drugs/bupivacaine/"</script>
+<a href="/drugs/bupivacaine/">/drugs/bupivacaine/</a>
+</html>
