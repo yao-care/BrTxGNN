@@ -1,20 +1,21 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Leflunomida
 parent: Apenas Predição do Modelo (L5)
-nav_order: 396
+nav_order: 395
 evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-11-12
-predicted_indications: []
+indication_count: 2
+drugbank_id: DB01097
+monitor_inn: "Leflunomide"
+predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
+last_modified_at: 2026-11-16
+description: "Leflunomida: nova indicação prevista, Síndrome de braquidactilia-sindactilia (brachydactyly-syndactyly syndrome) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Leflunomida
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **0** 
+Nível de evidência: **L5** | Indicações previstas: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,53 +34,57 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-## Leflunomida: Avaliação de Reposicionamento — Dados Insuficientes para Previsão Completa
+## Leflunomida: Síndrome de braquidactilia-sindactilia (brachydactyly-syndactyly syndrome)
 {: .text-alpha }
 
-## Resumo
+## Resumo em Uma Frase
 
-No entanto, o Evidence Pack recebido não contém indicações originais registradas, mecanismo de ação (MOA) nem previsões de novas indicações pelo modelo TxGNN. Sem o campo `predicted_indications` preenchido, não é possível gerar um relatório completo de reposicionamento neste momento.
-
-<!-- review:begin br-lic-20261106-leflunomida-1 -->
-
-> **Correção de verificação (2026-11-06)**: Texto original: “Leflunomida (LEFLUNOMIDA) é um fármaco com 19 registros ativos no Brasil, confirmado como comercializado. No entanto, o Evidence Pack recebido não contém indicações originais registradas, mecanismo de ação (MOA) nem previsões de novas indicações pelo modelo TxGNN.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 19 registros para este medicamento, 7 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-lic-20261106-leflunomida-1 -->
+Leflunomida é um imunomodulador antiproliferativo, comercializado no Brasil.
+O modelo TxGNN prevê que pode ser eficaz para a **Síndrome de braquidactilia-sindactilia (brachydactyly-syndactyly syndrome)**, mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção; a previsão se baseia apenas na pontuação do modelo.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Não disponível nos dados recebidos |
-| Nova Indicação Prevista | Nenhuma previsão gerada pelo TxGNN |
-| Pontuação de Previsão TxGNN | — |
-| Nível de Evidência | L5 (sem estudos reais associados a nenhuma previsão) |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Síndrome de braquidactilia-sindactilia (brachydactyly-syndactyly syndrome) |
+| Pontuação de Previsão TxGNN | 0.9993 |
+| Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 7 de 19) |
 | Número de Registros | 19 (ativos: 7) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação. O DrugBank foi consultado com resultado positivo (1 registro encontrado), mas o `drugbank_id` não foi retornado no Evidence Pack, impedindo a recuperação do MOA. Adicionalmente, o campo `original_indications` está vazio e nenhuma indicação aprovada foi extraída dos 19 registros de licença.
+Os dados compilados para este relatório não trazem o mecanismo de ação detalhado do fármaco. Segundo informações conhecidas, a leflunomida, por meio do metabólito ativo teriflunomida, inibe a di-hidroorotato desidrogenase (DHODH), bloqueando a síntese de novo de pirimidinas em células de proliferação rápida, como os linfócitos.
 
-Sem MOA e sem `predicted_indications`, não é possível construir uma justificativa mecanística para nenhuma nova indicação candidata.
+A única sustentação para esta previsão é a pontuação elevada do modelo. Um elo biológico possível é que o gene DHODH está associado à síndrome de Miller (disostose acrofacial pós-axial), que envolve malformações de membros, e o metabolismo de pirimidinas é importante na morfogênese dos membros.
 
-## Considerações de Segurança
+Esse elo, porém, é frágil. Inibir a DHODH não deveria corrigir uma malformação estrutural congênita dos membros e, ao contrário, pode ser teratogênico. A leflunomida é contraindicada na gravidez e tem advertência de tarja para toxicidade embriofetal. A previsão provavelmente reflete um artefato do modelo, decorrente de genes ou vias compartilhadas, e não uma lógica terapêutica.
 
-Consulte a bula para informações de segurança.
+## Informações de Comercialização no Brasil
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| 100630311 | Leflunomida (Instituto Biochimico) | Não informada | Não registrada |
+| 102351087 | Leflunomida (EMS) | Não informada | Não registrada |
+| 102980396 | Leflunomida (Cristália) | Não informada | Não registrada |
+| 102980457 | Leflun | Não informada | Não registrada |
+| 183260442 | Arava | Não informada | Não registrada |
+
+Estes são 5 dos 7 registros válidos; há ainda 12 registros cancelados.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-O Evidence Pack não contém previsões TxGNN (`predicted_indications` está vazio) nem dados regulatórios detalhados das 19 licenças, o que impede qualquer análise de reposicionamento ou avaliação de segurança neste estágio.
+- Não há ensaios clínicos nem literatura para a doença prevista, e o nível de evidência é L5. O mecanismo da leflunomida (antiproliferativo, com risco teratogênico) não sustenta benefício em malformações congênitas de desenvolvimento.
 
 **Para prosseguir, é necessário:**
-- **[Bloqueante — DG001]** Baixar e analisar as bulas das 19 licenças registradas via ANVISA para extrair indicações aprovadas, advertências e contraindicações
-- **[Alta prioridade — DG002]** Recuperar o `drugbank_id` correto e obter o MOA via DrugBank API (a consulta retornou 1 resultado, mas o ID não foi capturado)
-- **[Bloqueante para o relatório]** Executar o pipeline TxGNN para gerar `predicted_indications` com pontuações, ensaios clínicos e literatura associada — sem esse campo, o relatório de reposicionamento não pode ser produzido
-- Reprocessar o Evidence Pack com os dados complementados e resubmeter para geração do relatório completo
+- Evidência clínica ou pré-clínica que estude diretamente a síndrome de braquidactilia-sindactilia.
+- Dados de mecanismo de ação e de segurança da bula da ANVISA (advertências e contraindicações), em especial sobre toxicidade embriofetal.
+- Avaliação de um elo mecanístico plausível, além da pontuação do modelo.
 
 <!-- review:begin log -->
 
@@ -89,7 +94,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “Leflunomida (LEFLUNOMIDA) é um fármaco com 19 registros ativos no Brasil, confirmado como comercializado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Leflunomida (LEFLUNOMIDA) é um fármaco com 19 registros ativos no Brasil, confirmado como comercializado” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

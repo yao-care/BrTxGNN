@@ -1,20 +1,21 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Atezolizumabe
 parent: Apenas Predição do Modelo (L5)
-nav_order: 86
+nav_order: 85
 evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-11-12
-predicted_indications: []
+indication_count: 6
+drugbank_id: DB11595
+monitor_inn: "Atezolizumab"
+predicted_indications: ["uterine ligament adenocarcinoma", "endocervical carcinoma", "adenoid cystic carcinoma of the cervix uteri", "uterine ligament serous adenocarcinoma", "signet ring cell variant cervical mucinous adenocarcinoma", "intestinal variant cervical mucinous adenocarcinoma"]
+last_modified_at: 2026-11-16
+description: "Atezolizumabe: nova indicação prevista, Uterine ligament adenocarcinoma (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Atezolizumabe
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **0** 
+Nível de evidência: **L5** | Indicações previstas: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,102 +34,79 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-## Atezolizumabe: Avaliação de Reposicionamento — Sem Previsão TxGNN Disponível
+## Atezolizumabe: Uterine ligament adenocarcinoma
 {: .text-alpha }
-
----
 
 ## Resumo em Uma Frase
 
-Atezolizumabe é um anticorpo monoclonal anti-PD-L1 (inibidor de checkpoint imunológico) utilizado no tratamento oncológico.
-O Evidence Pack atual **não contém previsões TxGNN** para novas indicações — o pipeline de predição não retornou candidatos para este fármaco.
-As lacunas de dados de severidade *Blocking* e *High* precisam ser corrigidas antes de qualquer análise de reposicionamento.
-
----
+Atezolizumabe é um anticorpo monoclonal que bloqueia o PD-L1, usado em oncologia e com registro ativo no Brasil.
+O modelo TxGNN prevê que ele pode ser eficaz para **Carcinoma urotelial da uretra prostática (prostatic urethra urothelial carcinoma)**.
+Essa previsão conta hoje com **1 ensaio clínico** de fase inicial, que não é específico para esta doença, e **nenhuma publicação** diretamente relacionada.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
-|------|----------|
-| Indicação Original | Não disponível no Evidence Pack |
-| Nova Indicação Prevista | Sem previsão TxGNN disponível |
-| Pontuação de Previsão TxGNN | — |
-| Nível de Evidência | N/D (nenhuma previsão gerada) |
+|------|------|
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Uterine ligament adenocarcinoma |
+| Pontuação de Previsão TxGNN | 0.9993 |
+| Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
 | Número de Registros | 1 (ativos: 1) |
-| Decisão Recomendada | **Hold** |
-
----
+| Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Esta seção não é aplicável no momento — o Evidence Pack não contém previsões TxGNN para atezolizumabe, e portanto não há relação de reposicionamento a avaliar.
+Atualmente, não há dados detalhados sobre o mecanismo de ação compilados para este relatório. Atezolizumabe é um anticorpo anti-PD-L1. Esse tipo de fármaco impede que o tumor use a via PD-L1/PD-1 para "desligar" os linfócitos T. Com isso, o sistema imune pode voltar a atacar as células tumorais.
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação no Evidence Pack. Com base em informações conhecidas, atezolizumabe é um anticorpo monoclonal humanizado da classe IgG1 que se liga à proteína PD-L1 (*Programmed Death-Ligand 1*), bloqueando sua interação com os receptores PD-1 e B7.1 nos linfócitos T. Este mecanismo desinibe a resposta imunológica antitumoral, potencialmente aplicável a qualquer neoplasia com expressão de PD-L1.
+O carcinoma urotelial da uretra prostática tem a mesma histologia urotelial dos tumores de bexiga e do trato urinário superior. Esses tumores compartilham a biologia da via PD-L1/PD-1, o que torna a plausibilidade biológica alta. Por isso, a pontuação elevada do modelo é coerente com o mecanismo.
 
-Para que a análise de reposicionamento possa ser conduzida, é necessário primeiro corrigir as lacunas de dados identificadas (DG001 e DG002) e reexecutar o pipeline TxGNN.
+Essa plausibilidade, porém, é uma inferência. Nenhum estudo compilado testou o atezolizumabe especificamente nesta localização. O único ensaio identificado é um estudo de fase 1b com várias neoplasias, no qual o atezolizumabe é usado em combinação com outro fármaco.
 
----
+## Evidências de Ensaios Clínicos
+
+| Número do Ensaio | Fase | Status | Participantes | Principais Achados |
+|---------|------|------|------|---------|
+| [NCT03170960](https://clinicaltrials.gov/study/NCT03170960) | Fase 1 | Ativo, sem recrutamento | 914 | Estudo de fase 1b, aberto e multicêntrico, de escalonamento de dose. Avalia cabozantinibe isolado ou combinado com atezolizumabe em tumores sólidos avançados ou metastáticos, incluindo coortes de carcinoma urotelial (bexiga, pelve renal, ureter e uretra). Mede segurança, tolerabilidade, eficácia preliminar e farmacocinética. Conclusão prevista para setembro de 2027. |
+
+Este estudo usa uma combinação de fármacos, então a contribuição isolada do atezolizumabe não pode ser separada. Ele também é de fase inicial e não é específico da uretra prostática.
+
+## Evidências da Literatura
+
+Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-O fármaco consta como **comercializado** com **1 registro** no mercado brasileiro.
-
-<!-- review:begin br-lic-20261106-atezolizumabe-1 -->
-
-> **Correção de verificação (2026-11-06)**: Texto original: “O fármaco consta como **comercializado** com **1 registro** no mercado brasileiro. No entanto, os detalhes do registro (número, nome comercial, forma farmacêutica e indicação aprovada) **não estão disponíveis** no Evidence Pack atual — os campos retornaram vazios na consulta à base regulatória.” Removido: a descrição dos produtos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-lic-20261106-atezolizumabe-1 -->
-
----
+| Número de Registro | Nome Comercial | Detentor | Situação |
+|---------|------|------|-----------|
+| Registro 101000665 | TECENTRIQ | Produtos Roche Químicos e Farmacêuticos S.A. | Válido |
 
 ## Citotoxicidade
 
-> Atezolizumabe é um antineoplásico da classe imunoterapia. Esta seção é exibida por se enquadrar nos critérios de fármaco antineoplásico.
-
 | Item | Conteúdo |
-|------|----------|
-| Classificação de Citotoxicidade | Imunoterapia — Inibidor de Checkpoint Imunológico (anti-PD-L1); **não** é citotóxico convencional |
-| Risco de Mielossupressão | Baixo (ação imunomediada; não suprime diretamente a medula óssea) |
-| Classificação de Emetogenicidade | Mínima |
-| Itens de Monitoramento | Função tireoidiana (TSH), enzimas hepáticas (ALT/AST), função pulmonar, glicemia, função suprarrenal, creatinina |
-| Proteção no Manuseio | Seguir protocolos de anticorpos monoclonais; sem risco de citotoxicidade por contato direto |
-
----
+|------|------|
+| Classificação de Citotoxicidade | Imunoterapia (anticorpo anti-PD-L1) |
+| Risco de Mielossupressão | Consulte as advertências e precauções na bula |
+| Classificação de Emetogenicidade | Consulte as advertências e precauções na bula |
+| Itens de Monitoramento | Consulte as advertências e precauções na bula |
+| Proteção no Manuseio | Consulte as advertências e precauções na bula |
 
 ## Considerações de Segurança
 
 Consulte a bula para informações de segurança.
-
-> As advertências e contraindicações constam como lacuna de dados de severidade **Blocking** (DG001). A remediação recomendada é o download e análise do PDF da bula disponível na base regulatória.
-
----
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-O Evidence Pack está incompleto em camadas críticas: nenhuma previsão TxGNN foi gerada e as informações de segurança apresentam lacunas classificadas como *Blocking* — tornando inviável qualquer recomendação de reposicionamento neste momento.
-
-<!-- review:begin br-lic-20261106-atezolizumabe-2 -->
-
-> **Correção de verificação (2026-11-06)**: Texto original: “O Evidence Pack está incompleto em camadas críticas: nenhuma previsão TxGNN foi gerada, os detalhes do registro regulatório estão vazios e as informações de segurança apresentam lacunas classificadas como *Blocking* — tornando inviável qualquer recomendação de reposicionamento neste momento.” Removido: a afirmação contradizia os dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-lic-20261106-atezolizumabe-2 -->
+- O único ensaio é de fase 1b, em combinação e com várias neoplasias. Por isso, o nível de evidência é L5.
 
 **Para prosseguir, é necessário:**
-- **[DG001 — Blocking]** Baixar e analisar o PDF da bula para obter advertências principais e contraindicações
-- **[DG002 — High]** Consultar a API do DrugBank para obter o DrugBank ID, MOA completo e categorias farmacológicas
-- **Reexecutar o pipeline TxGNN** para gerar candidatos de novas indicações — sem previsões, o relatório de reposicionamento não pode ser produzido
-- **Completar os dados de registro**: número de registro, nome comercial, forma farmacêutica e texto da indicação aprovada
-- **Após obtenção das previsões**, retornar para avaliação completa, incluindo análise de ensaios clínicos e literatura
-
-<!-- review:begin br-lic-20261106-atezolizumabe-3 -->
-
-> **Correção de verificação (2026-11-06)**: Texto original: “**[DG001 — Blocking]** Baixar e analisar o PDF da bula (ANVISA/TFDA) para obter advertências principais e contraindicações” Removido: texto residual do modelo taiwanês (TFDA), que não se aplica a esta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-lic-20261106-atezolizumabe-3 -->
+- Obter e analisar a bula da ANVISA (advertências e contraindicações), pois os dados de segurança locais estão ausentes e isso bloqueia a triagem de segurança.
+- Complementar os dados do mecanismo de ação a partir de uma fonte como o DrugBank.
+- Buscar estudos clínicos ou séries de casos que incluam especificamente tumores uroteliais da uretra prostática tratados com atezolizumabe.
+- Obter os resultados de eficácia da coorte urotelial do estudo NCT03170960 quando forem divulgados, para avaliar o sinal nesta localização.
 
 <!-- review:begin log -->
 
@@ -138,9 +116,9 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “No entanto, os detalhes do registro (número, nome comercial, forma farmacêutica e indicação aprovada) **não estão disponíveis** no Evidence ” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-06 | Removido: “os detalhes do registro regulatório estão vazios” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-06 | Removido: “(ANVISA/TFDA)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “No entanto, os detalhes do registro (número, nome comercial, forma farmacêutica e indicação aprovada) **não estão disponíveis** no Evidence ” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “os detalhes do registro regulatório estão vazios” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “(ANVISA/TFDA)” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

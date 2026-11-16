@@ -1,20 +1,21 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Paliperidona Palmitate
 parent: Apenas Predição do Modelo (L5)
-nav_order: 507
+nav_order: 505
 evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-10-28
-predicted_indications: []
+indication_count: 9
+drugbank_id: DB01267
+monitor_inn: "Paliperidone"
+predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "myopia X-linked", "syndromic myopia", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia 26, X-linked, female-limited", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "atypical glycine encephalopathy"]
+last_modified_at: 2026-11-16
+description: "Paliperidona Palmitate: nova indicação prevista, distrofia retiniana com ou sem anomalias extraoculares (retinal dystrophy with or without extraocular anomalies) (nível de evidência L5)."
 ---
 
 # Paliperidona Palmitate
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **0** 
+Nível de evidência: **L5** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,62 +34,57 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-## PALIPERIDONA PALMITATE: Avaliação de Reposicionamento — Dados Insuficientes para Previsão
+## Paliperidona Palmitate: distrofia retiniana com ou sem anomalias extraoculares (retinal dystrophy with or without extraocular anomalies)
 {: .text-alpha }
-
----
 
 ## Resumo em Uma Frase
 
-Paliperidona Palmitato é a formulação injetável de longa duração (LAI) da paliperidona — metabólito ativo da risperidona —, originalmente utilizada no tratamento da esquizofrenia e do transtorno esquizoafetivo.
-Neste ciclo de análise, o modelo TxGNN **não gerou nenhuma previsão de reposicionamento**, possivelmente em razão da ausência de DrugBank ID no Evidence Pack ou falha no mapeamento do composto.
-Não há ensaios clínicos nem publicações vinculados a novas indicações neste relatório.
-
----
+Paliperidona palmitato é um antipsicótico (classe dos neurolépticos) registrado no Brasil.
+O modelo TxGNN prevê que pode ser eficaz para **distrofia retiniana com ou sem anomalias extraoculares (retinal dystrophy with or without extraocular anomalies)**,
+mas **não há ensaios clínicos nem publicações** apoiando esta direção: trata-se apenas de uma previsão computacional.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
-|------|----------|
-| Indicação Original | Esquizofrenia / Transtorno esquizoafetivo (conhecimento clínico geral; sem registro ANVISA confirmado) |
-| Nova Indicação Prevista | Nenhuma previsão gerada neste ciclo |
-| Pontuação de Previsão TxGNN | N/D |
-| Nível de Evidência | N/D — sem previsão disponível |
+|------|------|
+| Indicação Original | NEUROLEPTICOS |
+| Nova Indicação Prevista | distrofia retiniana com ou sem anomalias extraoculares (retinal dystrophy with or without extraocular anomalies) |
+| Pontuação de Previsão TxGNN | 0.9992 |
+| Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 4) |
 | Número de Registros | 4 (ativos: 4) |
 | Decisão Recomendada | Hold |
 
----
-
 ## Por que Esta Previsão é Razoável?
 
-Não há previsão a avaliar neste ciclo. O Evidence Pack não contém indicações previstas pelo TxGNN, o que impede qualquer análise de reposicionamento fundamentada em dados do modelo.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. O que se sabe é que a paliperidona é um antagonista dos receptores dopaminérgicos D2 e serotoninérgicos 5-HT2A, mecanismo típico dos antipsicóticos atípicos.
 
-Com base no conhecimento clínico geral, a paliperidona palmitato é um éster de palmitato de paliperidona, administrado por via intramuscular em formulação de liberação prolongada (mensal ou trimestral). O mecanismo de ação da paliperidona envolve o antagonismo dos receptores dopaminérgicos D₂ e serotoninérgicos 5-HT₂A — perfil farmacológico compartilhado por outros antipsicóticos atípicos de segunda geração. Teoricamente, compostos com esse mecanismo têm sido investigados em condições como transtorno bipolar com características psicóticas, transtorno depressivo maior com características psicóticas e agitação relacionada à demência.
+Não foi estabelecida uma ligação mecanística plausível entre esse mecanismo e a degeneração retiniana hereditária. A previsão decorre exclusivamente de uma pontuação computacional, sem estudos, ensaios ou literatura que a sustentem. Por isso, a razoabilidade biológica desta previsão é, no momento, fraca e não deve ser interpretada como indício de eficácia.
 
-Contudo, sem DrugBank ID, sem MOA formalizado no Evidence Pack e sem previsões TxGNN, nenhuma análise de reposicionamento pode ser conduzida de forma confiável neste ciclo. As lacunas identificadas precisam ser resolvidas antes de avançar.
+## Informações de Comercialização no Brasil
 
----
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro 112363388 | INVEGA | Não informada | Neurolépticos |
+| Registro 122140135 | Palmitato de Paliperidona | Não informada | Neurolépticos |
+| Registro 122140136 | VEGAPALI | Não informada | Neurolépticos |
+| Registro 112363398 | INVEGA | Não informada | Neurolépticos |
 
 ## Considerações de Segurança
 
 Consulte a bula para informações de segurança.
-
----
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-O Evidence Pack está incompleto — ausência de DrugBank ID, nenhuma previsão TxGNN gerada, dados de segurança indisponíveis e nenhum registro no mercado brasileiro. Não há base suficiente para avaliar o potencial de reposicionamento neste ciclo.
+- Não há ensaios clínicos nem literatura sobre paliperidona na distrofia retiniana, o nível de evidência é L5 e não existe mecanismo plausível que sustente a previsão.
 
 **Para prosseguir, é necessário:**
-- Identificar e inserir o DrugBank ID correto para PALIPERIDONA PALMITATE (paliperidona: provavelmente DB06016; verificar se a forma palmitato possui ID próprio)
-- Re-executar o pipeline TxGNN com o DrugBank ID correto para gerar previsões de indicação
-- Obter dados de segurança (advertências principais, contraindicações) da bula oficial (ANVISA, FDA ou EMA)
-- Obter dados de MOA detalhados via DrugBank API
-- Verificar registro junto à ANVISA — o medicamento é comercializado em outros países (ex: Invega Sustenna®, Invega Trinza®) e pode ter sido submetido para registro no Brasil
+- Dados detalhados do mecanismo de ação (MOA) e análise de uma possível ligação com vias da degeneração retiniana
+- Estudos pré-clínicos que justifiquem qualquer investigação nesta direção
+- Informações de segurança da bula (advertências e contraindicações) registradas na ANVISA
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

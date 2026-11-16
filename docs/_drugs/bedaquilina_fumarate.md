@@ -1,20 +1,21 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Bedaquilina Fumarate
 parent: Apenas Predição do Modelo (L5)
-nav_order: 111
+nav_order: 110
 evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-11-12
-predicted_indications: []
+indication_count: 4
+drugbank_id: DB08903
+monitor_inn: "Bedaquiline"
+predicted_indications: ["vulvovaginal candidiasis", "fascioliasis", "urea cycle disorder", "esophageal candidiasis"]
+last_modified_at: 2026-11-16
+description: "Bedaquilina Fumarate: nova indicação prevista, Vulvovaginal candidiasis (nível de evidência L5). Indicação original: OUTROS MEDICAMENTOS USADOS NO TRATAMENTO DA TUBERCULOSE"
 ---
 
 # Bedaquilina Fumarate
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **0** 
+Nível de evidência: **L5** | Indicações previstas: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,66 +34,63 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-## Bedaquilina Fumarato: Avaliação de Candidato — Previsão de Reposicionamento Indisponível
+## Bedaquilina Fumarate: Vulvovaginal candidiasis
 {: .text-alpha }
 
-## Resumo
+## Resumo em Uma Frase
 
-Bedaquilina fumarato é um antibiótico diarylquinoline utilizado no tratamento da tuberculose resistente a múltiplos fármacos (MDR-TB). O modelo TxGNN **não gerou previsões de reposicionamento** para este fármaco nesta execução — provavelmente devido à ausência de mapeamento ao DrugBank ID e à falta de registros na base regulatória consultada. Esta avaliação é, portanto, **inconclusiva** e requer coleta de dados complementares antes de qualquer análise de reposicionamento.
-
----
+Bedaquilina fumarato é um antimicobacteriano usado no tratamento da tuberculose.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Tuberculose resistente a múltiplos fármacos (MDR-TB) |
-| Nova Indicação Prevista | Não disponível — sem previsões geradas nesta execução |
-| Pontuação de Previsão TxGNN | Não disponível |
-| Nível de Evidência | L5 (ausência de dados de previsão) |
+| Indicação Original | OUTROS MEDICAMENTOS USADOS NO TRATAMENTO DA TUBERCULOSE |
+| Nova Indicação Prevista | Vulvovaginal candidiasis |
+| Pontuação de Previsão TxGNN | 0.9988 |
+| Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
 | Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
----
+## Por que Esta Previsão é Razoável?
 
-## Por que as Previsões Não Foram Geradas?
+Atualmente, não há dados detalhados do mecanismo de ação registrados nos dados compilados para este relatório. Segundo informações conhecidas, a bedaquilina inibe a subunidade c da ATP sintase F1F0 das micobactérias, o que interrompe a produção de energia da bactéria.
 
-A ausência de previsões de reposicionamento nesta execução tem três causas prováveis, identificadas no log de consultas:
+O *Mycobacterium bovis*, agente da tuberculose bovina, pertence ao complexo *M. tuberculosis*. Por isso, é plausível que o fármaco atue sobre ele, já que o alvo molecular é semelhante. Essa proximidade biológica explica em grande parte a pontuação alta do modelo.
 
-**1. Falha no mapeamento ao DrugBank**
-A busca pelo nome "BEDAQUILINA FUMARATE" (grafia em português/espanhol) pode não ter encontrado correspondência ao identificador canônico no DrugBank. Sem um `drugbank_id` válido, o modelo TxGNN não consegue posicionar o fármaco no grafo de conhecimento para gerar predições.
+Ainda assim, os dados compilados não trazem nenhum estudo específico com *M. bovis*, nem em animais nem em humanos. A previsão é, portanto, uma hipótese baseada em semelhança com a tuberculose, sem confirmação direta.
 
-<!-- review:begin br-lic-20261106-bedaquilina_fumarate-1 -->
+## Evidências de Ensaios Clínicos
 
-> **Correção de verificação (2026-11-06)**: Texto original: “**2. Ausência de registro regulatório** / O fármaco não possui registros ativos na base regulatória consultada (total de registros: 0). Isso reduz a cobertura de dados de indicações aprovadas, que alimenta parte do pipeline de predição.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Na primeira correção a frase foi cortada em «2.», deixando um resto de texto; como todo o item (título e as duas frases) parte da premissa incorreta de que não há registro, em 2026-11-12 o item foi removido por inteiro. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+Atualmente não há ensaios clínicos relacionados registrados.
 
-<!-- review:end br-lic-20261106-bedaquilina_fumarate-1 -->
+## Evidências da Literatura
 
-**3. Lacunas críticas de dados**
-O mecanismo de ação (MOA) não foi recuperado nesta execução. Embora o log indique que a consulta ao DrugBank retornou 1 resultado, os dados não foram populados no Evidence Pack, configurando uma lacuna de dados de severidade "High" que afeta diretamente a análise de relacionamento mecanístico.
+| PMID | Ano | Tipo | Periódico | Principais Achados |
+|------|-----|------|------|---------|
+| [27210281](https://pubmed.ncbi.nlm.nih.gov/27210281/) | 2016 | Estudo in vitro | Medecine et maladies infectieuses | Avaliou como as condições de cultura in vitro influenciam a concentração inibitória mínima (CIM) da bedaquilina contra a cepa de referência *M. tuberculosis* H37Rv, visando um teste padronizado de sensibilidade. Não estuda *M. bovis*. |
 
----
+## Informações de Comercialização no Brasil
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro 112363422 | SIRTURO | Não informada | Outros medicamentos usados no tratamento da tuberculose |
+
+## Considerações de Segurança
+
+Consulte a bula para informações de segurança.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-O pipeline TxGNN não produziu previsões de reposicionamento por falhas de mapeamento e lacunas de dados que precisam ser resolvidas antes de qualquer análise ser possível. Não há base de evidências suficiente para avaliar nenhuma nova indicação neste momento.
 
 **Para prosseguir, é necessário:**
-- Remapear o fármaco usando o nome INN canônico em inglês (`bedaquiline`) e verificar o DrugBank ID correspondente
-- Recuperar o mecanismo de ação (MOA) via DrugBank API com o ID correto
-- Verificar o status de disponibilização no Brasil via canais de saúde pública (SUS/RENAME), que pode diferir do registro comercial ANVISA
-- Obter as advertências, contraindicações e interações medicamentosas da bula oficial
-- Re-executar o pipeline TxGNN com o mapeamento corrigido para gerar predições válidas
-
-<!-- review:begin br-lic-20261106-bedaquilina_fumarate-2 -->
-
-> **Correção de verificação (2026-11-06)**: Texto original: “Obter as advertências, contraindicações e interações medicamentosas da bula oficial (TFDA/ANVISA/EMA)” Removido: texto residual do modelo taiwanês (TFDA), que não se aplica a esta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-lic-20261106-bedaquilina_fumarate-2 -->
+- Estudos de sensibilidade in vitro com isolados de *M. bovis* e, se favoráveis, dados em modelos animais.
+- Dados de mecanismo de ação detalhados e dados de segurança da bula brasileira (advertências e contraindicações).
+- Avaliação da relevância clínica e epidemiológica da tuberculose bovina em humanos no contexto brasileiro.
 
 <!-- review:begin log -->
 
@@ -102,8 +100,8 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “Ausência de registro regulatório** O fármaco não possui registros ativos na base regulatória consultada (total de registros: 0)” | Corrigido (revisado em 2026-11-12; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-06 | Removido: “(TFDA/ANVISA/EMA)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Ausência de registro regulatório** O fármaco não possui registros ativos na base regulatória consultada (total de registros: 0)” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido (revisado em 2026-11-12; versão anterior guardada no registro)) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “(TFDA/ANVISA/EMA)” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

@@ -1,20 +1,21 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Paliperidona
 parent: Apenas Predição do Modelo (L5)
-nav_order: 506
+nav_order: 504
 evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-11-12
-predicted_indications: []
+indication_count: 9
+drugbank_id: DB01267
+monitor_inn: "Paliperidone"
+predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "myopia X-linked", "syndromic myopia", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia 26, X-linked, female-limited", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "atypical glycine encephalopathy"]
+last_modified_at: 2026-11-16
+description: "Paliperidona: nova indicação prevista, distrofia retiniana com ou sem anomalias extraoculares (retinal dystrophy with or without extraocular anomalies) (nível de evidência L5)."
 ---
 
 # Paliperidona
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **0** 
+Nível de evidência: **L5** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,68 +34,49 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-## Paliperidona: Avaliação Incompleta — Dados Insuficientes para Gerar Previsão de Reposicionamento
+## Paliperidona: distrofia retiniana com ou sem anomalias extraoculares (retinal dystrophy with or without extraocular anomalies)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Paliperidona (PALIPERIDONA) é um antipsicótico atípico registrado no Brasil com 4 licenças ativas na ANVISA.
-O modelo TxGNN **não gerou previsões de reposicionamento** para este fármaco no ciclo atual de dados, impedindo a análise de novas indicações.
-
-<!-- review:begin br-lic-20261106-paliperidona-1 -->
-
-> **Correção de verificação (2026-11-06)**: Texto original: “O modelo TxGNN **não gerou previsões de reposicionamento** para este fármaco no ciclo atual de dados, impedindo a análise de novas indicações. / Os dados de suporte — mecanismo de ação, detalhes dos registros e informações de segurança — estão todos ausentes neste pacote de evidências.” Removido: a afirmação contradizia os dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 4 registros para este medicamento, 4 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-lic-20261106-paliperidona-1 -->
-
----
+Paliperidona é um antipsicótico comercializado no Brasil.
+O modelo TxGNN prevê que pode ser eficaz para **distrofia retiniana com ou sem anomalias extraoculares (retinal dystrophy with or without extraocular anomalies)**, mas **não há ensaios clínicos nem publicações** que apoiem esta direção; trata-se apenas de uma previsão do modelo.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Não disponível nos registros do pacote atual |
-| Nova Indicação Prevista | Nenhuma previsão TxGNN disponível |
-| Pontuação de Previsão TxGNN | — |
-| Nível de Evidência | L5 (sem previsão de modelo nem estudos associados) |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | distrofia retiniana com ou sem anomalias extraoculares (retinal dystrophy with or without extraocular anomalies) |
+| Pontuação de Previsão TxGNN | 0.9992 |
+| Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 4) |
 | Número de Registros | 4 (ativos: 4) |
 | Decisão Recomendada | Hold |
 
----
+## Por que Esta Previsão é Razoável?
 
-## Informações de Comercialização no Brasil
+Atualmente, não há dados detalhados sobre o mecanismo de ação compilados para este relatório. Segundo informações conhecidas, a paliperidona (9-hidroxirrisperidona) é um antipsicótico que atua por antagonismo dos receptores dopaminérgicos D2 e serotoninérgicos 5-HT2A.
 
-Os registros ANVISA foram identificados (4 licenças ativas), porém os campos de detalhe — número de registro, nome comercial, forma farmacêutica e indicação aprovada — estão todos em branco no pacote de evidências recebido.
+Não se identifica uma ligação plausível entre esse antagonismo e a degeneração retiniana hereditária. A distrofia retiniana é, em geral, de origem genética e estrutural, e um antipsicótico sintomático não tem efeito conhecido sobre os mecanismos que a causam.
 
-<!-- review:begin br-lic-20261106-paliperidona-2 -->
+A pontuação elevada provavelmente reflete um artefato da rede de relações do modelo, e não uma base farmacológica ou clínica. Esta previsão deve ser tratada como hipótese sem sustentação, não como direção promissora.
 
-> **Correção de verificação (2026-11-06)**: Texto original: “> Para completar esta seção, é necessário re-executar a consulta TFDA/ANVISA com retorno dos campos de produto.” Removido: texto residual do modelo taiwanês (TFDA), que não se aplica a esta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+## Considerações de Segurança
 
-<!-- review:end br-lic-20261106-paliperidona-2 -->
-
-| Registro | Produto | Empresa detentora | Situação |
-|------|------|------|------|
-| 112363388 | INVEGA | JANSSEN-CILAG FARMACÊUTICA LTDA | Ativo |
-| 112363398 | INVEGA | JANSSEN-CILAG FARMACÊUTICA LTDA | Ativo |
-| 122140135 | PALMITATO DE PALIPERIDONA | ADIUM S.A. | Ativo |
-| 122140136 | VEGAPALI | ADIUM S.A. | Ativo |
-
----
+Consulte a bula para informações de segurança.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-O TxGNN não produziu previsões válidas para Paliperidona neste ciclo (campo `predicted_indications` vazio), e os dados regulatórios e de segurança estão incompletos, tornando inviável qualquer análise de reposicionamento no momento.
+- Não há ensaios clínicos, publicações ou racional mecanístico que sustentem o uso da paliperidona nesta doença; a previsão é apenas do modelo (nível L5).
 
 **Para prosseguir, é necessário:**
-- **Verificar o mapeamento DrugBank**: o log indica que a consulta ao DrugBank retornou 1 resultado — confirmar se o `drugbank_id` foi corretamente capturado e alimentado ao TxGNN para gerar previsões
-- **Completar os detalhes dos 4 registros ANVISA**: nome comercial, forma farmacêutica e indicação aprovada de cada licença
-- **Obter o MOA via DrugBank API**: o `drugbank_id` recuperado deve permitir extrair mecanismo de ação e categorias farmacológicas
-- **Baixar e analisar a bula ANVISA**: necessário para preencher advertências principais e contraindicações (bloqueador DG001)
-- **Re-executar o pipeline TxGNN** após correção do mapeamento para obter previsões de indicações candidatas
+- Dados do mecanismo de ação (por exemplo, consulta ao DrugBank).
+- Informações de segurança da bula na ANVISA (advertências e contraindicações).
+- Qualquer evidência pré-clínica ou clínica que ligue a farmacologia da paliperidona à distrofia retiniana antes de reconsiderar a avaliação.
 
 <!-- review:begin log -->
 
@@ -104,8 +86,8 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “Os dados de suporte — mecanismo de ação, detalhes dos registros e informações de segurança — estão todos ausentes neste pacote de evidências” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-06 | Removido: “> Para completar esta seção, é necessário re-executar a consulta TFDA/ANVISA com retorno dos campos de produto” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Os dados de suporte — mecanismo de ação, detalhes dos registros e informações de segurança — estão todos ausentes neste pacote de evidências” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “> Para completar esta seção, é necessário re-executar a consulta TFDA/ANVISA com retorno dos campos de produto” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

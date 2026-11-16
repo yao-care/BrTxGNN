@@ -1,20 +1,21 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Benznidazol
 parent: Apenas Predição do Modelo (L5)
-nav_order: 121
+nav_order: 120
 evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-11-12
-predicted_indications: []
+indication_count: 3
+drugbank_id: DB11989
+monitor_inn: "Benznidazole"
+predicted_indications: ["congenital analbuminemia", "polyclonal hyperviscosity syndrome", "hyperamylasemia"]
+last_modified_at: 2026-11-16
+description: "Benznidazol: nova indicação prevista, Analbuminemia congênita (congenital analbuminemia) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Benznidazol
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **0** 
+Nível de evidência: **L5** | Indicações previstas: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +34,13 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-## Benznidazol: Da Doença de Chagas — Previsão TxGNN Indisponível
+## Benznidazol: Analbuminemia congênita (congenital analbuminemia)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Benznidazol é um antiparasitário nitroimidazólico utilizado como tratamento de primeira linha para a Doença de Chagas (tripanossomíase americana), causada pelo *Trypanosoma cruzi*.
-O modelo TxGNN **ainda não gerou previsões de reposicionamento** para este fármaco no ciclo atual de análise.
-Devido à ausência de indicações previstas e a múltiplos dados faltantes críticos, este relatório não pode concluir a avaliação completa.
+Benznidazol é um antiparasitário da classe dos nitroimidazóis, comercializado no Brasil.
+O modelo TxGNN prevê que pode ser eficaz para **Analbuminemia congênita (congenital analbuminemia)**, mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção.
 
 ---
 
@@ -48,37 +48,34 @@ Devido à ausência de indicações previstas e a múltiplos dados faltantes cr�
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Doença de Chagas (*Trypanosoma cruzi*) |
-| Nova Indicação Prevista | Não disponível (TxGNN sem previsões) |
-| Pontuação de Previsão TxGNN | — |
-| Nível de Evidência | — |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Analbuminemia congênita (congenital analbuminemia) |
+| Pontuação de Previsão TxGNN | 0.9951 |
+| Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 2) |
 | Número de Registros | 2 (ativos: 1) |
-| Decisão Recomendada | **Hold** |
+| Decisão Recomendada | Hold |
 
 ---
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há previsões de reposicionamento geradas pelo modelo TxGNN para o Benznidazol neste ciclo de análise. Além disso, não há dados detalhados sobre o mecanismo de ação (MOA) disponíveis no Evidence Pack.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o benznidazol é um nitroimidazólico antiparasitário cuja atividade depende de ativação por nitrorredutases, gerando metabólitos reativos e radicais livres contra o *Trypanosoma cruzi*.
 
-Com base em conhecimento farmacológico estabelecido, o Benznidazol é um derivado do grupo 2-nitroimidazol. Seu mecanismo de ação envolve a redução do grupo nitro por nitrorreductases parasitárias, gerando intermediários reativos que causam dano oxidativo ao DNA e às proteínas do *T. cruzi*. Este mecanismo seletivo para organismos com sistema nitrorreductase-dependente é distinto dos alvos mamíferos, o que historicamente limitou o interesse de reposicionamento para patologias humanas não-infecciosas.
+A analbuminemia congênita é uma doença genética rara, causada por mutações de perda de função no gene da albumina (ALB). Não é uma condição infecciosa nem parasitária. Não há via farmacológica plausível que ligue a ação antiparasitária do benznidazol à restauração da síntese de albumina.
 
-Para que uma análise de reposicionamento seja possível, é necessário primeiro completar o mapeamento DrugBank (para obter o `drugbank_id`) e executar o pipeline completo do TxGNN com este fármaco incluído no conjunto de inferência.
+A pontuação elevada (0,9951) é apenas uma previsão computacional, provavelmente influenciada pela estrutura dos dados do modelo e não por uma justificativa biológica. Por isso, a previsão deve ser tratada com muita cautela.
 
 ---
 
 ## Informações de Comercialização no Brasil
 
-Os dados de registro precisam ser complementados via consulta direta à base de dados da ANVISA.
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro 101830145 | LAFEPE BENZNIDAZOL | Não informada | Não registrada |
+| Registro 101000074 | ROCHAGAN | Não informada | Não registrada |
 
-<!-- review:begin br-lic-20261106-benznidazol-1 -->
-
-> **Correção de verificação (2026-11-06)**: Texto original: “O fármaco possui **2 registros ativos** no Brasil, porém os detalhes individuais (número de registro, nome comercial, forma farmacêutica e indicação aprovada) não foram recuperados neste ciclo de coleta. Os dados de registro precisam ser complementados via consulta direta à base de dados da ANVISA.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 2 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-lic-20261106-benznidazol-1 -->
-
-> ℹ️ Nota: O Benznidazol é fabricado no Brasil pelo **LAFEPE** (Laboratório Farmacêutico do Estado de Pernambuco), sendo um medicamento estratégico para o Programa Nacional de Controle da Doença de Chagas do Ministério da Saúde.
+Dos registros, um é válido e um está cancelado (ROCHAGAN).
 
 ---
 
@@ -93,14 +90,13 @@ Consulte a bula para informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-O Evidence Pack está incompleto em itens críticos — não há previsões TxGNN disponíveis, os dados de registro da ANVISA não foram recuperados, e tanto o MOA quanto as informações de segurança estão ausentes. Sem previsão de nova indicação, não é possível realizar a avaliação de reposicionamento.
+Não há ensaios clínicos nem publicações que estudem a analbuminemia congênita, e não existe vínculo mecanístico plausível com o benznidazol. A previsão é apenas computacional (nível L5).
 
 **Para prosseguir, é necessário:**
-- [ ] **[Bloqueante]** Baixar e parsear a bula (PDF ANVISA) para obter advertências, contraindicações e MOA detalhado
-- [ ] **[Alta prioridade]** Obter o `drugbank_id` do Benznidazol via API do DrugBank (busca pelo INN `benznidazole`) para habilitar o pipeline TxGNN
-- [ ] **[Alta prioridade]** Re-executar o pipeline `run_kg_prediction.py` após mapear o fármaco ao DrugBank ID
-- [ ] Complementar os campos dos 2 registros ANVISA (número, nome comercial, forma farmacêutica, indicação aprovada)
-- [ ] Verificar se há ensaios clínicos em andamento no ClinicalTrials.gov para Benznidazol em indicações não-Chagas (ex.: outras infecções parasitárias, uso profilático)
+- Obter e analisar a bula na ANVISA (advertências e contraindicações)
+- Complementar os dados de mecanismo de ação (por exemplo, via DrugBank)
+- Identificar qualquer evidência pré-clínica ou clínica que relacione o benznidazol à síntese ou ao metabolismo da albumina
+- Reavaliar a previsão somente se surgir um racional biológico concreto
 
 <!-- review:begin log -->
 
@@ -110,7 +106,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “O fármaco possui **2 registros ativos** no Brasil, porém os detalhes individuais (número de registro, nome comercial, forma farmacêutica e i” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “O fármaco possui **2 registros ativos** no Brasil, porém os detalhes individuais (número de registro, nome comercial, forma farmacêutica e i” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

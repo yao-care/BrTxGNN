@@ -1,20 +1,21 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Carfilzomibe
 parent: Apenas Predição do Modelo (L5)
-nav_order: 196
+nav_order: 195
 evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-10-31
-predicted_indications: []
+indication_count: 5
+drugbank_id: DB08889
+monitor_inn: "Carfilzomib"
+predicted_indications: ["CMM7", "pediatric leptomeningeal melanoma", "epithelioid cell uveal melanoma", "vulvar melanoma (disease)", "melanoma"]
+last_modified_at: 2026-11-16
+description: "Carfilzomibe: nova indicação prevista, CMM7 (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Carfilzomibe
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **0** 
+Nível de evidência: **L5** | Indicações previstas: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,63 +34,81 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-## Carfilzomib: Relatório Preliminar — Previsões TxGNN Pendentes
+## Carfilzomibe: CMM7
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Carfilzomib (carfilzomibe) é um inibidor de proteassoma de segunda geração, aprovado para o tratamento do mieloma múltiplo recidivante ou refratário.
-O pipeline TxGNN **não retornou previsões de novas indicações** para este fármaco no momento da geração deste relatório — o campo `predicted_indications` está vazio.
-Desta forma, **não é possível realizar análise de reposicionamento** até que as previsões sejam executadas.
-
----
+Carfilzomibe é um inibidor irreversível do proteassoma 20S, comercializado no Brasil.
+O modelo TxGNN prevê que pode ser eficaz para **CMM7 (CMM7)**, aparentemente um subtipo familiar de melanoma maligno cutâneo.
+Atualmente há **0 ensaios clínicos** e **0 publicações** apoiando diretamente esta previsão.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Mieloma múltiplo recidivante ou refratário |
-| Nova Indicação Prevista | — (dados ausentes) |
-| Pontuação de Previsão TxGNN | — (pipeline não executado) |
-| Nível de Evidência | — (sem previsão disponível) |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | CMM7 |
+| Pontuação de Previsão TxGNN | 0.9937 |
+| Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 7 de 7) |
 | Número de Registros | 7 (ativos: 7) |
 | Decisão Recomendada | Hold |
 
----
+## Por que Esta Previsão é Razoável?
+
+Não há dados detalhados de mecanismo de ação compilados para este relatório. Pelo que se sabe da classe, o carfilzomibe inibe de forma irreversível a atividade tipo quimiotripsina do proteassoma 20S. Isso leva ao acúmulo de proteínas mal dobradas e reguladoras, estresse proteotóxico e apoptose.
+
+CMM7 parece ser um subtipo de melanoma maligno cutâneo familiar. Em princípio, células de melanoma poderiam ser sensíveis ao estresse proteotóxico, o que daria uma base mecanística plausível. Porém, não há ensaios clínicos nem publicações sobre esta indicação específica.
+
+A pontuação alta provavelmente reflete a proximidade da rede de relações com o nó geral de melanoma, e não evidência específica para esta doença. A previsão deve ser tratada como hipótese a ser investigada.
+
+## Evidências de Ensaios Clínicos
+
+Atualmente não há ensaios clínicos relacionados registrados.
+
+## Evidências da Literatura
+
+Atualmente não há literatura relacionada.
+
+## Informações de Comercialização no Brasil
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| 102440010 | KYPROLIS | Não informada | Não informada |
+| 151430106 | ZOFYSERVE | Não informada | Não informada |
+| 155370131 | CARFILZOMIBE | Não informada | Não informada |
+| 155370134 | KARFYLOR | Não informada | Não informada |
+| 155840725 | CARFILZOMIBE | Não informada | Não informada |
+
+Há mais registros válidos além dos cinco listados (7 no total, todos válidos e de produto isolado).
 
 ## Citotoxicidade
 
-Carfilzomib é um agente antineoplásico da classe dos inibidores de proteassoma (epoximicina), utilizado exclusivamente em oncologia.
-
 | Item | Conteúdo |
 |------|------|
-| Classificação de Citotoxicidade | Terapia-alvo — inibidor irreversível do proteassoma 26S (subunidade β5, atividade quimotripsina-símile) |
-| Risco de Mielossupressão | Médio-alto (anemia, trombocitopenia e neutropenia são toxicidades hematológicas frequentes) |
-| Classificação de Emetogenicidade | Baixa a média |
-| Itens de Monitoramento | Hemograma completo (CBC com diferencial), função renal (creatinina, clearance), função hepática, pressão arterial, monitoramento cardíaco (eventos cardiopulmonares descritos) |
-| Proteção no Manuseio | Necessário seguir regulamentos de manuseio de citotóxicos injetáveis; preparo em cabine de fluxo laminar vertical |
-
----
+| Classificação de Citotoxicidade | Terapia alvo (inibidor de proteassoma) |
+| Risco de Mielossupressão | Consulte as advertências e precauções na bula |
+| Classificação de Emetogenicidade | Consulte as advertências e precauções na bula |
+| Itens de Monitoramento | Consulte as advertências e precauções na bula |
+| Proteção no Manuseio | Consulte as advertências e precauções na bula; seguir os regulamentos de manuseio de antineoplásicos |
 
 ## Considerações de Segurança
 
 Consulte a bula para informações de segurança.
-
----
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-O Evidence Pack não contém previsões TxGNN (`predicted_indications: []`) nem detalhes dos registros brasileiros, impossibilitando qualquer análise de reposicionamento ou avaliação de força de evidência neste momento.
+A previsão para CMM7 baseia-se apenas no modelo, sem ensaios clínicos nem literatura sobre a doença (nível L5). A pontuação alta provavelmente decorre da proximidade com o melanoma em geral, não de evidência específica.
 
 **Para prosseguir, é necessário:**
-- Executar o pipeline TxGNN para carfilzomib e obter `predicted_indications` com pontuação, ensaios clínicos e literatura associada
-- Preencher os detalhes dos 5 registros na ANVISA (número de registro, nome comercial, forma farmacêutica, indicação aprovada)
-- Obter MOA completo via DrugBank API (DG002 — severidade High)
-- Recuperar advertências, contraindicações e interações da bula ANVISA (DG001 — severidade Blocking)
+- Estudos pré-clínicos específicos em modelos de melanoma cutâneo familiar, incluindo CMM7
+- Dados detalhados do mecanismo de ação e sua ligação com a biologia da doença
+- Informações de segurança da bula da ANVISA (advertências e contraindicações)
+- Avaliação da vantagem de carfilzomibe como monoterapia, já que inibidores de proteassoma tiveram eficácia limitada em tumores sólidos
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

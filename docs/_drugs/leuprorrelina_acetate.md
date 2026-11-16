@@ -1,20 +1,21 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Leuprorrelina Acetate
 parent: Apenas Predição do Modelo (L5)
-nav_order: 403
+nav_order: 402
 evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-11-12
-predicted_indications: []
+indication_count: 2
+drugbank_id: DB00007
+monitor_inn: "Leuprolide"
+predicted_indications: ["osteoarthritis", "pseudoachondroplasia"]
+last_modified_at: 2026-11-16
+description: "Leuprorrelina Acetate: nova indicação prevista, Osteoartrite (osteoarthritis) (nível de evidência L5). Indicação original: OUTROS HORMONIOS MEDIADORES E PRODUTOS EQUIVALENTES"
 ---
 
 # Leuprorrelina Acetate
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **0** 
+Nível de evidência: **L5** | Indicações previstas: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,75 +34,78 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-## LEUPRORRELINA ACETATE: Avaliação Inconclusiva — Dados Insuficientes para Análise de Reposicionamento
+## Leuprorrelina Acetate: Osteoartrite (osteoarthritis)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Leuprorrelina (Leuprorelin) é um agonista do hormônio liberador de gonadotrofinas (GnRH), amplamente utilizado no tratamento de cânceres hormônio-sensíveis, endometriose e puberdade precoce.
-O modelo TxGNN **não gerou indicações previstas** para este fármaco neste ciclo de avaliação, possivelmente devido ao nome incorreto na consulta ("LEUPRORRELINA" em vez do INN padronizado "LEUPRORELIN").
-Sem previsão de nova indicação e sem registros no Brasil, não é possível avançar para análise de reposicionamento neste momento.
-
----
+Leuprorrelina acetato é um fármaco com registro vigente no Brasil, com formulações comercializadas sob os nomes LECTRUM e ELIGARD.
+O modelo TxGNN prevê que pode ser eficaz para **Osteoartrite (osteoarthritis)**, mas, até o momento, há **0 ensaios clínicos** e **nenhuma publicação** que estude diretamente essa doença; a previsão se apoia apenas na pontuação do modelo.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Não disponível neste Evidence Pack |
-| Nova Indicação Prevista | Nenhuma (modelo TxGNN retornou lista vazia) |
-| Pontuação de Previsão TxGNN | — |
-| Nível de Evidência | **L5** — Sem previsão de modelo, sem estudos reais |
+| Indicação Original | OUTROS HORMONIOS MEDIADORES E PRODUTOS EQUIVALENTES; ANTINEOPLASICO |
+| Nova Indicação Prevista | Osteoartrite (osteoarthritis) |
+| Pontuação de Previsão TxGNN | 0.9970 |
+| Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 2) |
 | Número de Registros | 2 (ativos: 2) |
-| Decisão Recomendada | **Hold** |
+| Decisão Recomendada | Hold |
 
----
+## Por que Esta Previsão é Razoável?
 
-## Por que Esta Previsão não foi Gerada?
+Atualmente, não há dados detalhados sobre o mecanismo de ação registrados nos dados compilados para este relatório. Pelo conhecimento farmacológico geral, a leuprorrelina é um agonista do hormônio liberador de gonadotrofinas (GnRH): suprime o eixo hipófise-gônadas e reduz os esteroides sexuais (estrogênio e testosterona).
 
-Há dois prováveis motivos para o modelo TxGNN não ter retornado indicações previstas:
+Não foi identificado um vínculo mecanístico crível com a osteoartrite. A deficiência de estrogênio está, se algo, associada a maior risco de osteoartrite e perda óssea, de modo que a previsão não é sustentada pela farmacologia conhecida. A pontuação elevada provavelmente reflete proximidade estatística no modelo, e não um mecanismo terapêutico real.
 
-1. **Erro tipográfico no INN**: O nome consultado foi `LEUPRORRELINA ACETATE` (com duplo "R"), enquanto o INN padronizado é `LEUPRORELIN ACETATE`. Isso pode ter impedido o mapeamento correto ao DrugBank e, consequentemente, ao grafo de conhecimento.
+Por isso, a previsão deve ser tratada com cautela, como uma hipótese computacional sem respaldo biológico até que surjam dados reais.
 
-2. **DrugBank ID ausente**: O campo `drugbank_id` está vazio, o que impede o pipeline de conhecimento de localizar as relações do fármaco no grafo. O log indica que a consulta ao DrugBank retornou 1 resultado (`result_count: 1`), mas o ID não foi transferido para o Evidence Pack — indicando falha na extração ou integração.
+## Evidências de Ensaios Clínicos
 
-Esses dois fatores combinados impedem a execução do modelo de previsão, tornando o relatório de reposicionamento inaplicável neste ciclo.
+Atualmente não há ensaios clínicos relacionados registrados.
 
----
+## Evidências da Literatura
+
+Foi recuperada apenas uma publicação, que não estuda a osteoartrite e, portanto, não sustenta a previsão:
+
+| PMID | Ano | Tipo | Periódico | Principais Achados |
+|------|-----|------|------|---------|
+| [20133250](https://pubmed.ncbi.nlm.nih.gov/20133250/) | 2010 | Relato de caso | Clinical Breast Cancer | Adenocarcinoma de próstata metastático simulando carcinoma inflamatório de mama em homem de 78 anos; sem relação com osteoartrite |
 
 ## Informações de Comercialização no Brasil
 
-Nenhuma licença foi identificada na consulta à ANVISA.
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro 100470410 | LECTRUM | Não informada | Outros hormônios mediadores e produtos equivalentes |
+| Registro 122140074 | ELIGARD | Não informada | Antineoplásico |
 
-<!-- review:begin br-lic-20261106-leuprorrelina_acetate-1 -->
+## Citotoxicidade
 
-> **Correção de verificação (2026-11-06)**: Texto original: “O fármaco não possui registros ativos no Brasil. Nenhuma licença foi identificada na consulta à ANVISA.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 2 registros para este medicamento, 2 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-lic-20261106-leuprorrelina_acetate-1 -->
-
----
+| Item | Conteúdo |
+|------|------|
+| Classificação de Citotoxicidade | Não é citotóxico convencional; terapia hormonal (agonista do GnRH) |
+| Risco de Mielossupressão | Baixo |
+| Classificação de Emetogenicidade | Baixa |
+| Itens de Monitoramento | Consulte as advertências e precauções na bula |
+| Proteção no Manuseio | Consulte as advertências e precauções na bula |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
-
----
+Consulte a bula para informações de segurança. Não foram encontradas interações medicamentosas nos dados compilados.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-Sem indicações previstas pelo TxGNN e sem registros regulatórios no Brasil, não há base suficiente para iniciar a análise de reposicionamento. O problema é de ordem técnica e pode ser resolvido antes da próxima execução.
+- Não há ensaios clínicos nem literatura que estudem a osteoartrite com este fármaco, e o mecanismo conhecido (supressão de estrogênio) não sustenta a previsão. O nível de evidência é L5.
 
 **Para prosseguir, é necessário:**
-
-- [ ] **Corrigir o INN**: Usar o nome padronizado `LEUPRORELIN ACETATE` (remover o "R" duplicado) em todos os campos de consulta
-- [ ] **Recuperar o DrugBank ID**: O log indica que o DrugBank retornou 1 resultado — extrair e registrar o `drugbank_id` correspondente (provavelmente `DB00007`)
-- [ ] **Re-executar o pipeline TxGNN** com os dados corrigidos para obter `predicted_indications`
-- [ ] **Coletar dados de segurança (DG001)**: Baixar a bula ANVISA/FDA para extrair advertências e contraindicações
-- [ ] **Coletar MOA (DG002)**: Consultar DrugBank API com o ID correto para obter o mecanismo de ação formal
+- Dados do mecanismo de ação e das advertências e contraindicações da bula na ANVISA
+- Estudos pré-clínicos que apontem um vínculo biológico plausível com a osteoartrite
+- Reavaliação somente se surgirem evidências diretas sobre a doença
 
 <!-- review:begin log -->
 
@@ -111,7 +115,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “O fármaco não possui registros ativos no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “O fármaco não possui registros ativos no Brasil” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

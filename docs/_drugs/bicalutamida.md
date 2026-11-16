@@ -1,20 +1,21 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Bicalutamida
 parent: Apenas Predição do Modelo (L5)
-nav_order: 134
+nav_order: 133
 evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-11-12
-predicted_indications: []
+indication_count: 10
+drugbank_id: DB01128
+monitor_inn: "Bicalutamide"
+predicted_indications: ["hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "leprosy", "multiple endocrine neoplasia", "pulmonary hypertension", "female breast carcinoma", "nephrogenic syndrome of inappropriate antidiuresis"]
+last_modified_at: 2026-11-16
+description: "Bicalutamida: nova indicação prevista, Hipertricose (hypertrichosis (disease)) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Bicalutamida
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **0** 
+Nível de evidência: **L5** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,68 +34,83 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-## Bicalutamida: Do Câncer de Próstata — Avaliação de Reposicionamento Pendente
+## Bicalutamida: Hipertricose (hypertrichosis (disease))
 {: .text-alpha }
 
-## Resumo
+## Resumo em Uma Frase
 
-Bicalutamida é um antiandrogênio não esteroidal utilizado no tratamento do câncer de próstata, atuando como antagonista competitivo do receptor androgênico. O Evidence Pack fornecido **não contém previsões do modelo TxGNN** para novas indicações terapêuticas, pois o campo `predicted_indications` está vazio — o que impossibilita a geração de candidatos de reposicionamento nesta versão. Duas lacunas de dados críticas bloqueiam a continuidade da avaliação: ausência de informações de segurança da ANVISA (gravidade **Blocking**) e ausência do mecanismo de ação detalhado (gravidade **High**).
-
----
+Bicalutamida é um antiandrogênio não esteroidal que atua bloqueando o receptor de androgênio.
+O modelo TxGNN prevê que pode ser eficaz para **Hipertricose (hypertrichosis (disease))**,
+mas até o momento há apenas **1 publicação** (um comentário sobre um estudo retrospectivo) e **nenhum ensaio clínico** apoiando esta direção.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Câncer de próstata (antiandrogênio não esteroidal) |
-| Nova Indicação Prevista | — (sem previsão TxGNN neste pacote) |
-| Pontuação de Previsão TxGNN | — |
-| Nível de Evidência | — |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Hipertricose (hypertrichosis (disease)) |
+| Pontuação de Previsão TxGNN | 0.9969 |
+| Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 6 de 10) |
 | Número de Registros | 10 (ativos: 6) |
 | Decisão Recomendada | Hold |
 
----
+## Por que Esta Previsão é Razoável?
+
+A bicalutamida é um antagonista não esteroidal do receptor de androgênio. Ao bloquear a sinalização androgênica nos folículos pilosos, pode, em tese, reduzir o crescimento de pelos terminais sensíveis a androgênios. Os dados compilados para este relatório não trazem uma descrição detalhada do mecanismo de ação; a explicação acima se baseia na classe farmacológica conhecida do fármaco.
+
+A única publicação disponível é um comentário sobre um estudo retrospectivo que avaliou a bicalutamida na hipertricose induzida por minoxidil em mulheres com alopecia androgenética. Trata-se de um contexto estreito, relacionado a um medicamento, e não da hipertricose em geral. Além disso, só o comentário está disponível, sem os dados primários do estudo.
+
+Por esse motivo, o nível de evidência é L5: nenhum estudo citado investiga diretamente a hipertricose como doença de forma que sustente um nível mais alto. Muitas formas de hipertricose, em especial as congênitas, não dependem principalmente de androgênios, o que limita a aplicabilidade do mecanismo.
+
+## Evidências de Ensaios Clínicos
+
+Atualmente não há ensaios clínicos relacionados registrados.
+
+## Evidências da Literatura
+
+| PMID | Ano | Tipo | Periódico | Principais Achados |
+|------|-----|------|------|---------|
+| [35304167](https://pubmed.ncbi.nlm.nih.gov/35304167/) | 2022 | Comentário/Carta | Journal of the American Academy of Dermatology | Comentário sobre um estudo retrospectivo de 35 pacientes que avaliou a bicalutamida na hipertricose induzida por minoxidil na alopecia de padrão feminino; sem resumo disponível e sem dados primários |
+
+## Informações de Comercialização no Brasil
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| 100431055 | Bicalutamida (Eurofarma) | Não informada | Não registrada |
+| 116180062 | Casodex | Não informada | Não registrada |
+| 116370189 | Bicalutamida (Blau) | Não informada | Não registrada |
+| 155370017 | Bicalutamida (Accord) | Não informada | Não registrada |
+| 155370055 | Bycal | Não informada | Não registrada |
+
+Há 10 registros no total, dos quais 6 estão válidos; os 5 acima são os principais registros válidos.
 
 ## Citotoxicidade
 
-Bicalutamida é empregada em oncologia (câncer de próstata), configurando o critério de exibição desta seção.
-
 | Item | Conteúdo |
 |------|------|
-| Classificação de Citotoxicidade | Terapia hormonal antineoplásica (antiandrogênio não esteroidal) — **não** é citotóxico convencional |
-| Risco de Mielossupressão | Baixo (mecanismo hormonal; sem ação citotóxica direta sobre medula óssea) |
+| Classificação de Citotoxicidade | Terapia hormonal (antiandrogênio não esteroidal), não é citotóxico convencional |
+| Risco de Mielossupressão | Baixo |
 | Classificação de Emetogenicidade | Baixa |
-| Itens de Monitoramento | Função hepática (ALT/AST), PSA sérico, hemograma periódico |
-| Proteção no Manuseio | Precauções padrão para fármacos com risco reprodutivo (classificado como *hazardous drug* pela NIOSH — categoria reprodutiva) |
-
----
+| Itens de Monitoramento | Função hepática; consulte as advertências e precauções na bula |
+| Proteção no Manuseio | Consulte as advertências e precauções na bula |
 
 ## Considerações de Segurança
 
 Consulte a bula para informações de segurança.
-
----
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-O Evidence Pack está estruturalmente incompleto — `predicted_indications` retornou lista vazia.
-
-<!-- review:begin br-lic-20261106-bicalutamida-1 -->
-
-> **Correção de verificação (2026-11-06)**: Texto original: “O Evidence Pack está estruturalmente incompleto — `predicted_indications` retornou lista vazia e os dados de registro ANVISA não foram populados, tornando inviável qualquer análise de reposicionamento ou avaliação de segurança nesta versão.” Removido: a afirmação contradizia os dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 10 registros para este medicamento, 6 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-lic-20261106-bicalutamida-1 -->
+- Não há ensaios clínicos nem estudos que avaliem diretamente a hipertricose; a única publicação é um comentário sobre um contexto restrito (hipertricose induzida por minoxidil). A previsão do modelo, sozinha, não basta para avançar.
 
 **Para prosseguir, é necessário:**
-- **[Blocking]** Obter informações de segurança da bula ANVISA (advertências e contraindicações) — fazer download do PDF da bula no portal da ANVISA e extrair os dados relevantes
-- **[High]** Mapear o DrugBank ID de bicalutamida e consultar o MOA via DrugBank API (campo `drugbank_id` atualmente nulo)
-- Re-executar o pipeline TxGNN com o DrugBank ID correto para gerar as previsões de reposicionamento (`predicted_indications`)
-- Re-popular os campos detalhados das 10 licenças ANVISA (número de registro, nome comercial, forma farmacêutica e indicação aprovada estão todos ausentes no pacote atual)
-- Após resolução das lacunas acima, reprocessar o Evidence Pack em nova versão para obter relatório completo
+- Obter e avaliar o estudo retrospectivo primário sobre bicalutamida na hipertricose induzida por minoxidil
+- Definir quais formas de hipertricose são mediadas por androgênios e, portanto, candidatas plausíveis
+- Obter dados de mecanismo de ação e as advertências e contraindicações da bula na ANVISA
+- Avaliar a segurança do uso em mulheres, população em que o contexto relatado se aplica, antes de qualquer estudo prospectivo
 
 <!-- review:begin log -->
 
@@ -104,7 +120,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “e os dados de registro ANVISA não foram populados, tornando inviável qualquer análise de reposicionamento ou avaliação de segurança nesta ve” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “e os dados de registro ANVISA não foram populados, tornando inviável qualquer análise de reposicionamento ou avaliação de segurança nesta ve” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

@@ -1,20 +1,21 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Levocetirizine Dihydrochloride
-parent: Apenas usos conhecidos (sem novas previsões)
-nav_order: 408
-last_modified_at: 2026-10-31
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+parent: Apenas Predição do Modelo (L5)
+nav_order: 407
+evidence_level: L5
+indication_count: 3
+drugbank_id: DB06282
+monitor_inn: "Levocetirizine"
+predicted_indications: ["rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
+last_modified_at: 2026-11-16
+description: "Levocetirizine Dihydrochloride: nova indicação prevista, Artrite reumatoide (rheumatoid arthritis) (nível de evidência L5). Indicação original: ANTIALERGICOS"
 ---
 
 # Levocetirizine Dihydrochloride
 {: .fs-9 }
 
-Nível de evidência: **N/A** | Indicações previstas: **0** 
+Nível de evidência: **L5** | Indicações previstas: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,19 +34,73 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 
 </div>
 
-## Levocetirizine Dihydrochloride
+## Levocetirizine Dihydrochloride: Artrite reumatoide (rheumatoid arthritis)
 {: .text-alpha }
+
+## Resumo em Uma Frase
+
+Levocetirizina (dicloridrato de levocetirizina) é um anti-histamínico, comercializado no Brasil na classe dos antialérgicos.
+O modelo TxGNN prevê que pode ser eficaz para **Artrite reumatoide (rheumatoid arthritis)**,
+mas atualmente há **0 ensaios clínicos** e **0 publicações** nos dados compilados para este relatório que apoiem esta direção.
+
+---
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
 | Indicação Original | ANTIALERGICOS |
+| Nova Indicação Prevista | Artrite reumatoide (rheumatoid arthritis) |
+| Pontuação de Previsão TxGNN | 0.9973 |
+| Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | pelo menos 20 |
+| Decisão Recomendada | Hold |
 
 ---
 
+## Por que Esta Previsão é Razoável?
+
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Em termos gerais, a levocetirizina é um antagonista (agonista inverso) seletivo do receptor de histamina H1.
+
+Existe um elo teórico: a histamina está presente em níveis elevados na sinóvia reumatoide e pode contribuir para a permeabilidade vascular e o recrutamento de células inflamatórias. Porém, o bloqueio de H1 não é um mecanismo estabelecido de modificação da doença na artrite reumatoide.
+
+A pontuação do TxGNN é uma previsão computacional, sem apoio de ensaios clínicos ou de literatura nos dados disponíveis. Por isso, a plausibilidade mecanística não pode ser verificada e a previsão deve ser tratada como hipótese a ser testada.
+
+---
+
+## Informações de Comercialização no Brasil
+
+Há pelo menos 20 registros válidos de produtos de ingrediente único, e a lista pode estar incompleta. Principais registros:
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| 106890211 | ZALERV | Não informada | Antialérgicos |
+| 100431124 | Dicloridrato de levocetirizina | Não informada | Antialérgicos |
+| 100430996 | ZINA | Não informada | Antialérgicos |
+| 110130283 | VOCETY | Não informada | Antialérgicos |
+| 178170872 | RIZI | Não informada | Antialérgicos |
+
+---
+
+## Considerações de Segurança
+
+Consulte a bula para informações de segurança.
+
+---
+
+## Conclusão e Próximos Passos
+
+**Decisão: Hold**
+
+**Justificativa:**
+- A previsão baseia-se apenas no modelo (L5), sem ensaios clínicos nem publicações sobre artrite reumatoide, e o bloqueio de H1 não é um mecanismo estabelecido de modificação dessa doença.
+
+**Para prosseguir, é necessário:**
+- Obter e analisar a bula aprovada pela ANVISA (advertências e contraindicações), etapa bloqueante para a triagem de segurança
+- Complementar os dados de mecanismo de ação (por exemplo, via DrugBank)
+- Realizar revisão sistemática da literatura e de registros de ensaios sobre anti-histamínicos H1 na artrite reumatoide
+- Se houver sustentação, estudos pré-clínicos ou de prova de conceito antes de qualquer ensaio clínico
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -1,20 +1,21 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Brigatinibe
 parent: Apenas Predição do Modelo (L5)
-nav_order: 150
+nav_order: 149
 evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-10-31
-predicted_indications: []
+indication_count: 9
+drugbank_id: DB12267
+monitor_inn: "Brigatinib"
+predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "pulmonary sulcus neoplasm", "lung germ cell tumor", "junctional epidermolysis bullosa", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
+last_modified_at: 2026-11-16
+description: "Brigatinibe: nova indicação prevista, Fibromatose gengival (fibromatosis, gingival) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Brigatinibe
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **0** 
+Nível de evidência: **L5** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,108 +34,69 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-## BRIGATINIBE: Avaliação Preliminar — Dados Insuficientes para Reposicionamento
+## Brigatinibe: Fibromatose gengival (fibromatosis, gingival)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Brigatinibe (BRIGATINIBE) é um inibidor de tirosina quinase ALK, originalmente utilizado no tratamento do câncer de pulmão de células não pequenas (CPCNP) ALK-positivo. Atualmente, **não há indicações previstas pelo modelo TxGNN** para este fármaco, e os dados disponíveis no Evidence Pack apresentam lacunas significativas que impedem uma avaliação completa de reposicionamento.
-
----
+Brigatinibe é um inibidor de tirosina quinase de segunda geração, usado em câncer de pulmão de células não pequenas ALK-positivo.
+O modelo TxGNN prevê que pode ser eficaz para **Fibromatose gengival (fibromatosis, gingival)**, mas **não há ensaios clínicos nem publicações** apoiando esta direção; trata-se de uma previsão exclusivamente computacional.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
-|------|----------|
-| Indicação Original | CPCNP ALK-positivo (informação de referência — campo não preenchido no registro) |
-| Nova Indicação Prevista | **Nenhuma previsão disponível** |
-| Pontuação de Previsão TxGNN | — |
-| Nível de Evidência | **L5** (sem previsão do modelo nem estudos associados) |
+|------|------|
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Fibromatose gengival (fibromatosis, gingival) |
+| Pontuação de Previsão TxGNN | 0.9989 |
+| Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 2) |
 | Número de Registros | 2 (ativos: 1) |
-| Decisão Recomendada | **Hold** |
+| Decisão Recomendada | Hold |
 
----
+## Por que Esta Previsão é Razoável?
 
-## Por que Não Há Previsão Disponível?
+Atualmente, não há dados detalhados sobre o mecanismo de ação compilados para este relatório. Segundo a literatura conhecida, o brigatinibe é um inibidor de quinases (ALK, EGFR e ROS1) com eficácia demonstrada em câncer de pulmão ALK-positivo.
 
-Brigatinibe é um inibidor seletivo da quinase ALK (anaplastic lymphoma kinase), pertencente à classe das terapias-alvo de segunda geração para CPCNP. Seu mecanismo de ação envolve a inibição potente de ALK e de várias mutações de resistência, incluindo a mutação G1202R que confere resistência ao crizotinibe.
+Nos dados compilados, não foi identificada ligação mecanística plausível entre a inibição dessas quinases e a fibromatose gengival, uma condição proliferativa benigna do tecido gengival. A pontuação alta do TxGNN (0,9989) reflete apenas um padrão computacional, sem respaldo em estudos reais.
 
-O modelo TxGNN não gerou previsões de novas indicações para este fármaco. Isso pode estar relacionado a diversos fatores: (1) a ausência do identificador DrugBank (drugbank_id) impede o mapeamento adequado ao grafo de conhecimento; (2) não foram fornecidos dados sobre o mecanismo de ação (MOA) no Evidence Pack, o que limita a análise de conectividade no grafo; (3) o fármaco pode não constar no conjunto de nós do grafo de conhecimento TxGNN (node.csv/kg.csv).
-
-Para que o pipeline de reposicionamento funcione adequadamente, é necessário primeiro resolver o mapeamento DrugBank e confirmar a presença do fármaco no grafo de conhecimento.
-
----
-
-## Evidências de Ensaios Clínicos
-
-Atualmente não há ensaios clínicos relacionados a novas indicações registrados no Evidence Pack.
-
----
-
-## Evidências da Literatura
-
-Atualmente não há literatura relacionada a novas indicações disponível no Evidence Pack.
-
----
+Por isso, a razoabilidade biológica desta previsão permanece especulativa e exigiria investigação pré-clínica antes de qualquer consideração clínica.
 
 ## Informações de Comercialização no Brasil
 
-| Registro | Produto | Empresa detentora | Situação |
-|------|------|------|------|
-| 126270026 | EVOBRIG | TAKEDA FARMACEUTICA BRASIL LTDA | Ativo |
-| 106390281 | EVOBRIG | TAKEDA PHARMA LTDA. | Cancelado |
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro 126270026 | EVOBRIG | Não informada | Não registrada nos dados locais |
+| Registro 106390281 | EVOBRIG | Não informada | Não registrada nos dados locais |
 
-> **Nota:** O registro consta como existente (1 licença ativa, status "Marketed"), porém os campos detalhados não foram preenchidos no Evidence Pack. Recomenda-se consultar diretamente a base da ANVISA para obter as informações completas.
-
----
+Há um registro válido e um cancelado, ambos de produto isolado (fabricantes: Takeda Farmacêutica Brasil Ltda. e Takeda Pharma Ltda.).
 
 ## Citotoxicidade
 
-Brigatinibe é um fármaco antineoplásico (inibidor de ALK), portanto esta seção é aplicável.
-
 | Item | Conteúdo |
-|------|----------|
-| Classificação de Citotoxicidade | **Terapia-alvo** (inibidor de tirosina quinase ALK, 2ª geração) |
-| Risco de Mielossupressão | Baixo a médio (linfopenia e anemia podem ocorrer; menos frequente que quimioterapia citotóxica convencional) |
-| Classificação de Emetogenicidade | Baixa (inibidores de TKI orais geralmente apresentam baixo potencial emetogênico) |
-| Itens de Monitoramento | CBC com diferencial, função hepática (ALT/AST), lipase, amilase, função pulmonar (risco de pneumonite), pressão arterial, frequência cardíaca, glicemia |
-| Proteção no Manuseio | Seguir precauções padrão para medicamentos antineoplásicos orais conforme regulamentos vigentes |
-
----
+|------|------|
+| Classificação de Citotoxicidade | Terapia alvo (inibidor de tirosina quinase) |
+| Risco de Mielossupressão | Consulte as advertências e precauções na bula |
+| Classificação de Emetogenicidade | Consulte as advertências e precauções na bula |
+| Itens de Monitoramento | Consulte as advertências e precauções na bula |
+| Proteção no Manuseio | Consulte as advertências e precauções na bula |
 
 ## Considerações de Segurança
 
-> Consulte a bula para informações completas de segurança. Os dados de advertências, contraindicações e interações medicamentosas não foram preenchidos no Evidence Pack atual.
-
-**Informações de referência conhecidas para brigatinibe (a serem confirmadas via bula):**
-- **Pneumonite/Doença Pulmonar Intersticial**: Risco de eventos pulmonares graves, especialmente nos primeiros 7 dias de tratamento — motivo pelo qual o esquema posológico inicia com dose escalonada (90 mg → 180 mg)
-- **Hipertensão**: Monitoramento regular da pressão arterial recomendado
-- **Bradicardia**: Monitoramento cardíaco necessário
-- **Distúrbios visuais**: Relatos de alterações visuais em ensaios clínicos
-- **Elevação de CPK**: Monitoramento de creatina fosfoquinase recomendado
-- **Elevação de enzimas pancreáticas**: Monitoramento de lipase e amilase
-
----
+Consulte a bula para informações de segurança.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-Não há previsões do modelo TxGNN para novas indicações de brigatinibe, e o Evidence Pack apresenta lacunas críticas (DrugBank ID ausente, MOA não disponível, campos de registro vazios, dados de segurança não preenchidos). Sem esses dados fundamentais, não é possível realizar uma avaliação de reposicionamento.
+- A previsão para fibromatose gengival não tem ensaios clínicos nem literatura, e não há ligação mecanística identificada. O nível de evidência é L5.
 
 **Para prosseguir, é necessário:**
-- Obter o DrugBank ID de brigatinibe (provável: **DB12267**) e confirmar sua presença no grafo de conhecimento TxGNN
-- Preencher os dados do mecanismo de ação (MOA) via consulta ao DrugBank API
-- Completar os campos de registro regulatório (número de registro, nome comercial, forma farmacêutica, indicação aprovada)
-- Obter e analisar a bula (advertências, contraindicações, interações medicamentosas)
-- Re-executar o pipeline TxGNN com o mapeamento DrugBank correto para verificar se há previsões de reposicionamento
-- Caso não haja previsões mesmo após mapeamento correto, considerar que o perfil de seletividade de brigatinibe (altamente específico para ALK) pode limitar seu potencial de reposicionamento para indicações não-ALK
-
----
-
-> ⚠️ **Aviso**: Este relatório é gerado para fins de pesquisa apenas e **não constitui aconselhamento médico**. Candidatos a reposicionamento de fármacos devem ser validados por meio de ensaios clínicos antes de qualquer aplicação clínica.
+- Dados do mecanismo de ação do brigatinibe e análise de sua relevância para a fibromatose gengival
+- Estudos pré-clínicos que avaliem plausibilidade biológica nesta condição
+- Bula da ANVISA com advertências e contraindicações, para triagem de segurança
+- Avaliação da viabilidade de via de administração e formulação para uso gengival
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

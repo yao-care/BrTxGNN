@@ -1,20 +1,21 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Belimumabe
 parent: Apenas Predição do Modelo (L5)
-nav_order: 112
+nav_order: 111
 evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-11-12
-predicted_indications: []
+indication_count: 6
+drugbank_id: DB08879
+monitor_inn: "Belimumab"
+predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "fetal and neonatal alloimmune thrombocytopenia", "severe nonproliferative diabetic retinopathy", "autosomal dominant macrothrombocytopenia"]
+last_modified_at: 2026-11-16
+description: "Belimumabe: nova indicação prevista, Distúrbio primário de liberação plaquetária (primary release disorder of platelets) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Belimumabe
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **0** 
+Nível de evidência: **L5** | Indicações previstas: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,67 +34,57 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-## BELIMUMABE: Avaliação de Reposicionamento — Dados Insuficientes para Previsão Completa
+## Belimumabe: Distúrbio primário de liberação plaquetária (primary release disorder of platelets)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Belimumabe é um biológico (anticorpo monoclonal) registrado no mercado brasileiro, cujo mecanismo de ação não consta no Evidence Pack atual. O modelo TxGNN **não gerou previsões de novas indicações** para este fármaco nesta execução, e os dados de registro regulatório estão incompletos — tornando impossível concluir uma avaliação de reposicionamento nesta fase.
-
----
+Belimumabe é um anticorpo monoclonal que inibe o estimulador de linfócitos B (BLyS/BAFF), comercializado no Brasil com o nome Benlysta.
+O modelo TxGNN prevê que pode ser eficaz para **Distúrbio primário de liberação plaquetária (primary release disorder of platelets)**,
+mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção; trata-se apenas de uma previsão computacional.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
-|------|----------|
-| Indicação Original | Não disponível no Evidence Pack |
-| Nova Indicação Prevista | Não disponível (nenhuma previsão TxGNN retornada) |
-| Pontuação de Previsão TxGNN | — |
-| Nível de Evidência | L5 (sem previsões nem estudos associados) |
+|------|------|
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Distúrbio primário de liberação plaquetária (primary release disorder of platelets) |
+| Pontuação de Previsão TxGNN | 0.9996 |
+| Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
 | Número de Registros | 1 (ativos: 1) |
-| Decisão Recomendada | **Hold** |
-
----
+| Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação disponíveis neste Evidence Pack. Segundo informações conhecidas, belimumabe é um anticorpo monoclonal IgG1λ que inibe o estimulador de linfócitos B (BLyS/BAFF), reduzindo a sobrevivência de células B autorreativas — mecanismo relevante para doenças autoimunes. No entanto, como o campo `original_moa` está ausente e `predicted_indications` está vazio, **não é possível estabelecer a relação mecanística entre indicação original e nova indicação** nesta avaliação.
+Atualmente, não há dados detalhados no conjunto compilado sobre o mecanismo de ação registrado para este fármaco. Pelo conhecimento geral da classe, o belimumabe inibe o BLyS solúvel (BAFF), reduzindo a sobrevivência de linfócitos B e a produção de autoanticorpos.
 
-> **Nota:** O Evidence Pack está incompleto. Os dados necessários para análise de reposicionamento — indicação original, MOA detalhado e previsões TxGNN — precisam ser obtidos antes de prosseguir.
+Os distúrbios primários de liberação plaquetária costumam ser defeitos hereditários ou adquiridos da secreção de grânulos e da sinalização plaquetária, e não são impulsionados principalmente por autoimunidade mediada por linfócitos B. Por isso, não se identifica uma ligação mecanística plausível entre a inibição de BLyS e esta condição.
 
----
+A pontuação elevada (0,9996) reflete apenas uma previsão computacional, sem respaldo de ensaios clínicos ou literatura. A previsão deve ser tratada como hipótese a ser examinada com cautela, não como indício de benefício terapêutico.
 
 ## Informações de Comercialização no Brasil
 
-O fármaco possui **1 registro ativo** com status "Já Comercializado".
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro 101070295 | Benlysta | Não informada | Não registrada nos dados locais |
 
-<!-- review:begin br-lic-20261106-belimumabe-1 -->
+## Considerações de Segurança
 
-> **Correção de verificação (2026-11-06)**: Texto original: “O fármaco possui **1 registro ativo** com status "Já Comercializado". Os detalhes individuais do registro (número, nome comercial, forma farmacêutica e indicação aprovada) **não foram populados** no Evidence Pack atual e precisam ser recuperados via download da bula na ANVISA.” Removido: a descrição dos produtos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-lic-20261106-belimumabe-1 -->
-
-| Registro | Produto | Empresa detentora | Situação |
-|------|------|------|------|
-| 101070295 | BENLYSTA | GLAXOSMITHKLINE BRASIL LTDA | Ativo |
-
----
+Consulte a bula para informações de segurança.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-O Evidence Pack está estruturalmente incompleto — ausência de previsões TxGNN (`predicted_indications: []`), dados de MOA ausentes e detalhes de registro regulatório não populados. Não existe base de evidências suficiente para emitir recomendação de reposicionamento.
+- Não há ensaios clínicos nem publicações sobre esta indicação, não há racional mecanístico plausível e o nível de evidência é L5 (apenas previsão do modelo).
 
 **Para prosseguir, é necessário:**
-
-- **\[Bloqueante\]** Baixar e analisar a bula em PDF no portal ANVISA para obter advertências, contraindicações e indicação aprovada
-- **\[Alta prioridade\]** Consultar DrugBank API com o INN "belimumab" para obter `drugbank_id`, MOA e categorias farmacológicas
-- **\[Alta prioridade\]** Reexecutar o pipeline TxGNN para gerar previsões de novas indicações — verificar se o fármaco está presente no vocabulário do modelo (`drugbank_vocab.csv`)
-- **\[Médio\]** Popular os campos de registro regulatório: número de registro ANVISA, nome comercial, forma farmacêutica e texto completo da indicação aprovada
-- **\[Médio\]** Revisar a busca de DDI (resultado `not_found`) — confirmar se a ausência é real ou se o identificador usado na busca estava incorreto
+- Obter e analisar a bula da ANVISA (advertências e contraindicações), hoje ausente dos dados.
+- Obter dados do mecanismo de ação em fonte de referência (por exemplo, DrugBank).
+- Realizar busca sistemática de literatura e estudos pré-clínicos que justifiquem uma ligação entre a inibição de BLyS e os defeitos de liberação plaquetária.
+- Reavaliar a decisão somente se surgirem evidências diretas para a doença prevista.
 
 <!-- review:begin log -->
 
@@ -103,7 +94,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “Os detalhes individuais do registro (número, nome comercial, forma farmacêutica e indicação aprovada) **não foram populados** no Evidence Pa” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Os detalhes individuais do registro (número, nome comercial, forma farmacêutica e indicação aprovada) **não foram populados** no Evidence Pa” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

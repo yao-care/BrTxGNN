@@ -1,20 +1,21 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Palbociclibe
 parent: Apenas Predição do Modelo (L5)
-nav_order: 505
+nav_order: 503
 evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-11-12
-predicted_indications: []
+indication_count: 4
+drugbank_id: DB09073
+monitor_inn: "Palbociclib"
+predicted_indications: ["hyperthyroidism", "rheumatoid arthritis", "thrombotic disease", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta"]
+last_modified_at: 2026-11-16
+description: "Palbociclibe: nova indicação prevista, Hipertireoidismo (hyperthyroidism) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Palbociclibe
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **0** 
+Nível de evidência: **L5** | Indicações previstas: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,83 +34,75 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-## Palbociclib: Avaliação de Reposicionamento — Dados Insuficientes para Análise Completa
+## Palbociclibe: Hipertireoidismo (hyperthyroidism)
 {: .text-alpha }
 
-## Resumo
+## Resumo em Uma Frase
 
-Palbociclib (registrado no sistema como "PALBOCICLIBE") é um inibidor de CDK4/6 da classe das terapias-alvo, indicado para o tratamento de câncer de mama hormônio-receptor positivo e HER2-negativo (HR+/HER2−).
-O Evidence Pack atual **não contém indicações previstas pelo TxGNN**, o que impossibilita a análise de reposicionamento neste momento.
-Para avançar, é necessário resolver os dois gaps de dados críticos identificados (DG001 e DG002) e executar o pipeline de predição.
-
----
+Palbociclibe é um inibidor das quinases dependentes de ciclina 4 e 6 (CDK4/6), comercializado no Brasil por vários titulares de registro.
+O modelo TxGNN prevê que pode ser eficaz para **Hipertireoidismo (hyperthyroidism)**,
+mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção; a previsão é puramente computacional.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
-|------|----------|
-| Indicação Original | Câncer de mama HR+/HER2− (dados detalhados pendentes — ver DG001) |
-| Nova Indicação Prevista | Nenhuma indicação prevista disponível no Evidence Pack |
-| Pontuação de Previsão TxGNN | — |
-| Nível de Evidência | L5 — sem predições nem estudos no Evidence Pack atual |
+|------|------|
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Hipertireoidismo (hyperthyroidism) |
+| Pontuação de Previsão TxGNN | 0.9944 |
+| Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 7 de 8) |
 | Número de Registros | 8 (ativos: 7) |
-| Decisão Recomendada | **Hold** |
-
----
+| Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Esta seção não pode ser preenchida no ciclo atual.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Sabe-se que o palbociclibe pertence à classe dos inibidores de CDK4/6, que bloqueiam a progressão do ciclo celular da fase G1 para a fase S.
 
-O campo `predicted_indications` está vazio, o que significa que o modelo TxGNN ainda não gerou candidatos de reposicionamento para este fármaco. Sem uma indicação-alvo definida, não é possível avaliar a coerência mecanística de nenhuma hipótese de reposicionamento.
+Não há um elo mecanístico evidente entre a inibição de CDK4/6 e o excesso de hormônio tireoidiano. Nenhum ensaio clínico ou publicação foi encontrado para hipertireoidismo, de modo que o sinal é exclusivamente computacional e a plausibilidade biológica não pôde ser avaliada.
 
-Adicionalmente, o dado de mecanismo de ação (MOA) está ausente (DG002), o que limitaria a análise mesmo que houvesse uma indicação prevista. Recomenda-se consultar o DrugBank (DB01229 — palbociclib) para obter os alvos moleculares antes de prosseguir.
-
----
+Além disso, o palbociclibe causa mielossupressão (neutropenia), o que representa uma preocupação de segurança adicional em uma condição endócrina benigna, em que alternativas estabelecidas já estão disponíveis.
 
 ## Informações de Comercialização no Brasil
 
-O fármaco está registrado no Brasil com **7 registros ativos** confirmados pela ANVISA.
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| 115410021 | Palbociclibe | — | Não informada |
+| 115410022 | Sedecib | — | Não informada |
+| 121100467 | Ibrance | — | Não informada |
+| 121100495 | Agatha | — | Não informada |
+| 121100502 | Ibrance | — | Não informada |
 
-<!-- review:begin br-lic-20261106-palbociclibe-1 -->
-
-> **Correção de verificação (2026-11-06)**: Texto original: “O fármaco está registrado no Brasil com **7 registros ativos** confirmados pela ANVISA. Os detalhes individuais de cada registro (número, nome comercial, forma farmacêutica e indicação aprovada) não foram recuperados na coleta atual.” Removido: a descrição dos produtos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 8 registros para este medicamento, 7 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-lic-20261106-palbociclibe-1 -->
-
-> Para visualizar os registros completos, consulte diretamente o portal da ANVISA em [consultas.anvisa.gov.br](https://consultas.anvisa.gov.br/) pesquisando por "palbociclibe".
-
----
+Os dados compilados incluem 8 registros no total (7 válidos e 1 cancelado); a tabela acima mostra os 5 principais.
 
 ## Citotoxicidade
 
-Palbociclib é classificado como antineoplásico (inibidor de CDK4/6 — terapia-alvo molecular), portanto esta seção se aplica.
-
 | Item | Conteúdo |
-|------|----------|
-| Classificação de Citotoxicidade | Terapia-alvo — Inibidor de CDK4/6 (não citotóxico convencional) |
-| Risco de Mielossupressão | Alto — neutropenia é o efeito adverso dose-limitante mais comum da classe; monitoramento obrigatório |
-| Classificação de Emetogenicidade | Baixa a mínima (conforme diretrizes ASCO/MASCC para inibidores orais de CDK4/6) |
-| Itens de Monitoramento | Hemograma completo (CBC) antes de cada ciclo; função hepática; função renal em populações de risco |
-| Proteção no Manuseio | Seguir protocolos institucionais de manuseio de antineoplásicos orais (capsula intacta — não triturar) |
+|------|------|
+| Classificação de Citotoxicidade | Terapia alvo (inibidor de CDK4/6) |
+| Risco de Mielossupressão | Alto (neutropenia é um efeito conhecido do fármaco) |
+| Classificação de Emetogenicidade | Consulte as advertências e precauções na bula |
+| Itens de Monitoramento | Hemograma completo (CBC) com diferencial, função hepática e renal |
+| Proteção no Manuseio | Consulte as advertências e precauções na bula |
 
----
+## Considerações de Segurança
+
+- **Mielossupressão**: o palbociclibe é associado a neutropenia, o que exige cautela em uma população não oncológica.
+
+Consulte a bula para as demais informações de segurança, incluindo advertências, contraindicações e interações medicamentosas.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-O Evidence Pack está incompleto em dois itens críticos: ausência de indicações previstas pelo TxGNN e ausência de dados de segurança (advertências, contraindicações e bula). Sem esses dados, não é possível conduzir nem a análise de eficácia nem a avaliação de segurança para qualquer indicação de reposicionamento.
+- A previsão para hipertireoidismo se baseia unicamente na pontuação do modelo (0,9944), sem ensaios clínicos, sem literatura e sem mecanismo plausível identificado. O nível de evidência é L5, e o perfil mielossupressor aumenta a preocupação de segurança.
 
 **Para prosseguir, é necessário:**
-
-- **\[DG001 — Bloqueante\]** Baixar e processar a bula da ANVISA para extrair advertências e contraindicações aprovadas no Brasil
-- **\[DG002 — Alta Prioridade\]** Consultar a DrugBank API (buscar por "palbociclib") para obter MOA, alvos moleculares e categorias farmacológicas
-- **Executar o pipeline TxGNN** para gerar `predicted_indications` e habilitar a análise de reposicionamento
-- **Recuperar detalhes dos 7 registros** ANVISA (número, nome comercial, forma farmacêutica, indicação aprovada)
-- **Verificar a grafia do INN** no sistema: padronizar de `"PALBOCICLIBE"` para `"palbociclibe"` (conforme INN em português brasileiro)
+- Dados detalhados do mecanismo de ação (MOA) e uma hipótese biológica que ligue a inibição de CDK4/6 ao hipertireoidismo
+- Estudos pré-clínicos que demonstrem algum efeito na doença
+- Bula da ANVISA com advertências e contraindicações para a triagem de segurança
+- Avaliação da relação risco-benefício frente às terapias já estabelecidas para hipertireoidismo
 
 <!-- review:begin log -->
 
@@ -119,7 +112,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “Os detalhes individuais de cada registro (número, nome comercial, forma farmacêutica e indicação aprovada) não foram recuperados na coleta a” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Os detalhes individuais de cada registro (número, nome comercial, forma farmacêutica e indicação aprovada) não foram recuperados na coleta a” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

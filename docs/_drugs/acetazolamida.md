@@ -1,20 +1,21 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Acetazolamida
 parent: Apenas Predição do Modelo (L5)
 nav_order: 19
 evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-11-12
-predicted_indications: []
+indication_count: 10
+drugbank_id: DB00819
+monitor_inn: "Acetazolamide"
+predicted_indications: ["exercise-induced malignant hyperthermia", "hypertrophic cardiomyopathy", "congenital myopathy with excess of thin filaments", "hypertrophic cardiomyopathy due to intensive athletic training", "distal myopathy, Tateyama type", "cirrhotic cardiomyopathy", "cardiomyopathy", "intestinal obstruction", "glycogen storage disease due to acid maltase deficiency, late-onset", "unclassified intestinal pseudoobstruction"]
+last_modified_at: 2026-11-16
+description: "Acetazolamida: nova indicação prevista, hipertermia maligna induzida por exercício (exercise-induced malignant hyperthermia) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Acetazolamida
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **0** 
+Nível de evidência: **L5** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,71 +34,68 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-## Acetazolamida: Avaliação de Reposicionamento — Previsões TxGNN Não Disponíveis
+## Acetazolamida: hipertermia maligna induzida por exercício (exercise-induced malignant hyperthermia)
 {: .text-alpha }
 
-## Resumo
+## Resumo em Uma Frase
 
-Acetazolamida (ACETAZOLAMIDA) é um inibidor da anidrase carbônica classicamente utilizado no tratamento do glaucoma de ângulo aberto, edema e epilepsia do tipo ausência. Nesta execução do pipeline TxGNN, **não foram geradas previsões de novas indicações** para este fármaco. A avaliação completa de reposicionamento não pode ser concluída até que os dados ausentes sejam complementados e o modelo reprocessado.
-
----
+Acetazolamida é um inibidor da anidrase carbônica, com registros ativos e cancelados no Brasil.
+O modelo TxGNN prevê que pode ser eficaz para **hipertermia maligna induzida por exercício (exercise-induced malignant hyperthermia)**, mas **não há ensaios clínicos nem publicações** que apoiem essa direção; trata-se apenas de uma previsão do modelo.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Fármaco | Acetazolamida (ACETAZOLAMIDA) |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | hipertermia maligna induzida por exercício (exercise-induced malignant hyperthermia) |
+| Pontuação de Previsão TxGNN | 0.9995 |
+| Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 3) |
 | Número de Registros | 3 (ativos: 1) |
-| Previsões TxGNN Disponíveis | Nenhuma |
-| Nível de Evidência | Não aplicável |
 | Decisão Recomendada | Hold |
 
----
+## Por que Esta Previsão é Razoável?
 
-## Por que Esta Avaliação Está Incompleta?
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Sabe-se, de forma geral, que a acetazolamida inibe a anidrase carbônica, o que altera o equilíbrio ácido-base e iônico dos tecidos.
 
-O Evidence Pack recebido apresenta lacunas em três camadas distintas que, em conjunto, inviabilizam a avaliação padrão de reposicionamento:
+Uma ligação plausível, porém não verificada, é que o fármaco module o equilíbrio iônico e ácido-base no músculo esquelético, como ocorre em paralisias periódicas. Já a hipertermia maligna é impulsionada pela liberação desregulada de cálcio pelo receptor RyR1, e nenhum dado sustenta um papel da acetazolamida nesse mecanismo.
 
-**1. Ausência de previsões do modelo TxGNN**
-O campo `predicted_indications` está vazio. Isso pode decorrer de falha no mapeamento do nome do fármaco: o pipeline recebeu "ACETAZOLAMIDA" (grafia em português/espanhol), mas o DrugBank e o grafo de conhecimento TxGNN indexam o composto como "acetazolamide" (INN em inglês). A ausência de `drugbank_id` no pacote confirma que o mapeamento DrugBank não foi resolvido nesta execução.
+Portanto, a previsão se apoia somente na pontuação do modelo. Sem estudos que abordem diretamente a doença, ela deve ser tratada como hipótese a ser testada, não como achado.
 
-**2. Detalhes regulatórios incompletos**
+## Evidências de Ensaios Clínicos
 
-<!-- review:begin br-lic-20261106-acetazolamida-1 -->
+Atualmente não há ensaios clínicos relacionados registrados.
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Detalhes regulatórios incompletos** / Embora o sistema confirme **5 registros ativos** na ANVISA, todos os campos de detalhe (número de registro, nome comercial, forma farmacêutica, indicação aprovada) constam como vazios. Os dados foram coletados do portal TFDA/ANVISA, mas a extração dos metadados dos registros individuais não foi concluída.” Removido: texto residual do modelo taiwanês (TFDA), que não se aplica a esta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+## Evidências da Literatura
 
-<!-- review:end br-lic-20261106-acetazolamida-1 -->
+Atualmente não há literatura relacionada.
 
-**3. Dados de segurança e mecanismo ausentes**
-As advertências, contraindicações e o mecanismo de ação (MOA) são classificados como lacunas de dados com severidade **Bloqueante (DG001)** e **Alta (DG002)**, respectivamente, impedindo a avaliação de segurança preliminar.
+## Informações de Comercialização no Brasil
 
----
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| 104970289 | DIAMOX | Não informada | Não registrada nos dados locais |
+| 107150117 | ZOLAMOX | Não informada | Não registrada nos dados locais |
+| 121100102 | DIAMOX | Não informada | Não registrada nos dados locais |
 
-## Lacunas de Dados Críticas
+Dos registros listados, 1 está válido e 2 estão cancelados.
 
-| Código | Item Ausente | Severidade | Impacto | Fonte Recomendada |
-|--------|-------------|-----------|---------|-------------------|
-| DG001 | Advertências e contraindicações (bula ANVISA) | Bloqueante | Sem avaliação de segurança S1 | ANVISA — baixar PDF da bula e processar |
-| DG002 | Mecanismo de ação (MOA) | Alta | Sem análise de relevância mecanística | DrugBank API — buscar por "acetazolamide" |
+## Considerações de Segurança
 
----
+Consulte a bula para informações de segurança.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-O pipeline TxGNN não gerou candidatos de reposicionamento para Acetazolamida nesta execução, possivelmente por falha no mapeamento do nome INN (português → inglês). Sem previsões de novas indicações, a estrutura central do relatório de reposicionamento não pode ser preenchida.
+- A previsão não tem nenhum ensaio clínico ou publicação que estude a doença, e não há base mecanística clara que ligue a inibição da anidrase carbônica à hipertermia maligna (nível L5).
 
 **Para prosseguir, é necessário:**
-- Resolver o **mapeamento DrugBank**: buscar "acetazolamide" (INN em inglês) no DrugBank API para obter o `drugbank_id` correto (esperado: DB00819)
-- **Reexecutar o pipeline TxGNN** após confirmação do `drugbank_id`, com normalização do nome INN para inglês
-- **Coletar detalhes dos 5 registros ANVISA**: nome comercial, forma farmacêutica e indicação aprovada para cada registro
-- **Baixar e processar a bula ANVISA** para advertências e contraindicações (remediar DG001)
-- **Consultar DrugBank API** para obter o mecanismo de ação completo (remediar DG002)
-- Após reprocessamento, verificar se `predicted_indications` foi populado e reemitir o relatório completo
+- Revisão sistemática da literatura sobre acetazolamida e hipertermia maligna ou miopatias relacionadas ao RyR1
+- Dados do mecanismo de ação e estudos pré-clínicos em modelos musculares
+- Obtenção e análise da bula da ANVISA para avaliar advertências e contraindicações
+- Avaliação da compatibilidade de vias de administração com o uso proposto
 
 <!-- review:begin log -->
 
@@ -107,7 +105,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “Embora o sistema confirme **5 registros ativos** na ANVISA, todos os campos de detalhe (número de registro, nome comercial, forma farmacêuti” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Embora o sistema confirme **5 registros ativos** na ANVISA, todos os campos de detalhe (número de registro, nome comercial, forma farmacêuti” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 
