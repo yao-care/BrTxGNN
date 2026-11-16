@@ -1,34 +1,16 @@
 ---
-noindex: true
-sitemap: false
-layout: default
-nav_exclude: true
-title: DEXAMETHASONE ACETATE
-drugbank_id: DB14649
+layout: id_redirect
 permalink: /drugs/dexamethasone_acetate/
+sitemap: false
 search_exclude: true
-last_modified_at: 2026-10-29
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+nav_exclude: true
 ---
-
-# DEXAMETHASONE ACETATE
-
-## Visão Geral Rápida
-
-| Item | Conteúdo |
-|------|----------|
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
-| Número de Registros | pelo menos 20 |
-| DrugBank ID | [DB14649](https://go.drugbank.com/drugs/DB14649) |
-| Novas indicações previstas | Nenhuma |
-
-## Aviso de isenção de responsabilidade
-
-Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
-É necessária validação clínica antes de qualquer aplicação clínica.
-
----
-
-[← Voltar à lista de medicamentos](/drugs/)
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<title>Redirecting&hellip;</title>
+<link rel="canonical" href="{{ site.url }}/drugs/dexamethasone/">
+<meta http-equiv="refresh" content="0; url=/drugs/dexamethasone/">
+<script>location="/drugs/dexamethasone/"</script>
+<a href="/drugs/dexamethasone/">/drugs/dexamethasone/</a>
+</html>

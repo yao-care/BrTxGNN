@@ -1,33 +1,16 @@
 ---
-noindex: true
-sitemap: false
-layout: default
-nav_exclude: true
-title: MOMETASONE FUROATE
-drugbank_id: DB14512
+layout: id_redirect
 permalink: /drugs/mometasone_furoate/
-last_modified_at: 2026-11-13
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+sitemap: false
+search_exclude: true
+nav_exclude: true
 ---
-
-# MOMETASONE FUROATE
-
-## Visão Geral Rápida
-
-| Item | Conteúdo |
-|------|----------|
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 14 de 18) |
-| Número de Registros | 18 (ativos: 14) |
-| DrugBank ID | [DB14512](https://go.drugbank.com/drugs/DB14512) |
-| Novas indicações previstas | Nenhuma |
-
-## Aviso de isenção de responsabilidade
-
-Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
-É necessária validação clínica antes de qualquer aplicação clínica.
-
----
-
-[← Voltar à lista de medicamentos](/drugs/)
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<title>Redirecting&hellip;</title>
+<link rel="canonical" href="{{ site.url }}/drugs/mometasone/">
+<meta http-equiv="refresh" content="0; url=/drugs/mometasone/">
+<script>location="/drugs/mometasone/"</script>
+<a href="/drugs/mometasone/">/drugs/mometasone/</a>
+</html>
