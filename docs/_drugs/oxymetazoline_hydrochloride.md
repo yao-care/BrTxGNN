@@ -39,8 +39,8 @@ Nível de evidência: **L5** | Indicações previstas: **2**
 
 ## Resumo em Uma Frase
 
-A oximetazolina é um descongestionante nasal tópico, com registros válidos no Brasil.
-O modelo TxGNN prevê que pode ser útil para **Doença da cavidade nasal (nasal cavity disease)**, mas até o momento há **nenhum ensaio clínico** e **5 publicações** de apoio, todas indiretas ou de pequeno porte (um estudo animal, estudos de coorte e relatos de caso).
+A oximetazolina é um descongestionante nasal tópico com registros ativos no Brasil.
+O modelo TxGNN prevê que pode ser útil para **Doença da cavidade nasal (nasal cavity disease)**, uma categoria muito ampla. Os dados compilados para este relatório trazem **nenhum ensaio clínico** e **5 publicações** associadas, a maioria com relação indireta com o fármaco.
 
 ## Visão Geral Rápida
 
@@ -56,54 +56,47 @@ O modelo TxGNN prevê que pode ser útil para **Doença da cavidade nasal (nasal
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. De forma geral, a oximetazolina é conhecida como agonista alfa-adrenérgico tópico (alfa-1 e parcialmente alfa-2), que provoca vasoconstrição dos vasos da mucosa nasal, reduz o edema e a congestão e melhora a passagem de ar pelo nariz.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo o conhecimento farmacológico geral, a oximetazolina é um agonista alfa-1 de ação direta e agonista alfa-2 parcial, que provoca vasoconstrição dos vasos da mucosa nasal. Isso reduz o fluxo sanguíneo e o edema da mucosa, melhorando a permeabilidade nasal e ajudando no controle de sangramentos.
 
-Essa ação é coerente com o alívio de sintomas em doenças da cavidade nasal, como rinite aguda, sinusite e lesões vasculares com tendência a sangramento. Contudo, o uso já é muito próximo daquele de um descongestionante nasal, de modo que a previsão se parece mais com uma confirmação de farmacologia conhecida do que com um reposicionamento genuíno. A pontuação muito alta provavelmente reflete essa farmacologia conhecida.
-
-Um ponto de cautela é a congestão de rebote (rinite medicamentosa) com o uso prolongado.
-
-## Evidências de Ensaios Clínicos
-
-Atualmente não há ensaios clínicos relacionados registrados.
+Esse mecanismo é coerente com condições da mucosa nasal, como congestão, rinite, sinusite e lesões vasculares. A pontuação elevada do TxGNN é compatível com essa lógica. No entanto, "doença da cavidade nasal" é uma categoria genérica, e o fármaco já é usado como descongestionante nasal tópico. Por isso, o valor de um eventual reposicionamento estaria em subindicações específicas (por exemplo, epistaxe na telangiectasia hemorrágica hereditária ou adjuvante em sinusite aguda), e não na categoria geral. A previsão pode refletir mais uma lacuna de curadoria de dados do que um sinal realmente novo.
 
 ## Evidências da Literatura
 
-Nenhuma das publicações recuperadas testa a oximetazolina como tratamento da doença da cavidade nasal em si; são estudos indiretos, de pequeno porte ou em animais. Por isso, o nível de evidência é L5.
+Nenhum dos estudos abaixo avalia diretamente a doença da cavidade nasal como categoria definida, com a oximetazolina como intervenção principal. Por isso, o nível de evidência foi mantido em L5.
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [9929658](https://pubmed.ncbi.nlm.nih.gov/9929658/) | 1998 | Coorte | Annals of the New York Academy of Sciences | Efeitos do resfriado comum na função olfativa em 36 voluntários, com medidas eletrofisiológicas e psicofísicas e avaliação do volume nasal por rinometria acústica |
-| [8615587](https://pubmed.ncbi.nlm.nih.gov/8615587/) | 1996 | Estudo animal | The Annals of Otology, Rhinology, and Laryngology | Gotas nasais de oximetazolina avaliadas na defesa tecidual local em sinusite bacteriana aguda experimental em 14 coelhos |
-| [25496205](https://pubmed.ncbi.nlm.nih.gov/25496205/) | 2015 | Coorte | Journal of Plastic Surgery and Hand Surgery | Avaliação da patência nasal por rinometria acústica em crianças com fissura labiopalatina reparada, comparadas a controles |
-| [38024464](https://pubmed.ncbi.nlm.nih.gov/38024464/) | 2023 | Relato de caso | Global Pediatric Health | Rinoscleroma em menino de 9 anos, doença granulomatosa rara que acomete sobretudo a cavidade nasal |
-| [28490409](https://pubmed.ncbi.nlm.nih.gov/28490409/) | 2017 | Relato de caso | American Journal of Rhinology & Allergy | Técnica de coblação endoscópica para telangiectasias nasais na telangiectasia hemorrágica hereditária |
+| [8615587](https://pubmed.ncbi.nlm.nih.gov/8615587/) | 1996 | Estudo pré-clínico (coelho) | Annals of Otology, Rhinology & Laryngology | Avaliou o efeito de gotas nasais de oximetazolina na defesa tecidual local em sinusite bacteriana aguda experimental, com a outra cavidade nasal recebendo placebo |
+| [9929658](https://pubmed.ncbi.nlm.nih.gov/9929658/) | 1998 | Estudo clínico | Annals of the New York Academy of Sciences | Investigou a função olfatória em 36 voluntários com resfriado comum, com potenciais evocados quimiossensoriais e rinometria acústica; o papel da oximetazolina não é confirmado pelo título |
+| [25496205](https://pubmed.ncbi.nlm.nih.gov/25496205/) | 2015 | Estudo clínico | Journal of Plastic Surgery and Hand Surgery | Avaliou a permeabilidade nasal por rinometria acústica em crianças de 4 a 8 anos após reparo de fissura labiopalatina unilateral; relação com o fármaco indireta |
+| [28490409](https://pubmed.ncbi.nlm.nih.gov/28490409/) | 2017 | Série de casos/procedimento | American Journal of Rhinology & Allergy | Técnica de coblação endoscópica para telangiectasias nasais na telangiectasia hemorrágica hereditária; papel do fármaco provavelmente periférico |
+| [38024464](https://pubmed.ncbi.nlm.nih.gov/38024464/) | 2023 | Relato de caso | Global Pediatric Health | Rinoscleroma em menino de 9 anos; papel do fármaco pouco claro |
 
 ## Informações de Comercialização no Brasil
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
-| 155840385 | Cloridrato de Oximetazolina | Não informada | Descongestionantes nasais tópicos |
-| 103700469 | Cloridrato de Oximetazolina | Não informada | Descongestionantes nasais tópicos |
-| 178170934 | Aturgyl | Não informada | Descongestionantes nasais tópicos |
-| 103700360 | Oxifrin | Não informada | Descongestionantes nasais tópicos |
-| 102350782 | Cloridrato de Oximetazolina | Não informada | Descongestionantes nasais tópicos |
+| Registro 155840385 | Cloridrato de oximetazolina | Não informada | Descongestionantes nasais tópicos |
+| Registro 103700469 | Cloridrato de oximetazolina | Não informada | Descongestionantes nasais tópicos |
+| Registro 178170934 | Aturgyl | Não informada | Descongestionantes nasais tópicos |
+| Registro 103700360 | Oxifrin | Não informada | Descongestionantes nasais tópicos |
+| Registro 102350782 | Cloridrato de oximetazolina | Não informada | Descongestionantes nasais tópicos |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança. Como ponto de atenção a partir da literatura recuperada, o uso prolongado pode causar congestão de rebote (rinite medicamentosa), e simpatomiméticos exigem cuidado em pacientes que usam inibidores da monoaminoxidase (risco de interação e de efeitos hipertensivos).
+Consulte a bula para informações de segurança.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-- Não há ensaios clínicos nem estudo que avalie diretamente a oximetazolina na doença da cavidade nasal; as publicações são indiretas, de pequeno porte ou em animais, e o uso se sobrepõe ao de descongestionante já em comercialização, sem ganho claro de reposicionamento.
+- A previsão principal é uma categoria muito ampla, sobreposta ao uso já conhecido do fármaco como descongestionante nasal. Não há ensaios clínicos registrados e a literatura disponível é indireta ou pré-clínica.
 
 **Para prosseguir, é necessário:**
-- Definir com precisão qual condição da cavidade nasal seria o alvo e se ela vai além do uso já registrado.
-- Estudos clínicos que avaliem diretamente a oximetazolina nessa condição.
-- Dados de mecanismo de ação e de advertências e contraindicações da bula na ANVISA.
-- Plano de mitigação do risco de congestão de rebote e de interações medicamentosas.
+- Definir subindicações nasais específicas (por exemplo, epistaxe, adjuvante em sinusite aguda) e buscar estudos que as avaliem diretamente.
+- Obter dados de mecanismo de ação a partir de fonte farmacológica confiável.
+- Obter advertências e contraindicações da bula na ANVISA para a triagem de segurança.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

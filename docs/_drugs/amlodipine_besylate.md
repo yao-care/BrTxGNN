@@ -39,9 +39,8 @@ Nível de evidência: **L5** | Indicações previstas: **9**
 
 ## Resumo em Uma Frase
 
-O besilato de anlodipino é um anti-hipertensivo da classe dos bloqueadores de canais de cálcio, comercializado no Brasil.
-O modelo TxGNN prevê que ele possa ser eficaz para **Infarto do tronco encefálico (brain stem infarction)**.
-Até o momento, **nenhum ensaio clínico** e **nenhuma publicação** nos dados compilados para este relatório apoiam diretamente essa previsão.
+Besilato de anlodipino é um bloqueador dos canais de cálcio usado no tratamento da pressão alta.
+O modelo TxGNN prevê que pode ser eficaz para **Infarto do tronco encefálico (brain stem infarction)**, mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção específica; trata-se apenas de uma previsão do modelo.
 
 ## Visão Geral Rápida
 
@@ -57,31 +56,23 @@ Até o momento, **nenhum ensaio clínico** e **nenhuma publicação** nos dados 
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, o anlodipino pertence à classe dos bloqueadores de canais de cálcio di-hidropiridínicos. Esses fármacos relaxam a musculatura lisa dos vasos e reduzem a pressão arterial.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Sabe-se que o anlodipino é um bloqueador dos canais de cálcio do tipo L, da classe das di-hidropiridinas, que relaxa a musculatura lisa das artérias e reduz a pressão arterial.
 
-Uma justificativa plausível é o controle da pressão arterial na prevenção secundária do AVC. A pressão alta é um dos principais fatores de risco para eventos cerebrovasculares, e reduzi-la diminui o risco de novos episódios. Essa lógica é geral e não foi testada especificamente para o infarto do tronco encefálico.
+A hipótese do modelo é que a redução da pressão arterial e uma possível neuroproteção, plausíveis em outros acidentes vasculares cerebrais isquêmicos, também possam ser relevantes para o infarto do tronco encefálico. Trata-se de uma inferência a partir de condições cerebrovasculares relacionadas, e não de evidência direta.
 
-Nenhum ensaio clínico ou publicação foi recuperado para esta indicação. A única base da previsão é a pontuação do modelo. Ela indica uma associação estatística e não comprova eficácia ou segurança do anlodipino nesse cenário.
-
-## Evidências de Ensaios Clínicos
-
-Atualmente não há ensaios clínicos relacionados registrados.
-
-## Evidências da Literatura
-
-Atualmente não há literatura relacionada.
+Nenhum ensaio clínico ou publicação foi associado especificamente a esta doença. Por isso, a previsão não pode ser considerada respaldada por estudos reais, e a pontuação alta reflete apenas a proximidade do fármaco com condições cerebrovasculares nos dados do modelo.
 
 ## Informações de Comercialização no Brasil
 
-O fármaco consta como comercializado no Brasil. Os dados compilados trazem ao menos 20 registros válidos de produtos de princípio ativo único, e a lista pode ser parcial. Abaixo estão cinco dos registros principais.
+O fármaco consta como comercializado, com registros válidos de produtos de princípio ativo único. A lista abaixo pode ser parcial, pois há pelo menos 20 registros.
 
-| Número de Registro | Nome Comercial |
-|---------|------|
-| Registro 188300080 | Norvasc |
-| Registro 100890387 | Roxflan |
-| Registro 118190274 | Anlusbed |
-| Registro 103920150 | Amlodil |
-| Registro 100470275 | Amlovasc |
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| 151670029 | Besilato de Anlodipino | Não informada | Anti-hipertensivos simples |
+| 100890387 | Roxflan | Não informada | Anti-hipertensivos simples |
+| 118190274 | Anlusbed | Não informada | Anti-hipertensivos simples |
+| 188300080 | Norvasc | Não informada | Não informada |
+| 103920150 | Amlodil | Não informada | Anti-hipertensivos |
 
 ## Considerações de Segurança
 
@@ -92,14 +83,12 @@ Consulte a bula para informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão se apoia apenas na pontuação do modelo (0,9994), sem ensaios clínicos nem publicações para esta indicação, o que corresponde ao nível de evidência L5.
-- Faltam também dados de segurança da bula e de mecanismo de ação, de modo que não é possível avançar para a triagem de segurança.
+- Não há ensaios clínicos nem literatura que estudem diretamente o infarto do tronco encefálico; a previsão tem nível de evidência L5 e depende apenas do modelo.
 
 **Para prosseguir, é necessário:**
-- Realizar busca dirigida de estudos clínicos ou observacionais do anlodipino em infarto do tronco encefálico e em AVC isquêmico de circulação posterior.
-- Obter e analisar a bula na ANVISA, com advertências e contraindicações.
-- Complementar os dados de mecanismo de ação, por exemplo pela consulta ao DrugBank.
-- Avaliar se existe uma população-alvo definida e se a hipótese tem sentido além do controle geral da pressão arterial.
+- Estudos pré-clínicos ou clínicos que avaliem diretamente o anlodipino em infarto do tronco encefálico
+- Dados do mecanismo de ação e informações de segurança da bula da ANVISA
+- Revisão por especialistas para confirmar a plausibilidade biológica da previsão
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

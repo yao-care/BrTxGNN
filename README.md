@@ -30,11 +30,11 @@ Predicoes de reposicionamento de medicamentos para medicamentos aprovados pela A
 
 | Nivel de evidencia | Quantidade de relatorios | Descricao |
 |---------|-------|------|
-| **L1** | 6 | Multiplos ECRs de Fase 3 |
-| **L2** | 23 | ECR unico ou multiplos Fase 2 |
-| **L3** | 23 | Estudos observacionais |
+| **L1** | 7 | Multiplos ECRs de Fase 3 |
+| **L2** | 22 | ECR unico ou multiplos Fase 2 |
+| **L3** | 24 | Estudos observacionais |
 | **L4** | 31 | Estudos pre-clinicos / mecanisticos |
-| **L5** | 448 | Apenas predicao computacional |
+| **L5** | 447 | Apenas predicao computacional |
 | **N/A** | 44 | Apenas usos conhecidos (sem novas previsões) |
 
 ### Por fonte

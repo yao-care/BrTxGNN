@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Axitinibe
-parent: Apenas Predição do Modelo (L5)
+parent: Evidência Moderada (L3-L4)
 nav_order: 95
-evidence_level: L5
+evidence_level: L4
 indication_count: 4
 drugbank_id: DB06626
 monitor_inn: "Axitinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax"]
 last_modified_at: 2026-11-16
-description: "Axitinibe: nova indicação prevista, Liposarcoma (nível de evidência L5). Indicação original: Não consta nos dados locais"
+description: "Axitinibe: nova indicação prevista, lipossarcoma (liposarcoma) (nível de evidência L4). Indicação original: Não consta nos dados locais"
 ---
 
 # Axitinibe
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **4** 
+Nível de evidência: **L4** | Indicações previstas: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -34,40 +34,43 @@ Nível de evidência: **L5** | Indicações previstas: **4**
 
 </div>
 
-## Axitinibe: Liposarcoma
+## Axitinibe: lipossarcoma (liposarcoma)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Axitinibe é um inibidor seletivo dos receptores do fator de crescimento endotelial vascular (VEGFR-1, -2 e -3), comercializado no Brasil sob o nome Inlyta.
+Axitinibe é um inibidor de tirosina quinase com comercialização no Brasil sob o nome INLYTA.
+O modelo TxGNN prevê que pode ser eficaz para **lipossarcoma (liposarcoma)**, mas até o momento há apenas **1 publicação pré-clínica** e **nenhum ensaio clínico** apoiando esta direção.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
 | Indicação Original | Não consta nos dados locais |
-| Nova Indicação Prevista | Liposarcoma |
+| Nova Indicação Prevista | lipossarcoma (liposarcoma) |
 | Pontuação de Previsão TxGNN | 0.9987 |
-| Nível de Evidência | L5 |
+| Nível de Evidência | L4 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 2) |
 | Número de Registros | 2 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o axitinibe é um inibidor seletivo de tirosina quinase dos receptores VEGFR-1, VEGFR-2 e VEGFR-3, bloqueando a angiogênese tumoral.
+Axitinibe é um inibidor potente dos receptores de tirosina quinase VEGFR1, VEGFR2 e VEGFR3, com atividade também sobre PDGFR e c-KIT. Atualmente, não há dados detalhados de mecanismo de ação nas fontes compiladas para este relatório; a descrição aqui se baseia no conhecimento farmacológico geral do fármaco.
 
-O carcinoma de células renais (CCR) é um tumor altamente dependente de angiogênese. Por isso, é plausível que um fármaco antiangiogênico tenha algum efeito em subtipos de CCR ainda não classificados. Essa é, porém, uma extrapolação indireta a partir do CCR em geral.
+Os lipossarcomas, especialmente o subtipo mixoide, apresentam uma vasculatura capilar plexiforme proeminente e dependência de sinalização angiogênica. Assim, o bloqueio de VEGFR oferece um mecanismo antiangiogênico e antitumoral plausível.
 
-É importante ressaltar que a pontuação elevada do TxGNN (0,9987) é uma previsão do modelo e não constitui evidência clínica. Para este subtipo específico não há estudos diretos, o que limita o nível de evidência a L5.
+O único estudo disponível (2016) é pré-clínico e relata atividade antiangiogênica e antitumoral do axitinibe em modelos de lipossarcoma mixoide. Trata-se de suporte indireto e não clínico, e não permite concluir eficácia em pacientes.
 
 ## Evidências de Ensaios Clínicos
 
-Atualmente não há ensaios clínicos relacionados registrados para esta indicação.
+Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
-Atualmente não há literatura relacionada.
+| PMID | Ano | Tipo | Periódico | Principais Achados |
+|------|-----|------|------|---------|
+| [27822137](https://pubmed.ncbi.nlm.nih.gov/27822137/) | 2016 | Pré-clínico (in vitro / modelo in vivo) | Sarcoma | Em triagem de terapias contra linhagens celulares de lipossarcoma mixoide, os agentes antiangiogênicos mostraram atividade antitumoral; o axitinibe apresentou atividade antiangiogênica e antitumorigênica. |
 
 ## Informações de Comercialização no Brasil
 
@@ -76,33 +79,36 @@ Atualmente não há literatura relacionada.
 | Registro 121100452 | INLYTA | Não informada | Não informada |
 | Registro 102160240 | INLYTA | Não informada | Não informada |
 
-Dos dois registros, um está válido e um foi cancelado.
+Dos registros listados, um está válido e um está cancelado.
 
 ## Citotoxicidade
 
 | Item | Conteúdo |
 |------|------|
-| Classificação de Citotoxicidade | Terapia alvo (inibidor de tirosina quinase de VEGFR) |
+| Classificação de Citotoxicidade | Terapia alvo (inibidor de tirosina quinase) |
 | Risco de Mielossupressão | Consulte as advertências e precauções na bula |
 | Classificação de Emetogenicidade | Consulte as advertências e precauções na bula |
-| Itens de Monitoramento | Pressão arterial, função hepática, função tireoidiana e hemograma, conforme prática clínica para inibidores de VEGFR |
+| Itens de Monitoramento | Consulte as advertências e precauções na bula |
 | Proteção no Manuseio | Consulte as advertências e precauções na bula |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+Os dados compilados para este relatório não incluem advertências nem contraindicações extraídas da bula. Consulte a bula para informações de segurança.
+
+Como referência clínica geral, a toxicidade conhecida da classe inclui hipertensão, síndrome mão-pé, proteinúria e sangramento. Não foram encontradas interações medicamentosas nos dados compilados.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
+A previsão para lipossarcoma tem pontuação TxGNN alta (0,9987), mas se apoia em um único estudo pré-clínico em lipossarcoma mixoide e em nenhum ensaio clínico. Como esse estudo aborda um subtipo de lipossarcoma e não há dados clínicos, o suporte é limitado e a questão permanece como hipótese de pesquisa.
 
 **Para prosseguir, é necessário:**
-- Estudos clínicos ou séries de casos que avaliem o axitinibe especificamente em CCR não classificado
 - Dados detalhados do mecanismo de ação (MOA)
-- Obtenção e análise da bula da ANVISA (advertências e contraindicações)
-- Definição da população-alvo e caracterização histológica do subtipo antes de qualquer avaliação adicional
+- Advertências e contraindicações da bula aprovada pela ANVISA (lacuna bloqueante para a triagem de segurança)
+- Estudos pré-clínicos adicionais e, se justificável, ensaios clínicos de fase inicial em lipossarcoma
+- Avaliação do equilíbrio risco-benefício, considerando a toxicidade conhecida da classe dos inibidores de VEGFR
 
 <!-- review:begin log -->
 

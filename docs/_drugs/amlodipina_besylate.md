@@ -39,9 +39,8 @@ Nível de evidência: **L5** | Indicações previstas: **9**
 
 ## Resumo em Uma Frase
 
-Anlodipino besilato é um bloqueador de canais de cálcio di-hidropiridínico, comercializado no Brasil com registros locais ativos.
-O modelo TxGNN prevê que ele pode ser eficaz para **infarto do tronco encefálico (brain stem infarction)**, com pontuação de 0,9994.
-Até o momento, **nenhum ensaio clínico e nenhuma publicação** nos dados compilados para este relatório apoiam diretamente essa previsão.
+A amlodipina é um bloqueador dos canais de cálcio do tipo di-hidropiridínico, com ação vasodilatadora e redutora da pressão arterial.
+O modelo TxGNN prevê que ela possa ser útil em **infarto do tronco encefálico (brain stem infarction)**, mas há **0 ensaios clínicos** e **0 publicações** que apoiem essa previsão específica. Trata-se, por ora, de uma previsão exclusivamente computacional.
 
 ## Visão Geral Rápida
 
@@ -57,11 +56,11 @@ Até o momento, **nenhum ensaio clínico e nenhuma publicação** nos dados comp
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo o conhecimento farmacológico geral, o anlodipino bloqueia canais de cálcio do tipo L na musculatura lisa vascular, provocando vasodilatação e redução da pressão arterial.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Pelo conhecimento farmacológico geral, a amlodipina bloqueia os canais de cálcio do tipo L na musculatura lisa vascular, o que provoca vasodilatação e reduz a pressão arterial.
 
-Uma ligação plausível com o infarto do tronco encefálico é o controle da pressão arterial na prevenção secundária de acidente vascular cerebral. O controle pressórico é um fator modificável importante nesse contexto.
+Esse efeito vascular é a única ligação plausível com doenças cerebrovasculares, como o infarto do tronco encefálico. O controle da pressão e da resistência vascular poderia, em tese, influenciar o risco ou a evolução de eventos isquêmicos. Esse raciocínio é apenas teórico.
 
-Essa relação, porém, é apenas uma hipótese baseada na classe do fármaco. Não há estudo específico com anlodipino em infarto do tronco encefálico. A pontuação alta do TxGNN é uma previsão computacional e não substitui evidência clínica.
+Não há ensaios clínicos nem publicações ligados a esta previsão. Tampouco existem dados que permitam avaliar a similaridade entre a doença prevista e o uso original do fármaco. Por isso, a pontuação alta do modelo não pode ser interpretada como evidência de benefício clínico.
 
 ## Evidências de Ensaios Clínicos
 
@@ -73,7 +72,7 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-O anlodipino besilato como princípio ativo único possui registros válidos na ANVISA e está comercializado no Brasil. A lista de registros disponível nos dados compilados pode ser parcial.
+O medicamento está comercializado no Brasil. A lista pode ser parcial.
 
 ## Considerações de Segurança
 
@@ -84,13 +83,13 @@ Consulte a bula para informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão baseia-se apenas no modelo (nível L5), sem ensaios clínicos nem publicações que estudem diretamente o infarto do tronco encefálico. Faltam também dados de mecanismo e de segurança extraídos da bula.
+- A previsão para infarto do tronco encefálico se apoia somente na pontuação do modelo (nível de evidência L5), sem ensaios clínicos, sem literatura e sem dados de mecanismo que a sustentem.
 
 **Para prosseguir, é necessário:**
-- Obter e analisar as advertências e contraindicações da bula na ANVISA, hoje ausentes.
-- Obter dados de mecanismo de ação do fármaco em fonte curada, como o DrugBank.
-- Realizar busca dirigida por estudos clínicos ou observacionais com anlodipino em infarto do tronco encefálico e em acidente vascular cerebral isquêmico.
-- Definir a racionalidade clínica, incluindo a população-alvo e a fase da doença (prevenção secundária versus fase aguda), antes de qualquer avanço.
+- Revisão sistemática da literatura sobre amlodipina em infarto do tronco encefálico ou isquemia de circulação posterior.
+- Dados do mecanismo de ação do fármaco e análise da ligação mecanística com a doença prevista.
+- Informações de advertências e contraindicações da bula aprovada pela ANVISA, para triagem de segurança.
+- Estudos pré-clínicos ou observacionais que justifiquem um ensaio clínico dirigido a esta condição.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

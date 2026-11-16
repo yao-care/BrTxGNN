@@ -9,7 +9,7 @@ drugbank_id: DB00871
 monitor_inn: "Terbutaline"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome"]
 last_modified_at: 2026-11-16
-description: "Terbutalina Sulfate: nova indicação prevista, Respiratory malformation (nível de evidência L5). Indicação original: BRONCODILATADORES"
+description: "Terbutalina Sulfate: nova indicação prevista, Malformação respiratória (respiratory malformation) (nível de evidência L5). Indicação original: BRONCODILATADORES"
 ---
 
 # Terbutalina Sulfate
@@ -34,66 +34,66 @@ Nível de evidência: **L5** | Indicações previstas: **2**
 
 </div>
 
-## Terbutalina Sulfate: Respiratory malformation
+## Terbutalina Sulfate: Malformação respiratória (respiratory malformation)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Terbutalina sulfato é um broncodilatador agonista beta-2 adrenérgico, usado no Brasil como broncodilatador.
-O modelo TxGNN prevê que pode ser eficaz para **Doença pulmonar obstrutiva (obstructive lung disease)**,
-com **14 ensaios clínicos** e **20 publicações** compilados para esta direção, embora a maior parte dos ensaios use a terbutalina apenas como comparador ou medicação de resgate.
+A terbutalina é um agonista beta-2 adrenérgico, usado como broncodilatador.
+O modelo TxGNN prevê que pode ser útil para **Malformação respiratória (respiratory malformation)**, mas a previsão tem apoio direto muito limitado: há apenas **1 ensaio clínico** de caráter geral (sem relação específica com a terbutalina ou com esta doença) e **12 publicações** majoritariamente indiretas (asma, bronquite crônica, estenose de vias aéreas e outras condições).
+
+---
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
 | Indicação Original | BRONCODILATADORES |
-| Nova Indicação Prevista | Respiratory malformation |
+| Nova Indicação Prevista | Malformação respiratória (respiratory malformation) |
 | Pontuação de Previsão TxGNN | 0.9952 |
 | Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 6) |
 | Número de Registros | 6 (ativos: 5) |
-| Decisão Recomendada | Proceed with Guardrails |
+| Decisão Recomendada | Hold |
+
+---
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados de mecanismo de ação na base compilada para este relatório. Pelo conhecimento farmacológico estabelecido, a terbutalina é um agonista beta-2 adrenérgico seletivo: ao ativar o receptor acoplado à proteína Gs, aumenta o AMP cíclico e relaxa a musculatura lisa brônquica, produzindo broncodilatação.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Pelo que se sabe da classe, a terbutalina é um agonista beta-2 adrenérgico que relaxa a musculatura lisa brônquica, e há relato de que estimula a atividade ciliar (PMID 6314736).
 
-Esse mecanismo é exatamente o que se espera para aliviar a obstrução reversível das vias aéreas, como na asma e na doença pulmonar obstrutiva crônica. Por isso, a previsão do modelo é coerente, mas deve ser vista como uma confirmação de uso já conhecido ou muito próximo do já conhecido, e não como uma oportunidade de reposicionamento realmente nova.
+Esses efeitos poderiam, em teoria, aliviar sintomas de distúrbios das vias aéreas que acompanham anomalias estruturais do sistema respiratório, como estreitamento das vias aéreas e comprometimento da depuração mucociliar. O benefício seria apenas sintomático: nada indica que a terbutalina corrija ou modifique a malformação em si.
 
-Cuidados que acompanham o uso: efeitos cardiovasculares (taquicardia, arritmia), hipopotassemia e tremor; status de controle antidoping em atletas; e uso em gestantes e crianças, que exige doses específicas para cada população.
+A pontuação alta do TxGNN (0,9952) é uma previsão computacional e não constitui evidência clínica. A literatura reunida é indireta: trata de asma, bronquite crônica, diagnóstico diferencial de estenose de vias aéreas e de um único relato de caso de alívio sintomático parcial em paciente com múltiplas anomalias (PMID 9628312).
+
+---
 
 ## Evidências de Ensaios Clínicos
 
-Os ensaios abaixo estudam asma ou DPOC, que são doenças obstrutivas. Em vários deles a terbutalina é apenas comparador ou resgate, portanto a evidência é parcialmente indireta. Foram selecionados os 10 mais relevantes.
-
 | Número do Ensaio | Fase | Status | Participantes | Principais Achados |
 |---------|------|------|------|---------|
-| [NCT01096017](https://clinicaltrials.gov/study/NCT01096017) | Phase 3 | Concluído | 24 | Terbutalina Turbuhaler 0,4 mg vs salbutamol pMDI 200 μg, cruzado, em adultos japoneses com asma; avalia eficácia relativa e segurança |
-| [NCT06626620](https://clinicaltrials.gov/study/NCT06626620) | Phase 3 | Concluído | 120 | Sulfato de magnésio intravenoso vs terbutalina em crianças com exacerbação aguda de asma |
-| [NCT02149199](https://clinicaltrials.gov/study/NCT02149199) | Phase 3 | Concluído | 3850 | Symbicort conforme necessário vs terbutalina conforme necessário vs Pulmicort 2x/dia + terbutalina, em asma leve |
-| [NCT02224157](https://clinicaltrials.gov/study/NCT02224157) | Phase 3 | Concluído | 4215 | Symbicort conforme necessário vs Pulmicort 2x/dia + terbutalina conforme necessário em asma |
-| [NCT00839800](https://clinicaltrials.gov/study/NCT00839800) | Phase 3 | Concluído | 2091 | Symbicort SMART vs Symbicort + terbutalina conforme necessário (terbutalina como resgate comparador) |
-| [NCT00259766](https://clinicaltrials.gov/study/NCT00259766) | Phase 3 | Concluído | 1970 | Custos de saúde e controle da asma com Symbicort vs combinação livre com Bricanyl (terbutalina) como resgate |
-| [NCT00252863](https://clinicaltrials.gov/study/NCT00252863) | Phase 3 | Concluído | 1600 | Symbicort em terapia de inalador único vs melhor prática convencional em asma persistente |
-| [NCT00849095](https://clinicaltrials.gov/study/NCT00849095) | Phase 3 | Concluído | 860 | Budesonida/formoterol conforme necessário vs regular + terbutalina conforme necessário em asma leve a moderada |
-| [NCT02322788](https://clinicaltrials.gov/study/NCT02322788) | Phase 3 | Concluído | 95 | Bricanyl Turbuhaler M3 vs M2: proteção contra broncoconstrição induzida por metacolina em asma estável |
-| [NCT00421122](https://clinicaltrials.gov/study/NCT00421122) | Phase 3 | Concluído | 315 | Symbicort + Bricasol (terbutalina) vs Pulmicort + Bricasol em pacientes chineses com DPOC |
+| [NCT04278404](https://clinicaltrials.gov/study/NCT04278404) | N/A | Recrutando | 5000 | Estudo pediátrico amplo de farmacocinética e segurança de medicamentos pouco estudados em crianças; não é específico para terbutalina nem para malformação respiratória e não fornece evidência de eficácia |
+
+---
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [29768149](https://pubmed.ncbi.nlm.nih.gov/29768149/) | 2018 | RCT | N Engl J Med | Budesonida-formoterol conforme necessário como alternativa às estratégias convencionais na asma leve (a terbutalina compõe o comparador) |
-| [3281307](https://pubmed.ncbi.nlm.nih.gov/3281307/) | 1988 | RCT | Thorax | Adrenalina vs terbutalina subcutâneas em 20 pacientes com asma aguda grave |
-| [3073804](https://pubmed.ncbi.nlm.nih.gov/3073804/) | 1988 | RCT | Br J Dis Chest | Terbutalina oral aumentou a força diafragmática em 10 pacientes com DPOC moderada a grave |
-| [36227333](https://pubmed.ncbi.nlm.nih.gov/36227333/) | 2023 | Revisão sistemática | Naunyn-Schmiedeberg's Arch Pharmacol | Farmacocinética da terbutalina em humanos; usada em broncoespasmo de asma, bronquite, enfisema e DPOC |
-| [23348973](https://pubmed.ncbi.nlm.nih.gov/23348973/) | 2013 | Revisão | Am J Respir Crit Care Med | Terapia com beta-2 agonistas em doenças pulmonares; terbutalina como agonista de curta duração |
-| [4571398](https://pubmed.ncbi.nlm.nih.gov/4571398/) | 1973 | Estudo clínico | Arch Dis Child | Terbutalina oral em 30 crianças asmáticas: ação ventilatória prolongada sem efeitos cardiovasculares na dose maior |
-| [326244](https://pubmed.ncbi.nlm.nih.gov/326244/) | 1977 | Estudo clínico | Aust N Z J Med | Aerossóis de terbutalina e salbutamol em 16 pacientes; salbutamol com broncodilatação maior na primeira hora |
-| [373786](https://pubmed.ncbi.nlm.nih.gov/373786/) | 1979 | Estudo cruzado | Br J Dis Chest | Fenoterol e terbutalina aumentaram o pico de fluxo expiratório vs placebo em 17 asmáticos |
-| [26963310](https://pubmed.ncbi.nlm.nih.gov/26963310/) | 2015 | Revisão | Tuberk Toraks | Síndrome de sobreposição asma-DPOC, com limitação do fluxo aéreo parcialmente reversível |
-| [1478020](https://pubmed.ncbi.nlm.nih.gov/1478020/) | 1992 | Revisão | Clin Chest Med | Asma na gestação: agonista beta-adrenérgico inalado (terbutalina) como opção de manejo |
+| [3281307](https://pubmed.ncbi.nlm.nih.gov/3281307/) | 1988 | RCT | Thorax | Adrenalina subcutânea versus terbutalina em asma aguda grave (20 pacientes); estudo duplo-cego em outra doença |
+| [1629507](https://pubmed.ncbi.nlm.nih.gov/1629507/) | 1992 | RCT | J Allergy Clin Immunol | Budesonida inalatória versus terbutalina na inflamação das vias aéreas em asma recém-diagnosticada (14 adultos) |
+| [1620986](https://pubmed.ncbi.nlm.nih.gov/1620986/) | 1992 | Outro | Respiration | Em bronquite crônica, a terbutalina inalada reverteu de forma aguda alterações da impedância respiratória |
+| [12061354](https://pubmed.ncbi.nlm.nih.gov/12061354/) | 2002 | Coorte | Acta Paediatr | Série de 14 crianças com estenose central de vias aéreas (anéis vasculares, estenose subglótica); diferenciação de asma por espirometria |
+| [9628312](https://pubmed.ncbi.nlm.nih.gov/9628312/) | 1998 | Relato de caso | Acta Paediatr | Paciente com múltiplas anomalias e paralisia hipocalêmica, com alívio sintomático parcial pela terbutalina |
+| [6314736](https://pubmed.ncbi.nlm.nih.gov/6314736/) | 1983 | Outro | Acta Oto-Laryngol Suppl | Estimulante beta-adrenérgico aumenta o batimento ciliar; avaliação do aerossol de terbutalina em sinusite crônica |
+| [8327281](https://pubmed.ncbi.nlm.nih.gov/8327281/) | 1993 | Outro | Pediatr Pulmonol | Análise de curvas fluxo-volume em prematuros intubados, com mudança de forma após terbutalina |
+| [11813927](https://pubmed.ncbi.nlm.nih.gov/11813927/) | 2001 | Série de casos | Cardiol Young | Terbutalina em bloqueio cardíaco fetal completo; contexto cardíaco, não respiratório |
+| [42303000](https://pubmed.ncbi.nlm.nih.gov/42303000/) | 2026 | Coorte | Respir Med | Avaliação do tratamento de longo prazo em lactentes com bronquiolite obliterante pós-infecciosa |
+| [19254906](https://pubmed.ncbi.nlm.nih.gov/19254906/) | 2009 | Coorte | Arch Dis Child | Budesonida melhora a condutância das vias aéreas em lactentes com sintomas respiratórios |
+
+Nenhum desses estudos avalia diretamente a terbutalina em malformação respiratória.
+
+---
 
 ## Informações de Comercialização no Brasil
 
@@ -105,22 +105,29 @@ Os ensaios abaixo estudam asma ou DPOC, que são doenças obstrutivas. Em vário
 | Registro 125680088 | Sulfato de Terbutalina | Não informada | Broncodilatadores |
 | Registro 167730050 | BRONQUITOSS | Não informada | Broncodilatadores |
 
+Há ainda um registro cancelado, não listado acima.
+
+---
+
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança. Entre os cuidados apontados na análise do mecanismo: efeitos cardiovasculares (taquicardia, arritmia), hipopotassemia, tremor, controle antidoping em atletas e dosagem específica em gestantes e crianças.
+Consulte a bula para informações de segurança. Não foram encontradas interações medicamentosas nos dados compilados.
+
+---
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Proceed with Guardrails**
+**Decisão: Hold**
 
 **Justificativa:**
-- Há vários ensaios de Phase 3 concluídos em asma e DPOC, com a terbutalina como intervenção ou comparador, e o mecanismo beta-2 agonista é bem estabelecido. A previsão é, na prática, uma confirmação de uso já conhecido, e não um reposicionamento novo.
+- Nenhum estudo citado investiga diretamente a terbutalina em malformação respiratória; a pontuação do modelo é apenas computacional e o benefício, se existir, seria sintomático.
 
 **Para prosseguir, é necessário:**
-- Obter e analisar a bula na ANVISA (advertências e contraindicações) para a triagem de segurança.
-- Complementar os dados de mecanismo de ação a partir do DrugBank.
-- Definir um plano de monitoramento cardiovascular e de potássio, com dosagem específica para gestantes e crianças, e orientação sobre o controle antidoping.
-- Priorizar ensaios em que a terbutalina seja a intervenção testada, e não apenas o resgate comparador.
+- Obter dados de segurança da bula da ANVISA (advertências e contraindicações), hoje ausentes.
+- Complementar os dados de mecanismo de ação (por exemplo, via DrugBank).
+- Definir qual malformação respiratória específica e qual sintoma-alvo seriam tratados, com revisão da literatura direcionada.
+- Verificar a compatibilidade de vias de administração e formas farmacêuticas, não informadas nos registros locais.
+- Se houver interesse, planejar estudo exploratório em população pediátrica com sintomas obstrutivos associados a anomalias das vias aéreas.
 
 <!-- review:begin log -->
 

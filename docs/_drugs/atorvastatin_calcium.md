@@ -9,7 +9,7 @@ drugbank_id: DB01076
 monitor_inn: "Atorvastatin"
 predicted_indications: ["HIV infectious disease", "brain stem infarction", "cholesterol-ester transfer protein deficiency", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 last_modified_at: 2026-11-16
-description: "Atorvastatin Calcium: nova indicação prevista, HIV infectious disease (nível de evidência L1). Indicação original: ANTILIPEMICOS"
+description: "Atorvastatin Calcium: nova indicação prevista, Infecção por HIV (HIV infectious disease) (nível de evidência L1). Indicação original: ANTILIPEMICOS"
 ---
 
 # Atorvastatin Calcium
@@ -34,84 +34,103 @@ Nível de evidência: **L1** | Indicações previstas: **4**
 
 </div>
 
-## Atorvastatin Calcium: HIV infectious disease
+## Atorvastatin Calcium: Infecção por HIV (HIV infectious disease)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Atorvastatina cálcica é uma estatina registrada no Brasil na classe dos antilipêmicos.
-O modelo TxGNN prevê que pode ser eficaz para **hipercolesterolemia familiar (familial hypercholesterolemia)**, com **14 ensaios clínicos** e **20 publicações** compilados nesta direção, dos quais apenas parte estuda diretamente a atorvastatina.
+A atorvastatina cálcica é uma estatina, registrada no Brasil como antilipêmico. O modelo TxGNN prevê que ela pode ser útil em **Infecção por HIV (HIV infectious disease)**, com **14 ensaios clínicos** e **22 publicações** relacionados a esta direção. O uso mais sustentado pelos dados é como adjuvante cardiometabólico e anti-inflamatório em pessoas com HIV tratadas, e não como tratamento da infecção em si.
+
+---
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
 | Indicação Original | ANTILIPEMICOS |
-| Nova Indicação Prevista | HIV infectious disease |
+| Nova Indicação Prevista | Infecção por HIV (HIV infectious disease) |
 | Pontuação de Previsão TxGNN | 0.9931 |
 | Nível de Evidência | L1 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 18) |
 | Número de Registros | pelo menos 20 |
 | Decisão Recomendada | Proceed with Guardrails |
 
+---
+
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados de mecanismo de ação na base compilada para este relatório. Pelo conhecimento farmacológico estabelecido, a atorvastatina inibe a HMG-CoA redutase, enzima-chave da síntese hepática de colesterol. Com menos colesterol intracelular, o fígado aumenta os receptores de LDL e passa a retirar mais LDL-colesterol do sangue.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Com base na farmacologia geral das estatinas, a atorvastatina inibe a HMG-CoA redutase e reduz o LDL-colesterol.
 
-Na hipercolesterolemia familiar, o problema central é o LDL-colesterol cronicamente elevado por falha no receptor de LDL. Como a atorvastatina atua justamente na via que regula esses receptores, o mecanismo é aplicável. O efeito depende da atividade residual do receptor: tende a ser mais forte na forma heterozigótica e mais fraco na homozigótica.
+A atorvastatina não é um antiviral contra o HIV. A hipótese é que ela atue sobre a inflamação crônica, a ativação imune (em especial a ativação de monócitos/macrófagos) e o risco cardiovascular elevado, característicos de pessoas que vivem com HIV, inclusive a dislipidemia associada a inibidores de protease. Estatinas reduzem marcadores inflamatórios e melhoram a função endotelial, o que se encaixa nesse perfil.
+
+Há uma ressalva importante de segurança: interações farmacocinéticas com antirretrovirais (inibidores de protease, efavirenz) via CYP3A4 podem aumentar ou reduzir a exposição à atorvastatina, exigindo escolha cuidadosa da dose e monitoramento.
+
+---
 
 ## Evidências de Ensaios Clínicos
 
-Foram compilados 14 ensaios. Os mais relevantes para a atorvastatina nesta condição estão abaixo. Vários outros testam outros fármacos (alirocumabe, ezetimiba, torcetrapibe), com a atorvastatina apenas como terapia de base.
+Foram considerados os ensaios mais relevantes. Os dados compilados incluem 14 ensaios no total.
 
 | Número do Ensaio | Fase | Status | Participantes | Principais Achados |
 |---------|------|------|------|---------|
-| [NCT00827606](https://clinicaltrials.gov/study/NCT00827606) | Phase 3 | Concluído | 272 | Estudo aberto de 3 anos com atorvastatina em crianças e adolescentes com HF heterozigótica: crescimento, desenvolvimento e redução do colesterol |
-| [NCT00136981](https://clinicaltrials.gov/study/NCT00136981) | Phase 3 | Concluído | 800 | Torcetrapibe/atorvastatina vs. atorvastatina isolada em HF heterozigótica, com ultrassom de carótida; projeto encerrado por achados de segurança |
-| [NCT00134485](https://clinicaltrials.gov/study/NCT00134485) | Phase 3 | Concluído | 400 | Torcetrapibe/atorvastatina vs. atorvastatina isolada por 6 meses em HF heterozigótica |
-| [NCT00134511](https://clinicaltrials.gov/study/NCT00134511) | Phase 3 | Concluído | 30 | Torcetrapibe/atorvastatina em HF homozigótica, estudo aberto |
-| [NCT03884452](https://clinicaltrials.gov/study/NCT03884452) | Phase 3 | Concluído | 50 | Ezetimiba associada a atorvastatina ou sinvastatina em HF homozigótica |
-| [NCT03885921](https://clinicaltrials.gov/study/NCT03885921) | Phase 3 | Concluído | 44 | Extensão de segurança de longo prazo (até 24 meses) da ezetimiba com atorvastatina ou sinvastatina em HF homozigótica |
-| [NCT00739999](https://clinicaltrials.gov/study/NCT00739999) | Phase 1 | Concluído | 39 | Farmacocinética, farmacodinâmica e segurança da atorvastatina em crianças e adolescentes com HF heterozigótica |
-| [NCT01279590](https://clinicaltrials.gov/study/NCT01279590) | Phase 2 | Concluído | 282 | PPD10558 vs. atorvastatina em pacientes intolerantes a estatinas, quanto a mialgia |
-| [NCT01709500](https://clinicaltrials.gov/study/NCT01709500) | Phase 3 | Concluído | 249 | Alirocumabe vs. placebo em HF heterozigótica não controlada com a terapia hipolipemiante |
-| [NCT03510884](https://clinicaltrials.gov/study/NCT03510884) | Phase 3 | Concluído | 153 | Alirocumabe vs. placebo em crianças e adolescentes com HF heterozigótica, com estatina como base |
+| [NCT03037372](https://clinicaltrials.gov/study/NCT03037372) | Phase 3 | Desconhecido | 320 | Atorvastatina vs rosuvastatina por 36 meses como terapia adjuvante em adultos africanos em TARV, avaliando ativação imune, inflamação e envelhecimento imune |
+| [NCT01766076](https://clinicaltrials.gov/study/NCT01766076) | Phase 3 | Concluído | 30 | Atorvastatina como adjuvante em respondedores subótimos à TARV, com hipótese de redução de 25% na ativação imune |
+| [NCT02081638](https://clinicaltrials.gov/study/NCT02081638) | Phase 2 | Concluído | 53 | Estatina vs aspirina em controladores de elite e pacientes HIV+ em TARV, sobre imunoativação e inflamação |
+| [NCT00367458](https://clinicaltrials.gov/study/NCT00367458) | Phase 2 | Concluído | 24 | Ensaio randomizado controlado por placebo de atorvastatina em HIV+ sem TARV, avaliando carga viral e marcadores de ativação imune |
+| [NCT00965185](https://clinicaltrials.gov/study/NCT00965185) | Não aplicável | Concluído | 40 | Terapia com estatina para reduzir inflamação da placa e melhorar aterosclerose e função endotelial em pessoas com HIV |
+| [NCT01600170](https://clinicaltrials.gov/study/NCT01600170) | Phase 4 | Concluído | 11 | Modulação da ativação de monócitos/macrófagos por estatina em transtornos neurocognitivos associados ao HIV |
+| [NCT01263938](https://clinicaltrials.gov/study/NCT01263938) | Phase 4 | Concluído | 5 | Estudo piloto de atorvastatina sobre ativação de monócitos em pessoas com HIV em TARV |
+| [NCT00355251](https://clinicaltrials.gov/study/NCT00355251) | Phase 4 | Encerrado | 5 | Efeito da atorvastatina sobre a replicação viral antes da interrupção da TARV; encerrado precocemente com inclusão mínima |
+| [NCT00663234](https://clinicaltrials.gov/study/NCT00663234) | Phase 1/2 | Encerrado | 28 | Segurança e eficácia de doses crescentes de atorvastatina para LDL elevado associado a inibidores de protease em crianças e adolescentes com HIV |
+| [NCT00000941](https://clinicaltrials.gov/study/NCT00000941) | Phase 1 | Concluído | 56 | Interações farmacocinéticas entre inibidores de protease e hipolipemiantes, incluindo atorvastatina |
+
+Observação: os ensaios de fase 1 sobre interações medicamentosas (como NCT00000941, NCT00017758 e NCT01138072) são relevantes para segurança e dose, não para eficácia.
+
+---
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [25760954](https://pubmed.ncbi.nlm.nih.gov/25760954/) | 2015 | Revisão sistemática (Cochrane) | Cochrane Database Syst Rev | Magnitude do efeito da atorvastatina sobre os lipídios conforme a dose |
-| [9301631](https://pubmed.ncbi.nlm.nih.gov/9301631/) | 1997 | Estudo aberto | Arterioscler Thromb Vasc Biol | Atorvastatina 80 mg (dose única ou dividida) foi eficaz e segura em HF (22 participantes) |
-| [12883464](https://pubmed.ncbi.nlm.nih.gov/12883464/) | 2003 | Estudo clínico | Med Sci Monit | Atorvastatina reduziu a microalbuminúria em pacientes com HF |
-| [15199433](https://pubmed.ncbi.nlm.nih.gov/15199433/) | 2004 | Revisão | Semin Vasc Med | Aspectos diagnósticos, clínicos e terapêuticos da HF em crianças |
-| [28437620](https://pubmed.ncbi.nlm.nih.gov/28437620/) | 2017 | Diretriz | Endocr Pract | Diretriz AACE/ACE para manejo de dislipidemia e prevenção cardiovascular |
-| [34640319](https://pubmed.ncbi.nlm.nih.gov/34640319/) | 2021 | Estudo clínico | J Clin Med | Características clínicas da HF em crianças e adultos em centro polonês |
-| [10582478](https://pubmed.ncbi.nlm.nih.gov/10582478/) | 1999 | Revisão | Rev Med Brux | Revisão da atorvastatina, inibidora da HMG-CoA redutase |
-| [14727947](https://pubmed.ncbi.nlm.nih.gov/14727947/) | 2003 | Revisão | Am J Cardiovasc Drugs | Revisão da ezetimiba, que reduz o LDL-C |
+| [37772075](https://pubmed.ncbi.nlm.nih.gov/37772075/) | 2021 | RCT | F1000Research | Atorvastatina sobre aterosclerose subclínica em pacientes com HIV com supressão viral e soropositividade para CMV, duplo-cego e controlado por placebo |
+| [37450602](https://pubmed.ncbi.nlm.nih.gov/37450602/) | 2023 | RCT | AIDS | Atorvastatina vs aspirina em controladores de elite e pessoas com HIV em TARV, sobre inflamação residual |
+| [25441397](https://pubmed.ncbi.nlm.nih.gov/25441397/) | 2015 | RCT | Trop Med Int Health | Atorvastatina reduziu a ativação e a exaustão de células T em respondedores imunes subótimos em Uganda (estudo cruzado controlado por placebo) |
+| [18991624](https://pubmed.ncbi.nlm.nih.gov/18991624/) | 2008 | Ensaio randomizado aberto | Curr HIV Res | Comparação de rosuvastatina, pravastatina e atorvastatina para hipercolesterolemia em pacientes com HIV em uso de inibidores de protease |
+| [26658651](https://pubmed.ncbi.nlm.nih.gov/26658651/) | 2016 | Review | Curr Opin Infect Dis | Evidências de que estatinas reduzem o risco cardiovascular em pessoas com HIV |
+| [29804227](https://pubmed.ncbi.nlm.nih.gov/29804227/) | 2018 | Review | Curr Infect Dis Rep | Benefícios e riscos da terapia com estatina na população com HIV em TARV |
+| [27192322](https://pubmed.ncbi.nlm.nih.gov/27192322/) | 2016 | Review | Expert Opin Pharmacother | Terapias farmacológicas para distúrbios metabólicos relacionados ao HIV |
+| [28364370](https://pubmed.ncbi.nlm.nih.gov/28364370/) | 2017 | Revisão | Am J Cardiovasc Drugs | Recomendações para manejo de interações entre estatinas e medicamentos para HIV |
+| [32028327](https://pubmed.ncbi.nlm.nih.gov/32028327/) | 2020 | Ensaio clínico (coorte) | AIDS | Magnitude das interações com darunavir potencializado não é alterada pelo envelhecimento |
+| [41774493](https://pubmed.ncbi.nlm.nih.gov/41774493/) | 2026 | Pré-clínico (animal) | JCI Insight | Atorvastatina suprimiu fibrose e disfunção cardíaca induzidas por HIV/antirretrovirais em camundongos |
+
+---
 
 ## Informações de Comercialização no Brasil
 
-Há ao menos 20 registros; a lista pode estar incompleta. Dos 20 listados, 18 estão válidos e 2 cancelados.
+A lista abaixo pode ser parcial (pelo menos 20 registros identificados, dos quais 18 válidos e 2 cancelados).
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
-| Registro 188300084 | LIPITOR | Não informada | Antilipêmicos |
-| Registro 188300088 | CITALOR | Não informada | Antilipêmicos |
-| Registro 143810273 | VAZTMED | Não informada | Antilipêmicos |
-| Registro 118190474 | TORVILIP | Não informada | Antilipêmicos |
-| Registro 105830690 | ATORLESS | Não informada | Antilipêmicos |
+| 188300084 | Lipitor | Não informada | Antilipêmicos |
+| 188300088 | Citalor | Não informada | Antilipêmicos |
+| 143810273 | Vaztmed | Não informada | Antilipêmicos |
+| 118190474 | Torvilip | Não informada | Antilipêmicos |
+| 105830690 | Atorless | Não informada | Antilipêmicos |
+
+---
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança. Em ensaios com pacientes com HIV, a atorvastatina é metabolizada pela CYP3A4, de modo que inibidores de protease podem aumentar sua exposição e o risco de miopatia; isso é relevante para o uso combinado.
+Consulte a bula para informações de segurança. Com base nos ensaios e na literatura compilados, o ponto de atenção é a interação farmacocinética com antirretrovirais (inibidores de protease e efavirenz) via CYP3A4, que pode alterar a exposição à atorvastatina.
+
+---
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-- Há ensaios de Fase 3 concluídos que estudam a atorvastatina em hipercolesterolemia familiar (por exemplo, o estudo pediátrico de 3 anos com 272 participantes), e a atorvastatina é estatina amplamente usada. Vários outros ensaios, porém, avaliam outros fármacos com a atorvastatina apenas como terapia de base, e as advertências e contraindicações da bula ainda não estão disponíveis.
+- Há ensaios de fase 3 e de fase 2 diretamente em pessoas com HIV, além de ensaios randomizados publicados, que sustentam o efeito sobre ativação imune, inflamação e risco cardiovascular. O ensaio de fase 3 de maior porte (NCT03037372) tem status desconhecido, e vários estudos são pequenos; por isso o uso deve ser tratado como adjuvante cardiometabólico, e não como tratamento da infecção.
 
 <!-- review:begin br-lic-20261106-atorvastatin_calcium-1 -->
 
@@ -120,10 +139,10 @@ Consulte a bula para informações de segurança. Em ensaios com pacientes com H
 <!-- review:end br-lic-20261106-atorvastatin_calcium-1 -->
 
 **Para prosseguir, é necessário:**
-- Obter e analisar a bula na ANVISA (advertências e contraindicações), pendência que bloqueia a triagem de segurança.
-- Complementar os dados de mecanismo de ação a partir do DrugBank.
-- Confirmar a indicação aprovada no Brasil quanto à hipercolesterolemia familiar e a faixa etária.
-- Definir plano de monitoramento de segurança muscular e hepática e de interações medicamentosas, especialmente com inibidores de protease.
+- Obter e analisar as advertências e contraindicações da bula na ANVISA, hoje não disponíveis nos dados compilados.
+- Complementar os dados de mecanismo de ação (por exemplo, via DrugBank).
+- Definir regras de ajuste de dose e monitoramento para uso com inibidores de protease e efavirenz.
+- Confirmar os resultados dos ensaios de fase 3 (status desconhecido ou resultados não verificados) e dos ensaios randomizados publicados, com desfechos clínicos de longo prazo.
 
 <!-- review:begin log -->
 

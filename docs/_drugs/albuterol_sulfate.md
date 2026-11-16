@@ -39,8 +39,9 @@ Nível de evidência: **L5** | Indicações previstas: **8**
 
 ## Resumo em Uma Frase
 
-O sulfato de albuterol (salbutamol) é um broncodilatador de uso inalatório, registrado no Brasil na categoria de broncodilatadores.
-O modelo TxGNN prevê que pode ser eficaz para **Conjuntivite papilar (papillary conjunctivitis)**, mas **não há nenhum ensaio clínico nem publicação** que apoie diretamente esta previsão nos dados compilados para este relatório.
+O sulfato de albuterol (salbutamol) é um broncodilatador, registrado no Brasil com a classificação de broncodilatador.
+O modelo TxGNN prevê que pode ser eficaz para **Conjuntivite papilar (papillary conjunctivitis)**,
+mas, até o momento, **não há ensaios clínicos nem publicações** que estudem diretamente essa doença; a previsão se baseia apenas no modelo.
 
 ## Visão Geral Rápida
 
@@ -56,31 +57,31 @@ O modelo TxGNN prevê que pode ser eficaz para **Conjuntivite papilar (papillary
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Sabe-se que o albuterol pertence à classe dos agonistas beta-2 adrenérgicos, que relaxam a musculatura lisa brônquica.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Pela farmacologia geral, o albuterol é um agonista seletivo do receptor beta-2 adrenérgico, que relaxa a musculatura lisa brônquica e pode reduzir a liberação de mediadores por mastócitos.
 
-Existe uma possível linha de raciocínio: agonistas beta-2 têm atividade anti-alérgica pré-clínica em tecido conjuntival, como a estabilização de mastócitos e a redução da permeabilidade vascular. Esses achados foram descritos para a conjuntivite atópica, e não para a conjuntivite papilar.
+A hipótese para a conjuntivite papilar é especulativa: a estabilização de mastócitos poderia reduzir a liberação de histamina e de outros mediadores na conjuntiva, de forma semelhante ao que se discute na conjuntivite atópica. Trata-se de um raciocínio por analogia, sem respaldo de estudos nesta doença.
 
-Esse raciocínio é frágil. A conjuntivite papilar costuma ser causada por lentes de contato ou por estímulo mecânico, e não apenas por mecanismo alérgico mediado por mastócitos. Por isso, a previsão do modelo não encontra respaldo mecanístico claro nem estudos reais. A pontuação do modelo é muito alta (0,9999643, aqui exibida como 1,0000 com quatro casas), mas ela não substitui evidência clínica.
+Vale ressaltar que a pontuação elevada do TxGNN é apenas uma previsão computacional e não substitui evidência clínica. A similaridade com o uso original e a compatibilidade de via de administração ainda não foram avaliadas. Uma formulação oftálmica seria diferente das formas inalatórias conhecidas do fármaco.
 
 ## Evidências de Ensaios Clínicos
 
-Atualmente não há ensaios clínicos relacionados registrados.
+Atualmente não há ensaios clínicos relacionados registrados para a conjuntivite papilar.
 
 ## Evidências da Literatura
 
-Atualmente não há literatura relacionada.
+Atualmente não há literatura relacionada diretamente à conjuntivite papilar.
 
 ## Informações de Comercialização no Brasil
 
-Há registros válidos de produtos de componente único no Brasil, e um registro cancelado. Principais registros:
-
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
-| Registro 135310035 | AERO-IFAL | Não informada | Broncodilatadores |
-| Registro 113430134 | SULFATO DE SALBUTAMOL | Não informada | Broncodilatadores |
-| Registro 154230066 | SULFATO DE SALBUTAMOL | Não informada | Broncodilatadores |
-| Registro 105710026 | NEUTOSS | Não informada | Broncodilatadores |
-| Registro 101070226 | AEROLIN | Não informada | Broncodilatadores |
+| 135310035 | AERO-IFAL | Não informada | Broncodilatadores |
+| 113430134 | Sulfato de Salbutamol | Não informada | Broncodilatadores |
+| 105710026 | NEUTOSS | Não informada | Broncodilatadores |
+| 107150015 | AEROTRAT | Não informada | Broncodilatadores |
+| 101070226 | AEROLIN | Não informada | Broncodilatadores |
+
+Há 15 registros no total, dos quais 14 estão válidos e 1 cancelado. Aqui foram listados apenas os 5 principais.
 
 ## Considerações de Segurança
 
@@ -91,14 +92,13 @@ Consulte a bula para informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão principal não tem ensaios clínicos nem publicações que a sustentem, e o mecanismo proposto é pouco plausível para uma condição frequentemente causada por lentes de contato ou fatores mecânicos. O nível de evidência é L5.
+- A previsão para conjuntivite papilar não conta com nenhum ensaio clínico ou publicação, portanto o nível de evidência é L5 e o raciocínio mecanístico é especulativo.
 
 **Para prosseguir, é necessário:**
-- Dados do mecanismo de ação do fármaco.
-- Revisão sistemática da literatura sobre agonistas beta-2 tópicos oculares em conjuntivites, incluindo a conjuntivite papilar.
-- Estudos pré-clínicos específicos nesta condição, antes de qualquer ensaio clínico.
-- Avaliação da via de administração, já que a forma inalatória não é compatível com uso ocular.
-- Dados de advertências, contraindicações e interações da bula aprovada pela ANVISA.
+- Dados do mecanismo de ação do fármaco (MOA) e da bula (advertências e contraindicações).
+- Estudos pré-clínicos e clínicos que avaliem diretamente o albuterol na conjuntivite papilar.
+- Avaliação da viabilidade de uma formulação e via de administração oftálmica.
+- Avaliação de segurança para uso ocular.
 
 <!-- review:begin log -->
 

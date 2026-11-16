@@ -9,7 +9,7 @@ drugbank_id: DB08903
 monitor_inn: "Bedaquiline"
 predicted_indications: ["vulvovaginal candidiasis", "fascioliasis", "urea cycle disorder", "esophageal candidiasis"]
 last_modified_at: 2026-11-16
-description: "Bedaquilina Fumarate: nova indicação prevista, Vulvovaginal candidiasis (nível de evidência L5). Indicação original: OUTROS MEDICAMENTOS USADOS NO TRATAMENTO DA TUBERCULOSE"
+description: "Bedaquilina Fumarate: nova indicação prevista, candidíase vulvovaginal (vulvovaginal candidiasis) (nível de evidência L5). Indicação original: OUTROS MEDICAMENTOS USADOS NO TRATAMENTO DA TUBERCULOSE"
 ---
 
 # Bedaquilina Fumarate
@@ -34,19 +34,20 @@ Nível de evidência: **L5** | Indicações previstas: **4**
 
 </div>
 
-## Bedaquilina Fumarate: Vulvovaginal candidiasis
+## Bedaquilina Fumarate: candidíase vulvovaginal (vulvovaginal candidiasis)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Bedaquilina fumarato é um antimicobacteriano usado no tratamento da tuberculose.
+Bedaquilina fumarato é um medicamento antimicobacteriano, registrado no Brasil como SIRTURO e utilizado no tratamento da tuberculose.
+O modelo TxGNN prevê que pode ser eficaz para **candidíase vulvovaginal (vulvovaginal candidiasis)**, mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
 | Indicação Original | OUTROS MEDICAMENTOS USADOS NO TRATAMENTO DA TUBERCULOSE |
-| Nova Indicação Prevista | Vulvovaginal candidiasis |
+| Nova Indicação Prevista | candidíase vulvovaginal (vulvovaginal candidiasis) |
 | Pontuação de Previsão TxGNN | 0.9988 |
 | Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
@@ -55,11 +56,11 @@ Bedaquilina fumarato é um antimicobacteriano usado no tratamento da tuberculose
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados do mecanismo de ação registrados nos dados compilados para este relatório. Segundo informações conhecidas, a bedaquilina inibe a subunidade c da ATP sintase F1F0 das micobactérias, o que interrompe a produção de energia da bactéria.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Sabe-se, pela análise disponível, que a bedaquilina inibe a ATP sintase micobacteriana (subunidade c do domínio F0), alvo específico de micobactérias.
 
-O *Mycobacterium bovis*, agente da tuberculose bovina, pertence ao complexo *M. tuberculosis*. Por isso, é plausível que o fármaco atue sobre ele, já que o alvo molecular é semelhante. Essa proximidade biológica explica em grande parte a pontuação alta do modelo.
+Não há vínculo estabelecido entre esse mecanismo e a biologia de *Candida*. A ATP sintase fúngica difere estruturalmente da micobacteriana, de modo que qualquer atividade antifúngica seria especulativa. A pontuação elevada do TxGNN é apenas uma previsão computacional, sem estudos que a sustentem.
 
-Ainda assim, os dados compilados não trazem nenhum estudo específico com *M. bovis*, nem em animais nem em humanos. A previsão é, portanto, uma hipótese baseada em semelhança com a tuberculose, sem confirmação direta.
+Além disso, já existem opções antifúngicas eficazes e bem estabelecidas (azóis). Como a bedaquilina traz advertências de prolongamento do intervalo QT e hepatotoxicidade, a relação risco-benefício para esse reposicionamento é pouco favorável.
 
 ## Evidências de Ensaios Clínicos
 
@@ -67,9 +68,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
-| PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|------|---------|
-| [27210281](https://pubmed.ncbi.nlm.nih.gov/27210281/) | 2016 | Estudo in vitro | Medecine et maladies infectieuses | Avaliou como as condições de cultura in vitro influenciam a concentração inibitória mínima (CIM) da bedaquilina contra a cepa de referência *M. tuberculosis* H37Rv, visando um teste padronizado de sensibilidade. Não estuda *M. bovis*. |
+Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
@@ -86,11 +85,13 @@ Consulte a bula para informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
+A previsão para candidíase vulvovaginal baseia-se apenas na pontuação do modelo, sem ensaios clínicos nem publicações, e não há plausibilidade mecanística clara. Existem tratamentos eficazes disponíveis, o que reduz a necessidade de priorizar este reposicionamento.
 
 **Para prosseguir, é necessário:**
-- Estudos de sensibilidade in vitro com isolados de *M. bovis* e, se favoráveis, dados em modelos animais.
-- Dados de mecanismo de ação detalhados e dados de segurança da bula brasileira (advertências e contraindicações).
-- Avaliação da relevância clínica e epidemiológica da tuberculose bovina em humanos no contexto brasileiro.
+- Testes de sensibilidade antifúngica in vitro contra espécies de *Candida*, como etapa mínima inicial
+- Dados detalhados do mecanismo de ação (MOA) a partir de fonte especializada
+- Bula da ANVISA com advertências e contraindicações, para triagem de segurança (incluindo QT e hepatotoxicidade)
+- Avaliação da compatibilidade de vias de administração, já que o uso sistêmico da bedaquilina pode não ser adequado para uma infecção localizada
 
 <!-- review:begin log -->
 

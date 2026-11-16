@@ -9,7 +9,7 @@ drugbank_id: DB01137
 monitor_inn: "Levofloxacin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder"]
 last_modified_at: 2026-11-16
-description: "Levofloxacina: nova indicação prevista, Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconjunctivitis) (nível de evidência L5). Indicação original: Não consta nos dados locais"
+description: "Levofloxacina: nova indicação prevista, Ceratoconjuntivite epitelial puntiforme (punctate epithelial keratoconjunctivitis) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Levofloxacina
@@ -34,20 +34,21 @@ Nível de evidência: **L5** | Indicações previstas: **9**
 
 </div>
 
-## Levofloxacina: Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconjunctivitis)
+## Levofloxacina: Ceratoconjuntivite epitelial puntiforme (punctate epithelial keratoconjunctivitis)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Levofloxacina é um antibacteriano da classe das fluoroquinolonas, com registros ativos no Brasil.
-O modelo TxGNN prevê que pode ser eficaz para **Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconjunctivitis)**, mas atualmente há **nenhum ensaio clínico** e apenas **1 publicação** (um relato de surto de ceratoconjuntivite microsporidiana), que não sustenta eficácia nessa direção.
+Levofloxacina é um antibacteriano da classe das fluoroquinolonas, de uso amplo em infecções bacterianas.
+O modelo TxGNN prevê que pode ser eficaz para **Ceratoconjuntivite epitelial puntiforme (punctate epithelial keratoconjunctivitis)**,
+mas a previsão conta apenas com **0 ensaios clínicos** e **1 publicação** (um relato de surto de ceratoconjuntivite por microsporídios, que não avalia o tratamento com levofloxacina).
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
 | Indicação Original | Não consta nos dados locais |
-| Nova Indicação Prevista | Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconjunctivitis) |
+| Nova Indicação Prevista | Ceratoconjuntivite epitelial puntiforme (punctate epithelial keratoconjunctivitis) |
 | Pontuação de Previsão TxGNN | 0.9992 |
 | Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 38 de 78) |
@@ -56,11 +57,11 @@ O modelo TxGNN prevê que pode ser eficaz para **Ceratoconjuntivite epitelial pu
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a levofloxacina é uma fluoroquinolona de amplo espectro que inibe a DNA girase e a topoisomerase IV bacterianas, e é usada em infecções bacterianas, inclusive em conjuntivite bacteriana oftálmica.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a levofloxacina pertence à classe das fluoroquinolonas, que atuam inibindo a DNA girase e a topoisomerase IV bacterianas, e tem amplo espectro antibacteriano.
 
-A ligação com a nova indicação é frágil. A única publicação recuperada trata de um surto de ceratoconjuntivite por microsporídios associado à contaminação de piscinas em Taiwan. Microsporídios são patógenos eucariotos relacionados a fungos, que as fluoroquinolonas não atingem de forma confiável. Esse trabalho, portanto, não demonstra eficácia da levofloxacina.
+A ligação com a ceratoconjuntivite epitelial puntiforme é indireta. O único artigo recuperado descreve um surto de ceratoconjuntivite por microsporídios, organismos eucarióticos relacionados aos fungos, que não são alvo das fluoroquinolonas. Portanto, o mecanismo não sustenta de forma convincente a aplicação nessa doença.
 
-A pontuação elevada do TxGNN é apenas uma previsão do modelo. Não há evidência clínica que a sustente, e a plausibilidade mecanística permanece não comprovada.
+A pontuação alta do modelo provavelmente reflete proximidade em rede com termos de infecção ocular, e não um efeito terapêutico demonstrado. Como nenhum estudo citado avalia diretamente o tratamento desta doença com levofloxacina, o nível de evidência é L5.
 
 ## Evidências de Ensaios Clínicos
 
@@ -70,19 +71,21 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [30055152](https://pubmed.ncbi.nlm.nih.gov/30055152/) | 2018 | Relato de surto | American Journal of Ophthalmology | Descreve um surto de ceratoconjuntivite microsporidiana ligado à água contaminada de piscinas em Taiwan; não avalia a levofloxacina |
+| [30055152](https://pubmed.ncbi.nlm.nih.gov/30055152/) | 2018 | Série de casos / relato de surto | American Journal of Ophthalmology | Relato de surto de ceratoconjuntivite microsporidiana associada à contaminação da água de piscinas em Taiwan; não avalia a levofloxacina como tratamento |
 
 ## Informações de Comercialização no Brasil
 
-Há 78 registros nos dados locais (30 válidos de produto único, 8 válidos de combinação e 40 cancelados). Os textos de indicação aprovada e as formas farmacêuticas não constam nesses registros.
+Os registros reunidos não trazem texto de indicação aprovada nem forma farmacêutica. A tabela lista os principais registros válidos de medicamentos com levofloxacina isolada.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
-| 100431111 | Tamiram | Não registrada | Não registrada |
-| 100431176 | Levofloxacino hemiidratado | Não registrada | Não registrada |
-| 100431417 | Tavok | Não registrada | Não registrada |
-| 101180617 | Levoxin | Não registrada | Não registrada |
-| 102350757 | Levofloxacino | Não registrada | Não registrada |
+| 100431111 | Tamiram | Não informada | Não informada |
+| 100431176 | Levofloxacino hemiidratado | Não informada | Não informada |
+| 100431417 | Tavok | Não informada | Não informada |
+| 101180617 | Levoxin | Não informada | Não informada |
+| 102980589 | Levotac | Não informada | Não informada |
+
+Há registros válidos de levofloxacina isolada e também de combinações; a lista acima considera apenas os de ingrediente único.
 
 ## Considerações de Segurança
 
@@ -93,12 +96,12 @@ Consulte a bula para informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão tem pontuação alta, mas não há ensaios clínicos nem estudos que avaliem a levofloxacina nessa doença. A única publicação trata de um agente (microsporídios) contra o qual fluoroquinolonas não são confiáveis.
+- Nenhum ensaio clínico e nenhuma publicação avaliam a levofloxacina na ceratoconjuntivite epitelial puntiforme; o único artigo recuperado trata de uma infecção por microsporídios, não coberta pelo espectro da fluoroquinolona. A previsão é puramente computacional.
 
 **Para prosseguir, é necessário:**
-- Estudos pré-clínicos ou clínicos que avaliem diretamente a levofloxacina na ceratoconjuntivite epitelial punctata, com definição do agente etiológico.
-- Dados de mecanismo de ação e de forma farmacêutica oftálmica disponível.
-- Informações de segurança da bula da ANVISA (advertências e contraindicações).
+- Estudos clínicos ou pré-clínicos que avaliem diretamente a levofloxacina nesta doença, incluindo a definição da etiologia visada (bacteriana, viral ou outra)
+- Dados de mecanismo de ação e de via de administração (por exemplo, formulação oftálmica)
+- Revisão das advertências e contraindicações na bula registrada na ANVISA
 
 <!-- review:begin log -->
 

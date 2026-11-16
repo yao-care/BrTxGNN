@@ -2,11 +2,11 @@
   "generated": "2026-11-16",
   "total_drugs": 575,
   "level_counts": {
-    "L1": 6,
-    "L2": 23,
-    "L3": 23,
+    "L1": 7,
+    "L2": 22,
+    "L3": 24,
     "L4": 31,
-    "L5": 448
+    "L5": 447
   },
   "all_drugs": [
     {
@@ -18,7 +18,7 @@
     {
       "name": "Abatacepte",
       "slug": "abatacepte",
-      "level": "L4",
+      "level": "L3",
       "indication_count": 7
     },
     {
@@ -390,7 +390,7 @@
     {
       "name": "Axitinibe",
       "slug": "axitinibe",
-      "level": "L5",
+      "level": "L4",
       "indication_count": 4
     },
     {
@@ -1920,7 +1920,7 @@
     {
       "name": "Lenalidomida",
       "slug": "lenalidomida",
-      "level": "L2",
+      "level": "L1",
       "indication_count": 4
     },
     {

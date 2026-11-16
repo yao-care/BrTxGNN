@@ -39,8 +39,8 @@ Nível de evidência: **L5** | Indicações previstas: **8**
 
 ## Resumo em Uma Frase
 
-Albuterol (salbutamol) é um broncodilatador agonista beta-2 adrenérgico, com registros no Brasil como broncodilatador e antiasmático.
-O modelo TxGNN prevê que pode ser eficaz para **Conjuntivite papilar (papillary conjunctivitis)**, mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção; trata-se apenas de uma previsão do modelo.
+Albuterol (salbutamol) é um broncodilatador agonista beta2-adrenérgico, com registros no Brasil na classe dos broncodilatadores e antiasmáticos.
+O modelo TxGNN prevê que pode ser eficaz para **Conjuntivite papilar (papillary conjunctivitis)**, mas **não há ensaios clínicos nem publicações** apoiando esta previsão nos dados compilados para este relatório.
 
 ## Visão Geral Rápida
 
@@ -56,15 +56,23 @@ O modelo TxGNN prevê que pode ser eficaz para **Conjuntivite papilar (papillary
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação compilados para este relatório. Segundo informações conhecidas, o albuterol é um agonista beta-2 adrenérgico de curta ação, que relaxa a musculatura lisa brônquica por meio da via do AMP cíclico.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Pela classe farmacológica conhecida, o albuterol é um agonista beta2-adrenérgico, que relaxa a musculatura lisa brônquica.
 
-Hipoteticamente, a ativação de receptores beta-2 poderia reduzir a liberação de mediadores de mastócitos e a vasodilatação ocular, processos envolvidos em quadros alérgicos e inflamatórios da conjuntiva. Esse raciocínio é plausível, mas especulativo: não há ensaios clínicos nem publicações sobre albuterol na conjuntivite papilar nos dados compilados.
+Do ponto de vista teórico, a sinalização beta2 pode reduzir a degranulação de mastócitos e a inflamação alérgica ocular. Essa é a ligação mecanística que sustenta a previsão: a conjuntivite papilar tem um componente alérgico e mediado por mastócitos.
 
-A pontuação do modelo é muito alta (0,9999), porém ela sozinha não é suficiente para priorizar esta indicação. Também não foi estabelecida similaridade formal entre a indicação original e a nova.
+Essa hipótese, porém, é apenas especulativa. Não foram encontrados ensaios clínicos nem literatura que avaliem o albuterol nessa condição, e a pontuação alta do modelo, isoladamente, não sustenta qualquer afirmação clínica. A compatibilidade de via de administração (por exemplo, uso ocular, diferente da via inalatória) também ainda não foi avaliada.
+
+## Evidências de Ensaios Clínicos
+
+Atualmente não há ensaios clínicos relacionados registrados.
+
+## Evidências da Literatura
+
+Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-O fármaco consta como comercializado no Brasil. Os registros listados são de produtos de componente único; a maioria é válida e um está cancelado (Regrair). Principais registros:
+Há 15 registros no total, dos quais 14 estão válidos e 1 cancelado. Todos são produtos de ingrediente único. Principais registros:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -72,7 +80,7 @@ O fármaco consta como comercializado no Brasil. Os registros listados são de p
 | 113430134 | Sulfato de Salbutamol | Não informada | Broncodilatadores |
 | 105710026 | NEUTOSS | Não informada | Broncodilatadores |
 | 101070226 | AEROLIN | Não informada | Broncodilatadores |
-| 107150015 | AEROTRAT | Não informada | Broncodilatadores |
+| 100580077 | CLENIL COMPOSITUM A | Não informada | Antiasmáticos |
 
 ## Considerações de Segurança
 
@@ -83,12 +91,14 @@ Consulte a bula para informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão para conjuntivite papilar baseia-se somente no modelo, sem ensaios clínicos nem literatura, e a pontuação isolada não basta para priorizá-la.
+- A previsão para conjuntivite papilar baseia-se apenas na pontuação do modelo, sem nenhum ensaio clínico ou publicação que a sustente (nível L5).
+- Faltam dados de mecanismo de ação e de segurança, e a viabilidade de uma via de administração ocular não foi avaliada.
 
 **Para prosseguir, é necessário:**
-- Dados de mecanismo de ação documentados e uma revisão de literatura dirigida a agonistas beta-2 na conjuntivite alérgica/papilar
-- Estudos pré-clínicos e, depois, clínicos com formulação oftálmica adequada, avaliando segurança local e sistêmica
-- Informações de segurança da bula (advertências e contraindicações) para a avaliação de segurança
+- Obter dados de mecanismo de ação do albuterol (por exemplo, no DrugBank).
+- Obter advertências e contraindicações da bula na ANVISA.
+- Realizar revisão sistemática da literatura sobre agonistas beta2 e inflamação alérgica ocular.
+- Avaliar a viabilidade de uma formulação e via de administração oculares, além de estudos pré-clínicos antes de qualquer ensaio em humanos.
 
 <!-- review:begin log -->
 

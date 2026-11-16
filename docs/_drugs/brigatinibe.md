@@ -39,8 +39,8 @@ Nível de evidência: **L5** | Indicações previstas: **9**
 
 ## Resumo em Uma Frase
 
-Brigatinibe é um inibidor de tirosina quinase de segunda geração, usado em câncer de pulmão de células não pequenas ALK-positivo.
-O modelo TxGNN prevê que pode ser eficaz para **Fibromatose gengival (fibromatosis, gingival)**, mas **não há ensaios clínicos nem publicações** apoiando esta direção; trata-se de uma previsão exclusivamente computacional.
+Brigatinibe é um inibidor de tirosina quinase que atua sobre ALK, EGFR e ROS1.
+O modelo TxGNN prevê que pode ser eficaz para **Fibromatose gengival (fibromatosis, gingival)**, mas **não há ensaios clínicos nem publicações** que apoiem esta direção; trata-se apenas de uma previsão do modelo.
 
 ## Visão Geral Rápida
 
@@ -56,11 +56,11 @@ O modelo TxGNN prevê que pode ser eficaz para **Fibromatose gengival (fibromato
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação compilados para este relatório. Segundo a literatura conhecida, o brigatinibe é um inibidor de quinases (ALK, EGFR e ROS1) com eficácia demonstrada em câncer de pulmão ALK-positivo.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Sabe-se que o brigatinibe é um inibidor de tirosina quinase direcionado a ALK, EGFR e ROS1, usado em oncologia.
 
-Nos dados compilados, não foi identificada ligação mecanística plausível entre a inibição dessas quinases e a fibromatose gengival, uma condição proliferativa benigna do tecido gengival. A pontuação alta do TxGNN (0,9989) reflete apenas um padrão computacional, sem respaldo em estudos reais.
+Não existe vínculo estabelecido entre esses alvos e a fibromatose gengival. Uma hipótese puramente especulativa seria a participação de vias dependentes de quinases na proliferação de fibroblastos, mas isso não é sustentado por nenhum estudo clínico ou publicação identificado.
 
-Por isso, a razoabilidade biológica desta previsão permanece especulativa e exigiria investigação pré-clínica antes de qualquer consideração clínica.
+Por isso, a previsão deve ser tratada como uma hipótese a ser explorada, e não como uma direção terapêutica respaldada por evidências.
 
 ## Informações de Comercialização no Brasil
 
@@ -68,8 +68,6 @@ Por isso, a razoabilidade biológica desta previsão permanece especulativa e ex
 |---------|------|------|-----------|
 | Registro 126270026 | EVOBRIG | Não informada | Não registrada nos dados locais |
 | Registro 106390281 | EVOBRIG | Não informada | Não registrada nos dados locais |
-
-Há um registro válido e um cancelado, ambos de produto isolado (fabricantes: Takeda Farmacêutica Brasil Ltda. e Takeda Pharma Ltda.).
 
 ## Citotoxicidade
 
@@ -90,13 +88,13 @@ Consulte a bula para informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão para fibromatose gengival não tem ensaios clínicos nem literatura, e não há ligação mecanística identificada. O nível de evidência é L5.
+A previsão para fibromatose gengival tem pontuação alta no modelo (0,9989), mas não conta com nenhum ensaio clínico, publicação ou racional mecanístico documentado (nível L5). Não há base para avançar além da fase de hipótese.
 
 **Para prosseguir, é necessário:**
-- Dados do mecanismo de ação do brigatinibe e análise de sua relevância para a fibromatose gengival
-- Estudos pré-clínicos que avaliem plausibilidade biológica nesta condição
-- Bula da ANVISA com advertências e contraindicações, para triagem de segurança
-- Avaliação da viabilidade de via de administração e formulação para uso gengival
+- Obter os dados de mecanismo de ação do fármaco e avaliar uma hipótese biológica concreta ligando seus alvos à fibromatose gengival
+- Realizar revisão sistemática da literatura e estudos pré-clínicos específicos para esta doença
+- Obter da bula na ANVISA as advertências e contraindicações, hoje ausentes, para a triagem de segurança
+- Avaliar a viabilidade de via de administração adequada para uma doença gengival, ainda não analisada
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
