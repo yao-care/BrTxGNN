@@ -1,116 +1,16 @@
 ---
-noindex: true
+layout: id_redirect
+permalink: /drugs/oseltamivir-phosphate/
 sitemap: false
-layout: default
-title: Oseltamivir Phosphate
-parent: Apenas Predição do Modelo (L5)
-nav_order: 493
-evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-11-12
-predicted_indications: []
+search_exclude: true
+nav_exclude: true
 ---
-
-# Oseltamivir Phosphate
-{: .fs-9 }
-
-Nível de evidência: **L5** | Indicações previstas: **0** 
-{: .fs-6 .fw-300 }
-
----
-
-## Índice
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
-<div id="pharmacist" markdown="1">
-
-## Relatório de avaliação farmacêutica
-
-</div>
-
-## Oseltamivir Fosfato: Avaliação de Reposicionamento — Dados Insuficientes para Análise Completa
-{: .text-alpha }
-
-## Resumo
-
-Oseltamivir fosfato é um antiviral inibidor de neuraminidase, amplamente conhecido como Tamiflu®, indicado para o tratamento e profilaxia da influenza (gripe) A e B. O modelo TxGNN **não gerou previsões de novas indicações** para este fármaco nesta execução, impossibilitando a análise de reposicionamento.
-
-<!-- review:begin br-lic-20261106-oseltamivir_phosphate-1 -->
-
-> **Correção de verificação (2026-11-06)**: Texto original: “O modelo TxGNN **não gerou previsões de novas indicações** para este fármaco nesta execução, impossibilitando a análise de reposicionamento. A avaliação está bloqueada por lacunas críticas de dados: ausência de registros regulatórios na base consultada, sem informações de segurança e sem candidatos de reposicionamento gerados.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 8 registros para este medicamento, 8 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-lic-20261106-oseltamivir_phosphate-1 -->
-
----
-
-## Visão Geral Rápida
-
-| Item | Conteúdo |
-|------|------|
-| Indicação Original | Não disponível na base de dados consultada |
-| Nova Indicação Prevista | Nenhuma previsão gerada pelo TxGNN |
-| Pontuação de Previsão TxGNN | — |
-| Nível de Evidência | L5 (previsão de modelo não disponível) |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 8) |
-| Número de Registros | 8 (ativos: 8) |
-| Decisão Recomendada | Hold |
-
----
-
-## Por que Esta Avaliação está Incompleta?
-
-Oseltamivir fosfato é um pró-fármaco da classe dos inibidores de neuraminidase. Após administração oral, é convertido em oseltamivir carboxilato (forma ativa), que bloqueia a enzima neuraminidase dos vírus influenza A e B. Esse bloqueio impede a liberação de novos vírions das células infectadas, limitando a disseminação viral no organismo. Apesar de ser um antiviral de referência global com perfil farmacológico bem estabelecido, o pipeline de dados local não conseguiu recuperar informações suficientes para conduzir a análise de reposicionamento.
-
-A consulta realizada em 26/03/2026 retornou **zero registros regulatórios** na base de dados local e o modelo TxGNN **não produziu candidatos de reposicionamento**. Isso pode ocorrer por duas razões principais: (1) o fármaco pode estar cadastrado na ANVISA sob nomenclatura diferente ou pelo nome comercial (ex.: Tamiflu®), não sendo localizado pelo INN exato; ou (2) o DrugBank ID não foi mapeado corretamente, impedindo a execução do modelo sobre o grafo de conhecimento.
-
-As lacunas de dados identificadas no Evidence Pack confirmam que dois itens de severidade alta/bloqueante estão ausentes — advertências regulatórias e mecanismo de ação detalhado — o que impede inclusive a avaliação preliminar de segurança (etapa S1 do pipeline).
-
----
-
-## Lacunas de Dados Identificadas
-
-| ID | Categoria | Item Faltante | Impacto | Fonte Recomendada |
-|----|-----------|---------------|---------|-------------------|
-| DG001 | Nível do Fármaco | Advertências e contraindicações (bula ANVISA) | **Bloqueante** — impede avaliação inicial de segurança | ANVISA: download de bula PDF e extração por parsing |
-| DG002 | Nível do Fármaco | Mecanismo de ação (MOA) | **Alto** — prejudica análise de relação mecanística com novas indicações | DrugBank API (busca por INN ou CAS) |
-
----
-
-## Conclusão e Próximos Passos
-
-**Decisão: Hold**
-
-**Justificativa:**
-Sem previsões geradas pelo TxGNN e sem registros regulatórios localizados, não há base de evidências para conduzir uma análise de reposicionamento. O fármaco requer nova execução do pipeline com os dados corrigidos antes de qualquer avaliação.
-
-**Para prosseguir, é necessário:**
-- Verificar o registro do oseltamivir fosfato na ANVISA usando o nome comercial (Tamiflu®) ou número CAS (204255-11-8) em vez do INN exato
-- Obter o DrugBank ID correto para oseltamivir e reexecutar o mapeamento no pipeline TxGNN
-- Baixar e parsear a bula aprovada pela ANVISA para extrair advertências, contraindicações e posologia
-- Reexecutar o modelo TxGNN com o DrugBank ID mapeado para gerar candidatos de reposicionamento
-- Após geração de candidatos, retornar ao pipeline padrão de avaliação de evidências (ensaios clínicos + literatura)
-
-<!-- review:begin log -->
-
-## Registro de verificação
-
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
-
-| Data da verificação | Item | Ação | Fonte |
-|------|------|------|------|
-| 2026-11-06 | Removido: “A avaliação está bloqueada por lacunas críticas de dados: ausência de registros regulatórios na base consultada, sem informações de seguranç” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-
-<!-- review:end log -->
-
-## Aviso de isenção de responsabilidade
-
-Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
-É necessária validação clínica antes de qualquer aplicação clínica.
-
----
-
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<title>Redirecting&hellip;</title>
+<link rel="canonical" href="{{ site.url }}/drugs/oseltamivir/">
+<meta http-equiv="refresh" content="0; url=/drugs/oseltamivir/">
+<script>location="/drugs/oseltamivir/"</script>
+<a href="/drugs/oseltamivir/">/drugs/oseltamivir/</a>
+</html>
