@@ -14190,6 +14190,66 @@
    ],
    "checked": "2026-11-13",
    "method": "2026-11-13 人工查核（每週排程停損頁，正文對 ANVISA 新事實）"
+  },
+  {
+   "drug": "sodium_carbonate",
+   "file": "sodium_carbonate.md",
+   "action": "correct",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-17"
+    }
+   ],
+   "checked": "2026-11-17",
+   "method": "2026-11-17 人工查核（每週排程停損頁，正文對 ANVISA 新事實）",
+   "id": "br-lic-20261117-sodium_carbonate-1",
+   "claim": "Os 10 registros estão **válidos** (10 de 10)",
+   "replacement": "Dos 10 registros, 9 estão **válidos** (9 de 10)",
+   "summary": "Registros válidos: 10 → 9 de 10",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-17), o registro 144930071 (Estomanol) passou a Inativo; 9 dos 10 registros estão ativos.",
+   "finding": "正文寫 10 張全有效；ANVISA 11-16：144930071 Ativo→Inativo，10 張中 9 有效"
+  },
+  {
+   "drug": "sodium_carbonate",
+   "file": "sodium_carbonate.md",
+   "action": "correct",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-17"
+    }
+   ],
+   "checked": "2026-11-17",
+   "method": "2026-11-17 人工查核（每週排程停損頁，正文對 ANVISA 新事實）",
+   "id": "br-lic-20261117-sodium_carbonate-2",
+   "claim": "com 10 de 10 registros válidos",
+   "replacement": "com 9 de 10 registros válidos",
+   "summary": "Registros válidos: 10 → 9 de 10",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-17), 9 dos 10 registros estão ativos (144930071 passou a Inativo).",
+   "finding": "同上，Justificativa 段的張數"
+  },
+  {
+   "drug": "sodium_carbonate",
+   "file": "sodium_carbonate.md",
+   "action": "correct",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-17"
+    }
+   ],
+   "checked": "2026-11-17",
+   "method": "2026-11-17 人工查核（每週排程停損頁，正文對 ANVISA 新事實）",
+   "id": "br-lic-20261117-sodium_carbonate-3",
+   "claim": "Considerar a ausência de registros válidos no Brasil em qualquer planejamento de desenvolvimento",
+   "replacement": "Considerar que 9 dos 10 registros no Brasil estão válidos em qualquer planejamento de desenvolvimento",
+   "summary": "Registros válidos: “ausência” → 9 de 10",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-17), 9 dos 10 registros deste medicamento estão ativos; não há ausência de registros válidos.",
+   "finding": "下一步建議寫「沒有有效許可證」，與事實（10 張中 9 有效，11-16 前為 10 張全有效）矛盾；checker 句型未抓到，一併更正"
   }
  ]
 }

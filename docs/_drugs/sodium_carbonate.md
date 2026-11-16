@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 589
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-17
 monitor_inn: "Sodium carbonate"
 predicted_indications: ["cauda equina syndrome", "anaphylaxis", "food-dependent exercise-induced anaphylaxis", "obsolete neurogenic bladder (disease)", "dry eye syndrome", "ventricular tachycardia"]
 description: "Sodium Carbonate: nova indicação prevista, Síndrome da cauda equina (cauda equina syndrome) (nível de evidência L5). Indicação original: ANTIACIDO"
@@ -51,8 +51,8 @@ O modelo TxGNN prevê que ele possa ser eficaz para **síndrome da cauda equina 
 | Nova Indicação Prevista | Síndrome da cauda equina (cauda equina syndrome) |
 | Pontuação de Previsão TxGNN | 0.9980 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 10 de 10) |
-| Número de Registros | 10 (ativos: 10) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 9 de 10) |
+| Número de Registros | 10 (ativos: 9) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -98,7 +98,13 @@ Para fins de contexto, as publicações encontradas para outras previsões foram
 
 ## Informações de Comercialização no Brasil
 
-Os 10 registros estão **válidos** (10 de 10); o produto está comercializado.
+Dos 10 registros, 9 estão **válidos** (9 de 10); o produto está comercializado.
+
+<!-- review:begin br-lic-20261117-sodium_carbonate-1 -->
+
+> **Correção de verificação (2026-11-17)**: Texto original: “Os 10 registros estão **válidos** (10 de 10)” Segundo os dados abertos da ANVISA (2026-11-17), o registro 144930071 (Estomanol) passou a Inativo; 9 dos 10 registros estão ativos. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261117-sodium_carbonate-1 -->
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -131,12 +137,24 @@ Não foram encontradas interações medicamentosas nos dados compilados para est
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão para síndrome da cauda equina não tem ensaios, literatura nem mecanismo plausível (nível L5), e a pontuação provavelmente reflete semelhanças que o modelo TxGNN (deep learning) aprendeu entre doenças relacionadas, não evidência biológica. O medicamento está comercializado no Brasil, com 10 de 10 registros válidos.
+- A previsão para síndrome da cauda equina não tem ensaios, literatura nem mecanismo plausível (nível L5), e a pontuação provavelmente reflete semelhanças que o modelo TxGNN (deep learning) aprendeu entre doenças relacionadas, não evidência biológica. O medicamento está comercializado no Brasil, com 9 de 10 registros válidos.
+
+<!-- review:begin br-lic-20261117-sodium_carbonate-2 -->
+
+> **Correção de verificação (2026-11-17)**: Texto original: “com 10 de 10 registros válidos” Segundo os dados abertos da ANVISA (2026-11-17), 9 dos 10 registros estão ativos (144930071 passou a Inativo). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261117-sodium_carbonate-2 -->
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pendência que impede a triagem de segurança
 - Obter dados do mecanismo de ação no DrugBank
-- Considerar a ausência de registros válidos no Brasil em qualquer planejamento de desenvolvimento
+- Considerar que 9 dos 10 registros no Brasil estão válidos em qualquer planejamento de desenvolvimento
+
+<!-- review:begin br-lic-20261117-sodium_carbonate-3 -->
+
+> **Correção de verificação (2026-11-17)**: Texto original: “Considerar a ausência de registros válidos no Brasil em qualquer planejamento de desenvolvimento” Segundo os dados abertos da ANVISA (2026-11-17), 9 dos 10 registros deste medicamento estão ativos; não há ausência de registros válidos. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261117-sodium_carbonate-3 -->
 
 <!-- review:begin log -->
 
@@ -147,6 +165,9 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Foram listados os 5 primeiros dos 10 registros (todos cancelados)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-17 | Registros válidos: 10 → 9 de 10 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-17 | Registros válidos: 10 → 9 de 10 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-17 | Registros válidos: “ausência” → 9 de 10 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 
