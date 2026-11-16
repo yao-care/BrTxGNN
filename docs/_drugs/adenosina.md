@@ -1,20 +1,21 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Adenosina
 parent: Apenas Predição do Modelo (L5)
 nav_order: 30
 evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-11-12
-predicted_indications: []
+indication_count: 1
+drugbank_id: DB00640
+monitor_inn: "Adenosine"
+predicted_indications: ["obsolete bundle branch block"]
+last_modified_at: 2026-11-16
+description: "Adenosina: nova indicação prevista, bloqueio de ramo obsoleto (obsolete bundle branch block) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Adenosina
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **0** 
+Nível de evidência: **L5** | Indicações previstas: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,79 +34,61 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-## Adenosina: Avaliação de Reposicionamento – Predições TxGNN Não Disponíveis
+## Adenosina: bloqueio de ramo obsoleto (obsolete bundle branch block)
 {: .text-alpha }
-
----
 
 ## Resumo em Uma Frase
 
-No entanto, o modelo TxGNN **não gerou predições de novas indicações** para este fármaco no ciclo atual de análise, o que impede a condução completa do relatório de reposicionamento.
-Existem **duas lacunas de dados críticas** — ausência de mecanismo de ação e de dados regulatórios detalhados — que precisam ser resolvidas antes de prosseguir.
-
-<!-- review:begin br-lic-20261106-adenosina-1 -->
-
-> **Correção de verificação (2026-11-06)**: Texto original: “Adenosina é um nucleosídeo endógeno com presença consolidada no mercado brasileiro, contando com **20 registros ativos**. / No entanto, o modelo TxGNN **não gerou predições de novas indicações** para este fármaco no ciclo atual de análise, o que impede a condução completa do relatório de reposicionamento.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 23 registros para este medicamento, 5 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-lic-20261106-adenosina-1 -->
-
----
+Adenosina é um fármaco com registros ativos no Brasil, mas o texto de indicação aprovada não consta nos dados locais.
+O modelo TxGNN prevê, como principal nova indicação, **bloqueio de ramo obsoleto (obsolete bundle branch block)**, um termo marcado como obsoleto na ontologia de doenças, sem nenhum ensaio clínico e sem nenhuma publicação que apoie esta direção.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Não disponível nos dados atuais |
-| Nova Indicação Prevista | Sem predições TxGNN disponíveis |
-| Pontuação de Previsão TxGNN | — |
-| Nível de Evidência | Não determinado (ausência de predições) |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | bloqueio de ramo obsoleto (obsolete bundle branch block) |
+| Pontuação de Previsão TxGNN | 0.9994 |
+| Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 23) |
 | Número de Registros | 23 (ativos: 5) |
 | Decisão Recomendada | Hold |
 
----
-
 ## Por que Esta Previsão é Razoável?
 
-Esta seção não pode ser preenchida no momento, pois o modelo TxGNN não retornou predições de novas indicações para adenosina neste ciclo de análise. Sem uma indicação candidata, não há relação mecanística a avaliar.
+Atualmente, não há dados detalhados sobre o mecanismo de ação compilados para este relatório. Sabe-se, pela farmacologia geral, que a adenosina retarda a condução no nó atrioventricular e pode causar bloqueio AV transitório.
 
-Adicionalmente, não há dados detalhados sobre o mecanismo de ação no Evidence Pack atual. Segundo informações conhecidas, adenosina é um nucleosídeo endógeno presente em todas as células do organismo humano, com atividade documentada em múltiplos sistemas fisiológicos — especialmente cardiovascular e imunológico. No entanto, sem os dados formais de MOA registrados no DrugBank e sem predições do modelo, não é possível estabelecer conexões mecanísticas com novas indicações de forma estruturada e auditável.
+Isso torna a previsão pouco plausível do ponto de vista terapêutico: um fármaco que reduz a condução não tem fundamento claro para tratar um bloqueio de ramo. A associação provavelmente reflete o uso diagnóstico da adenosina para desmascarar doenças de condução, e não um benefício terapêutico.
 
-Para que esta seção seja completada em versão futura, é necessário: (1) executar o pipeline TxGNN com o DrugBank ID correto de adenosina; (2) recuperar o MOA via DrugBank API.
-
----
+Além disso, o termo da doença está marcado como obsoleto na ontologia, ou seja, é provavelmente um rótulo descontinuado ou fundido com outro conceito. Sem remapeamento para um conceito clínico atual, a previsão não é interpretável. Trata-se de um sinal apenas computacional, sem respaldo clínico.
 
 ## Informações de Comercialização no Brasil
 
-Esses detalhes devem ser obtidos diretamente junto à ANVISA para possibilitar a análise regulatória completa.
+Há 23 registros no total, dos quais 5 válidos (4 de produto isolado e 1 em associação) e 18 cancelados. Os registros válidos de produto isolado estão listados abaixo; os dados locais não trazem forma farmacêutica nem texto de indicação aprovada.
 
-<!-- review:begin br-lic-20261106-adenosina-2 -->
-
-> **Correção de verificação (2026-11-06)**: Texto original: “O fármaco possui **20 registros ativos** no mercado brasileiro, confirmando disponibilidade comercial ampla. Contudo, os detalhes individuais dos registros — número de licença, nome comercial, forma farmacêutica e texto da indicação aprovada — não estão disponíveis nos dados atuais (todos os campos retornaram vazios na consulta ao TFDA).” Removido: texto residual do modelo taiwanês (TFDA), que não se aplica a esta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-lic-20261106-adenosina-2 -->
-
----
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro 103110176 | Adenosina | Não informada | Não informada |
+| Registro 103110180 | Lowe | Não informada | Não informada |
+| Registro 110110054 | Adenosina | Não informada | Não informada |
+| Registro 113430182 | Adenosina | Não informada | Não informada |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
-
----
+Consulte a bula para informações de segurança. Não foram encontradas interações medicamentosas nos dados compilados para este relatório.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-O modelo TxGNN não gerou predições de novas indicações para adenosina, e há lacunas de dados classificadas como **Blocking** e **High** que impedem a avaliação de segurança, mecanismo de ação e adequação terapêutica.
+- A previsão principal tem pontuação alta (0,9994), mas não conta com ensaios clínicos nem literatura, o termo da doença é obsoleto e o mecanismo conhecido da adenosina (retardo da condução AV) vai contra um benefício terapêutico.
 
 **Para prosseguir, é necessário:**
-- **[Prioritário – Blocking]** Baixar e analisar a bula da ANVISA para levantar advertências, contraindicações e precauções de uso
-- **[Prioritário – High]** Consultar a DrugBank API para recuperar o mecanismo de ação (MOA) e o DrugBank ID de adenosina
-- Reexecutar o pipeline TxGNN com o DrugBank ID correto para gerar predições de novas indicações
-- Completar os detalhes dos 20 registros ANVISA: número de registro, nome comercial, forma farmacêutica e indicação aprovada
-- Após resolução das lacunas, regenerar o Evidence Pack e um novo ciclo de relatório
+- Remapear o termo obsoleto para um conceito de doença atual e reavaliar a previsão.
+- Obter o mecanismo de ação detalhado do fármaco.
+- Baixar e analisar a bula da ANVISA (advertências e contraindicações), pois a triagem de segurança não pode avançar sem esses dados.
+- Só então buscar estudos clínicos ou publicações que abordem diretamente a condição.
 
 <!-- review:begin log -->
 
@@ -115,8 +98,8 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “Adenosina é um nucleosídeo endógeno com presença consolidada no mercado brasileiro, contando com **20 registros ativos**” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-06 | Removido: “O fármaco possui **20 registros ativos** no mercado brasileiro, confirmando disponibilidade comercial ampla. Contudo, os detalhes individuai” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Adenosina é um nucleosídeo endógeno com presença consolidada no mercado brasileiro, contando com **20 registros ativos**” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “O fármaco possui **20 registros ativos** no mercado brasileiro, confirmando disponibilidade comercial ampla. Contudo, os detalhes individuai” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

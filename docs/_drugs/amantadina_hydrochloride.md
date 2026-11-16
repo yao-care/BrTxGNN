@@ -1,20 +1,21 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Amantadina Hydrochloride
 parent: Apenas Predição do Modelo (L5)
 nav_order: 46
 evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-11-12
-predicted_indications: []
+indication_count: 4
+drugbank_id: DB00915
+monitor_inn: "Amantadine"
+predicted_indications: ["Rasmussen subacute encephalitis", "transaldolase deficiency", "myelitis", "PLA2G6-associated neurodegeneration"]
+last_modified_at: 2026-11-16
+description: "Amantadina Hydrochloride: nova indicação prevista, Encefalite subaguda de Rasmussen (Rasmussen subacute encephalitis) (nível de evidência L5). Indicação original: ANTIPARKINSONIANOS"
 ---
 
 # Amantadina Hydrochloride
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **0** 
+Nível de evidência: **L5** | Indicações previstas: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,70 +34,65 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-## Amantadina Hidrocloreto: Avaliação de Reposicionamento Inconclusiva — Dados Insuficientes
+## Amantadina Hydrochloride: Encefalite subaguda de Rasmussen (Rasmussen subacute encephalitis)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Amantadina Hidrocloreto (AMANTADINA HYDROCHLORIDE) é um fármaco com histórico clínico documentado na literatura médica internacional, porém **nenhuma indicação prevista foi gerada pelo modelo TxGNN** neste ciclo de avaliação.
-
-<!-- review:begin br-lic-20261106-amantadina_hydrochloride-1 -->
-
-> **Correção de verificação (2026-11-06)**: Texto original: “Amantadina Hidrocloreto (AMANTADINA HYDROCHLORIDE) é um fármaco com histórico clínico documentado na literatura médica internacional, porém **nenhuma indicação prevista foi gerada pelo modelo TxGNN** neste ciclo de avaliação. A ausência de registros no mercado brasileiro e a falta do DrugBank ID impedem o mapeamento do fármaco na rede de conhecimento TxGNN, inviabilizando uma análise completa de reposicionamento neste momento.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-lic-20261106-amantadina_hydrochloride-1 -->
-
----
+A amantadina (cloridrato de amantadina) é um medicamento classificado como antiparkinsoniano no registro local.
+O modelo TxGNN prevê que pode ser eficaz para **Encefalite subaguda de Rasmussen (Rasmussen subacute encephalitis)**,
+mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção; trata-se apenas de uma previsão computacional.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Não disponível (0 registros encontrados no banco regulatório brasileiro) |
-| Nova Indicação Prevista | Nenhuma previsão TxGNN disponível |
-| Pontuação de Previsão TxGNN | N/A |
-| Nível de Evidência | Não aplicável |
+| Indicação Original | ANTIPARKINSONIANOS |
+| Nova Indicação Prevista | Encefalite subaguda de Rasmussen (Rasmussen subacute encephalitis) |
+| Pontuação de Previsão TxGNN | 0.9948 |
+| Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
 | Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
----
+## Por que Esta Previsão é Razoável?
 
-## Por que Não Há Previsão Disponível?
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Sabe-se, de forma geral, que a amantadina atua como antagonista do receptor NMDA e modula a transmissão dopaminérgica.
 
-Uma hipótese provável é que o nome consultado mistura o idioma português ("amantadina") com o inglês ("hydrochloride"), podendo não corresponder ao formato cadastrado nos sistemas da ANVISA — onde o equivalente seria "Amantadina Cloridrato" ou "Cloridrato de Amantadina".
+A encefalite de Rasmussen é uma doença neuroinflamatória de origem imunomediada, que costuma cursar com crises epilépticas e atrofia progressiva de um hemisfério cerebral. Hipóteses sobre excitotoxicidade mediada por glutamato (por exemplo, envolvendo anticorpos anti-GluR3) sugerem um racional teórico para a modulação de receptores NMDA.
 
-<!-- review:begin br-lic-20261106-amantadina_hydrochloride-2 -->
+Esse racional é apenas teórico. Não há ensaios clínicos nem literatura nos dados compilados que sustentem o uso da amantadina nessa doença, e a pontuação do modelo, por si só, não substitui evidência clínica.
 
-> **Correção de verificação (2026-11-06)**: Texto original: “A consulta ao banco de dados regulatório brasileiro retornou **0 registros** para o nome "AMANTADINA HYDROCHLORIDE". Uma hipótese provável é que o nome consultado mistura o idioma português ("amantadina") com o inglês ("hydrochloride"), podendo não corresponder ao formato cadastrado nos sistemas da ANVISA — onde o equivalente seria "Amantadina Cloridrato" ou "Cloridrato de Amantadina".” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+## Evidências de Ensaios Clínicos
 
-<!-- review:end br-lic-20261106-amantadina_hydrochloride-2 -->
+Atualmente não há ensaios clínicos relacionados registrados.
 
-Além disso, a ausência do **DrugBank ID** é um bloqueio crítico: sem esse identificador, o fármaco não pode ser mapeado como nó na rede do conhecimento TxGNN, o que impede a geração de qualquer previsão de reposicionamento pelo modelo de aprendizado profundo ou pelo método de grafo de conhecimento (KG).
+## Evidências da Literatura
 
-Por fim, a indisponibilidade dos dados de **mecanismo de ação (MOA)** e das **advertências e contraindicações** oficiais impede tanto a análise de plausibilidade biológica quanto a triagem inicial de segurança — etapas obrigatórias antes de qualquer recomendação clínica.
+Atualmente não há literatura relacionada.
 
----
+## Informações de Comercialização no Brasil
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro 100431410 | MANTIDAN | Não informada | ANTIPARKINSONIANOS |
+
+## Considerações de Segurança
+
+Consulte a bula para informações de segurança.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-Os dados mínimos necessários para uma avaliação estruturada de reposicionamento — DrugBank ID, MOA e informações de segurança regulatória — estão ausentes neste pacote de evidências.
-
-<!-- review:begin br-lic-20261106-amantadina_hydrochloride-3 -->
-
-> **Correção de verificação (2026-11-06)**: Texto original: “O fármaco não possui registros no mercado brasileiro e não gerou previsões TxGNN. Os dados mínimos necessários para uma avaliação estruturada de reposicionamento — DrugBank ID, MOA e informações de segurança regulatória — estão ausentes neste pacote de evidências.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-lic-20261106-amantadina_hydrochloride-3 -->
+- A previsão tem pontuação alta (0,9948), mas não há nenhum estudo clínico ou publicação sobre a encefalite de Rasmussen; o nível de evidência é L5, baseado apenas no modelo.
 
 **Para prosseguir, é necessário:**
-- **[Bloqueante]** Revisar o nome de busca no sistema ANVISA: tentar "Cloridrato de Amantadina", "Amantadina Cloridrato" ou "Amantadine Hydrochloride"
-- **[Bloqueante]** Coletar advertências, contraindicações e dados de segurança da bula oficial (fonte: ANVISA / bula do fabricante)
-- **[Alta prioridade]** Obter o DrugBank ID para habilitar o mapeamento e a geração de previsões TxGNN
-- **[Alta prioridade]** Consultar a API do DrugBank para obter dados de MOA e categorias farmacológicas
-- Após resolução dos itens acima, reprocessar o Evidence Pack e gerar novo ciclo de avaliação
+- Levantamento da literatura e de ensaios específicos sobre amantadina em encefalite de Rasmussen, incluindo relatos de caso.
+- Dados detalhados do mecanismo de ação (MOA) e sua relação com a fisiopatologia da doença.
+- Informações de segurança da bula da ANVISA (advertências e contraindicações), ainda não disponíveis.
+- Avaliação de viabilidade da via de administração e da população-alvo (doença rara, em geral pediátrica).
 
 <!-- review:begin log -->
 
@@ -106,9 +102,9 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “A ausência de registros no mercado brasileiro e a falta do DrugBank ID impedem o mapeamento do fármaco na rede de conhecimento TxGNN, inviab” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-06 | Removido: “A consulta ao banco de dados regulatório brasileiro retornou **0 registros** para o nome "AMANTADINA HYDROCHLORIDE"” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-06 | Removido: “O fármaco não possui registros no mercado brasileiro e não gerou previsões TxGNN” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “A ausência de registros no mercado brasileiro e a falta do DrugBank ID impedem o mapeamento do fármaco na rede de conhecimento TxGNN, inviab” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “A consulta ao banco de dados regulatório brasileiro retornou **0 registros** para o nome "AMANTADINA HYDROCHLORIDE"” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “O fármaco não possui registros no mercado brasileiro e não gerou previsões TxGNN” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

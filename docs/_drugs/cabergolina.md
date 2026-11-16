@@ -1,20 +1,21 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Cabergolina
 parent: Apenas Predição do Modelo (L5)
-nav_order: 169
+nav_order: 168
 evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-11-12
-predicted_indications: []
+indication_count: 4
+drugbank_id: DB00248
+monitor_inn: "Cabergoline"
+predicted_indications: ["progeria-short stature-pigmented nevi syndrome", "pituitary cancer", "cerebral palsy, spastic quadriplegic", "glaucoma"]
+last_modified_at: 2026-11-16
+description: "Cabergolina: nova indicação prevista, Progeria-short stature-pigmented nevi syndrome (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Cabergolina
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **0** 
+Nível de evidência: **L5** | Indicações previstas: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,105 +34,79 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-## Cabergolina: Avaliação de Reposicionamento — Dados Insuficientes para Previsão
+## Cabergolina: Progeria-short stature-pigmented nevi syndrome
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Cabergolina é um agonista dopaminérgico utilizado principalmente no tratamento da hiperprolactinemia e da doença de Parkinson.
-O presente Evidence Pack **não contém previsões TxGNN** para novas indicações — o campo `predicted_indications` está vazio — portanto não é possível avaliar candidatos de reposicionamento neste ciclo.
-
-<!-- review:begin br-lic-20261106-cabergolina-1 -->
-
-> **Correção de verificação (2026-11-06)**: Texto original: “O presente Evidence Pack **não contém previsões TxGNN** para novas indicações — o campo `predicted_indications` está vazio — portanto não é possível avaliar candidatos de reposicionamento neste ciclo. / Existem **20 registros** da substância no mercado brasileiro, porém os detalhes dos registros não foram recuperados nesta execução.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 25 registros para este medicamento, 15 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-lic-20261106-cabergolina-1 -->
-
----
+Cabergolina é um agonista do receptor dopaminérgico D2 com registros ativos no Brasil. O modelo TxGNN prevê que ela pode ser eficaz para **Adenocarcinoma hipofisário (pituitary adenocarcinoma (disease))**. Para essa previsão específica, não há ensaios clínicos registrados e há apenas **3 publicações** (relatos de caso, uma delas sem relação clara com o tema), ou seja, a evidência é fraca.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Não disponível neste pack (registros sem detalhes) |
-| Nova Indicação Prevista | — (sem previsão TxGNN) |
-| Pontuação de Previsão TxGNN | — |
-| Nível de Evidência | N/A |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Progeria-short stature-pigmented nevi syndrome |
+| Pontuação de Previsão TxGNN | 0.9906 |
+| Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 15 de 25) |
 | Número de Registros | 25 (ativos: 15) |
-| Decisão Recomendada | **Hold** |
+| Decisão Recomendada | Hold |
 
----
+## Por que Esta Previsão é Razoável?
 
-## Por que Este Relatório Está Incompleto?
+A cabergolina é um agonista do receptor dopaminérgico D2. Ao ativar esse receptor, suprime a secreção de prolactina e pode limitar o crescimento de tumores lactotróficos. Os dados compilados para este relatório não trazem uma descrição detalhada do mecanismo de ação do fármaco; o que se descreve aqui é o mecanismo farmacológico geral da classe.
 
-Há dois bloqueios críticos identificados no `meta.data_gaps`:
+A expressão de receptores D2 em tumores hipofisários dá uma base plausível para se considerar seu uso em tumores agressivos ou carcinomas da hipófise. Trata-se, porém, de uma hipótese mecanística: nenhum estudo citado investiga diretamente o adenocarcinoma hipofisário.
 
-<!-- review:begin br-lic-20261106-cabergolina-2 -->
+A literatura associada a esta previsão é composta apenas por relatos de caso: um sobre hipersecreção ectópica de corticotrofina tratada com octreotida ou cabergolina, um sobre adenocarcinoma pancreático em paciente que usava cabergolina por adenoma hipofisário e um sobre neoplasia endócrina múltipla com variante do gene MEN1 de significado incerto. Os dois últimos não têm relevância clara para a indicação prevista. A evidência é, portanto, indireta e anedótica.
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Este Evidence Pack foi gerado com **dados parciais**: apenas a consulta ao banco regulatório brasileiro (TFDA/ANVISA) e ao DrugBank foram executadas, mas os campos de retorno dos registros estão em branco (campos `license_number`, `product_name_zh`, `approved_indication_text` todos vazios).” Removido: texto residual do modelo taiwanês (TFDA), que não se aplica a esta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+## Evidências de Ensaios Clínicos
 
-<!-- review:end br-lic-20261106-cabergolina-2 -->
+Atualmente não há ensaios clínicos relacionados registrados para esta previsão.
 
-| ID | Item Faltante | Severidade | Impacto |
-|----|--------------|-----------|---------|
-| DG001 | ANVISA — advertências e contraindicações da bula | **Bloqueante** | Impede avaliação inicial de segurança |
-| DG002 | Mecanismo de ação (MOA) | Alta | Impede análise de relevância mecanística |
+## Evidências da Literatura
 
-Adicionalmente, o campo `predicted_indications` retornou **lista vazia**, o que significa que o pipeline TxGNN não gerou candidatos de reposicionamento para CABERGOLINA neste ciclo. Sem candidatos, não há base para avaliação de nova indicação.
-
----
+| PMID | Ano | Tipo | Periódico | Principais Achados |
+|------|-----|------|------|---------|
+| [20497940](https://pubmed.ncbi.nlm.nih.gov/20497940/) | 2010 | Relato de caso | Endocrine Practice | Resposta da corticotrofina ao uso prolongado de octreotida ou cabergolina em paciente com secreção ectópica após adrenalectomia; indireta para a indicação |
+| [33569966](https://pubmed.ncbi.nlm.nih.gov/33569966/) | 2021 | Relato de caso | Revista Española de Enfermedades Digestivas | Linfangiectasia duodenal como primeiro sinal de adenocarcinoma pancreático em paciente com adenoma hipofisário tratada com cabergolina; sem relação com a indicação |
+| [41760078](https://pubmed.ncbi.nlm.nih.gov/41760078/) | 2026 | Relato de caso | Medicine | Neoplasia endócrina múltipla com curso clínico atípico e variante do gene MEN1 de significado incerto; sem relação clara com a indicação |
 
 ## Informações de Comercialização no Brasil
 
-Os 20 registros existem no sistema regulatório, mas os detalhes não foram recuperados nesta execução do pipeline. A tabela abaixo não pode ser preenchida:
+Há registros ativos de cabergolina isolada no Brasil, de diversos fabricantes. Os dados locais não trazem texto de indicação aprovada nem forma farmacêutica para esses registros. Parte dos registros está cancelada.
 
-| Registro | Produto | Empresa detentora | Situação |
-|------|------|------|------|
-| 100431274 | CABERGOLINA | EUROFARMA LABORATORIOS S.A. | Ativo |
-| 100630307 | CABERGOLINA | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
-| 102351161 | CABERGOLINA | EMS S/A | Ativo |
-| 102980410 | CABEREDUX | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
-| 102980442 | CABERGOLINA | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
-| 105830808 | CABERGOLINA | GERMED FARMACEUTICA LTDA | Ativo |
-| 110390214 | CABERGOLINA | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Ativo |
-| 110630134 | CABERGOLINA | FUNDAÇÃO OSWALDO CRUZ | Ativo |
-| 118190331 | CABERGOLINA | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
-| 121100412 | DOSTINEX | PFIZER BRASIL LTDA | Ativo |
-| 122140091 | CABERTRIX | ADIUM S.A. | Ativo |
-| 123520266 | CABERGOLINA | RANBAXY FARMACÊUTICA LTDA | Ativo |
-| 125680257 | CABERGOLINA | PRATI DONADUZZI & CIA LTDA | Ativo |
-| 146820083 | CABERGOLINA | SUN FARMACÊUTICA DO BRASIL LTDA | Ativo |
-| 198830001 | CABERGOLINA | FUNDAÇÃO BAIANA DE PESQ. CIENTIFICA E DESENV.  TEC | Ativo |
-| 102160140 | DOSTINEX | LABORATÓRIOS PFIZER LTDA | Cancelado |
-| 102980409 | CABERGOLINA | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Cancelado |
-| 104920229 | CABERGOLINA | BIOLAB FARMA GENERICOS LTDA | Cancelado |
-| 109220064 | ADEGRIP | H B FARMA LABORATÓRIOS LTDA | Cancelado |
-| 122140090 | CABERGOLINA | ADIUM S.A. | Cancelado |
-| 123890061 | DOSTINEX | PHARMACIA BRASIL LTDA | Cancelado |
-| 126750197 | CABERGOLINA | NOVA QUIMICA FARMACÊUTICA S/A | Cancelado |
-| 135690677 | CABERGOLINA | EMS SIGMA PHARMA LTDA | Cancelado |
-| 167730428 | CABERGOLINA | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
-| 167730433 | BERGOX | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| 100431274 | Cabergolina | Não informada | Não informada |
+| 102980410 | Caberedux | Não informada | Não informada |
+| 121100412 | Dostinex | Não informada | Não informada |
+| 122140091 | Cabertrix | Não informada | Não informada |
+| 125680257 | Cabergolina | Não informada | Não informada |
 
-> **Ação necessária:** Executar novamente a consulta ao portal ANVISA com extração completa dos campos de cada registro.
+## Citotoxicidade
 
----
+Não se aplica: a cabergolina não é um antineoplásico citotóxico convencional, e a seção foi omitida.
+
+## Considerações de Segurança
+
+Consulte a bula para informações de segurança.
+
+Pontos de atenção da literatura compilada: relatos de glaucoma de ângulo fechado bilateral associado à cabergolina e, em outras indicações em estudo, necessidade de monitorar valvulopatia cardíaca em doses mais altas e transtornos do controle de impulsos.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-O Evidence Pack não contém previsões de novas indicações e os dados regulatórios de detalhe não foram recuperados, tornando impossível qualquer análise de reposicionamento neste ciclo.
+- Não há ensaios clínicos nem estudos que investiguem diretamente o adenocarcinoma hipofisário; as três publicações são relatos de caso, dois deles sem relevância clara. Por isso, o nível de evidência é L5, apesar da pontuação alta do modelo (0,9906).
 
 **Para prosseguir, é necessário:**
-
-1. **Reexecutar a consulta regulatória** — recuperar os campos `license_number`, `product_name_zh`, `dosage_form` e `approved_indication_text` dos 20 registros ANVISA de Cabergolina
-2. **Corrigir o pipeline TxGNN** — investigar por que `predicted_indications` retornou vazio; verificar se o mapeamento DrugBank foi bem-sucedido (query_log id=3 indica `success` com 1 resultado, mas o `drugbank_id` ficou `null`)
-3. **Preencher o MOA (DG002)** — consultar DrugBank API com o ID recuperado para obter o mecanismo de ação e categorias do fármaco
-4. **Baixar e parsear a bula (DG001)** — obter advertências e contraindicações do PDF da bula ANVISA para liberar a avaliação de segurança
-5. **Reprocessar o pack** — após as correções acima, gerar novo Evidence Pack versão v5 com dados completos
+- Estudos que avaliem diretamente a cabergolina em carcinoma hipofisário verdadeiro (e não apenas em adenomas), com validação separada para doença metastática.
+- Dados detalhados do mecanismo de ação.
+- Bula do ANVISA com advertências e contraindicações, para a triagem de segurança.
+- Plano de monitoramento de valvulopatia cardíaca, transtornos do controle de impulsos e eventos oculares.
 
 <!-- review:begin log -->
 
@@ -141,8 +116,8 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “Existem **20 registros** da substância no mercado brasileiro, porém os detalhes dos registros não foram recuperados nesta execução” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-06 | Removido: “Este Evidence Pack foi gerado com **dados parciais**: apenas a consulta ao banco regulatório brasileiro (TFDA/ANVISA) e ao DrugBank foram ex” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Existem **20 registros** da substância no mercado brasileiro, porém os detalhes dos registros não foram recuperados nesta execução” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Este Evidence Pack foi gerado com **dados parciais**: apenas a consulta ao banco regulatório brasileiro (TFDA/ANVISA) e ao DrugBank foram ex” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

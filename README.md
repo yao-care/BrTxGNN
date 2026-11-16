@@ -19,7 +19,7 @@ Predicoes de reposicionamento de medicamentos para medicamentos aprovados pela A
 
 | Item | Quantidade |
 |------|------|
-| **Relatorios de medicamentos** | 517 |
+| **Relatorios de medicamentos** | 575 |
 | **Predicoes totais** | 20,252,111 |
 | **Medicamentos unicos** | 1,037 |
 | **Indicacoes unicas** | 17,041 |
@@ -30,11 +30,11 @@ Predicoes de reposicionamento de medicamentos para medicamentos aprovados pela A
 
 | Nivel de evidencia | Quantidade de relatorios | Descricao |
 |---------|-------|------|
-| **L1** | 4 | Multiplos ECRs de Fase 3 |
-| **L2** | 21 | ECR unico ou multiplos Fase 2 |
+| **L1** | 6 | Multiplos ECRs de Fase 3 |
+| **L2** | 23 | ECR unico ou multiplos Fase 2 |
 | **L3** | 23 | Estudos observacionais |
-| **L4** | 30 | Estudos pre-clinicos / mecanisticos |
-| **L5** | 395 | Apenas predicao computacional |
+| **L4** | 31 | Estudos pre-clinicos / mecanisticos |
+| **L5** | 448 | Apenas predicao computacional |
 | **N/A** | 44 | Apenas usos conhecidos (sem novas previsões) |
 
 ### Por fonte

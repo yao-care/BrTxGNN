@@ -1,20 +1,21 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Amilorida
 parent: Apenas Predição do Modelo (L5)
 nav_order: 52
 evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-11-12
-predicted_indications: []
+indication_count: 5
+drugbank_id: DB00594
+monitor_inn: "Amiloride"
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease"]
+last_modified_at: 2026-11-16
+description: "Amilorida: nova indicação prevista, Malignant hypertensive renal disease (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Amilorida
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **0** 
+Nível de evidência: **L5** | Indicações previstas: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,62 +34,71 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-## Amilorida: Avaliação de Reposicionamento Pendente — Dados Insuficientes para Previsão
+## Amilorida: Malignant hypertensive renal disease
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Sem previsões de nova indicação geradas, **não é possível realizar uma avaliação de reposicionamento neste momento**. A coleta de dados complementares é necessária antes de prosseguir.
-
-<!-- review:begin br-lic-20261106-amilorida-1 -->
-
-> **Correção de verificação (2026-11-06)**: Texto original: “Amilorida (AMILORIDA) é um fármaco com **20 registros ativos** no mercado brasileiro, porém este pacote de evidências não contém dados de indicação original, mecanismo de ação nem previsões do modelo TxGNN. Sem previsões de nova indicação geradas, **não é possível realizar uma avaliação de reposicionamento neste momento**.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 21 registros para este medicamento, 3 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-lic-20261106-amilorida-1 -->
+Amilorida é um diurético poupador de potássio, disponível no Brasil apenas em associações com hidroclorotiazida.
+O modelo TxGNN prevê que pode ser eficaz para **Hipertensão renovascular maligna (malignant renovascular hypertension)**, mas, até o momento, há **0 ensaios clínicos** e **1 publicação** de caráter geral (uma revisão sobre hipertensão mineralocorticoide) associada a essa direção.
 
 ---
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
-|------|----------|
-| Indicação Original | Não disponível neste pacote de evidências |
-| Nova Indicação Prevista | Nenhuma previsão TxGNN gerada |
-| Pontuação de Previsão TxGNN | Não aplicável |
-| Nível de Evidência | Não avaliável (sem predição de modelo) |
+|------|------|
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Malignant hypertensive renal disease |
+| Pontuação de Previsão TxGNN | 0.9982 |
+| Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 21) |
 | Número de Registros | 21 (ativos: 3) |
-| Decisão Recomendada | **Hold** |
+| Decisão Recomendada | Hold |
 
 ---
 
 ## Por que Esta Previsão é Razoável?
 
-O modelo TxGNN **não gerou nenhuma previsão de reposicionamento** para Amilorida neste pacote de evidências. Sem uma indicação candidata, não é possível avaliar a coerência mecanística entre indicação original e nova indicação.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a amilorida bloqueia o canal epitelial de sódio (ENaC) no néfron distal, reduzindo a reabsorção de sódio e a perda de potássio. Isso é plausível para hipertensões dependentes de mineralocorticoides ou de volume.
 
-Adicionalmente, não há dados sobre o mecanismo de ação (MOA) neste pacote. Segundo as lacunas identificadas (`DG002`), a consulta ao DrugBank é necessária para recuperar essas informações. Da mesma forma, as indicações originais aprovadas constam nos 20 registros regulatórios.
+A hipertensão renovascular maligna, porém, é impulsionada principalmente pela ativação do sistema renina-angiotensina. A ligação com o ENaC é, portanto, indireta. A única publicação recuperada é uma revisão geral sobre a investigação da hipertensão mineralocorticoide e não aborda a amilorida nessa condição.
 
-<!-- review:begin br-lic-20261106-amilorida-2 -->
+---
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Da mesma forma, as indicações originais aprovadas constam nos 20 registros regulatórios, mas os detalhes individuais de cada registro (nome comercial, forma farmacêutica, indicação aprovada) estão ausentes neste pacote — sendo necessário processar os registros via ANVISA/TFDA para completá-los.” Removido: texto residual do modelo taiwanês (TFDA), que não se aplica a esta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+## Evidências da Literatura
 
-<!-- review:end br-lic-20261106-amilorida-2 -->
+| PMID | Ano | Tipo | Periódico | Principais Achados |
+|------|-----|------|------|---------|
+| [12929904](https://pubmed.ncbi.nlm.nih.gov/12929904/) | 2003 | Revisão | Journal of Hypertension. Supplement | Revisão geral sobre a investigação da hipertensão mineralocorticoide (aldosteronismo primário, hipocalemia, renina plasmática baixa); não avalia a amilorida na hipertensão renovascular maligna |
 
-<!-- review:begin br-lic-20261106-amilorida-3 -->
-
-> **Correção de verificação (2026-11-06)**: Texto original: “O fármaco possui status **Comercializado** com **20 registros ativos**. Os detalhes individuais dos registros (nome comercial, forma farmacêutica e indicação aprovada) não estão disponíveis neste pacote de evidências — o preenchimento requer consulta direta às bulas registradas na ANVISA.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 21 registros para este medicamento, 3 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-lic-20261106-amilorida-3 -->
+Não há ensaios clínicos relacionados registrados.
 
 ---
 
 ## Informações de Comercialização no Brasil
+
+Todos os registros localizados são de associações (amilorida + hidroclorotiazida); nenhum é de amilorida isolada. Três registros estão válidos e 18 estão cancelados. Os textos de indicação aprovada não constam nos dados locais.
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| 100430981 | Diupress (associação) | Não informada | Não informada |
+| 102350675 | Cloridrato de amilorida + hidroclorotiazida (associação) | Não informada | Não informada |
+| 107150018 | Diurezin (associação) | Não informada | Não informada |
+
+---
+
+## Citotoxicidade
+
+Não aplicável: a amilorida não é um antineoplásico.
 
 ---
 
 ## Considerações de Segurança
 
 Consulte a bula para informações de segurança.
+
+Observação: um relato de caso recuperado para outra condição prevista (cor pulmonale crônico) descreveu hiperpotassemia grave em paciente idosa em uso de outro medicamento. Isso reforça a cautela com fármacos poupadores de potássio, sobretudo na presença de insuficiência renal ou de outros agentes que elevam o potássio.
 
 ---
 
@@ -97,13 +107,13 @@ Consulte a bula para informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-O modelo TxGNN não gerou previsões de reposicionamento para Amilorida, e os dados de mecanismo de ação, indicações originais aprovadas e perfil de segurança estão ausentes neste pacote, impossibilitando qualquer avaliação fundamentada de candidatura a reposicionamento.
+- Não há ensaios clínicos nem estudos que avaliem a amilorida diretamente na hipertensão renovascular maligna. A previsão tem pontuação alta (0,9982), mas o mecanismo é indireto, já que a doença depende principalmente do sistema renina-angiotensina.
 
 **Para prosseguir, é necessário:**
-- Executar o pipeline TxGNN com Amilorida para obter previsões de novas indicações
-- Consultar a API do DrugBank para recuperar o mecanismo de ação (MOA) e categorias farmacológicas
-- Processar os 20 registros regulatórios via ANVISA para obter nome comercial, forma farmacêutica e indicação aprovada
-- Baixar e analisar as bulas em PDF para extrair advertências principais, contraindicações e interações medicamentosas (`DG001`, severidade: Blocking)
+- Obter e analisar a bula da ANVISA (advertências e contraindicações), pois a falta desses dados impede a triagem de segurança.
+- Complementar os dados de mecanismo de ação, por exemplo pela consulta ao DrugBank.
+- Buscar estudos clínicos ou pré-clínicos que avaliem diretamente a amilorida na hipertensão renovascular maligna.
+- Avaliar o risco de hiperpotassemia nessa população, incluindo função renal e uso concomitante de inibidores do sistema renina-angiotensina.
 
 <!-- review:begin log -->
 
@@ -113,9 +123,9 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “Amilorida (AMILORIDA) é um fármaco com **20 registros ativos** no mercado brasileiro, porém este pacote de evidências não contém dados de in” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-06 | Removido: “mas os detalhes individuais de cada registro (nome comercial, forma farmacêutica, indicação aprovada) estão ausentes neste pacote — sendo ne” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-06 | Removido: “O fármaco possui status **Comercializado** com **20 registros ativos**. Os detalhes individuais dos registros (nome comercial, forma farmacê” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Amilorida (AMILORIDA) é um fármaco com **20 registros ativos** no mercado brasileiro, porém este pacote de evidências não contém dados de in” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “mas os detalhes individuais de cada registro (nome comercial, forma farmacêutica, indicação aprovada) estão ausentes neste pacote — sendo ne” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “O fármaco possui status **Comercializado** com **20 registros ativos**. Os detalhes individuais dos registros (nome comercial, forma farmacê” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

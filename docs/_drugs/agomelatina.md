@@ -1,20 +1,21 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Agomelatina
 parent: Apenas Predição do Modelo (L5)
 nav_order: 32
 evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-11-12
-predicted_indications: []
+indication_count: 7
+drugbank_id: DB06594
+monitor_inn: "Agomelatine"
+predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "neurotic disorder", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type", "Keppen-Lubinsky syndrome"]
+last_modified_at: 2026-11-16
+description: "Agomelatina: nova indicação prevista, Torcicolo paroxístico benigno da infância (benign paroxysmal torticollis of infancy) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Agomelatina
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **0** 
+Nível de evidência: **L5** | Indicações previstas: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,71 +34,71 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-## Agomelatina: Avaliação de Reposicionamento Pendente — Predições TxGNN Não Disponíveis
+## Agomelatina: Torcicolo paroxístico benigno da infância (benign paroxysmal torticollis of infancy)
 {: .text-alpha }
 
----
+## Resumo em Uma Frase
 
-## Resumo
-
-No ciclo de análise atual, o pipeline TxGNN **não gerou predições de reposicionamento** para este fármaco — possivelmente devido a falhas no mapeamento do DrugBank ID e na recuperação do mecanismo de ação.
-Sem predições disponíveis, não é possível realizar a avaliação de reposicionamento neste ciclo.
-
-<!-- review:begin br-lic-20261106-agomelatina-1 -->
-
-> **Correção de verificação (2026-11-06)**: Texto original: “Agomelatina é um fármaco psicotrópico comercializado no Brasil com **7 registros ativos** na ANVISA. / No ciclo de análise atual, o pipeline TxGNN **não gerou predições de reposicionamento** para este fármaco — possivelmente devido a falhas no mapeamento do DrugBank ID e na recuperação do mecanismo de ação.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 7 registros para este medicamento, 5 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-lic-20261106-agomelatina-1 -->
-
----
+Agomelatina é um antidepressivo com ação sobre receptores melatonérgicos (agonista MT1/MT2) e serotonérgicos (antagonista 5-HT2C), com registro ativo no Brasil.
+O modelo TxGNN prevê que ela possa ser eficaz para o **torcicolo paroxístico benigno da infância (benign paroxysmal torticollis of infancy)**, mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção, ou seja, trata-se apenas de uma previsão computacional.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Não recuperada neste Evidence Pack |
-| Nova Indicação Prevista | Não disponível |
-| Pontuação de Previsão TxGNN | Não disponível |
-| Nível de Evidência | L5 — sem predições do modelo |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Torcicolo paroxístico benigno da infância (benign paroxysmal torticollis of infancy) |
+| Pontuação de Previsão TxGNN | 0.9996 |
+| Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 7) |
 | Número de Registros | 7 (ativos: 5) |
-| Decisão Recomendada | **Hold** |
+| Decisão Recomendada | Hold |
 
----
+## Por que Esta Previsão é Razoável?
+
+A agomelatina atua como agonista dos receptores melatonérgicos MT1 e MT2 e como antagonista do receptor serotonérgico 5-HT2C. Essa combinação ressincroniza ritmos circadianos e aumenta a liberação de dopamina e noradrenalina no córtex pré-frontal. Esses dados de mecanismo vêm da literatura recuperada para outras indicações; os dados compilados para este relatório não trazem uma descrição formal do mecanismo de ação.
+
+O torcicolo paroxístico benigno da infância é uma condição neurológica rara, com episódios recorrentes de inclinação da cabeça em lactentes. Um vínculo com a modulação melatonérgica e serotonérgica é possível em teoria, mas é especulativo: não há ensaio clínico, publicação ou dado pré-clínico que o sustente.
+
+A pontuação elevada (0,9996) reflete apenas uma previsão computacional. Além disso, o uso em lactentes levanta preocupações de segurança adicionais, pois não há dados nessa faixa etária nos dados compilados.
+
+## Evidências de Ensaios Clínicos
+
+Atualmente não há ensaios clínicos relacionados registrados.
+
+## Evidências da Literatura
+
+Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-7 registros foram confirmados na fonte regulatória, porém os campos de detalhe (nome comercial, forma farmacêutica, indicação aprovada) não foram recuperados neste Evidence Pack. Os registros constam como comercializados, mas sem conteúdo identificável nos campos individuais.
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| 102351276 | Agomelatina (EMS S/A) | Não informada | Não registrada |
+| 112780073 | Valdoxan (Servier) | Não informada | Não registrada |
+| 112780082 | Agoxom (Servier) | Não informada | Não registrada |
+| 155730062 | Elencos (Teva) | Não informada | Não registrada |
+| 155730063 | Agomelatina (Teva) | Não informada | Não registrada |
 
-> Para consulta direta dos registros, acesse: [ANVISA — Consulta de Medicamentos](https://consultas.anvisa.gov.br/#/medicamentos/)
-
----
+Há 7 registros no total, dos quais 5 válidos e 2 cancelados; a tabela lista os 5 principais.
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
-
----
+Consulte a bula para informações de segurança. Os dados compilados não trazem advertências ou contraindicações da bula, e não foram encontradas interações medicamentosas. Como a população-alvo prevista são lactentes, a segurança pediátrica precisa ser avaliada especificamente.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-O Evidence Pack não contém predições TxGNN nem dados regulatórios detalhados, o que torna inviável qualquer avaliação de reposicionamento neste ciclo. Os gaps identificados são classificados como **Blocking** e **High** pelo próprio pipeline.
+Não há ensaios clínicos nem publicações sobre agomelatina no torcicolo paroxístico benigno da infância; a previsão é puramente computacional (nível L5). O uso em lactentes acrescenta incerteza de segurança.
 
 **Para prosseguir, é necessário:**
-
-- **[Blocking]** Recuperar as advertências e contraindicações da bula ANVISA — baixar o PDF do produto e extrair as seções de segurança
-- **[High]** Obter o DrugBank ID e o mecanismo de ação (MOA) via DrugBank API — o query retornou 1 resultado, mas o ID não foi mapeado para o Evidence Pack
-- Recuperar os detalhes dos 7 registros ANVISA: nome comercial, forma farmacêutica e indicação aprovada
-- Re-executar o pipeline de predição TxGNN após correção do mapeamento DrugBank para obter candidatos de reposicionamento
-
-<!-- review:begin br-lic-20261106-agomelatina-2 -->
-
-> **Correção de verificação (2026-11-06)**: Texto original: “Re-executar o pipeline de predição TxGNN após correção do mapeamento DrugBank para obter candidatos de reposicionamento / Verificar a fonte dos dados regulatórios: o `query_log` indica fonte `tfda` (Taiwan FDA) — confirmar se os registros correspondem efetivamente à base ANVISA brasileira” Removido: texto residual do modelo taiwanês (TFDA), que não se aplica a esta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-lic-20261106-agomelatina-2 -->
+- Revisão da literatura sobre fisiopatologia do torcicolo paroxístico benigno da infância e eventual papel de vias melatonérgicas/serotonérgicas
+- Dados pré-clínicos que sustentem o mecanismo proposto
+- Dados de segurança pediátrica, em especial para lactentes
+- Advertências e contraindicações extraídas da bula da ANVISA
+- Dados formais de mecanismo de ação (por exemplo, DrugBank)
 
 <!-- review:begin log -->
 
@@ -107,8 +108,8 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “Agomelatina é um fármaco psicotrópico comercializado no Brasil com **7 registros ativos** na ANVISA” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-06 | Removido: “Verificar a fonte dos dados regulatórios: o `query_log` indica fonte `tfda` (Taiwan FDA) — confirmar se os registros correspondem efetivamen” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Agomelatina é um fármaco psicotrópico comercializado no Brasil com **7 registros ativos** na ANVISA” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Verificar a fonte dos dados regulatórios: o `query_log` indica fonte `tfda` (Taiwan FDA) — confirmar se os registros correspondem efetivamen” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

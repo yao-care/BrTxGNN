@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com CAPTOPRIL. 3 indicações previstas."
 permalink: /news/captopril/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 ---
 
 # Notícias sobre CAPTOPRIL
@@ -39,7 +39,7 @@ Esta página combina as indicações previstas por IA para CAPTOPRIL com as not�
 
 ### [Metástase desaparece no primeiro paciente tratado com nova vacina russa contra o câncer - Brasil 247](https://news.google.com/rss/articles/CBMivAFBVV95cUxNU2ljTWtZUmZCNXpXcGkyV3VaTUlJcTV0S1pUbTAyTy01YXFKVGdUd1V6ZGlkTWVNWU5TSm9hMEh3d0lNYzdmUHJRd29iMEN0c0hmbG53NGNFd251SEkzbkdiX0lobkE1b0w2U2lSMTYwQWNTMkNPanFIN2Fvbko5aUpDbTFaeUZ2SUlQRmFYanhYbjVGZVBabUxQTTFQMlVpTGl4bThWd19mb2dhMC1pUkprYmRxSTdEdXdobw?oc=5)
 
-2026-11-15 <span class="news-indication-tag">câncer</span>
+2026-11-15 <span class="news-drug-tag">PEMBROLIZUMABE</span> <span class="news-indication-tag">câncer</span>
 
 Fonte: [Brasil 247](https://news.google.com/rss/articles/CBMivAFBVV95cUxNU2ljTWtZUmZCNXpXcGkyV3VaTUlJcTV0S1pUbTAyTy01YXFKVGdUd1V6ZGlkTWVNWU5TSm9hMEh3d0lNYzdmUHJRd29iMEN0c0hmbG53NGNFd251SEkzbkdiX0lobkE1b0w2U2lSMTYwQWNTMkNPanFIN2Fvbko5aUpDbTFaeUZ2SUlQRmFYanhYbjVGZVBabUxQTTFQMlVpTGl4bThWd19mb2dhMC1pUkprYmRxSTdEdXdobw?oc=5)
 

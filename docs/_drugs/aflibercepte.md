@@ -1,20 +1,21 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Aflibercepte
 parent: Apenas Predição do Modelo (L5)
 nav_order: 31
 evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-11-12
-predicted_indications: []
+indication_count: 1
+drugbank_id: DB08885
+monitor_inn: "Aflibercept"
+predicted_indications: ["esotropia"]
+last_modified_at: 2026-11-16
+description: "Aflibercepte: nova indicação prevista, Esotropia (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Aflibercepte
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **0** 
+Nível de evidência: **L5** | Indicações previstas: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,57 +34,63 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-## Aflibercepte: Avaliação de Reposicionamento — Dados Insuficientes para Previsão TxGNN
+## Aflibercepte: Esotropia
 {: .text-alpha }
 
-## Resumo
+## Resumo em Uma Frase
 
-O modelo TxGNN **não gerou previsões de novas indicações** para este fármaco nesta versão do Evidence Pack,
-e há lacunas de dados críticas — incluindo ausência de MOA e dados de segurança — que impedem a avaliação completa de reposicionamento.
-
-<!-- review:begin br-lic-20261106-aflibercepte-1 -->
-
-> **Correção de verificação (2026-11-06)**: Texto original: “Aflibercepte (AFLIBERCEPTE) é um fármaco atualmente comercializado no Brasil com 4 registros ativos na ANVISA. / O modelo TxGNN **não gerou previsões de novas indicações** para este fármaco nesta versão do Evidence Pack,” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 6 registros para este medicamento, 5 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-lic-20261106-aflibercepte-1 -->
-
----
+Aflibercepte é uma proteína de fusão recombinante que age como "armadilha" de fatores de crescimento vasculares (VEGF-A, VEGF-B e PlGF).
+O modelo TxGNN prevê que pode ser eficaz para **Esotropia (esotropia)**, mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção; trata-se apenas de uma previsão do modelo.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
-|------|----------|
-| Indicação Original | Não disponível (detalhes das licenças ausentes) |
-| Nova Indicação Prevista | Sem previsão TxGNN disponível |
-| Pontuação de Previsão TxGNN | Não disponível |
-| Nível de Evidência | Não aplicável |
+|------|------|
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Esotropia |
+| Pontuação de Previsão TxGNN | 0.9938 |
+| Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 6) |
 | Número de Registros | 6 (ativos: 5) |
-| Decisão Recomendada | **Hold** |
-
----
+| Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação de aflibercepte neste Evidence Pack. A consulta ao DrugBank retornou 1 resultado com sucesso, mas os dados não foram integrados ao relatório — é necessário verificar o pipeline de ingestão para recuperar o MOA.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o aflibercepte se liga ao VEGF-A, ao VEGF-B e ao fator de crescimento placentário (PlGF), impedindo que estimulem a formação e a permeabilidade de vasos sanguíneos. É usado em doenças vasculares da retina.
 
-Sem previsões TxGNN disponíveis e sem indicação original mapeada, não é possível estabelecer a relação mecanística entre indicação de origem e nova indicação candidata. Esta seção será atualizada assim que os dados de MOA e as previsões do modelo forem incorporados.
+A esotropia é um desvio do alinhamento ocular, causado sobretudo por fatores neuromusculares, refrativos ou de desenvolvimento sensorial. Não há, nos dados compilados, uma via mecanística que ligue a inibição do VEGF à esotropia. Uma ligação plausível, mas não verificada, seria indireta: doenças vasculares da retina (como a retinopatia da prematuridade) e déficits sensoriais podem se associar a estrabismo. Assim, o sinal do modelo pode refletir comorbidade ou proximidade nos dados de treinamento, e não um efeito terapêutico.
 
----
+Apesar da pontuação alta, a injeção intraocular de anti-VEGF não é um tratamento estabelecido para esotropia. A previsão deve ser tratada como hipótese, sem suporte clínico até o momento.
+
+## Informações de Comercialização no Brasil
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro 102440027 | PAVBLU | Não informada | Não registrada |
+| Registro 116640011 | YESAFILI | Não informada | Não registrada |
+| Registro 170560097 | EYLIA | Não informada | Não registrada |
+| Registro 183260338 | ZALTRAP | Não informada | Não registrada |
+| Registro 192160007 | EYDENZELT | Não informada | Não registrada |
+
+Há 6 registros no total, dos quais 5 estão válidos e 1 cancelado (um registro antigo do ZALTRAP, omitido da tabela acima).
+
+## Considerações de Segurança
+
+Consulte a bula para informações de segurança.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-O Evidence Pack atual carece dos três pilares mínimos para avaliação de reposicionamento: previsão TxGNN, mecanismo de ação e dados de segurança. A tomada de decisão sem esses elementos seria tecnicamente infundada.
+- Não há ensaios clínicos nem publicações sobre aflibercepte em esotropia, e não há mecanismo plausível que sustente a previsão. O nível de evidência é L5, apesar da pontuação alta do modelo.
 
 **Para prosseguir, é necessário:**
-
-- **[Bloqueante — DG001]** Baixar e analisar as bulas da ANVISA para as 4 licenças registradas, a fim de extrair advertências principais e contraindicações
-- **[Alta Prioridade — DG002]** Consultar DrugBank API para recuperar MOA — a query já retornou 1 resultado com sucesso, verificar integração dos dados no pipeline
-- **[Essencial]** Executar o modelo TxGNN para gerar previsões de novas indicações para aflibercepte
-- **[Complementar]** Recuperar os detalhes completos das 4 licenças brasileiras: número de registro, nome comercial, forma farmacêutica e texto da indicação aprovada
+- Obter e analisar as bulas na ANVISA (advertências e contraindicações), hoje ausentes.
+- Complementar os dados de mecanismo de ação (por exemplo, via DrugBank).
+- Revisão de literatura e de registros de ensaios para verificar se há qualquer relato de anti-VEGF em estrabismo/esotropia.
+- Avaliar a via de administração (intravítrea) e sua compatibilidade com a nova indicação, ainda pendente.
+- Estudos pré-clínicos ou mecanísticos que justifiquem uma hipótese biológica antes de qualquer investimento clínico.
 
 <!-- review:begin log -->
 
@@ -93,7 +100,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “Aflibercepte (AFLIBERCEPTE) é um fármaco atualmente comercializado no Brasil com 4 registros ativos na ANVISA” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Aflibercepte (AFLIBERCEPTE) é um fármaco atualmente comercializado no Brasil com 4 registros ativos na ANVISA” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

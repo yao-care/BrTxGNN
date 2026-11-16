@@ -1,20 +1,21 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Albuterol
 parent: Apenas Predição do Modelo (L5)
 nav_order: 35
 evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-11-12
-predicted_indications: []
+indication_count: 8
+drugbank_id: DB01001
+monitor_inn: "Salbutamol"
+predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "anaphylaxis", "common cold", "atopic conjunctivitis", "anorectal stricture"]
+last_modified_at: 2026-11-16
+description: "Albuterol: nova indicação prevista, Conjuntivite papilar (papillary conjunctivitis) (nível de evidência L5). Indicação original: BRONCODILATADORES"
 ---
 
 # Albuterol
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **0** 
+Nível de evidência: **L5** | Indicações previstas: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,51 +34,61 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-## Albuterol: Avaliação de Reposicionamento — Dados Insuficientes para Geração de Previsão
+## Albuterol: Conjuntivite papilar (papillary conjunctivitis)
 {: .text-alpha }
 
-## Resumo
+## Resumo em Uma Frase
 
-Albuterol (denominação internacional alternativa: salbutamol) é um broncodilatador beta-2 adrenérgico de curta ação, classicamente utilizado no alívio do broncoespasmo em asma e DPOC. O modelo TxGNN **não gerou nenhuma previsão de reposicionamento** para este fármaco na rodada atual de análise, provavelmente devido à ausência do identificador DrugBank no Evidence Pack. A avaliação completa está bloqueada até a complementação dos dados de entrada.
+Albuterol (salbutamol) é um broncodilatador agonista beta-2 adrenérgico, com registros no Brasil como broncodilatador e antiasmático.
+O modelo TxGNN prevê que pode ser eficaz para **Conjuntivite papilar (papillary conjunctivitis)**, mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção; trata-se apenas de uma previsão do modelo.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Broncoespasmo (asma, DPOC) — inferido externamente; não constou no Evidence Pack |
-| Nova Indicação Prevista | Não disponível |
-| Pontuação de Previsão TxGNN | Não disponível |
-| Nível de Evidência | L5 — sem previsão do modelo gerada |
+| Indicação Original | BRONCODILATADORES; ANTIASMATICOS |
+| Nova Indicação Prevista | Conjuntivite papilar (papillary conjunctivitis) |
+| Pontuação de Previsão TxGNN | 1.0000 |
+| Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 14 de 15) |
 | Número de Registros | 15 (ativos: 14) |
 | Decisão Recomendada | Hold |
 
-## Por que Esta Previsão Não Foi Gerada?
+## Por que Esta Previsão é Razoável?
 
-Albuterol (salbutamol) é um agonista seletivo dos receptores adrenérgicos beta-2, com mecanismo de ação bem estabelecido: ao ativar esses receptores na musculatura lisa brônquica, estimula a adenilil ciclase, eleva o AMPc intracelular e promove broncodilatação rápida. Trata-se de um dos fármacos mais utilizados no mundo para o manejo do broncoespasmo agudo.
+Atualmente, não há dados detalhados sobre o mecanismo de ação compilados para este relatório. Segundo informações conhecidas, o albuterol é um agonista beta-2 adrenérgico de curta ação, que relaxa a musculatura lisa brônquica por meio da via do AMP cíclico.
 
-O Evidence Pack recebido apresenta `drugbank_id: null`, o que provavelmente impediu o mapeamento correto do fármaco na base de conhecimento do TxGNN. Sem o identificador DrugBank, o modelo de grafo de conhecimento não consegue localizar o nó correspondente ao fármaco e, portanto, não produz previsões de reposicionamento. O DrugBank ID esperado para Albuterol é **DB01001**, e sua ausência representa a causa mais provável da lista de `predicted_indications` vazia.
+Hipoteticamente, a ativação de receptores beta-2 poderia reduzir a liberação de mediadores de mastócitos e a vasodilatação ocular, processos envolvidos em quadros alérgicos e inflamatórios da conjuntiva. Esse raciocínio é plausível, mas especulativo: não há ensaios clínicos nem publicações sobre albuterol na conjuntivite papilar nos dados compilados.
 
-No Brasil, este fármaco é registrado sob o nome INN adotado pela OMS — **salbutamol** — utilizado amplamente em produtos como Aerolin®, Salbutamol Sandoz® e similares. A divergência de nomenclatura explica o resultado negativo da consulta regulatória.
+A pontuação do modelo é muito alta (0,9999), porém ela sozinha não é suficiente para priorizar esta indicação. Também não foi estabelecida similaridade formal entre a indicação original e a nova.
 
-<!-- review:begin br-lic-20261106-albuterol-1 -->
+## Informações de Comercialização no Brasil
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Adicionalmente, a busca realizada na base da ANVISA com o termo "ALBUTEROL" retornou 0 registros. No Brasil, este fármaco é registrado sob o nome INN adotado pela OMS — **salbutamol** — utilizado amplamente em produtos como Aerolin®, Salbutamol Sandoz® e similares.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 15 registros para este medicamento, 14 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+O fármaco consta como comercializado no Brasil. Os registros listados são de produtos de componente único; a maioria é válida e um está cancelado (Regrair). Principais registros:
 
-<!-- review:end br-lic-20261106-albuterol-1 -->
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| 135310035 | AERO-IFAL | Não informada | Broncodilatadores |
+| 113430134 | Sulfato de Salbutamol | Não informada | Broncodilatadores |
+| 105710026 | NEUTOSS | Não informada | Broncodilatadores |
+| 101070226 | AEROLIN | Não informada | Broncodilatadores |
+| 107150015 | AEROTRAT | Não informada | Broncodilatadores |
+
+## Considerações de Segurança
+
+Consulte a bula para informações de segurança.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A ausência do `drugbank_id` bloqueou a geração de previsões pelo TxGNN, e a busca regulatória utilizou INN incorreto para o contexto brasileiro, resultando em um Evidence Pack sem dados suficientes para avaliação de reposicionamento.
+- A previsão para conjuntivite papilar baseia-se somente no modelo, sem ensaios clínicos nem literatura, e a pontuação isolada não basta para priorizá-la.
 
 **Para prosseguir, é necessário:**
-- Inserir o `drugbank_id` correto (**DB01001**) e reprocessar o pipeline de previsão TxGNN
-- Repetir a busca na ANVISA utilizando o nome INN alternativo **salbutamol**
-- Baixar as bulas dos produtos registrados na ANVISA para extrair advertências, contraindicações e interações medicamentosas
-- Após reprocessamento, verificar se o mecanismo beta-2 agonista apresenta relevância para alguma indicação alvo identificada pelo modelo
+- Dados de mecanismo de ação documentados e uma revisão de literatura dirigida a agonistas beta-2 na conjuntivite alérgica/papilar
+- Estudos pré-clínicos e, depois, clínicos com formulação oftálmica adequada, avaliando segurança local e sistêmica
+- Informações de segurança da bula (advertências e contraindicações) para a avaliação de segurança
 
 <!-- review:begin log -->
 
@@ -87,7 +98,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “Adicionalmente, a busca realizada na base da ANVISA com o termo "ALBUTEROL" retornou 0 registros” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Adicionalmente, a busca realizada na base da ANVISA com o termo "ALBUTEROL" retornou 0 registros” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

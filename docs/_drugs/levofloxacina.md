@@ -1,20 +1,21 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Levofloxacina
 parent: Apenas Predição do Modelo (L5)
-nav_order: 412
+nav_order: 411
 evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-11-12
-predicted_indications: []
+indication_count: 9
+drugbank_id: DB01137
+monitor_inn: "Levofloxacin"
+predicted_indications: ["punctate epithelial keratoconjunctivitis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder"]
+last_modified_at: 2026-11-16
+description: "Levofloxacina: nova indicação prevista, Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconjunctivitis) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Levofloxacina
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **0** 
+Nível de evidência: **L5** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,69 +34,71 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-## Levofloxacina: Dados Insuficientes para Análise de Reposicionamento
+## Levofloxacina: Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconjunctivitis)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Levofloxacina é um antibiótico da classe das fluoroquinolonas, amplamente utilizado no tratamento de infecções bacterianas do trato respiratório, urinário e de pele.
-O modelo TxGNN **não gerou previsões de reposicionamento** para este fármaco na execução atual — os registros regulatórios foram localizados (4 no mercado brasileiro), mas as etapas de mapeamento DrugBank e predição precisam ser concluídas antes que qualquer análise de reposicionamento possa ser realizada.
-
----
+Levofloxacina é um antibacteriano da classe das fluoroquinolonas, com registros ativos no Brasil.
+O modelo TxGNN prevê que pode ser eficaz para **Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconjunctivitis)**, mas atualmente há **nenhum ensaio clínico** e apenas **1 publicação** (um relato de surto de ceratoconjuntivite microsporidiana), que não sustenta eficácia nessa direção.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Infecções bacterianas (fluoroquinolona de amplo espectro) |
-| Nova Indicação Prevista | Não disponível — predição TxGNN pendente |
-| Pontuação de Previsão TxGNN | Não disponível |
-| Nível de Evidência | N/A |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconjunctivitis) |
+| Pontuação de Previsão TxGNN | 0.9992 |
+| Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 38 de 78) |
 | Número de Registros | 78 (ativos: 38) |
 | Decisão Recomendada | Hold |
 
----
+## Por que Esta Previsão é Razoável?
+
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a levofloxacina é uma fluoroquinolona de amplo espectro que inibe a DNA girase e a topoisomerase IV bacterianas, e é usada em infecções bacterianas, inclusive em conjuntivite bacteriana oftálmica.
+
+A ligação com a nova indicação é frágil. A única publicação recuperada trata de um surto de ceratoconjuntivite por microsporídios associado à contaminação de piscinas em Taiwan. Microsporídios são patógenos eucariotos relacionados a fungos, que as fluoroquinolonas não atingem de forma confiável. Esse trabalho, portanto, não demonstra eficácia da levofloxacina.
+
+A pontuação elevada do TxGNN é apenas uma previsão do modelo. Não há evidência clínica que a sustente, e a plausibilidade mecanística permanece não comprovada.
+
+## Evidências de Ensaios Clínicos
+
+Atualmente não há ensaios clínicos relacionados registrados.
+
+## Evidências da Literatura
+
+| PMID | Ano | Tipo | Periódico | Principais Achados |
+|------|-----|------|------|---------|
+| [30055152](https://pubmed.ncbi.nlm.nih.gov/30055152/) | 2018 | Relato de surto | American Journal of Ophthalmology | Descreve um surto de ceratoconjuntivite microsporidiana ligado à água contaminada de piscinas em Taiwan; não avalia a levofloxacina |
 
 ## Informações de Comercialização no Brasil
 
-Foram identificados **78 registros** (38 válidos) da Levofloxacina na base regulatória brasileira, confirmando que o fármaco está em situação de comercialização ativa.
+Há 78 registros nos dados locais (30 válidos de produto único, 8 válidos de combinação e 40 cancelados). Os textos de indicação aprovada e as formas farmacêuticas não constam nesses registros.
 
-<!-- review:begin br-lic-20261106-levofloxacina-1 -->
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| 100431111 | Tamiram | Não registrada | Não registrada |
+| 100431176 | Levofloxacino hemiidratado | Não registrada | Não registrada |
+| 100431417 | Tavok | Não registrada | Não registrada |
+| 101180617 | Levoxin | Não registrada | Não registrada |
+| 102350757 | Levofloxacino | Não registrada | Não registrada |
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Foram identificados **4 registros** da Levofloxacina na base regulatória brasileira, confirmando que o fármaco está em situação de comercialização ativa. No entanto, os detalhes individuais de cada registro (número de registro ANVISA, nome comercial, forma farmacêutica e texto de indicação aprovada) não foram recuperados nesta execução do pipeline — os campos retornaram vazios.” Removido: a descrição dos produtos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 78 registros para este medicamento, 38 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+## Considerações de Segurança
 
-<!-- review:end br-lic-20261106-levofloxacina-1 -->
-
-<!-- review:begin br-lic-20261112-levofloxacina-1 -->
-
-> **Correção de verificação (2026-11-12)**: Texto original: “Foram identificados **4 registros**” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 78 registros para este medicamento, 38 válidos e 40 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-lic-20261112-levofloxacina-1 -->
-
-É necessário complementar a consulta à base ANVISA para obter esses dados antes de qualquer análise regulatória comparativa.
-
----
+Consulte a bula para informações de segurança.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-O pipeline identificou 78 registros (38 válidos) da Levofloxacina no mercado brasileiro, porém nenhuma predição TxGNN foi gerada e os dados regulatórios detalhados estão ausentes, tornando impossível conduzir uma avaliação de reposicionamento neste momento.
-
-<!-- review:begin br-lic-20261112-levofloxacina-2 -->
-
-> **Correção de verificação (2026-11-12)**: Texto original: “O pipeline identificou 4 registros” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 78 registros para este medicamento, 38 válidos e 40 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-lic-20261112-levofloxacina-2 -->
+- A previsão tem pontuação alta, mas não há ensaios clínicos nem estudos que avaliem a levofloxacina nessa doença. A única publicação trata de um agente (microsporídios) contra o qual fluoroquinolonas não são confiáveis.
 
 **Para prosseguir, é necessário:**
-- Resolver o mapeamento DrugBank (DrugBank ID ausente) para que o modelo TxGNN possa processar o fármaco corretamente — INN a usar na consulta: `levofloxacin`
-- Executar a etapa de predição TxGNN após o mapeamento para gerar indicações candidatas
-- Recuperar os detalhes dos 4 registros ANVISA: número de registro, nome comercial, forma farmacêutica e indicação aprovada
-- Baixar e analisar a bula em PDF disponível no portal ANVISA para extrair advertências, contraindicações e instruções de segurança (atualmente classificadas como bloqueantes — DG001)
-- Obter dados de interações medicamentosas (DDI) — a consulta atual retornou `not_found`, o que pode indicar divergência no nome utilizado na busca
+- Estudos pré-clínicos ou clínicos que avaliem diretamente a levofloxacina na ceratoconjuntivite epitelial punctata, com definição do agente etiológico.
+- Dados de mecanismo de ação e de forma farmacêutica oftálmica disponível.
+- Informações de segurança da bula da ANVISA (advertências e contraindicações).
 
 <!-- review:begin log -->
 
@@ -105,9 +108,9 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “No entanto, os detalhes individuais de cada registro (número de registro ANVISA, nome comercial, forma farmacêutica e texto de indicação apr” | Corrigido (revisado em 2026-11-12; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Registros: 4 → 78 (38 válidos) | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Registros: 4 → 78 (38 válidos) | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “No entanto, os detalhes individuais de cada registro (número de registro ANVISA, nome comercial, forma farmacêutica e texto de indicação apr” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido (revisado em 2026-11-12; versão anterior guardada no registro)) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Registros: 4 → 78 (38 válidos) | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Registros: 4 → 78 (38 válidos) | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

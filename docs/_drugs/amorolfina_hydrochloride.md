@@ -1,20 +1,21 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Amorolfina Hydrochloride
 parent: Apenas Predição do Modelo (L5)
 nav_order: 61
 evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-11-12
-predicted_indications: []
+indication_count: 10
+drugbank_id: DB09056
+monitor_inn: "Amorolfine"
+predicted_indications: ["drug-induced osteoporosis", "disease of retroperitoneum", "disease of uterine broad ligament", "lumbar spinal stenosis", "celiac trunk compression syndrome", "abdominal ectopic pregnancy", "abdominal cystic lymphangioma", "lymph node palisaded myofibroblastoma", "sacrum chordoma", "urethral disease"]
+last_modified_at: 2026-11-16
+description: "Amorolfina Hydrochloride: nova indicação prevista, Osteoporose induzida por fármacos (drug-induced osteoporosis) (nível de evidência L5). Indicação original: ANTIMICOTICOS PARA USO TOPICO"
 ---
 
 # Amorolfina Hydrochloride
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **0** 
+Nível de evidência: **L5** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,75 +34,60 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-## Amorolfina Cloridrato: Avaliação de Potencial de Reposicionamento — Dados Insuficientes para Previsão
+## Amorolfina Hydrochloride: Osteoporose induzida por fármacos (drug-induced osteoporosis)
 {: .text-alpha }
 
-## Resumo
+## Resumo em Uma Frase
 
-Amorolfina Cloridrato é um antifúngico da classe das morfolinas, utilizado no tratamento de onicomicoses (infecções fúngicas das unhas), geralmente em formulação de esmalte medicamentoso de uso tópico.
-
-O modelo TxGNN **não gerou previsões de reposicionamento** para este fármaco na execução atual. Não foram encontrados registros regulatórios brasileiros, ensaios clínicos, publicações ou dados de segurança no pacote de evidências disponível.
-
----
+Amorolfina é um antifúngico tópico da classe das morfolinas, usado em produtos de uso tópico contra infecções fúngicas.
+O modelo TxGNN prevê que pode ser eficaz para **Osteoporose induzida por fármacos (drug-induced osteoporosis)**,
+mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção; trata-se apenas de uma previsão computacional.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
-|------|----------|
-| Indicação Original | Onicomicose (infecção fúngica das unhas) — classe antifúngica das morfolinas |
-| Nova Indicação Prevista | Não disponível — nenhuma previsão TxGNN gerada |
-| Pontuação de Previsão TxGNN | — |
-| Nível de Evidência | Abaixo de L5 — ausência total de previsão e estudos |
+|------|------|
+| Indicação Original | ANTIMICOTICOS PARA USO TOPICO |
+| Nova Indicação Prevista | Osteoporose induzida por fármacos (drug-induced osteoporosis) |
+| Pontuação de Previsão TxGNN | 1.0000 |
+| Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 4) |
 | Número de Registros | 4 (ativos: 4) |
 | Decisão Recomendada | Hold |
 
----
+## Por que Esta Previsão é Razoável?
 
-## Por que Não Foi Possível Analisar Esta Previsão?
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a amorolfina é um antifúngico tópico da classe das morfolinas, que inibe enzimas da síntese de esteróis do fungo (delta-14 redutase e delta-7,8 isomerase).
 
-A execução do modelo TxGNN para Amorolfina Cloridrato não produziu candidatos de reposicionamento (`predicted_indications` vazio). Isso pode ocorrer por três razões principais:
+Não é possível estabelecer um vínculo mecanístico plausível com a osteoporose induzida por fármacos. Não há mecanismo documentado de ação sobre o metabolismo ósseo, e o uso tópico, com absorção sistêmica mínima, reduz ainda mais a plausibilidade.
 
-Primeiro, o fármaco pode não ter sido mapeado ao DrugBank Knowledge Graph — o campo `drugbank_id` está ausente no pacote de evidências, o que impede o modelo de localizar o nó correspondente na rede de conhecimento. A consulta ao DrugBank retornou um resultado (`result_count: 1`), mas o ID não foi incorporado ao registro.
+Deve ser interpretada com cautela e não constitui evidência de eficácia.
 
-Segundo, a ausência de dados de mecanismo de ação (`original_moa: [Data Gap]`) limita a capacidade do modelo de identificar conexões mecanísticas com novas indicações. Amorolfina inibe a biossíntese do ergosterol (enzimas Δ14-redutase e Δ7,8-isomerase), mas essa informação não foi integrada ao pipeline de previsão.
+## Informações de Comercialização no Brasil
 
-Terceiro, como formulação tipicamente tópica (esmalte ungueal), o fármaco apresenta baixa biodisponibilidade sistêmica, o que pode justificar a ausência de previsões para indicações sistêmicas — o modelo pode reconhecer essa limitação farmacocinética.
-
----
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro 129160036 | Loceryl | Não informada | Antimicóticos para uso tópico |
+| Registro 106890203 | Unha Sana | Não informada | Antimicóticos para uso tópico |
+| Registro 105830763 | Onicoryl | Não informada | Antimicóticos para uso tópico |
+| Registro 102351285 | Dermoceryl | Não informada | Antimicóticos para uso tópico |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança completas. Nenhum dado de advertências, contraindicações ou interações medicamentosas foi encontrado neste pacote de evidências.
-
----
+Consulte a bula para informações de segurança.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-O modelo TxGNN não produziu previsões de reposicionamento para este fármaco. Sem um `drugbank_id` válido integrado ao pipeline, não é possível gerar ou validar candidatos de reposicionamento.
-
-<!-- review:begin br-lic-20261106-amorolfina_hydrochloride-1 -->
-
-> **Correção de verificação (2026-11-06)**: Texto original: “O modelo TxGNN não produziu previsões de reposicionamento para este fármaco, e os dados regulatórios brasileiros indicam ausência de registros na ANVISA.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 4 registros para este medicamento, 4 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-lic-20261106-amorolfina_hydrochloride-1 -->
+- Não há ensaios clínicos nem publicações para a osteoporose induzida por fármacos, o mecanismo é implausível para um antifúngico tópico e os dados de segurança e de mecanismo de ação estão ausentes.
 
 **Para prosseguir, é necessário:**
-
-- **Resolver DG002 (Crítico):** Obter e integrar o `drugbank_id` correto para Amorolfina — a consulta ao DrugBank encontrou 1 resultado (`result_count: 1`), mas o ID não foi inserido no registro; revisar o pipeline de mapeamento
-- **Resolver DG001 (Bloqueante):** Baixar e analisar a bula ANVISA para extrair advertências e contraindicações
-- **Reexecutar o modelo TxGNN** após integração do DrugBank ID para gerar previsões válidas
-- **Verificar o status regulatório brasileiro** diretamente na base da ANVISA usando o nome AMOROLFINA, CLORIDRATO DE AMOROLFINA e o nome comercial Loceryl® (comercializado em outros mercados)
-- **Avaliar barreira farmacocinética:** dado que a formulação padrão é tópica (esmalte ungueal), documentar se há formulações sistêmicas disponíveis que tornariam o reposicionamento clinicamente viável
-
-<!-- review:begin br-lic-20261106-amorolfina_hydrochloride-2 -->
-
-> **Correção de verificação (2026-11-06)**: Texto original: “**Resolver DG001 (Bloqueante):** Baixar e analisar a bula ANVISA/TFDA para extrair advertências e contraindicações” Removido: texto residual do modelo taiwanês (TFDA), que não se aplica a esta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-lic-20261106-amorolfina_hydrochloride-2 -->
+- Dados do mecanismo de ação (por exemplo, via DrugBank) e justificativa pré-clínica para um efeito sobre o metabolismo ósseo
+- Obtenção e análise das advertências e contraindicações da bula na ANVISA
+- Avaliação da viabilidade da via de administração, considerando a absorção sistêmica mínima da forma tópica
+- Qualquer estudo, pré-clínico ou clínico, que avalie diretamente a osteoporose induzida por fármacos
 
 <!-- review:begin log -->
 
@@ -111,8 +97,8 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “e os dados regulatórios brasileiros indicam ausência de registros na ANVISA” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-06 | Removido: “/TFDA” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “e os dados regulatórios brasileiros indicam ausência de registros na ANVISA” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “/TFDA” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

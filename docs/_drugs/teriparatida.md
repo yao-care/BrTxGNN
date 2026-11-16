@@ -1,20 +1,21 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Teriparatida
 parent: Apenas Predição do Modelo (L5)
-nav_order: 618
+nav_order: 616
 evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-10-31
-predicted_indications: []
+indication_count: 9
+drugbank_id: DB06285
+monitor_inn: "Teriparatide"
+predicted_indications: ["duodenal ulcer (disease)", "non-syndromic esophageal malformation", "duodenal obstruction", "duodenogastric reflux", "esophageal disease", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "succinyl-CoA:3-ketoacid CoA transferase deficiency", "amenorrhea (disease)"]
+last_modified_at: 2026-11-16
+description: "Teriparatida: nova indicação prevista, Úlcera duodenal (duodenal ulcer (disease)) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Teriparatida
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **0** 
+Nível de evidência: **L5** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,75 +34,70 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-## Teriparatida: Relatório de Avaliação Preliminar — Previsões TxGNN Indisponíveis
+## Teriparatida: Úlcera duodenal (duodenal ulcer (disease))
 {: .text-alpha }
 
----
+Observação: o título deve seguir o formato definido, com o nome local seguido do nome em inglês. Por isso:
 
-## Resumo
+## Teriparatida: análogo do hormônio paratireoidiano (PTH 1-34), agonista de PTH1R → Úlcera duodenal (duodenal ulcer (disease))
+{: .text-alpha }
 
-Teriparatida é um análogo sintético do hormônio paratireoidiano humano (PTH 1-34), originalmente indicado para o tratamento da osteoporose grave com alto risco de fratura em mulheres na pós-menopausa e em homens. O presente Evidence Pack não contém previsões de novas indicações pelo modelo TxGNN (`predicted_indications: []`), o que impede a geração de um relatório completo de reposicionamento. A avaliação está bloqueada por duas lacunas críticas de dados: ausência de informações sobre o mecanismo de ação (MOA) e ausência de advertências/contraindicações da bula registrada.
+## Resumo em Uma Frase
 
----
+Teriparatida é um análogo do hormônio paratireoidiano (PTH 1-34), usado como fármaco de ação anabólica óssea.
+O modelo TxGNN prevê que pode ser eficaz para **Úlcera duodenal (duodenal ulcer (disease))**, mas **não há ensaios clínicos nem publicações** apoiando esta direção nos dados compilados para este relatório.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
-|------|---------|
-| Indicação Original | Osteoporose grave (dado de conhecimento público — detalhes do registro ANVISA não preenchidos no pack) |
-| Nova Indicação Prevista | **Não disponível** — `predicted_indications` está vazio |
-| Pontuação de Previsão TxGNN | Não disponível |
-| Nível de Evidência | **Não avaliável** — sem previsões |
+|------|------|
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Úlcera duodenal (duodenal ulcer (disease)) |
+| Pontuação de Previsão TxGNN | 0.9986 |
+| Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 4) |
 | Número de Registros | 4 (ativos: 4) |
-| Decisão Recomendada | **Hold** |
+| Decisão Recomendada | Hold |
 
----
+## Por que Esta Previsão é Razoável?
 
-## Por que Este Relatório Está Incompleto?
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Sabe-se que a teriparatida é um análogo do PTH(1-34) que atua sobre o receptor PTH1R no osso e no rim, estimulando a formação óssea.
 
-O Evidence Pack retornou **3 registros na ANVISA** e **1 resultado no DrugBank**, confirmando que o fármaco existe e está em circulação. Contudo, dois bloqueadores críticos impedem o prosseguimento da análise:
+Não há um mecanismo plausível que ligue essa ação à cicatrização da mucosa duodenal ou ao controle da acidez gástrica. A pontuação alta do modelo provavelmente reflete uma proximidade estatística entre entidades nos dados de treinamento, e não uma relação biológica real. Por isso, a previsão deve ser tratada com grande cautela.
 
-1. **Previsões TxGNN ausentes**: O array `predicted_indications` está vazio. Sem uma indicação candidata prevista pelo modelo, não há hipótese de reposicionamento a avaliar.
+## Evidências de Ensaios Clínicos
 
-2. **Dados da bula não recuperados**: Apesar do sucesso na consulta à ANVISA (3 registros encontrados), todos os campos dos registros (`license_number`, `product_name_zh`, `approved_indication_text`, etc.) estão em branco no JSON. Isso indica uma falha no passo de extração/preenchimento do pipeline, não na busca em si.
+Atualmente não há ensaios clínicos relacionados registrados.
 
-Teriparatida é um fármaco **não antineoplásico** (análogo de PTH, agente anabólico ósseo), portanto a seção de Citotoxicidade não se aplica.
+## Evidências da Literatura
 
----
+Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-Os dados de registro foram consultados com sucesso (3 licenças encontradas), mas os campos de detalhe retornaram vazios no Evidence Pack atual. Não é possível gerar a tabela de registros.
-
-> Os registros precisam ser reprocessados a partir do pipeline ANVISA para recuperar nome comercial, forma farmacêutica e texto de indicação aprovada.
-
----
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| 101180680 | FORZY | Não informada | Não registrada |
+| 112600079 | FORTEO | Não informada | Não registrada |
+| 155370135 | SONDELBAY | Não informada | Não registrada |
+| 191290004 | TERROSA | Não informada | Não registrada |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança (dados de advertências e contraindicações não disponíveis neste pack).
-
----
+Consulte a bula para informações de segurança.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-O Evidence Pack está estruturalmente incompleto — sem previsões TxGNN e sem dados de bula extraídos, não há base para conduzir uma análise de reposicionamento. O fármaco está confirmado no mercado brasileiro, mas a análise não pode avançar até que as lacunas abaixo sejam resolvidas.
+- A previsão para úlcera duodenal baseia-se apenas na pontuação do modelo, sem ensaios clínicos, sem literatura e sem mecanismo plausível. O nível de evidência é L5.
 
 **Para prosseguir, é necessário:**
-
-- [ ] **[Bloqueador]** Executar o modelo TxGNN para Teriparatida e popular `predicted_indications` com pelo menos uma indicação candidata
-- [ ] **[Bloqueador]** Reprocessar os 3 registros ANVISA para extrair `license_number`, `product_name_zh`, `dosage_form` e `approved_indication_text`
-- [ ] **[Alta prioridade]** Consultar DrugBank API para recuperar MOA completo (o query log indica sucesso com 1 resultado, mas o campo `drugbank_id` está nulo e `original_moa` está como `[Data Gap]`)
-- [ ] **[Alta prioridade]** Baixar e parsear PDFs das bulas ANVISA para extrair advertências e contraindicações (DG001)
-- [ ] Verificar se o `candidate_id` "TW-UNKNOWN-multi" indica ausência de mapeamento DrugBank — pode ser necessário mapear manualmente o INN "TERIPARATIDA" para `DB06285` (DrugBank ID padrão para teriparatide)
-
----
-
-> ⚠️ **Nota**: Este relatório é gerado a partir de um Evidence Pack incompleto. Os dados de natureza clínica e regulatória precisam ser validados antes de qualquer uso. Este documento é estritamente para fins de pesquisa e não constitui aconselhamento médico.
+- Dados de mecanismo de ação que justifiquem um efeito sobre a mucosa duodenal ou a secreção ácida
+- Estudos pré-clínicos que avaliem a teriparatida em modelos de úlcera duodenal
+- Revisão da bula aprovada pela ANVISA para advertências e contraindicações
+- Busca sistemática de literatura e de registros de ensaios dirigida a esta doença
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

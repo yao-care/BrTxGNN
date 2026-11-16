@@ -1,20 +1,21 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Bictegravir Sodium
 parent: Apenas Predição do Modelo (L5)
-nav_order: 135
+nav_order: 134
 evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-10-28
-predicted_indications: []
+indication_count: 3
+drugbank_id: DB11799
+monitor_inn: "Bictegravir"
+predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+last_modified_at: 2026-11-16
+description: "Bictegravir Sodium: nova indicação prevista, Infecção pelo vírus da imunodeficiência símia (simian immunodeficiency virus infection) (nível de evidência L5)."
 ---
 
 # Bictegravir Sodium
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **0** 
+Nível de evidência: **L5** | Indicações previstas: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,55 +34,64 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-## Bictegravir Sódico: Avaliação de Reposicionamento — Dados Insuficientes para Previsão
+## Bictegravir Sodium: Infecção pelo vírus da imunodeficiência símia (simian immunodeficiency virus infection)
 {: .text-alpha }
 
-## Resumo
+## Resumo em Uma Frase
 
-Bictegravir sódico é um inibidor de integrase do HIV (classe INSTI), tipicamente utilizado no tratamento de infecção por HIV-1 em combinação com outros antirretrovirais. O Evidence Pack disponível encontra-se **incompleto**: nenhum registro foi localizado no banco de dados regulatório consultado e o modelo TxGNN **não gerou previsões de nova indicação** para este fármaco. Não é possível conduzir uma análise de reposicionamento fundamentada com os dados atuais.
-
----
+Bictegravir sódico é um inibidor da integrase do HIV-1 (inibidor de transferência de cadeia da integrase, INSTI).
+O modelo TxGNN prevê que pode ser eficaz para **infecção pelo vírus da imunodeficiência símia (simian immunodeficiency virus infection)**,
+atualmente com **0 ensaios clínicos** e **3 publicações** pré-clínicas ou de revisão relacionadas a esta direção.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | HIV-1 (inibidor de integrase — INSTI) |
-| Nova Indicação Prevista | — (sem previsão TxGNN disponível) |
-| Pontuação de Previsão TxGNN | — |
-| Nível de Evidência | L5 — sem dados de previsão |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Infecção pelo vírus da imunodeficiência símia (simian immunodeficiency virus infection) |
+| Pontuação de Previsão TxGNN | 0.9982 |
+| Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
 | Número de Registros | 1 (ativos: 1) |
-| Decisão Recomendada | **Hold** |
+| Decisão Recomendada | Hold |
 
----
+## Por que Esta Previsão é Razoável?
 
-## Por que os Dados São Insuficientes?
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Sabe-se que o bictegravir é um inibidor de transferência de cadeia da integrase, enzima que o vírus usa para integrar seu material genético ao DNA da célula infectada. Ao bloquear essa etapa, impede-se a replicação viral.
 
-O processo de avaliação foi interrompido antes de gerar previsões porque três lacunas críticas foram identificadas:
+A integrase do vírus da imunodeficiência símia (SIV) é estruturalmente muito próxima à do HIV-1. As estruturas das intassomas de ambos os vírus mostram um modo de ligação conservado dos inibidores dessa classe. Trabalhos pré-clínicos relatam atividade *in vitro* do bictegravir contra o SIVmac239, inclusive contra variantes resistentes a outros inibidores de integrase, e um modelo de camundongo humanizado foi proposto para testar estratégias antivirais contra SIV e HIV.
 
-1. **DrugBank ID ausente** — Sem o identificador DrugBank, o modelo TxGNN não consegue localizar o fármaco no grafo de conhecimento e, portanto, não produz previsões de indicação. Isso é classificado como lacuna de alta prioridade no Evidence Pack (`DG002 — severity: High`).
+Portanto, a lógica mecanística é forte. Porém, a infecção por SIV é uma doença de primatas não humanos e não tem indicação clínica em humanos. O valor da previsão está em servir como modelo de pesquisa translacional, não como nova indicação terapêutica humana.
 
-2. **Mecanismo de ação (MOA) não disponível** — Sem dados de MOA, a etapa de análise de relevância mecanística não pode ser executada, o que impede a interpretação de qualquer previsão futura.
+## Evidências da Literatura
 
-3. **Sem registro regulatório localizado** — A consulta ao banco de dados retornou 0 resultados. É possível que Bictegravir esteja registrado como parte de combinação fixa (ex.: Bictegravir + Emtricitabina + Tenofovir Alafenamida) e não como monocomponente — o que pode explicar a ausência no resultado da busca.
+| PMID | Ano | Tipo | Periódico | Principais Achados |
+|------|-----|------|------|---------|
+| [28923862](https://pubmed.ncbi.nlm.nih.gov/28923862/) | 2017 | Estudo pré-clínico de atividade antiviral *in vitro* | Antimicrobial Agents and Chemotherapy | Avalia a atividade de bictegravir e cabotegravir contra SIVmac239 e HIV-1 resistentes a inibidores de integrase |
+| [39559349](https://pubmed.ncbi.nlm.nih.gov/39559349/) | 2024 | Modelo pré-clínico (camundongo humanizado) | Frontiers in Immunology | Modelo de camundongo humanizado de duplo propósito para testar estratégias antivirais contra SIV e HIV |
+| [32506843](https://pubmed.ncbi.nlm.nih.gov/32506843/) | 2021 | Revisão (biologia estrutural) | The FEBS Journal | Estruturas das intassomas de HIV/SIV esclarecem a ligação dos inibidores de integrase e os mecanismos de escape viral |
 
----
+## Informações de Comercialização no Brasil
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro 109290008 | BIKTARVY | Não informada | Não registrada nos dados locais |
+
+## Considerações de Segurança
+
+Consulte a bula para informações de segurança.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-Não há previsões TxGNN geradas, os dados regulatórios brasileiros estão ausentes e as informações de segurança (advertências, contraindicações, interações) não foram recuperadas. A avaliação de reposicionamento não pode avançar sem que as lacunas abaixo sejam resolvidas.
+- Não há ensaios clínicos, e a evidência é pré-clínica e indireta. A infecção por SIV é uma doença de primatas não humanos, sem indicação clínica humana, de modo que a previsão serve como pergunta de pesquisa e não como candidata a reposicionamento terapêutico.
 
 **Para prosseguir, é necessário:**
-- Identificar o DrugBank ID correto de Bictegravir sódico e re-executar o modelo TxGNN para gerar previsões de indicação
-- Verificar o registro na ANVISA pela combinação fixa (Bictegravir/Emtricitabina/Tenofovir Alafenamida) e não apenas pelo monocomponente
-- Obter dados de MOA, advertências e contraindicações a partir da bula ou do DrugBank API
-- Após obter o DrugBank ID, coletar dados de interações medicamentosas (DDI) — a consulta atual retornou `not_found`
-
-> ⚠️ *Este relatório é gerado para fins de pesquisa. Os resultados não constituem aconselhamento médico e qualquer candidato a reposicionamento requer validação clínica antes de qualquer aplicação.*
+- Dados do mecanismo de ação detalhados (MOA) e a bula da ANVISA com advertências e contraindicações.
+- Definir se há interesse real em uso veterinário ou como modelo de pesquisa translacional em primatas não humanos.
+- Estudos pré-clínicos adicionais que confirmem a atividade do bictegravir contra o SIV *in vivo*.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
