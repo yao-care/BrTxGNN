@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com TADALAFIL. 8 indicações previstas."
 permalink: /news/tadalafil/
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-17
 ---
 
 # Notícias sobre TADALAFIL
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre TADALAFIL?">
-<strong>TADALAFIL</strong> tem atualmente <strong>2 notícias</strong> e 8 indicações previstas.
+<strong>TADALAFIL</strong> tem atualmente <strong>3 notícias</strong> e 8 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ Esta página combina as indicações previstas por IA para TADALAFIL com as not�
 <p><a href="{{ '/drugs/tadalafil/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (2)
+## Notícias relacionadas (3)
+
+### [Tadalafila turbinado? Molécula pode recuperar resposta ao remédio na obesidade - Tribuna do Paraná](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT2djMWVYYlBXMGNFVlN6NWlVeXpycWVQd05rdHhKdjJlbno2MF9QbDZqa2lDSVIwa2szNng0a1ByUEdmcHlsa0dyZ2hGWkZMbl91ejNGdlhOSUd0blczNEVjUmdJbXJYWUh5Q2JtWlZhQ2gza1lwU0dNLVhNM1J5V05MazhWbExSQUkzT1kwRVFFNFF3NXJzU3FWWEptVzVNa3dQbkE1VWJkRU9ieWp0TlJ3blp0Sm1kenZ1dGVmaW1OZjTSAcgBQVVfeXFMUFFLRjZDQzdWTGJjckpFTjNDN3BvTzA2OUhfbm9NUXdoejcwUkI4YldVWEF4eHk1SnVWVVdaaTNfbHdqRWt1M2RfeUV5Z3V1VWhZY19mNm0tM1F6Z1hGNXEwZmQ0WC1MNWZqZzVNVzhfOTE1VEE5T2l1MGRCNWtDVF9OUko2a0MyaG93UFNaa3puOGhFRDZhaXNyV0FaYXVpc2hIbmhicFJsaFVTV0xlY1FRVm1JemYzM2N3RlZyem5QaVREQzZIbDU?oc=5)
+
+2026-11-17 <span class="news-drug-tag">TADALAFIL</span>
+
+Fonte: [Tribuna do Paraná](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT2djMWVYYlBXMGNFVlN6NWlVeXpycWVQd05rdHhKdjJlbno2MF9QbDZqa2lDSVIwa2szNng0a1ByUEdmcHlsa0dyZ2hGWkZMbl91ejNGdlhOSUd0blczNEVjUmdJbXJYWUh5Q2JtWlZhQ2gza1lwU0dNLVhNM1J5V05MazhWbExSQUkzT1kwRVFFNFF3NXJzU3FWWEptVzVNa3dQbkE1VWJkRU9ieWp0TlJ3blp0Sm1kenZ1dGVmaW1OZjTSAcgBQVVfeXFMUFFLRjZDQzdWTGJjckpFTjNDN3BvTzA2OUhfbm9NUXdoejcwUkI4YldVWEF4eHk1SnVWVVdaaTNfbHdqRWt1M2RfeUV5Z3V1VWhZY19mNm0tM1F6Z1hGNXEwZmQ0WC1MNWZqZzVNVzhfOTE1VEE5T2l1MGRCNWtDVF9OUko2a0MyaG93UFNaa3puOGhFRDZhaXNyV0FaYXVpc2hIbmhicFJsaFVTV0xlY1FRVm1JemYzM2N3RlZyem5QaVREQzZIbDU?oc=5)
+
+---
 
 ### ['Quase morri depois de uma dor de dente virar sepse e causar uma doença cardíaca rara'](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DNUYyb2IydG1MS1hyLXFoQ0xrYlZfRnRFVGpIdzRNQm5SWjN4TWt2SWdwZGNrSlpOVmdyMnZwc0QtRm5OWTVlcm1sWlZIRzZiTzNlZm9vUnc3YnUxVzd0TG45c9IBaEFVX3lxTE1HMk5CZlBWNjNCUVBzMzRaZ2RLcHdkYzFtYVBmRFZWUHVzamt5eDczbnFWNVA2MUR6Y1FZbDFDd25ESERSUWo2UlRsRUlkdXRqY05oV2NtRWJhZ0pmWHBBckc2emdqZVNO?oc=5)
 

@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "Notícias sobre cobreiro"
+title: "Notícias sobre herpes zoster (cobreiro)"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre cobreiro. 1 notícias, 3 medicamentos relacionados."
+description: "Notícias de saúde sobre herpes zoster (cobreiro). 1 notícias, 3 medicamentos relacionados."
 permalink: /news/cobreiro/
 last_modified_at: 2026-11-17
 ---
 
-# Notícias sobre cobreiro
+# Notícias sobre herpes zoster (cobreiro)
 
 [← Voltar à visão geral das notícias]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Que notícias há sobre cobreiro?">
-<strong>cobreiro</strong> tem atualmente <strong>1 notícias</strong> e 3 medicamentos relacionados.
+<p class="key-answer" data-question="Que notícias há sobre herpes zoster (cobreiro)?">
+<strong>herpes zoster (cobreiro)</strong> tem atualmente <strong>1 notícias</strong> e 3 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
-Esta página reúne as notícias de saúde mais recentes sobre «cobreiro» e lista os medicamentos da base de dados BrTxGNN cujas indicações previstas incluem esta doença.
+Esta página reúne as notícias de saúde mais recentes sobre «herpes zoster» e lista os medicamentos da base de dados BrTxGNN cujas indicações previstas incluem esta doença.
 </div>
 
 <div class="related-drugs-card">

@@ -3,9 +3,9 @@ layout: default
 title: "Notícias sobre herpes-zóster (herpes zoster)"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre herpes-zóster (herpes zoster). 6 notícias, 3 medicamentos relacionados."
+description: "Notícias de saúde sobre herpes-zóster (herpes zoster). 7 notícias, 3 medicamentos relacionados."
 permalink: /news/herpes-zoster/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-17
 ---
 
 # Notícias sobre herpes-zóster (herpes zoster)
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre herpes-zóster (herpes zoster)?">
-<strong>herpes-zóster (herpes zoster)</strong> tem atualmente <strong>6 notícias</strong> e 3 medicamentos relacionados.
+<strong>herpes-zóster (herpes zoster)</strong> tem atualmente <strong>7 notícias</strong> e 3 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,15 @@ Esta página reúne as notícias de saúde mais recentes sobre «herpes-zóster�
 </ul>
 </div>
 
-## Notícias relacionadas (6)
+## Notícias relacionadas (7)
+
+### [Senado aprova vacina contra herpes-zóster pelo SUS para maiores de 50 anos](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYmlTQkFJTF9PTXlLRTBPNHY0NkttYXVGMlhrYmxlcUFTQXljbjFVTFR5SkpMcTNQX3pVZXhvOHZNeWJzajN0RVlqN3VoVVVqVTF0cW5meWZhY2lGdlVNaVVfbjQ4TlFYX3FCWlhrdkx5NHo4NTdiLVcyU0UyZ0RLSDNyM2c3OWcwWE51VjYyT0d6Njk4TVdpN2dYdllRNnRnWUdLTE1TbE1vLU0?oc=5)
+
+2026-11-15
+
+Fonte: [Metrópoles](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYmlTQkFJTF9PTXlLRTBPNHY0NkttYXVGMlhrYmxlcUFTQXljbjFVTFR5SkpMcTNQX3pVZXhvOHZNeWJzajN0RVlqN3VoVVVqVTF0cW5meWZhY2lGdlVNaVVfbjQ4TlFYX3FCWlhrdkx5NHo4NTdiLVcyU0UyZ0RLSDNyM2c3OWcwWE51VjYyT0d6Njk4TVdpN2dYdllRNnRnWUdLTE1TbE1vLU0?oc=5)
+
+---
 
 ### [Senado aprova vacina contra herpes-zóster pelo SUS para maiores de 50 anos](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYmlTQkFJTF9PTXlLRTBPNHY0NkttYXVGMlhrYmxlcUFTQXljbjFVTFR5SkpMcTNQX3pVZXhvOHZNeWJzajN0RVlqN3VoVVVqVTF0cW5meWZhY2lGdlVNaVVfbjQ4TlFYX3FCWlhrdkx5NHo4NTdiLVcyU0UyZ0RLSDNyM2c3OWcwWE51VjYyT0d6Njk4TVdpN2dYdllRNnRnWUdLTE1TbE1vLU0?oc=5)
 

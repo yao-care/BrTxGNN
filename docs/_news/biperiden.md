@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Biperiden?">
-<strong>Biperiden</strong> tem atualmente <strong>15 notícias</strong> e 10 indicações previstas.
+<strong>Biperiden</strong> tem atualmente <strong>16 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ Esta página combina as indicações previstas por IA para Biperiden com as not�
 <p><a href="{{ '/drugs/biperiden/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (15)
+## Notícias relacionadas (16)
+
+### [Mudanças sutis na fala podem ajudar a prever o risco de demência](https://news.google.com/rss/articles/CBMitAFBVV95cUxOaWZLUzYxZWR4aHZEVzVBZmhhaXRhN0h6WTd0SEh2aG5rcXcwbHJ6VHdwalI5Ui1UMlBoTEJTYXJzbUttRGI4ckp4bEdRRzJiTUhyRGZJY1hhSzFQS2Q2MEM3eUphVTIybVRrUVFIVkFQVV9YS2pnZ3paRkNvSnAxQzJjbWNCUmUzS3RQMlYyc01ad3M4S3ZmWHVWbm5SN0VDZHRoT3BMQ3ZoYWEwZHltOFNQOTDSAboBQVVfeXFMTWhoMEQ2b1pyWEk1TmJwdW5tQl9aQkRPNXBESDg5Nll3cmk2cnp5Yy1PNnl6YUloVFZvemc0eUo3VnFpOUNsYks1Mnh6LURuZzVjekE4d20xWUt4U1RyRFpvczRTNDdZQ2JYZFJEb0g3eERCRUl2REZsNXg5Z0w2djBXQU1OdFA5elltTi1WTkpLX1NGaElGamZqMkxjbFBXRGJsNHp3bmRpbklJdHZTODUtcHZTY0JBZEZ3?oc=5)
+
+2026-11-17 <span class="news-indication-tag">demência</span>
+
+Fonte: [Estadão](https://news.google.com/rss/articles/CBMitAFBVV95cUxOaWZLUzYxZWR4aHZEVzVBZmhhaXRhN0h6WTd0SEh2aG5rcXcwbHJ6VHdwalI5Ui1UMlBoTEJTYXJzbUttRGI4ckp4bEdRRzJiTUhyRGZJY1hhSzFQS2Q2MEM3eUphVTIybVRrUVFIVkFQVV9YS2pnZ3paRkNvSnAxQzJjbWNCUmUzS3RQMlYyc01ad3M4S3ZmWHVWbm5SN0VDZHRoT3BMQ3ZoYWEwZHltOFNQOTDSAboBQVVfeXFMTWhoMEQ2b1pyWEk1TmJwdW5tQl9aQkRPNXBESDg5Nll3cmk2cnp5Yy1PNnl6YUloVFZvemc0eUo3VnFpOUNsYks1Mnh6LURuZzVjekE4d20xWUt4U1RyRFpvczRTNDdZQ2JYZFJEb0g3eERCRUl2REZsNXg5Z0w2djBXQU1OdFA5elltTi1WTkpLX1NGaElGamZqMkxjbFBXRGJsNHp3bmRpbklJdHZTODUtcHZTY0JBZEZ3?oc=5)
+
+---
 
 ### [Perda de dentes pode estar ligada à demência? Veja o que os estudos revelam sobre a mastigação - CNN Brasil](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPT1FHaXAtX183OERiT194UXR2a25aOHAxUHlMcGJzRF9zb2c5VlNCenRRdFdsTTNRcEN2TjlKZXhFU1Q1LUxoNWlDM1gySVAtM3VRWUtCX2Z5X0tVRjUzbXlOd2JJN1Z1anpDOU9sSXZZTFRxSFk0dnE5V3BQV2RUQlhySGlDMmtsX1JydVV2cHVSQXhnZHJpSHpxZ3A0Y2ZnOVlYVENOUkN0eUxadDBEdTd6Y2JoVnJCZnZodlJzNHFVaHMzSXM2X05oVDJ6NExNaUE?oc=5)
 
