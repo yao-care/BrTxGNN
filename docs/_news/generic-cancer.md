@@ -3,9 +3,9 @@ layout: default
 title: "Notícias sobre câncer (generic_cancer)"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre câncer (generic_cancer). 58 notícias, 93 medicamentos relacionados."
+description: "Notícias de saúde sobre câncer (generic_cancer). 61 notícias, 93 medicamentos relacionados."
 permalink: /news/generic-cancer/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-17
 ---
 
 # Notícias sobre câncer (generic_cancer)
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre câncer (generic_cancer)?">
-<strong>câncer (generic_cancer)</strong> tem atualmente <strong>58 notícias</strong> e 93 medicamentos relacionados.
+<strong>câncer (generic_cancer)</strong> tem atualmente <strong>61 notícias</strong> e 93 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
@@ -119,7 +119,31 @@ Esta página reúne as notícias de saúde mais recentes sobre «câncer» e lis
 </ul>
 </div>
 
-## Notícias relacionadas (58)
+## Notícias relacionadas (61)
+
+### [Cinco alimentos podem ajudar a reduzir o risco de câncer; saiba quais - ICL Notícias](https://news.google.com/rss/articles/CBMie0FVX3lxTE9UZ1NXRnJEankzMXJ5Vlo0WkNVUDlvZFZZMl9XRGx6THd6Zk9wVU0xQ0gtNno0dW5kcmlsc0tHTGhYOEp5QU9iLXlYajh4Sk8xT0pla0Z6S0ZVRFVFWmtPVmFRWlhpYlI3VGdsM2RBb1NHaVJwLXJxRHl2cw?oc=5)
+
+2026-11-16
+
+Fonte: [ICL Notícias](https://news.google.com/rss/articles/CBMie0FVX3lxTE9UZ1NXRnJEankzMXJ5Vlo0WkNVUDlvZFZZMl9XRGx6THd6Zk9wVU0xQ0gtNno0dW5kcmlsc0tHTGhYOEp5QU9iLXlYajh4Sk8xT0pla0Z6S0ZVRFVFWmtPVmFRWlhpYlI3VGdsM2RBb1NHaVJwLXJxRHl2cw?oc=5)
+
+---
+
+### [ANS amplia cobertura obrigatória para tratamento de câncer de pulmão - Agência Brasil](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTVQzcjdGSkstYV9EUkNycFl5MFh1cWVRVlQxbzgtYUlOYWVXWl95M0Uzdk5DOVEzdUo1WGJzYWJwNGNZb3Q1dnhSRGJfSGp1LUZKOVN0V3dHcEJHRGpwUW9lWDBXQjVWU3JRNWVJU2ZCVmNRQVphelNUSWVBdHR1bUpTWnZmZmZzZEJFUWlsTFVtUmFaV3FRUVRPdUN5a1BFMDJ2LVdpU0JaVmtMbGJsVnM2UlI4TkVjNHkwRWRYVjY?oc=5)
+
+2026-11-16
+
+Fonte: [Agência Brasil](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTVQzcjdGSkstYV9EUkNycFl5MFh1cWVRVlQxbzgtYUlOYWVXWl95M0Uzdk5DOVEzdUo1WGJzYWJwNGNZb3Q1dnhSRGJfSGp1LUZKOVN0V3dHcEJHRGpwUW9lWDBXQjVWU3JRNWVJU2ZCVmNRQVphelNUSWVBdHR1bUpTWnZmZmZzZEJFUWlsTFVtUmFaV3FRUVRPdUN5a1BFMDJ2LVdpU0JaVmtMbGJsVnM2UlI4TkVjNHkwRWRYVjY?oc=5)
+
+---
+
+### [Mitos e verdades sobre câncer de próstata: urologista tira dúvidas que homens têm vergonha de perguntar](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNemhvbU1MbWZvLW9rUUZnYWl0ZjU2cWJzYWpSeDVPZmxYaUNvX2VYT0VfVGRNQ0p3ck51d1NYVGRucFRzRkZuOGdaQVo3U05sLS1KM2NPS0xhNnNUQkhpN3NMN2x5NXpRT2o3c0RmdDBmNzNxMm9rVklBNGw4Z1NpSUZfTzQyMF9Fd2g5anZuNU5ZdlNXcHl2OWw2bnpmXzVDX2hNMGZKSjhjOVpZRGlzZFNja1dtQjd2LUVxZUFkZF9WMUJuQmliUDhPR2hNZ0prQk1HNUpOYUZDN2pKVDU2YTlUTDFqUmdIZjRIZ01UcEJSOTRCc3Zv0gGGAkFVX3lxTE56OVVnQ3JQT05VTi1IbGhnWEhRbXBZa3ZvcndDd2FjZy1pc2lXRV9TamNiMDFpYjFfRzRVQVhOVWJEQzdvVFhlZ0Z2N28xM0ZwUms3TDJXTC1tb2w4R3pCWmh1WnZOdE5feDVDampWcXhHcjJ2NXBZRThVZWlmd0JRYy1neGxCdWhvak1JZlc4LVNJUGlhRF95SEpKN1JxUkZablN2ZE11d0lxcWN0bDBuSzFXU28wN1daTjdNTHVybWF2eVFVMzVadVBxazdEbmpENEN3WHRLSVlQbjNQY1BkUVhsNDZMV09HdmtRWGNLejNjcmxZUGRveV9pdzFMdkY5TEM3SWc?oc=5)
+
+2026-11-15
+
+Fonte: [G1](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNemhvbU1MbWZvLW9rUUZnYWl0ZjU2cWJzYWpSeDVPZmxYaUNvX2VYT0VfVGRNQ0p3ck51d1NYVGRucFRzRkZuOGdaQVo3U05sLS1KM2NPS0xhNnNUQkhpN3NMN2x5NXpRT2o3c0RmdDBmNzNxMm9rVklBNGw4Z1NpSUZfTzQyMF9Fd2g5anZuNU5ZdlNXcHl2OWw2bnpmXzVDX2hNMGZKSjhjOVpZRGlzZFNja1dtQjd2LUVxZUFkZF9WMUJuQmliUDhPR2hNZ0prQk1HNUpOYUZDN2pKVDU2YTlUTDFqUmdIZjRIZ01UcEJSOTRCc3Zv0gGGAkFVX3lxTE56OVVnQ3JQT05VTi1IbGhnWEhRbXBZa3ZvcndDd2FjZy1pc2lXRV9TamNiMDFpYjFfRzRVQVhOVWJEQzdvVFhlZ0Z2N28xM0ZwUms3TDJXTC1tb2w4R3pCWmh1WnZOdE5feDVDampWcXhHcjJ2NXBZRThVZWlmd0JRYy1neGxCdWhvak1JZlc4LVNJUGlhRF95SEpKN1JxUkZablN2ZE11d0lxcWN0bDBuSzFXU28wN1daTjdNTHVybWF2eVFVMzVadVBxazdEbmpENEN3WHRLSVlQbjNQY1BkUVhsNDZMV09HdmtRWGNLejNjcmxZUGRveV9pdzFMdkY5TEM3SWc?oc=5)
+
+---
 
 ### [Metástase desaparece no primeiro paciente tratado com nova vacina russa contra o câncer - Brasil 247](https://news.google.com/rss/articles/CBMivAFBVV95cUxNU2ljTWtZUmZCNXpXcGkyV3VaTUlJcTV0S1pUbTAyTy01YXFKVGdUd1V6ZGlkTWVNWU5TSm9hMEh3d0lNYzdmUHJRd29iMEN0c0hmbG53NGNFd251SEkzbkdiX0lobkE1b0w2U2lSMTYwQWNTMkNPanFIN2Fvbko5aUpDbTFaeUZ2SUlQRmFYanhYbjVGZVBabUxQTTFQMlVpTGl4bThWd19mb2dhMC1pUkprYmRxSTdEdXdobw?oc=5)
 

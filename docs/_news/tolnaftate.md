@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Tolnaftate. 0 indicações previstas."
 permalink: /news/tolnaftate/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-17
 ---
 
 # Notícias sobre Tolnaftate
@@ -34,7 +34,7 @@ Esta página combina as indicações previstas por IA para Tolnaftate com as not
 
 ### [Senado aprova vacina contra herpes-zóster pelo SUS para maiores de 50 anos](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYmlTQkFJTF9PTXlLRTBPNHY0NkttYXVGMlhrYmxlcUFTQXljbjFVTFR5SkpMcTNQX3pVZXhvOHZNeWJzajN0RVlqN3VoVVVqVTF0cW5meWZhY2lGdlVNaVVfbjQ4TlFYX3FCWlhrdkx5NHo4NTdiLVcyU0UyZ0RLSDNyM2c3OWcwWE51VjYyT0d6Njk4TVdpN2dYdllRNnRnWUdLTE1TbE1vLU0?oc=5)
 
-2026-11-15 <span class="news-indication-tag">herpes-zóster</span>
+2026-11-15 <span class="news-indication-tag">herpes-zóster</span> <span class="news-indication-tag">cobreiro</span>
 
 Fonte: [Metrópoles](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYmlTQkFJTF9PTXlLRTBPNHY0NkttYXVGMlhrYmxlcUFTQXljbjFVTFR5SkpMcTNQX3pVZXhvOHZNeWJzajN0RVlqN3VoVVVqVTF0cW5meWZhY2lGdlVNaVVfbjQ4TlFYX3FCWlhrdkx5NHo4NTdiLVcyU0UyZ0RLSDNyM2c3OWcwWE51VjYyT0d6Njk4TVdpN2dYdllRNnRnWUdLTE1TbE1vLU0?oc=5)
 

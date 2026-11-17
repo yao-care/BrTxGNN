@@ -3,9 +3,9 @@ layout: default
 title: "Notícias sobre câncer de pulmão (small cell lung carcinoma)"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre câncer de pulmão (small cell lung carcinoma). 4 notícias, 2 medicamentos relacionados."
+description: "Notícias de saúde sobre câncer de pulmão (small cell lung carcinoma). 5 notícias, 2 medicamentos relacionados."
 permalink: /news/small-cell-lung-carcinoma/
-last_modified_at: 2026-11-08
+last_modified_at: 2026-11-17
 ---
 
 # Notícias sobre câncer de pulmão (small cell lung carcinoma)
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre câncer de pulmão (small cell lung carcinoma)?">
-<strong>câncer de pulmão (small cell lung carcinoma)</strong> tem atualmente <strong>4 notícias</strong> e 2 medicamentos relacionados.
+<strong>câncer de pulmão (small cell lung carcinoma)</strong> tem atualmente <strong>5 notícias</strong> e 2 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,15 @@ Esta página reúne as notícias de saúde mais recentes sobre «câncer de pulm
 </ul>
 </div>
 
-## Notícias relacionadas (4)
+## Notícias relacionadas (5)
+
+### [ANS amplia cobertura obrigatória para tratamento de câncer de pulmão - Agência Brasil](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTVQzcjdGSkstYV9EUkNycFl5MFh1cWVRVlQxbzgtYUlOYWVXWl95M0Uzdk5DOVEzdUo1WGJzYWJwNGNZb3Q1dnhSRGJfSGp1LUZKOVN0V3dHcEJHRGpwUW9lWDBXQjVWU3JRNWVJU2ZCVmNRQVphelNUSWVBdHR1bUpTWnZmZmZzZEJFUWlsTFVtUmFaV3FRUVRPdUN5a1BFMDJ2LVdpU0JaVmtMbGJsVnM2UlI4TkVjNHkwRWRYVjY?oc=5)
+
+2026-11-16
+
+Fonte: [Agência Brasil](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTVQzcjdGSkstYV9EUkNycFl5MFh1cWVRVlQxbzgtYUlOYWVXWl95M0Uzdk5DOVEzdUo1WGJzYWJwNGNZb3Q1dnhSRGJfSGp1LUZKOVN0V3dHcEJHRGpwUW9lWDBXQjVWU3JRNWVJU2ZCVmNRQVphelNUSWVBdHR1bUpTWnZmZmZzZEJFUWlsTFVtUmFaV3FRUVRPdUN5a1BFMDJ2LVdpU0JaVmtMbGJsVnM2UlI4TkVjNHkwRWRYVjY?oc=5)
+
+---
 
 ### [Câncer de pulmão: tomografia de baixa dose reduz mortalidade entre pessoas de alto risco, aponta estudo](https://news.google.com/rss/articles/CBMi6AFBVV95cUxONEN5TDVaaWsySl9VRm51WGhnWE1rb09paV9fX2lqdVlNSVpVYkxKcDlyUVVTWjhKZ1RsaHZxc1hubWxiWlhFUXpnZFpDVTRZTmxrN29tSHhPMzE4cFhSVUpxRHJFSTB3OG9ENHltSm1GdS1oQ0VLLUV0NnZTNzFyVUNHUjFxUDM0UV9WMlhCLS13ME5EalluU3lIc1lGR19pY1owTTRYX3FTUG1rUTBXX3FIU2VEVjlGVm4wbGROajlNbWx6bkQ5RUQ0YlQ0LUdUU09wN0xqQ1J2RUlTWGNuWTdYVDlQMnZB?oc=5)
 

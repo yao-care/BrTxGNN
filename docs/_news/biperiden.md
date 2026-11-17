@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Biperiden. 10 indicações previstas."
 permalink: /news/biperiden/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 ---
 
 # Notícias sobre Biperiden
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Biperiden?">
-<strong>Biperiden</strong> tem atualmente <strong>14 notícias</strong> e 10 indicações previstas.
+<strong>Biperiden</strong> tem atualmente <strong>15 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ Esta página combina as indicações previstas por IA para Biperiden com as not�
 <p><a href="{{ '/drugs/biperiden/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (14)
+## Notícias relacionadas (15)
 
 ### [Perda de dentes pode estar ligada à demência? Veja o que os estudos revelam sobre a mastigação - CNN Brasil](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPT1FHaXAtX183OERiT194UXR2a25aOHAxUHlMcGJzRF9zb2c5VlNCenRRdFdsTTNRcEN2TjlKZXhFU1Q1LUxoNWlDM1gySVAtM3VRWUtCX2Z5X0tVRjUzbXlOd2JJN1Z1anpDOU9sSXZZTFRxSFk0dnE5V3BQV2RUQlhySGlDMmtsX1JydVV2cHVSQXhnZHJpSHpxZ3A0Y2ZnOVlYVENOUkN0eUxadDBEdTd6Y2JoVnJCZnZodlJzNHFVaHMzSXM2X05oVDJ6NExNaUE?oc=5)
 
@@ -65,6 +65,14 @@ Fonte: [Estadão](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQd1JtanJWU
 2026-11-15 <span class="news-indication-tag">demência</span>
 
 Fonte: [G1](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcno0T1JUeHA1UDQtSUZST21RSU5Qem9za0o2c1MtNGJwbDVVYVNsZTRhMjZPUHIyUjdocndHcGk1MUFERkNJVDVZTTljS3hBallzaVNSaDBGQzZzT0hYVmdIUDBTVlNpMno4a2NyaVZBTUNmb3JKcGJYWmx1d2NtaF9UM1poLV9iaEZ0RzR6bTRTSmUxdnFRSkNueU1ZeDVZS0ZYNExobHZCWjBTTUJBX2lUM3hwc0JNMW5kYUdLYjEwYUN0M0I3TkRZQTloVFkwS094VUp0eWRWZWxVTDk4akIzY0UzZ9IB9AFBVV95cUxPbGdMZzJYWTh6MUJVV0Z5b21fZHdRNFNwZU5MV3lCSGxaNzRqNVA2dk1meTk2bXBBQ1dUeEdSNmdZbm4ySFYtQm9MVkpkb1RwWFBaeGFzMC1BczhkTk9Ncnl2V3JaakdQVkEtSXJGSlhYZWJLZ1VoWnFwc0gzZ2FWcDViYjk0YjdNWWZkNzRyeFJFLUswd3MtWjhFOUEtSl9lLU5OaGtwQU1DU2Fic010bTZQam53emJndmtpS201bndNZ2JuLWFlbEI2Vkgzc0NiZExmam9VczlQOUtCV2VaVGRXcWV5S01tSVNhWVlPQ2M4UGc5?oc=5)
+
+---
+
+### ['Descobriram um tratamento para a demência do meu filho de 5 anos, mas custa mais de R$ 20 milhões'](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vbFpfaGZ0MjRhUHdUQ1M5QkFuT0JFS0tKbkIwM05mcjl1TUZiUWJiUXEyOHBKUHVDeEVvQ0VhSHNqazRMc1U4cVlPWXBLRG9Mc1Zta0ttOWIxamZlR0U1MWlxVdIBaEFVX3lxTE5GQUNDa3BfUXZvekV6RTZzYUVHWjFBUE1SUEZsZUIwSEYtTUZPS0d6ejktRXNUcXA3YjhWZjQzdXJWdVF2TUZMSkgyVks0bDBXRGs0N0NFcThqSnIyTkxpODZ1d1V1X1pU?oc=5)
+
+2026-11-15 <span class="news-indication-tag">demência</span>
+
+Fonte: [BBC](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vbFpfaGZ0MjRhUHdUQ1M5QkFuT0JFS0tKbkIwM05mcjl1TUZiUWJiUXEyOHBKUHVDeEVvQ0VhSHNqazRMc1U4cVlPWXBLRG9Mc1Zta0ttOWIxamZlR0U1MWlxVdIBaEFVX3lxTE5GQUNDa3BfUXZvekV6RTZzYUVHWjFBUE1SUEZsZUIwSEYtTUZPS0d6ejktRXNUcXA3YjhWZjQzdXJWdVF2TUZMSkgyVks0bDBXRGs0N0NFcThqSnIyTkxpODZ1d1V1X1pU?oc=5)
 
 ---
 

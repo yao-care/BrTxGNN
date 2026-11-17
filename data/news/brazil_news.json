@@ -1,19 +1,127 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-11-16T15:07:26.264940+00:00",
-  "total_fetched": 55,
-  "unique_count": 53,
-  "health_related_count": 27,
+  "fetched_at": "2026-11-17T01:41:47.570852+00:00",
+  "total_fetched": 77,
+  "unique_count": 75,
+  "health_related_count": 33,
   "news": [
     {
-      "id": "5f8cb3edf798",
-      "title": "Casos de mpox crescem acima do previsto nas últimas semanas no Rio, diz prefeitura - G1",
-      "published": "2026-11-16T11:23:16+00:00",
-      "summary": "Casos de mpox crescem acima do previsto nas últimas semanas no Rio, diz prefeitura&nbsp;&nbsp;G1Rio de Janeiro tem primeira morte confirmada por mpox no país&nbsp;&nbsp;Agência BrasilMpox: casos no DF quase dobram em novembro e passam de 23 para 44&nbsp;&nbsp;G1Mpox: quais os sintomas e como evitar doença que matou pessoa no Rio de Janeiro&nbsp;&nbsp;VEJASP lidera casos de Mpox no Brasil, com mais de 400 registros; RJ já tem 395&nbsp;&nbsp;CNN Brasil",
+      "id": "0e5cb1729acc",
+      "title": "Primeiros computadores quânticos da América Latina chegam à Paraíba e vão ser instalados em João Pessoa - G1",
+      "published": "2026-11-16T19:51:58+00:00",
+      "summary": "Primeiros computadores quânticos da América Latina chegam à Paraíba e vão ser instalados em João Pessoa&nbsp;&nbsp;G1",
       "sources": [
         {
           "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNUxYZXpJUGNvQ3ZIX2o2R2M5QXd6aFZtSm9EOXhKTXNES29ZNTItXzlFMmhjeDZCZG1ieUNkV1M5bVpnTmpwU0dwMGNGbmY0bEpnZXEwSG9NYWNOVGI3eC1XN0M4UjVxeFY3Nmd4eFBPYXU1OWNPaGRYamE4STdNaWpPNHpnbmZnQzJfb2RUcS1WVm1kMy1oanI5d9IBqgFBVV95cUxOUE5kck52VENCSVAzSHI0Y19nY3BPWlYxS3pMT3FMVnJLd19WeVVUNGQ2bk5QTkNxdXRoZ0lhNERTYVFXcGtVWVN5c2xXU0RoSFpFa2ZfT3B2VzRFeTFuODV5LTBNNVNRSTh5Z1dmQU1MZGZhX2R5U0Q2dVhfZGk5SjRHbWE4UWxxNFpneFhsbzhNbVM3RkVRbFRvNnIwbEpjVlJSUjlKOGtMZw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRFhBTE5fb2M3UXRIbk5IV1V3WDBuWHl2aHhjaHA1RHY5dWc5VW9DbmNFbDdfQkhSODJtZUpGZWlqTXZHeXNNMVJvdUFzeXk1clRGcUNNenBiLV92RDhRa05MOGtDaDBQVWpYOWZRYVNOaHZ5NWphSE8xdlU3MjNpd045MHoza0xINWR2WWJ1SkNtZzNEcnY0Z1g2YlgyWWpUQ1RZLXJIVUxRb001Y05FMGtqYWoyN20zTFkwUGVTakdlOTZLSWE0V29B0gHYAUFVX3lxTE5SRjFWM1hSbURrVDJGbFR5Wkp6aDFRTXNEQURENGt4Y0l6N2VxdEU3bzd4Szl4X0t0TTN6UGxXaHFqSzZVQ0RraGlvb3R6SXVHWVdvbVM3VEhSTEM3QlNYUHl2c1YtVVU2aHVySzViR29JQ3k3OUF6MHhqclR6ajIweUNuMUxiWFh1LW5HaWE2eFFmQ2luNTBYdnFEYjBxcHZmU2xFSzBtNHY2YW40Mk1hTS0yV09GV0VtNk85NmpLQWU0dzFxS0pqY2MzZmFXdE9XdHQyYllGNA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fbaa86846db2",
+      "title": "Como são feitas as pesquisas que comprovam a eficácia de um tratamento - UOL",
+      "published": "2026-11-16T19:17:33+00:00",
+      "summary": "Como são feitas as pesquisas que comprovam a eficácia de um tratamento&nbsp;&nbsp;UOL",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPU0Z0TGxzOVRnU3Y0RS15cHNGMlJmZktQRm5aN1dKUmxmRVlwc0RUYUVRaHpHeHdiSmJyVG5hYzJxazNQR29KeVFab0NuV2ZDbXMyZVVoQzlHTEJyX05ZSDBVMml6ZGk2dXJXdjJla2lHcmZIOUJRajVBeURodE1rOXF3U3NfSXdvNTlvR3RNc1A1bkdPa3lQaVA3SkdtZUFDMEVZTnprVTJXRmx2aThodEFKZ2drMDRqZXN2dFZ5b0xCU2ZFNFNEMnZSa3c3MkU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f3a46a6c6882",
+      "title": "IMC pode errar diagnóstico de obesidade; novos critérios distinguem casos - UOL",
+      "published": "2026-11-16T18:18:46+00:00",
+      "summary": "IMC pode errar diagnóstico de obesidade; novos critérios distinguem casos&nbsp;&nbsp;UOLVocê conhece o “novo IMC”? Entenda o que pode mudar no diagnóstico da obesidade&nbsp;&nbsp;SuperinteressanteMilhões de pessoas estão a ser diagnosticadas como obesas – mas não são&nbsp;&nbsp;ZAP NotíciasÍndice de massa corporal é insuficiente para avaliar a obesidade – Estudo&nbsp;&nbsp;Canal S+IMC não basta para saber quem tem obesidade e deixa escapar parte dos casos&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZk1hOHFsT3V5Ym9uYXRjUXVqRlRpck5uODZHZjNQZjdsNUhxVVdDUWMwanBSanZrV3JhMUNRVU5PS01ya3U2ZmFocXN1TE5lQmZKSkh1amstTy1CRGRYaVExc3hucTM5NTR1cVI2bjFadDdBU3lyeW05UFlKaTduV2g0TDV2NGlxRWNXTlpDa3ZfOHRjMEtiblg0ODF3ME5iNVAxbU41WFFJNW5WZTJEaTkyZkJUeGRscmY1cHVYd3p3NmVDbjIxVnJsbW1WSlBwV0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cbfd873ef891",
+      "title": "Queridinho: aprenda 3 receitas para variar o preparo do ovo no dia a dia - UOL",
+      "published": "2026-11-16T15:00:00+00:00",
+      "summary": "Queridinho: aprenda 3 receitas para variar o preparo do ovo no dia a dia&nbsp;&nbsp;UOLNutricionista indica café da manhã com frango para emagrecer sem sofrimento&nbsp;&nbsp;URB NewsTrês no máximo? A verdade por trás da quantidade recomendada de ovos para comer por semana&nbsp;&nbsp;O GLOBOPessoas com pressão alta devem comer ovos todos os dias?&nbsp;&nbsp;Vietnam.vnPrático e nutritivo: café da manhã com iogurte natural protege o coração&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTUc2ZFhqUzc1cEYzWVJHREFCYVhDUnRYSjRqUnc1dmdHUFZuUXFFTzdqZHJmWU4zUmdlN1plSjZFdFJjRVpXcEU5bU54ZmRENTR2TDU0QXVrREtxdW5zM3BXUWdDYzJxaWFRU296dHp6RkFoejEwenI1eXViRmdFU1RqWGxOZFhIUnh3N2FFUGtGdjAzcnVLLWFmNmEycF9mQWlfeGFrQVR0ejctR1FxQTBtZ0Rfby1iMWxFTEIwUEpnaWprMUVuTDROQndXXzA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7dad3cc3a81f",
+      "title": "Rins, visão e mais: 4 cuidados para evitar complicações do diabetes - UOL",
+      "published": "2026-11-16T13:37:01+00:00",
+      "summary": "Rins, visão e mais: 4 cuidados para evitar complicações do diabetes&nbsp;&nbsp;UOL5,3 milhões de brasileiros têm diabetes e não sabem; teste online ajuda a entender risco&nbsp;&nbsp;G1Volta Redonda: Hospital Munir Rafful promove ações pelo Dia Mundial do Diabetes&nbsp;&nbsp;Prefeitura de Volta RedondaGrupo de apoio ajuda pacientes a conviver com o diagnóstico do diabetes em Rio Preto&nbsp;&nbsp;R7Diabetes: 252 milhões não sabem que vivem com a doença em todo mundo&nbsp;&nbsp;Agência Brasil",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ3ZEc3dzbVFQM1VDUGZiWVR5eFg3Q0tURDVzQVlTRk4xS25VTW5jQl90MDNrdnVBdmh2VzhaMVVnQXpGQVhyQ3NYRUw5RVpzWENBRUFwcTB6a2ZQZnpQTFpLTkRua0VKWFJxdXN0N25ySmR1TnhfLWE2WVlrVnJvSC02V05CaWplcWhzaXhRZjVxeEp0QTYzU0pXOUVOVWxNNXJFOFJ3TzM5R2s2b2ZzYVNSR1NmVVNwOUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "276ff5a487f6",
+      "title": "Mpox: casos no DF quase dobram em novembro e passam de 23 para 44 - G1",
+      "published": "2026-11-16T13:32:20+00:00",
+      "summary": "Mpox: casos no DF quase dobram em novembro e passam de 23 para 44&nbsp;&nbsp;G1Homens concentram a maioria dos casos de mpox no RJ; doença já provocou uma morte no estado em 2026&nbsp;&nbsp;G1SP lidera casos de Mpox no Brasil, com mais de 400 registros; RJ já tem 395&nbsp;&nbsp;CNN BrasilO que se sabe sobre a primeira morte por mpox confirmada no Brasil&nbsp;&nbsp;VEJACasos de mpox disparam no Rio e estado terá boletim diário&nbsp;&nbsp;SBT News",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc2xDb3kyazNQbFVVRlM5bFVtRDQtY1FSSWNQczBzZFF3Q2diMzBWWTd3ZEVUY2h1dllaRzRuR0JOZHJBZGZFTElfZTlEdmtfY1ZtaEl1ZFhTN3dJY21tRFg5OXg3UGJ0ZmNsdnZtUU53cHlTQ3ZnMTdUcHNYdFBFUkZtWUFXazJrUkswRzgybHUtUdIBoAFBVV95cUxPVGRzVlJiN1dCX19RMGh6VDV5RThjZEtrams5Q3U4TW9BVnVnQ3V3SjNUbWUwVVV6X3NzVDZjcThlTmZNekhESURQRWVYbklVajJMdF90VDN0cFlJSDE3TXZnaDF6UjRRZEpUMXMzY1g1S2tqNlFZeWZ1aUFIaC03VUlrVkltbm5vUWFfeFFwTjJ0Y3hiaGhsQXBHeGhjSVIy?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c6a3d1d72212",
+      "title": "Cinco alimentos podem ajudar a reduzir o risco de câncer; saiba quais - ICL Notícias",
+      "published": "2026-11-16T12:35:10+00:00",
+      "summary": "Cinco alimentos podem ajudar a reduzir o risco de câncer; saiba quais&nbsp;&nbsp;ICL Notícias",
+      "sources": [
+        {
+          "name": "ICL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9UZ1NXRnJEankzMXJ5Vlo0WkNVUDlvZFZZMl9XRGx6THd6Zk9wVU0xQ0gtNno0dW5kcmlsc0tHTGhYOEp5QU9iLXlYajh4Sk8xT0pla0Z6S0ZVRFVFWmtPVmFRWlhpYlI3VGdsM2RBb1NHaVJwLXJxRHl2cw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a84837cfaa58",
+      "title": "ANS amplia cobertura obrigatória para tratamento de câncer de pulmão - Agência Brasil",
+      "published": "2026-11-16T12:28:00+00:00",
+      "summary": "ANS amplia cobertura obrigatória para tratamento de câncer de pulmão&nbsp;&nbsp;Agência BrasilVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "Agência Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTVQzcjdGSkstYV9EUkNycFl5MFh1cWVRVlQxbzgtYUlOYWVXWl95M0Uzdk5DOVEzdUo1WGJzYWJwNGNZb3Q1dnhSRGJfSGp1LUZKOVN0V3dHcEJHRGpwUW9lWDBXQjVWU3JRNWVJU2ZCVmNRQVphelNUSWVBdHR1bUpTWnZmZmZzZEJFUWlsTFVtUmFaV3FRUVRPdUN5a1BFMDJ2LVdpU0JaVmtMbGJsVnM2UlI4TkVjNHkwRWRYVjY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "878d36cc4c73",
+      "title": "Calvície: cientistas criam pente elétrico para fazer o cabelo crescer - O GLOBO",
+      "published": "2026-11-16T11:30:49+00:00",
+      "summary": "Calvície: cientistas criam pente elétrico para fazer o cabelo crescer&nbsp;&nbsp;O GLOBOPesquisadores da Universidade de Beihang criam pente que promete combater a calvície&nbsp;&nbsp;CNN BrasilPente elétrico desenvolvido na China promete estimular o crescimento capilar&nbsp;&nbsp;JM OnlineBoas notícias para quem está sofrendo com queda de cabelo.&nbsp;&nbsp;Vietnam.vnFim da calvície? Pente elétrico recupera quase 100% dos pelos em teste com animais&nbsp;&nbsp;Exame",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRUZsakRxQk11aXhnQ0ZwSXRXNnplbEp3YXMtT051Ul81OEJfS2luVHR5N0stNWM4QmtWczJUWW9faFNCWWtzckl1MUdmLUtyRnNlTzV4WW80eUFoc1BtMi1LbWItcGo5TllMNTNNWlpXTGRaWExKZ0h1aVVjdnRuN0FqOG9tWC1mRjFSOEluWkdQQV9SamJxaF9nY1NFeks1cGYtTUhHaWRGOHJlQ0lOUk1pV1ZxUzZrYVdYYng5UE1oQdIB0AFBVV95cUxNdUhPRUNFVzhseFpoZnQyTjJYOTBFdFlJZmczdU1tcnVPVDNSOHZMQk81UTZfNEp3OHUzN0xPT0ZkaFFnUV9PODdnWjdDWUhzM0RKTktBTC1hTWtMcGZ6dnk1OG5Kclp3SkpQWElhSTREeGF5OGRUajdaSkJuMFZLOVV1elBrTmR0MmdMc2dOMVZEVkRuUnVybS03WE5oaEIyeXhZb3pYdXVVV04yaUdoSC1jVnRfUFZWZVFwUl96RVBWQW1COU8zWnFBT1BfUzl2?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e570927713d5",
+      "title": "Em áudio | 'Tenho uma doença da qual as pessoas têm muita vergonha de falar' - BBC",
+      "published": "2026-11-16T09:43:10+00:00",
+      "summary": "Em áudio | 'Tenho uma doença da qual as pessoas têm muita vergonha de falar'&nbsp;&nbsp;BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DMC1kS0tDX09wOFF2WURZeXd4YTB1R3lKN3hldjhMbmg4LXN4aExfdUhZdzlZRTFJRjlybk9wTmZjclBnNW9PRE9Yakc1N3Z2dFdGYldpTnhyT2x0NmI1aQ?oc=5"
         }
       ]
     },
@@ -42,10 +150,22 @@
       ]
     },
     {
+      "id": "220ebb354d44",
+      "title": "Sorotipo 3 da dengue avança no Brasil e acende alerta às vésperas do verão; entenda por que uma nova infecção pode ser mais perigosa - Jornal Correio",
+      "published": "2026-11-16T08:00:00+00:00",
+      "summary": "Sorotipo 3 da dengue avança no Brasil e acende alerta às vésperas do verão; entenda por que uma nova infecção pode ser mais perigosa&nbsp;&nbsp;Jornal CorreioEspecialistas alertam para risco de reinfecção da dengue&nbsp;&nbsp;Folha de LondrinaVeja mitos e verdades sobre dengue e outras arboviroses&nbsp;&nbsp;Jornal Impresso BrasilChuva e calor no Sul acendem alerta para dengue: reinfecção pode ser mais grave&nbsp;&nbsp;força do valePatos de Minas registra sorotipo 3 da dengue e especialistas ale",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOVUpSTk9uWVJxY1d0SVZYcmtLbmg5enRvdC1IR1lRU1lFbEFJUHpYT3M3eVh3UThxcHNJYUkxbmhQbWd3aWRreFJZMENMY1BqZnJoSjc3cjg5azFyTXk4THdDMUZVaFE3VTJTX2lScDBETVZKNVhNaUV0M0djMzVvUzFTbFp5ekhIRV9JMWFjQXdDNHdHMThFdUI0RGxRMHpjX1RJamgtWmJ1Vk9nWVRwSW9FcW1sNXZPcTN0dWIzNXlTYWlpb2wtd3JGUGpzLTZKVm1QcnZLNFRwZ09zMlNVZGNJUnUzVDgtMENNVUU5U05HSnJ2QVR1bHFDbXFlWDZ0akNmQXh1WQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7ce30fdd50a2",
       "title": "Brasil deve exigir vacina contra sarampo para dar visto a norte-americanos, diz especialista - ICL Notícias",
       "published": "2026-11-16T07:46:34+00:00",
-      "summary": "Brasil deve exigir vacina contra sarampo para dar visto a norte-americanos, diz especialista&nbsp;&nbsp;ICL NotíciasNegacionismo contribui para volta do sarampo e aumenta risco de Covid&nbsp;&nbsp;O GLOBOEstados Unidos perdem estatuto livre de sarampo após surto iniciado no Texas&nbsp;&nbsp;Euronews.comChefe da Saúde dos EUA vira alvo de congressistas após país perder status sobre sarampo&nbsp;&nbsp;UOL NotíciasEUA perdem status de eliminação do sarampo após décadas de controle da doença via vac",
+      "summary": "Brasil deve exigir vacina contra sarampo para dar visto a norte-americanos, diz especialista&nbsp;&nbsp;ICL NotíciasNegacionismo contribui para volta do sarampo e aumenta risco de Covid&nbsp;&nbsp;O GLOBOEUA perdem status de país livre do sarampo após 26 anos&nbsp;&nbsp;G1Sob Trump, EUA estão prestes a perder status de País livre do sarampo&nbsp;&nbsp;CartaCapitalEstados Unidos perdem estatuto livre de sarampo após surto iniciado no Texas&nbsp;&nbsp;Euronews",
       "sources": [
         {
           "name": "ICL Notícias",
@@ -54,10 +174,10 @@
       ]
     },
     {
-      "id": "5374128f714f",
-      "title": "PrEP: apenas 7,6% das mulheres usam o remédio para prevenir o HIV - O GLOBO",
+      "id": "43bd3ffcf125",
+      "title": "PrEP: mulheres são apenas 7,6% dos usuários de remédio para prevenir o HIV - O GLOBO",
       "published": "2026-11-16T07:30:00+00:00",
-      "summary": "PrEP: apenas 7,6% das mulheres usam o remédio para prevenir o HIV&nbsp;&nbsp;O GLOBO",
+      "summary": "PrEP: mulheres são apenas 7,6% dos usuários de remédio para prevenir o HIV&nbsp;&nbsp;O GLOBO",
       "sources": [
         {
           "name": "O GLOBO",
@@ -81,7 +201,7 @@
       "id": "9fb8d7db0e2c",
       "title": "Fazer musculação depois dos 50 exige atenção a um detalhe; saiba qual - O GLOBO",
       "published": "2026-11-16T05:45:00+00:00",
-      "summary": "Fazer musculação depois dos 50 exige atenção a um detalhe; saiba qual&nbsp;&nbsp;O GLOBODepois dos 50 anos, levantar do chão pode ficar mais difícil: conheça 3 exercícios de mobilidade que ajudam a recuperar força&nbsp;&nbsp;Tua SaúdeQuantas vezes por semana é recomendado treinar após os 50 anos?&nbsp;&nbsp;BOA FORMAPersonal revela treino completo dividido em 3 partes para pessoas 50+&nbsp;&nbsp;MetrópolesVirada de Chave: especialista destaca a importância da musculação e da longevidade ativa a ",
+      "summary": "Fazer musculação depois dos 50 exige atenção a um detalhe; saiba qual&nbsp;&nbsp;O GLOBODepois dos 50 anos, levantar do chão pode ficar mais difícil: conheça 3 exercícios de mobilidade que ajudam a recuperar força&nbsp;&nbsp;Tua SaúdeApós os 60, hábito simples pode melhorar o equilíbrio e a mobilidade; confira&nbsp;&nbsp;TerraQuantas vezes por semana é recomendado treinar após os 50 anos?&nbsp;&nbsp;BOA FORMAMuito além da estética: por que a musculação é essencial para a saúde&nbsp;&nbsp;Jornal ",
       "sources": [
         {
           "name": "O GLOBO",
@@ -93,7 +213,7 @@
       "id": "61f1153f8689",
       "title": "'Eu não sabia que tinha deficiência de vitamina D até desmaiar no trabalho' - G1",
       "published": "2026-11-16T05:00:00+00:00",
-      "summary": "'Eu não sabia que tinha deficiência de vitamina D até desmaiar no trabalho'&nbsp;&nbsp;G1Deficiência de vitamina D pode afetar os ossos e aumentar risco de fraturas&nbsp;&nbsp;UOLMais da metade dos brasileiros tem falta de vitamina D, aponta Fiocruz&nbsp;&nbsp;TV Sim BrasilTomar vitamina D sem exame: faz sentido e o que esperar para os ossos&nbsp;&nbsp;Tua Saúde",
+      "summary": "'Eu não sabia que tinha deficiência de vitamina D até desmaiar no trabalho'&nbsp;&nbsp;G1Mais da metade dos brasileiros tem falta de vitamina D, aponta Fiocruz&nbsp;&nbsp;TV Sim BrasilProfessora desmaia durante expediente e descobre níveis extremamente baixos de vitamina D&nbsp;&nbsp;www.vgnoticias.com.brA vitamina que participa da saúde dos cabelos, protege os ossos e ajuda no funcionamento da imunidade&nbsp;&nbsp;Tua SaúdeTomar vitamina D sem exame: faz sentido e o que esperar para os ossos&nb",
       "sources": [
         {
           "name": "G1",
@@ -102,14 +222,26 @@
       ]
     },
     {
-      "id": "a99e78b9a17e",
-      "title": "Novo teste identifica pessoas com maior risco de glaucoma, a principal causa de cegueira irreversível - O GLOBO",
-      "published": "2026-11-15T16:45:50+00:00",
-      "summary": "Novo teste identifica pessoas com maior risco de glaucoma, a principal causa de cegueira irreversível&nbsp;&nbsp;O GLOBOTeste genético pode antecipar diagnóstico de glaucoma&nbsp;&nbsp;Correio do Povo Penedo",
+      "id": "b2be29512cdb",
+      "title": "Mitos e verdades sobre câncer de próstata: urologista tira dúvidas que homens têm vergonha de perguntar - G1",
+      "published": "2026-11-15T21:22:20+00:00",
+      "summary": "Mitos e verdades sobre câncer de próstata: urologista tira dúvidas que homens têm vergonha de perguntar&nbsp;&nbsp;G1SUS ultrapassa 1 milhão de procedimentos para tratamento do câncer de próstata — Ministério da Saúde&nbsp;&nbsp;GOV.BRAtendimentos para câncer de próstata crescem 41,8% na região em três anos&nbsp;&nbsp;O LiberalCâncer de próstata: diretrizes inéditas expõem desigualdade no tratamento&nbsp;&nbsp;Correio BrazilienseCâncer de próstata: 10 mitos desvendados por especialista&nbsp;&nbs",
       "sources": [
         {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMk5BbDhyVi1LeTh3OTU0emRZcGJHV1pnVEc1azgxSTBhREh5ZExITjZ5bWZUX3RUTHBaOFVjeWdIY00zVGRLYktVV01QblYzX0ZyaTNsWGlyanU0NjlRMzd0eXZHV29TRW9PNzhFaUpkRjFNYVBRZGdERTZXU0RKZVEyZ1FKU1lxZGZIbG5PR09jWExXTTB3TGtlZ0d0bmE5dW8tR3lqVUJ5MUtxeGc3M1VKUFIwRDlRT3VTbGtIeVZydFVqcXNTcldZQlphUkNGMUJMandCZFItZ29nTUZ1bVZod3ItazZ5aU02NtIB-wFBVV95cUxNc0ZmMG5qOG1NNWlsVF91UlhRbFBsdWhNaUM1ZlNHejZXYzN0eVFFMVdDLW9jeEdjVTV1RDB4cXVhUWFtazdXaG92cm9NRUNWNUNLbHFSLWRYTXYxMi1RaTNaTmotZnl1RXpzbnJMeFF5R2VmTUxoYjBDVU1DWFJtRzZTVGhhOGsxM2YzWkN0dTdvdVVsTUdOZWdkWG9BU0FoOWJfY1NIcWQ1XzQ5QU1DWFd5UDlvTURJQUs2aTdodlQ3b3dqVUJhWXhJcTNFQ0hOdVd3UXVPQUxKak52Yk91Q1luNk9ZQVdYY2J5QTA3SnNzRWEtV3F4a0VBbw?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNemhvbU1MbWZvLW9rUUZnYWl0ZjU2cWJzYWpSeDVPZmxYaUNvX2VYT0VfVGRNQ0p3ck51d1NYVGRucFRzRkZuOGdaQVo3U05sLS1KM2NPS0xhNnNUQkhpN3NMN2x5NXpRT2o3c0RmdDBmNzNxMm9rVklBNGw4Z1NpSUZfTzQyMF9Fd2g5anZuNU5ZdlNXcHl2OWw2bnpmXzVDX2hNMGZKSjhjOVpZRGlzZFNja1dtQjd2LUVxZUFkZF9WMUJuQmliUDhPR2hNZ0prQk1HNUpOYUZDN2pKVDU2YTlUTDFqUmdIZjRIZ01UcEJSOTRCc3Zv0gGGAkFVX3lxTE56OVVnQ3JQT05VTi1IbGhnWEhRbXBZa3ZvcndDd2FjZy1pc2lXRV9TamNiMDFpYjFfRzRVQVhOVWJEQzdvVFhlZ0Z2N28xM0ZwUms3TDJXTC1tb2w4R3pCWmh1WnZOdE5feDVDampWcXhHcjJ2NXBZRThVZWlmd0JRYy1neGxCdWhvak1JZlc4LVNJUGlhRF95SEpKN1JxUkZablN2ZE11d0lxcWN0bDBuSzFXU28wN1daTjdNTHVybWF2eVFVMzVadVBxazdEbmpENEN3WHRLSVlQbjNQY1BkUVhsNDZMV09HdmtRWGNLejNjcmxZUGRveV9pdzFMdkY5TEM3SWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "46261bf8195e",
+      "title": "Pesquisadores identificam fóssil de 'camelo vampiro' de 13 milhões de anos - Globo",
+      "published": "2026-11-15T17:59:15+00:00",
+      "summary": "Pesquisadores identificam fóssil de 'camelo vampiro' de 13 milhões de anos&nbsp;&nbsp;Globo",
+      "sources": [
+        {
+          "name": "Globo",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQR2U2d0NXRjVHU1FHUWtyWVNjdFJFREpDRF9fLVNoT2w2V2RERjl2d2dENXI0NUQteGdQdFltZjY4NmJfaGJ1STJPbE81WnQwZnNhUVRkOU9xQ0Rmb2I2WTg4dmtkSTVjdU1vVFZpekNMNEtBRFI5S1RxQVFCUVJzS3NhT3BJLTNDS21UdlA4QjVVMW83UjhndERyUWxaV0NJcmo4Z2pkYmhtUjFCdjdYRWZNdkhyX0NZSkZZZlJFZGYtYlExdGpHVDRQZlptMGJtdWFScXFCTUxFOWZQZmxqetIB7wFBVV95cUxOM2hEOGZfOUthU1M2UDJTUzFJVGdxY3NLN1pDTC1JVjY4MDZiX2FjTmZEdTJkU0Nma2Y0bktLOURDaWJGeFBKay1jR0tRaHNDdC1aVnpOeEVCVDRvUE5ONGt0d1RVV2lNTUZYSDlyaTdCeFlYRlZlel95SkNvc1NyUHp2Zkl5M1g4T2RiU2JKcnVFd05ZWkdiRXBabWRueU1sS2pBNkxkOVBHZUZCZldmUTZoRVZiNkswYVlKOXQtYjVmeGxndERLQlhXSlJPeDEyX1VrM3RaQThhWjR4OVc2Yl8zRm1wWjdkeV9CN0k5dw?oc=5"
         }
       ]
     },
@@ -129,7 +261,7 @@
       "id": "25c5dc2d96f9",
       "title": "Senado aprova vacina contra herpes-zóster pelo SUS para maiores de 50 anos - Metrópoles",
       "published": "2026-11-15T13:15:00+00:00",
-      "summary": "Senado aprova vacina contra herpes-zóster pelo SUS para maiores de 50 anos&nbsp;&nbsp;MetrópolesInclusão de vacina contra herpes-zóster no SUS vai à Câmara&nbsp;&nbsp;SenadoVacina contra herpes-zóster no SUS é aprovada em comissão do Senado; veja quem terá direito&nbsp;&nbsp;Só Notícia BoaComissão do Senado aprova vacina contra herpes-zóster no SUS; projeto vai à Câmara&nbsp;&nbsp;Folha de S.PauloVacina contra herpes-zóster avança no Congresso e pode ser oferecida gratuitamente pelo SUS&nbsp;&nb",
+      "summary": "Senado aprova vacina contra herpes-zóster pelo SUS para maiores de 50 anos&nbsp;&nbsp;MetrópolesInclusão de vacina contra herpes-zóster no SUS vai à Câmara&nbsp;&nbsp;SenadoComissão do Senado aprova vacina contra herpes-zóster no SUS; projeto vai à Câmara&nbsp;&nbsp;Folha de S.PauloSenado aprova inclusão de vacina contra herpes-zóster no SUS; projeto segue para a Câmara&nbsp;&nbsp;G1Senado aprova proposta para oferecer vacina contra cobreiro gratuitamente pelo SUS&nbsp;&nbsp;Jornal Folha Regiona",
       "sources": [
         {
           "name": "Metrópoles",
@@ -138,14 +270,26 @@
       ]
     },
     {
-      "id": "3f43e61129bf",
-      "title": "Como funcionam os antidepressivos? Ciência ainda busca respostas sobre ação dos medicamentos - Estadão",
-      "published": "2026-11-15T08:30:00+00:00",
-      "summary": "Como funcionam os antidepressivos? Ciência ainda busca respostas sobre ação dos medicamentos&nbsp;&nbsp;Estadão",
+      "id": "63f215f7d06d",
+      "title": "'Descobriram um tratamento para a demência do meu filho de 5 anos, mas custa mais de R$ 20 milhões' - BBC",
+      "published": "2026-11-15T12:13:08+00:00",
+      "summary": "'Descobriram um tratamento para a demência do meu filho de 5 anos, mas custa mais de R$ 20 milhões'&nbsp;&nbsp;BBCMãe tenta arrecadar R$ 23 milhões para tratar filho com Alzheimer infantil&nbsp;&nbsp;Metrópoles",
       "sources": [
         {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWU8tNGZMNU55MXVpTnBjM0ZVa3Q2MFV2YnV3YWdiZXJVTU5XWHU0WmM3UkNNQnYzdVJqZXVsdm5FYXFvWnptZ3F3ZF95YlJlS0lsc3JSaGFZZzAwemxVNE9BVWZEWEVtdEE5RTN5WUNqQk1tUUNnTkR0LXlaX2VxQzRYVzZvN3l4SnpWOG9VbmJ5ZVZTc05XaDBNNjA5QU5DQ21YN2paeTNCd2RfU2xycU1nenpmQUF0VDlwWnVlWkcyd3Vac1FTeTdGMTFGY25BMXZaclhPT00?oc=5"
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vbFpfaGZ0MjRhUHdUQ1M5QkFuT0JFS0tKbkIwM05mcjl1TUZiUWJiUXEyOHBKUHVDeEVvQ0VhSHNqazRMc1U4cVlPWXBLRG9Mc1Zta0ttOWIxamZlR0U1MWlxVdIBaEFVX3lxTE5GQUNDa3BfUXZvekV6RTZzYUVHWjFBUE1SUEZsZUIwSEYtTUZPS0d6ejktRXNUcXA3YjhWZjQzdXJWdVF2TUZMSkgyVks0bDBXRGs0N0NFcThqSnIyTkxpODZ1d1V1X1pU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b056f7769f61",
+      "title": "Metástase desaparece no primeiro paciente tratado com nova vacina russa contra o câncer - Brasil 247",
+      "published": "2026-11-15T11:46:25+00:00",
+      "summary": "Metástase desaparece no primeiro paciente tratado com nova vacina russa contra o câncer&nbsp;&nbsp;Brasil 247Hospital Sírio-Libanês discute avanços do ESMO 2026 que podem transformar o tratamento do câncer&nbsp;&nbsp;EstadãoPaciente sem metástase após vacina russa: é cedo para cura, diz cientista&nbsp;&nbsp;CNN BrasilVacinas contra câncer feitas sob medida: o que o avanço no melanoma indica sobre o futuro do tratamento&nbsp;&nbsp;G1Moderna busca o 'santo graal' da prevenção do câncer - 11/11/202",
+      "sources": [
+        {
+          "name": "Brasil 247",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU2ljTWtZUmZCNXpXcGkyV3VaTUlJcTV0S1pUbTAyTy01YXFKVGdUd1V6ZGlkTWVNWU5TSm9hMEh3d0lNYzdmUHJRd29iMEN0c0hmbG53NGNFd251SEkzbkdiX0lobkE1b0w2U2lSMTYwQWNTMkNPanFIN2Fvbko5aUpDbTFaeUZ2SUlQRmFYanhYbjVGZVBabUxQTTFQMlVpTGl4bThWd19mb2dhMC1pUkprYmRxSTdEdXdobw?oc=5"
         }
       ]
     },
@@ -153,7 +297,7 @@
       "id": "78198625239c",
       "title": "Capital cognitivo: educação torna o cérebro resiliente, diz neurocientista - UOL",
       "published": "2026-11-15T08:30:00+00:00",
-      "summary": "Capital cognitivo: educação torna o cérebro resiliente, diz neurocientista&nbsp;&nbsp;UOLMusculação protege o cérebro? Neurocientista explica importância do glúteo&nbsp;&nbsp;UOLOs avanços da ciência e hábitos que ajudam a manter o cérebro saudável são tema do ‘Globo Repórter’ desta sexta-feira&nbsp;&nbsp;GloboDez minutos de exercício por dia protegem o cérebro e reduzem casos de demência&nbsp;&nbsp;Rádio ItatiaiaSaúde cerebral: como estimular o cérebro e manter a mente ativa&nbsp;&nbsp;Terra",
+      "summary": "Capital cognitivo: educação torna o cérebro resiliente, diz neurocientista&nbsp;&nbsp;UOLOs avanços da ciência e hábitos que ajudam a manter o cérebro saudável são tema do ‘Globo Repórter’ desta sexta-feira&nbsp;&nbsp;GloboDez minutos de exercício por dia protegem o cérebro e reduzem casos de demência&nbsp;&nbsp;Rádio ItatiaiaTreinar o cérebro na infância ajuda a prevenir o Alzheimer no futuro&nbsp;&nbsp;bra1.com.brSaúde do cérebro: prevenção, estímulos cognitivos e vínculos afetivos são aliados",
       "sources": [
         {
           "name": "UOL",
@@ -162,34 +306,10 @@
       ]
     },
     {
-      "id": "767574d07b2d",
-      "title": "Após 3 anos de tratamento, criança com nanismo perde acesso a medicação - Metrópoles",
-      "published": "2026-11-15T05:31:00+00:00",
-      "summary": "Após 3 anos de tratamento, criança com nanismo perde acesso a medicação&nbsp;&nbsp;Metrópoles'Quero brincar, mas não consigo': menina de 9 anos tem remédio de R$ 200 mil suspenso pelo Ministério da Saúde e volta a sentir dores&nbsp;&nbsp;ND MaisApós 3 anos de tratamento, criança com nanismo fica sem acesso a medicamento&nbsp;&nbsp;BossaNews Brasil",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeHFFRUtjRURSN3Zma2lKNHZHUHpGR2QwN0tDOFNwZVVxc2x2WGhOVjZaYl9rWTRFZ2M3X1U0VGdfV1FNTlRhRHl3NGUycGIwRHUtcFFfa0xIWklKcGRadFE5LWxLMkV4MkVpanVkWFIyel9lTG00VXI1eFgya1pTRS1JR2s4SGRqY2ZHbzMtOWFiZ3JFc2QxUG5BRHBaMWF6dlVFSVk4T0V0Nms?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0f66002f1ca6",
-      "title": "“Perdi o chão”, diz mãe de menino que descobriu câncer após dores na perna - Metrópoles",
-      "published": "2026-11-15T05:00:00+00:00",
-      "summary": "“Perdi o chão”, diz mãe de menino que descobriu câncer após dores na perna&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN0ozVHdZU3FsWlZnRlViUnBmN2UyQ0M4UGxXVTRLcE1GQXdSbkRQcmFPY2NDTDYxZ0NrcnhfVkp6ZWhIcXpQNXFzV3dzb3JidDhnMlRwX3N1SzBxX0N2UkwtRVlSOWtpZ1Z1QlZxc2JhTEdzVkJjbFZsakphdlJyNGE0cWpBZHZodXFJRHUxYW1WN3A4Zm1hYm5PdURiSlBTTHBIZ0VyRQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c913d1a2fdb7",
       "title": "Olheiras, queda de cabelo e cansaço: o que esses sinais podem revelar sobre sua saúde - O GLOBO",
       "published": "2026-11-15T04:30:00+00:00",
-      "summary": "Olheiras, queda de cabelo e cansaço: o que esses sinais podem revelar sobre sua saúde&nbsp;&nbsp;O GLOBOCansaço persistente mesmo com exames normais pode indicar deficiência de ferro, alerta ginecologista&nbsp;&nbsp;deolhonacidade.netVocê já ouviu falar em “rosto de ferritina”? A expressão viraliza nas redes sociais ao relacionar olheiras, palidez e queda de cabelo à saúde&nbsp;&nbsp;Revista Oeste6 comidas simples que ajudam a combater a fraqueza causada pela falta de ferro&nbsp;&nbsp;Tua SaúdeQ",
+      "summary": "Olheiras, queda de cabelo e cansaço: o que esses sinais podem revelar sobre sua saúde&nbsp;&nbsp;O GLOBOQual a importância da vitamina C na suplementação de ferro?&nbsp;&nbsp;Guia da FarmáciaCansaço persistente mesmo com exames normais pode indicar deficiência de ferro, alerta ginecologista&nbsp;&nbsp;deolhonacidade.netQuer melhorar a absorção de ferro? Conheça 7 combinações de alimentos&nbsp;&nbsp;CartaCapitalSempre cansado? Saiba aqui se tem deficiência de ferro&nbsp;&nbsp;CNN Portugal",
       "sources": [
         {
           "name": "O GLOBO",
@@ -201,7 +321,7 @@
       "id": "ed8d11505a62",
       "title": "Sobe para 85 o número de casos confirmados de Mpox no Ceará - Diário do Nordeste",
       "published": "2026-11-15T00:10:00+00:00",
-      "summary": "Sobe para 85 o número de casos confirmados de Mpox no Ceará&nbsp;&nbsp;Diário do NordesteDois casos de Mpox são confirmados no Cariri&nbsp;&nbsp;G1Ceará chega a 85 casos confirmados de Mpox em 2026; Fortaleza concentra 87% dos registros&nbsp;&nbsp;Ceará AgoraVacina contra mpox chega ao Ceará: confira quem pode ser imunizado&nbsp;&nbsp;Portal CearáCeará registra 40 casos de mpox em 2026; Sesa reforça prevenção&nbsp;&nbsp;OpiniãoCE",
+      "summary": "Sobe para 85 o número de casos confirmados de Mpox no Ceará&nbsp;&nbsp;Diário do NordesteConfirmados 85 casos de MPOX no Ceará&nbsp;&nbsp;G1Ceará chega a 85 casos confirmados de Mpox em 2026; Fortaleza concentra 87% dos registros&nbsp;&nbsp;Ceará AgoraVacina contra mpox chega ao Ceará: confira quem pode ser imunizado&nbsp;&nbsp;Portal CearáSecretaria de Saúde confirma caso de Mpox em Groaíras; Prefeitura monitora paciente, que não reside na cidade&nbsp;&nbsp;A Voz de Santa Quitéria",
       "sources": [
         {
           "name": "Diário do Nordeste",
@@ -210,46 +330,10 @@
       ]
     },
     {
-      "id": "16a4aeb1cca8",
-      "title": "Como canetas emagrecedoras têm 'revolucionado' o tratamento de diabetes - Folha de S.Paulo",
-      "published": "2026-11-14T20:22:00+00:00",
-      "summary": "Como canetas emagrecedoras têm 'revolucionado' o tratamento de diabetes&nbsp;&nbsp;Folha de S.PauloCosméticos, lasers, injetáveis e cirurgias: entenda como as canetas emagrecedoras estão mudando o mercado da beleza&nbsp;&nbsp;O GLOBOUso de canetas: efeitos digestivos ainda são desafio para medicina&nbsp;&nbsp;TerraCanetas emagrecedoras: o que mudou nas academias depois delas&nbsp;&nbsp;Assine AbrilPodcast Direito e Saúde Pública fala sobre as canetas emagrecedoras&nbsp;&nbsp;MPMG",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbzlDYzFsWDR6d0l3YjNzOFVsd1JEXzc4eGduZlVDMEt2bVNtY0RyMXo1NzFlYm9kUHFnVV9VaU9aLXdmbV9idzlndmFacVBvZWdjSEpRNUM1LUt3alJoNE84M05GeWJPMWM5R2Qwa1VYZzdkdmhQV1BTMFZGTVdyU0ZpcmVlMjg3YUliSEhER3RnWGhiVnZzd1ZlbFItZlg1UnR1UzR6NXg4SjF1dDFKZHI5c2huUzltcG5semkxbkdQbzVNMFM4Si13?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9e367a626a66",
-      "title": "Creatina pode ajudar o cérebro, mas ciência ainda impõe ressalvas - Folha de S.Paulo",
-      "published": "2026-11-14T18:30:00+00:00",
-      "summary": "Creatina pode ajudar o cérebro, mas ciência ainda impõe ressalvas&nbsp;&nbsp;Folha de S.PauloA creatina pode fortalecer o cérebro? Protege do Alzheimer? Veja os efeitos do suplemento realmente comprovados&nbsp;&nbsp;O GLOBOSuplementos de creatina também podem fortalecer o cérebro?&nbsp;&nbsp;InfoMoneyDe suplemento esportivo a aliado da massa muscular&nbsp;&nbsp;Guia da FarmáciaCreatina para mulheres após os 40 anos: médicos destacam ganhos na massa muscular e na memória&nbsp;&nbsp;Tua Saúde",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ1JBQ3dDMXhKYldpelRpZmpZeFkxb1dfYWgzcDlOWFR6Q1JjeEdUQ0RkWjdPOGd4U0xLb0tKZlcwM1JrTl9PTjhlT2EtZnoyWFB2c2lIdXBEczFtdnJjOGV1X1A4MGNOWndDUDdsWXVvM3hIUlRPMUd3X1YtcVk0X2JtQjIzd2JlYUFqZEdhY3dGejFObnM0Q0xxMl9pNlBVQlFRNEViY3cxb21pSE1SSzk4YXE1c2ZJeC1z?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d20268082dbf",
-      "title": "Astro luminoso no céu assusta cearenses com brilho forte durante madrugada - Diário do Nordeste",
-      "published": "2026-11-14T17:05:47+00:00",
-      "summary": "Astro luminoso no céu assusta cearenses com brilho forte durante madrugada&nbsp;&nbsp;Diário do Nordeste",
-      "sources": [
-        {
-          "name": "Diário do Nordeste",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNZlZBS3g1Nm1aZzYwSXR1M25EUFdkRnZqWEZXUjlzTVZzaTA5bWZ5ZkktRFJ3TFNnTG82UGYyOF92NG5fcm9rNUdwTElJVml2U0FyVG9KSUFIbVdCaXhlcXJ1VE1EeEZOeUZIME1HRy01OW52Vk0tamdhTHdBbnQtTXhSZ0lfQl90SXZfM1djUl8ycUIyQnFCTjA1YXRSWmlxMzRqcGRiQXEzV2RMY2NSRUN4RE5jYWJ0b3E2T3ZjYzRRaEZSOUhxaHA0MnZJcUYzNzZKUmRIYXFySnlVV2xZa1VjLU5DOTNzWkVSU093YkprbFVMTU4wVA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "79b5266055bd",
       "title": "Por que o coração nunca desenvolve câncer? Novo estudo explica - O GLOBO",
       "published": "2026-11-14T13:38:05+00:00",
-      "summary": "Por que o coração nunca desenvolve câncer? Novo estudo explica&nbsp;&nbsp;O GLOBOPor que o câncer é tão raro no coração? Estudo revela possível explicação&nbsp;&nbsp;Jornal da FrancaCoração blindado: o que explica a resistência ao câncer&nbsp;&nbsp;SpaceMoneyPor que o coração resiste ao câncer? Novo estudo revela como órgão dificulta a formação de tumores&nbsp;&nbsp;BnewsEstudo explica por que tumores raramente crescem no coração; entenda&nbsp;&nbsp;Diário do Centro do Mundo",
+      "summary": "Por que o coração nunca desenvolve câncer? Novo estudo explica&nbsp;&nbsp;O GLOBOEstudo revela como os batimentos do coração podem dificultar o desenvolvimento do câncer&nbsp;&nbsp;BossaNews BrasilPor que o câncer é tão raro no coração? Estudo revela possível explicação&nbsp;&nbsp;Jornal da FrancaPor que o coração resiste ao câncer? Novo estudo revela como órgão dificulta a formação de tumores&nbsp;&nbsp;BnewsCoração blindado: o que explica a resistência ao câncer&nbsp;&nbsp;SpaceMoney",
       "sources": [
         {
           "name": "O GLOBO",
@@ -258,26 +342,26 @@
       ]
     },
     {
-      "id": "ddede80d2c05",
-      "title": "Casos de Covid-19 sobem no Brasil: já tomei a vacina, preciso tomar de novo? Veja a cada quanto tempo - G1",
-      "published": "2026-11-14T06:01:50+00:00",
-      "summary": "Casos de Covid-19 sobem no Brasil: já tomei a vacina, preciso tomar de novo? Veja a cada quanto tempo&nbsp;&nbsp;G1Vacinação de grupos prioritários ajuda a evitar casos graves de covid-19 durante novo pico de notificações&nbsp;&nbsp;Jornal da USPSP já vacinou 53% da população adulta pelo menos com a 1ª dose&nbsp;&nbsp;Gazeta de São PauloCovid-19 volta a preocupar em SP: saiba onde se vacinar&nbsp;&nbsp;ExameCasos de Covid-19 sobem em 18 estados: veja quem precisa tomar reforço da vacina e o inte",
+      "id": "66f9d3152b6c",
+      "title": "Em meio ao alerta para a alta da dengue, dois milhões de crianças e adolescentes estão com a 2ª dose da vacina atrasada - CBN",
+      "published": "2026-11-14T09:48:16+00:00",
+      "summary": "Em meio ao alerta para a alta da dengue, dois milhões de crianças e adolescentes estão com a 2ª dose da vacina atrasada&nbsp;&nbsp;CBNTaubaté registra cobertura de 33,3% na segunda dose da vacina contra a dengue&nbsp;&nbsp;Guia TaubatéVacina contra dengue no SUS é restrita a crianças e adolescentes de 10 a 14 anos&nbsp;&nbsp;Правда.РуBaixa procura pela segunda dose da vacina contra a dengue preocupa autoridades&nbsp;&nbsp;R7Mais de 100 mil crianças não tomaram vacina contra a dengue ES; veja com",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOHo5R0d3a1NJSjFSOFpYQ1dWTmVqYm4zTjJTTzk4djJZYXZTRGVqSl9xaWtoZXRibjdUV0d5NktUUTRZd2tTeWRKOHBBUkNiRzQtSUN4YnB4aldtVXRoTGRCemN1NU0yWUZtWVdYT1VPTkw2aEJKSTRvU2RTSTJCV1dEVmU4QldCSlp1X2N6czlQcTVhVDYwckpZSTNiN1hxcVdqMDU3RkVjWG1EcDhrbC1nT0NycER2N2JMclE1UklBc3pUajVuNGQtSC1wMHluYTFnT2tkLTZPbkpXTENFSGlFd1rSAfMBQVVfeXFMTzVVY0c1SWtISU43SE0xNC1Eb3F3T0t2ZF9lbUdoYzFTQmlyWG5UVERVdnBySURfelJXV0lZY3RtSjI1Zks2YWozVmVWZjJWbWRFLW51MHRHX0FWQWRHYmxxa1F0ZVg4ZDBGUXZFQUs3bVZkUGY3WmhRcEM4Z0RjN3FybExBMFZITlhKTXNiekFybzRldjd0cTllVW15Q2dpT2dHUFpmRi1reGFscTVQS2dLcVduQzM1SUhud0pJNjQ4dWl6S1cxcVZUdFV6eTk5alFsVm1sNmZGaGJ4WlhxWWpfNGJMcFNjLVFIVlpGMld0Wlow?oc=5"
+          "name": "CBN",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPeHJocGNZNFVWV3hCb04tWEFqOHI2SWtlcEhRNVZtbWxmWmZ4S3ZjNjlpY3NSajdKTWdldVZpdVE4LU5tZ3dLb0tpRUJpRlJtcXF6aUZJdk5kNkFwdzA5VTczUVhicndYWHdfM1V3TnQzY3pnb1NoTEZYS2l4S2RaZ2huLXM4Ny1laUh5S0g1QjRKUmtNZHRKOHBmS0dGOU4tQ015TEVpS1B1MWs0WjJ1NTlWMFJFN2RERkRIZlEtTloxRjZiYWNPSUJBd0pwd0QyX2xSQXUzNWFkZXNUd2NNZlVlOUJNc3NnNFExSmRJU0hvLVFBb1JkMmNpekQtOXlCT0dEbzQ3dHIzLUdwa2fSAZwCQVVfeXFMUHZubzRGa1ZDU0dZUDBRaTZEZGhoY0xBQ0s2aXVpRURzVURaMWNtTEVpd3lFYzI0Sncwc2x5LTNYaTJWaVB4OTAtZkxQNHRlbjJCb2dUOWJsS1h1OVUwQmRFaVhvenZXaDFQNlo3UXJmdm9uNTJsaXNZN3RWSTNNd2NSYjBsdkROS2lTVU1CV2F0RE5neXJoZm9kdkZZei1xWC1mREZLQmVhQmVObG81SFEzY2lZeTdxbkRwcGJldEw0Wld4bXk5dHAwOWNUNzIyUk94dGU5MHZha0liNjFWOUxFM3ZmY2s1MDRwbUFweFU2U2Zaay02bDdxSlo3RzVrTDNiSFJKaXVONnFCeGlwWVFsMUt5SGU2OFhvUmM?oc=5"
         }
       ]
     },
     {
-      "id": "dde1da2963c7",
-      "title": "5,3 milhões de brasileiros têm diabetes e não sabem; teste online simples ajuda a entender risco de desenvolver a doença - G1",
-      "published": "2026-11-13T05:00:01+00:00",
-      "summary": "5,3 milhões de brasileiros têm diabetes e não sabem; teste online simples ajuda a entender risco de desenvolver a doença&nbsp;&nbsp;G1Diabetes: 252 milhões não sabem que vivem com a doença em todo mundo&nbsp;&nbsp;Agência BrasilVolta Redonda: Hospital Munir Rafful promove ações pelo Dia Mundial do Diabetes&nbsp;&nbsp;Prefeitura de Volta RedondaDia Mundial da Diabete: doença é fator de risco para AVC e infarto&nbsp;&nbsp;G1Dia Mundial do Diabetes: ação em Fortaleza oferece avaliações e serviços g",
+      "id": "ddede80d2c05",
+      "title": "Casos de Covid-19 sobem no Brasil: já tomei a vacina, preciso tomar de novo? Veja a cada quanto tempo - G1",
+      "published": "2026-11-14T06:01:50+00:00",
+      "summary": "Casos de Covid-19 sobem no Brasil: já tomei a vacina, preciso tomar de novo? Veja a cada quanto tempo&nbsp;&nbsp;G1Quem deve tomar uma nova dose da vacina diante do aumento de casos de covid&nbsp;&nbsp;VEJAVacinação de grupos prioritários ajuda a evitar casos graves de covid-19 durante novo pico de notificações&nbsp;&nbsp;Jornal da USPVacinação em dia e medidas de proteção ajudam a reduzir riscos de doenças respiratórias&nbsp;&nbsp;Prefeitura de JundiaíVacina contra a covid-19 integra o calendár",
       "sources": [
         {
           "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPV1pmQTQzS1VuMGZaeHlDeS1hX0wxcTRkYkhlaGhUVkYtZ2RSTUw3NHpsNXpCOGstQzg5R3hTbWQ2RzRPOEFUcXdCSWJYRWtIbm9kSVNqVi1zcVdiOFZJU1dNSHFhM3NweVdteW1JYUh2ZHkxWU9IbktMYjEyck9aZmViQ1pqMlEzU1Y1elF2cGcxY2NDOHZnd0xDTkpsTGZFcVVyZm1LbUpUUEc0UFgyTFRhSVYwQlVCb3pnTGxQNTNldnAtZVpNVnBhbTl0TlBxMm5reVpiZUhZY2tkVmZYWVpRZE1GTm54bjVoN3BkZDEyUnU0M21XT3c4SVBiOEHSAY4CQVVfeXFMTS1zeVBIR2RCWVFUcnJfMlRnUEpTZVIxZXl6VEFnVGk0S3lldFNhQTJjZlhVOEY1N0ZBcmN1dm9NY3hTeWpIUF9YR1NXamN4bk5TS0Z6amZYa21mZzhoMHRySWhMbWRPMUVIYkNxdVN4dFpqeU5RMkg0MDBHYmZwRnBQMWFHc2ZneDVGckNQUmFCdnI1MlJBRkJrR2RPSDRjVS1IR3Z0a1BtbWxaeDhSYVFzRjZScWhJS3hiYlVuS2hBUzFXTno3U25JeUtkM0t2Skw4R2ZqMVh2VW5URWZUOUM5dEsxUkxrNzgzOHFMWXVaY0NLMi1seUdXY2RSdVZWVjA5UXp4TVl6eDMyNXRB?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOHo5R0d3a1NJSjFSOFpYQ1dWTmVqYm4zTjJTTzk4djJZYXZTRGVqSl9xaWtoZXRibjdUV0d5NktUUTRZd2tTeWRKOHBBUkNiRzQtSUN4YnB4aldtVXRoTGRCemN1NU0yWUZtWVdYT1VPTkw2aEJKSTRvU2RTSTJCV1dEVmU4QldCSlp1X2N6czlQcTVhVDYwckpZSTNiN1hxcVdqMDU3RkVjWG1EcDhrbC1nT0NycER2N2JMclE1UklBc3pUajVuNGQtSC1wMHluYTFnT2tkLTZPbkpXTENFSGlFd1rSAfMBQVVfeXFMTzVVY0c1SWtISU43SE0xNC1Eb3F3T0t2ZF9lbUdoYzFTQmlyWG5UVERVdnBySURfelJXV0lZY3RtSjI1Zks2YWozVmVWZjJWbWRFLW51MHRHX0FWQWRHYmxxa1F0ZVg4ZDBGUXZFQUs3bVZkUGY3WmhRcEM4Z0RjN3FybExBMFZITlhKTXNiekFybzRldjd0cTllVW15Q2dpT2dHUFpmRi1reGFscTVQS2dLcVduQzM1SUhud0pJNjQ4dWl6S1cxcVZUdFV6eTk5alFsVm1sNmZGaGJ4WlhxWWpfNGJMcFNjLVFIVlpGMld0Wlow?oc=5"
         }
       ]
     },
@@ -302,18 +386,6 @@
         {
           "name": "Portal Drauzio Varella",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaWk3VW9fbHh4Q3RGUmJMYjJVRS1KZkljM25GU1NtcDcyLWZtd1poUGp4YmppVWhtWEM2aUFLcGhqc0Z6eDloa2NrbWNJZ0Z0Qko1YUt5QUhiVVZISEtUTkdEQnNCWkJiU01VT2tsZG1pVzB6Q2V0N1pMSFFDaEgza283WVg4R0xZV1JZa2NTMjhJdjhGZERfZks5ZF9VVFZ1WnhMMU8zUHQ4bjA4U3Y1ZFp4VDMzSGJPLWVuUHgwdS1IbjE0QmtKLQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9a7529d676be",
-      "title": "IMC não basta para saber quem tem obesidade e deixa escapar parte dos casos - G1",
-      "published": "2026-11-11T16:00:01+00:00",
-      "summary": "IMC não basta para saber quem tem obesidade e deixa escapar parte dos casos&nbsp;&nbsp;G1Você conhece o “novo IMC”? Entenda o que pode mudar no diagnóstico da obesidade&nbsp;&nbsp;SuperinteressanteÍndice de massa corporal é insuficiente para avaliar a obesidade&nbsp;&nbsp;PúblicoEstudo propõe substituir IMC por medida de cintura na avaliação da obesidade&nbsp;&nbsp;CartaCapitalEstudo diz que obesidade nem sempre significa ter problemas de saúde&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVTdrcXZ0M3BBSU81bWd1ek9pOE5UTDNXbXpvWjQxMlBwT2JNQTBoMk9DZkkzQ2JWUThycGdCeW5ZR0hCWmVXX094X3d2SjgwXzJHaVRkamVINXhJODljRjBiOHVrX2hZNW82WTFiQ05lT0VwV0hoZmdZcUF3SGwxTGpPV3FmMFhjSExZelVsWmE3N1k2Z2p1YjBoWVdDU29GVE9KUHE1enV5VGFaaTgxR3BwamdoQkpmZFItRm1FQi12NzdxMmfSAdQBQVVfeXFMTXJZa05sMTYyVlVERVVkRm5IRjM0VHRRSlhaRGgxTkU4cmdLY2JhU3FDNTdfUnFpdmdsRnBuYWZNNVVlM2ZWdkItSWpJWXRfQV9JV2UxM01OYXQ4REp0LTdLc0hncWl4b1VZaTVJMzBmUlpveFdhZEpSbV9RR052RzhlS2FjeFl6ZHRmRmstaG5kLS1pODdzcGk3c1V5RjUwX1htb3RGTTAwWm9sMGwzNXBDNkZsOXRCQ1BsRnFmb2pDUVFRWW5CNjlPZHlwUXFOOUt6cEU?oc=5"
         }
       ]
     },
