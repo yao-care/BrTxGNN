@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Letrozole?">
-<strong>Letrozole</strong> tem atualmente <strong>73 notícias</strong> e 4 indicações previstas.
+<strong>Letrozole</strong> tem atualmente <strong>75 notícias</strong> e 4 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,29 @@ Esta página combina as indicações previstas por IA para Letrozole com as not�
 <p><a href="{{ '/drugs/letrozole/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (73)
+## Notícias relacionadas (75)
+
+### [Toque retal ainda é opção para detectar câncer de próstata, mas nova diretriz dá prioridade ao PSA e à ressonância](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVHZPUTFhTXVSU3g4dUt0NmlvSW9NQ1hsbVM1SXRpQWwzdUFqSlZzWHNnNzdyM0h6UnR0bnA4dkpiYVdnRm5aMHhRaFdCV1paSENNak1OcmVUV3ZON2JocGdNaWh2NWhaTTQ2X2k5ZC1TU2RFUmU5dWZ3dC0wMFV5UmFDQ25uN0VlTndXMEgxZWNUY1JNV2ZWeWhrUXFfN3Q5TFJKVW51UmVOZGxnZEREVzBLdEdxcm9VUWhOSmJnUnBEemtUQldIazdvY0RoQk5JY3pQMGNsUUpQdUJEY3EzVTBqR2FJVElQNTBheG90WnBPdFRnSU5kbdIBhwJBVV95cUxPcnF0UGJMLW5FTmhhVlVtWHhWczBweDNManVicUdLazk3aWZLYXRTZ25naGcwLXQtZG9NTVpaV1NsZ1pTRkRXeDQ5Q0luUUxQX3J3a0VjcmxRWG5wbFVycFJIVFRkOURyWlFnQlg4Y3JBaTNDUU9xMlYwSjhGWlRZdjZvS0otaXVuV0o2aF9TckczaG5JTHFabDVkNmhNbnZYZzgxTUk2ajNwVWgyV242Ym9qUDBzbFNoRFN5Y0djNUFKUnZyRXp2cGdfeFZUSk5zUkpWamR0V2gzWXhjWDVUZnpqWmpqbXRlMEZsTEJTWWJPbXlQZnM0RVUxUzRhcVg1WjY4bUN5dw?oc=5)
+
+2026-11-18 <span class="news-indication-tag">câncer</span>
+
+Fonte: [G1](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVHZPUTFhTXVSU3g4dUt0NmlvSW9NQ1hsbVM1SXRpQWwzdUFqSlZzWHNnNzdyM0h6UnR0bnA4dkpiYVdnRm5aMHhRaFdCV1paSENNak1OcmVUV3ZON2JocGdNaWh2NWhaTTQ2X2k5ZC1TU2RFUmU5dWZ3dC0wMFV5UmFDQ25uN0VlTndXMEgxZWNUY1JNV2ZWeWhrUXFfN3Q5TFJKVW51UmVOZGxnZEREVzBLdEdxcm9VUWhOSmJnUnBEemtUQldIazdvY0RoQk5JY3pQMGNsUUpQdUJEY3EzVTBqR2FJVElQNTBheG90WnBPdFRnSU5kbdIBhwJBVV95cUxPcnF0UGJMLW5FTmhhVlVtWHhWczBweDNManVicUdLazk3aWZLYXRTZ25naGcwLXQtZG9NTVpaV1NsZ1pTRkRXeDQ5Q0luUUxQX3J3a0VjcmxRWG5wbFVycFJIVFRkOURyWlFnQlg4Y3JBaTNDUU9xMlYwSjhGWlRZdjZvS0otaXVuV0o2aF9TckczaG5JTHFabDVkNmhNbnZYZzgxTUk2ajNwVWgyV242Ym9qUDBzbFNoRFN5Y0djNUFKUnZyRXp2cGdfeFZUSk5zUkpWamR0V2gzWXhjWDVUZnpqWmpqbXRlMEZsTEJTWWJPbXlQZnM0RVUxUzRhcVg1WjY4bUN5dw?oc=5)
+
+---
 
 ### [Novo método promete “turbo” ao sistema imunológico contra o câncer: entenda - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMivAFBVV95cUxQMTdYQXlHeUlHeDcxemJ1SlN0dVgtd1NPWGFvbGJPWmR5Vk1PYkpjSnNvcmxSeUZpQmZ5QlQwblcxZlFzd3ZyVWx0WktpRHBkUkFvNml6VkhXc1FpTTUxdy1rTmVOcDZ5cU1hUEtWRTh2VHRfQ3p1SVg5QktxRzNkTXFhSnRYOG5JeVdma21kN05fS3ZuWUpKZmJDdGpYN2NfVFZuRlg2bFpER05kV25TY1N1OTZyXzUxM09Xbg?oc=5)
 
 2026-11-17 <span class="news-indication-tag">câncer</span>
 
 Fonte: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMivAFBVV95cUxQMTdYQXlHeUlHeDcxemJ1SlN0dVgtd1NPWGFvbGJPWmR5Vk1PYkpjSnNvcmxSeUZpQmZ5QlQwblcxZlFzd3ZyVWx0WktpRHBkUkFvNml6VkhXc1FpTTUxdy1rTmVOcDZ5cU1hUEtWRTh2VHRfQ3p1SVg5QktxRzNkTXFhSnRYOG5JeVdma21kN05fS3ZuWUpKZmJDdGpYN2NfVFZuRlg2bFpER05kV25TY1N1OTZyXzUxM09Xbg?oc=5)
+
+---
+
+### [Câncer de mama atravessou três gerações de uma família: como a genética pode ajudar a antecipar o diagnóstico?](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYU1LUXZaSFFtZ0p3WUZacnAzbTMxNHNwR0p3M3dpb0FuelRhUXdNTjdGZDBnci1HaTBBNHhfZ3VkUFpYZlE2T01EeGozdUg0ZnNKbUxfcm02eVVuV295RjZTRzB0MWNvR1RQdzRMS0RfbDlfYURMaktwVE5RUmJlbVlHOEJnc0NSMnRiaFF2MWE1OF9GSVVNVFV1YzNFSmtnNHNiSFRPY0FSS241ZW9XYk1UUW9NZmRoUTFMNDZtTTI4VVpOT3hBTE45SFRRcXZ0UjNUeWU1RWVjaUs3VHk3eWNHcVl0WGZDUDJXUWp5cVpFZw?oc=5)
+
+2026-11-17 <span class="news-indication-tag">câncer</span> <span class="news-indication-tag">câncer de mama</span>
+
+Fonte: [G1](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYU1LUXZaSFFtZ0p3WUZacnAzbTMxNHNwR0p3M3dpb0FuelRhUXdNTjdGZDBnci1HaTBBNHhfZ3VkUFpYZlE2T01EeGozdUg0ZnNKbUxfcm02eVVuV295RjZTRzB0MWNvR1RQdzRMS0RfbDlfYURMaktwVE5RUmJlbVlHOEJnc0NSMnRiaFF2MWE1OF9GSVVNVFV1YzNFSmtnNHNiSFRPY0FSS241ZW9XYk1UUW9NZmRoUTFMNDZtTTI4VVpOT3hBTE45SFRRcXZ0UjNUeWU1RWVjaUs3VHk3eWNHcVl0WGZDUDJXUWp5cVpFZw?oc=5)
 
 ---
 

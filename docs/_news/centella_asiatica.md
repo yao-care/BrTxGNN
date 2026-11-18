@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Centella asiatica. 0 indicações previstas."
 permalink: /news/centella_asiatica/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-18
 ---
 
 # Notícias sobre Centella asiatica
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Centella asiatica?">
-<strong>Centella asiatica</strong> tem atualmente <strong>5 notícias</strong> e 0 indicações previstas.
+<strong>Centella asiatica</strong> tem atualmente <strong>6 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ Esta página combina as indicações previstas por IA para Centella asiatica com
 <p><a href="{{ '/drugs/centella-asiatica/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (5)
+## Notícias relacionadas (6)
+
+### [Exame na cabeça centenária de Jeremy Bentham revela artrite na mandíbula e problemas dentários - CNN Brasil](https://news.google.com/rss/articles/CBMizAFBVV95cUxOOWV0NzFKajN1T29CT1FQZ2k3cUFUTFJ1cVpsR0J5Zk44bW00TzVIWTFpTkNFd2RjWmFCS21hdkhydTdBTmF3c0REakJtaXlaZnFXSEE5SV9TNldnbURRcWdvTklwNXdZSzFhV2FWYkQ0SVU1Q3dEOFpJV2s3cVNYWWVZVS1yNE15a19oZVVHSXhDRFNoMkE0clUzY3VIRW0xZU5yMkFtWXRzUTlvelFWVW8zTEVzdlAtb3YtNFoxQUt3T1ZkQ1FBdV9uTTU?oc=5)
+
+2026-11-18 <span class="news-indication-tag">artrite</span>
+
+Fonte: [CNN Brasil](https://news.google.com/rss/articles/CBMizAFBVV95cUxOOWV0NzFKajN1T29CT1FQZ2k3cUFUTFJ1cVpsR0J5Zk44bW00TzVIWTFpTkNFd2RjWmFCS21hdkhydTdBTmF3c0REakJtaXlaZnFXSEE5SV9TNldnbURRcWdvTklwNXdZSzFhV2FWYkQ0SVU1Q3dEOFpJV2s3cVNYWWVZVS1yNE15a19oZVVHSXhDRFNoMkE0clUzY3VIRW0xZU5yMkFtWXRzUTlvelFWVW8zTEVzdlAtb3YtNFoxQUt3T1ZkQ1FBdV9uTTU?oc=5)
+
+---
 
 ### [Estresse e ansiedade: conheça 5 alimentos que podem ajudar a melhorar o bem-estar - ICL Notícias](https://news.google.com/rss/articles/CBMid0FVX3lxTE1LVkR6U1RNX0FNN2g3a0lJZVBmam53eHBLRlhFYU5iVjlYdmEyNUk1djlwczd5enItZ180UXdvZV80WkpldWRoRDhITWs0eHZ0eWtGcW51RVBZUTVvOXQ4M1RjcnlNMnZsSFVxSHB1NS1oUVE0Rk9R?oc=5)
 

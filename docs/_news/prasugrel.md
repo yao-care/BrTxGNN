@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Prasugrel. 9 indicações previstas."
 permalink: /news/prasugrel/
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-18
 ---
 
 # Notícias sobre Prasugrel
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Prasugrel?">
-<strong>Prasugrel</strong> tem atualmente <strong>2 notícias</strong> e 9 indicações previstas.
+<strong>Prasugrel</strong> tem atualmente <strong>3 notícias</strong> e 9 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ Esta página combina as indicações previstas por IA para Prasugrel com as not�
 <p><a href="{{ '/drugs/prasugrel/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (2)
+## Notícias relacionadas (3)
+
+### [Exame na cabeça centenária de Jeremy Bentham revela artrite na mandíbula e problemas dentários - CNN Brasil](https://news.google.com/rss/articles/CBMizAFBVV95cUxOOWV0NzFKajN1T29CT1FQZ2k3cUFUTFJ1cVpsR0J5Zk44bW00TzVIWTFpTkNFd2RjWmFCS21hdkhydTdBTmF3c0REakJtaXlaZnFXSEE5SV9TNldnbURRcWdvTklwNXdZSzFhV2FWYkQ0SVU1Q3dEOFpJV2s3cVNYWWVZVS1yNE15a19oZVVHSXhDRFNoMkE0clUzY3VIRW0xZU5yMkFtWXRzUTlvelFWVW8zTEVzdlAtb3YtNFoxQUt3T1ZkQ1FBdV9uTTU?oc=5)
+
+2026-11-18 <span class="news-indication-tag">artrite</span>
+
+Fonte: [CNN Brasil](https://news.google.com/rss/articles/CBMizAFBVV95cUxOOWV0NzFKajN1T29CT1FQZ2k3cUFUTFJ1cVpsR0J5Zk44bW00TzVIWTFpTkNFd2RjWmFCS21hdkhydTdBTmF3c0REakJtaXlaZnFXSEE5SV9TNldnbURRcWdvTklwNXdZSzFhV2FWYkQ0SVU1Q3dEOFpJV2s3cVNYWWVZVS1yNE15a19oZVVHSXhDRFNoMkE0clUzY3VIRW0xZU5yMkFtWXRzUTlvelFWVW8zTEVzdlAtb3YtNFoxQUt3T1ZkQ1FBdV9uTTU?oc=5)
+
+---
 
 ### ['Quase morri depois de uma dor de dente virar sepse e causar uma doença cardíaca rara'](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DNUYyb2IydG1MS1hyLXFoQ0xrYlZfRnRFVGpIdzRNQm5SWjN4TWt2SWdwZGNrSlpOVmdyMnZwc0QtRm5OWTVlcm1sWlZIRzZiTzNlZm9vUnc3YnUxVzd0TG45c9IBaEFVX3lxTE1HMk5CZlBWNjNCUVBzMzRaZ2RLcHdkYzFtYVBmRFZWUHVzamt5eDczbnFWNVA2MUR6Y1FZbDFDd25ESERSUWo2UlRsRUlkdXRqY05oV2NtRWJhZ0pmWHBBckc2emdqZVNO?oc=5)
 

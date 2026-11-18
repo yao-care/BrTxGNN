@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Ioversol. 9 indicações previstas."
 permalink: /news/ioversol/
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-18
 ---
 
 # Notícias sobre Ioversol
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Ioversol?">
-<strong>Ioversol</strong> tem atualmente <strong>1 notícias</strong> e 9 indicações previstas.
+<strong>Ioversol</strong> tem atualmente <strong>2 notícias</strong> e 9 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ Esta página combina as indicações previstas por IA para Ioversol com as notí
 <p><a href="{{ '/drugs/ioversol/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (1)
+## Notícias relacionadas (2)
+
+### [Exame na cabeça centenária de Jeremy Bentham revela artrite na mandíbula e problemas dentários - CNN Brasil](https://news.google.com/rss/articles/CBMizAFBVV95cUxOOWV0NzFKajN1T29CT1FQZ2k3cUFUTFJ1cVpsR0J5Zk44bW00TzVIWTFpTkNFd2RjWmFCS21hdkhydTdBTmF3c0REakJtaXlaZnFXSEE5SV9TNldnbURRcWdvTklwNXdZSzFhV2FWYkQ0SVU1Q3dEOFpJV2s3cVNYWWVZVS1yNE15a19oZVVHSXhDRFNoMkE0clUzY3VIRW0xZU5yMkFtWXRzUTlvelFWVW8zTEVzdlAtb3YtNFoxQUt3T1ZkQ1FBdV9uTTU?oc=5)
+
+2026-11-18 <span class="news-indication-tag">artrite</span>
+
+Fonte: [CNN Brasil](https://news.google.com/rss/articles/CBMizAFBVV95cUxOOWV0NzFKajN1T29CT1FQZ2k3cUFUTFJ1cVpsR0J5Zk44bW00TzVIWTFpTkNFd2RjWmFCS21hdkhydTdBTmF3c0REakJtaXlaZnFXSEE5SV9TNldnbURRcWdvTklwNXdZSzFhV2FWYkQ0SVU1Q3dEOFpJV2s3cVNYWWVZVS1yNE15a19oZVVHSXhDRFNoMkE0clUzY3VIRW0xZU5yMkFtWXRzUTlvelFWVW8zTEVzdlAtb3YtNFoxQUt3T1ZkQ1FBdV9uTTU?oc=5)
+
+---
 
 ### [Retatrutida reduz dores no joelho em pelo menos 50%, mostra estudo - CNN Brasil](https://news.google.com/rss/articles/CBMiogFBVV95cUxQRnN5YW5PNm9NNGVaZzhsMG1MWTZiTkhRb2EyOFZXTVhfYTc3V1FtLTF0ZXRHcEVSRzAxc01tTU1oM2ZIWjgyQjZDZERyUS0wdnhrQjZWNTNodXlfSDlmOGdVZVZzS0tsYk5velhMZEpqYzNyV25RZVZpWjhyZmZPYjRUZllkT0xNMFVFOURlV256dktNWFhRQkFBaXNoQWN5X0E?oc=5)
 

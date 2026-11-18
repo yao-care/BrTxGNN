@@ -3,9 +3,9 @@ layout: default
 title: "Notícias sobre câncer de mama (female breast carcinoma)"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre câncer de mama (female breast carcinoma). 3 notícias, 12 medicamentos relacionados."
+description: "Notícias de saúde sobre câncer de mama (female breast carcinoma). 4 notícias, 12 medicamentos relacionados."
 permalink: /news/female-breast-carcinoma/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
 # Notícias sobre câncer de mama (female breast carcinoma)
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre câncer de mama (female breast carcinoma)?">
-<strong>câncer de mama (female breast carcinoma)</strong> tem atualmente <strong>3 notícias</strong> e 12 medicamentos relacionados.
+<strong>câncer de mama (female breast carcinoma)</strong> tem atualmente <strong>4 notícias</strong> e 12 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ Esta página reúne as notícias de saúde mais recentes sobre «câncer de mama
 </ul>
 </div>
 
-## Notícias relacionadas (3)
+## Notícias relacionadas (4)
+
+### [Câncer de mama atravessou três gerações de uma família: como a genética pode ajudar a antecipar o diagnóstico?](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYU1LUXZaSFFtZ0p3WUZacnAzbTMxNHNwR0p3M3dpb0FuelRhUXdNTjdGZDBnci1HaTBBNHhfZ3VkUFpYZlE2T01EeGozdUg0ZnNKbUxfcm02eVVuV295RjZTRzB0MWNvR1RQdzRMS0RfbDlfYURMaktwVE5RUmJlbVlHOEJnc0NSMnRiaFF2MWE1OF9GSVVNVFV1YzNFSmtnNHNiSFRPY0FSS241ZW9XYk1UUW9NZmRoUTFMNDZtTTI4VVpOT3hBTE45SFRRcXZ0UjNUeWU1RWVjaUs3VHk3eWNHcVl0WGZDUDJXUWp5cVpFZw?oc=5)
+
+2026-11-17
+
+Fonte: [G1](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYU1LUXZaSFFtZ0p3WUZacnAzbTMxNHNwR0p3M3dpb0FuelRhUXdNTjdGZDBnci1HaTBBNHhfZ3VkUFpYZlE2T01EeGozdUg0ZnNKbUxfcm02eVVuV295RjZTRzB0MWNvR1RQdzRMS0RfbDlfYURMaktwVE5RUmJlbVlHOEJnc0NSMnRiaFF2MWE1OF9GSVVNVFV1YzNFSmtnNHNiSFRPY0FSS241ZW9XYk1UUW9NZmRoUTFMNDZtTTI4VVpOT3hBTE45SFRRcXZ0UjNUeWU1RWVjaUs3VHk3eWNHcVl0WGZDUDJXUWp5cVpFZw?oc=5)
+
+---
 
 ### [Câncer de mama atravessou três gerações de uma família: como a genética pode ajudar a antecipar o diagnóstico?](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYU1LUXZaSFFtZ0p3WUZacnAzbTMxNHNwR0p3M3dpb0FuelRhUXdNTjdGZDBnci1HaTBBNHhfZ3VkUFpYZlE2T01EeGozdUg0ZnNKbUxfcm02eVVuV295RjZTRzB0MWNvR1RQdzRMS0RfbDlfYURMaktwVE5RUmJlbVlHOEJnc0NSMnRiaFF2MWE1OF9GSVVNVFV1YzNFSmtnNHNiSFRPY0FSS241ZW9XYk1UUW9NZmRoUTFMNDZtTTI4VVpOT3hBTE45SFRRcXZ0UjNUeWU1RWVjaUs3VHk3eWNHcVl0WGZDUDJXUWp5cVpFZ9IBgAJBVV95cUxNMXRiTFB6OHZyUjFJeG1mN2hROVJ0ZW9qay1UeTRTZUQtZW43cEZvc2tkTC1uSllwQ2pGT2NCT3FKQjh4cUdQTEdSZjJBSlkxcHBuUEVYZnZwUGpJY3RONXdZMF9YdmhtT2pQWGNpQXFZajRHSmpWV2EyTDJDSW1iNTcwOU1CYnlpeF9GazVQbXhEZzRwcjA5OHA3cG5iYUQyVkdtS3NiMnFsWkhCMlZtMVRDT3pHMEt1SG1jMHI3dlRLeU1zSEt6Q1JtMnJXbDV3NDhTdUVGRGlnQ0lRWldXSVpVc1F6dGxyMm9ES25NWFRGbDlsYVAxVHVTMlpLVWxx?oc=5)
 

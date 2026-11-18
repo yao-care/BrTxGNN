@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com TENECTEPLASE. 7 indicações previstas."
 permalink: /news/tenecteplase/
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-18
 ---
 
 # Notícias sobre TENECTEPLASE
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre TENECTEPLASE?">
-<strong>TENECTEPLASE</strong> tem atualmente <strong>6 notícias</strong> e 7 indicações previstas.
+<strong>TENECTEPLASE</strong> tem atualmente <strong>7 notícias</strong> e 7 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,15 @@ Esta página combina as indicações previstas por IA para TENECTEPLASE com as n
 <p><a href="{{ '/drugs/tenecteplase/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (6)
+## Notícias relacionadas (7)
+
+### [Bebidas energéticas podem representar risco cardiovascular para adultos jovens](https://news.google.com/rss/articles/CBMipwFBVV95cUxONXctSkJzZjc0SmRnQnR3VnlPSUk2SmM4ZXRDc1IyVWRiRVZBQlVBRmxaUE1kSlF4Y3JweWppLVZEODA0SkpoXzd2X1RHeUpiZlpsaGlDdGFZbVF3NUxuU1RlYjVHQm1JMGJhMWNNM2Q5WHkxTm45ZVR3UHc2VXpfM1ltREt4SUVEOW4wNXFwT2cxbzhPRkdMRlpSV3FNOUNjaHhqSTFjWQ?oc=5)
+
+2026-11-16 <span class="news-indication-tag">cardiovascular</span>
+
+Fonte: [Medscape](https://news.google.com/rss/articles/CBMipwFBVV95cUxONXctSkJzZjc0SmRnQnR3VnlPSUk2SmM4ZXRDc1IyVWRiRVZBQlVBRmxaUE1kSlF4Y3JweWppLVZEODA0SkpoXzd2X1RHeUpiZlpsaGlDdGFZbVF3NUxuU1RlYjVHQm1JMGJhMWNNM2Q5WHkxTm45ZVR3UHc2VXpfM1ltREt4SUVEOW4wNXFwT2cxbzhPRkdMRlpSV3FNOUNjaHhqSTFjWQ?oc=5)
+
+---
 
 ### ['Quase morri depois de uma dor de dente virar sepse e causar uma doença cardíaca rara'](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DNUYyb2IydG1MS1hyLXFoQ0xrYlZfRnRFVGpIdzRNQm5SWjN4TWt2SWdwZGNrSlpOVmdyMnZwc0QtRm5OWTVlcm1sWlZIRzZiTzNlZm9vUnc3YnUxVzd0TG45c9IBaEFVX3lxTE1HMk5CZlBWNjNCUVBzMzRaZ2RLcHdkYzFtYVBmRFZWUHVzamt5eDczbnFWNVA2MUR6Y1FZbDFDd25ESERSUWo2UlRsRUlkdXRqY05oV2NtRWJhZ0pmWHBBckc2emdqZVNO?oc=5)
 

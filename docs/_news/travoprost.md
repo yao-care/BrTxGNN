@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Travoprost. 10 indicações previstas."
 permalink: /news/travoprost/
-last_modified_at: 2026-11-07
+last_modified_at: 2026-11-18
 ---
 
 # Notícias sobre Travoprost
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Travoprost?">
-<strong>Travoprost</strong> tem atualmente <strong>4 notícias</strong> e 10 indicações previstas.
+<strong>Travoprost</strong> tem atualmente <strong>5 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ Esta página combina as indicações previstas por IA para Travoprost com as not
 <p><a href="{{ '/drugs/travoprost/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (4)
+## Notícias relacionadas (5)
+
+### [Bebidas energéticas podem representar risco cardiovascular para adultos jovens](https://news.google.com/rss/articles/CBMipwFBVV95cUxONXctSkJzZjc0SmRnQnR3VnlPSUk2SmM4ZXRDc1IyVWRiRVZBQlVBRmxaUE1kSlF4Y3JweWppLVZEODA0SkpoXzd2X1RHeUpiZlpsaGlDdGFZbVF3NUxuU1RlYjVHQm1JMGJhMWNNM2Q5WHkxTm45ZVR3UHc2VXpfM1ltREt4SUVEOW4wNXFwT2cxbzhPRkdMRlpSV3FNOUNjaHhqSTFjWQ?oc=5)
+
+2026-11-16 <span class="news-indication-tag">cardiovascular</span>
+
+Fonte: [Medscape](https://news.google.com/rss/articles/CBMipwFBVV95cUxONXctSkJzZjc0SmRnQnR3VnlPSUk2SmM4ZXRDc1IyVWRiRVZBQlVBRmxaUE1kSlF4Y3JweWppLVZEODA0SkpoXzd2X1RHeUpiZlpsaGlDdGFZbVF3NUxuU1RlYjVHQm1JMGJhMWNNM2Q5WHkxTm45ZVR3UHc2VXpfM1ltREt4SUVEOW4wNXFwT2cxbzhPRkdMRlpSV3FNOUNjaHhqSTFjWQ?oc=5)
+
+---
 
 ### [Qual é o melhor horário para dormir? Estudo mostra por que ir cedo ou tarde demais afeta o coração - CNN Brasil](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdzloWFA5Ql94VFRNV1h0b3gyUnFNdElocy1tNkJMcmlXQXdsZGRFSHBzcmpFa2lKTmUyN203T3dWdmlpdUpBMlgtVlVoTWEwT1V0cVpqbzVkdUp6T2ctNzZCeEFDdDBGOXNHWDN2cDg0N0dFcHNKZVpYTmdza2ZlNjJnQVl5bExPU202WmZ2dTN6dVVPMUdJdFY1NXhVanY0ZTQ3RUdNajIzeTJ2OFZ2RE1mOV9oMzl2ZUFWLVpiUTl3YVBrVks2TW9TOXFNWjAtNjBmdXVuaw?oc=5)
 

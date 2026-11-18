@@ -3,12 +3,12 @@
     {
       "url": "/news/adapalene/",
       "title": "Notícias sobre Adapalene",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -20,12 +20,12 @@
     {
       "url": "/news/albendazole/",
       "title": "Notícias sobre Albendazole",
-      "count": 84
+      "count": 86
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/dementia/",
@@ -42,12 +42,12 @@
     {
       "url": "/news/alteplase/",
       "title": "Notícias sobre ALTEPLASE",
-      "count": 6
+      "count": 7
     },
     {
       "url": "/news/cardiovascular/",
       "title": "Notícias sobre cardiovascular",
-      "count": 4
+      "count": 5
     },
     {
       "url": "/news/heart-disease/",
@@ -59,12 +59,12 @@
     {
       "url": "/news/ambroxol/",
       "title": "Notícias sobre Ambroxol",
-      "count": 73
+      "count": 75
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/menopause/",
@@ -89,16 +89,28 @@
       "count": 2
     }
   ],
+  "/drugs/amiodarone/": [
+    {
+      "url": "/news/amiodarone/",
+      "title": "Notícias sobre Amiodarone",
+      "count": 1
+    },
+    {
+      "url": "/news/rheumatoid-arthritis/",
+      "title": "Notícias sobre artrite (rheumatoid arthritis)",
+      "count": 1
+    }
+  ],
   "/drugs/amoxicillin/": [
     {
       "url": "/news/amoxicillin/",
       "title": "Notícias sobre Amoxicillin",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -110,12 +122,12 @@
     {
       "url": "/news/ampicillin/",
       "title": "Notícias sobre Ampicillin",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -127,17 +139,17 @@
     {
       "url": "/news/anastrozole/",
       "title": "Notícias sobre Anastrozole",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/female-breast-carcinoma/",
       "title": "Notícias sobre câncer de mama (female breast carcinoma)",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/tumor/",
@@ -149,24 +161,29 @@
     {
       "url": "/news/apixaban/",
       "title": "Notícias sobre Apixaban",
-      "count": 2
+      "count": 3
     },
     {
       "url": "/news/heart-disease/",
       "title": "Notícias sobre doença cardíaca (heart_disease)",
       "count": 2
+    },
+    {
+      "url": "/news/rheumatoid-arthritis/",
+      "title": "Notícias sobre artrite (rheumatoid arthritis)",
+      "count": 1
     }
   ],
   "/drugs/atenolol/": [
     {
       "url": "/news/atenolol/",
       "title": "Notícias sobre ATENOLOL",
-      "count": 69
+      "count": 71
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/heart-disease/",
@@ -183,12 +200,12 @@
     {
       "url": "/news/avibactam/",
       "title": "Notícias sobre Avibactam",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -212,12 +229,12 @@
     {
       "url": "/news/azithromycin/",
       "title": "Notícias sobre Azithromycin",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -229,12 +246,12 @@
     {
       "url": "/news/aztreonam/",
       "title": "Notícias sobre Aztreonam",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -258,12 +275,12 @@
     {
       "url": "/news/baclofen/",
       "title": "Notícias sobre Baclofen",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -275,12 +292,12 @@
     {
       "url": "/news/basiliximab/",
       "title": "Notícias sobre Basiliximab",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -292,12 +309,12 @@
     {
       "url": "/news/bevacizumab/",
       "title": "Notícias sobre Bevacizumab",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -321,12 +338,12 @@
     {
       "url": "/news/bisoprolol/",
       "title": "Notícias sobre BISOPROLOL",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -355,17 +372,22 @@
     {
       "url": "/news/cabazitaxel/",
       "title": "Notícias sobre Cabazitaxel",
-      "count": 67
+      "count": 70
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/female-breast-carcinoma/",
       "title": "Notícias sobre câncer de mama (female breast carcinoma)",
-      "count": 3
+      "count": 4
+    },
+    {
+      "url": "/news/rheumatoid-arthritis/",
+      "title": "Notícias sobre artrite (rheumatoid arthritis)",
+      "count": 1
     },
     {
       "url": "/news/tumor/",
@@ -373,16 +395,28 @@
       "count": 1
     }
   ],
+  "/drugs/cabotegravir/": [
+    {
+      "url": "/news/cabotegravir/",
+      "title": "Notícias sobre Cabotegravir",
+      "count": 1
+    },
+    {
+      "url": "/news/rheumatoid-arthritis/",
+      "title": "Notícias sobre artrite (rheumatoid arthritis)",
+      "count": 1
+    }
+  ],
   "/drugs/calcipotriol/": [
     {
       "url": "/news/calcipotriol/",
       "title": "Notícias sobre CALCIPOTRIOL",
-      "count": 73
+      "count": 75
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/menopause/",
@@ -399,17 +433,17 @@
     {
       "url": "/news/calcium/",
       "title": "Notícias sobre Calcium",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/female-breast-carcinoma/",
       "title": "Notícias sobre câncer de mama (female breast carcinoma)",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/tumor/",
@@ -433,12 +467,12 @@
     {
       "url": "/news/capecitabine/",
       "title": "Notícias sobre Capecitabine",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -450,12 +484,12 @@
     {
       "url": "/news/captopril/",
       "title": "Notícias sobre CAPTOPRIL",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -467,12 +501,12 @@
     {
       "url": "/news/carbamazepine/",
       "title": "Notícias sobre CARBAMAZEPINE",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -496,17 +530,17 @@
     {
       "url": "/news/carboplatin/",
       "title": "Notícias sobre Carboplatin",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/female-breast-carcinoma/",
       "title": "Notícias sobre câncer de mama (female breast carcinoma)",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/tumor/",
@@ -533,12 +567,12 @@
     {
       "url": "/news/carvedilol/",
       "title": "Notícias sobre CARVEDILOL",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -550,12 +584,12 @@
     {
       "url": "/news/cefaclor/",
       "title": "Notícias sobre Cefaclor",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -567,12 +601,12 @@
     {
       "url": "/news/cefdinir/",
       "title": "Notícias sobre Cefdinir",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -584,12 +618,12 @@
     {
       "url": "/news/ceftriaxone/",
       "title": "Notícias sobre Ceftriaxone",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -601,24 +635,29 @@
     {
       "url": "/news/centella_asiatica/",
       "title": "Notícias sobre Centella asiatica",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/anxiety-disorder/",
       "title": "Notícias sobre ansiedade (anxiety disorder)",
       "count": 5
+    },
+    {
+      "url": "/news/rheumatoid-arthritis/",
+      "title": "Notícias sobre artrite (rheumatoid arthritis)",
+      "count": 1
     }
   ],
   "/drugs/chlorthalidone/": [
     {
       "url": "/news/chlorthalidone/",
       "title": "Notícias sobre CHLORTHALIDONE",
-      "count": 69
+      "count": 71
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/heart-disease/",
@@ -635,12 +674,12 @@
     {
       "url": "/news/ciprofloxacin/",
       "title": "Notícias sobre Ciprofloxacin",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -652,12 +691,12 @@
     {
       "url": "/news/clarithromycin/",
       "title": "Notícias sobre Clarithromycin",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -698,12 +737,12 @@
     {
       "url": "/news/clonazepam/",
       "title": "Notícias sobre CLONAZEPAM",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -715,6 +754,11 @@
     {
       "url": "/news/clopidogrel/",
       "title": "Notícias sobre Clopidogrel",
+      "count": 2
+    },
+    {
+      "url": "/news/rheumatoid-arthritis/",
+      "title": "Notícias sobre artrite (rheumatoid arthritis)",
       "count": 1
     },
     {
@@ -739,12 +783,12 @@
     {
       "url": "/news/colchicine/",
       "title": "Notícias sobre COLCHICINE",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -768,12 +812,12 @@
     {
       "url": "/news/cysteine/",
       "title": "Notícias sobre Cysteine",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -785,12 +829,12 @@
     {
       "url": "/news/dantrolene/",
       "title": "Notícias sobre Dantrolene",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -802,12 +846,12 @@
     {
       "url": "/news/deferasirox/",
       "title": "Notícias sobre DEFERASIROX",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -836,12 +880,12 @@
     {
       "url": "/news/docetaxel/",
       "title": "Notícias sobre Docetaxel",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/small-cell-lung-carcinoma/",
@@ -851,7 +895,7 @@
     {
       "url": "/news/female-breast-carcinoma/",
       "title": "Notícias sobre câncer de mama (female breast carcinoma)",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/tumor/",
@@ -863,12 +907,12 @@
     {
       "url": "/news/doxorubicin/",
       "title": "Notícias sobre Doxorubicin",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -892,12 +936,12 @@
     {
       "url": "/news/elafibranor/",
       "title": "Notícias sobre Elafibranor",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -933,12 +977,12 @@
     {
       "url": "/news/everolimus/",
       "title": "Notícias sobre Everolimus",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -950,12 +994,12 @@
     {
       "url": "/news/fluconazole/",
       "title": "Notícias sobre Fluconazole",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -979,24 +1023,29 @@
     {
       "url": "/news/gadobutrol/",
       "title": "Notícias sobre Gadobutrol",
-      "count": 4
+      "count": 5
     },
     {
       "url": "/news/cardiovascular/",
       "title": "Notícias sobre cardiovascular",
-      "count": 4
+      "count": 5
     }
   ],
   "/drugs/gadoteridol/": [
     {
       "url": "/news/gadoteridol/",
       "title": "Notícias sobre Gadoteridol",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/heart-disease/",
       "title": "Notícias sobre doença cardíaca (heart_disease)",
       "count": 2
+    },
+    {
+      "url": "/news/rheumatoid-arthritis/",
+      "title": "Notícias sobre artrite (rheumatoid arthritis)",
+      "count": 1
     },
     {
       "url": "/news/osteoarthritis/",
@@ -1025,12 +1074,12 @@
     {
       "url": "/news/gefitinib/",
       "title": "Notícias sobre Gefitinib",
-      "count": 84
+      "count": 86
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/dementia/",
@@ -1047,17 +1096,17 @@
     {
       "url": "/news/gemcitabine/",
       "title": "Notícias sobre Gemcitabine",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/female-breast-carcinoma/",
       "title": "Notícias sobre câncer de mama (female breast carcinoma)",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/tumor/",
@@ -1084,12 +1133,12 @@
     {
       "url": "/news/gestodene/",
       "title": "Notícias sobre Gestodene",
-      "count": 69
+      "count": 71
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/heart-disease/",
@@ -1118,12 +1167,12 @@
     {
       "url": "/news/hesperidin/",
       "title": "Notícias sobre Hesperidin",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -1135,12 +1184,12 @@
     {
       "url": "/news/imatinib/",
       "title": "Notícias sobre Imatinib",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -1152,12 +1201,12 @@
     {
       "url": "/news/imiglucerase/",
       "title": "Notícias sobre Imiglucerase",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -1181,6 +1230,11 @@
     {
       "url": "/news/iodixanol/",
       "title": "Notícias sobre Iodixanol",
+      "count": 2
+    },
+    {
+      "url": "/news/rheumatoid-arthritis/",
+      "title": "Notícias sobre artrite (rheumatoid arthritis)",
       "count": 1
     },
     {
@@ -1193,17 +1247,17 @@
     {
       "url": "/news/iopamidol/",
       "title": "Notícias sobre Iopamidol",
-      "count": 69
+      "count": 71
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/female-breast-carcinoma/",
       "title": "Notícias sobre câncer de mama (female breast carcinoma)",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/heart-disease/",
@@ -1220,6 +1274,11 @@
     {
       "url": "/news/ioversol/",
       "title": "Notícias sobre Ioversol",
+      "count": 2
+    },
+    {
+      "url": "/news/rheumatoid-arthritis/",
+      "title": "Notícias sobre artrite (rheumatoid arthritis)",
       "count": 1
     },
     {
@@ -1232,12 +1291,12 @@
     {
       "url": "/news/irbesartan/",
       "title": "Notícias sobre IRBESARTAN",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -1249,12 +1308,12 @@
     {
       "url": "/news/isotretinoin/",
       "title": "Notícias sobre ISOTRETINOIN",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -1278,12 +1337,12 @@
     {
       "url": "/news/lactulose/",
       "title": "Notícias sobre LACTULOSE",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -1295,12 +1354,12 @@
     {
       "url": "/news/lamotrigine/",
       "title": "Notícias sobre LAMOTRIGINE",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -1324,12 +1383,12 @@
     {
       "url": "/news/letermovir/",
       "title": "Notícias sobre Letermovir",
-      "count": 73
+      "count": 75
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/herpes-zoster/",
@@ -1356,12 +1415,12 @@
     {
       "url": "/news/letrozole/",
       "title": "Notícias sobre Letrozole",
-      "count": 73
+      "count": 75
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/menopause/",
@@ -1371,7 +1430,7 @@
     {
       "url": "/news/female-breast-carcinoma/",
       "title": "Notícias sobre câncer de mama (female breast carcinoma)",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/tumor/",
@@ -1400,12 +1459,12 @@
     {
       "url": "/news/levofloxacin/",
       "title": "Notícias sobre Levofloxacin",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -1417,12 +1476,12 @@
     {
       "url": "/news/lisinopril/",
       "title": "Notícias sobre LISINOPRIL",
-      "count": 69
+      "count": 71
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/heart-disease/",
@@ -1439,12 +1498,12 @@
     {
       "url": "/news/lorazepam/",
       "title": "Notícias sobre LORAZEPAM",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -1452,28 +1511,57 @@
       "count": 1
     }
   ],
+  "/drugs/lornoxicam/": [
+    {
+      "url": "/news/lornoxicam/",
+      "title": "Notícias sobre Lornoxicam",
+      "count": 1
+    },
+    {
+      "url": "/news/rheumatoid-arthritis/",
+      "title": "Notícias sobre artrite (rheumatoid arthritis)",
+      "count": 1
+    }
+  ],
   "/drugs/lumacaftor/": [
     {
       "url": "/news/lumacaftor/",
       "title": "Notícias sobre Lumacaftor",
-      "count": 2
+      "count": 3
     },
     {
       "url": "/news/heart-disease/",
       "title": "Notícias sobre doença cardíaca (heart_disease)",
       "count": 2
+    },
+    {
+      "url": "/news/rheumatoid-arthritis/",
+      "title": "Notícias sobre artrite (rheumatoid arthritis)",
+      "count": 1
+    }
+  ],
+  "/drugs/magnesium/": [
+    {
+      "url": "/news/magnesium/",
+      "title": "Notícias sobre Magnesium",
+      "count": 1
+    },
+    {
+      "url": "/news/rheumatoid-arthritis/",
+      "title": "Notícias sobre artrite (rheumatoid arthritis)",
+      "count": 1
     }
   ],
   "/drugs/mannitol/": [
     {
       "url": "/news/mannitol/",
       "title": "Notícias sobre Mannitol",
-      "count": 69
+      "count": 71
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/heart-disease/",
@@ -1490,12 +1578,12 @@
     {
       "url": "/news/megestrol_acetate/",
       "title": "Notícias sobre Megestrol acetate",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -1507,24 +1595,41 @@
     {
       "url": "/news/memantine/",
       "title": "Notícias sobre Memantine",
-      "count": 2
+      "count": 3
     },
     {
       "url": "/news/heart-disease/",
       "title": "Notícias sobre doença cardíaca (heart_disease)",
       "count": 2
+    },
+    {
+      "url": "/news/rheumatoid-arthritis/",
+      "title": "Notícias sobre artrite (rheumatoid arthritis)",
+      "count": 1
+    }
+  ],
+  "/drugs/metamizole/": [
+    {
+      "url": "/news/metamizole/",
+      "title": "Notícias sobre Metamizole",
+      "count": 1
+    },
+    {
+      "url": "/news/rheumatoid-arthritis/",
+      "title": "Notícias sobre artrite (rheumatoid arthritis)",
+      "count": 1
     }
   ],
   "/drugs/methotrexate/": [
     {
       "url": "/news/methotrexate/",
       "title": "Notícias sobre Methotrexate",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/small-cell-lung-carcinoma/",
@@ -1565,12 +1670,12 @@
     {
       "url": "/news/mometasone/",
       "title": "Notícias sobre Mometasone",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -1578,16 +1683,33 @@
       "count": 1
     }
   ],
+  "/drugs/nimesulide/": [
+    {
+      "url": "/news/nimesulide/",
+      "title": "Notícias sobre Nimesulide",
+      "count": 1
+    },
+    {
+      "url": "/news/rheumatoid-arthritis/",
+      "title": "Notícias sobre artrite (rheumatoid arthritis)",
+      "count": 1
+    }
+  ],
   "/drugs/nomegestrol-acetate/": [
     {
       "url": "/news/nomegestrol_acetate/",
       "title": "Notícias sobre Nomegestrol acetate",
-      "count": 67
+      "count": 70
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
+    },
+    {
+      "url": "/news/rheumatoid-arthritis/",
+      "title": "Notícias sobre artrite (rheumatoid arthritis)",
+      "count": 1
     },
     {
       "url": "/news/tumor/",
@@ -1599,12 +1721,12 @@
     {
       "url": "/news/norfloxacin/",
       "title": "Notícias sobre Norfloxacin",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -1657,17 +1779,17 @@
     {
       "url": "/news/oxaliplatin/",
       "title": "Notícias sobre Oxaliplatin",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/female-breast-carcinoma/",
       "title": "Notícias sobre câncer de mama (female breast carcinoma)",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/tumor/",
@@ -1679,12 +1801,12 @@
     {
       "url": "/news/paclitaxel/",
       "title": "Notícias sobre Paclitaxel",
-      "count": 73
+      "count": 75
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/menopause/",
@@ -1694,7 +1816,7 @@
     {
       "url": "/news/female-breast-carcinoma/",
       "title": "Notícias sobre câncer de mama (female breast carcinoma)",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/tumor/",
@@ -1706,12 +1828,12 @@
     {
       "url": "/news/pegaspargase/",
       "title": "Notícias sobre PEGASPARGASE",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -1723,12 +1845,12 @@
     {
       "url": "/news/penciclovir/",
       "title": "Notícias sobre Penciclovir",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -1740,12 +1862,12 @@
     {
       "url": "/news/phenobarbital/",
       "title": "Notícias sobre Phenobarbital",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -1769,12 +1891,12 @@
     {
       "url": "/news/phenytoin/",
       "title": "Notícias sobre PHENYTOIN",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -1786,12 +1908,12 @@
     {
       "url": "/news/plerixafor/",
       "title": "Notícias sobre PLERIXAFOR",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -1803,12 +1925,12 @@
     {
       "url": "/news/polymyxin_b/",
       "title": "Notícias sobre Polymyxin B",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -1837,17 +1959,22 @@
     {
       "url": "/news/potassium_sulfate/",
       "title": "Notícias sobre Potassium sulfate",
-      "count": 69
+      "count": 72
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/heart-disease/",
       "title": "Notícias sobre doença cardíaca (heart_disease)",
       "count": 2
+    },
+    {
+      "url": "/news/rheumatoid-arthritis/",
+      "title": "Notícias sobre artrite (rheumatoid arthritis)",
+      "count": 1
     },
     {
       "url": "/news/tumor/",
@@ -1859,12 +1986,12 @@
     {
       "url": "/news/potassium/",
       "title": "Notícias sobre Potassium",
-      "count": 69
+      "count": 71
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/heart-disease/",
@@ -1881,24 +2008,29 @@
     {
       "url": "/news/prasugrel/",
       "title": "Notícias sobre Prasugrel",
-      "count": 2
+      "count": 3
     },
     {
       "url": "/news/heart-disease/",
       "title": "Notícias sobre doença cardíaca (heart_disease)",
       "count": 2
+    },
+    {
+      "url": "/news/rheumatoid-arthritis/",
+      "title": "Notícias sobre artrite (rheumatoid arthritis)",
+      "count": 1
     }
   ],
   "/drugs/praziquantel/": [
     {
       "url": "/news/praziquantel/",
       "title": "Notícias sobre Praziquantel",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -1922,12 +2054,12 @@
     {
       "url": "/news/ramipril/",
       "title": "Notícias sobre RAMIPRIL",
-      "count": 69
+      "count": 71
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/heart-disease/",
@@ -1944,12 +2076,12 @@
     {
       "url": "/news/relebactam/",
       "title": "Notícias sobre Relebactam",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -1961,16 +2093,28 @@
     {
       "url": "/news/risdiplam/",
       "title": "Notícias sobre Risdiplam",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
       "title": "Notícias sobre tumor",
+      "count": 1
+    }
+  ],
+  "/drugs/rivaroxaban/": [
+    {
+      "url": "/news/rivaroxaban/",
+      "title": "Notícias sobre Rivaroxaban",
+      "count": 1
+    },
+    {
+      "url": "/news/rheumatoid-arthritis/",
+      "title": "Notícias sobre artrite (rheumatoid arthritis)",
       "count": 1
     }
   ],
@@ -1995,12 +2139,12 @@
     {
       "url": "/news/secnidazole/",
       "title": "Notícias sobre Secnidazole",
-      "count": 73
+      "count": 75
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/menopause/",
@@ -2017,24 +2161,29 @@
     {
       "url": "/news/selenium/",
       "title": "Notícias sobre Selenium",
-      "count": 2
+      "count": 3
     },
     {
       "url": "/news/heart-disease/",
       "title": "Notícias sobre doença cardíaca (heart_disease)",
       "count": 2
+    },
+    {
+      "url": "/news/rheumatoid-arthritis/",
+      "title": "Notícias sobre artrite (rheumatoid arthritis)",
+      "count": 1
     }
   ],
   "/drugs/serine/": [
     {
       "url": "/news/serine/",
       "title": "Notícias sobre Serine",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -2046,12 +2195,12 @@
     {
       "url": "/news/sirolimus/",
       "title": "Notícias sobre Sirolimus",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -2063,17 +2212,17 @@
     {
       "url": "/news/sorafenib/",
       "title": "Notícias sobre Sorafenib",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/female-breast-carcinoma/",
       "title": "Notícias sobre câncer de mama (female breast carcinoma)",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/tumor/",
@@ -2085,12 +2234,12 @@
     {
       "url": "/news/sorbitol/",
       "title": "Notícias sobre Sorbitol",
-      "count": 69
+      "count": 71
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/heart-disease/",
@@ -2119,12 +2268,12 @@
     {
       "url": "/news/tamoxifen/",
       "title": "Notícias sobre Tamoxifen",
-      "count": 73
+      "count": 75
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/menopause/",
@@ -2158,12 +2307,12 @@
     {
       "url": "/news/telmisartan/",
       "title": "Notícias sobre Telmisartan",
-      "count": 69
+      "count": 71
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/heart-disease/",
@@ -2180,12 +2329,12 @@
     {
       "url": "/news/tenecteplase/",
       "title": "Notícias sobre TENECTEPLASE",
-      "count": 6
+      "count": 7
     },
     {
       "url": "/news/cardiovascular/",
       "title": "Notícias sobre cardiovascular",
-      "count": 4
+      "count": 5
     },
     {
       "url": "/news/heart-disease/",
@@ -2193,16 +2342,28 @@
       "count": 2
     }
   ],
+  "/drugs/tenoxicam/": [
+    {
+      "url": "/news/tenoxicam/",
+      "title": "Notícias sobre Tenoxicam",
+      "count": 1
+    },
+    {
+      "url": "/news/rheumatoid-arthritis/",
+      "title": "Notícias sobre artrite (rheumatoid arthritis)",
+      "count": 1
+    }
+  ],
   "/drugs/tetracycline/": [
     {
       "url": "/news/tetracycline/",
       "title": "Notícias sobre Tetracycline",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -2214,17 +2375,22 @@
     {
       "url": "/news/tezacaftor/",
       "title": "Notícias sobre Tezacaftor",
-      "count": 67
+      "count": 70
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/female-breast-carcinoma/",
       "title": "Notícias sobre câncer de mama (female breast carcinoma)",
-      "count": 3
+      "count": 4
+    },
+    {
+      "url": "/news/rheumatoid-arthritis/",
+      "title": "Notícias sobre artrite (rheumatoid arthritis)",
+      "count": 1
     },
     {
       "url": "/news/tumor/",
@@ -2236,12 +2402,12 @@
     {
       "url": "/news/thiamine/",
       "title": "Notícias sobre Thiamine",
-      "count": 6
+      "count": 7
     },
     {
       "url": "/news/cardiovascular/",
       "title": "Notícias sobre cardiovascular",
-      "count": 4
+      "count": 5
     },
     {
       "url": "/news/heart-disease/",
@@ -2253,24 +2419,24 @@
     {
       "url": "/news/ticagrelor/",
       "title": "Notícias sobre TICAGRELOR",
-      "count": 4
+      "count": 5
     },
     {
       "url": "/news/cardiovascular/",
       "title": "Notícias sobre cardiovascular",
-      "count": 4
+      "count": 5
     }
   ],
   "/drugs/tinidazole/": [
     {
       "url": "/news/tinidazole/",
       "title": "Notícias sobre Tinidazole",
-      "count": 73
+      "count": 75
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/menopause/",
@@ -2299,17 +2465,22 @@
     {
       "url": "/news/tocopherol/",
       "title": "Notícias sobre Tocopherol",
-      "count": 6
+      "count": 8
     },
     {
       "url": "/news/cardiovascular/",
       "title": "Notícias sobre cardiovascular",
-      "count": 4
+      "count": 5
     },
     {
       "url": "/news/heart-disease/",
       "title": "Notícias sobre doença cardíaca (heart_disease)",
       "count": 2
+    },
+    {
+      "url": "/news/rheumatoid-arthritis/",
+      "title": "Notícias sobre artrite (rheumatoid arthritis)",
+      "count": 1
     }
   ],
   "/drugs/tolnaftate/": [
@@ -2338,12 +2509,12 @@
     {
       "url": "/news/topiramate/",
       "title": "Notícias sobre TOPIRAMATE",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -2355,12 +2526,12 @@
     {
       "url": "/news/trastuzumab/",
       "title": "Notícias sobre Trastuzumab",
-      "count": 73
+      "count": 75
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/herpes-zoster/",
@@ -2387,12 +2558,12 @@
     {
       "url": "/news/travoprost/",
       "title": "Notícias sobre Travoprost",
-      "count": 4
+      "count": 5
     },
     {
       "url": "/news/cardiovascular/",
       "title": "Notícias sobre cardiovascular",
-      "count": 4
+      "count": 5
     }
   ],
   "/drugs/trimethoprim/": [
@@ -2407,16 +2578,28 @@
       "count": 2
     }
   ],
+  "/drugs/valganciclovir/": [
+    {
+      "url": "/news/valganciclovir/",
+      "title": "Notícias sobre Valganciclovir",
+      "count": 1
+    },
+    {
+      "url": "/news/rheumatoid-arthritis/",
+      "title": "Notícias sobre artrite (rheumatoid arthritis)",
+      "count": 1
+    }
+  ],
   "/drugs/valsartan/": [
     {
       "url": "/news/valsartan/",
       "title": "Notícias sobre VALSARTAN",
-      "count": 69
+      "count": 71
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/heart-disease/",
@@ -2433,12 +2616,12 @@
     {
       "url": "/news/vancomycin/",
       "title": "Notícias sobre Vancomycin",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -2450,12 +2633,12 @@
     {
       "url": "/news/venetoclax/",
       "title": "Notícias sobre Venetoclax",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
@@ -2467,12 +2650,12 @@
     {
       "url": "/news/vinblastine/",
       "title": "Notícias sobre Vinblastine",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
-      "count": 67
+      "count": 69
     },
     {
       "url": "/news/tumor/",
