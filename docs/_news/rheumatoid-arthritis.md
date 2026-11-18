@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre artrite (rheumatoid arthritis)"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre artrite (rheumatoid arthritis). 1 notícias, 27 medicamentos relacionados."
+description: "Notícias de saúde sobre artrite (rheumatoid arthritis). 2 notícias, 27 medicamentos relacionados."
 permalink: /news/rheumatoid-arthritis/
 last_modified_at: 2026-11-18
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre artrite (rheumatoid arthritis)?">
-<strong>artrite (rheumatoid arthritis)</strong> tem atualmente <strong>1 notícias</strong> e 27 medicamentos relacionados.
+<strong>artrite (rheumatoid arthritis)</strong> tem atualmente <strong>2 notícias</strong> e 27 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
@@ -53,13 +53,21 @@ Esta página reúne as notícias de saúde mais recentes sobre «artrite» e lis
 </ul>
 </div>
 
-## Notícias relacionadas (1)
+## Notícias relacionadas (2)
 
 ### [Exame na cabeça centenária de Jeremy Bentham revela artrite na mandíbula e problemas dentários - CNN Brasil](https://news.google.com/rss/articles/CBMizAFBVV95cUxOOWV0NzFKajN1T29CT1FQZ2k3cUFUTFJ1cVpsR0J5Zk44bW00TzVIWTFpTkNFd2RjWmFCS21hdkhydTdBTmF3c0REakJtaXlaZnFXSEE5SV9TNldnbURRcWdvTklwNXdZSzFhV2FWYkQ0SVU1Q3dEOFpJV2s3cVNYWWVZVS1yNE15a19oZVVHSXhDRFNoMkE0clUzY3VIRW0xZU5yMkFtWXRzUTlvelFWVW8zTEVzdlAtb3YtNFoxQUt3T1ZkQ1FBdV9uTTU?oc=5)
 
 2026-11-18
 
 Fonte: [CNN Brasil](https://news.google.com/rss/articles/CBMizAFBVV95cUxOOWV0NzFKajN1T29CT1FQZ2k3cUFUTFJ1cVpsR0J5Zk44bW00TzVIWTFpTkNFd2RjWmFCS21hdkhydTdBTmF3c0REakJtaXlaZnFXSEE5SV9TNldnbURRcWdvTklwNXdZSzFhV2FWYkQ0SVU1Q3dEOFpJV2s3cVNYWWVZVS1yNE15a19oZVVHSXhDRFNoMkE0clUzY3VIRW0xZU5yMkFtWXRzUTlvelFWVW8zTEVzdlAtb3YtNFoxQUt3T1ZkQ1FBdV9uTTU?oc=5)
+
+---
+
+### [Além da dor: avanços no tratamento da artrite reumatoide ajudam milhões de brasileiros a recuperar qualidade de vida - Diário PcD](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOUdCT2JNeVpuUGFZa1pTa0JZZTlWWEFLWVZEUTA0Rnl1Qy1UZDhzZ0EyMG5NZlRJNEVzUzFHdjF1RVJHSDkwU1c0cUgwakFUWlI0VVl6M1FpLS1sdTJ3dFN6djVnRE5BOUdhTDlkbnNhY1V6Z2xxQ0pTUlEwVHlqTk5CRVlDZmpKR0ZBbUl1bnk0S1IzZHk5Z2g4SG1kYlNCdG03ZkJTajFvUTUxNFgtMUdUVUNxLTZacUh3UHFiNzk5anppb2FXeC05eUl3RkhTbkZCQllPSmE?oc=5)
+
+2026-11-16
+
+Fonte: [Diário PcD](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOUdCT2JNeVpuUGFZa1pTa0JZZTlWWEFLWVZEUTA0Rnl1Qy1UZDhzZ0EyMG5NZlRJNEVzUzFHdjF1RVJHSDkwU1c0cUgwakFUWlI0VVl6M1FpLS1sdTJ3dFN6djVnRE5BOUdhTDlkbnNhY1V6Z2xxQ0pTUlEwVHlqTk5CRVlDZmpKR0ZBbUl1bnk0S1IzZHk5Z2g4SG1kYlNCdG03ZkJTajFvUTUxNFgtMUdUVUNxLTZacUh3UHFiNzk5anppb2FXeC05eUl3RkhTbkZCQllPSmE?oc=5)
 
 ---
 

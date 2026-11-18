@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Potassium sulfate?">
-<strong>Potassium sulfate</strong> tem atualmente <strong>72 notícias</strong> e 0 indicações previstas.
+<strong>Potassium sulfate</strong> tem atualmente <strong>74 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ Esta página combina as indicações previstas por IA para Potassium sulfate com
 <p><a href="{{ '/drugs/potassium-sulfate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (72)
+## Notícias relacionadas (74)
 
 ### [Exame na cabeça centenária de Jeremy Bentham revela artrite na mandíbula e problemas dentários - CNN Brasil](https://news.google.com/rss/articles/CBMizAFBVV95cUxOOWV0NzFKajN1T29CT1FQZ2k3cUFUTFJ1cVpsR0J5Zk44bW00TzVIWTFpTkNFd2RjWmFCS21hdkhydTdBTmF3c0REakJtaXlaZnFXSEE5SV9TNldnbURRcWdvTklwNXdZSzFhV2FWYkQ0SVU1Q3dEOFpJV2s3cVNYWWVZVS1yNE15a19oZVVHSXhDRFNoMkE0clUzY3VIRW0xZU5yMkFtWXRzUTlvelFWVW8zTEVzdlAtb3YtNFoxQUt3T1ZkQ1FBdV9uTTU?oc=5)
 
@@ -44,6 +44,14 @@ Fonte: [CNN Brasil](https://news.google.com/rss/articles/CBMizAFBVV95cUxOOWV0NzF
 2026-11-18 <span class="news-indication-tag">câncer</span>
 
 Fonte: [G1](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVHZPUTFhTXVSU3g4dUt0NmlvSW9NQ1hsbVM1SXRpQWwzdUFqSlZzWHNnNzdyM0h6UnR0bnA4dkpiYVdnRm5aMHhRaFdCV1paSENNak1OcmVUV3ZON2JocGdNaWh2NWhaTTQ2X2k5ZC1TU2RFUmU5dWZ3dC0wMFV5UmFDQ25uN0VlTndXMEgxZWNUY1JNV2ZWeWhrUXFfN3Q5TFJKVW51UmVOZGxnZEREVzBLdEdxcm9VUWhOSmJnUnBEemtUQldIazdvY0RoQk5JY3pQMGNsUUpQdUJEY3EzVTBqR2FJVElQNTBheG90WnBPdFRnSU5kbdIBhwJBVV95cUxPcnF0UGJMLW5FTmhhVlVtWHhWczBweDNManVicUdLazk3aWZLYXRTZ25naGcwLXQtZG9NTVpaV1NsZ1pTRkRXeDQ5Q0luUUxQX3J3a0VjcmxRWG5wbFVycFJIVFRkOURyWlFnQlg4Y3JBaTNDUU9xMlYwSjhGWlRZdjZvS0otaXVuV0o2aF9TckczaG5JTHFabDVkNmhNbnZYZzgxTUk2ajNwVWgyV242Ym9qUDBzbFNoRFN5Y0djNUFKUnZyRXp2cGdfeFZUSk5zUkpWamR0V2gzWXhjWDVUZnpqWmpqbXRlMEZsTEJTWWJPbXlQZnM0RVUxUzRhcVg1WjY4bUN5dw?oc=5)
+
+---
+
+### [Primeira diretriz conjunta sobre câncer de próstata orienta rastreamento aos 50 anos - Folha de S.Paulo](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPT0hwMjhPMlM5NF9vSjJHckhDWlhvd1ZXR2cwYXJUaHZKc0V2WjlEY2lRdTJyTVhPZjJfNG0wV0RTNU9xRDhaTWJaeGkwY0RmblQ3LVBIcTYtRzJPbjF6WGZHQ0tSOFh0VzA4OHhHbVRoeF9MU3dPZ2FEa3RJZXQ3M0p0aHROUGNoZlh6eUpqbm5YWWY1SklibEROLW0ySlRKSEVwdVVQdl9ZdFA3TUlGQl9vb1M0cFNxS1VNZjJOTHlFLU5RM0JtUFFSaVBGUGZDVVhhWHdUQzk2cXZaUWc?oc=5)
+
+2026-11-17 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Folha de S.Paulo](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPT0hwMjhPMlM5NF9vSjJHckhDWlhvd1ZXR2cwYXJUaHZKc0V2WjlEY2lRdTJyTVhPZjJfNG0wV0RTNU9xRDhaTWJaeGkwY0RmblQ3LVBIcTYtRzJPbjF6WGZHQ0tSOFh0VzA4OHhHbVRoeF9MU3dPZ2FEa3RJZXQ3M0p0aHROUGNoZlh6eUpqbm5YWWY1SklibEROLW0ySlRKSEVwdVVQdl9ZdFA3TUlGQl9vb1M0cFNxS1VNZjJOTHlFLU5RM0JtUFFSaVBGUGZDVVhhWHdUQzk2cXZaUWc?oc=5)
 
 ---
 
@@ -92,6 +100,14 @@ Fonte: [G1](https://news.google.com/rss/articles/CBMihAJBVV95cUxNTldGMjFhMHNkUm9
 2026-11-16 <span class="news-indication-tag">câncer</span>
 
 Fonte: [CNN Brasil](https://news.google.com/rss/articles/CBMirgFBVV95cUxQZGN2UnNsZEZhZ2RISHdEem9WUWowNFZhTTl4bzhTTmlmSGIzSXo1Z1Zjai12NW1JcGE4RGQ1RWdRZkU0OXNhUHE0aG9lb0J1ZnhpVG1ja3VHTWZtTWVmQV9EV3hPbkZ0RnpPQXJreWZLbEVkdmpxNF91c2RreDU4VEV2a2R4UkNiVWtlay1sdlF4YU1oYXZMVDhvcXNMRHBsOVdhb1VJaU9QdVNzalE?oc=5)
+
+---
+
+### [Além da dor: avanços no tratamento da artrite reumatoide ajudam milhões de brasileiros a recuperar qualidade de vida - Diário PcD](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOUdCT2JNeVpuUGFZa1pTa0JZZTlWWEFLWVZEUTA0Rnl1Qy1UZDhzZ0EyMG5NZlRJNEVzUzFHdjF1RVJHSDkwU1c0cUgwakFUWlI0VVl6M1FpLS1sdTJ3dFN6djVnRE5BOUdhTDlkbnNhY1V6Z2xxQ0pTUlEwVHlqTk5CRVlDZmpKR0ZBbUl1bnk0S1IzZHk5Z2g4SG1kYlNCdG03ZkJTajFvUTUxNFgtMUdUVUNxLTZacUh3UHFiNzk5anppb2FXeC05eUl3RkhTbkZCQllPSmE?oc=5)
+
+2026-11-16 <span class="news-indication-tag">artrite reumatoide</span> <span class="news-indication-tag">artrite</span>
+
+Fonte: [Diário PcD](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOUdCT2JNeVpuUGFZa1pTa0JZZTlWWEFLWVZEUTA0Rnl1Qy1UZDhzZ0EyMG5NZlRJNEVzUzFHdjF1RVJHSDkwU1c0cUgwakFUWlI0VVl6M1FpLS1sdTJ3dFN6djVnRE5BOUdhTDlkbnNhY1V6Z2xxQ0pTUlEwVHlqTk5CRVlDZmpKR0ZBbUl1bnk0S1IzZHk5Z2g4SG1kYlNCdG03ZkJTajFvUTUxNFgtMUdUVUNxLTZacUh3UHFiNzk5anppb2FXeC05eUl3RkhTbkZCQllPSmE?oc=5)
 
 ---
 

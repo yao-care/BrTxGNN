@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Phenylbutazone. 3 indicações previstas."
 permalink: /news/phenylbutazone/
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-18
 ---
 
 # Notícias sobre Phenylbutazone
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Phenylbutazone?">
-<strong>Phenylbutazone</strong> tem atualmente <strong>1 notícias</strong> e 3 indicações previstas.
+<strong>Phenylbutazone</strong> tem atualmente <strong>2 notícias</strong> e 3 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ Esta página combina as indicações previstas por IA para Phenylbutazone com as
 <p><a href="{{ '/drugs/phenylbutazone/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (1)
+## Notícias relacionadas (2)
+
+### [Além da dor: avanços no tratamento da artrite reumatoide ajudam milhões de brasileiros a recuperar qualidade de vida - Diário PcD](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOUdCT2JNeVpuUGFZa1pTa0JZZTlWWEFLWVZEUTA0Rnl1Qy1UZDhzZ0EyMG5NZlRJNEVzUzFHdjF1RVJHSDkwU1c0cUgwakFUWlI0VVl6M1FpLS1sdTJ3dFN6djVnRE5BOUdhTDlkbnNhY1V6Z2xxQ0pTUlEwVHlqTk5CRVlDZmpKR0ZBbUl1bnk0S1IzZHk5Z2g4SG1kYlNCdG03ZkJTajFvUTUxNFgtMUdUVUNxLTZacUh3UHFiNzk5anppb2FXeC05eUl3RkhTbkZCQllPSmE?oc=5)
+
+2026-11-16 <span class="news-indication-tag">artrite reumatoide</span> <span class="news-indication-tag">artrite</span>
+
+Fonte: [Diário PcD](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOUdCT2JNeVpuUGFZa1pTa0JZZTlWWEFLWVZEUTA0Rnl1Qy1UZDhzZ0EyMG5NZlRJNEVzUzFHdjF1RVJHSDkwU1c0cUgwakFUWlI0VVl6M1FpLS1sdTJ3dFN6djVnRE5BOUdhTDlkbnNhY1V6Z2xxQ0pTUlEwVHlqTk5CRVlDZmpKR0ZBbUl1bnk0S1IzZHk5Z2g4SG1kYlNCdG03ZkJTajFvUTUxNFgtMUdUVUNxLTZacUh3UHFiNzk5anppb2FXeC05eUl3RkhTbkZCQllPSmE?oc=5)
+
+---
 
 ### [Retatrutida reduz dores no joelho em pelo menos 50%, mostra estudo - CNN Brasil](https://news.google.com/rss/articles/CBMiogFBVV95cUxQRnN5YW5PNm9NNGVaZzhsMG1MWTZiTkhRb2EyOFZXTVhfYTc3V1FtLTF0ZXRHcEVSRzAxc01tTU1oM2ZIWjgyQjZDZERyUS0wdnhrQjZWNTNodXlfSDlmOGdVZVZzS0tsYk5velhMZEpqYzNyV25RZVZpWjhyZmZPYjRUZllkT0xNMFVFOURlV256dktNWFhRQkFBaXNoQWN5X0E?oc=5)
 

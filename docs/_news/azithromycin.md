@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Azithromycin?">
-<strong>Azithromycin</strong> tem atualmente <strong>69 notícias</strong> e 10 indicações previstas.
+<strong>Azithromycin</strong> tem atualmente <strong>70 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ Esta página combina as indicações previstas por IA para Azithromycin com as n
 <p><a href="{{ '/drugs/azithromycin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (69)
+## Notícias relacionadas (70)
 
 ### [Toque retal ainda é opção para detectar câncer de próstata, mas nova diretriz dá prioridade ao PSA e à ressonância](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVHZPUTFhTXVSU3g4dUt0NmlvSW9NQ1hsbVM1SXRpQWwzdUFqSlZzWHNnNzdyM0h6UnR0bnA4dkpiYVdnRm5aMHhRaFdCV1paSENNak1OcmVUV3ZON2JocGdNaWh2NWhaTTQ2X2k5ZC1TU2RFUmU5dWZ3dC0wMFV5UmFDQ25uN0VlTndXMEgxZWNUY1JNV2ZWeWhrUXFfN3Q5TFJKVW51UmVOZGxnZEREVzBLdEdxcm9VUWhOSmJnUnBEemtUQldIazdvY0RoQk5JY3pQMGNsUUpQdUJEY3EzVTBqR2FJVElQNTBheG90WnBPdFRnSU5kbdIBhwJBVV95cUxPcnF0UGJMLW5FTmhhVlVtWHhWczBweDNManVicUdLazk3aWZLYXRTZ25naGcwLXQtZG9NTVpaV1NsZ1pTRkRXeDQ5Q0luUUxQX3J3a0VjcmxRWG5wbFVycFJIVFRkOURyWlFnQlg4Y3JBaTNDUU9xMlYwSjhGWlRZdjZvS0otaXVuV0o2aF9TckczaG5JTHFabDVkNmhNbnZYZzgxTUk2ajNwVWgyV242Ym9qUDBzbFNoRFN5Y0djNUFKUnZyRXp2cGdfeFZUSk5zUkpWamR0V2gzWXhjWDVUZnpqWmpqbXRlMEZsTEJTWWJPbXlQZnM0RVUxUzRhcVg1WjY4bUN5dw?oc=5)
 
 2026-11-18 <span class="news-indication-tag">câncer</span>
 
 Fonte: [G1](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVHZPUTFhTXVSU3g4dUt0NmlvSW9NQ1hsbVM1SXRpQWwzdUFqSlZzWHNnNzdyM0h6UnR0bnA4dkpiYVdnRm5aMHhRaFdCV1paSENNak1OcmVUV3ZON2JocGdNaWh2NWhaTTQ2X2k5ZC1TU2RFUmU5dWZ3dC0wMFV5UmFDQ25uN0VlTndXMEgxZWNUY1JNV2ZWeWhrUXFfN3Q5TFJKVW51UmVOZGxnZEREVzBLdEdxcm9VUWhOSmJnUnBEemtUQldIazdvY0RoQk5JY3pQMGNsUUpQdUJEY3EzVTBqR2FJVElQNTBheG90WnBPdFRnSU5kbdIBhwJBVV95cUxPcnF0UGJMLW5FTmhhVlVtWHhWczBweDNManVicUdLazk3aWZLYXRTZ25naGcwLXQtZG9NTVpaV1NsZ1pTRkRXeDQ5Q0luUUxQX3J3a0VjcmxRWG5wbFVycFJIVFRkOURyWlFnQlg4Y3JBaTNDUU9xMlYwSjhGWlRZdjZvS0otaXVuV0o2aF9TckczaG5JTHFabDVkNmhNbnZYZzgxTUk2ajNwVWgyV242Ym9qUDBzbFNoRFN5Y0djNUFKUnZyRXp2cGdfeFZUSk5zUkpWamR0V2gzWXhjWDVUZnpqWmpqbXRlMEZsTEJTWWJPbXlQZnM0RVUxUzRhcVg1WjY4bUN5dw?oc=5)
+
+---
+
+### [Primeira diretriz conjunta sobre câncer de próstata orienta rastreamento aos 50 anos - Folha de S.Paulo](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPT0hwMjhPMlM5NF9vSjJHckhDWlhvd1ZXR2cwYXJUaHZKc0V2WjlEY2lRdTJyTVhPZjJfNG0wV0RTNU9xRDhaTWJaeGkwY0RmblQ3LVBIcTYtRzJPbjF6WGZHQ0tSOFh0VzA4OHhHbVRoeF9MU3dPZ2FEa3RJZXQ3M0p0aHROUGNoZlh6eUpqbm5YWWY1SklibEROLW0ySlRKSEVwdVVQdl9ZdFA3TUlGQl9vb1M0cFNxS1VNZjJOTHlFLU5RM0JtUFFSaVBGUGZDVVhhWHdUQzk2cXZaUWc?oc=5)
+
+2026-11-17 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Folha de S.Paulo](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPT0hwMjhPMlM5NF9vSjJHckhDWlhvd1ZXR2cwYXJUaHZKc0V2WjlEY2lRdTJyTVhPZjJfNG0wV0RTNU9xRDhaTWJaeGkwY0RmblQ3LVBIcTYtRzJPbjF6WGZHQ0tSOFh0VzA4OHhHbVRoeF9MU3dPZ2FEa3RJZXQ3M0p0aHROUGNoZlh6eUpqbm5YWWY1SklibEROLW0ySlRKSEVwdVVQdl9ZdFA3TUlGQl9vb1M0cFNxS1VNZjJOTHlFLU5RM0JtUFFSaVBGUGZDVVhhWHdUQzk2cXZaUWc?oc=5)
 
 ---
 
