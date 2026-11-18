@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Hesperidin. 5 indicações previstas."
 permalink: /news/hesperidin/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
 # Notícias sobre Hesperidin
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Hesperidin?">
-<strong>Hesperidin</strong> tem atualmente <strong>65 notícias</strong> e 5 indicações previstas.
+<strong>Hesperidin</strong> tem atualmente <strong>67 notícias</strong> e 5 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,7 @@ Esta página combina as indicações previstas por IA para Hesperidin com as not
 <p><a href="{{ '/drugs/hesperidin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (65)
+## Notícias relacionadas (67)
 
 ### [Novo método promete “turbo” ao sistema imunológico contra o câncer: entenda - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMivAFBVV95cUxQMTdYQXlHeUlHeDcxemJ1SlN0dVgtd1NPWGFvbGJPWmR5Vk1PYkpjSnNvcmxSeUZpQmZ5QlQwblcxZlFzd3ZyVWx0WktpRHBkUkFvNml6VkhXc1FpTTUxdy1rTmVOcDZ5cU1hUEtWRTh2VHRfQ3p1SVg5QktxRzNkTXFhSnRYOG5JeVdma21kN05fS3ZuWUpKZmJDdGpYN2NfVFZuRlg2bFpER05kV25TY1N1OTZyXzUxM09Xbg?oc=5)
 
@@ -68,6 +68,22 @@ Fonte: [Metrópoles](https://news.google.com/rss/articles/CBMiswFBVV95cUxNQlRaTE
 2026-11-17 <span class="news-indication-tag">câncer</span>
 
 Fonte: [G1](https://news.google.com/rss/articles/CBMihAJBVV95cUxNTldGMjFhMHNkUm90eWxyM01VUU05SHZHdDI1V3pJVHZjTXVrSzhqTTJxU3Z4VTk3c1ZFQkY4VjQwOXNOU2k0QUNXN0RTX2hjSjhtR29sSE11V0x5MlVmcjlWSlhqZFlIWVlISGpYTExwVzMwel9INzRrX2ZuYWo1NnQwLWpmM3hveWd0aGRnV2o3cFJuRFFhSUtnQ2RKX3pJUThrWTdKZlpoV0RqamlLbmgySzlTQkNLWGhPejhGbFZvMkdvSXFOald6N0s1cjVYNFpSSHJrajUxYmFrMHRNcXZGY3BQdHRMQ0IxUXdSU19EYWRnbGFORVFDcjhFdXNUcmhLWtIBkwJBVV95cUxPQ2RWWGdIZ0ZBdndqN1dXc2c3clBfN044MlBvaWctZ18wQmJIekZYZFVqdjNxS1NMSEtYMVp3NUJjZ0Z3QnN0bVFDdGlpeHZSOVFFbV9jZVZOcFAxWDJzMTZRVGRfUXV2MEpRWWNqTVg0ZlFBTmZpaEtJTVBEdlZSRUEzaHpnSzU3aTlvdGhrYUNPR09WdmVRZ1ZkVjdqNUtXeGRNZFZJMEdqRlJzN01YXzR4RDd1enhhS2NUalJ4M25mcWNjQVFiZnJiU1dUTkVQRFpGQ2xOMWJzMmEzOVFiUWFNRmU0ZTQ1Vk9RMG1nSmp5SWs0cXNGVDZteWlyVFQyZ1NXS05ma3owb3dOaTgzMVRnYw?oc=5)
+
+---
+
+### [Uma recomendação clara para os homens: façam o exame de câncer de próstata - CNN Brasil](https://news.google.com/rss/articles/CBMirgFBVV95cUxQZGN2UnNsZEZhZ2RISHdEem9WUWowNFZhTTl4bzhTTmlmSGIzSXo1Z1Zjai12NW1JcGE4RGQ1RWdRZkU0OXNhUHE0aG9lb0J1ZnhpVG1ja3VHTWZtTWVmQV9EV3hPbkZ0RnpPQXJreWZLbEVkdmpxNF91c2RreDU4VEV2a2R4UkNiVWtlay1sdlF4YU1oYXZMVDhvcXNMRHBsOVdhb1VJaU9QdVNzalE?oc=5)
+
+2026-11-16 <span class="news-indication-tag">câncer</span>
+
+Fonte: [CNN Brasil](https://news.google.com/rss/articles/CBMirgFBVV95cUxQZGN2UnNsZEZhZ2RISHdEem9WUWowNFZhTTl4bzhTTmlmSGIzSXo1Z1Zjai12NW1JcGE4RGQ1RWdRZkU0OXNhUHE0aG9lb0J1ZnhpVG1ja3VHTWZtTWVmQV9EV3hPbkZ0RnpPQXJreWZLbEVkdmpxNF91c2RreDU4VEV2a2R4UkNiVWtlay1sdlF4YU1oYXZMVDhvcXNMRHBsOVdhb1VJaU9QdVNzalE?oc=5)
+
+---
+
+### [Planos terão de cobrir teste genético e remédio para câncer de pulmão - UOL Notícias](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQblloVENqVnNCdzNUNVB6VndybHBKWkw0TFQ4WnhRQkZrQjRpZ3VJaU9CbkRNVGJFVmU3NEU3WTJWR3dNWHhtNnMzZFhSaXFtQVBvbFF2clRCSnd0bHpJeHJxbFNGdThSb3otUnpVaDJ6cUlocmhjMW8xSVFtR3BfckR0MXpVcG9IZ0pnbjdkdGVVZ0VjdGpoZGNTZkZnTFpHNV9SRVZtX3ZoQ0hUM1UyZTlfMGRReHpTcExkUUE4ZERlQk9icVhxNWRCTkR5Yy15ZVRjaTgyLWtvQUdl?oc=5)
+
+2026-11-16 <span class="news-indication-tag">câncer</span> <span class="news-indication-tag">câncer de pulmão</span>
+
+Fonte: [UOL Notícias](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQblloVENqVnNCdzNUNVB6VndybHBKWkw0TFQ4WnhRQkZrQjRpZ3VJaU9CbkRNVGJFVmU3NEU3WTJWR3dNWHhtNnMzZFhSaXFtQVBvbFF2clRCSnd0bHpJeHJxbFNGdThSb3otUnpVaDJ6cUlocmhjMW8xSVFtR3BfckR0MXpVcG9IZ0pnbjdkdGVVZ0VjdGpoZGNTZkZnTFpHNV9SRVZtX3ZoQ0hUM1UyZTlfMGRReHpTcExkUUE4ZERlQk9icVhxNWRCTkR5Yy15ZVRjaTgyLWtvQUdl?oc=5)
 
 ---
 

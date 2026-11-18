@@ -3,9 +3,9 @@ layout: default
 title: "Notícias sobre câncer de pulmão (small cell lung carcinoma)"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre câncer de pulmão (small cell lung carcinoma). 5 notícias, 2 medicamentos relacionados."
+description: "Notícias de saúde sobre câncer de pulmão (small cell lung carcinoma). 6 notícias, 2 medicamentos relacionados."
 permalink: /news/small-cell-lung-carcinoma/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
 # Notícias sobre câncer de pulmão (small cell lung carcinoma)
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre câncer de pulmão (small cell lung carcinoma)?">
-<strong>câncer de pulmão (small cell lung carcinoma)</strong> tem atualmente <strong>5 notícias</strong> e 2 medicamentos relacionados.
+<strong>câncer de pulmão (small cell lung carcinoma)</strong> tem atualmente <strong>6 notícias</strong> e 2 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,15 @@ Esta página reúne as notícias de saúde mais recentes sobre «câncer de pulm
 </ul>
 </div>
 
-## Notícias relacionadas (5)
+## Notícias relacionadas (6)
+
+### [Planos terão de cobrir teste genético e remédio para câncer de pulmão - UOL Notícias](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQblloVENqVnNCdzNUNVB6VndybHBKWkw0TFQ4WnhRQkZrQjRpZ3VJaU9CbkRNVGJFVmU3NEU3WTJWR3dNWHhtNnMzZFhSaXFtQVBvbFF2clRCSnd0bHpJeHJxbFNGdThSb3otUnpVaDJ6cUlocmhjMW8xSVFtR3BfckR0MXpVcG9IZ0pnbjdkdGVVZ0VjdGpoZGNTZkZnTFpHNV9SRVZtX3ZoQ0hUM1UyZTlfMGRReHpTcExkUUE4ZERlQk9icVhxNWRCTkR5Yy15ZVRjaTgyLWtvQUdl?oc=5)
+
+2026-11-16
+
+Fonte: [UOL Notícias](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQblloVENqVnNCdzNUNVB6VndybHBKWkw0TFQ4WnhRQkZrQjRpZ3VJaU9CbkRNVGJFVmU3NEU3WTJWR3dNWHhtNnMzZFhSaXFtQVBvbFF2clRCSnd0bHpJeHJxbFNGdThSb3otUnpVaDJ6cUlocmhjMW8xSVFtR3BfckR0MXpVcG9IZ0pnbjdkdGVVZ0VjdGpoZGNTZkZnTFpHNV9SRVZtX3ZoQ0hUM1UyZTlfMGRReHpTcExkUUE4ZERlQk9icVhxNWRCTkR5Yy15ZVRjaTgyLWtvQUdl?oc=5)
+
+---
 
 ### [ANS amplia cobertura obrigatória para tratamento de câncer de pulmão - Agência Brasil](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTVQzcjdGSkstYV9EUkNycFl5MFh1cWVRVlQxbzgtYUlOYWVXWl95M0Uzdk5DOVEzdUo1WGJzYWJwNGNZb3Q1dnhSRGJfSGp1LUZKOVN0V3dHcEJHRGpwUW9lWDBXQjVWU3JRNWVJU2ZCVmNRQVphelNUSWVBdHR1bUpTWnZmZmZzZEJFUWlsTFVtUmFaV3FRUVRPdUN5a1BFMDJ2LVdpU0JaVmtMbGJsVnM2UlI4TkVjNHkwRWRYVjY?oc=5)
 

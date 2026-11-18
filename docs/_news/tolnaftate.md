@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Tolnaftate. 0 indicações previstas."
 permalink: /news/tolnaftate/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
 # Notícias sobre Tolnaftate
@@ -74,7 +74,7 @@ Fonte: [O GLOBO](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaVl3TUxwaF
 
 ### [Inclusão de vacina contra herpes-zóster no SUS vai à Câmara](https://news.google.com/rss/articles/CBMitwFBVV95cUxQRFlPOE54ZUwtQjJSWWE1SC1SRm51SmVoY2N0dTdWc0ZZOGJXVWlmUDF1QlNsWHJfd091RkRiek9Rc1VWZlJRRm9KeEM2WU5ONzkxT0tVV1FiUzVmam5MQ2NBbEpRdzQwT2VycHlxVU1vOGlxSWZJWFZoYkl0MVluMkF3U0VjaW13aHJvYVh5WFF6ckdCMTVNSnZWVkZpWEp5LUVjTXUwRGJEalRtODZCV3JtSGllUHM?oc=5)
 
-2026-11-11 <span class="news-indication-tag">herpes-zóster</span>
+2026-11-11 <span class="news-indication-tag">herpes zoster</span> <span class="news-indication-tag">herpes-zóster</span> <span class="news-indication-tag">herpes zoster</span> <span class="news-indication-tag">herpes zoster</span>
 
 Fonte: [Senado](https://news.google.com/rss/articles/CBMitwFBVV95cUxQRFlPOE54ZUwtQjJSWWE1SC1SRm51SmVoY2N0dTdWc0ZZOGJXVWlmUDF1QlNsWHJfd091RkRiek9Rc1VWZlJRRm9KeEM2WU5ONzkxT0tVV1FiUzVmam5MQ2NBbEpRdzQwT2VycHlxVU1vOGlxSWZJWFZoYkl0MVluMkF3U0VjaW13aHJvYVh5WFF6ckdCMTVNSnZWVkZpWEp5LUVjTXUwRGJEalRtODZCV3JtSGllUHM?oc=5)
 
