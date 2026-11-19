@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Potassium sulfate. 0 indicações previstas."
 permalink: /news/potassium_sulfate/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-19
 ---
 
 # Notícias sobre Potassium sulfate
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Potassium sulfate?">
-<strong>Potassium sulfate</strong> tem atualmente <strong>74 notícias</strong> e 0 indicações previstas.
+<strong>Potassium sulfate</strong> tem atualmente <strong>77 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,23 @@ Esta página combina as indicações previstas por IA para Potassium sulfate com
 <p><a href="{{ '/drugs/potassium-sulfate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (74)
+## Notícias relacionadas (77)
+
+### [O teste inovador em que paciente engole esponja para detectar câncer](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbUwxSmRTdVRkS0dOdzJteENMOXNnZlBMOFNpbDMySnhVdENYZVpkUk1saEZMVUFKNHlueDNwNGY2YjRXRkhuMDF0dmRlX0xIejBJUDBzV1cwQnlpbkpxTFZiUzdSWS1lV1dlMk4zNXRHVmhlVlpobXptczJfaGw5V29LQUhFcjBPZXJXTGViY05BdmVndk9RTTljNGV4NW0yOW8zaHVaTDBDQmdSVi12ZWRLVXBCbVRCU0t2MWdMc1VwNXVEQm5GbjRGTDRxb2xWaUR1QXlzTlhRS09jZTlTSm9MZGo4X3lHamx4aDQ0T0s?oc=5)
+
+2026-11-18 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Terra](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbUwxSmRTdVRkS0dOdzJteENMOXNnZlBMOFNpbDMySnhVdENYZVpkUk1saEZMVUFKNHlueDNwNGY2YjRXRkhuMDF0dmRlX0xIejBJUDBzV1cwQnlpbkpxTFZiUzdSWS1lV1dlMk4zNXRHVmhlVlpobXptczJfaGw5V29LQUhFcjBPZXJXTGViY05BdmVndk9RTTljNGV4NW0yOW8zaHVaTDBDQmdSVi12ZWRLVXBCbVRCU0t2MWdMc1VwNXVEQm5GbjRGTDRxb2xWaUR1QXlzTlhRS09jZTlTSm9MZGo4X3lHamx4aDQ0T0s?oc=5)
+
+---
+
+### [Inglesa faz quimioterapia por 11 anos após diagnóstico errado de câncer - UOL Notícias](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZ1BKM1o5MXNCRDRJa2VrR2hNalowRm9FZzg5MUlDM3N4cU9qNm9MQVJELUotNnFlUmpJdEZ6Zk9NSXJwMm1JQXJSV3hLNGNiQnpiX1ltYTZuXzN3enR2TnB0OFBGdHFvTWhNT0l1R2V3VERXdzZNWnJlTm5fMHYzSUl3LVZVNU1ZTVhaVWI1b2htSUFYai0yaEt6OUtFX25Icy1rejl4a0xaYzFjSGE3QXgyXzZyUDc4YmdEZjFQQ0xtQ0FLWWNfZTBSNlQyMVpK?oc=5)
+
+2026-11-18 <span class="news-indication-tag">câncer</span>
+
+Fonte: [UOL Notícias](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZ1BKM1o5MXNCRDRJa2VrR2hNalowRm9FZzg5MUlDM3N4cU9qNm9MQVJELUotNnFlUmpJdEZ6Zk9NSXJwMm1JQXJSV3hLNGNiQnpiX1ltYTZuXzN3enR2TnB0OFBGdHFvTWhNT0l1R2V3VERXdzZNWnJlTm5fMHYzSUl3LVZVNU1ZTVhaVWI1b2htSUFYai0yaEt6OUtFX25Icy1rejl4a0xaYzFjSGE3QXgyXzZyUDc4YmdEZjFQQ0xtQ0FLWWNfZTBSNlQyMVpK?oc=5)
+
+---
 
 ### [Exame na cabeça centenária de Jeremy Bentham revela artrite na mandíbula e problemas dentários - CNN Brasil](https://news.google.com/rss/articles/CBMizAFBVV95cUxOOWV0NzFKajN1T29CT1FQZ2k3cUFUTFJ1cVpsR0J5Zk44bW00TzVIWTFpTkNFd2RjWmFCS21hdkhydTdBTmF3c0REakJtaXlaZnFXSEE5SV9TNldnbURRcWdvTklwNXdZSzFhV2FWYkQ0SVU1Q3dEOFpJV2s3cVNYWWVZVS1yNE15a19oZVVHSXhDRFNoMkE0clUzY3VIRW0xZU5yMkFtWXRzUTlvelFWVW8zTEVzdlAtb3YtNFoxQUt3T1ZkQ1FBdV9uTTU?oc=5)
 
@@ -180,6 +196,14 @@ Fonte: [O GLOBO](https://news.google.com/rss/articles/CBMiuAFBVV95cUxORDRaa3JMcl
 2026-11-14 <span class="news-indication-tag">câncer</span>
 
 Fonte: [UOL](https://news.google.com/rss/articles/CBMizwFBVV95cUxPY2s5Qk96R1lMckVFVWxsWDFyNTdvVjVNczZQN3AtWHlBbDZoTDF5enBVeEJFQVdhbk5rRDFPWTZ0eU5pNVpkVTNUOGwzbDdUbDJsWl81SzV2THB6Y0VMczByZEFGbDZmNGppN0hoejc0ZkxpSS1oZnFueTJWQ1RkdllISzUySWVDN0lubTBYS2NIODdVREszYS1ITnVyU2tnR2lueld0RmlJakhMb0ROblFOcmJrdVo4VzM1b25FaUhCYVZ5dkcwQS0xekt4YlE?oc=5)
+
+---
+
+### [Pesquisa da USP mostra que fibras de pitanga e cambuci podem combater células cancerígenas - Grafitti News](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMTJiNmN2NXNKQVhCTVF0bkZUNVpKWG9XaUtsWWhYWWE3UWc3dFg2VFdCNENnNWFMSlpwOVVjeGxOTVJpclRHRzZfTFhOZTlJek5USDI5dEdZVWpiRVQwRF96cXVCV01WSlNhRkg0TTNvLVZHNW1pRkR1NzdrWDQ4UklHY0NzQUJzR2Q1WHUtU1Z6YWQ5a2lXWC1SNXJweFFqYTNSYi1mVHNsbHR0d2o2Rlo2T1VRYXh6X2c4?oc=5)
+
+2026-11-14 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Grafitti News](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMTJiNmN2NXNKQVhCTVF0bkZUNVpKWG9XaUtsWWhYWWE3UWc3dFg2VFdCNENnNWFMSlpwOVVjeGxOTVJpclRHRzZfTFhOZTlJek5USDI5dEdZVWpiRVQwRF96cXVCV01WSlNhRkg0TTNvLVZHNW1pRkR1NzdrWDQ4UklHY0NzQUJzR2Q1WHUtU1Z6YWQ5a2lXWC1SNXJweFFqYTNSYi1mVHNsbHR0d2o2Rlo2T1VRYXh6X2c4?oc=5)
 
 ---
 

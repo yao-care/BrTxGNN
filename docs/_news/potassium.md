@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Potassium. 5 indicações previstas."
 permalink: /news/potassium/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-19
 ---
 
 # Notícias sobre Potassium
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Potassium?">
-<strong>Potassium</strong> tem atualmente <strong>72 notícias</strong> e 5 indicações previstas.
+<strong>Potassium</strong> tem atualmente <strong>75 notícias</strong> e 5 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,23 @@ Esta página combina as indicações previstas por IA para Potassium com as not�
 <p><a href="{{ '/drugs/potassium/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (72)
+## Notícias relacionadas (75)
+
+### [O teste inovador em que paciente engole esponja para detectar câncer](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbUwxSmRTdVRkS0dOdzJteENMOXNnZlBMOFNpbDMySnhVdENYZVpkUk1saEZMVUFKNHlueDNwNGY2YjRXRkhuMDF0dmRlX0xIejBJUDBzV1cwQnlpbkpxTFZiUzdSWS1lV1dlMk4zNXRHVmhlVlpobXptczJfaGw5V29LQUhFcjBPZXJXTGViY05BdmVndk9RTTljNGV4NW0yOW8zaHVaTDBDQmdSVi12ZWRLVXBCbVRCU0t2MWdMc1VwNXVEQm5GbjRGTDRxb2xWaUR1QXlzTlhRS09jZTlTSm9MZGo4X3lHamx4aDQ0T0s?oc=5)
+
+2026-11-18 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Terra](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbUwxSmRTdVRkS0dOdzJteENMOXNnZlBMOFNpbDMySnhVdENYZVpkUk1saEZMVUFKNHlueDNwNGY2YjRXRkhuMDF0dmRlX0xIejBJUDBzV1cwQnlpbkpxTFZiUzdSWS1lV1dlMk4zNXRHVmhlVlpobXptczJfaGw5V29LQUhFcjBPZXJXTGViY05BdmVndk9RTTljNGV4NW0yOW8zaHVaTDBDQmdSVi12ZWRLVXBCbVRCU0t2MWdMc1VwNXVEQm5GbjRGTDRxb2xWaUR1QXlzTlhRS09jZTlTSm9MZGo4X3lHamx4aDQ0T0s?oc=5)
+
+---
+
+### [Inglesa faz quimioterapia por 11 anos após diagnóstico errado de câncer - UOL Notícias](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZ1BKM1o5MXNCRDRJa2VrR2hNalowRm9FZzg5MUlDM3N4cU9qNm9MQVJELUotNnFlUmpJdEZ6Zk9NSXJwMm1JQXJSV3hLNGNiQnpiX1ltYTZuXzN3enR2TnB0OFBGdHFvTWhNT0l1R2V3VERXdzZNWnJlTm5fMHYzSUl3LVZVNU1ZTVhaVWI1b2htSUFYai0yaEt6OUtFX25Icy1rejl4a0xaYzFjSGE3QXgyXzZyUDc4YmdEZjFQQ0xtQ0FLWWNfZTBSNlQyMVpK?oc=5)
+
+2026-11-18 <span class="news-indication-tag">câncer</span>
+
+Fonte: [UOL Notícias](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZ1BKM1o5MXNCRDRJa2VrR2hNalowRm9FZzg5MUlDM3N4cU9qNm9MQVJELUotNnFlUmpJdEZ6Zk9NSXJwMm1JQXJSV3hLNGNiQnpiX1ltYTZuXzN3enR2TnB0OFBGdHFvTWhNT0l1R2V3VERXdzZNWnJlTm5fMHYzSUl3LVZVNU1ZTVhaVWI1b2htSUFYai0yaEt6OUtFX25Icy1rejl4a0xaYzFjSGE3QXgyXzZyUDc4YmdEZjFQQ0xtQ0FLWWNfZTBSNlQyMVpK?oc=5)
+
+---
 
 ### [Toque retal ainda é opção para detectar câncer de próstata, mas nova diretriz dá prioridade ao PSA e à ressonância](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVHZPUTFhTXVSU3g4dUt0NmlvSW9NQ1hsbVM1SXRpQWwzdUFqSlZzWHNnNzdyM0h6UnR0bnA4dkpiYVdnRm5aMHhRaFdCV1paSENNak1OcmVUV3ZON2JocGdNaWh2NWhaTTQ2X2k5ZC1TU2RFUmU5dWZ3dC0wMFV5UmFDQ25uN0VlTndXMEgxZWNUY1JNV2ZWeWhrUXFfN3Q5TFJKVW51UmVOZGxnZEREVzBLdEdxcm9VUWhOSmJnUnBEemtUQldIazdvY0RoQk5JY3pQMGNsUUpQdUJEY3EzVTBqR2FJVElQNTBheG90WnBPdFRnSU5kbdIBhwJBVV95cUxPcnF0UGJMLW5FTmhhVlVtWHhWczBweDNManVicUdLazk3aWZLYXRTZ25naGcwLXQtZG9NTVpaV1NsZ1pTRkRXeDQ5Q0luUUxQX3J3a0VjcmxRWG5wbFVycFJIVFRkOURyWlFnQlg4Y3JBaTNDUU9xMlYwSjhGWlRZdjZvS0otaXVuV0o2aF9TckczaG5JTHFabDVkNmhNbnZYZzgxTUk2ajNwVWgyV242Ym9qUDBzbFNoRFN5Y0djNUFKUnZyRXp2cGdfeFZUSk5zUkpWamR0V2gzWXhjWDVUZnpqWmpqbXRlMEZsTEJTWWJPbXlQZnM0RVUxUzRhcVg1WjY4bUN5dw?oc=5)
 
@@ -172,6 +188,14 @@ Fonte: [O GLOBO](https://news.google.com/rss/articles/CBMiuAFBVV95cUxORDRaa3JMcl
 2026-11-14 <span class="news-indication-tag">câncer</span>
 
 Fonte: [UOL](https://news.google.com/rss/articles/CBMizwFBVV95cUxPY2s5Qk96R1lMckVFVWxsWDFyNTdvVjVNczZQN3AtWHlBbDZoTDF5enBVeEJFQVdhbk5rRDFPWTZ0eU5pNVpkVTNUOGwzbDdUbDJsWl81SzV2THB6Y0VMczByZEFGbDZmNGppN0hoejc0ZkxpSS1oZnFueTJWQ1RkdllISzUySWVDN0lubTBYS2NIODdVREszYS1ITnVyU2tnR2lueld0RmlJakhMb0ROblFOcmJrdVo4VzM1b25FaUhCYVZ5dkcwQS0xekt4YlE?oc=5)
+
+---
+
+### [Pesquisa da USP mostra que fibras de pitanga e cambuci podem combater células cancerígenas - Grafitti News](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMTJiNmN2NXNKQVhCTVF0bkZUNVpKWG9XaUtsWWhYWWE3UWc3dFg2VFdCNENnNWFMSlpwOVVjeGxOTVJpclRHRzZfTFhOZTlJek5USDI5dEdZVWpiRVQwRF96cXVCV01WSlNhRkg0TTNvLVZHNW1pRkR1NzdrWDQ4UklHY0NzQUJzR2Q1WHUtU1Z6YWQ5a2lXWC1SNXJweFFqYTNSYi1mVHNsbHR0d2o2Rlo2T1VRYXh6X2c4?oc=5)
+
+2026-11-14 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Grafitti News](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMTJiNmN2NXNKQVhCTVF0bkZUNVpKWG9XaUtsWWhYWWE3UWc3dFg2VFdCNENnNWFMSlpwOVVjeGxOTVJpclRHRzZfTFhOZTlJek5USDI5dEdZVWpiRVQwRF96cXVCV01WSlNhRkg0TTNvLVZHNW1pRkR1NzdrWDQ4UklHY0NzQUJzR2Q1WHUtU1Z6YWQ5a2lXWC1SNXJweFFqYTNSYi1mVHNsbHR0d2o2Rlo2T1VRYXh6X2c4?oc=5)
 
 ---
 
