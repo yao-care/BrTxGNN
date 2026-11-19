@@ -1,6 +1,6 @@
 {
-  "total": 531,
-  "generated_at": "2026-11-19T06:10:22.468916",
+  "total": 521,
+  "generated_at": "2026-11-19T20:00:36.514008",
   "drugs": [
     {
       "name": "Abacavir Sulfate",
@@ -300,44 +300,6 @@
       "approved_indication": "ANTI-HELMINTICOS DO TRATO GASTRINTESTINAL"
     },
     {
-      "name": "Albuterol",
-      "file": "albuterol.md",
-      "evidence_level": "L5",
-      "indication_count": 8,
-      "predicted_indication": "",
-      "inn": "Salbutamol",
-      "predicted_indications": [
-        "papillary conjunctivitis",
-        "nasal cavity disease",
-        "pharyngitis",
-        "acute laryngopharyngitis",
-        "anaphylaxis",
-        "common cold",
-        "atopic conjunctivitis",
-        "anorectal stricture"
-      ],
-      "approved_indication": ""
-    },
-    {
-      "name": "Albuterol Sulfate",
-      "file": "albuterol_sulfate.md",
-      "evidence_level": "L5",
-      "indication_count": 8,
-      "predicted_indication": "",
-      "inn": "Salbutamol",
-      "predicted_indications": [
-        "papillary conjunctivitis",
-        "nasal cavity disease",
-        "pharyngitis",
-        "acute laryngopharyngitis",
-        "anaphylaxis",
-        "common cold",
-        "atopic conjunctivitis",
-        "anorectal stricture"
-      ],
-      "approved_indication": ""
-    },
-    {
       "name": "Alectinibe Hydrochloride",
       "file": "alectinibe_hydrochloride.md",
       "evidence_level": "L5",
@@ -538,22 +500,6 @@
       "approved_indication": ""
     },
     {
-      "name": "Amilorida Hydrochloride",
-      "file": "amilorida_hydrochloride.md",
-      "evidence_level": "L5",
-      "indication_count": 5,
-      "predicted_indication": "",
-      "inn": "Amiloride",
-      "predicted_indications": [
-        "malignant hypertensive renal disease",
-        "pulmonary hypertension owing to lung disease and/or hypoxia",
-        "pulmonary hypertension with unclear multifactorial mechanism",
-        "Braddock syndrome",
-        "chronic pulmonary heart disease"
-      ],
-      "approved_indication": ""
-    },
-    {
       "name": "Aminobenzoic Acid",
       "file": "aminobenzoic_acid.md",
       "evidence_level": "L5",
@@ -612,26 +558,6 @@
         "gout"
       ],
       "approved_indication": "ANTIARRITMICOS"
-    },
-    {
-      "name": "Amlodipina Besylate",
-      "file": "amlodipina_besylate.md",
-      "evidence_level": "L5",
-      "indication_count": 9,
-      "predicted_indication": "",
-      "inn": "Amlodipine",
-      "predicted_indications": [
-        "brain stem infarction",
-        "pulmonary hypertension with unclear multifactorial mechanism",
-        "pulmonary hypertension owing to lung disease and/or hypoxia",
-        "malignant hypertensive renal disease",
-        "cerebral artery occlusion",
-        "Braddock syndrome",
-        "MRI defined brain infarct",
-        "ABri amyloidosis",
-        "intracerebral hemorrhage"
-      ],
-      "approved_indication": ""
     },
     {
       "name": "Amlodipine Besylate",
@@ -765,30 +691,6 @@
         "gastroparesis (disease)"
       ],
       "approved_indication": "VITAMINAS E SUPLEMENTOS MINERAIS; VITAMINAS; NUTRIENTES PARENTERAIS; REPOSICAO HIDROELETROLITICA E ALIMENTACAO PARENTERAL"
-    },
-    {
-      "name": "Arginine Aspartate",
-      "file": "arginine_aspartate.md",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "predicted_indication": "",
-      "inn": "Arginine",
-      "predicted_indications": [
-        "gastroparesis (disease)"
-      ],
-      "approved_indication": ""
-    },
-    {
-      "name": "Arginine Glutamate",
-      "file": "arginine_glutamate.md",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "predicted_indication": "",
-      "inn": "Arginine",
-      "predicted_indications": [
-        "gastroparesis (disease)"
-      ],
-      "approved_indication": ""
     },
     {
       "name": "Aripiprazole",
@@ -5136,26 +5038,6 @@
       "approved_indication": "Parkinson disease; parkinsonian-pyramidal syndrome; X-linked parkinsonism-spasticity syndrome; early-onset parkinsonism-intellectual disability syndrome; juvenile onset Parkinson disease 19A; hemiparkinsonism-hemiatrophy syndrome; atypical juvenile parkinsonism; hereditary late onset Parkinson disease; postencephalitic Parkinson disease; parkinsonian disorder"
     },
     {
-      "name": "Levofloxacin",
-      "file": "levofloxacin.md",
-      "evidence_level": "L5",
-      "indication_count": 9,
-      "predicted_indication": "",
-      "inn": "Levofloxacin",
-      "predicted_indications": [
-        "punctate epithelial keratoconjunctivitis",
-        "polyclonal hyperviscosity syndrome",
-        "hyperamylasemia",
-        "congenital analbuminemia",
-        "blood group incompatibility",
-        "premalignant hematological system disease",
-        "monoclonal gammopathy",
-        "hematological disease associated with an acquired peripheral neuropathy",
-        "congenital hematological disorder"
-      ],
-      "approved_indication": "streptococcal infection; bacterial pneumonia; anthrax infection; staphylococcus aureus infection; staphylococcal infection; streptococcal pneumonia; maxillary sinusitis; conjunctivitis; acute contagious conjunctivitis; Mycoplasma pneumoniae pneumonia; pneumonia caused by chlamydia; pyelonephritis; staphylococcal pneumonia"
-    },
-    {
       "name": "Levofloxacina",
       "file": "levofloxacina.md",
       "evidence_level": "L5",
@@ -5211,22 +5093,6 @@
         "blunt duct adenosis of breast"
       ],
       "approved_indication": "postmenopausal osteoporosis; osteoporosis"
-    },
-    {
-      "name": "Levonorgestrel Micronizado",
-      "file": "levonorgestrel_micronizado.md",
-      "evidence_level": "L5",
-      "indication_count": 5,
-      "predicted_indication": "",
-      "inn": "Levonorgestrel",
-      "predicted_indications": [
-        "acne (disease)",
-        "Worth syndrome",
-        "autosomal dominant neovascular inflammatory vitreoretinopathy",
-        "apocrine adenosis of breast",
-        "blunt duct adenosis of breast"
-      ],
-      "approved_indication": ""
     },
     {
       "name": "Levothyroxine",
@@ -5722,27 +5588,6 @@
         "xanthogranulomatous pyelonephritis"
       ],
       "approved_indication": "ANTISSEPTICOS URINARIOS-ASSOCIACOES MEDICAMENTOSAS"
-    },
-    {
-      "name": "Methionine",
-      "file": "methionine.md",
-      "evidence_level": "L5",
-      "indication_count": 10,
-      "predicted_indication": "",
-      "inn": "Methionine",
-      "predicted_indications": [
-        "acne (disease)",
-        "severe nonproliferative diabetic retinopathy",
-        "craniostenosis cataract",
-        "mature cataract",
-        "diabetes mellitus type 2 associated cataract",
-        "nuclear senile cataract",
-        "cortical cataract",
-        "tetanic cataract",
-        "immature cataract",
-        "diabetic cataract"
-      ],
-      "approved_indication": "OUTROS PRODUTOS PARA O APARELHO DIGESTIVO E METABOLISMO; OUTROS MEDICAMENTOS COM ACAO NO APARELHO VISUAL; NUTRIENTES PARENTERAIS; VITAMINAS OU MINERAIS ASSOCIADOS A OUTROS FARMACOS; REPOSICAO HIDROELETROLITICA E ALIMENTACAO PARENTERAL"
     },
     {
       "name": "Methotrexate",
@@ -6357,26 +6202,6 @@
     {
       "name": "Paliperidona",
       "file": "paliperidona.md",
-      "evidence_level": "L5",
-      "indication_count": 9,
-      "predicted_indication": "",
-      "inn": "Paliperidone",
-      "predicted_indications": [
-        "retinal dystrophy with or without extraocular anomalies",
-        "myopia X-linked",
-        "syndromic myopia",
-        "hydranencephaly (disease)",
-        "congenital disorder of glycosylation with defective fucosylation",
-        "myopia 26, X-linked, female-limited",
-        "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis",
-        "Charcot-Marie-Tooth disease, demyelinating, type 1G",
-        "atypical glycine encephalopathy"
-      ],
-      "approved_indication": ""
-    },
-    {
-      "name": "Paliperidona Palmitate",
-      "file": "paliperidona_palmitate.md",
       "evidence_level": "L5",
       "indication_count": 9,
       "predicted_indication": "",
