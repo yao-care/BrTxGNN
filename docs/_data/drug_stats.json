@@ -1,12 +1,12 @@
 {
   "generated": "2026-11-19",
-  "total_drugs": 568,
+  "total_drugs": 565,
   "level_counts": {
     "L1": 7,
     "L2": 22,
     "L3": 24,
     "L4": 31,
-    "L5": 440
+    "L5": 437
   },
   "all_drugs": [
     {
@@ -259,18 +259,6 @@
       "name": "Arginine",
       "slug": "arginine",
       "level": "L4",
-      "indication_count": 1
-    },
-    {
-      "name": "Arginine Aspartate",
-      "slug": "arginine_aspartate",
-      "level": "L5",
-      "indication_count": 1
-    },
-    {
-      "name": "Arginine Glutamate",
-      "slug": "arginine_glutamate",
-      "level": "L5",
       "indication_count": 1
     },
     {
@@ -2162,12 +2150,6 @@
       "slug": "methenamine",
       "level": "L5",
       "indication_count": 4
-    },
-    {
-      "name": "Methionine",
-      "slug": "methionine",
-      "level": "L5",
-      "indication_count": 10
     },
     {
       "name": "Methotrexate",

@@ -37,7 +37,7 @@ Relatórios por nível de evidência:
 | L5 | {{ site.data.drug_stats.level_counts.L5 }} | {{ site.data.drug_stats.level_counts.L5 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
 {% assign na = site.data.drug_stats.total_drugs | minus: site.data.drug_stats.level_counts.L1 | minus: site.data.drug_stats.level_counts.L2 | minus: site.data.drug_stats.level_counts.L3 | minus: site.data.drug_stats.level_counts.L4 | minus: site.data.drug_stats.level_counts.L5 %}{% if na > 0 %}| N/A | {{ na }} | {{ na | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |{% endif %}
 
-217 pares medicamento–doença previstos neste site não aparecem em nenhum outro dos 30 sites TxGNN.
+215 pares medicamento–doença previstos neste site não aparecem em nenhum outro dos 30 sites TxGNN.
 
 ### Medicamentos com maior nível de evidência neste site
 

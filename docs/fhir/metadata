@@ -19,7 +19,7 @@
       ]
     }
   ],
-  "description": "BrTxGNN drug repurposing prediction data exposed as FHIR resources. Contains 568 drugs and 2961 predicted indications.",
+  "description": "BrTxGNN drug repurposing prediction data exposed as FHIR resources. Contains 565 drugs and 2949 predicted indications.",
   "kind": "instance",
   "software": {
     "name": "BrTxGNN Static FHIR API",
@@ -65,11 +65,11 @@
       "extension": [
         {
           "url": "MedicationKnowledge",
-          "valueInteger": 568
+          "valueInteger": 565
         },
         {
           "url": "ClinicalUseDefinition",
-          "valueInteger": 2961
+          "valueInteger": 2949
         },
         {
           "url": "countedAt",

@@ -13025,19 +13025,43 @@
    "file": "arginine.md",
    "action": "correct",
    "claim": "Foram encontrados 18 registros, e os 18 estão válidos",
-   "replacement": "Foram encontrados 73 registros, dos quais 24 estão válidos",
-   "summary": "Registros: 18 (todos válidos) → 73 (24 válidos)",
-   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 73 registros para este medicamento, 24 válidos e 49 cancelados ou caducos; os números atuais estão no Resumo rápido.",
-   "finding": "AI 產生的正文的張數／狀態是 10-31 依成分重建前舊證據包（最多 20 筆）的數字；事實層 total 73、valid 24、cancelled 49、partial False（data-20261105-122515）",
+   "replacement": "Foram encontrados 76 registros, dos quais 27 estão válidos",
+   "summary": "Registros: 18 (todos válidos) → 76 (27 válidos)",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA (situação de 2026-11-16): 76 registros para este medicamento (incluindo os registros de aspartato e glutamato de arginina, cujas páginas foram unificadas com esta em 2026-11-19), 27 válidos e 49 cancelados ou caducos; os números atuais estão no Resumo rápido.",
+   "finding": "AI 產生的正文的張數／狀態是 10-31 依成分重建前舊證據包（最多 20 筆）的數字；2026-11-19 合併 arginine_aspartate、arginine_glutamate 的登記號後事實層 total 76、valid 27、cancelled 49、partial False（data-20261116-230225 的 anvisa_situacao）",
    "sources": [
     {
      "title": "ANVISA – Dados abertos de medicamentos",
      "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
-     "accessed": "2026-11-05"
+     "accessed": "2026-11-16"
     }
    ],
-   "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（正文張數對事實層）"
+   "checked": "2026-11-19",
+   "method": "2026-11-12 人工查核（正文張數對事實層）；2026-11-19 合併後轉址重算後同 id 重發",
+   "history": [
+    {
+     "id": "br-lic-20261112-arginine-1",
+     "drug": "arginine",
+     "file": "arginine.md",
+     "action": "correct",
+     "claim": "Foram encontrados 18 registros, e os 18 estão válidos",
+     "replacement": "Foram encontrados 73 registros, dos quais 24 estão válidos",
+     "summary": "Registros: 18 (todos válidos) → 73 (24 válidos)",
+     "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 73 registros para este medicamento, 24 válidos e 49 cancelados ou caducos; os números atuais estão no Resumo rápido.",
+     "finding": "AI 產生的正文的張數／狀態是 10-31 依成分重建前舊證據包（最多 20 筆）的數字；事實層 total 73、valid 24、cancelled 49、partial False（data-20261105-122515）",
+     "sources": [
+      {
+       "title": "ANVISA – Dados abertos de medicamentos",
+       "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-12",
+     "method": "2026-11-12 人工查核（正文張數對事實層）",
+     "retired": "2026-11-19",
+     "reason": "2026-11-19 合併後轉址：arginine_aspartate、arginine_glutamate 改轉址到本頁，它們證據包的 3 個登記號（REFORGAN 156510039、NEPHROTECT 100410131、PRIMENE 106830098，皆 Ativo）併進本頁證據包，事實層 73→76 張、有效 24→27；重發時一併更正"
+    }
+   ]
   },
   {
    "id": "br-lic-20261112-arginine-2",
@@ -13045,19 +13069,43 @@
    "file": "arginine.md",
    "action": "correct",
    "claim": "Principais registros (5 de 18):",
-   "replacement": "Principais registros (30 de 73):",
-   "summary": "Contagem exibida: “Principais registros (5 de 18” → “Principais registros (30 de 73”",
-   "note": "Corrigido conforme a tabela desta seção e os dados abertos de medicamentos da ANVISA (2026-11-05): a tabela mostra 30 registros e há 73 registros para este medicamento; a contagem antiga vinha de uma versão anterior dos dados (no máximo 20 registros).",
-   "finding": "顯示說明的列數與總數是 10-31 依成分重建前舊證據包（最多 20 筆、表格只列 5 筆）的數字；現在的表格列 30 筆，事實層總數 73（data-20261105）",
+   "replacement": "Principais registros (30 de 76):",
+   "summary": "Contagem exibida: “Principais registros (5 de 18” → “Principais registros (30 de 76”",
+   "note": "Corrigido conforme a tabela desta seção e os dados abertos de medicamentos da ANVISA (situação de 2026-11-16): a tabela mostra 30 registros e há 76 registros para este medicamento (incluindo os registros de aspartato e glutamato de arginina, cujas páginas foram unificadas com esta em 2026-11-19); a contagem antiga vinha de uma versão anterior dos dados (no máximo 20 registros).",
+   "finding": "顯示說明的列數與總數是舊證據包的數字；現在表格列 30 筆，2026-11-19 合併後事實層總數 76",
    "sources": [
     {
      "title": "ANVISA – Dados abertos de medicamentos",
      "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
-     "accessed": "2026-11-05"
+     "accessed": "2026-11-16"
     }
    ],
-   "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（顯示說明的總數對事實層與表格）"
+   "checked": "2026-11-19",
+   "method": "2026-11-12 人工查核（顯示說明的總數對事實層與表格）；2026-11-19 合併後轉址重算後同 id 重發",
+   "history": [
+    {
+     "id": "br-lic-20261112-arginine-2",
+     "drug": "arginine",
+     "file": "arginine.md",
+     "action": "correct",
+     "claim": "Principais registros (5 de 18):",
+     "replacement": "Principais registros (30 de 73):",
+     "summary": "Contagem exibida: “Principais registros (5 de 18” → “Principais registros (30 de 73”",
+     "note": "Corrigido conforme a tabela desta seção e os dados abertos de medicamentos da ANVISA (2026-11-05): a tabela mostra 30 registros e há 73 registros para este medicamento; a contagem antiga vinha de uma versão anterior dos dados (no máximo 20 registros).",
+     "finding": "顯示說明的列數與總數是 10-31 依成分重建前舊證據包（最多 20 筆、表格只列 5 筆）的數字；現在的表格列 30 筆，事實層總數 73（data-20261105）",
+     "sources": [
+      {
+       "title": "ANVISA – Dados abertos de medicamentos",
+       "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-12",
+     "method": "2026-11-12 人工查核（顯示說明的總數對事實層與表格）",
+     "retired": "2026-11-19",
+     "reason": "2026-11-19 合併後轉址：arginine_aspartate、arginine_glutamate 改轉址到本頁，它們證據包的 3 個登記號（REFORGAN 156510039、NEPHROTECT 100410131、PRIMENE 106830098，皆 Ativo）併進本頁證據包，事實層 73→76 張、有效 24→27；重發時一併更正"
+    }
+   ]
   },
   {
    "id": "br-lic-20261112-axitinibe-1",
@@ -14250,6 +14298,26 @@
    "summary": "Registros válidos: “ausência” → 9 de 10",
    "note": "Segundo os dados abertos da ANVISA (2026-11-17), 9 dos 10 registros deste medicamento estão ativos; não há ausência de registros válidos.",
    "finding": "下一步建議寫「沒有有效許可證」，與事實（10 張中 9 有效，11-16 前為 10 張全有效）矛盾；checker 句型未抓到，一併更正"
+  },
+  {
+   "id": "br-lic-20261119-levometionina-1",
+   "drug": "levometionina",
+   "file": "levometionina.md",
+   "action": "correct",
+   "claim": "Dos 46 registros, 10 estão válidos e 36 cancelados.",
+   "replacement": "Dos 57 registros, 21 estão válidos e 36 cancelados.",
+   "summary": "Registros: 46 (10 válidos) → 57 (21 válidos)",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA (situação de 2026-11-16): a página de metionina foi unificada com esta em 2026-11-19 e os seus registros (mesmo DrugBank ID, DB00134) foram somados aos desta página; há 57 registros, 21 válidos e 36 cancelados. Os registros válidos acrescentados também são associações (nutrição parenteral, associações de metionina com colina e betaína, e uma pomada oftálmica); nenhum é de metionina isolada. Os números atuais estão no Resumo rápido.",
+   "finding": "2026-11-19 合併後轉址：methionine 證據包（原收集器依 drug_mapping.csv DB00134 收、20 筆上限）的 10 個不在本頁的登記號＋drug_mapping 裡同 ID 但兩頁都沒收的 100419935 AMINOVEN，共 11 個併進本頁證據包（全部 Ativo；valid_single 仍為 0），事實層 46→57、valid 10→21、cancelled 36",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-16"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "2026-11-19 人工查核（合併後轉址，正文張數對事實層）"
   }
  ]
 }

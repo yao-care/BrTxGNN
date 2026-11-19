@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-19",
-  "total_count": 568,
+  "total_count": 565,
   "source": "BrTxGNN",
   "drugs": [
     {
@@ -422,26 +422,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/arginine/"
-    },
-    {
-      "slug": "arginine-aspartate",
-      "name": "Arginine Aspartate",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/arginine-aspartate/"
-    },
-    {
-      "slug": "arginine-glutamate",
-      "name": "Arginine Glutamate",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/arginine-glutamate/"
     },
     {
       "slug": "aripiprazole",
@@ -3592,16 +3572,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/methenamine/"
-    },
-    {
-      "slug": "methionine",
-      "name": "Methionine",
-      "evidence_level": "L5",
-      "indication_count": 10,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/methionine/"
     },
     {
       "slug": "methotrexate",
