@@ -14386,6 +14386,46 @@
      "reason": "2026-11-19 同日補：沒有藥物頁的證據包 l-metionina、dl-metionina（10-31 依成分重建，drug_mapping.csv 把 L-METIONINA、DL-METIONINA 都對到 DB00134）有 31 個登記號不在本頁證据包（本頁依整詞 levometionina 重建，認不到 l-／dl- 寫法），以 scripts/merge_duplicate_bundles.py 併進本頁證據包（全部 Inativo），事實層 57→88 張、有效 21 不變；重發時一併更正"
     }
    ]
+  },
+  {
+   "id": "br-lic-20261119-levometionina-2",
+   "drug": "levometionina",
+   "file": "levometionina.md",
+   "action": "correct",
+   "claim": "(principalmente soluções de nutrição parenteral e uma associação vitamínica)",
+   "replacement": "(16 soluções de nutrição parenteral, 3 associações de metionina com colina e betaína, 1 associação de vitaminas e minerais com ginseng e 1 produto oftálmico)",
+   "summary": "Registros válidos: “principalmente nutrição parenteral e uma associação vitamínica” → 16 de nutrição parenteral, 3 de metionina com colina e betaína, 1 de vitaminas e minerais, 1 oftálmico",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA (situação de 2026-11-16): dos 21 registros válidos, 16 são soluções de nutrição parenteral (NEPHROTECT, AMINOSTERIL N-HEPA, SMOFKABIVEN, AMINOVEN, KABIVEN, NUTRIFLEX, AMIXAL, PRIMENE, OLIMEL, NUMETA), 3 são associações de metionina com colina e betaína (ABCLER ABNAT, EPOCLER, FIGZ), 1 é uma associação de vitaminas e minerais com ginseng (NATUS GERIN) e 1 é um produto oftálmico com retinol, aminoácidos, metionina e cloranfenicol (REGENCEL). Todos são associações; nenhum é de metionina isolada.",
+   "finding": "證據包 levometionina（Release data-20261119-102658，2026-11-19 合併後）21 張 Ativo 逐張分類（依 ANVISA 產品名、CLASSE_TERAPEUTICA、PRINCIPIO_ATIVO）：靜脈營養液 16（NEPHROTECT 100410131、AMINOSTERIL N-HEPA 8% 100410133、SMOFKABIVEN LIVRE DE ELETRÓLITOS 100410149、SMOFKABIVEN 100410150、AMINOVEN 10% INFANT 100410159、AMINOVEN 100419935、KABIVEN 100419938、NUTRIFLEX PLUS 100850109、NUTRIFLEX LIPID 100850124／100850246、AMIXAL 100850145、NUTRIFLEX 100850247、PRIMENE 106830098、OLIMEL 106830181、NUMETA NEO 106830185、NUMETA PED 106830186）；甲硫胺酸＋膽鹼＋甜菜鹼口服複方 3（ABCLER ABNAT 144930011、EPOCLER 178170079、FIGZ 196240004，類別 OUTROS PRODUTOS PARA O APARELHO DIGESTIVO E METABOLISMO）；維生素礦物質（含人參）複方 1（NATUS GERIN 167730285）；眼用 1（REGENCEL 102980493：retinol＋aminoácidos＋metionina＋cloranfenicol，類別 OUTROS MEDICAMENTOS COM ACAO NO APARELHO VISUAL；ANVISA 開放資料沒有劑型欄）。21 張全是複方（kind combo），單方有效 0。",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-16"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "2026-11-19 人工查核（合併後有效登記的產品類型逐張對照證據包 levometionina，Release data-20261119-102658）"
+  },
+  {
+   "id": "br-lic-20261119-levometionina-3",
+   "drug": "levometionina",
+   "file": "levometionina.md",
+   "action": "correct",
+   "claim": "já que os registros ativos são de nutrição parenteral",
+   "replacement": "já que os registros ativos são, em sua maioria (16 de 21), de nutrição parenteral",
+   "summary": "“os registros ativos são de nutrição parenteral” → em sua maioria (16 de 21)",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA (situação de 2026-11-16): 16 dos 21 registros válidos são de nutrição parenteral; os outros 5 são 4 associações (3 de metionina com colina e betaína, 1 de vitaminas e minerais com ginseng) e 1 produto oftálmico.",
+   "finding": "證據包 levometionina（Release data-20261119-102658，2026-11-19 合併後）21 張 Ativo 逐張分類（依 ANVISA 產品名、CLASSE_TERAPEUTICA、PRINCIPIO_ATIVO）：靜脈營養液 16（NEPHROTECT 100410131、AMINOSTERIL N-HEPA 8% 100410133、SMOFKABIVEN LIVRE DE ELETRÓLITOS 100410149、SMOFKABIVEN 100410150、AMINOVEN 10% INFANT 100410159、AMINOVEN 100419935、KABIVEN 100419938、NUTRIFLEX PLUS 100850109、NUTRIFLEX LIPID 100850124／100850246、AMIXAL 100850145、NUTRIFLEX 100850247、PRIMENE 106830098、OLIMEL 106830181、NUMETA NEO 106830185、NUMETA PED 106830186）；甲硫胺酸＋膽鹼＋甜菜鹼口服複方 3（ABCLER ABNAT 144930011、EPOCLER 178170079、FIGZ 196240004，類別 OUTROS PRODUTOS PARA O APARELHO DIGESTIVO E METABOLISMO）；維生素礦物質（含人參）複方 1（NATUS GERIN 167730285）；眼用 1（REGENCEL 102980493：retinol＋aminoácidos＋metionina＋cloranfenicol，類別 OUTROS MEDICAMENTOS COM ACAO NO APARELHO VISUAL；ANVISA 開放資料沒有劑型欄）。21 張全是複方（kind combo），單方有效 0。",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-16"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "2026-11-19 人工查核（同頁講有效產品類型的句子逐句對照證據包）"
   }
  ]
 }
