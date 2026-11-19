@@ -8,7 +8,7 @@ indication_count: 3
 monitor_inn: "CLONAZEPAM"
 predicted_indications: ["restless legs syndrome", "insomnia (disease)", "trigeminal nerve neoplasm"]
 last_modified_at: 2026-10-31
-description: "Clonazepam: nova indicação prevista, Síndrome das pernas inquietas (restless legs syndrome) (nível de evidência L3). Indicação original: Não consta nos dados locais"
+description: "Clonazepam: nova indicação prevista, Síndrome das pernas inquietas (restless legs syndrome) (nível de evidência L3). No Brasil, registros na ANVISA: 59 (ativos: 28)"
 ---
 
 # Clonazepam

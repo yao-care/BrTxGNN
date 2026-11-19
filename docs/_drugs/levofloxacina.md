@@ -9,7 +9,7 @@ drugbank_id: DB01137
 monitor_inn: "Levofloxacin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder"]
 last_modified_at: 2026-11-16
-description: "Levofloxacina: nova indicação prevista, Ceratoconjuntivite epitelial puntiforme (punctate epithelial keratoconjunctivitis) (nível de evidência L5). Indicação original: Não consta nos dados locais"
+description: "Levofloxacina: nova indicação prevista, Ceratoconjuntivite epitelial puntiforme (punctate epithelial keratoconjunctivitis) (nível de evidência L5). No Brasil, registros na ANVISA: 78 (ativos: 38)"
 ---
 
 # Levofloxacina

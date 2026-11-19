@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "Tenoxicam"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "headache disorder", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "trigeminal autonomic cephalalgia", "alopecia"]
 last_modified_at: 2026-10-31
-description: "Tenoxicam: nova indicação prevista, Brachydactyly-syndactyly syndrome (nível de evidência L5). Indicação original: Não consta nos dados locais"
+description: "Tenoxicam: nova indicação prevista, Brachydactyly-syndactyly syndrome (nível de evidência L5). No Brasil, registros na ANVISA: 37 (ativos: 14)"
 ---
 
 # Tenoxicam

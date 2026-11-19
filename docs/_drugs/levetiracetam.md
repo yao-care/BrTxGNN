@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-10-31
 monitor_inn: "LEVETIRACETAM"
 predicted_indications: ["beta-ketothiolase deficiency"]
-description: "Levetiracetam: nova indicação prevista, Beta-ketothiolase deficiency (nível de evidência L5). Indicação original: Não consta nos dados locais"
+description: "Levetiracetam: nova indicação prevista, Beta-ketothiolase deficiency (nível de evidência L5). No Brasil, registros na ANVISA: 54 (ativos: 49)"
 ---
 
 # Levetiracetam

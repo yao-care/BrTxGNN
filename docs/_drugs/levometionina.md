@@ -9,7 +9,7 @@ drugbank_id: DB00134
 monitor_inn: "Methionine"
 predicted_indications: ["acne (disease)", "severe nonproliferative diabetic retinopathy", "craniostenosis cataract", "mature cataract", "diabetes mellitus type 2 associated cataract", "nuclear senile cataract", "cortical cataract", "tetanic cataract", "immature cataract", "diabetic cataract"]
 last_modified_at: 2026-11-19
-description: "Levometionina: nova indicação prevista, Acne (acne (disease)) (nível de evidência L5). Indicação original: Não consta nos dados locais"
+description: "Levometionina: nova indicação prevista, Acne (acne (disease)) (nível de evidência L5). No Brasil, registros na ANVISA: 88 (ativos: 21)"
 ---
 
 # Levometionina

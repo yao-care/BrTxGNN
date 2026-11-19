@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "Letermovir"
 predicted_indications: ["vulvovaginal candidiasis"]
 last_modified_at: 2026-11-12
-description: "Letermovir: nova indicação prevista, candidíase vulvovaginal (vulvovaginal candidiasis) (nível de evidência L5). Indicação original: Não consta nos dados locais"
+description: "Letermovir: nova indicação prevista, candidíase vulvovaginal (vulvovaginal candidiasis) (nível de evidência L5). No Brasil, registros na ANVISA: 3 (ativos: 2)"
 ---
 
 # Letermovir

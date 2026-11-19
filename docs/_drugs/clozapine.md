@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-04
 monitor_inn: "Clozapine"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "schizophreniform disorder", "bipolar disorder", "major affective disorder", "attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "Malan overgrowth syndrome"]
-description: "Clozapine: nova indicação prevista, Transtorno afetivo bipolar maníaco (manic bipolar affective disorder) (nível de evidência L2). Indicação original: Não consta nos dados locais"
+description: "Clozapine: nova indicação prevista, Transtorno afetivo bipolar maníaco (manic bipolar affective disorder) (nível de evidência L2). No Brasil, registros na ANVISA: 13 (ativos: 5)"
 ---
 
 # Clozapine

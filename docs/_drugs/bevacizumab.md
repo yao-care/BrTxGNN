@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Bevacizumab"
 predicted_indications: ["epiglottis neoplasm", "benign neoplasm of tongue", "tumor of testis and paratestis", "benign neoplasm of hypopharynx", "benign neoplasm of floor of mouth", "cervical neuroblastoma", "cystic neoplasm", "nasal cavity inverting papilloma", "mesenchymoma", "schwannoma of jugular foramen"]
 last_modified_at: 2026-10-28
-description: "Bevacizumab: nova indicação prevista, neoplasia da epiglote (epiglottis neoplasm) (nível de evidência L5). Indicação original: Não consta nos dados locais"
+description: "Bevacizumab: nova indicação prevista, neoplasia da epiglote (epiglottis neoplasm) (nível de evidência L5). No Brasil, registros na ANVISA: 12 (ativos: 10)"
 ---
 
 # Bevacizumab

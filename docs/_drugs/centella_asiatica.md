@@ -8,7 +8,7 @@ indication_count: 3
 monitor_inn: "Centella asiatica"
 predicted_indications: ["insomnia (disease)", "anxiety", "sleep disorder, initiating and maintaining sleep"]
 last_modified_at: 2026-10-28
-description: "Centella Asiatica: nova indicação prevista, insônia (insomnia) (nível de evidência L5). Indicação original: Não consta nos dados locais"
+description: "Centella Asiatica: nova indicação prevista, insônia (insomnia) (nível de evidência L5). No Brasil, registros na ANVISA: 16 (ativos: 1)"
 ---
 
 # Centella Asiatica

@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-03
 monitor_inn: "Albendazole"
 predicted_indications: ["coenurosis"]
-description: "Albendazole: nova indicação prevista, Cenurose (coenurosis) (nível de evidência L5). Indicação original: Não consta nos dados locais"
+description: "Albendazole: nova indicação prevista, Cenurose (coenurosis) (nível de evidência L5). No Brasil, registros na ANVISA: 97 (ativos: 24)"
 ---
 
 # Albendazole

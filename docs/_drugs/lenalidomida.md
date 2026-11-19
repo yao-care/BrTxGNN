@@ -9,7 +9,7 @@ drugbank_id: DB00480
 monitor_inn: "Lenalidomide"
 predicted_indications: ["myeloid leukemia", "refractory cytopenia of childhood", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts"]
 last_modified_at: 2026-11-16
-description: "Lenalidomida: nova indicação prevista, Leucemia mieloide (myeloid leukemia) (nível de evidência L1). Indicação original: Não consta nos dados locais"
+description: "Lenalidomida: nova indicação prevista, Leucemia mieloide (myeloid leukemia) (nível de evidência L1). No Brasil, registros na ANVISA: 11 (ativos: 9)"
 ---
 
 # Lenalidomida

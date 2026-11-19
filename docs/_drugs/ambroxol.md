@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "Ambroxol"
 predicted_indications: ["nasal cavity disease", "vulvovaginal candidiasis", "faucial diphtheria", "cervical disc degenerative disorder"]
 last_modified_at: 2026-10-31
-description: "Ambroxol: nova indicação prevista, doença da cavidade nasal (nasal cavity disease) (nível de evidência L5). Indicação original: Não consta nos dados locais"
+description: "Ambroxol: nova indicação prevista, doença da cavidade nasal (nasal cavity disease) (nível de evidência L5). No Brasil, registros na ANVISA: 111 (ativos: 36)"
 ---
 
 # Ambroxol

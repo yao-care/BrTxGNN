@@ -9,7 +9,7 @@ drugbank_id: DB06594
 monitor_inn: "Agomelatine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "neurotic disorder", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type", "Keppen-Lubinsky syndrome"]
 last_modified_at: 2026-11-16
-description: "Agomelatina: nova indicação prevista, Paroxismo tortícolo benigno da infância (benign paroxysmal torticollis of infancy) (nível de evidência L5). Indicação original: Não consta nos dados locais"
+description: "Agomelatina: nova indicação prevista, Paroxismo tortícolo benigno da infância (benign paroxysmal torticollis of infancy) (nível de evidência L5). No Brasil, registros na ANVISA: 7 (ativos: 5)"
 ---
 
 # Agomelatina

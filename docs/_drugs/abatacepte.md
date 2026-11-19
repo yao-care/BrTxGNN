@@ -9,7 +9,7 @@ drugbank_id: DB01281
 monitor_inn: "Abatacept"
 predicted_indications: ["ankylosing spondylitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "vertebral disease", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
 last_modified_at: 2026-11-16
-description: "Abatacepte: nova indicação prevista, Espondilite anquilosante (ankylosing spondylitis) (nível de evidência L3). Indicação original: Não consta nos dados locais"
+description: "Abatacepte: nova indicação prevista, Espondilite anquilosante (ankylosing spondylitis) (nível de evidência L3). No Brasil, registros na ANVISA: 1 (ativos: 1)"
 ---
 
 # Abatacepte

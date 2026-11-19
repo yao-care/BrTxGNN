@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "Alprostadil"
 predicted_indications: ["aortic malformation", "congenital tricuspid stenosis", "congenital valvular dysplasia", "straddling or overriding tricuspid valve", "tricuspid valve prolapse (disease)", "anomaly of the tricuspid subvalvular apparatus", "double outlet right ventricle with atrioventricular septal defect, pulmonary stenosis, heterotaxy", "heart septal defect", "endemic goiter"]
 last_modified_at: 2026-11-03
-description: "Alprostadil: nova indicação prevista, Malformação aórtica (aortic malformation) (nível de evidência L5). Indicação original: Não consta nos dados locais"
+description: "Alprostadil: nova indicação prevista, Malformação aórtica (aortic malformation) (nível de evidência L5). No Brasil, registros na ANVISA: 11 (ativos: 3)"
 ---
 
 # Alprostadil

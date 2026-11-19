@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-03
 monitor_inn: "tioconazole"
 predicted_indications: ["vulvitis", "postmenopausal atrophic vaginitis"]
-description: "Tioconazole: nova indicação prevista, Vulvite (vulvitis) (nível de evidência L5). Indicação original: Não consta nos dados locais"
+description: "Tioconazole: nova indicação prevista, Vulvite (vulvitis) (nível de evidência L5). No Brasil, registros na ANVISA: 62 (ativos: 18)"
 ---
 
 # Tioconazole

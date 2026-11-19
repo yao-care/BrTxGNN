@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "Penciclovir"
 predicted_indications: ["fascioliasis"]
-description: "Penciclovir: nova indicação prevista, fascioliase (fascioliasis) (nível de evidência L5). Indicação original: Não consta nos dados locais"
+description: "Penciclovir: nova indicação prevista, fascioliase (fascioliasis) (nível de evidência L5). No Brasil, registros na ANVISA: 4 (ativos: 1)"
 ---
 
 # Penciclovir

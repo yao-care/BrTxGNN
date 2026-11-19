@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "Etonogestrel"
 predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "apocrine adenosis of breast", "blunt duct adenosis of breast", "benign mammary dysplasia"]
 last_modified_at: 2026-10-28
-description: "Etonogestrel: nova indicação prevista, Amenorreia (amenorrhea (disease)) (nível de evidência L5). Indicação original: Não consta nos dados locais"
+description: "Etonogestrel: nova indicação prevista, Amenorreia (amenorrhea (disease)) (nível de evidência L5). No Brasil, registros na ANVISA: 8 (ativos: 5)"
 ---
 
 # Etonogestrel

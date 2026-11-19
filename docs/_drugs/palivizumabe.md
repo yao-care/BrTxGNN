@@ -9,7 +9,7 @@ drugbank_id: DB00110
 monitor_inn: "Palivizumab"
 predicted_indications: ["benign neoplasm of tongue", "epiglottis neoplasm", "cervical neuroblastoma", "benign neoplasm of hypopharynx", "benign neoplasm of floor of mouth", "tumor of testis and paratestis", "cystic neoplasm", "schwannoma of jugular foramen", "mesenchymoma", "thyroglossal duct cyst"]
 last_modified_at: 2026-11-16
-description: "Palivizumabe: nova indicação prevista, Neoplasia benigna da língua (benign neoplasm of tongue) (nível de evidência L5). Indicação original: Não consta nos dados locais"
+description: "Palivizumabe: nova indicação prevista, Neoplasia benigna da língua (benign neoplasm of tongue) (nível de evidência L5). No Brasil, registros na ANVISA: 3 (ativos: 1)"
 ---
 
 # Palivizumabe

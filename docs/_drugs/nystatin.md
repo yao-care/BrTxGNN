@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-03
 monitor_inn: "Nystatin"
 predicted_indications: ["disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "postmenopausal atrophic vaginitis", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]
-description: "Nystatin: nova indicação prevista, Doença da região orbital (disease of orbital region) (nível de evidência L5). Indicação original: Não consta nos dados locais"
+description: "Nystatin: nova indicação prevista, Doença da região orbital (disease of orbital region) (nível de evidência L5). No Brasil, registros na ANVISA: 235 (ativos: 67)"
 ---
 
 # Nystatin

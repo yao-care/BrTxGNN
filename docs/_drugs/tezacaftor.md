@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-10-28
 monitor_inn: "Tezacaftor"
 predicted_indications: ["HIV infectious disease", "leprosy", "multiple endocrine neoplasia"]
-description: "Tezacaftor: nova indicação prevista, Doença infecciosa por HIV (HIV infectious disease) (nível de evidência L5). Indicação original: Não consta nos dados locais"
+description: "Tezacaftor: nova indicação prevista, Doença infecciosa por HIV (HIV infectious disease) (nível de evidência L5). No Brasil, registros na ANVISA: 3 (ativos: 3)"
 ---
 
 # Tezacaftor

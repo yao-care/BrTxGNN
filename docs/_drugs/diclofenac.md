@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Diclofenac"
 predicted_indications: ["hypotrichosis simplex of the scalp", "acromesomelic dysplasia, Hunter-Thompson type", "pseudoachondroplasia", "brachyolmia", "brachyolmia-amelogenesis imperfecta syndrome", "congenital hypotrichosis milia", "myosclerosis", "diffuse alopecia areata", "juvenile idiopathic arthritis", "WHIM syndrome"]
 last_modified_at: 2026-11-13
-description: "Diclofenac: nova indicação prevista, Hipotricose simples do couro cabeludo (hypotrichosis simplex of the scalp) (nível de evidência L5). Indicação original: Não consta nos dados locais"
+description: "Diclofenac: nova indicação prevista, Hipotricose simples do couro cabeludo (hypotrichosis simplex of the scalp) (nível de evidência L5). No Brasil, registros na ANVISA: 397 (ativos: 102)"
 ---
 
 # Diclofenac

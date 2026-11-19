@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-10-28
 monitor_inn: "Selenium"
 predicted_indications: ["sclerosing cholangitis"]
-description: "Selenium: nova indicação prevista, Colangite Esclerosante (sclerosing cholangitis) (nível de evidência L4). Indicação original: Não consta nos dados locais"
+description: "Selenium: nova indicação prevista, Colangite Esclerosante (sclerosing cholangitis) (nível de evidência L4). No Brasil, registros na ANVISA: 4 (ativos: 0)"
 ---
 
 # Selenium

@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Diazepam"
 predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "sleep disorder, initiating and maintaining sleep", "attention deficit hyperactivity disorder, inattentive type", "hallucinogen abuse", "antidepressant type abuse", "barbiturate abuse", "specific developmental disorder", "attention deficit-hyperactivity disorder", "obsolete neurogenic bladder (disease)"]
 last_modified_at: 2026-11-04
-description: "Diazepam: nova indicação prevista, Insônia (insomnia (disease)) (nível de evidência L2). Indicação original: Não consta nos dados locais"
+description: "Diazepam: nova indicação prevista, Insônia (insomnia (disease)) (nível de evidência L2). No Brasil, registros na ANVISA: 53 (ativos: 18)"
 ---
 
 # Diazepam

@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-11-03
 monitor_inn: "Salbutamol"
 predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "anaphylaxis", "common cold", "atopic conjunctivitis", "anorectal stricture"]
-description: "Salbutamol: nova indicação prevista, Conjuntivite papilar (papillary conjunctivitis) (nível de evidência L5). Indicação original: Não consta nos dados locais"
+description: "Salbutamol: nova indicação prevista, Conjuntivite papilar (papillary conjunctivitis) (nível de evidência L5). No Brasil, registros na ANVISA: 98 (ativos: 17)"
 ---
 
 # Salbutamol

@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "MIDAZOLAM"
 predicted_indications: ["insomnia (disease)"]
-description: "Midazolam: nova indicação prevista, Insônia (insomnia (disease)) (nível de evidência L3). Indicação original: Não consta nos dados locais"
+description: "Midazolam: nova indicação prevista, Insônia (insomnia (disease)) (nível de evidência L3). No Brasil, registros na ANVISA: 32 (ativos: 11)"
 ---
 
 # Midazolam

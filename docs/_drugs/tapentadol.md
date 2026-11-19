@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-12
 monitor_inn: "Tapentadol"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
-description: "Tapentadol: nova indicação prevista, Enxaqueca (migraine disorder) (nível de evidência L5). Indicação original: Não consta nos dados locais"
+description: "Tapentadol: nova indicação prevista, Enxaqueca (migraine disorder) (nível de evidência L5). No Brasil, registros na ANVISA: 4 (ativos: 2)"
 ---
 
 # Tapentadol

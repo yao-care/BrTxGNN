@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "Hesperidin"
 predicted_indications: ["myeloproliferative neoplasm", "monocytic leukemia", "spermatocytic seminoma", "tubular variant testicular seminoma", "gestational trophoblastic neoplasm"]
 last_modified_at: 2026-11-12
-description: "Hesperidin: nova indicação prevista, neoplasia mieloproliferativa (myeloproliferative neoplasm) (nível de evidência L5). Indicação original: Não consta nos dados locais"
+description: "Hesperidin: nova indicação prevista, neoplasia mieloproliferativa (myeloproliferative neoplasm) (nível de evidência L5). No Brasil, registros na ANVISA: 51 (ativos: 35)"
 ---
 
 # Hesperidin

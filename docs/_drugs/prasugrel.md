@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-12
 monitor_inn: "Prasugrel"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura", "kyphoscoliotic heart disease", "rheumatoid arthritis", "homozygous familial hypercholesterolemia", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "leprosy"]
-description: "Prasugrel: nova indicação prevista, Hipertensão Pulmonar (pulmonary hypertension) (nível de evidência L5). Indicação original: Não consta nos dados locais"
+description: "Prasugrel: nova indicação prevista, Hipertensão Pulmonar (pulmonary hypertension) (nível de evidência L5). No Brasil, registros na ANVISA: 2 (ativos: 1)"
 ---
 
 # Prasugrel

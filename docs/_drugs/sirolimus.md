@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-11-04
 monitor_inn: "Sirolimus"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lung PEComa", "vulva sarcoma"]
-description: "Sirolimus: nova indicação prevista, lipossarcoma (liposarcoma) (nível de evidência L5). Indicação original: Não consta nos dados locais"
+description: "Sirolimus: nova indicação prevista, lipossarcoma (liposarcoma) (nível de evidência L5). No Brasil, registros na ANVISA: 4 (ativos: 1)"
 ---
 
 # Sirolimus

@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-10-28
 monitor_inn: "Risdiplam"
 predicted_indications: ["acne (disease)"]
-description: "Risdiplam: nova indicação prevista, Acne (acne (disease)) (nível de evidência L5). Indicação original: Não consta nos dados locais"
+description: "Risdiplam: nova indicação prevista, Acne (acne (disease)) (nível de evidência L5). No Brasil, registros na ANVISA: 1 (ativos: 1)"
 ---
 
 # Risdiplam

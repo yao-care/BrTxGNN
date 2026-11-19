@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-13
 monitor_inn: "OMEPRAZOLE"
 predicted_indications: ["duodenal obstruction"]
-description: "Omeprazole: nova indicação prevista, Duodenal obstruction (nível de evidência L5). Indicação original: Não consta nos dados locais"
+description: "Omeprazole: nova indicação prevista, Duodenal obstruction (nível de evidência L5). No Brasil, registros na ANVISA: 128 (ativos: 39)"
 ---
 
 # Omeprazole

@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-11-04
 monitor_inn: "lenvatinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax", "endocrine-cerebro-osteodysplasia syndrome"]
-description: "Lenvatinib: nova indicação prevista, Lipossarcoma (liposarcoma) (nível de evidência L3). Indicação original: Não consta nos dados locais"
+description: "Lenvatinib: nova indicação prevista, Lipossarcoma (liposarcoma) (nível de evidência L3). No Brasil, registros na ANVISA: 6 (ativos: 5)"
 ---
 
 # Lenvatinib

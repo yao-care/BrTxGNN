@@ -8,7 +8,7 @@ indication_count: 3
 monitor_inn: "RITONAVIR"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 last_modified_at: 2026-11-12
-description: "Ritonavir: nova indicação prevista, Infecção pelo vírus da imunodeficiência símia (simian immunodeficiency virus infection) (nível de evidência L5). Indicação original: Não consta nos dados locais"
+description: "Ritonavir: nova indicação prevista, Infecção pelo vírus da imunodeficiência símia (simian immunodeficiency virus infection) (nível de evidência L5). No Brasil, registros na ANVISA: 15 (ativos: 5)"
 ---
 
 # Ritonavir

@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "Ceftriaxone"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "chronic otitis media"]
 last_modified_at: 2026-11-03
-description: "Ceftriaxone: nova indicação prevista, hiperamilasemia (hyperamylasemia) (nível de evidência L5). Indicação original: Não consta nos dados locais"
+description: "Ceftriaxone: nova indicação prevista, hiperamilasemia (hyperamylasemia) (nível de evidência L5). No Brasil, registros na ANVISA: 54 (ativos: 15)"
 ---
 
 # Ceftriaxone

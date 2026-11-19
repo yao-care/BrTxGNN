@@ -9,7 +9,7 @@ drugbank_id: DB00730
 monitor_inn: "Thiabendazole"
 predicted_indications: ["echinococcus granulosus infectious disease", "alveolar echinococcosis", "Cryptococcal meningitis", "cystic echinococcosis", "furuncular myiasis", "wound myiasis", "toxoplasmosis", "toxascariasis", "anisakiasis"]
 last_modified_at: 2026-11-16
-description: "Tiabendazol: nova indicação prevista, Equinococose granulosa (echinococcus granulosus infectious disease) (nível de evidência L5). Indicação original: Não consta nos dados locais"
+description: "Tiabendazol: nova indicação prevista, Equinococose granulosa (echinococcus granulosus infectious disease) (nível de evidência L5). No Brasil, registros na ANVISA: 57 (ativos: 1)"
 ---
 
 # Tiabendazol

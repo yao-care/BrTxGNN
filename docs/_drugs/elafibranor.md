@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "Elafibranor"
 predicted_indications: ["amenorrhea (disease)"]
 last_modified_at: 2026-10-28
-description: "Elafibranor: nova indicação prevista, Amenorreia (amenorrhea (disease)) (nível de evidência L5). Indicação original: Não consta nos dados locais"
+description: "Elafibranor: nova indicação prevista, Amenorreia (amenorrhea (disease)) (nível de evidência L5). No Brasil, registros na ANVISA: 1 (ativos: 1)"
 ---
 
 # Elafibranor

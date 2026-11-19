@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "CITALOPRAM"
 predicted_indications: ["obsessive-compulsive disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "schizotypal personality disorder"]
 last_modified_at: 2026-10-28
-description: "Citalopram: nova indicação prevista, Transtorno Obsessivo-Compulsivo (obsessive-compulsive disorder) (nível de evidência L3). Indicação original: Não consta nos dados locais"
+description: "Citalopram: nova indicação prevista, Transtorno Obsessivo-Compulsivo (obsessive-compulsive disorder) (nível de evidência L3). No Brasil, registros na ANVISA: pelo menos 20"
 ---
 
 # Citalopram

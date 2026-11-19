@@ -9,7 +9,7 @@ drugbank_id: DB11989
 monitor_inn: "Benznidazole"
 predicted_indications: ["congenital analbuminemia", "polyclonal hyperviscosity syndrome", "hyperamylasemia"]
 last_modified_at: 2026-11-16
-description: "Benznidazol: nova indicação prevista, Analbuminemia congênita (congenital analbuminemia) (nível de evidência L5). Indicação original: Não consta nos dados locais"
+description: "Benznidazol: nova indicação prevista, Analbuminemia congênita (congenital analbuminemia) (nível de evidência L5). No Brasil, registros na ANVISA: 2 (ativos: 1)"
 ---
 
 # Benznidazol

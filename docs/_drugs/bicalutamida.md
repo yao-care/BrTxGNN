@@ -9,7 +9,7 @@ drugbank_id: DB01128
 monitor_inn: "Bicalutamide"
 predicted_indications: ["hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "leprosy", "multiple endocrine neoplasia", "pulmonary hypertension", "female breast carcinoma", "nephrogenic syndrome of inappropriate antidiuresis"]
 last_modified_at: 2026-11-16
-description: "Bicalutamida: nova indicação prevista, Hipertricose (hypertrichosis (disease)) (nível de evidência L5). Indicação original: Não consta nos dados locais"
+description: "Bicalutamida: nova indicação prevista, Hipertricose (hypertrichosis (disease)) (nível de evidência L5). No Brasil, registros na ANVISA: 10 (ativos: 6)"
 ---
 
 # Bicalutamida

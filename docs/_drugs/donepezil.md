@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "DONEPEZIL"
 predicted_indications: ["psychogenic movement disorders", "chronic tic disorder", "primary orthostatic tremor", "benign shuddering attacks", "extrapyramidal and movement disease", "tremor-nystagmus-duodenal ulcer syndrome", "benign paroxysmal tonic upgaze of childhood with ataxia", "lingual-facial-buccal dyskinesia"]
 last_modified_at: 2026-11-12
-description: "Donepezil: nova indicação prevista, Transtornos de movimento psicogênicos (psychogenic movement disorders) (nível de evidência L5). Indicação original: Não consta nos dados locais"
+description: "Donepezil: nova indicação prevista, Transtornos de movimento psicogênicos (psychogenic movement disorders) (nível de evidência L5). No Brasil, registros na ANVISA: 66 (ativos: 50)"
 ---
 
 # Donepezil

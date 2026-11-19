@@ -1,0 +1,1867 @@
+{
+  "_note": "藥物頁 front matter description 句尾「原適應症：本地資料未記載」換成本站許可證快照事實層品項數的紀錄（母目錄 .claude/drug_meta_description.py --apply，2026-11-19 起）。pages＝目前產生的句尾（tail）與被換掉的原字樣（original）；entries＝每次改動的前後整行（from／to，可還原：把第一筆的 from 寫回該頁 description）。",
+  "pages": {
+    "abatacepte": {
+      "tail": "No Brasil, registros na ANVISA: 1 (ativos: 1)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "acetazolamida": {
+      "tail": "No Brasil, registros na ANVISA: 3 (ativos: 1)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "adalimumabe": {
+      "tail": "No Brasil, registros na ANVISA: 14 (ativos: 11)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "adenosina": {
+      "tail": "No Brasil, registros na ANVISA: 23 (ativos: 5)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "aflibercepte": {
+      "tail": "No Brasil, registros na ANVISA: 6 (ativos: 5)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "agomelatina": {
+      "tail": "No Brasil, registros na ANVISA: 7 (ativos: 5)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "albendazole": {
+      "tail": "No Brasil, registros na ANVISA: 97 (ativos: 24)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "alectinibe_hydrochloride": {
+      "tail": "No Brasil, registros na ANVISA: 1 (ativos: 1)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "alfacalcidol": {
+      "tail": "No Brasil, registros na ANVISA: 3 (ativos: 1)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "alprostadil": {
+      "tail": "No Brasil, registros na ANVISA: 11 (ativos: 3)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "alteplase": {
+      "tail": "No Brasil, registros na ANVISA: 1 (ativos: 1)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "ambroxol": {
+      "tail": "No Brasil, registros na ANVISA: 111 (ativos: 36)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "amilorida": {
+      "tail": "No Brasil, registros na ANVISA: 21 (ativos: 3)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "ampicillin": {
+      "tail": "No Brasil, registros na ANVISA: 125 (ativos: 17)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "apixaban": {
+      "tail": "No Brasil, registros na ANVISA: 35 (ativos: 28)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "atenolol": {
+      "tail": "No Brasil, registros na ANVISA: 128 (ativos: 40)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "atezolizumabe": {
+      "tail": "No Brasil, registros na ANVISA: 1 (ativos: 1)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "axitinibe": {
+      "tail": "No Brasil, registros na ANVISA: 2 (ativos: 1)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "aztreonam": {
+      "tail": "No Brasil, registros na ANVISA: 12 (ativos: 2)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "bacitracin": {
+      "tail": "No Brasil, registros na ANVISA: 75 (ativos: 29)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "belimumabe": {
+      "tail": "No Brasil, registros na ANVISA: 1 (ativos: 1)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "benznidazol": {
+      "tail": "No Brasil, registros na ANVISA: 2 (ativos: 1)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "betamethasone": {
+      "tail": "No Brasil, registros na ANVISA: 497 (ativos: 172)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "bevacizumab": {
+      "tail": "No Brasil, registros na ANVISA: 12 (ativos: 10)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "bicalutamida": {
+      "tail": "No Brasil, registros na ANVISA: 10 (ativos: 6)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "biotin": {
+      "tail": "No Brasil, registros na ANVISA: 78 (ativos: 8)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "biperiden": {
+      "tail": "No Brasil, registros na ANVISA: 10 (ativos: 5)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "bisoprolol": {
+      "tail": "No Brasil, registros na ANVISA: 29 (ativos: 20)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "bleomycin": {
+      "tail": "No Brasil, registros na ANVISA: 11 (ativos: 5)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "brigatinibe": {
+      "tail": "No Brasil, registros na ANVISA: 2 (ativos: 1)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "budesonide": {
+      "tail": "No Brasil, registros na ANVISA: 38 (ativos: 18)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "cabazitaxel": {
+      "tail": "No Brasil, registros na ANVISA: 8 (ativos: 7)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "cabotegravir": {
+      "tail": "No Brasil, registros na ANVISA: 4 (ativos: 4)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "calcitriol": {
+      "tail": "No Brasil, registros na ANVISA: 11 (ativos: 2)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "captopril": {
+      "tail": "No Brasil, registros na ANVISA: 134 (ativos: 32)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "carboplatin": {
+      "tail": "No Brasil, registros na ANVISA: 35 (ativos: 8)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "carfilzomibe": {
+      "tail": "No Brasil, registros na ANVISA: 7 (ativos: 7)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "carvedilol": {
+      "tail": "No Brasil, registros na ANVISA: 46 (ativos: 21)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "cefazolin": {
+      "tail": "No Brasil, registros na ANVISA: 32 (ativos: 8)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "ceftriaxone": {
+      "tail": "No Brasil, registros na ANVISA: 54 (ativos: 15)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "cemiplimab": {
+      "tail": "No Brasil, registros na ANVISA: 2 (ativos: 1)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "centella_asiatica": {
+      "tail": "No Brasil, registros na ANVISA: 16 (ativos: 1)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "chlorambucil": {
+      "tail": "No Brasil, registros na ANVISA: 3 (ativos: 1)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "ciprofloxacin": {
+      "tail": "No Brasil, registros na ANVISA: 188 (ativos: 61)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "citalopram": {
+      "tail": "No Brasil, registros na ANVISA: pelo menos 20",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "clioquinol": {
+      "tail": "No Brasil, registros na ANVISA: 96 (ativos: 30)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "clobutinol": {
+      "tail": "No Brasil, registros na ANVISA: 18 (ativos: 2)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "clomifene": {
+      "tail": "No Brasil, registros na ANVISA: 8 (ativos: 2)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "clonazepam": {
+      "tail": "No Brasil, registros na ANVISA: 59 (ativos: 28)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "clopidogrel": {
+      "tail": "No Brasil, registros na ANVISA: 68 (ativos: 30)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "clozapine": {
+      "tail": "No Brasil, registros na ANVISA: 13 (ativos: 5)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "danazol": {
+      "tail": "No Brasil, registros na ANVISA: 4 (ativos: 1)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "deferasirox": {
+      "tail": "No Brasil, registros na ANVISA: 10 (ativos: 6)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "degarelix": {
+      "tail": "No Brasil, registros na ANVISA: 1 (ativos: 1)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "dexamethasone": {
+      "tail": "No Brasil, registros na ANVISA: 263 (ativos: 83)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "diazepam": {
+      "tail": "No Brasil, registros na ANVISA: 53 (ativos: 18)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "diclofenac": {
+      "tail": "No Brasil, registros na ANVISA: 397 (ativos: 102)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "dienogest": {
+      "tail": "No Brasil, registros na ANVISA: 36 (ativos: 23)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "digoxin": {
+      "tail": "No Brasil, registros na ANVISA: 56 (ativos: 6)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "docetaxel": {
+      "tail": "No Brasil, registros na ANVISA: 29 (ativos: 15)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "donepezil": {
+      "tail": "No Brasil, registros na ANVISA: 66 (ativos: 50)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "droperidol": {
+      "tail": "No Brasil, registros na ANVISA: 3 (ativos: 2)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "efavirenz": {
+      "tail": "No Brasil, registros na ANVISA: 6 (ativos: 3)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "elafibranor": {
+      "tail": "No Brasil, registros na ANVISA: 1 (ativos: 1)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "empagliflozin": {
+      "tail": "No Brasil, registros na ANVISA: 27 (ativos: 27)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "etonogestrel": {
+      "tail": "No Brasil, registros na ANVISA: 8 (ativos: 5)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "etoricoxib": {
+      "tail": "No Brasil, registros na ANVISA: 32 (ativos: 29)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "fenticonazole": {
+      "tail": "No Brasil, registros na ANVISA: 18 (ativos: 6)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "filgrastim": {
+      "tail": "No Brasil, registros na ANVISA: 14 (ativos: 6)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "gefitinib": {
+      "tail": "No Brasil, registros na ANVISA: 10 (ativos: 8)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "glucagon": {
+      "tail": "No Brasil, registros na ANVISA: 2 (ativos: 1)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "glycine": {
+      "tail": "No Brasil, registros na ANVISA: pelo menos 20",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "guaifenesin": {
+      "tail": "No Brasil, registros na ANVISA: 128 (ativos: 30)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "hesperidin": {
+      "tail": "No Brasil, registros na ANVISA: 51 (ativos: 35)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "hydrocortisone": {
+      "tail": "No Brasil, registros na ANVISA: 74 (ativos: 14)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "imatinib": {
+      "tail": "No Brasil, registros na ANVISA: 29 (ativos: 17)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "imipenem": {
+      "tail": "No Brasil, registros na ANVISA: 21 (ativos: 8)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "irbesartan": {
+      "tail": "No Brasil, registros na ANVISA: 28 (ativos: 4)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "isotretinoin": {
+      "tail": "No Brasil, registros na ANVISA: 44 (ativos: 13)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "ivermectin": {
+      "tail": "No Brasil, registros na ANVISA: 24 (ativos: 12)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "ketorolac": {
+      "tail": "No Brasil, registros na ANVISA: 76 (ativos: 51)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "lactulose": {
+      "tail": "No Brasil, registros na ANVISA: 18 (ativos: 7)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "laronidase": {
+      "tail": "No Brasil, registros na ANVISA: 2 (ativos: 1)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "latanoprost": {
+      "tail": "No Brasil, registros na ANVISA: 50 (ativos: 20)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "ledipasvir": {
+      "tail": "No Brasil, registros na ANVISA: 1 (ativos: 0)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "leflunomida": {
+      "tail": "No Brasil, registros na ANVISA: 19 (ativos: 7)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "lenalidomida": {
+      "tail": "No Brasil, registros na ANVISA: 11 (ativos: 9)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "lenvatinib": {
+      "tail": "No Brasil, registros na ANVISA: 6 (ativos: 5)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "letermovir": {
+      "tail": "No Brasil, registros na ANVISA: 3 (ativos: 2)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "levetiracetam": {
+      "tail": "No Brasil, registros na ANVISA: 54 (ativos: 49)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "levodopa": {
+      "tail": "No Brasil, registros na ANVISA: 27 (ativos: 13)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "levofloxacina": {
+      "tail": "No Brasil, registros na ANVISA: 78 (ativos: 38)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "levometionina": {
+      "tail": "No Brasil, registros na ANVISA: 88 (ativos: 21)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "levonorgestrel": {
+      "tail": "No Brasil, registros na ANVISA: 95 (ativos: 33)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "lipegfilgrastim": {
+      "tail": "No Brasil, registros na ANVISA: 1 (ativos: 1)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "lorazepam": {
+      "tail": "No Brasil, registros na ANVISA: 24 (ativos: 7)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "lornoxicam": {
+      "tail": "No Brasil, registros na ANVISA: 3 (ativos: 1)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "lumacaftor": {
+      "tail": "No Brasil, registros na ANVISA: 2 (ativos: 2)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "meropenem": {
+      "tail": "No Brasil, registros na ANVISA: 23 (ativos: 10)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "midazolam": {
+      "tail": "No Brasil, registros na ANVISA: 32 (ativos: 11)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "minoxidil": {
+      "tail": "No Brasil, registros na ANVISA: 34 (ativos: 23)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "modafinil": {
+      "tail": "No Brasil, registros na ANVISA: 2 (ativos: 1)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "naproxen": {
+      "tail": "No Brasil, registros na ANVISA: 45 (ativos: 19)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "nitrazepam": {
+      "tail": "No Brasil, registros na ANVISA: 13 (ativos: 3)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "nitrogen": {
+      "tail": "No Brasil, registros na ANVISA: 1 (ativos: 0)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "nystatin": {
+      "tail": "No Brasil, registros na ANVISA: 235 (ativos: 67)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "omeprazole": {
+      "tail": "No Brasil, registros na ANVISA: 128 (ativos: 39)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "oxaliplatin": {
+      "tail": "No Brasil, registros na ANVISA: 35 (ativos: 16)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "paclitaxel": {
+      "tail": "No Brasil, registros na ANVISA: 49 (ativos: 15)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "palbociclibe": {
+      "tail": "No Brasil, registros na ANVISA: 8 (ativos: 7)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "palivizumabe": {
+      "tail": "No Brasil, registros na ANVISA: 3 (ativos: 1)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "pegaspargase": {
+      "tail": "No Brasil, registros na ANVISA: 3 (ativos: 1)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "pegvaliase": {
+      "tail": "No Brasil, registros na ANVISA: 1 (ativos: 1)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "penciclovir": {
+      "tail": "No Brasil, registros na ANVISA: 4 (ativos: 1)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "perampanel": {
+      "tail": "No Brasil, registros na ANVISA: 2 (ativos: 1)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "pibrentasvir": {
+      "tail": "No Brasil, registros na ANVISA: 1 (ativos: 1)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "piroxicam": {
+      "tail": "No Brasil, registros na ANVISA: 70 (ativos: 10)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "plerixafor": {
+      "tail": "No Brasil, registros na ANVISA: 3 (ativos: 1)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "polidocanol": {
+      "tail": "No Brasil, registros na ANVISA: 2 (ativos: 1)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "prasugrel": {
+      "tail": "No Brasil, registros na ANVISA: 2 (ativos: 1)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "prednisone": {
+      "tail": "No Brasil, registros na ANVISA: 65 (ativos: 22)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "pregabalin": {
+      "tail": "No Brasil, registros na ANVISA: 86 (ativos: 60)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "progesterone": {
+      "tail": "No Brasil, registros na ANVISA: 16 (ativos: 7)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "rasburicase": {
+      "tail": "No Brasil, registros na ANVISA: 3 (ativos: 1)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "risdiplam": {
+      "tail": "No Brasil, registros na ANVISA: 1 (ativos: 1)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "ritonavir": {
+      "tail": "No Brasil, registros na ANVISA: 15 (ativos: 5)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "romiplostim": {
+      "tail": "No Brasil, registros na ANVISA: 3 (ativos: 1)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "sacituzumab_govitecan": {
+      "tail": "No Brasil, registros na ANVISA: 1 (ativos: 1)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "salbutamol": {
+      "tail": "No Brasil, registros na ANVISA: 98 (ativos: 17)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "selenium": {
+      "tail": "No Brasil, registros na ANVISA: 4 (ativos: 0)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "sirolimus": {
+      "tail": "No Brasil, registros na ANVISA: 4 (ativos: 1)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "sofosbuvir": {
+      "tail": "No Brasil, registros na ANVISA: 9 (ativos: 7)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "sorafenib": {
+      "tail": "No Brasil, registros na ANVISA: 4 (ativos: 3)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "sorbitol": {
+      "tail": "No Brasil, registros na ANVISA: 33 (ativos: 6)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "tacrolimus": {
+      "tail": "No Brasil, registros na ANVISA: 30 (ativos: 15)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "tamoxifen": {
+      "tail": "No Brasil, registros na ANVISA: 30 (ativos: 11)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "tapentadol": {
+      "tail": "No Brasil, registros na ANVISA: 4 (ativos: 2)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "telmisartan": {
+      "tail": "No Brasil, registros na ANVISA: 49 (ativos: 24)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "tenecteplase": {
+      "tail": "No Brasil, registros na ANVISA: 1 (ativos: 1)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "tenoxicam": {
+      "tail": "No Brasil, registros na ANVISA: 37 (ativos: 14)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "teriparatida": {
+      "tail": "No Brasil, registros na ANVISA: 4 (ativos: 4)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "tezacaftor": {
+      "tail": "No Brasil, registros na ANVISA: 3 (ativos: 3)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "tiabendazol": {
+      "tail": "No Brasil, registros na ANVISA: 57 (ativos: 1)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "ticagrelor": {
+      "tail": "No Brasil, registros na ANVISA: 11 (ativos: 9)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "tioconazole": {
+      "tail": "No Brasil, registros na ANVISA: 62 (ativos: 18)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "tizanidine": {
+      "tail": "No Brasil, registros na ANVISA: 5 (ativos: 2)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "trastuzumab": {
+      "tail": "No Brasil, registros na ANVISA: 15 (ativos: 14)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "travoprost": {
+      "tail": "No Brasil, registros na ANVISA: 29 (ativos: 10)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "triptorelin": {
+      "tail": "No Brasil, registros na ANVISA: 3 (ativos: 3)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "valsartan": {
+      "tail": "No Brasil, registros na ANVISA: 144 (ativos: 44)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "vandetanib": {
+      "tail": "No Brasil, registros na ANVISA: 4 (ativos: 1)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "venetoclax": {
+      "tail": "No Brasil, registros na ANVISA: 1 (ativos: 1)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "vildagliptin": {
+      "tail": "No Brasil, registros na ANVISA: 36 (ativos: 28)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "vinblastine": {
+      "tail": "No Brasil, registros na ANVISA: 12 (ativos: 3)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    },
+    "voxilaprevir": {
+      "tail": "No Brasil, registros na ANVISA: 1 (ativos: 1)",
+      "original": "Indicação original: Não consta nos dados locais",
+      "date": "2026-11-19"
+    }
+  },
+  "entries": [
+    {
+      "page": "docs/_drugs/abatacepte.md",
+      "date": "2026-11-19",
+      "from": "\"Abatacepte: nova indicação prevista, Espondilite anquilosante (ankylosing spondylitis) (nível de evidência L3). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Abatacepte: nova indicação prevista, Espondilite anquilosante (ankylosing spondylitis) (nível de evidência L3). No Brasil, registros na ANVISA: 1 (ativos: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/acetazolamida.md",
+      "date": "2026-11-19",
+      "from": "\"Acetazolamida: nova indicação prevista, hipertermia maligna induzida por exercício (exercise-induced malignant hyperthermia) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Acetazolamida: nova indicação prevista, hipertermia maligna induzida por exercício (exercise-induced malignant hyperthermia) (nível de evidência L5). No Brasil, registros na ANVISA: 3 (ativos: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/adalimumabe.md",
+      "date": "2026-11-19",
+      "from": "\"Adalimumabe: nova indicação prevista, hipermobilidade do cóccix (hypermobility of coccyx) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Adalimumabe: nova indicação prevista, hipermobilidade do cóccix (hypermobility of coccyx) (nível de evidência L5). No Brasil, registros na ANVISA: 14 (ativos: 11)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/adenosina.md",
+      "date": "2026-11-19",
+      "from": "\"Adenosina: nova indicação prevista, bloqueio de ramo obsoleto (obsolete bundle branch block) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Adenosina: nova indicação prevista, bloqueio de ramo obsoleto (obsolete bundle branch block) (nível de evidência L5). No Brasil, registros na ANVISA: 23 (ativos: 5)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/aflibercepte.md",
+      "date": "2026-11-19",
+      "from": "\"Aflibercepte: nova indicação prevista, Esotropia (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Aflibercepte: nova indicação prevista, Esotropia (nível de evidência L5). No Brasil, registros na ANVISA: 6 (ativos: 5)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/agomelatina.md",
+      "date": "2026-11-19",
+      "from": "\"Agomelatina: nova indicação prevista, Paroxismo tortícolo benigno da infância (benign paroxysmal torticollis of infancy) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Agomelatina: nova indicação prevista, Paroxismo tortícolo benigno da infância (benign paroxysmal torticollis of infancy) (nível de evidência L5). No Brasil, registros na ANVISA: 7 (ativos: 5)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/albendazole.md",
+      "date": "2026-11-19",
+      "from": "\"Albendazole: nova indicação prevista, Cenurose (coenurosis) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Albendazole: nova indicação prevista, Cenurose (coenurosis) (nível de evidência L5). No Brasil, registros na ANVISA: 97 (ativos: 24)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/alectinibe_hydrochloride.md",
+      "date": "2026-11-19",
+      "from": "\"Alectinibe Hydrochloride: nova indicação prevista, Fibromatose gengival (fibromatosis, gingival) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Alectinibe Hydrochloride: nova indicação prevista, Fibromatose gengival (fibromatosis, gingival) (nível de evidência L5). No Brasil, registros na ANVISA: 1 (ativos: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/alfacalcidol.md",
+      "date": "2026-11-19",
+      "from": "\"Alfacalcidol: nova indicação prevista, displasia conodisplásica craniofacial (craniofacial conodysplasia) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Alfacalcidol: nova indicação prevista, displasia conodisplásica craniofacial (craniofacial conodysplasia) (nível de evidência L5). No Brasil, registros na ANVISA: 3 (ativos: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/alprostadil.md",
+      "date": "2026-11-19",
+      "from": "\"Alprostadil: nova indicação prevista, Malformação aórtica (aortic malformation) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Alprostadil: nova indicação prevista, Malformação aórtica (aortic malformation) (nível de evidência L5). No Brasil, registros na ANVISA: 11 (ativos: 3)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/alteplase.md",
+      "date": "2026-11-19",
+      "from": "\"Alteplase: nova indicação prevista, Deficiência do cofator II da heparina (heparin cofactor 2 deficiency) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Alteplase: nova indicação prevista, Deficiência do cofator II da heparina (heparin cofactor 2 deficiency) (nível de evidência L5). No Brasil, registros na ANVISA: 1 (ativos: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/ambroxol.md",
+      "date": "2026-11-19",
+      "from": "\"Ambroxol: nova indicação prevista, doença da cavidade nasal (nasal cavity disease) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Ambroxol: nova indicação prevista, doença da cavidade nasal (nasal cavity disease) (nível de evidência L5). No Brasil, registros na ANVISA: 111 (ativos: 36)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/amilorida.md",
+      "date": "2026-11-19",
+      "from": "\"Amilorida: nova indicação prevista, doença renal hipertensiva maligna (malignant hypertensive renal disease) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Amilorida: nova indicação prevista, doença renal hipertensiva maligna (malignant hypertensive renal disease) (nível de evidência L5). No Brasil, registros na ANVISA: 21 (ativos: 3)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/ampicillin.md",
+      "date": "2026-11-19",
+      "from": "\"Ampicillin: nova indicação prevista, laringite (laryngitis) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Ampicillin: nova indicação prevista, laringite (laryngitis) (nível de evidência L5). No Brasil, registros na ANVISA: 125 (ativos: 17)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/apixaban.md",
+      "date": "2026-11-19",
+      "from": "\"Apixaban: nova indicação prevista, transtorno de enxaqueca (migraine disorder) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Apixaban: nova indicação prevista, transtorno de enxaqueca (migraine disorder) (nível de evidência L5). No Brasil, registros na ANVISA: 35 (ativos: 28)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/atenolol.md",
+      "date": "2026-11-19",
+      "from": "\"Atenolol: nova indicação prevista, Doença renal hipertensiva maligna (malignant hypertensive renal disease) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Atenolol: nova indicação prevista, Doença renal hipertensiva maligna (malignant hypertensive renal disease) (nível de evidência L5). No Brasil, registros na ANVISA: 128 (ativos: 40)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/atezolizumabe.md",
+      "date": "2026-11-19",
+      "from": "\"Atezolizumabe: nova indicação prevista, Adenocarcinoma do ligamento uterino (uterine ligament adenocarcinoma) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Atezolizumabe: nova indicação prevista, Adenocarcinoma do ligamento uterino (uterine ligament adenocarcinoma) (nível de evidência L5). No Brasil, registros na ANVISA: 1 (ativos: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/axitinibe.md",
+      "date": "2026-11-19",
+      "from": "\"Axitinibe: nova indicação prevista, lipossarcoma (liposarcoma) (nível de evidência L4). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Axitinibe: nova indicação prevista, lipossarcoma (liposarcoma) (nível de evidência L4). No Brasil, registros na ANVISA: 2 (ativos: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/aztreonam.md",
+      "date": "2026-11-19",
+      "from": "\"Aztreonam: nova indicação prevista, Hiperamilasemia (hyperamylasemia) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Aztreonam: nova indicação prevista, Hiperamilasemia (hyperamylasemia) (nível de evidência L5). No Brasil, registros na ANVISA: 12 (ativos: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/bacitracin.md",
+      "date": "2026-11-19",
+      "from": "\"Bacitracin: nova indicação prevista, Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconjunctivitis) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Bacitracin: nova indicação prevista, Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconjunctivitis) (nível de evidência L5). No Brasil, registros na ANVISA: 75 (ativos: 29)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/belimumabe.md",
+      "date": "2026-11-19",
+      "from": "\"Belimumabe: nova indicação prevista, Distúrbio primário de liberação plaquetária (primary release disorder of platelets) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Belimumabe: nova indicação prevista, Distúrbio primário de liberação plaquetária (primary release disorder of platelets) (nível de evidência L5). No Brasil, registros na ANVISA: 1 (ativos: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/benznidazol.md",
+      "date": "2026-11-19",
+      "from": "\"Benznidazol: nova indicação prevista, Analbuminemia congênita (congenital analbuminemia) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Benznidazol: nova indicação prevista, Analbuminemia congênita (congenital analbuminemia) (nível de evidência L5). No Brasil, registros na ANVISA: 2 (ativos: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/betamethasone.md",
+      "date": "2026-11-19",
+      "from": "\"Betamethasone: nova indicação prevista, Mucinose folicular (alopecia mucinosa) (nível de evidência L4). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Betamethasone: nova indicação prevista, Mucinose folicular (alopecia mucinosa) (nível de evidência L4). No Brasil, registros na ANVISA: 497 (ativos: 172)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/bevacizumab.md",
+      "date": "2026-11-19",
+      "from": "\"Bevacizumab: nova indicação prevista, neoplasia da epiglote (epiglottis neoplasm) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Bevacizumab: nova indicação prevista, neoplasia da epiglote (epiglottis neoplasm) (nível de evidência L5). No Brasil, registros na ANVISA: 12 (ativos: 10)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/bicalutamida.md",
+      "date": "2026-11-19",
+      "from": "\"Bicalutamida: nova indicação prevista, Hipertricose (hypertrichosis (disease)) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Bicalutamida: nova indicação prevista, Hipertricose (hypertrichosis (disease)) (nível de evidência L5). No Brasil, registros na ANVISA: 10 (ativos: 6)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/biotin.md",
+      "date": "2026-11-19",
+      "from": "\"Biotin: nova indicação prevista, dispepsia (dyspepsia) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Biotin: nova indicação prevista, dispepsia (dyspepsia) (nível de evidência L5). No Brasil, registros na ANVISA: 78 (ativos: 8)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/biperiden.md",
+      "date": "2026-11-19",
+      "from": "\"Biperiden: nova indicação prevista, Encefalite subaguda de Rasmussen (Rasmussen subacute encephalitis) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Biperiden: nova indicação prevista, Encefalite subaguda de Rasmussen (Rasmussen subacute encephalitis) (nível de evidência L5). No Brasil, registros na ANVISA: 10 (ativos: 5)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/bisoprolol.md",
+      "date": "2026-11-19",
+      "from": "\"Bisoprolol: nova indicação prevista, Doença renal hipertensiva maligna (malignant hypertensive renal disease) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Bisoprolol: nova indicação prevista, Doença renal hipertensiva maligna (malignant hypertensive renal disease) (nível de evidência L5). No Brasil, registros na ANVISA: 29 (ativos: 20)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/bleomycin.md",
+      "date": "2026-11-19",
+      "from": "\"Bleomycin: nova indicação prevista, Cauda equina neoplasm (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Bleomycin: nova indicação prevista, Cauda equina neoplasm (nível de evidência L5). No Brasil, registros na ANVISA: 11 (ativos: 5)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/brigatinibe.md",
+      "date": "2026-11-19",
+      "from": "\"Brigatinibe: nova indicação prevista, Fibromatose gengival (fibromatosis, gingival) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Brigatinibe: nova indicação prevista, Fibromatose gengival (fibromatosis, gingival) (nível de evidência L5). No Brasil, registros na ANVISA: 2 (ativos: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/budesonide.md",
+      "date": "2026-11-19",
+      "from": "\"Budesonide: nova indicação prevista, eczema atópico (atopic eczema) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Budesonide: nova indicação prevista, eczema atópico (atopic eczema) (nível de evidência L5). No Brasil, registros na ANVISA: 38 (ativos: 18)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/cabazitaxel.md",
+      "date": "2026-11-19",
+      "from": "\"Cabazitaxel: nova indicação prevista, Carcinoma de mama feminino (female breast carcinoma) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Cabazitaxel: nova indicação prevista, Carcinoma de mama feminino (female breast carcinoma) (nível de evidência L5). No Brasil, registros na ANVISA: 8 (ativos: 7)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/cabotegravir.md",
+      "date": "2026-11-19",
+      "from": "\"Cabotegravir: nova indicação prevista, Artrite reumatoide (rheumatoid arthritis) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Cabotegravir: nova indicação prevista, Artrite reumatoide (rheumatoid arthritis) (nível de evidência L5). No Brasil, registros na ANVISA: 4 (ativos: 4)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/calcitriol.md",
+      "date": "2026-11-19",
+      "from": "\"Calcitriol: nova indicação prevista, Deficiência de vitamina D obsoleta (obsolete vitamin D deficiency) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Calcitriol: nova indicação prevista, Deficiência de vitamina D obsoleta (obsolete vitamin D deficiency) (nível de evidência L5). No Brasil, registros na ANVISA: 11 (ativos: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/captopril.md",
+      "date": "2026-11-19",
+      "from": "\"Captopril: nova indicação prevista, doença renal hipertensiva maligna (malignant hypertensive renal disease) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Captopril: nova indicação prevista, doença renal hipertensiva maligna (malignant hypertensive renal disease) (nível de evidência L5). No Brasil, registros na ANVISA: 134 (ativos: 32)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/carboplatin.md",
+      "date": "2026-11-19",
+      "from": "\"Carboplatin: nova indicação prevista, adenocarcinoma mucinoso do reto (rectum mucinous adenocarcinoma) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Carboplatin: nova indicação prevista, adenocarcinoma mucinoso do reto (rectum mucinous adenocarcinoma) (nível de evidência L5). No Brasil, registros na ANVISA: 35 (ativos: 8)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/carfilzomibe.md",
+      "date": "2026-11-19",
+      "from": "\"Carfilzomibe: nova indicação prevista, CMM7 (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Carfilzomibe: nova indicação prevista, CMM7 (nível de evidência L5). No Brasil, registros na ANVISA: 7 (ativos: 7)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/carvedilol.md",
+      "date": "2026-11-19",
+      "from": "\"Carvedilol: nova indicação prevista, doença renal hipertensiva maligna (malignant hypertensive renal disease) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Carvedilol: nova indicação prevista, doença renal hipertensiva maligna (malignant hypertensive renal disease) (nível de evidência L5). No Brasil, registros na ANVISA: 46 (ativos: 21)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/cefazolin.md",
+      "date": "2026-11-19",
+      "from": "\"Cefazolin: nova indicação prevista, Otite média infecciosa (infectious otitis media) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Cefazolin: nova indicação prevista, Otite média infecciosa (infectious otitis media) (nível de evidência L5). No Brasil, registros na ANVISA: 32 (ativos: 8)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/ceftriaxone.md",
+      "date": "2026-11-19",
+      "from": "\"Ceftriaxone: nova indicação prevista, hiperamilasemia (hyperamylasemia) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Ceftriaxone: nova indicação prevista, hiperamilasemia (hyperamylasemia) (nível de evidência L5). No Brasil, registros na ANVISA: 54 (ativos: 15)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/cemiplimab.md",
+      "date": "2026-11-19",
+      "from": "\"Cemiplimab: nova indicação prevista, carcinoma adenoescamoso da vesícula biliar (gallbladder adenosquamous carcinoma) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Cemiplimab: nova indicação prevista, carcinoma adenoescamoso da vesícula biliar (gallbladder adenosquamous carcinoma) (nível de evidência L5). No Brasil, registros na ANVISA: 2 (ativos: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/centella_asiatica.md",
+      "date": "2026-11-19",
+      "from": "\"Centella Asiatica: nova indicação prevista, insônia (insomnia) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Centella Asiatica: nova indicação prevista, insônia (insomnia) (nível de evidência L5). No Brasil, registros na ANVISA: 16 (ativos: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/chlorambucil.md",
+      "date": "2026-11-19",
+      "from": "\"Chlorambucil: nova indicação prevista, Linfoma de grandes células B ALK-positivo (ALK-positive large B-cell lymphoma) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Chlorambucil: nova indicação prevista, Linfoma de grandes células B ALK-positivo (ALK-positive large B-cell lymphoma) (nível de evidência L5). No Brasil, registros na ANVISA: 3 (ativos: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/ciprofloxacin.md",
+      "date": "2026-11-19",
+      "from": "\"Ciprofloxacin: nova indicação prevista, esclerodermia difusa (diffuse scleroderma) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Ciprofloxacin: nova indicação prevista, esclerodermia difusa (diffuse scleroderma) (nível de evidência L5). No Brasil, registros na ANVISA: 188 (ativos: 61)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/citalopram.md",
+      "date": "2026-11-19",
+      "from": "\"Citalopram: nova indicação prevista, Transtorno Obsessivo-Compulsivo (obsessive-compulsive disorder) (nível de evidência L3). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Citalopram: nova indicação prevista, Transtorno Obsessivo-Compulsivo (obsessive-compulsive disorder) (nível de evidência L3). No Brasil, registros na ANVISA: pelo menos 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/clioquinol.md",
+      "date": "2026-11-19",
+      "from": "\"Clioquinol: nova indicação prevista, Doença infecciosa ectotrix (ectothrix infectious disease) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Clioquinol: nova indicação prevista, Doença infecciosa ectotrix (ectothrix infectious disease) (nível de evidência L5). No Brasil, registros na ANVISA: 96 (ativos: 30)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/clobutinol.md",
+      "date": "2026-11-19",
+      "from": "\"Clobutinol: nova indicação prevista, febre tifoide (typhoid fever) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Clobutinol: nova indicação prevista, febre tifoide (typhoid fever) (nível de evidência L5). No Brasil, registros na ANVISA: 18 (ativos: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/clomifene.md",
+      "date": "2026-11-19",
+      "from": "\"Clomifene: nova indicação prevista, 46,XY disorder of sex development due to testicular steroidogenesis defect (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Clomifene: nova indicação prevista, 46,XY disorder of sex development due to testicular steroidogenesis defect (nível de evidência L5). No Brasil, registros na ANVISA: 8 (ativos: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/clonazepam.md",
+      "date": "2026-11-19",
+      "from": "\"Clonazepam: nova indicação prevista, Síndrome das pernas inquietas (restless legs syndrome) (nível de evidência L3). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Clonazepam: nova indicação prevista, Síndrome das pernas inquietas (restless legs syndrome) (nível de evidência L3). No Brasil, registros na ANVISA: 59 (ativos: 28)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/clopidogrel.md",
+      "date": "2026-11-19",
+      "from": "\"Clopidogrel: nova indicação prevista, enxaqueca com aura de tronco encefálico (migraine with brainstem aura) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Clopidogrel: nova indicação prevista, enxaqueca com aura de tronco encefálico (migraine with brainstem aura) (nível de evidência L5). No Brasil, registros na ANVISA: 68 (ativos: 30)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/clozapine.md",
+      "date": "2026-11-19",
+      "from": "\"Clozapine: nova indicação prevista, Transtorno afetivo bipolar maníaco (manic bipolar affective disorder) (nível de evidência L2). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Clozapine: nova indicação prevista, Transtorno afetivo bipolar maníaco (manic bipolar affective disorder) (nível de evidência L2). No Brasil, registros na ANVISA: 13 (ativos: 5)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/danazol.md",
+      "date": "2026-11-19",
+      "from": "\"Danazol: nova indicação prevista, Amenorreia (amenorrhea (disease)) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Danazol: nova indicação prevista, Amenorreia (amenorrhea (disease)) (nível de evidência L5). No Brasil, registros na ANVISA: 4 (ativos: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/deferasirox.md",
+      "date": "2026-11-19",
+      "from": "\"Deferasirox: nova indicação prevista, Infecção por HIV (HIV infectious disease) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Deferasirox: nova indicação prevista, Infecção por HIV (HIV infectious disease) (nível de evidência L5). No Brasil, registros na ANVISA: 10 (ativos: 6)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/degarelix.md",
+      "date": "2026-11-19",
+      "from": "\"Degarelix: nova indicação prevista, Hipertricose (hypertrichosis (disease)) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Degarelix: nova indicação prevista, Hipertricose (hypertrichosis (disease)) (nível de evidência L5). No Brasil, registros na ANVISA: 1 (ativos: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/dexamethasone.md",
+      "date": "2026-11-19",
+      "from": "\"Dexamethasone: nova indicação prevista, Alopecia mucinosa (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Dexamethasone: nova indicação prevista, Alopecia mucinosa (nível de evidência L5). No Brasil, registros na ANVISA: 263 (ativos: 83)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/diazepam.md",
+      "date": "2026-11-19",
+      "from": "\"Diazepam: nova indicação prevista, Insônia (insomnia (disease)) (nível de evidência L2). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Diazepam: nova indicação prevista, Insônia (insomnia (disease)) (nível de evidência L2). No Brasil, registros na ANVISA: 53 (ativos: 18)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/diclofenac.md",
+      "date": "2026-11-19",
+      "from": "\"Diclofenac: nova indicação prevista, Hipotricose simples do couro cabeludo (hypotrichosis simplex of the scalp) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Diclofenac: nova indicação prevista, Hipotricose simples do couro cabeludo (hypotrichosis simplex of the scalp) (nível de evidência L5). No Brasil, registros na ANVISA: 397 (ativos: 102)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/dienogest.md",
+      "date": "2026-11-19",
+      "from": "\"Dienogest: nova indicação prevista, Amenorreia (amenorrhea (disease)) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Dienogest: nova indicação prevista, Amenorreia (amenorrhea (disease)) (nível de evidência L5). No Brasil, registros na ANVISA: 36 (ativos: 23)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/digoxin.md",
+      "date": "2026-11-19",
+      "from": "\"Digoxin: nova indicação prevista, Angina de Prinzmetal (Prinzmetal angina) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Digoxin: nova indicação prevista, Angina de Prinzmetal (Prinzmetal angina) (nível de evidência L5). No Brasil, registros na ANVISA: 56 (ativos: 6)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/docetaxel.md",
+      "date": "2026-11-19",
+      "from": "\"Docetaxel: nova indicação prevista, Sarcoma de Ewing (Ewing sarcoma) (nível de evidência L2). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Docetaxel: nova indicação prevista, Sarcoma de Ewing (Ewing sarcoma) (nível de evidência L2). No Brasil, registros na ANVISA: 29 (ativos: 15)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/donepezil.md",
+      "date": "2026-11-19",
+      "from": "\"Donepezil: nova indicação prevista, Transtornos de movimento psicogênicos (psychogenic movement disorders) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Donepezil: nova indicação prevista, Transtornos de movimento psicogênicos (psychogenic movement disorders) (nível de evidência L5). No Brasil, registros na ANVISA: 66 (ativos: 50)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/droperidol.md",
+      "date": "2026-11-19",
+      "from": "\"Droperidol: nova indicação prevista, Síndrome de Tourette (Tourette syndrome) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Droperidol: nova indicação prevista, Síndrome de Tourette (Tourette syndrome) (nível de evidência L5). No Brasil, registros na ANVISA: 3 (ativos: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/efavirenz.md",
+      "date": "2026-11-19",
+      "from": "\"Efavirenz: nova indicação prevista, síndrome da imunodeficiência adquirida felina (feline acquired immunodeficiency syndrome) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Efavirenz: nova indicação prevista, síndrome da imunodeficiência adquirida felina (feline acquired immunodeficiency syndrome) (nível de evidência L5). No Brasil, registros na ANVISA: 6 (ativos: 3)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/elafibranor.md",
+      "date": "2026-11-19",
+      "from": "\"Elafibranor: nova indicação prevista, Amenorreia (amenorrhea (disease)) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Elafibranor: nova indicação prevista, Amenorreia (amenorrhea (disease)) (nível de evidência L5). No Brasil, registros na ANVISA: 1 (ativos: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/empagliflozin.md",
+      "date": "2026-11-19",
+      "from": "\"Empagliflozin: nova indicação prevista, Síndrome do membro rígido focal (focal stiff limb syndrome) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Empagliflozin: nova indicação prevista, Síndrome do membro rígido focal (focal stiff limb syndrome) (nível de evidência L5). No Brasil, registros na ANVISA: 27 (ativos: 27)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/etonogestrel.md",
+      "date": "2026-11-19",
+      "from": "\"Etonogestrel: nova indicação prevista, Amenorreia (amenorrhea (disease)) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Etonogestrel: nova indicação prevista, Amenorreia (amenorrhea (disease)) (nível de evidência L5). No Brasil, registros na ANVISA: 8 (ativos: 5)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/etoricoxib.md",
+      "date": "2026-11-19",
+      "from": "\"Etoricoxib: nova indicação prevista, Transtorno de enxaqueca (migraine disorder) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Etoricoxib: nova indicação prevista, Transtorno de enxaqueca (migraine disorder) (nível de evidência L5). No Brasil, registros na ANVISA: 32 (ativos: 29)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/fenticonazole.md",
+      "date": "2026-11-19",
+      "from": "\"Fenticonazole: nova indicação prevista, Vulvovaginite tricomonásica (trichomonal vulvovaginitis) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Fenticonazole: nova indicação prevista, Vulvovaginite tricomonásica (trichomonal vulvovaginitis) (nível de evidência L5). No Brasil, registros na ANVISA: 18 (ativos: 6)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/filgrastim.md",
+      "date": "2026-11-19",
+      "from": "\"Filgrastim: nova indicação prevista, Distúrbio de liberação primário das plaquetas (primary release disorder of platelets) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Filgrastim: nova indicação prevista, Distúrbio de liberação primário das plaquetas (primary release disorder of platelets) (nível de evidência L5). No Brasil, registros na ANVISA: 14 (ativos: 6)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/gefitinib.md",
+      "date": "2026-11-19",
+      "from": "\"Gefitinib: nova indicação prevista, Fibromatose gengival (fibromatosis, gingival) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Gefitinib: nova indicação prevista, Fibromatose gengival (fibromatosis, gingival) (nível de evidência L5). No Brasil, registros na ANVISA: 10 (ativos: 8)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/glucagon.md",
+      "date": "2026-11-19",
+      "from": "\"Glucagon: nova indicação prevista, Síndrome do intestino irritável (irritable bowel syndrome) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Glucagon: nova indicação prevista, Síndrome do intestino irritável (irritable bowel syndrome) (nível de evidência L5). No Brasil, registros na ANVISA: 2 (ativos: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/glycine.md",
+      "date": "2026-11-19",
+      "from": "\"Glycine: nova indicação prevista, Doença da cavidade nasal (nasal cavity disease) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Glycine: nova indicação prevista, Doença da cavidade nasal (nasal cavity disease) (nível de evidência L5). No Brasil, registros na ANVISA: pelo menos 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/guaifenesin.md",
+      "date": "2026-11-19",
+      "from": "\"Guaifenesin: nova indicação prevista, doença da cavidade nasal (nasal cavity disease) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Guaifenesin: nova indicação prevista, doença da cavidade nasal (nasal cavity disease) (nível de evidência L5). No Brasil, registros na ANVISA: 128 (ativos: 30)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/hesperidin.md",
+      "date": "2026-11-19",
+      "from": "\"Hesperidin: nova indicação prevista, neoplasia mieloproliferativa (myeloproliferative neoplasm) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Hesperidin: nova indicação prevista, neoplasia mieloproliferativa (myeloproliferative neoplasm) (nível de evidência L5). No Brasil, registros na ANVISA: 51 (ativos: 35)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/hydrocortisone.md",
+      "date": "2026-11-19",
+      "from": "\"Hydrocortisone: nova indicação prevista, Alopecia areata (nível de evidência L2). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Hydrocortisone: nova indicação prevista, Alopecia areata (nível de evidência L2). No Brasil, registros na ANVISA: 74 (ativos: 14)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/imatinib.md",
+      "date": "2026-11-19",
+      "from": "\"Imatinib: nova indicação prevista, fibrossarcoma cardíaco (heart fibrosarcoma) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Imatinib: nova indicação prevista, fibrossarcoma cardíaco (heart fibrosarcoma) (nível de evidência L5). No Brasil, registros na ANVISA: 29 (ativos: 17)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/imipenem.md",
+      "date": "2026-11-19",
+      "from": "\"Imipenem: nova indicação prevista, Esclerodermia difusa (diffuse scleroderma) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Imipenem: nova indicação prevista, Esclerodermia difusa (diffuse scleroderma) (nível de evidência L5). No Brasil, registros na ANVISA: 21 (ativos: 8)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/irbesartan.md",
+      "date": "2026-11-19",
+      "from": "\"Irbesartan: nova indicação prevista, Doença renal hipertensiva maligna (malignant hypertensive renal disease) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Irbesartan: nova indicação prevista, Doença renal hipertensiva maligna (malignant hypertensive renal disease) (nível de evidência L5). No Brasil, registros na ANVISA: 28 (ativos: 4)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/isotretinoin.md",
+      "date": "2026-11-19",
+      "from": "\"Isotretinoin: nova indicação prevista, Doença Renal Hipertensiva Maligna (malignant hypertensive renal disease) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Isotretinoin: nova indicação prevista, Doença Renal Hipertensiva Maligna (malignant hypertensive renal disease) (nível de evidência L5). No Brasil, registros na ANVISA: 44 (ativos: 13)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/ivermectin.md",
+      "date": "2026-11-19",
+      "from": "\"Ivermectin: nova indicação prevista, candidíase vulvovaginal (vulvovaginal candidiasis) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Ivermectin: nova indicação prevista, candidíase vulvovaginal (vulvovaginal candidiasis) (nível de evidência L5). No Brasil, registros na ANVISA: 24 (ativos: 12)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/ketorolac.md",
+      "date": "2026-11-19",
+      "from": "\"Ketorolac: nova indicação prevista, Transtorno de cefaleia (headache disorder) (nível de evidência L1). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Ketorolac: nova indicação prevista, Transtorno de cefaleia (headache disorder) (nível de evidência L1). No Brasil, registros na ANVISA: 76 (ativos: 51)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/lactulose.md",
+      "date": "2026-11-19",
+      "from": "\"Lactulose: nova indicação prevista, nefropatia aguda por urato (acute urate nephropathy) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Lactulose: nova indicação prevista, nefropatia aguda por urato (acute urate nephropathy) (nível de evidência L5). No Brasil, registros na ANVISA: 18 (ativos: 7)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/laronidase.md",
+      "date": "2026-11-19",
+      "from": "\"Laronidase: nova indicação prevista, Síndrome de Sanfilippo (Sanfilippo syndrome) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Laronidase: nova indicação prevista, Síndrome de Sanfilippo (Sanfilippo syndrome) (nível de evidência L5). No Brasil, registros na ANVISA: 2 (ativos: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/latanoprost.md",
+      "date": "2026-11-19",
+      "from": "\"Latanoprost: nova indicação prevista, Calcifilaxia visceral (visceral calciphylaxis) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Latanoprost: nova indicação prevista, Calcifilaxia visceral (visceral calciphylaxis) (nível de evidência L5). No Brasil, registros na ANVISA: 50 (ativos: 20)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/ledipasvir.md",
+      "date": "2026-11-19",
+      "from": "\"Ledipasvir: nova indicação prevista, Infecção pelo vírus da hepatite B (hepatitis B virus infection) (nível de evidência L2). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Ledipasvir: nova indicação prevista, Infecção pelo vírus da hepatite B (hepatitis B virus infection) (nível de evidência L2). No Brasil, registros na ANVISA: 1 (ativos: 0)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/leflunomida.md",
+      "date": "2026-11-19",
+      "from": "\"Leflunomida: nova indicação prevista, Síndrome de braquidactilia-sindactilia (brachydactyly-syndactyly syndrome) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Leflunomida: nova indicação prevista, Síndrome de braquidactilia-sindactilia (brachydactyly-syndactyly syndrome) (nível de evidência L5). No Brasil, registros na ANVISA: 19 (ativos: 7)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/lenalidomida.md",
+      "date": "2026-11-19",
+      "from": "\"Lenalidomida: nova indicação prevista, Leucemia mieloide (myeloid leukemia) (nível de evidência L1). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Lenalidomida: nova indicação prevista, Leucemia mieloide (myeloid leukemia) (nível de evidência L1). No Brasil, registros na ANVISA: 11 (ativos: 9)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/lenvatinib.md",
+      "date": "2026-11-19",
+      "from": "\"Lenvatinib: nova indicação prevista, Lipossarcoma (liposarcoma) (nível de evidência L3). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Lenvatinib: nova indicação prevista, Lipossarcoma (liposarcoma) (nível de evidência L3). No Brasil, registros na ANVISA: 6 (ativos: 5)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/letermovir.md",
+      "date": "2026-11-19",
+      "from": "\"Letermovir: nova indicação prevista, candidíase vulvovaginal (vulvovaginal candidiasis) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Letermovir: nova indicação prevista, candidíase vulvovaginal (vulvovaginal candidiasis) (nível de evidência L5). No Brasil, registros na ANVISA: 3 (ativos: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/levetiracetam.md",
+      "date": "2026-11-19",
+      "from": "\"Levetiracetam: nova indicação prevista, Beta-ketothiolase deficiency (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Levetiracetam: nova indicação prevista, Beta-ketothiolase deficiency (nível de evidência L5). No Brasil, registros na ANVISA: 54 (ativos: 49)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/levodopa.md",
+      "date": "2026-11-19",
+      "from": "\"Levodopa: nova indicação prevista, Encefalite Subaguda de Rasmussen (Rasmussen subacute encephalitis) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Levodopa: nova indicação prevista, Encefalite Subaguda de Rasmussen (Rasmussen subacute encephalitis) (nível de evidência L5). No Brasil, registros na ANVISA: 27 (ativos: 13)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/levofloxacina.md",
+      "date": "2026-11-19",
+      "from": "\"Levofloxacina: nova indicação prevista, Ceratoconjuntivite epitelial puntiforme (punctate epithelial keratoconjunctivitis) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Levofloxacina: nova indicação prevista, Ceratoconjuntivite epitelial puntiforme (punctate epithelial keratoconjunctivitis) (nível de evidência L5). No Brasil, registros na ANVISA: 78 (ativos: 38)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/levometionina.md",
+      "date": "2026-11-19",
+      "from": "\"Levometionina: nova indicação prevista, Acne (acne (disease)) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Levometionina: nova indicação prevista, Acne (acne (disease)) (nível de evidência L5). No Brasil, registros na ANVISA: 88 (ativos: 21)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/levonorgestrel.md",
+      "date": "2026-11-19",
+      "from": "\"Levonorgestrel: nova indicação prevista, acne (acne (disease)) (nível de evidência L2). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Levonorgestrel: nova indicação prevista, acne (acne (disease)) (nível de evidência L2). No Brasil, registros na ANVISA: 95 (ativos: 33)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/lipegfilgrastim.md",
+      "date": "2026-11-19",
+      "from": "\"Lipegfilgrastim: nova indicação prevista, Distúrbio primário de liberação plaquetária (primary release disorder of platelets) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Lipegfilgrastim: nova indicação prevista, Distúrbio primário de liberação plaquetária (primary release disorder of platelets) (nível de evidência L5). No Brasil, registros na ANVISA: 1 (ativos: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/lorazepam.md",
+      "date": "2026-11-19",
+      "from": "\"Lorazepam: nova indicação prevista, Neoplasia do Nervo Trigêmeo (trigeminal nerve neoplasm) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Lorazepam: nova indicação prevista, Neoplasia do Nervo Trigêmeo (trigeminal nerve neoplasm) (nível de evidência L5). No Brasil, registros na ANVISA: 24 (ativos: 7)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/lornoxicam.md",
+      "date": "2026-11-19",
+      "from": "\"Lornoxicam: nova indicação prevista, Transtorno de enxaqueca (migraine disorder) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Lornoxicam: nova indicação prevista, Transtorno de enxaqueca (migraine disorder) (nível de evidência L5). No Brasil, registros na ANVISA: 3 (ativos: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/lumacaftor.md",
+      "date": "2026-11-19",
+      "from": "\"Lumacaftor: nova indicação prevista, Hanseníase (leprosy) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Lumacaftor: nova indicação prevista, Hanseníase (leprosy) (nível de evidência L5). No Brasil, registros na ANVISA: 2 (ativos: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/meropenem.md",
+      "date": "2026-11-19",
+      "from": "\"Meropenem: nova indicação prevista, artrite bacteriana (bacterial arthritis) (nível de evidência L4). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Meropenem: nova indicação prevista, artrite bacteriana (bacterial arthritis) (nível de evidência L4). No Brasil, registros na ANVISA: 23 (ativos: 10)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/midazolam.md",
+      "date": "2026-11-19",
+      "from": "\"Midazolam: nova indicação prevista, Insônia (insomnia (disease)) (nível de evidência L3). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Midazolam: nova indicação prevista, Insônia (insomnia (disease)) (nível de evidência L3). No Brasil, registros na ANVISA: 32 (ativos: 11)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/minoxidil.md",
+      "date": "2026-11-19",
+      "from": "\"Minoxidil: nova indicação prevista, hipotricose simples do couro cabeludo (hypotrichosis simplex of the scalp) (nível de evidência L4). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Minoxidil: nova indicação prevista, hipotricose simples do couro cabeludo (hypotrichosis simplex of the scalp) (nível de evidência L4). No Brasil, registros na ANVISA: 34 (ativos: 23)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/modafinil.md",
+      "date": "2026-11-19",
+      "from": "\"Modafinil: nova indicação prevista, insônia (insomnia (disease)) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Modafinil: nova indicação prevista, insônia (insomnia (disease)) (nível de evidência L5). No Brasil, registros na ANVISA: 2 (ativos: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/naproxen.md",
+      "date": "2026-11-19",
+      "from": "\"Naproxen: nova indicação prevista, Síndrome de braquidactilia-sindactilia (brachydactyly-syndactyly syndrome) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Naproxen: nova indicação prevista, Síndrome de braquidactilia-sindactilia (brachydactyly-syndactyly syndrome) (nível de evidência L5). No Brasil, registros na ANVISA: 45 (ativos: 19)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/nitrazepam.md",
+      "date": "2026-11-19",
+      "from": "\"Nitrazepam: nova indicação prevista, Wernicke-Korsakoff syndrome (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Nitrazepam: nova indicação prevista, Wernicke-Korsakoff syndrome (nível de evidência L5). No Brasil, registros na ANVISA: 13 (ativos: 3)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/nitrogen.md",
+      "date": "2026-11-19",
+      "from": "\"Nitrogen: nova indicação prevista, 16q24.1 microdeletion syndrome (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Nitrogen: nova indicação prevista, 16q24.1 microdeletion syndrome (nível de evidência L5). No Brasil, registros na ANVISA: 1 (ativos: 0)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/nystatin.md",
+      "date": "2026-11-19",
+      "from": "\"Nystatin: nova indicação prevista, Doença da região orbital (disease of orbital region) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Nystatin: nova indicação prevista, Doença da região orbital (disease of orbital region) (nível de evidência L5). No Brasil, registros na ANVISA: 235 (ativos: 67)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/omeprazole.md",
+      "date": "2026-11-19",
+      "from": "\"Omeprazole: nova indicação prevista, Duodenal obstruction (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Omeprazole: nova indicação prevista, Duodenal obstruction (nível de evidência L5). No Brasil, registros na ANVISA: 128 (ativos: 39)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/oxaliplatin.md",
+      "date": "2026-11-19",
+      "from": "\"Oxaliplatin: nova indicação prevista, Mesotelioma Pleural Maligno (malignant pleural mesothelioma) (nível de evidência L2). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Oxaliplatin: nova indicação prevista, Mesotelioma Pleural Maligno (malignant pleural mesothelioma) (nível de evidência L2). No Brasil, registros na ANVISA: 35 (ativos: 16)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/paclitaxel.md",
+      "date": "2026-11-19",
+      "from": "\"Paclitaxel: nova indicação prevista, Parameningeal embryonal rhabdomyosarcoma (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Paclitaxel: nova indicação prevista, Parameningeal embryonal rhabdomyosarcoma (nível de evidência L5). No Brasil, registros na ANVISA: 49 (ativos: 15)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/palbociclibe.md",
+      "date": "2026-11-19",
+      "from": "\"Palbociclibe: nova indicação prevista, Hipertireoidismo (hyperthyroidism) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Palbociclibe: nova indicação prevista, Hipertireoidismo (hyperthyroidism) (nível de evidência L5). No Brasil, registros na ANVISA: 8 (ativos: 7)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/palivizumabe.md",
+      "date": "2026-11-19",
+      "from": "\"Palivizumabe: nova indicação prevista, Neoplasia benigna da língua (benign neoplasm of tongue) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Palivizumabe: nova indicação prevista, Neoplasia benigna da língua (benign neoplasm of tongue) (nível de evidência L5). No Brasil, registros na ANVISA: 3 (ativos: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/pegaspargase.md",
+      "date": "2026-11-19",
+      "from": "\"Pegaspargase: nova indicação prevista, Pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Pegaspargase: nova indicação prevista, Pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma (nível de evidência L5). No Brasil, registros na ANVISA: 3 (ativos: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/pegvaliase.md",
+      "date": "2026-11-19",
+      "from": "\"Pegvaliase: nova indicação prevista, Retinopatia diabética (diabetic retinopathy) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Pegvaliase: nova indicação prevista, Retinopatia diabética (diabetic retinopathy) (nível de evidência L5). No Brasil, registros na ANVISA: 1 (ativos: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/penciclovir.md",
+      "date": "2026-11-19",
+      "from": "\"Penciclovir: nova indicação prevista, fascioliase (fascioliasis) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Penciclovir: nova indicação prevista, fascioliase (fascioliasis) (nível de evidência L5). No Brasil, registros na ANVISA: 4 (ativos: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/perampanel.md",
+      "date": "2026-11-19",
+      "from": "\"Perampanel: nova indicação prevista, Beta-ketothiolase deficiency (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Perampanel: nova indicação prevista, Beta-ketothiolase deficiency (nível de evidência L5). No Brasil, registros na ANVISA: 2 (ativos: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/pibrentasvir.md",
+      "date": "2026-11-19",
+      "from": "\"Pibrentasvir: nova indicação prevista, Infecção pelo vírus da hepatite B (hepatitis B virus infection) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Pibrentasvir: nova indicação prevista, Infecção pelo vírus da hepatite B (hepatitis B virus infection) (nível de evidência L5). No Brasil, registros na ANVISA: 1 (ativos: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/piroxicam.md",
+      "date": "2026-11-19",
+      "from": "\"Piroxicam: nova indicação prevista, Colobomatous microphthalmia-rhizomelic dysplasia syndrome (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Piroxicam: nova indicação prevista, Colobomatous microphthalmia-rhizomelic dysplasia syndrome (nível de evidência L5). No Brasil, registros na ANVISA: 70 (ativos: 10)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/plerixafor.md",
+      "date": "2026-11-19",
+      "from": "\"Plerixafor: nova indicação prevista, CMM7 (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Plerixafor: nova indicação prevista, CMM7 (nível de evidência L5). No Brasil, registros na ANVISA: 3 (ativos: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/polidocanol.md",
+      "date": "2026-11-19",
+      "from": "\"Polidocanol: nova indicação prevista, Varizes esofágicas com sangramento (esophageal varices with bleeding) (nível de evidência L2). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Polidocanol: nova indicação prevista, Varizes esofágicas com sangramento (esophageal varices with bleeding) (nível de evidência L2). No Brasil, registros na ANVISA: 2 (ativos: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/prasugrel.md",
+      "date": "2026-11-19",
+      "from": "\"Prasugrel: nova indicação prevista, Hipertensão Pulmonar (pulmonary hypertension) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Prasugrel: nova indicação prevista, Hipertensão Pulmonar (pulmonary hypertension) (nível de evidência L5). No Brasil, registros na ANVISA: 2 (ativos: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/prednisone.md",
+      "date": "2026-11-19",
+      "from": "\"Prednisone: nova indicação prevista, Alopecia areata (nível de evidência L3). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Prednisone: nova indicação prevista, Alopecia areata (nível de evidência L3). No Brasil, registros na ANVISA: 65 (ativos: 22)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/pregabalin.md",
+      "date": "2026-11-19",
+      "from": "\"Pregabalin: nova indicação prevista, Tendinite (tendinitis) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Pregabalin: nova indicação prevista, Tendinite (tendinitis) (nível de evidência L5). No Brasil, registros na ANVISA: 86 (ativos: 60)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/progesterone.md",
+      "date": "2026-11-19",
+      "from": "\"Progesterone: nova indicação prevista, Doença fibrocística da mama (breast fibrocystic disease) (nível de evidência L4). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Progesterone: nova indicação prevista, Doença fibrocística da mama (breast fibrocystic disease) (nível de evidência L4). No Brasil, registros na ANVISA: 16 (ativos: 7)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/rasburicase.md",
+      "date": "2026-11-19",
+      "from": "\"Rasburicase: nova indicação prevista, Hipouricemia Renal (hypouricemia, renal) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Rasburicase: nova indicação prevista, Hipouricemia Renal (hypouricemia, renal) (nível de evidência L5). No Brasil, registros na ANVISA: 3 (ativos: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/risdiplam.md",
+      "date": "2026-11-19",
+      "from": "\"Risdiplam: nova indicação prevista, Acne (acne (disease)) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Risdiplam: nova indicação prevista, Acne (acne (disease)) (nível de evidência L5). No Brasil, registros na ANVISA: 1 (ativos: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/ritonavir.md",
+      "date": "2026-11-19",
+      "from": "\"Ritonavir: nova indicação prevista, Infecção pelo vírus da imunodeficiência símia (simian immunodeficiency virus infection) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Ritonavir: nova indicação prevista, Infecção pelo vírus da imunodeficiência símia (simian immunodeficiency virus infection) (nível de evidência L5). No Brasil, registros na ANVISA: 15 (ativos: 5)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/romiplostim.md",
+      "date": "2026-11-19",
+      "from": "\"Romiplostim: nova indicação prevista, Distúrbio primário de liberação plaquetária (primary release disorder of platelets) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Romiplostim: nova indicação prevista, Distúrbio primário de liberação plaquetária (primary release disorder of platelets) (nível de evidência L5). No Brasil, registros na ANVISA: 3 (ativos: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/sacituzumab_govitecan.md",
+      "date": "2026-11-19",
+      "from": "\"Sacituzumab Govitecan: nova indicação prevista, Osteoporose induzida por fármacos (drug-induced osteoporosis) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Sacituzumab Govitecan: nova indicação prevista, Osteoporose induzida por fármacos (drug-induced osteoporosis) (nível de evidência L5). No Brasil, registros na ANVISA: 1 (ativos: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/salbutamol.md",
+      "date": "2026-11-19",
+      "from": "\"Salbutamol: nova indicação prevista, Conjuntivite papilar (papillary conjunctivitis) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Salbutamol: nova indicação prevista, Conjuntivite papilar (papillary conjunctivitis) (nível de evidência L5). No Brasil, registros na ANVISA: 98 (ativos: 17)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/selenium.md",
+      "date": "2026-11-19",
+      "from": "\"Selenium: nova indicação prevista, Colangite Esclerosante (sclerosing cholangitis) (nível de evidência L4). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Selenium: nova indicação prevista, Colangite Esclerosante (sclerosing cholangitis) (nível de evidência L4). No Brasil, registros na ANVISA: 4 (ativos: 0)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/sirolimus.md",
+      "date": "2026-11-19",
+      "from": "\"Sirolimus: nova indicação prevista, lipossarcoma (liposarcoma) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Sirolimus: nova indicação prevista, lipossarcoma (liposarcoma) (nível de evidência L5). No Brasil, registros na ANVISA: 4 (ativos: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/sofosbuvir.md",
+      "date": "2026-11-19",
+      "from": "\"Sofosbuvir: nova indicação prevista, Infecção pelo vírus da hepatite B (hepatitis B virus infection) (nível de evidência L3). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Sofosbuvir: nova indicação prevista, Infecção pelo vírus da hepatite B (hepatitis B virus infection) (nível de evidência L3). No Brasil, registros na ANVISA: 9 (ativos: 7)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/sorafenib.md",
+      "date": "2026-11-19",
+      "from": "\"Sorafenib: nova indicação prevista, lipossarcoma (liposarcoma) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Sorafenib: nova indicação prevista, lipossarcoma (liposarcoma) (nível de evidência L5). No Brasil, registros na ANVISA: 4 (ativos: 3)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/sorbitol.md",
+      "date": "2026-11-19",
+      "from": "\"Sorbitol: nova indicação prevista, Hipertermia maligna induzida por exercício (exercise-induced malignant hyperthermia) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Sorbitol: nova indicação prevista, Hipertermia maligna induzida por exercício (exercise-induced malignant hyperthermia) (nível de evidência L5). No Brasil, registros na ANVISA: 33 (ativos: 6)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/tacrolimus.md",
+      "date": "2026-11-19",
+      "from": "\"Tacrolimus: nova indicação prevista, Dermatite seborreica (seborrheic dermatitis) (nível de evidência L1). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Tacrolimus: nova indicação prevista, Dermatite seborreica (seborrheic dermatitis) (nível de evidência L1). No Brasil, registros na ANVISA: 30 (ativos: 15)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/tamoxifen.md",
+      "date": "2026-11-19",
+      "from": "\"Tamoxifen: nova indicação prevista, Doença de Paget mamária (mammary Paget disease) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Tamoxifen: nova indicação prevista, Doença de Paget mamária (mammary Paget disease) (nível de evidência L5). No Brasil, registros na ANVISA: 30 (ativos: 11)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/tapentadol.md",
+      "date": "2026-11-19",
+      "from": "\"Tapentadol: nova indicação prevista, Enxaqueca (migraine disorder) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Tapentadol: nova indicação prevista, Enxaqueca (migraine disorder) (nível de evidência L5). No Brasil, registros na ANVISA: 4 (ativos: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/telmisartan.md",
+      "date": "2026-11-19",
+      "from": "\"Telmisartan: nova indicação prevista, Prinzmetal angina (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Telmisartan: nova indicação prevista, Prinzmetal angina (nível de evidência L5). No Brasil, registros na ANVISA: 49 (ativos: 24)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/tenecteplase.md",
+      "date": "2026-11-19",
+      "from": "\"Tenecteplase: nova indicação prevista, Congenital coronary artery anomaly (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Tenecteplase: nova indicação prevista, Congenital coronary artery anomaly (nível de evidência L5). No Brasil, registros na ANVISA: 1 (ativos: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/tenoxicam.md",
+      "date": "2026-11-19",
+      "from": "\"Tenoxicam: nova indicação prevista, Brachydactyly-syndactyly syndrome (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Tenoxicam: nova indicação prevista, Brachydactyly-syndactyly syndrome (nível de evidência L5). No Brasil, registros na ANVISA: 37 (ativos: 14)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/teriparatida.md",
+      "date": "2026-11-19",
+      "from": "\"Teriparatida: nova indicação prevista, Duodenal ulcer (disease) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Teriparatida: nova indicação prevista, Duodenal ulcer (disease) (nível de evidência L5). No Brasil, registros na ANVISA: 4 (ativos: 4)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/tezacaftor.md",
+      "date": "2026-11-19",
+      "from": "\"Tezacaftor: nova indicação prevista, Doença infecciosa por HIV (HIV infectious disease) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Tezacaftor: nova indicação prevista, Doença infecciosa por HIV (HIV infectious disease) (nível de evidência L5). No Brasil, registros na ANVISA: 3 (ativos: 3)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/tiabendazol.md",
+      "date": "2026-11-19",
+      "from": "\"Tiabendazol: nova indicação prevista, Equinococose granulosa (echinococcus granulosus infectious disease) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Tiabendazol: nova indicação prevista, Equinococose granulosa (echinococcus granulosus infectious disease) (nível de evidência L5). No Brasil, registros na ANVISA: 57 (ativos: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/ticagrelor.md",
+      "date": "2026-11-19",
+      "from": "\"Ticagrelor: nova indicação prevista, Arteriosclerose Intracraniana (intracranial arteriosclerosis) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Ticagrelor: nova indicação prevista, Arteriosclerose Intracraniana (intracranial arteriosclerosis) (nível de evidência L5). No Brasil, registros na ANVISA: 11 (ativos: 9)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/tioconazole.md",
+      "date": "2026-11-19",
+      "from": "\"Tioconazole: nova indicação prevista, Vulvite (vulvitis) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Tioconazole: nova indicação prevista, Vulvite (vulvitis) (nível de evidência L5). No Brasil, registros na ANVISA: 62 (ativos: 18)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/tizanidine.md",
+      "date": "2026-11-19",
+      "from": "\"Tizanidine: nova indicação prevista, Enxaqueca (migraine disorder) (nível de evidência L2). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Tizanidine: nova indicação prevista, Enxaqueca (migraine disorder) (nível de evidência L2). No Brasil, registros na ANVISA: 5 (ativos: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/trastuzumab.md",
+      "date": "2026-11-19",
+      "from": "\"Trastuzumab: nova indicação prevista, Malignant cutaneous granular cell skin tumor (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Trastuzumab: nova indicação prevista, Malignant cutaneous granular cell skin tumor (nível de evidência L5). No Brasil, registros na ANVISA: 15 (ativos: 14)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/travoprost.md",
+      "date": "2026-11-19",
+      "from": "\"Travoprost: nova indicação prevista, Calcifilaxia visceral (visceral calciphylaxis) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Travoprost: nova indicação prevista, Calcifilaxia visceral (visceral calciphylaxis) (nível de evidência L5). No Brasil, registros na ANVISA: 29 (ativos: 10)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/triptorelin.md",
+      "date": "2026-11-19",
+      "from": "\"Triptorelin: nova indicação prevista, Hipertricose (hypertrichosis (disease)) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Triptorelin: nova indicação prevista, Hipertricose (hypertrichosis (disease)) (nível de evidência L5). No Brasil, registros na ANVISA: 3 (ativos: 3)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/valsartan.md",
+      "date": "2026-11-19",
+      "from": "\"Valsartan: nova indicação prevista, Doença renal hipertensiva maligna (malignant hypertensive renal disease) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Valsartan: nova indicação prevista, Doença renal hipertensiva maligna (malignant hypertensive renal disease) (nível de evidência L5). No Brasil, registros na ANVISA: 144 (ativos: 44)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/vandetanib.md",
+      "date": "2026-11-19",
+      "from": "\"Vandetanib: nova indicação prevista, Carcinoma de células renais (renal cell carcinoma (disease)) (nível de evidência L3). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Vandetanib: nova indicação prevista, Carcinoma de células renais (renal cell carcinoma (disease)) (nível de evidência L3). No Brasil, registros na ANVISA: 4 (ativos: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/venetoclax.md",
+      "date": "2026-11-19",
+      "from": "\"Venetoclax: nova indicação prevista, Hodgkins lymphoma (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Venetoclax: nova indicação prevista, Hodgkins lymphoma (nível de evidência L5). No Brasil, registros na ANVISA: 1 (ativos: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/vildagliptin.md",
+      "date": "2026-11-19",
+      "from": "\"Vildagliptin: nova indicação prevista, Síndrome da pessoa rígida clássica (classic stiff person syndrome) (nível de evidência L5). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Vildagliptin: nova indicação prevista, Síndrome da pessoa rígida clássica (classic stiff person syndrome) (nível de evidência L5). No Brasil, registros na ANVISA: 36 (ativos: 28)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/vinblastine.md",
+      "date": "2026-11-19",
+      "from": "\"Vinblastine: nova indicação prevista, rabdomiossarcoma (rhabdomyosarcoma (disease)) (nível de evidência L4). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Vinblastine: nova indicação prevista, rabdomiossarcoma (rhabdomyosarcoma (disease)) (nível de evidência L4). No Brasil, registros na ANVISA: 12 (ativos: 3)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/voxilaprevir.md",
+      "date": "2026-11-19",
+      "from": "\"Voxilaprevir: nova indicação prevista, Infecção pelo vírus da hepatite B (hepatitis B virus infection) (nível de evidência L4). Indicação original: Não consta nos dados locais\"",
+      "to": "\"Voxilaprevir: nova indicação prevista, Infecção pelo vírus da hepatite B (hepatitis B virus infection) (nível de evidência L4). No Brasil, registros na ANVISA: 1 (ativos: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    }
+  ]
+}

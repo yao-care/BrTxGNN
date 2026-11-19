@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "NITRAZEPAM"
 predicted_indications: ["Wernicke-Korsakoff syndrome"]
-description: "Nitrazepam: nova indicação prevista, Wernicke-Korsakoff syndrome (nível de evidência L5). Indicação original: Não consta nos dados locais"
+description: "Nitrazepam: nova indicação prevista, Wernicke-Korsakoff syndrome (nível de evidência L5). No Brasil, registros na ANVISA: 13 (ativos: 3)"
 ---
 
 # Nitrazepam

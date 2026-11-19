@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-10-31
 monitor_inn: "nitrogen"
 predicted_indications: ["16q24.1 microdeletion syndrome", "primary interstitial lung disease specific to childhood", "isolated pulmonary capillaritis", "congenital pulmonary lymphangiectasia"]
-description: "Nitrogen: nova indicação prevista, 16q24.1 microdeletion syndrome (nível de evidência L5). Indicação original: Não consta nos dados locais"
+description: "Nitrogen: nova indicação prevista, 16q24.1 microdeletion syndrome (nível de evidência L5). No Brasil, registros na ANVISA: 1 (ativos: 0)"
 ---
 
 # Nitrogen

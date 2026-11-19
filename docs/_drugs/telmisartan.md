@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-12
 monitor_inn: "Telmisartan"
 predicted_indications: ["Prinzmetal angina", "brain stem infarction", "ABri amyloidosis", "cerebral artery occlusion", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "intracerebral hemorrhage", "Braddock syndrome"]
-description: "Telmisartan: nova indicação prevista, Prinzmetal angina (nível de evidência L5). Indicação original: Não consta nos dados locais"
+description: "Telmisartan: nova indicação prevista, Prinzmetal angina (nível de evidência L5). No Brasil, registros na ANVISA: 49 (ativos: 24)"
 ---
 
 # Telmisartan

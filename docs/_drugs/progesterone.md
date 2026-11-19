@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-11-03
 monitor_inn: "Progesterone"
 predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
-description: "Progesterone: nova indicação prevista, Doença fibrocística da mama (breast fibrocystic disease) (nível de evidência L4). Indicação original: Não consta nos dados locais"
+description: "Progesterone: nova indicação prevista, Doença fibrocística da mama (breast fibrocystic disease) (nível de evidência L4). No Brasil, registros na ANVISA: 16 (ativos: 7)"
 ---
 
 # Progesterone

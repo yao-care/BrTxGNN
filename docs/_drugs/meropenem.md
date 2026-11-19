@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-11-03
 monitor_inn: "meropenem"
 predicted_indications: ["bacterial arthritis", "epiglottitis", "laryngitis", "paratyphoid fever", "Lyme disease", "Ureaplasma urethritis", "gonococcal urethritis"]
-description: "Meropenem: nova indicação prevista, artrite bacteriana (bacterial arthritis) (nível de evidência L4). Indicação original: Não consta nos dados locais"
+description: "Meropenem: nova indicação prevista, artrite bacteriana (bacterial arthritis) (nível de evidência L4). No Brasil, registros na ANVISA: 23 (ativos: 10)"
 ---
 
 # Meropenem

@@ -9,7 +9,7 @@ drugbank_id: DB09073
 monitor_inn: "Palbociclib"
 predicted_indications: ["hyperthyroidism", "rheumatoid arthritis", "thrombotic disease", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta"]
 last_modified_at: 2026-11-16
-description: "Palbociclibe: nova indicação prevista, Hipertireoidismo (hyperthyroidism) (nível de evidência L5). Indicação original: Não consta nos dados locais"
+description: "Palbociclibe: nova indicação prevista, Hipertireoidismo (hyperthyroidism) (nível de evidência L5). No Brasil, registros na ANVISA: 8 (ativos: 7)"
 ---
 
 # Palbociclibe

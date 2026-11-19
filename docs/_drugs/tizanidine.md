@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-11-13
 monitor_inn: "Tizanidine"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "Tourette syndrome", "ulerythema ophryogenesis"]
-description: "Tizanidine: nova indicação prevista, Enxaqueca (migraine disorder) (nível de evidência L2). Indicação original: Não consta nos dados locais"
+description: "Tizanidine: nova indicação prevista, Enxaqueca (migraine disorder) (nível de evidência L2). No Brasil, registros na ANVISA: 5 (ativos: 2)"
 ---
 
 # Tizanidine

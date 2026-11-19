@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-11-03
 monitor_inn: "cemiplimab"
 predicted_indications: ["gallbladder adenosquamous carcinoma", "rectal cloacogenic carcinoma", "adenosquamous prostate carcinoma", "urethral verrucous carcinoma", "pancreatic adenosquamous carcinoma"]
-description: "Cemiplimab: nova indicação prevista, carcinoma adenoescamoso da vesícula biliar (gallbladder adenosquamous carcinoma) (nível de evidência L5). Indicação original: Não consta nos dados locais"
+description: "Cemiplimab: nova indicação prevista, carcinoma adenoescamoso da vesícula biliar (gallbladder adenosquamous carcinoma) (nível de evidência L5). No Brasil, registros na ANVISA: 2 (ativos: 1)"
 ---
 
 # Cemiplimab

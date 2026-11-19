@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-04
 monitor_inn: "Apixaban"
 predicted_indications: ["migraine disorder"]
-description: "Apixaban: nova indicação prevista, transtorno de enxaqueca (migraine disorder) (nível de evidência L5). Indicação original: Não consta nos dados locais"
+description: "Apixaban: nova indicação prevista, transtorno de enxaqueca (migraine disorder) (nível de evidência L5). No Brasil, registros na ANVISA: 35 (ativos: 28)"
 ---
 
 # Apixaban

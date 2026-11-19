@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Aztreonam"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "gonococcal urethritis", "Ureaplasma urethritis", "blood group incompatibility", "premalignant hematological system disease", "epiglottitis", "monoclonal gammopathy", "xanthogranulomatous pyelonephritis"]
 last_modified_at: 2026-11-13
-description: "Aztreonam: nova indicação prevista, Hiperamilasemia (hyperamylasemia) (nível de evidência L5). Indicação original: Não consta nos dados locais"
+description: "Aztreonam: nova indicação prevista, Hiperamilasemia (hyperamylasemia) (nível de evidência L5). No Brasil, registros na ANVISA: 12 (ativos: 2)"
 ---
 
 # Aztreonam

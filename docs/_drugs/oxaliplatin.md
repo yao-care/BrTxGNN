@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-11-13
 monitor_inn: "Oxaliplatin"
 predicted_indications: ["malignant pleural mesothelioma", "malignant epithelioid mesothelioma", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
-description: "Oxaliplatin: nova indicação prevista, Mesotelioma Pleural Maligno (malignant pleural mesothelioma) (nível de evidência L2). Indicação original: Não consta nos dados locais"
+description: "Oxaliplatin: nova indicação prevista, Mesotelioma Pleural Maligno (malignant pleural mesothelioma) (nível de evidência L2). No Brasil, registros na ANVISA: 35 (ativos: 16)"
 ---
 
 # Oxaliplatin
