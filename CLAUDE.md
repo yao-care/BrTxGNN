@@ -527,3 +527,12 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
   講證據包／流程的句子（「O Evidence Pack retornou N registros」、待辦「Recuperar os detalhes dos N registros」）與「pelo menos／lista parcial／5 de N」之類的顯示說明不改。
 - 2026-11-12 許可證表格列狀態對事實層（母目錄 check_drug_page.py --row-status）：26 頁 56 列 ANVISA 現行有效（Ativo）的登記在號碼格、類別格或狀態欄標成 cancelado，以 56 筆 `br-row-20261112-*` correct 紀錄更正（拿掉「(cancelado)」、狀態欄改「Ativo」；依證據包 data-20261105 原始狀態逐列確認）。
 - 2026-11-12 顯示說明的列數與總數：12 頁「Principais registros (5 de 20)」「Exibidos os 5 primeiros de N」之類句子的列數／總數是舊證據包的數字（現在程式表列到 30 筆），以 `br-lic-20261112-*` 照表格列數與事實層總數更正；fluconazole、ketoprofen 是 11-06 紀錄同 id 重發（前版存 history）。講證據包／流程的句子不改。
+
+## 同一 DrugBank ID 的重複公開頁改轉址（2026-11-19）
+
+用戶 2026-11-19 決定（照 ARTxGNN 同日做法）：公開藥物頁（非 noindex、非轉址）同一 DrugBank ID（front matter drugbank_id，沒有的用證據包 drug.drugbank_id 推斷）、預測相同的，留一頁、另一頁改轉址（layout: id_redirect、permalink 不變、sitemap: false、search_exclude、nav_exclude）。
+只轉「被轉址頁的許可證號是保留頁的子集」的組（不丟市場資料）、保留頁等級不低於被轉址頁；保留順序：許可證涵蓋→查核紀錄數→字數（差 5% 內算平手）→葡文 INN 名。
+轉了 7 頁：levonorgestrel_micronizado→levonorgestrel（9 張⊂95 張；保留頁 L2）、amlodipina_besylate→amlodipine_besylate、amilorida_hydrochloride→amilorida（5⊂21 張）、albuterol、albuterol_sulfate→salbutamol（15⊂98 張）、levofloxacin→levofloxacina（levofloxacin_hemihydrate 轉址改直接指 levofloxacina）、paliperidona_palmitate→paliperidona。
+被轉址頁的查核紀錄（amilorida_hydrochloride 3 筆、albuterol 1、albuterol_sulfate 1，全是 resolved_by_regeneration）照本站慣例留在 drug_reviews.json 當歷史（apply_drug_reviews 跳過轉址頁），保留頁沒有同樣的錯句。
+沒轉（許可證不是子集，要人工決定）：DB00125 arginine（73 張、L4）／arginine_aspartate、arginine_glutamate（各 18 張、各有 3 張不在 arginine）；DB00134 levometionina（46 張）／methionine（20 張，10 張不在 levometionina）。
+公開藥物頁 575→568；FHIR 被轉址頁自己的 MK 由 sync_fhir_levels 當重複刪（MK 575→568、CUD 3014→2961）；衍生檔、hreflang 照重產。

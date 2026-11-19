@@ -1,12 +1,12 @@
 {
-  "generated": "2026-11-16",
-  "total_drugs": 575,
+  "generated": "2026-11-19",
+  "total_drugs": 568,
   "level_counts": {
     "L1": 7,
     "L2": 22,
     "L3": 24,
     "L4": 31,
-    "L5": 447
+    "L5": 440
   },
   "all_drugs": [
     {
@@ -124,18 +124,6 @@
       "indication_count": 1
     },
     {
-      "name": "Albuterol",
-      "slug": "albuterol",
-      "level": "L5",
-      "indication_count": 8
-    },
-    {
-      "name": "Albuterol Sulfate",
-      "slug": "albuterol_sulfate",
-      "level": "L5",
-      "indication_count": 8
-    },
-    {
       "name": "Alectinibe Hydrochloride",
       "slug": "alectinibe_hydrochloride",
       "level": "L5",
@@ -208,12 +196,6 @@
       "indication_count": 5
     },
     {
-      "name": "Amilorida Hydrochloride",
-      "slug": "amilorida_hydrochloride",
-      "level": "L5",
-      "indication_count": 5
-    },
-    {
       "name": "Aminobenzoic Acid",
       "slug": "aminobenzoic_acid",
       "level": "L5",
@@ -228,12 +210,6 @@
     {
       "name": "Amiodarone",
       "slug": "amiodarone",
-      "level": "L5",
-      "indication_count": 9
-    },
-    {
-      "name": "Amlodipina Besylate",
-      "slug": "amlodipina_besylate",
       "level": "L5",
       "indication_count": 9
     },
@@ -1978,12 +1954,6 @@
       "indication_count": 1
     },
     {
-      "name": "Levofloxacin",
-      "slug": "levofloxacin",
-      "level": "L5",
-      "indication_count": 9
-    },
-    {
       "name": "Levofloxacina",
       "slug": "levofloxacina",
       "level": "L5",
@@ -1999,12 +1969,6 @@
       "name": "Levonorgestrel",
       "slug": "levonorgestrel",
       "level": "L2",
-      "indication_count": 5
-    },
-    {
-      "name": "Levonorgestrel Micronizado",
-      "slug": "levonorgestrel_micronizado",
-      "level": "L5",
       "indication_count": 5
     },
     {
@@ -2484,12 +2448,6 @@
     {
       "name": "Paliperidona",
       "slug": "paliperidona",
-      "level": "L5",
-      "indication_count": 9
-    },
-    {
-      "name": "Paliperidona Palmitate",
-      "slug": "paliperidona_palmitate",
       "level": "L5",
       "indication_count": 9
     },

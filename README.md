@@ -19,12 +19,12 @@ Predicoes de reposicionamento de medicamentos para medicamentos aprovados pela A
 
 | Item | Quantidade |
 |------|------|
-| **Relatorios de medicamentos** | 575 |
+| **Relatorios de medicamentos** | 568 |
 | **Predicoes totais** | 20,252,111 |
 | **Medicamentos unicos** | 1,037 |
 | **Indicacoes unicas** | 17,041 |
 | **Dados DDI** | 160,235 |
-| **Recursos FHIR** | 575 MK / 3,014 CUD |
+| **Recursos FHIR** | 568 MK / 2,961 CUD |
 
 ### Distribuicao dos niveis de evidencia
 
@@ -34,7 +34,7 @@ Predicoes de reposicionamento de medicamentos para medicamentos aprovados pela A
 | **L2** | 22 | ECR unico ou multiplos Fase 2 |
 | **L3** | 24 | Estudos observacionais |
 | **L4** | 31 | Estudos pre-clinicos / mecanisticos |
-| **L5** | 447 | Apenas predicao computacional |
+| **L5** | 440 | Apenas predicao computacional |
 | **N/A** | 44 | Apenas usos conhecidos (sem novas previsões) |
 
 ### Por fonte

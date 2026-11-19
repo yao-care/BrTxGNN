@@ -9,8 +9,8 @@ nav_exclude: true
 <html>
 <meta charset="utf-8">
 <title>Redirecting&hellip;</title>
-<link rel="canonical" href="{{ site.url }}/drugs/paliperidona-palmitate/">
-<meta http-equiv="refresh" content="0; url=/drugs/paliperidona-palmitate/">
-<script>location="/drugs/paliperidona-palmitate/"</script>
-<a href="/drugs/paliperidona-palmitate/">/drugs/paliperidona-palmitate/</a>
+<link rel="canonical" href="{{ site.url }}/drugs/paliperidona/">
+<meta http-equiv="refresh" content="0; url=/drugs/paliperidona/">
+<script>location="/drugs/paliperidona/"</script>
+<a href="/drugs/paliperidona/">/drugs/paliperidona/</a>
 </html>

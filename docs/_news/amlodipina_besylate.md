@@ -9,8 +9,8 @@ nav_exclude: true
 <html>
 <meta charset="utf-8">
 <title>Redirecting&hellip;</title>
-<link rel="canonical" href="{{ site.url }}/drugs/amlodipina-besylate/">
-<meta http-equiv="refresh" content="0; url=/drugs/amlodipina-besylate/">
-<script>location="/drugs/amlodipina-besylate/"</script>
-<a href="/drugs/amlodipina-besylate/">/drugs/amlodipina-besylate/</a>
+<link rel="canonical" href="{{ site.url }}/drugs/amlodipine-besylate/">
+<meta http-equiv="refresh" content="0; url=/drugs/amlodipine-besylate/">
+<script>location="/drugs/amlodipine-besylate/"</script>
+<a href="/drugs/amlodipine-besylate/">/drugs/amlodipine-besylate/</a>
 </html>

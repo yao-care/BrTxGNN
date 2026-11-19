@@ -38,7 +38,7 @@ Esta página combina as indicações previstas por IA para Levofloxacin com as n
 <li>congenital hematological disorder</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/levofloxacin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/levofloxacina/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (73)

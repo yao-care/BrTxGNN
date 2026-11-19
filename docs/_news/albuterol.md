@@ -9,8 +9,8 @@ nav_exclude: true
 <html>
 <meta charset="utf-8">
 <title>Redirecting&hellip;</title>
-<link rel="canonical" href="{{ site.url }}/drugs/albuterol/">
-<meta http-equiv="refresh" content="0; url=/drugs/albuterol/">
-<script>location="/drugs/albuterol/"</script>
-<a href="/drugs/albuterol/">/drugs/albuterol/</a>
+<link rel="canonical" href="{{ site.url }}/drugs/salbutamol/">
+<meta http-equiv="refresh" content="0; url=/drugs/salbutamol/">
+<script>location="/drugs/salbutamol/"</script>
+<a href="/drugs/salbutamol/">/drugs/salbutamol/</a>
 </html>

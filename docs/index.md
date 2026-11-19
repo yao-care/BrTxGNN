@@ -37,7 +37,7 @@ Relatórios por nível de evidência:
 | L5 | {{ site.data.drug_stats.level_counts.L5 }} | {{ site.data.drug_stats.level_counts.L5 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
 {% assign na = site.data.drug_stats.total_drugs | minus: site.data.drug_stats.level_counts.L1 | minus: site.data.drug_stats.level_counts.L2 | minus: site.data.drug_stats.level_counts.L3 | minus: site.data.drug_stats.level_counts.L4 | minus: site.data.drug_stats.level_counts.L5 %}{% if na > 0 %}| N/A | {{ na }} | {{ na | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |{% endif %}
 
-253 pares medicamento–doença previstos neste site não aparecem em nenhum outro dos 30 sites TxGNN.
+217 pares medicamento–doença previstos neste site não aparecem em nenhum outro dos 30 sites TxGNN.
 
 ### Medicamentos com maior nível de evidência neste site
 
@@ -59,6 +59,8 @@ Relatórios por nível de evidência:
 | Medicamento | Nível de evidência |
 |---|---|
 | [Bendamustina Hydrochloride](/drugs/bendamustina-hydrochloride/) | L1 |
+| [Atorvastatin Calcium](/drugs/atorvastatin-calcium/) | L1 |
+| [Lenalidomida](/drugs/lenalidomida/) | L1 |
 | [Bupropion Hydrochloride](/drugs/bupropion-hydrochloride/) | L2 |
 | [Abatacepte](/drugs/abatacepte/) | L3 |
 | [Axitinibe](/drugs/axitinibe/) | L4 |
@@ -69,9 +71,7 @@ Relatórios por nível de evidência:
 | [Levometionina](/drugs/levometionina/) | L5 |
 | [Palivizumabe](/drugs/palivizumabe/) | L5 |
 | [Alectinibe Hydrochloride](/drugs/alectinibe-hydrochloride/) | L5 |
-| [Amlodipina Besylate](/drugs/amlodipina-besylate/) | L5 |
 | [Brigatinibe](/drugs/brigatinibe/) | L5 |
-| [Paliperidona Palmitate](/drugs/paliperidona-palmitate/) | L5 |
 | [Teriparatida](/drugs/teriparatida/) | L5 |
 
 <!-- local-home:end -->

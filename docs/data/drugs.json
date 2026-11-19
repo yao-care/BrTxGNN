@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-16",
-  "total_count": 575,
+  "generated": "2026-11-19",
+  "total_count": 568,
   "source": "BrTxGNN",
   "drugs": [
     {
@@ -194,26 +194,6 @@
       "url": "/drugs/albendazole/"
     },
     {
-      "slug": "albuterol",
-      "name": "Albuterol",
-      "evidence_level": "L5",
-      "indication_count": 8,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/albuterol/"
-    },
-    {
-      "slug": "albuterol-sulfate",
-      "name": "Albuterol Sulfate",
-      "evidence_level": "L5",
-      "indication_count": 8,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/albuterol-sulfate/"
-    },
-    {
       "slug": "alectinibe-hydrochloride",
       "name": "Alectinibe Hydrochloride",
       "evidence_level": "L5",
@@ -334,16 +314,6 @@
       "url": "/drugs/amilorida/"
     },
     {
-      "slug": "amilorida-hydrochloride",
-      "name": "Amilorida Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 5,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/amilorida-hydrochloride/"
-    },
-    {
       "slug": "aminobenzoic-acid",
       "name": "Aminobenzoic Acid",
       "evidence_level": "L5",
@@ -372,16 +342,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/amiodarone/"
-    },
-    {
-      "slug": "amlodipina-besylate",
-      "name": "Amlodipina Besylate",
-      "evidence_level": "L5",
-      "indication_count": 9,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/amlodipina-besylate/"
     },
     {
       "slug": "amlodipine-besylate",
@@ -3284,16 +3244,6 @@
       "url": "/drugs/levodopa/"
     },
     {
-      "slug": "levofloxacin",
-      "name": "Levofloxacin",
-      "evidence_level": "L5",
-      "indication_count": 9,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/levofloxacin/"
-    },
-    {
       "slug": "levofloxacina",
       "name": "Levofloxacina",
       "evidence_level": "L5",
@@ -3322,16 +3272,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/levonorgestrel/"
-    },
-    {
-      "slug": "levonorgestrel-micronizado",
-      "name": "Levonorgestrel Micronizado",
-      "evidence_level": "L5",
-      "indication_count": 5,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/levonorgestrel-micronizado/"
     },
     {
       "slug": "levothyroxine",
@@ -4132,16 +4072,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/paliperidona/"
-    },
-    {
-      "slug": "paliperidona-palmitate",
-      "name": "Paliperidona Palmitate",
-      "evidence_level": "L5",
-      "indication_count": 9,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/paliperidona-palmitate/"
     },
     {
       "slug": "palivizumabe",

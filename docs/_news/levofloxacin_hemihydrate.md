@@ -9,8 +9,8 @@ nav_exclude: true
 <html>
 <meta charset="utf-8">
 <title>Redirecting&hellip;</title>
-<link rel="canonical" href="{{ site.url }}/drugs/levofloxacin/">
-<meta http-equiv="refresh" content="0; url=/drugs/levofloxacin/">
-<script>location="/drugs/levofloxacin/"</script>
-<a href="/drugs/levofloxacin/">/drugs/levofloxacin/</a>
+<link rel="canonical" href="{{ site.url }}/drugs/levofloxacina/">
+<meta http-equiv="refresh" content="0; url=/drugs/levofloxacina/">
+<script>location="/drugs/levofloxacina/"</script>
+<a href="/drugs/levofloxacina/">/drugs/levofloxacina/</a>
 </html>

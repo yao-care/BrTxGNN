@@ -77,7 +77,7 @@ Esta página reúne as notícias de saúde mais recentes sobre «câncer» e lis
 <li><a href="{{ '/drugs/lamotrigine/' | relative_url }}">LAMOTRIGINE</a></li>
 <li><a href="{{ '/drugs/letermovir/' | relative_url }}">Letermovir</a></li>
 <li><a href="{{ '/drugs/letrozole/' | relative_url }}">Letrozole</a></li>
-<li><a href="{{ '/drugs/levofloxacin/' | relative_url }}">Levofloxacin</a></li>
+<li><a href="{{ '/drugs/levofloxacina/' | relative_url }}">Levofloxacin</a></li>
 <li><a href="{{ '/drugs/lisinopril/' | relative_url }}">LISINOPRIL</a></li>
 <li><a href="{{ '/drugs/lorazepam/' | relative_url }}">LORAZEPAM</a></li>
 <li><a href="{{ '/drugs/mannitol/' | relative_url }}">Mannitol</a></li>

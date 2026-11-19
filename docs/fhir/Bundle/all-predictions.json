@@ -2,8 +2,8 @@
   "resourceType": "Bundle",
   "id": "all-predictions",
   "type": "collection",
-  "timestamp": "2026-11-16T14:34:44.623545",
-  "total": 575,
+  "timestamp": "2026-11-19T07:51:10.762387",
+  "total": 568,
   "link": [
     {
       "relation": "self",
@@ -11612,46 +11612,6 @@
       }
     },
     {
-      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/levofloxacin",
-      "resource": {
-        "resourceType": "MedicationKnowledge",
-        "id": "levofloxacin",
-        "meta": {
-          "profile": [
-            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
-          ]
-        },
-        "status": "active",
-        "code": {
-          "coding": [
-            {
-              "system": "https://brtxgnn.yao.care/drugs",
-              "code": "levofloxacin",
-              "display": "Levofloxacin"
-            }
-          ],
-          "text": "Levofloxacin"
-        },
-        "intendedJurisdiction": [
-          {
-            "coding": [
-              {
-                "system": "urn:iso:std:iso:3166",
-                "code": "BR",
-                "display": "Brazil"
-              }
-            ]
-          }
-        ],
-        "extension": [
-          {
-            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L5"
-          }
-        ]
-      }
-    },
-    {
       "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/glimepiride",
       "resource": {
         "resourceType": "MedicationKnowledge",
@@ -21052,86 +21012,6 @@
       }
     },
     {
-      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/albuterol",
-      "resource": {
-        "resourceType": "MedicationKnowledge",
-        "id": "albuterol",
-        "meta": {
-          "profile": [
-            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
-          ]
-        },
-        "status": "active",
-        "code": {
-          "coding": [
-            {
-              "system": "https://brtxgnn.yao.care/drugs",
-              "code": "albuterol",
-              "display": "ALBUTEROL"
-            }
-          ],
-          "text": "ALBUTEROL"
-        },
-        "intendedJurisdiction": [
-          {
-            "coding": [
-              {
-                "system": "urn:iso:std:iso:3166",
-                "code": "BR",
-                "display": "Brazil"
-              }
-            ]
-          }
-        ],
-        "extension": [
-          {
-            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L5"
-          }
-        ]
-      }
-    },
-    {
-      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/albuterol-sulfate",
-      "resource": {
-        "resourceType": "MedicationKnowledge",
-        "id": "albuterol-sulfate",
-        "meta": {
-          "profile": [
-            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
-          ]
-        },
-        "status": "active",
-        "code": {
-          "coding": [
-            {
-              "system": "https://brtxgnn.yao.care/drugs",
-              "code": "albuterol-sulfate",
-              "display": "ALBUTEROL SULFATE"
-            }
-          ],
-          "text": "ALBUTEROL SULFATE"
-        },
-        "intendedJurisdiction": [
-          {
-            "coding": [
-              {
-                "system": "urn:iso:std:iso:3166",
-                "code": "BR",
-                "display": "Brazil"
-              }
-            ]
-          }
-        ],
-        "extension": [
-          {
-            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L5"
-          }
-        ]
-      }
-    },
-    {
       "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/alectinibe-hydrochloride",
       "resource": {
         "resourceType": "MedicationKnowledge",
@@ -21231,86 +21111,6 @@
             }
           ],
           "text": "AMILORIDA"
-        },
-        "intendedJurisdiction": [
-          {
-            "coding": [
-              {
-                "system": "urn:iso:std:iso:3166",
-                "code": "BR",
-                "display": "Brazil"
-              }
-            ]
-          }
-        ],
-        "extension": [
-          {
-            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L5"
-          }
-        ]
-      }
-    },
-    {
-      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/amilorida-hydrochloride",
-      "resource": {
-        "resourceType": "MedicationKnowledge",
-        "id": "amilorida-hydrochloride",
-        "meta": {
-          "profile": [
-            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
-          ]
-        },
-        "status": "active",
-        "code": {
-          "coding": [
-            {
-              "system": "https://brtxgnn.yao.care/drugs",
-              "code": "amilorida-hydrochloride",
-              "display": "AMILORIDA HYDROCHLORIDE"
-            }
-          ],
-          "text": "AMILORIDA HYDROCHLORIDE"
-        },
-        "intendedJurisdiction": [
-          {
-            "coding": [
-              {
-                "system": "urn:iso:std:iso:3166",
-                "code": "BR",
-                "display": "Brazil"
-              }
-            ]
-          }
-        ],
-        "extension": [
-          {
-            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L5"
-          }
-        ]
-      }
-    },
-    {
-      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/amlodipina-besylate",
-      "resource": {
-        "resourceType": "MedicationKnowledge",
-        "id": "amlodipina-besylate",
-        "meta": {
-          "profile": [
-            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
-          ]
-        },
-        "status": "active",
-        "code": {
-          "coding": [
-            {
-              "system": "https://brtxgnn.yao.care/drugs",
-              "code": "amlodipina-besylate",
-              "display": "AMLODIPINA BESYLATE"
-            }
-          ],
-          "text": "AMLODIPINA BESYLATE"
         },
         "intendedJurisdiction": [
           {
@@ -22572,46 +22372,6 @@
       }
     },
     {
-      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/levonorgestrel-micronizado",
-      "resource": {
-        "resourceType": "MedicationKnowledge",
-        "id": "levonorgestrel-micronizado",
-        "meta": {
-          "profile": [
-            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
-          ]
-        },
-        "status": "active",
-        "code": {
-          "coding": [
-            {
-              "system": "https://brtxgnn.yao.care/drugs",
-              "code": "levonorgestrel-micronizado",
-              "display": "LEVONORGESTREL MICRONIZADO"
-            }
-          ],
-          "text": "LEVONORGESTREL MICRONIZADO"
-        },
-        "intendedJurisdiction": [
-          {
-            "coding": [
-              {
-                "system": "urn:iso:std:iso:3166",
-                "code": "BR",
-                "display": "Brazil"
-              }
-            ]
-          }
-        ],
-        "extension": [
-          {
-            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L5"
-          }
-        ]
-      }
-    },
-    {
       "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/orphenadrine-citrate",
       "resource": {
         "resourceType": "MedicationKnowledge",
@@ -22791,46 +22551,6 @@
             }
           ],
           "text": "PALIPERIDONA"
-        },
-        "intendedJurisdiction": [
-          {
-            "coding": [
-              {
-                "system": "urn:iso:std:iso:3166",
-                "code": "BR",
-                "display": "Brazil"
-              }
-            ]
-          }
-        ],
-        "extension": [
-          {
-            "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L5"
-          }
-        ]
-      }
-    },
-    {
-      "fullUrl": "https://brtxgnn.yao.care/fhir/MedicationKnowledge/paliperidona-palmitate",
-      "resource": {
-        "resourceType": "MedicationKnowledge",
-        "id": "paliperidona-palmitate",
-        "meta": {
-          "profile": [
-            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
-          ]
-        },
-        "status": "active",
-        "code": {
-          "coding": [
-            {
-              "system": "https://brtxgnn.yao.care/drugs",
-              "code": "paliperidona-palmitate",
-              "display": "PALIPERIDONA PALMITATE"
-            }
-          ],
-          "text": "PALIPERIDONA PALMITATE"
         },
         "intendedJurisdiction": [
           {
