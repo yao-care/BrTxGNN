@@ -7,7 +7,7 @@ title: CICLOPIROX
 drugbank_id: DB01188
 permalink: /drugs/ciclopirox/
 search_exclude: true
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
