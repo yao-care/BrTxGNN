@@ -1,19 +1,79 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-11-19T07:09:48.872910+00:00",
-  "total_fetched": 86,
-  "unique_count": 86,
-  "health_related_count": 37,
+  "fetched_at": "2026-11-19T20:07:02.114400+00:00",
+  "total_fetched": 85,
+  "unique_count": 85,
+  "health_related_count": 31,
   "news": [
+    {
+      "id": "824d61bf59b9",
+      "title": "Prefeitura de Montes Claros confirma primeiro caso de Mpox - G1",
+      "published": "2026-11-19T14:50:51+00:00",
+      "summary": "Prefeitura de Montes Claros confirma primeiro caso de Mpox&nbsp;&nbsp;G1Uberlândia tem 4 casos de Mpox em 2026 e é a única cidade do Triângulo com registros; veja como se prevenir&nbsp;&nbsp;G1Divinópolis confirma dois casos de mpox e investiga outras duas suspeitas em 2026&nbsp;&nbsp;Portal UAIUPA revela detalhes do primeiro atendimento a paciente com mpox em Divinópolis&nbsp;&nbsp;DiviNewsJuiz de Fora é a segunda cidade de Minas com mais casos confirmados de Mpox em 2026&nbsp;&nbsp;Acessa.com",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS1dvWElkNFZUV2x6MjlWbUVWMGlFa1psNnkwREc0dTZwd2hMNVBkeVc5TU92VWZNRVBaLW5UamVTcTlMNkZweFY0LVdJaVNtZDJJZklYWkM0VlBiZ294RUxVNEFoOGZuR1RVb1RnUjFxNm91dWNKZ2o0Ui1BS2EwMEwtemxhRnBrcG51ekdMeFZkbjF5ZzhjOUVua2pQZUxFUmZ3MXZsa1pjNl8tRzVhOGtPX2xQUTdTc0VOdNIBywFBVV95cUxQYlpuWVZrZnhtS2gxaEFJWjFPU2tDZ25wamhUajcyLXlxWHl4azdVaUJURzR4eDBKanhxR1liRzhjWmY3RUdzRzZFRnJVLVZRX3hjbzNCdHZOb1gxcFlad2hxME55NEdVUWFTVUM3VlZxLVRLNnAtN0RzZHI3SDBjeDJGSzNnT0NNdU5OcTJaMzVMUzdXWU91QWFIZk1TWmFrTkVMUnpqd29UREFBYU5TUEVHbVd4MGVhcjVTOGRLSkZtb2k5LXN3eUtOdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9bc39c9fa593",
+      "title": "Teste para rastreamento de câncer de intestino começará em dezembro no SUS; veja quem poderá fazer - Estadão",
+      "published": "2026-11-19T08:30:00+00:00",
+      "summary": "Teste para rastreamento de câncer de intestino começará em dezembro no SUS; veja quem poderá fazer&nbsp;&nbsp;EstadãoCâncer de intestino: por que rastreio é aos 45 anos se há jovens doentes?&nbsp;&nbsp;UOLCâncer de intestino avança entre jovens e intriga pesquisadores&nbsp;&nbsp;Gente SeguradoraCom crescimento entre jovens, câncer colorretal tem avanços no rastreamento e desafios para o acesso&nbsp;&nbsp;Correio do PovoCânceres abdominais: o alerta para o diagnóstico precoce no Brasil&nbsp;&nbsp",
+      "sources": [
+        {
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQV1V5RDFicjJPNmZlS1ZqYVRfSGNSOWgyOHdlUGwza2RyeXNmWG1FZE1sSmRMbGd1RlE4eG5NelhUdmdSYzJHWXI4QmxBNkFab0lHRTVrSThlb3VEdFJ4UVZBdDd5VlFhcTBGY2FtZ21udHI1ZGgzUjF3MUt1Tm5hRC1Bb01tSnlMNkdRNUdCUjR3OTlWdG5oVmNjLU9jN0poeGQyNTR5dkVxQzVNdnJxNUpLTEtsNnFucEhFWWV1LWhFdnNEcmZCTEVSZUM0UXRMOEdJSjNhVl85VlJncjFaVXpOcUTSAeoBQVVfeXFMTlhtZVI5X2R1UnVtbGFNZlo4YU1aWmpkaGJhNl9EQW1tdXM3ZFVvczFDaFN4S01ZUDFzZVlVckNoM1JFNjVKMWRva1F6dU9KSmFtbkZsYlQ3LTBFOW1XM2FvWDd1cjIxTk83Q24xMjFya09xcVRfQkJSc0N4bFEyQ1pVclBUUXlXOE9YVlBHS3gzQzhkdjJtWnY0VnRwWTE2NFQ0Wk9ETld1U2UxN3NBYnFvMmdLZjQzdXlRTzZCWllBOFA5U0lnTnY1VlRRV1UyT2VHSlU1T3Z5Rm5Qc204RlFySXpqLW9yODVn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d52c9fe98e08",
+      "title": "'O que nos protege na juventude cobra um preço na velhice', diz brasileiro especialista na proteína ligada ao câncer e Alzheimer - O GLOBO",
+      "published": "2026-11-19T07:30:01+00:00",
+      "summary": "'O que nos protege na juventude cobra um preço na velhice', diz brasileiro especialista na proteína ligada ao câncer e Alzheimer&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxObDZSUU9lalFRS05CYXZlRU1Fbm9GTmExbGdWMkxsUFhNTUNQN1lJYTBHSVVRYUZubFJZMDJ6QzRfSzF1bUNBcTNUZDlmU1VnWFl5WUNpaXpuWVc1YlJVcFBNTlZyQkttdUtsbWp6bVZyWldMcDhVLTEwaUNiem9saXFPSzZsY1NFazRBTHRwMGhaVGRnLTZ6Zl9NLV93ZnlOQlgyMURpcmVqUm12SUwtMmtiSUNyLUVnUGY4UHpIMTdjUTBOMVZWYlhpY0hfMGpHbjRhbmo2VDZ4X2xsZGFEQUVzS3JUNGlWQzBWb0w1eGtnekYxOUVPX25IYmpyc21rX3B6dUpuQ080V3l1cEphOF9qeTdoUkJuNDNUdNIBqwJBVV95cUxQZGtzeEJiWnRyR3NWWTBoSzBGWDBNdmZzMjRVejJiMmZYdEp6bDd0cWRyVm1tRGZ3WmU4YXJUR0w1WjdpSTVEVG5Ca0FZTXZWZjBvVlZOS1VBN2VvZVM1dWtxRnZMa29KeEFRNkRLR2lfZFBhUWZrSmJFS2dOeFhMZzZTaW9Iei1ndGdkb2pQUVMyYWJRazlBeXNEUldRMTVHNHVyOC1taTRxR2ZodEZsRW93anh4V1FfeDJCRHp6SFIwazFseWFIbHQwMzVSVnRPT0hVMkhwNGxIaWZfNGtlaGVZVl8yanJlWnV0OGJ1dXdmMkc5TzQ1Znc0M18xRkRMQUF2ZS1PZ21jY0k4RENzYTQ3UWdhUWdtaTluMkUySFkwQ2drcF9vNnRIRQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2225bea285aa",
+      "title": "Saiba por que o câncer de pâncreas é tão letal e quais são os fatores de risco - Folha de S.Paulo",
+      "published": "2026-11-19T07:00:00+00:00",
+      "summary": "Saiba por que o câncer de pâncreas é tão letal e quais são os fatores de risco&nbsp;&nbsp;Folha de S.PauloO que torna o cancro do pâncreas tão mortal?&nbsp;&nbsp;Correio da ManhãConheça os sintomas do câncer de pâncreas e o que é mito ou verdade&nbsp;&nbsp;viva.com.brJP1: Cerca de 80% dos diagnósticos ocorrem em estágio avançado&nbsp;&nbsp;sampi.net.brFatores de risco que levam ao aumento do cancro do pâncreas&nbsp;&nbsp;Rádio Comercial",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNX09JR19DQ2U5akVMNU40NlFrejJNQURUMV85X3VoRlhTWEhEVTA0U25aYjJ0Vm9rVFhiTXFHQVE4dVlKZ1dwalBqWlAxMzhac1EtaXNUM0V3TWQxbmRKNnBVUUFJRmZTWFd5bnpELVFGaFNsVmRITDljanlFRFdOa3YzZHdpdG9hOXYtakNjXzNRR2JqcWpmZHRCOVJ6MWd4aS1zbEdFNmFfZ2ZpZVAyOEh2RWZZVVRJU1c3NEpLMmx5Y3Q0V2E1SkZ0UW5ObGVLckVISmdB?oc=5"
+        }
+      ]
+    },
     {
       "id": "6cba23988897",
       "title": "DPOC afeta 14 milhões de brasileiros e é a 5ª maior causa de morte no país - CNN Brasil",
       "published": "2026-11-19T00:01:03+00:00",
-      "summary": "DPOC afeta 14 milhões de brasileiros e é a 5ª maior causa de morte no país&nbsp;&nbsp;CNN BrasilTratamento de doença pulmonar crônica não chega à maioria dos acometidos&nbsp;&nbsp;Portal da Assembleia Legislativa de Minas GeraisDPOC: terapias triplas chegam ao SUS, mas acesso ainda é desigual&nbsp;&nbsp;Assine AbrilDoença pulmonar pode começar com sinais confundidos com envelhecimento; veja quais&nbsp;&nbsp;TerraDoença Pulmonar Obstrutiva Crônica é a terceira principal causa de morte no mundo&nb",
+      "summary": "DPOC afeta 14 milhões de brasileiros e é a 5ª maior causa de morte no país&nbsp;&nbsp;CNN BrasilTratamento de doença pulmonar crônica não chega à maioria dos acometidos&nbsp;&nbsp;Portal da Assembleia Legislativa de Minas GeraisDPOC: terapias triplas chegam ao SUS, mas acesso ainda é desigual&nbsp;&nbsp;Assine AbrilPrevenção e diagnóstico precoce&nbsp;&nbsp;O Xadrez da PolíticaTrês alterações na espirometria ajudam a identificar pacientes com risco de DPOC&nbsp;&nbsp;Medscape",
       "sources": [
         {
           "name": "CNN Brasil",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUkM5d3JDOGFUTFZHVjlFWG4yN3lXbVUxMWZqcHlmNGFlNi02bUQ3SjliZkNPZ0ZFNVV3alBPUnBqdVJ4WE4wUDRwcXM4ckxlU1hNRDlVU2g1dy1jQzM0OUJMeDhMY1RXckZWempJTjEzVkhhV0R4b01hUGIwZFNvWkg0MGpMcWhXeHRDclVPR0ZhY2Vqc2ZBbVMzNTRxSEZFZW5kd2JSVDFvVXNIUjVJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a3a84c053fbb",
+      "title": "Mpox na Paraíba: casos no estado crescem 82% com 9 infecções em novembro - G1",
+      "published": "2026-11-18T21:47:02+00:00",
+      "summary": "Mpox na Paraíba: casos no estado crescem 82% com 9 infecções em novembro&nbsp;&nbsp;G1PBH inicia vacinação contra mpox para grupos prioritários e imunização será ampliada nesta quinta-feira (19)&nbsp;&nbsp;Prefeitura de Belo HorizonteSão Paulo recebe mil doses da vacina contra a mpox; veja quem pode tomar&nbsp;&nbsp;EstadãoBH inicia vacinação contra mpox para conter alta de casos&nbsp;&nbsp;SouBHApós 433 casos de Mpox, SP recebe mil novas doses de vacina&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMFpINUlZWnB2TU5yeGxFZUFsWkR0ZDU0WjVjNlNkN2VXczh4OHJzQjRCRW9SaGp1d19kQnZ2LUkzUEZHcUIxTFU4bi1RbEh0R2NleWp2NGV3M0p6aFlncTd0aGhsVUFhYVdtLWxyWmFhcVpRWGJaZlVZV1dnMDZPNFpSdHc2Z3dzYWxwMkRqYUNtdmY1YmR3b2Q4ZVBwTTcyWWxVTHpVZFRUcDBENG5oSzNpNmMyRHpTMkQxamN0dGNabHBLNHI3REdQcWVEQ2fSAd4BQVVfeXFMTTRfSldYd0pXNjRIalRNRHpLMDRUS0huNlZKTEs4RFJsT2tPNFE3RDhfLUxwSzZZcUNaT1BNV1h4Tm14N203MDk4WWxzdVNkVVhMVnIzQ2VXbnZaWmVUMk5STXNCRTQtaUNRM3FGTXlKZUhVOEtlUXFSeF91MnA3TjNQMGwtTmFGMUZxZzBVYkpRbnBBc0xBQzEzdVpjbVJ1dzJVbWhsdEZaeGd4VzMyRkxVbW1sLXowMk95SWdrRjA2Sl9ZX25OZG5tNVVGcE1KdDV3VXNqMlV3SXpqNW93?oc=5"
         }
       ]
     },
@@ -30,26 +90,38 @@
       ]
     },
     {
-      "id": "b3d7311e4e27",
-      "title": "Catapora ou Mpox? Médica explica diferença após casos suspeitos em Lagoa do PI - CidadeVerde.com",
-      "published": "2026-11-18T21:00:00+00:00",
-      "summary": "Catapora ou Mpox? Médica explica diferença após casos suspeitos em Lagoa do PI&nbsp;&nbsp;CidadeVerde.comEscola suspende aulas após casos de catapora; aluno faz exame para Mpox&nbsp;&nbsp;G1Em Teresina, FMS investiga dois casos suspeitos de catapora; veja como vacinar crianças&nbsp;&nbsp;Portal O DiaAulas são suspensas em escola após casos de catapora entre estudantes no Piauí&nbsp;&nbsp;OitoMeiaSesapi investiga casos suspeitos de catapora em escola do Piauí&nbsp;&nbsp;Portal Piauí Hoje",
+      "id": "96030ec3f9e4",
+      "title": "Roraima confirma dois casos de Mpox, os primeiros desde 2024 - G1",
+      "published": "2026-11-18T21:26:30+00:00",
+      "summary": "Roraima confirma dois casos de Mpox, os primeiros desde 2024&nbsp;&nbsp;G1",
       "sources": [
         {
-          "name": "CidadeVerde.com",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcVlZN0pMVkFZdGlPQjZJaGZZV2dncEwxQll3VFllNlVHQVFrd2dhcVUwMGlvNDFaSUxqQ3ZWRGVzSFdNaGJNdTl6eEZZb1ZxQWFwTFFsTXEzZzZueU5teHc3VWxJbGR1LWFPWnlMbS1KcTZ1eFE3V1JkajJYczlkdU5QYlNMaUhjeF9ZekZlTFpWX3R4U25GdWpoSnIzUk0zcGRob0U3dm5BVEp5bFdRM2FTV1NTRDg?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSDhiQUxQWm16OGhyOG9DX0l0ajhCZXQ1WjhZd2Z6MVBvNlI0d3pWelBabWd3dUgxN3A0SE1QUHc3MTg5QndoNmNYU1dDdDdzdWRlOFA5ZjYzZWZBQW8za1BSSE9odFJEeHRVTzVpTFAtREVlTTFyRGFkM1JDbFFLTVBueVZVRUVvWnlDbHNOTnYyOUxrVkpMTUUxTHlQOGowX3fSAbABQVVfeXFMTnNLTVRzRjdzQlQtUTk5cEpLRndNTzlrQkF5RVR1Z2tIMVFoaEpYSU0zY3dyWGpvUTNrSk9TWFozVkxiU2x0ZmVRVFlmRFFCMnNnZlhuTEZZMGc3bTBlRFBiVzFhR1BoY3RCcDlBSTJxb0lJYXlqTUNLTHc1Unp6NTdYV2pLbW5tcllxbmN1UUFmel84cjdiajRNb0ZnWlNCaDJDbE41RkZSc3FVZ0FOYnk?oc=5"
         }
       ]
     },
     {
-      "id": "fdfb5c9e4e6e",
-      "title": "O teste inovador em que paciente engole esponja para detectar câncer - Terra",
-      "published": "2026-11-18T20:27:00+00:00",
-      "summary": "O teste inovador em que paciente engole esponja para detectar câncer&nbsp;&nbsp;Terra",
+      "id": "cb311069121a",
+      "title": "Catapora ou Mpox? Médica explica diferença após casos suspeitos em Lagoa do PI - CidadeVerde.com",
+      "published": "2026-11-18T21:00:00+00:00",
+      "summary": "Catapora ou Mpox? Médica explica diferença após casos suspeitos em Lagoa do PI&nbsp;&nbsp;CidadeVerde.comCatapora em Lagoa do Piauí: exame confirma que adolescente está com varicela&nbsp;&nbsp;G1Prefeitura de Lagoa do Piauí confirma caso de varicela e reforça medidas preventivas&nbsp;&nbsp;180grausAlunos de escola no Piauí passarão por testagem após casos suspeitos de catapora; aulas suspensas&nbsp;&nbsp;Portal Clube NewsApós surto de catapora no Piauí, Teresina convoca público para vacinação in",
       "sources": [
         {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbUwxSmRTdVRkS0dOdzJteENMOXNnZlBMOFNpbDMySnhVdENYZVpkUk1saEZMVUFKNHlueDNwNGY2YjRXRkhuMDF0dmRlX0xIejBJUDBzV1cwQnlpbkpxTFZiUzdSWS1lV1dlMk4zNXRHVmhlVlpobXptczJfaGw5V29LQUhFcjBPZXJXTGViY05BdmVndk9RTTljNGV4NW0yOW8zaHVaTDBDQmdSVi12ZWRLVXBCbVRCU0t2MWdMc1VwNXVEQm5GbjRGTDRxb2xWaUR1QXlzTlhRS09jZTlTSm9MZGo4X3lHamx4aDQ0T0s?oc=5"
+          "name": "CidadeVerde.com",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMDR0VGhyb2RKeEp1M1k5S0xUOEdZTU1WWWsweFFvdWQwU3RPTnB5WGkzSGd1RnlXaDQ0Q3hIejZZSDEyRTgxaTgydmk3QlN2SHRoMnhCb0VfalV0QTIzXzRjN0lJaTlocUlGTnM0SUs2ZTcxUHh1WGpSeHJSNDg0cm55SFRRNktLVEhQaHd2b0o4ZGdXRzV4eXdMa1BtdEFYU0IxQ1RENW1xWi1kZFdCYjFYTW0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "75d6ee653929",
+      "title": "O teste inovador em que paciente engole esponja para detectar câncer - BBC",
+      "published": "2026-11-18T20:29:38+00:00",
+      "summary": "O teste inovador em que paciente engole esponja para detectar câncer&nbsp;&nbsp;BBCVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53SGpUZWxpN1JBQldiN2U3SXJkeTVyVUV4QmdhZXJ2S0xhcEhMY1NGbHQxbUc1TWFSRjB2NnJoMW5vWC1DeTE5VlhpLUpBSW50U3EzQm9STWZOWTR0Y3NjRDFZVdIBaEFVX3lxTE0tbHZRbzViNVhtTkZTc0JVbHZ2UFhOZnhJM0toVjM2NGxvdGhCVGkzSXU4T0MxYlpVQ3AzbzVORWxmeVZ4NWZjU3VkXzJoUWJVWTI4RV9vVkt1LXl4WHNMbVA0ZFExT0xk?oc=5"
         }
       ]
     },
@@ -62,6 +134,18 @@
         {
           "name": "Exame",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYkM4OFUzUElIU1pycWNwREhpR01RcF8wWDJLNTNfbHRldERBWjJzNTdMRV9qMlVTUkRpdnNoQU5WSTdlb2RyUmlIQktVVXFyUkx0bnlhVEpMd2hWSVlrb2U5cm0waGp1YXVyWE1uMWFUeUpwRnFnMnlyWkVZNk9OeUdXek5teVdOemh2VXNrR0ZQUmNtVmVCMWRyWllNM2M?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "42305e52f5ad",
+      "title": "Fungos zumbis são vegetarianos? Estudo na Amazônia revela relação inesperada com plantas - BBC",
+      "published": "2026-11-18T19:48:38+00:00",
+      "summary": "Fungos zumbis são vegetarianos? Estudo na Amazônia revela relação inesperada com plantas&nbsp;&nbsp;BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9uY3BPcWVRVnM1Zm5wclBobXZMQWRYbkVMN0t2ZkJtb1MybExVNFR4NDFFQ2FVVEJvUkp0WHFnYXJ0UkVOX3VZVDJVcnFlb3RSeEJDRlVnaEl0a1ozbDBGYUh1VdIBaEFVX3lxTE5nNGpkQ012dElMUnZmX0N3aEVBUy1jUjExVkFILWJnYWltQ2xTalQzZmd5MjlFbTRxZEpwTzh0SThFUjRXTkpidnd5ZEphbzNndVM4MlBWa0ZDQjY2bWwybjFMTl9seU1B?oc=5"
         }
       ]
     },
@@ -81,7 +165,7 @@
       "id": "dbef3a0b1f02",
       "title": "Nova alta de Covid-19 no Brasil muda perfil de sintomas e infectologista orienta sobre quando testar e como agir - CBDL",
       "published": "2026-11-18T18:51:51+00:00",
-      "summary": "Nova alta de Covid-19 no Brasil muda perfil de sintomas e infectologista orienta sobre quando testar e como agir&nbsp;&nbsp;CBDLA covid no Brasil em 2026, segundo uma infectologista&nbsp;&nbsp;Nexo JornalPneumologista esclarece cenário atual da Covid-19 e cuidados necessários&nbsp;&nbsp;G1Casos de covid grave aumentam em cinco estados e no DF, diz Fiocruz&nbsp;&nbsp;UOL NotíciasFiocruz aponta aumento de casos graves de Covid-19; veja quem deve se vacinar&nbsp;&nbsp;Band",
+      "summary": "Nova alta de Covid-19 no Brasil muda perfil de sintomas e infectologista orienta sobre quando testar e como agir&nbsp;&nbsp;CBDLFiocruz alerta para aumento de casos graves de síndrome respiratória em Mato Grosso&nbsp;&nbsp;G1A covid no Brasil em 2026, segundo uma infectologista&nbsp;&nbsp;Nexo JornalCovid-19 avança em seis estados e acende alerta; o que está ocorrendo?&nbsp;&nbsp;Costa NorteAumento dos casos de covid-19: o que é preciso saber&nbsp;&nbsp;Notícias - Canção Nova",
       "sources": [
         {
           "name": "CBDL",
@@ -90,22 +174,10 @@
       ]
     },
     {
-      "id": "950351882e3d",
-      "title": "Com 200 vacinas, BH ampliará vacinação contra Mpox nesta quinta-feira para grupos prioritários - G1",
-      "published": "2026-11-18T18:45:20+00:00",
-      "summary": "Com 200 vacinas, BH ampliará vacinação contra Mpox nesta quinta-feira para grupos prioritários&nbsp;&nbsp;G1Líder em casos de Mpox no Brasil, estado de SP recebe mil doses da vacina contra a doença&nbsp;&nbsp;G1SP recebe novas doses da vacina contra a mpox; saiba quem pode receber&nbsp;&nbsp;Agência BrasilPBH inicia vacinação contra mpox para grupos prioritários e imunização será ampliada nesta quinta-feira (19)&nbsp;&nbsp;Prefeitura de Belo HorizonteMpox: com alta de casos da doença, estados re",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ0RpNlJ1Mks1Y3lfOFBzR0FTcC1rX25KZ3lLZzB3aC1Za2w1UWJqQzhndGZKdmk0RVBfcDhMVGg2X1FtVXlDS21WSThLT0NrUUZLUXh6cEV0VkF0Q0FxLURzTWtsbUloRXRGTUJYQWNtSzEwSktkRlNReWxCUFNEcGJYYlhzUmJ4SVlHdjFySlVwRG9RWlRwa1JOQmhlUGpEOXh3NzByVEVtRjI0ZHE3dE5JUjktZkoteGE5dVpYMVg1SWhSWU5WS2NncW5vR2_SAd4BQVVfeXFMTW1aZllZa1FTVGxYWVdLVjBNcm9VOG5tdkJsZFNXZmhxYVZ2NFhCUkNSREhsRUExTkQyZXV0cnhHaDV4RkV6WTZkU3E1UUs4VDVPVU0zQUhDSk5ZQTVoZmFWWnMwN0lHOTBmMWtKamZCbWwtTV9VLWlvMnpHQ3p0eWkxdGQzZXZLVV9wLUg4UG03QkJPLVlTSjc4cVZaRDRPWDlUZ2N5YXg4Zm9kTGVJd0dJRDNad2hWNm1mbFpmdkdzTmpJOVdHTTZ6dmNjS3I0aUNZTVlPTElER0ZwcnZn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6e3335cc14e6",
       "title": "Caso de mpox é confirmado em paciente atendido em Cabo Frio - G1",
       "published": "2026-11-18T16:57:19+00:00",
-      "summary": "Caso de mpox é confirmado em paciente atendido em Cabo Frio&nbsp;&nbsp;G1Búzios não registrou nenhum caso confirmado de Mpox; município acompanha caso suspeito da doença&nbsp;&nbsp;Prensa de BabelCabo Frio confirma Mpox em paciente que não reside no município&nbsp;&nbsp;Clique DiárioPrefeitura de Cabo Frio confirma atendimento a paciente com Mpox; caso é de morador de outra cidade&nbsp;&nbsp;O Diário 24HCabo Frio confirma caso de Mpox em paciente da rede municipal&nbsp;&nbsp;O Dia",
+      "summary": "Caso de mpox é confirmado em paciente atendido em Cabo Frio&nbsp;&nbsp;G1Búzios não registrou nenhum caso confirmado de Mpox; município acompanha caso suspeito da doença&nbsp;&nbsp;Prensa de BabelCabo Frio confirma Mpox em paciente que não reside no município&nbsp;&nbsp;Clique DiárioCabo Frio registra primeiro caso de mpox&nbsp;&nbsp;Folha dos LagosCabo Frio tem um caso de Mpox confirmado&nbsp;&nbsp;Rede MRio",
       "sources": [
         {
           "name": "G1",
@@ -129,7 +201,7 @@
       "id": "2cf7071f83ee",
       "title": "Ministério da Saúde envia ao município do Rio mais mil frascos de vacina contra mpox - GOV.BR",
       "published": "2026-11-18T16:11:51+00:00",
-      "summary": "Ministério da Saúde envia ao município do Rio mais mil frascos de vacina contra mpox&nbsp;&nbsp;GOV.BRCasos de Mpox crescem 20% no Brasil; saiba se a vacina está disponível na rede particular&nbsp;&nbsp;Valor EconômicoPalmas mantém vigilância e orienta população sobre a mpox&nbsp;&nbsp;Prefeitura de PalmasUm dia depois de ampliar vacinação, estoques de vacina da Mpox no Rio acabam&nbsp;&nbsp;VEJA RIORio amplia vacinação contra mpox após 1ª morte confirmada&nbsp;&nbsp;UOL Notícias",
+      "summary": "Ministério da Saúde envia ao município do Rio mais mil frascos de vacina contra mpox&nbsp;&nbsp;GOV.BRCasos de Mpox crescem 20% no Brasil; saiba se a vacina está disponível na rede particular&nbsp;&nbsp;Valor EconômicoVacinação conta Mpox é retomada no Rio. Veja quem pode vacinar&nbsp;&nbsp;VEJA RIOPalmas mantém vigilância e orienta população sobre a mpox&nbsp;&nbsp;Prefeitura de PalmasRio amplia vacinação contra mpox após 1ª morte confirmada&nbsp;&nbsp;UOL Notícias",
       "sources": [
         {
           "name": "GOV.BR",
@@ -138,38 +210,26 @@
       ]
     },
     {
-      "id": "dcecf4a24a96",
-      "title": "Pelos pubianos: para que servem e quais os riscos de removê-los? - UOL",
-      "published": "2026-11-18T15:00:00+00:00",
-      "summary": "Pelos pubianos: para que servem e quais os riscos de removê-los?&nbsp;&nbsp;UOL",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY1IwTzRERy11Z3BuTmNWSDgxTjFjZXZsRnZUT25VakZTakNlSmdvV3VrcmF4b0N4RFFnWHpENFRWaThFVE9ZRW41b3pXbV9KajBRTUVDR2pSMVJLZlJlQkZRVVRQTW9TVUViUmhkRXJHblBFMFVYdU93MVlQazVhSnBGUnkxRXlhdGp3ZDFnUF9nVnZCQ3liMWVOTjNQcFlqRjhUdFRFcnhqc3pTcVoybVhkdURuajhoZ2NydjlHVThoc2M?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "64bd93a828c9",
-      "title": "Mpox: Juiz de Fora é a 2ª cidade com mais casos em MG; saiba os sintomas e como se proteger - G1",
-      "published": "2026-11-18T14:14:06+00:00",
-      "summary": "Mpox: Juiz de Fora é a 2ª cidade com mais casos em MG; saiba os sintomas e como se proteger&nbsp;&nbsp;G1Uberlândia tem 4 casos de Mpox em 2026 e é a única cidade do Triângulo com registros; veja como se prevenir&nbsp;&nbsp;G1Prefeitura de Divinópolis isola dois moradores sob suspeita de infecção por Mpox&nbsp;&nbsp;RedeTV!Juiz de Fora é a segunda cidade de Minas com mais casos confirmados de Mpox em 2026&nbsp;&nbsp;Acessa.comUPA revela detalhes do primeiro atendimento a paciente com mpox em Div",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSEhDWkFwemp4dXllanp4b3VkOHRFbFljSHhSU3hXZjhJU0RMUjN2V2M1Sm53VDJZVHRvYmNvSmtNNFZySW9raGFhVU8xOVlqVzFkVWhYMU1ES0NMaEpjWlBpcVZHTWtMQzA4V2ZUSl9hNHE4VnRwY2FlQ0YzaHhwcGlrN2hWRmZlam50dF9vVjhqZzlROGM2MTY2ZjlpRklFU1h4UG8wQV9pYUd6Z0o0b3RfS3QxTmFCd1VLSEd3aTRoMzZPQ1FoNC1JYzdLR2dYeFRlM0FoV2pSOWVNN2xOMzRRWFh0Z9IB9AFBVV95cUxQMDF0YnZUNWJRakdxQS16dE53VTZ2bUJFdWxxc2dIa0RvZ1hNRkVCZUQ1UHc0U29WZWlRRFVLdE5seG44YkdzQkc2NXBWbDJacWJXX1hlTk1pX0dSb1J1ZHdzc3FrRE1sN0VjbmZoWWNnSjR1OWRlLUQ4RmRqNlF4cnpyZjBsand5d2RzaTlGQXhBTkRueHFscnpsMDVNeEZOOG5sbzFsU2tvZHhaWmFVZGJmNDlUX0NLQTkwdUoxNmNXVm1iSVJKWmQ2bGgxbnBaLXpRZlJQTDhJMFRRYUt4dWVPMlg1OTlSYjVHRDM2dkZuVlgx?oc=5"
-        }
-      ]
-    },
-    {
       "id": "20462109d0ad",
       "title": "Neurocirurgião alerta para 3 sintomas que antecedem um AVC que podem ser sinais de alerta: 'as tonturas não são normais' - O GLOBO",
       "published": "2026-11-18T13:56:08+00:00",
-      "summary": "Neurocirurgião alerta para 3 sintomas que antecedem um AVC que podem ser sinais de alerta: 'as tonturas não são normais'&nbsp;&nbsp;O GLOBONeurologista alerta para o aumento de casos de AVC entre adultos mais jovens&nbsp;&nbsp;G1Uma mulher de 26 anos sofreu paralisia repentina em um lado do corpo enquanto pilotava uma motocicleta; médicos alertam para o risco de AVC em jovens.&nbsp;&nbsp;Vietnam.vnIctus antes dos 50 anos: por que preocupa o aumento na Espanha e quais são os sinais de alerta que ",
+      "summary": "Neurocirurgião alerta para 3 sintomas que antecedem um AVC que podem ser sinais de alerta: 'as tonturas não são normais'&nbsp;&nbsp;O GLOBOCada minuto conta: Unimed Araraquara promove ação de conscientização e prevenção ao AVC neste domingo&nbsp;&nbsp;Araraquara NewsIctus antes dos 50 anos: por que preocupa o aumento na Espanha e quais são os sinais de alerta que você não deve ignorar&nbsp;&nbsp;DemócrataAVC exige ação imediata para salvar vidas e reduzir incapacidade&nbsp;&nbsp;Biored BrasilSof",
       "sources": [
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOeVRyTFBKUUZMY2tlcm1lZnlLVmEyYmpFYUZFRVBnX2Fyb0xNcDFnUXgtMmJUUWVWMkFXWGw2WmpZZmlVX1IyTmZVUnY2ZmlnRTZELXRnOUZQbWduYUxfY1VXZG5HX1VDVEFrUnRmb1lvdlFTS0NRdHp3MTR3R3Nvbk1QYl83bVA2QVlWTUhLZEwyMDZqc3RYU054SGJHamJKeHZZOTk5UV9nZWExcVlyRTl3aEFiLS1yVVlWVnpTV1gtMGZ1VzdCc3VLRV9yVVhvQTRReU0zX1JDMDJwQjJfZ3doQWFTamFSZXVvMlhuZUFJWVZKWEJsbXFxd3pqY1VOeTRn0gGSAkFVX3lxTE0zdzdadnBwSGpLNzMzTWQwaFl4OUNOQmR3UzZJb3dEeXFIbG1qNlZxX050NlFRcWtRMWtMTkRPUUx0OExYcEd5eXZ0OFNoX0VxME1kcWpXenc2cl9EalZJQ25lZUlKdHNKV2NERlg0cktMZ2M2S3NlQVlFT2M4Y3BCRmlMcEgyYkc0OWVaWDhZYVJaUk14M2lUVnFqQ2hCUEx1aDlpX1BaNzRtTHNhcW1kRmxzcFpWYW5qOVA5RDhLRGpiOFl1VkRFanhSaEE5OGpLTEVzMUdBazYxZGpQclNyQXBCY3YwQzlzTEQ1OVZHUVUyNlRfZVdUTUtQOWhDZVpXejlhWWNYbEpJbTJOczVYcnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f6c4d7b56224",
+      "title": "Canetas emagrecedoras fazem o cabelo cair? Estudo explica o que está por trás do GLP-1 - Exame",
+      "published": "2026-11-18T13:40:42+00:00",
+      "summary": "Canetas emagrecedoras fazem o cabelo cair? Estudo explica o que está por trás do GLP-1&nbsp;&nbsp;Exame",
+      "sources": [
+        {
+          "name": "Exame",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcUtLY1JnVmlaNG9iaGNsOGtnTHpiN2FIS2Y5X3dxVURCY3lGMXBGczUyUnNsQ2h6ZWlZY1ctX1RqSW1MdkwzMVRKblFXeVp6bUhFVmlTTjFJT1l6bnhxRHNuRXgxaDZ0bjRsV21EZFVSclNmWUZPSklGX1N6RWVsdUd3U2V0MFJiTG1tTEFHZ3lELWNPT0VaSVhZbWpueVlnWU1hMVE2TVIwbGxISm1RNlNn?oc=5"
         }
       ]
     },
@@ -198,30 +258,6 @@
       ]
     },
     {
-      "id": "775874cbe685",
-      "title": "Quem pode tomar a vacina contra a Covid-19 no SUS em 2026? Veja o calendário - O Tempo",
-      "published": "2026-11-18T09:00:01+00:00",
-      "summary": "Quem pode tomar a vacina contra a Covid-19 no SUS em 2026? Veja o calendário&nbsp;&nbsp;O TempoQuem deve tomar uma nova dose da vacina diante do aumento de casos de covid&nbsp;&nbsp;VEJACovid-19: quem deve tomar a vacina? Quais sintomas? Tire suas dúvidas&nbsp;&nbsp;agenciasp.sp.gov.brCrescimento dos casos de Covid-19 reforça importância da vacinação&nbsp;&nbsp;G1Covid-19: quem precisa tomar a dose semestral da vacina?&nbsp;&nbsp;Estadão",
-      "sources": [
-        {
-          "name": "O Tempo",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRjJhWU1ndHk5M2IxWGkyMlg0MkZmZkppVEFPeWZUNkV5OWNYc29rd1BORDZlUkFFZms2aEVwZGZ6dFZZa05SNS1iaThfQmpKR0VBVDR3S3FNZlIxU0FsekxLVkwzOXpQSWFvMkZLMHQyVDBhWWsySzV1dG80eF9vdTAwVERZa05MNmtkZUdYV01ic3lRck1zazZkNDNCbUFJaHFIWlZEVmduRmNiMzVGVGJLY3VYLS1pbHVQSGdqcm52ZlJFbUxVMDFR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "57ea37a9df71",
-      "title": "Secretaria de Saúde traça plano de resposta ao El Niño - Correio Braziliense",
-      "published": "2026-11-18T08:00:00+00:00",
-      "summary": "Secretaria de Saúde traça plano de resposta ao El Niño&nbsp;&nbsp;Correio Braziliense",
-      "sources": [
-        {
-          "name": "Correio Braziliense",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaHNRUEZ6UVVVT3V1UFM2VkUtVE1HMWpVZ0VoNU5VUkxwdGJmdzJLY1FyYTBBdzFEazhOcUd1OWpZYjVrRldJcHRZel80TVVyeHlfVE1zVlNyMEZuUjRhTjh3bjdJZGNtUHY2WHg2ZjFQendKX1czSjl4V0pFZkxnV2FDTVZJUjNXNmNoNzFxYzg5Nms1c0FNSUFRMXdwczNFY3N1S1pFZXZfcWMtRHI3M1R4UEZ6dEhNSDl0allQY29vd9IBxwFBVV95cUxQN1JDRkp3VTFDeHF0TXlQZXNXcWZqZUtTdTN2ZkR4RmphcEUyUHYwcEFGZFhTR0RfbTBuLTRmVklJWFRDU0dqeE8xamVyeFNBZXpyLUxFNFU1RVRhMEZtVUdGa25pNV9scDdnOVUyTDFnWHBRaUhWcHFBLVlYUWFud0Fxd3JBSjMzUkZfMFg3alNPZXZmSDllR1kxTm5id181dnU3cHYxcUFwUFJUdXdCTFlscDBMWkUwekFtMlRBdUdIcUxJenNn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d7beb5c4b93e",
       "title": "Cirurgia de afirmação de gênero usa pele de tilápia para criar vagina - Folha de S.Paulo",
       "published": "2026-11-18T07:00:00+00:00",
@@ -230,6 +266,18 @@
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU3RtZmNncl8tRHh0V2dQR05EeUVacTc3Vk5OVFVCLUllQnRaR25uRm9WdkUxZHV3WV9mQjJiVU9YeXp5UkUzZk1HOGxBLXotdHlfeF84TG9wTm5LbEk4dnVJNFl3RU1FOWh4aWJiQ1lNN0JfZ1d4TDdqbnZUUTBueDR4Ulo1UkhsZ0NoM1B1aDNKVlc0R2swRDhPdHQ3Ni04aHFiS3dxeTZzeHQ3TVF2S0FkOEJFeENMRExBdmp3NWpLbDNlY3VnTTR3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "64519b95d9f5",
+      "title": "Toque retal ainda é opção para detectar câncer de próstata, mas nova diretriz dá prioridade ao PSA e à ressonância - G1",
+      "published": "2026-11-18T06:00:00+00:00",
+      "summary": "Toque retal ainda é opção para detectar câncer de próstata, mas nova diretriz dá prioridade ao PSA e à ressonância&nbsp;&nbsp;G1Primeira diretriz conjunta sobre câncer de próstata orienta rastreamento aos 50 anos&nbsp;&nbsp;Folha de S.PauloPrefeitura de Manaus promove palestra e reforça importância do autocuidado e da prevenção à saúde masculina de servidores&nbsp;&nbsp;Prefeitura de ManausCâncer de próstata: \"Cuidado não afeta a masculinidade\", aponta urologista&nbsp;&nbsp;MetrópolesConsórcio G",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVHZPUTFhTXVSU3g4dUt0NmlvSW9NQ1hsbVM1SXRpQWwzdUFqSlZzWHNnNzdyM0h6UnR0bnA4dkpiYVdnRm5aMHhRaFdCV1paSENNak1OcmVUV3ZON2JocGdNaWh2NWhaTTQ2X2k5ZC1TU2RFUmU5dWZ3dC0wMFV5UmFDQ25uN0VlTndXMEgxZWNUY1JNV2ZWeWhrUXFfN3Q5TFJKVW51UmVOZGxnZEREVzBLdEdxcm9VUWhOSmJnUnBEemtUQldIazdvY0RoQk5JY3pQMGNsUUpQdUJEY3EzVTBqR2FJVElQNTBheG90WnBPdFRnSU5kbdIBhwJBVV95cUxPcnF0UGJMLW5FTmhhVlVtWHhWczBweDNManVicUdLazk3aWZLYXRTZ25naGcwLXQtZG9NTVpaV1NsZ1pTRkRXeDQ5Q0luUUxQX3J3a0VjcmxRWG5wbFVycFJIVFRkOURyWlFnQlg4Y3JBaTNDUU9xMlYwSjhGWlRZdjZvS0otaXVuV0o2aF9TckczaG5JTHFabDVkNmhNbnZYZzgxTUk2ajNwVWgyV242Ym9qUDBzbFNoRFN5Y0djNUFKUnZyRXp2cGdfeFZUSk5zUkpWamR0V2gzWXhjWDVUZnpqWmpqbXRlMEZsTEJTWWJPbXlQZnM0RVUxUzRhcVg1WjY4bUN5dw?oc=5"
         }
       ]
     },
@@ -246,122 +294,38 @@
       ]
     },
     {
-      "id": "dbd8bd94c728",
-      "title": "Baixa cobertura vacinal contra sarampo e meningite preocupa autoridades de saúde no Brasil - G1",
-      "published": "2026-11-18T00:00:39+00:00",
-      "summary": "Baixa cobertura vacinal contra sarampo e meningite preocupa autoridades de saúde no Brasil&nbsp;&nbsp;G1Veja mais manchetes e perspectivas no Google Notícias",
+      "id": "69a30a47ed12",
+      "title": "Cientistas entregam a Lula plano para elevar investimento em pesquisa - Poder360",
+      "published": "2026-11-18T00:21:10+00:00",
+      "summary": "Cientistas entregam a Lula plano para elevar investimento em pesquisa&nbsp;&nbsp;Poder360",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcVp1TnRDMFBBdEw1RDIxSmlIaEs5UERUdFlQUFBWMVVtaHRKNHVPd3hXVXFvUlNRSXkwMzRPNkI5dTl5ajc5UjZ3UkVSc1luYXVocjlZMXp3eGxWV09vRkdGR1M4YWR2d0NySUJBdnlqUXlnUndvVTVRUnQtVUJTbk9MYjlWU2QwalNjUEdENnVmdnh2M3RLdXpDbWtVd0dxc1BUQ3FLYU5Falp4MjZ4UEhxaC1qTE9vVkR0MTR6WjBlNEVwQXdLRGtzWjd2YTRwRGs1UnVFYXhybGY5WUpmZmJhUWFwQmfSAfYBQVVfeXFMUElnSURVcTduZkdSM2JtMjlPTzdLOHg4eFNjWjZIYmh5emFGQXhsa1ExdlFKOHdLN2UxQmEwSkZ0VzRDcGM2VFZaeFloLWtvb0l3Z1Y5cXNzUmd4VGZNcm5FMnFHdEdwbF9WUWJiN0tfT3ZsbEpmdUU5LURjTmxJa2Y0cE5YcTRTaEYtUnRZRGFobjJRQ1BEXzJnRHJMcnd5WmRiOTF3NGpBZ0VCeFA1UTRNbVA0c1dvRGdWM190ZDQ0ODQ4alM1WGdvalE3Z1cwVmhsdnV2b0RjV2FhUjlOdzJZTWhVSTdwSFhlTktfOGE3Nk9xbzNR?oc=5"
+          "name": "Poder360",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcWFiTlBRTllyRDBMRVlIcU9NSjNQbHdfcW10c2R6cWRHMlF5LXk3Qm0ycjJFd0g3UklpaGhkMHZSamJUTVU5aWJMRURXUkx3ZTVpNEUzOGxrUEdFb2t3aFlocUI5Q3NSNHVHMVZVTUdvU2dTemZFMFlyMWF3YU1uY2VQYm9QWjVMZ2xZT3lfVXYxVmFXZWxxbWtQbE8ySFU5S1JlYzJycGdZMVZ3bnF1MTJR?oc=5"
         }
       ]
     },
     {
-      "id": "4d94db0622cf",
-      "title": "Cientistas entregam a Lula plano que prevê 3% do PIB investido em pesquisa e inovação até 2040 - O GLOBO",
-      "published": "2026-11-17T21:12:14+00:00",
-      "summary": "Cientistas entregam a Lula plano que prevê 3% do PIB investido em pesquisa e inovação até 2040&nbsp;&nbsp;O GLOBO",
+      "id": "50251bc61b39",
+      "title": "OpenAI dará 50 mil novas bolsas para cientistas desenvolverem ideias de pesquisas com o ChatGPT - Valor Econômico",
+      "published": "2026-11-17T23:13:10+00:00",
+      "summary": "OpenAI dará 50 mil novas bolsas para cientistas desenvolverem ideias de pesquisas com o ChatGPT&nbsp;&nbsp;Valor Econômico",
       "sources": [
         {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMWJFT3R4Vk5mSXE0U1VpXzAwdGRVS2xiU19RMnJKTkx3UzBzb1I4RE9rV1pXTm93WUVWS1RoelFTM1Z2QjRKMl9nNmVRZndqeENsZlZ6cXkzcTlTZURJaDBfUEN0MVowUE1Idi16UllETUNTcG9MWW8zNkMwaVBSYW1LMXVGYmI3Z29CZV80bFFrckRKM2Fqa0xsQ2dKMUFPSjVSRWJTaTdST1NBQzJXNzhybUJIbVZEM1FkaktmVjVJU3loLU92UEJESlRZMlpSeUpLZ21ONGJuT3I3aG5HRmpCUkotTkVtY3NfOHZR0gH8AUFVX3lxTE1WZUFRSWpZRmxyYkt1RnpCYnhTMWh0TXRRal8yMnFwRXNQWGNBMlNzeWVPZTA1UElqeDMwSzhhbmg5NjNLQmFreElCQTFpMmtNSFd5MDhNUnk0SXNURUQ1c2dReVdXSUR4RTJTSnRIVHp6UXQ4VFJOWVVXTXpCd1p2RjEtS01aWjBZaDU0Qm9PbFg5eWNfeVVJUTUzVEljbGc3UWJtTWNBOVdDd1huYjRmSFdFZy1sRVVRM08zWDVuV3ZUUkt6aUd2Tl9jN1lOXzVvd3R2b2o4TG5KcDhENUJXemVnd1EyNHBpemhod3FfN1E1dkk1ZTZ0aXlyYQ?oc=5"
+          "name": "Valor Econômico",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNG14VlczcXdEZ3ZRdnAzWGdrdWNmaEp2R0FyeXlaSUJmeGpPODVIeE1NMDZRU2NzVTlUenVEdnYwUEdBZ2tDQi03NHB6QzhPTHVPWUE5QUxmdlB0TUVSM0VtdUxrelZfbEdhYTlnQWNqdDhlNEJmazFBamJkanozM3ZfLW1MdDhPeFNzdmhLUHZOa1dKenJtZWVjZlNJLS1hTE9aaDF2cEZZbi1HQ2lHd2FQTXgyQWh4OUl3dmRubXhtX2lwUUxHc1Y5MnZ3WndJc2VkZ3NkSDVSQ0dkV0xZTC0tWWlKQ3ZF0gH3AUFVX3lxTFB3MU1jSlVtb1pMZHctbFB0ZDJrVjR1MmdZSzF6S1IzSWVQZ1JCM0hYTktqWDN3Y21QTDh6bzFMYnUxT3pLcmNIdEUwaXR4ZXJkdTcxd01sVDE1a0ZMNHZVeHVoM3ZBSmxDbV9GdkFSZGpjcXN3U1dDb2htaDAtTlRpaEphakFkaWxUQ09pVHZiSXhBdm0zeTd2bnRRVXRVbGJlUW1BVDY5SWh5eXBTdnNKcDVoU1VTR01ITVFYRWJDakpudjJCMnd4RDFuUUJMY1FzQVl4bzkwVEs1TEhqUGVJNnV3czR6X3ZqbGxFNHdrV1I0MnBoLUU?oc=5"
         }
       ]
     },
     {
-      "id": "77a464164da0",
-      "title": "Primeira diretriz conjunta sobre câncer de próstata orienta rastreamento aos 50 anos - Folha de S.Paulo",
-      "published": "2026-11-17T21:00:00+00:00",
-      "summary": "Primeira diretriz conjunta sobre câncer de próstata orienta rastreamento aos 50 anos&nbsp;&nbsp;Folha de S.PauloToque retal ainda é opção para detectar câncer de próstata, mas nova diretriz dá prioridade ao PSA e à ressonância&nbsp;&nbsp;G1Câncer de próstata mata 50 por dia e ganha diretriz inédita no país&nbsp;&nbsp;UOL NotíciasPrefeitura de Manaus promove palestra e reforça importância do autocuidado e da prevenção à saúde masculina de servidores&nbsp;&nbsp;Prefeitura de ManausCampanha alerta ",
+      "id": "43b2f757e728",
+      "title": "Einstein Como a cardiologia de precisão está mudando o cuidado com o coração - UOL",
+      "published": "2026-11-17T17:38:40+00:00",
+      "summary": "Einstein Como a cardiologia de precisão está mudando o cuidado com o coração&nbsp;&nbsp;UOL",
       "sources": [
         {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPT0hwMjhPMlM5NF9vSjJHckhDWlhvd1ZXR2cwYXJUaHZKc0V2WjlEY2lRdTJyTVhPZjJfNG0wV0RTNU9xRDhaTWJaeGkwY0RmblQ3LVBIcTYtRzJPbjF6WGZHQ0tSOFh0VzA4OHhHbVRoeF9MU3dPZ2FEa3RJZXQ3M0p0aHROUGNoZlh6eUpqbm5YWWY1SklibEROLW0ySlRKSEVwdVVQdl9ZdFA3TUlGQl9vb1M0cFNxS1VNZjJOTHlFLU5RM0JtUFFSaVBGUGZDVVhhWHdUQzk2cXZaUWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ca755491a0ab",
-      "title": "Covid-19: saiba onde fazer o teste gratuito na Grande Vitória - A Gazeta",
-      "published": "2026-11-17T21:00:00+00:00",
-      "summary": "Covid-19: saiba onde fazer o teste gratuito na Grande Vitória&nbsp;&nbsp;A GazetaUfes alerta sobre aumento de casos de Covid e recomenda vacinação&nbsp;&nbsp;Universidade Federal do Espírito SantoCovid-19: veja quem deve se vacinar e onde encontrar doses na Grande Vitória&nbsp;&nbsp;Folha VitóriaSaúde recomenda cuidados em Marataízes com aumento de casos&nbsp;&nbsp;Direto NotíciasCovid-19: vacinação é reforçada na Grande Vitória diante da circulação do coronavírus&nbsp;&nbsp;Agora ES",
-      "sources": [
-        {
-          "name": "A Gazeta",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU3YzMnUxd19ENmtTWmF2Z2tJODVrSHZwRFVuZXZVUl9yU3RCcWE4d3NYNzRBcXBOa1dJemkxZjIzM210THBSQjdiY3pjamtacmRVZGU5OTJGQlp5Y0hFQ1lHaTNpbGJ4UGwyU29vQUs0Z3J3TWZFeHpWcERLYVJ4M0hFWE1oUVZXRGV6TWdGSTZSQ0toUmJsbU9Wb1RwNHJoTXJSamVtMmQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e901260d97b6",
-      "title": "Rover Curiosity faz descoberta surpreendente ao quebrar rochas de Marte - Metrópoles",
-      "published": "2026-11-17T20:08:00+00:00",
-      "summary": "Rover Curiosity faz descoberta surpreendente ao quebrar rochas de Marte&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObmtQbFctWWZQbHE1dTl2LThUejdMNWhrVklQUTh5dl81YVM4OFUwTGp3NkhORUVmNWU5UUhqbWRpRjN2Tk1LVTlXb2ZHU1VGQ0swTU1PUWl3elVPNzNTNXVPdUFCLXk5dUhjNHY1TGVvSUJWNzNiM1d6alFsb0F0cXBlQ0xfbHZDWmlmNnJuN3E2ZDk3TGhYLXBaMEZzWmVNRkVSa0FqdlhPZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7c9b75274ae5",
-      "title": "Por que EUA perderam certificado de eliminação do sarampo após 26 anos - BBC",
-      "published": "2026-11-17T19:02:32+00:00",
-      "summary": "Por que EUA perderam certificado de eliminação do sarampo após 26 anos&nbsp;&nbsp;BBCBrasil mantém eliminação do sarampo após avanço da doença em países das Américas&nbsp;&nbsp;O GLOBOPolítica antivacina: entenda como o sarampo se espalhou até virar um surto nos EUA&nbsp;&nbsp;UOL NotíciasEspecialistas discutem barreira vacinal após avanço do sarampo nas Américas&nbsp;&nbsp;Estado de MinasO sarampo voltou oficialmente aos Estados Unidos. E agora?&nbsp;&nbsp;InfoMoney",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0YmVJOWZPWHd1aXhxS2RzTVUtVVN3U1JWVURyTEdkQVh6R2ZkN1BJZkxuaUtJSFRpYXg5d2NWVDY3WWpvQ2NOWllscDhzaW5oNWJNa005ZmtMUW5vcEZnNEp2TdIBaEFVX3lxTE5CanU4OW9kTHBjdVFjYmFJTV8xUVA3NXNoNXBfYTZ2Y255emdtdUVKdlhtb3JncHAtbXlENzA2b2tNSFMxTDZlZHpKQmJKejdFWDF4QjRpUDduQmJ3bDY2SERCY2hsR3Rq?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "44ff050c7985",
-      "title": "Nova variante da Covid-19 circula em Alagoas; veja sintomas e quem deve reforçar a vacinação - TNH1",
-      "published": "2026-11-17T16:34:29+00:00",
-      "summary": "Nova variante da Covid-19 circula em Alagoas; veja sintomas e quem deve reforçar a vacinação&nbsp;&nbsp;TNH1Alta da Covid: variante PJ.2.1, que cresce no Brasil, entra no radar da OMS; conheça&nbsp;&nbsp;O GLOBODe dor de garganta à rouquidão: as particularidades da variante associada ao aumento de casos de covid-19 no país&nbsp;&nbsp;VEJANova linhagem da Covid-19 já representa 58% das amostras analisadas e foi identificada em seis estados&nbsp;&nbsp;Jornal CorreioSubvariante da Covid-19 predomin",
-      "sources": [
-        {
-          "name": "TNH1",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcmIyaklWUkRHdTJOVXVmNzBlZm1MR3JKNzBXbnpyM0ZGTl9LWTB4SnFTRlVFd1RrSHZaaS1BZGV6UHpaalhaSlI5WElzU0t4ZHU3eU92elV6OXByNHprWUMtdEVmODlDQ1d5eFM3b1QxeFlIRWJJNDNNM1NlUUxOZjB3T19qdEJuQkw5OUFWa3kya20waHozaXBVQnNOZTFkcGp1bHozRlowYkxrV0JfNXZrOGJ0UkI3d0hLeGpGYU4xVk9hdHRJ0gHCAUFVX3lxTFBDdFltWEkzbzZsZEsyazRRcW9tTjdDdHN1U19sVFpfTUJqcDRxbS1ac25ZTV9EOVR6Q18tcmNvZ2pzODlPVy1MSXJJSWZUT1RjTDJhU0JtUWZXYU9oTzdGVkU2eVNZSWhWUVFDODBSMzI0VlFQOTlOb2N4MW5fb2U3cXhRN09JSTJhOTVlaWk0VXhHLTZwbk4tWXFQdzdBMjBJYVFPM3dxN1FJS19ZLWxlRFdyLVZpcjd6YkphWkltbFV3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d617aac891bd",
-      "title": "Uma única vacina tem resultados promissores contra múltiplas alergias alimentares - O GLOBO",
-      "published": "2026-11-17T15:15:22+00:00",
-      "summary": "Uma única vacina tem resultados promissores contra múltiplas alergias alimentares&nbsp;&nbsp;O GLOBOVacina de mRNA promete proteger contra várias alergias alimentares&nbsp;&nbsp;Tribuna do ParanáVacina testada em camundongos mira várias alergias alimentares de uma vez&nbsp;&nbsp;O CafezinhoJP1: Cientistas testam vacina contra múltiplas alergias alimentares&nbsp;&nbsp;sampi.net.brVacina de mRNA mostra potencial contra várias alergias alimentares&nbsp;&nbsp;Diário do Centro do Mundo",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeWdBeHlqS0lWVXBRNnNoYWR2RlN5dkJnTmt6OS1kcUd1ek1qTkhvVHkycUtaM2hDbkI0X2ZOdmpnQmsxNmUwTFFPRnY2QTJRcndjZnVwN2EzSW05RkpqbU4zcVg2c1d0MEZleGpkcmUwNFZodVQ3OFJLSlpnYlZ6RHhoNHhQYTJ3dTlyZHp3ZU9OUVJVLUhZZWZKZHBrcTRDU2ZpVVBFNmQ0N3pZc1NLSkdiODhHVXNxSGhwRTdTWmlZOVhYUkxEbFp2MTVpdl9LM0Fz0gHiAUFVX3lxTE1OLWVIZWh3czdqQUFWMkRYZGQ2ajNyQzNGTGs5UmhBUlJlX0ViWl90WV8yYmFJaGt1Z2xXYk90X1dEWXZnOFl0TUQ4UUotWVdSNGJPR0hvUVZ3UjFsVHlocW95ZVVHbjRJQ1gwQW1sWEdqV29lazJUdVRFNWJSYjgxYTYtRzRDWFVScGFXODdYZWN0RktyR3EtYmp2SlB5eWlXcy0zRElRdk96aXQzZl9pN3lOSXFYQXQ3dk9POXctOWZGbUVfRXBmVXZzbzhxd21PbC1YZFBpRUJjNmJoRHVFM0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d62523c9143c",
-      "title": "Remédio para disfunção erétil pode desacelerar em 31% os sintomas de Alzheimer, mostra estudo - G1",
-      "published": "2026-11-17T14:40:25+00:00",
-      "summary": "Remédio para disfunção erétil pode desacelerar em 31% os sintomas de Alzheimer, mostra estudo&nbsp;&nbsp;G1Medicamento que imita o Viagra revela-se promissor no tratamento da doença de Alzheimer&nbsp;&nbsp;Euronews.comMedicamento para disfunção erétil pode desacelerar sintomas de Alzheimer&nbsp;&nbsp;Rádio MetrópoleEstudo aponta melhora de 31% no declínio de Alzheimer com medicamento experimental de uso similar ao Viagra&nbsp;&nbsp;Termômetro da PolíticaEstudo aponta que medicamento semelhante a",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNU0JtVHpvV0tVR3NSeTJEQkR2b0JiSm1JbzY1TjhfUUkyakZGQjRwQXYtbUFvQmNwWnFJa2d4M1NBMGVyUUFFdWZxZmw0MGRhMHRqVVRpR3llSVg0amt1Mk1GYVZzN21GWlo1cVpraWhFUGV4U2xaRS0zVXZpVVR2ZzFiSVFnZDNrX1pmbkYxTXNVdVpERjdYUG05QjUydi1FVnZSdm5oS0duZGYyai1hRHZzaWlQaHR1TEJxamV5Y3hiSW9Fem1CZTk2MjdCSTjSAd4BQVVfeXFMTm91SjBPLUdkVnZCMzA1R2U0LVRfVjJ5ZWhNUnlNM0dmUnEwWG1RZjdhUDdYb25MRGtfakFfWm0tR2JiRXUzY0dqSHFwVEFCV0xiTFhPRmIyUWpuVlNqZFBHNlIyNFE1V0MzVnJ5VzQ4bkJGelpHTTRIX1VUWEdHZkc3N0xwYmljUFNiUFdDY2p6MDVPdEZjdGZOdWRmOU5QMXdzTzY5dkUwbnd6RldadHNnNUdBc0t4OU1RUlJ4bEhyMEJSVjRxVjRzaUZSTDZkRDZ0bWpsZmpScF9hQV93?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "95f03d117de4",
-      "title": "Colégio Naval tem primeira mulher à frente do Corpo de Alunos em 75 anos de história - Agência Marinha de Notícias",
-      "published": "2026-11-17T12:46:12+00:00",
-      "summary": "Colégio Naval tem primeira mulher à frente do Corpo de Alunos em 75 anos de história&nbsp;&nbsp;Agência Marinha de Notícias",
-      "sources": [
-        {
-          "name": "Agência Marinha de Notícias",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMnZJVWRxZ3AxLXlVWHE3ZXNlN0ZOZy1PSHhhYkduSXRmVU9iTHRnajNBWS1laFB2aVFmNk5NQW52UnZNVjFvb1dKWmdhRFhmTmlzbWRwZ3ZqRlJTTXl3V1JfbFo5NnVnV1FLVGNTTmc3QkhPVzdWTGNCaU9BRkN3UFB1V0xnNERJQUtYc2VLc09IRmtNSkRJOGFGVnlLSWxYamlkM0h0YlI5bUpCanNHNTNKbVllZHI3VFVxLUw0ejR2T2tTWWFBbHRsMUk?oc=5"
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVEdTWEYyOG9qYXRiemNLWjl4WXlHT3I2a01XWVJ3M3lvUGVvNko0LVdURC1yTC1IYUFhTmhrSEZMNWtNY3VlY3gtTFJMZTdyeEd2UXpEcGM2Zk9HdXNjdkR1Umw0SlZET1lxRzdPMTRlSDQtbEZ1MlA4STlObW1SZXR1bk9JVVdTZEJScWU2dk1Ta2k2VGdsT3I1R0FUekdPQWh2TUVTWWVmTGJPMDFTal8zdkpZaTNYMkV0aTJzVUZvY2tnTU05MzVRaFQ?oc=5"
         }
       ]
     },
@@ -378,38 +342,26 @@
       ]
     },
     {
-      "id": "ad34fa85eb09",
-      "title": "Mudanças sutis na fala podem ajudar a prever o risco de demência - Estadão",
-      "published": "2026-11-17T08:30:00+00:00",
-      "summary": "Mudanças sutis na fala podem ajudar a prever o risco de demência&nbsp;&nbsp;Estadão",
+      "id": "f00e7490d550",
+      "title": "Tadalafila turbinado? Molécula pode recuperar resposta ao remédio na obesidade - Tribuna do Paraná",
+      "published": "2026-11-17T11:11:00+00:00",
+      "summary": "Tadalafila turbinado? Molécula pode recuperar resposta ao remédio na obesidade&nbsp;&nbsp;Tribuna do Paraná",
       "sources": [
         {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaWZLUzYxZWR4aHZEVzVBZmhhaXRhN0h6WTd0SEh2aG5rcXcwbHJ6VHdwalI5Ui1UMlBoTEJTYXJzbUttRGI4ckp4bEdRRzJiTUhyRGZJY1hhSzFQS2Q2MEM3eUphVTIybVRrUVFIVkFQVV9YS2pnZ3paRkNvSnAxQzJjbWNCUmUzS3RQMlYyc01ad3M4S3ZmWHVWbm5SN0VDZHRoT3BMQ3ZoYWEwZHltOFNQOTA?oc=5"
+          "name": "Tribuna do Paraná",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT2djMWVYYlBXMGNFVlN6NWlVeXpycWVQd05rdHhKdjJlbno2MF9QbDZqa2lDSVIwa2szNng0a1ByUEdmcHlsa0dyZ2hGWkZMbl91ejNGdlhOSUd0blczNEVjUmdJbXJYWUh5Q2JtWlZhQ2gza1lwU0dNLVhNM1J5V05MazhWbExSQUkzT1kwRVFFNFF3NXJzU3FWWEptVzVNa3dQbkE1VWJkRU9ieWp0TlJ3blp0Sm1kenZ1dGVmaW1OZjTSAcgBQVVfeXFMUFFLRjZDQzdWTGJjckpFTjNDN3BvTzA2OUhfbm9NUXdoejcwUkI4YldVWEF4eHk1SnVWVVdaaTNfbHdqRWt1M2RfeUV5Z3V1VWhZY19mNm0tM1F6Z1hGNXEwZmQ0WC1MNWZqZzVNVzhfOTE1VEE5T2l1MGRCNWtDVF9OUko2a0MyaG93UFNaa3puOGhFRDZhaXNyV0FaYXVpc2hIbmhicFJsaFVTV0xlY1FRVm1JemYzM2N3RlZyem5QaVREQzZIbDU?oc=5"
         }
       ]
     },
     {
-      "id": "c286100ce06b",
-      "title": "Além da dor: avanços no tratamento da artrite reumatoide ajudam milhões de brasileiros a recuperar qualidade de vida - Diário PcD",
-      "published": "2026-11-16T14:32:55+00:00",
-      "summary": "Além da dor: avanços no tratamento da artrite reumatoide ajudam milhões de brasileiros a recuperar qualidade de vida&nbsp;&nbsp;Diário PcD",
+      "id": "878d36cc4c73",
+      "title": "Calvície: cientistas criam pente elétrico para fazer o cabelo crescer - O GLOBO",
+      "published": "2026-11-16T11:30:49+00:00",
+      "summary": "Calvície: cientistas criam pente elétrico para fazer o cabelo crescer&nbsp;&nbsp;O GLOBOFim da calvície? Pente elétrico criado na China promete estimular crescimento capilar, mas dermatologista recomenda cautela&nbsp;&nbsp;Jornal OpçãoCientistas criam pente que combate a calvície e ajuda cabelo a crescer&nbsp;&nbsp;Notícias ao MinutoCientistas desenvolvem pente elétrico experimental que estimula o crescimento capilar&nbsp;&nbsp;Rede AtlântidaCientistas desenvolvem pente elétrico contra calvície ",
       "sources": [
         {
-          "name": "Diário PcD",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOUdCT2JNeVpuUGFZa1pTa0JZZTlWWEFLWVZEUTA0Rnl1Qy1UZDhzZ0EyMG5NZlRJNEVzUzFHdjF1RVJHSDkwU1c0cUgwakFUWlI0VVl6M1FpLS1sdTJ3dFN6djVnRE5BOUdhTDlkbnNhY1V6Z2xxQ0pTUlEwVHlqTk5CRVlDZmpKR0ZBbUl1bnk0S1IzZHk5Z2g4SG1kYlNCdG03ZkJTajFvUTUxNFgtMUdUVUNxLTZacUh3UHFiNzk5anppb2FXeC05eUl3RkhTbkZCQllPSmE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1cc788633955",
-      "title": "Pesquisa da USP mostra que fibras de pitanga e cambuci podem combater células cancerígenas - Grafitti News",
-      "published": "2026-11-14T01:02:00+00:00",
-      "summary": "Pesquisa da USP mostra que fibras de pitanga e cambuci podem combater células cancerígenas&nbsp;&nbsp;Grafitti NewsO que a pitanga e o cambuci revelaram em pesquisa da USP sobre câncer&nbsp;&nbsp;TerraPitanga e Cambuci: frutas entram no radar após eliminarem 90% das células de câncer colorretal em laboratório&nbsp;&nbsp;Jornal CorreioPitanga e cambuci chamam atenção em teste com células de câncer, mas o resultado é de laboratório&nbsp;&nbsp;Correio Braziliense",
-      "sources": [
-        {
-          "name": "Grafitti News",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMTJiNmN2NXNKQVhCTVF0bkZUNVpKWG9XaUtsWWhYWWE3UWc3dFg2VFdCNENnNWFMSlpwOVVjeGxOTVJpclRHRzZfTFhOZTlJek5USDI5dEdZVWpiRVQwRF96cXVCV01WSlNhRkg0TTNvLVZHNW1pRkR1NzdrWDQ4UklHY0NzQUJzR2Q1WHUtU1Z6YWQ5a2lXWC1SNXJweFFqYTNSYi1mVHNsbHR0d2o2Rlo2T1VRYXh6X2c4?oc=5"
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRUZsakRxQk11aXhnQ0ZwSXRXNnplbEp3YXMtT051Ul81OEJfS2luVHR5N0stNWM4QmtWczJUWW9faFNCWWtzckl1MUdmLUtyRnNlTzV4WW80eUFoc1BtMi1LbWItcGo5TllMNTNNWlpXTGRaWExKZ0h1aVVjdnRuN0FqOG9tWC1mRjFSOEluWkdQQV9SamJxaF9nY1NFeks1cGYtTUhHaWRGOHJlQ0lOUk1pV1ZxUzZrYVdYYng5UE1oQdIB0AFBVV95cUxNdUhPRUNFVzhseFpoZnQyTjJYOTBFdFlJZmczdU1tcnVPVDNSOHZMQk81UTZfNEp3OHUzN0xPT0ZkaFFnUV9PODdnWjdDWUhzM0RKTktBTC1hTWtMcGZ6dnk1OG5Kclp3SkpQWElhSTREeGF5OGRUajdaSkJuMFZLOVV1elBrTmR0MmdMc2dOMVZEVkRuUnVybS03WE5oaEIyeXhZb3pYdXVVV04yaUdoSC1jVnRfUFZWZVFwUl96RVBWQW1COU8zWnFBT1BfUzl2?oc=5"
         }
       ]
     },
@@ -422,30 +374,6 @@
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPV1pmQTQzS1VuMGZaeHlDeS1hX0wxcTRkYkhlaGhUVkYtZ2RSTUw3NHpsNXpCOGstQzg5R3hTbWQ2RzRPOEFUcXdCSWJYRWtIbm9kSVNqVi1zcVdiOFZJU1dNSHFhM3NweVdteW1JYUh2ZHkxWU9IbktMYjEyck9aZmViQ1pqMlEzU1Y1elF2cGcxY2NDOHZnd0xDTkpsTGZFcVVyZm1LbUpUUEc0UFgyTFRhSVYwQlVCb3pnTGxQNTNldnAtZVpNVnBhbTl0TlBxMm5reVpiZUhZY2tkVmZYWVpRZE1GTm54bjVoN3BkZDEyUnU0M21XT3c4SVBiOEHSAY4CQVVfeXFMTS1zeVBIR2RCWVFUcnJfMlRnUEpTZVIxZXl6VEFnVGk0S3lldFNhQTJjZlhVOEY1N0ZBcmN1dm9NY3hTeWpIUF9YR1NXamN4bk5TS0Z6amZYa21mZzhoMHRySWhMbWRPMUVIYkNxdVN4dFpqeU5RMkg0MDBHYmZwRnBQMWFHc2ZneDVGckNQUmFCdnI1MlJBRkJrR2RPSDRjVS1IR3Z0a1BtbWxaeDhSYVFzRjZScWhJS3hiYlVuS2hBUzFXTno3U25JeUtkM0t2Skw4R2ZqMVh2VW5URWZUOUM5dEsxUkxrNzgzOHFMWXVaY0NLMi1seUdXY2RSdVZWVjA5UXp4TVl6eDMyNXRB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "43b2f757e728",
-      "title": "Einstein Como a cardiologia de precisão está mudando o cuidado com o coração - UOL",
-      "published": "2026-11-12T20:46:54+00:00",
-      "summary": "Einstein Como a cardiologia de precisão está mudando o cuidado com o coração&nbsp;&nbsp;UOL",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVEdTWEYyOG9qYXRiemNLWjl4WXlHT3I2a01XWVJ3M3lvUGVvNko0LVdURC1yTC1IYUFhTmhrSEZMNWtNY3VlY3gtTFJMZTdyeEd2UXpEcGM2Zk9HdXNjdkR1Umw0SlZET1lxRzdPMTRlSDQtbEZ1MlA4STlObW1SZXR1bk9JVVdTZEJScWU2dk1Ta2k2VGdsT3I1R0FUekdPQWh2TUVTWWVmTGJPMDFTal8zdkpZaTNYMkV0aTJzVUZvY2tnTU05MzVRaFQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8593b1f6c0ad",
-      "title": "Tumores neuroendócrinos podem provocar sinais discretos e exigem diagnóstico preciso - Portal Drauzio Varella",
-      "published": "2026-11-12T18:54:50+00:00",
-      "summary": "Tumores neuroendócrinos podem provocar sinais discretos e exigem diagnóstico preciso&nbsp;&nbsp;Portal Drauzio Varella",
-      "sources": [
-        {
-          "name": "Portal Drauzio Varella",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaWk3VW9fbHh4Q3RGUmJMYjJVRS1KZkljM25GU1NtcDcyLWZtd1poUGp4YmppVWhtWEM2aUFLcGhqc0Z6eDloa2NrbWNJZ0Z0Qko1YUt5QUhiVVZISEtUTkdEQnNCWkJiU01VT2tsZG1pVzB6Q2V0N1pMSFFDaEgza283WVg4R0xZV1JZa2NTMjhJdjhGZERfZks5ZF9VVFZ1WnhMMU8zUHQ4bjA4U3Y1ZFp4VDMzSGJPLWVuUHgwdS1IbjE0QmtKLQ?oc=5"
         }
       ]
     }
