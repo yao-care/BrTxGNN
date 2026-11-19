@@ -50,8 +50,8 @@ O modelo TxGNN prevê que pode ser eficaz para **Acne (acne (disease))**, mas at
 | Nova Indicação Prevista | Acne (acne (disease)) |
 | Pontuação de Previsão TxGNN | 1.0000 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 21 de 57) |
-| Número de Registros | 57 (ativos: 21) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 21 de 88) |
+| Número de Registros | 88 (ativos: 21) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -75,11 +75,11 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Há registros ativos apenas de produtos que associam a levometionina a outros componentes (principalmente soluções de nutrição parenteral e uma associação vitamínica); nenhum registro de produto com a levometionina isolada está válido. Os dados locais não trazem texto de indicação aprovada para esses registros. Dos 57 registros, 21 estão válidos e 36 cancelados. Os principais registros válidos:
+Há registros ativos apenas de produtos que associam a levometionina a outros componentes (principalmente soluções de nutrição parenteral e uma associação vitamínica); nenhum registro de produto com a levometionina isolada está válido. Os dados locais não trazem texto de indicação aprovada para esses registros. Dos 88 registros, 21 estão válidos e 67 cancelados. Os principais registros válidos:
 
 <!-- review:begin br-lic-20261119-levometionina-1 -->
 
-> **Correção de verificação (2026-11-19)**: Texto original: “Dos 46 registros, 10 estão válidos e 36 cancelados.” Corrigido conforme os dados abertos de medicamentos da ANVISA (situação de 2026-11-16): a página de metionina foi unificada com esta em 2026-11-19 e os seus registros (mesmo DrugBank ID, DB00134) foram somados aos desta página; há 57 registros, 21 válidos e 36 cancelados. Os registros válidos acrescentados também são associações (nutrição parenteral, associações de metionina com colina e betaína, e uma pomada oftálmica); nenhum é de metionina isolada. Os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-19)**: Texto original: “Dos 46 registros, 10 estão válidos e 36 cancelados.” Corrigido conforme os dados abertos de medicamentos da ANVISA (situação de 2026-11-16): a página de metionina foi unificada com esta em 2026-11-19 e os seus registros (mesmo DrugBank ID, DB00134) foram somados aos desta página, assim como os registros em que a ANVISA escreve o princípio ativo como “l-metionina” ou “dl-metionina”; há 88 registros, 21 válidos e 67 cancelados. Os registros válidos acrescentados também são associações (nutrição parenteral, associações de metionina com colina e betaína, e uma pomada oftálmica); nenhum é de metionina isolada. Os registros de “l-metionina” e “dl-metionina” acrescentados estão todos cancelados. Os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261119-levometionina-1 -->
 
@@ -119,7 +119,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | 2026-11-06 | Removido: “O fármaco possui **20 registros ativos** no Brasil. No entanto, os detalhes individuais de cada registro (número de registro, nome comercial” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “**Verificar dados TFDA:** Investigar por que os 20 registros retornaram sem detalhes de produto (possível problema de parsing ou codificação” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Licenças vigentes: 20 → 10 (de 46) | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-19 | Registros: 46 (10 válidos) → 57 (21 válidos) | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Registros: 46 (10 válidos) → 88 (21 válidos) | Corrigido (revisado em 2026-11-19; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

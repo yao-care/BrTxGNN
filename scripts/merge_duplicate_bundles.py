@@ -11,6 +11,7 @@ DrugBank ID 的登記號（原收集器 collectors/brfda.py 的規則；methioni
 欄位取 data/raw/anvisa_medicamentos.csv（同號多列任一列 Ativo 即 Ativo），狀態取 data/raw/anvisa_situacao.json（每週排程的現行狀態），
 另記 source、merged_from（被轉址頁證據包名／drug_mapping）、added。total_matches＝紀錄數。
 只加不刪、可重複執行；依成分重建（會整批換掉 records）或重新收集證據包之後要再跑一次。每週排程（license-refresh.yml）在 license_refresh 前先跑。
+2026-11-19 同日補：l-arginina → arginine、l-metionina／dl-metionina → levometionina（見 MERGES 下的說明）。
 用法（repo 根目錄）：python3 scripts/merge_duplicate_bundles.py [--dry-run]
 """
 import csv
@@ -27,9 +28,13 @@ SOURCE = "ANVISA DADOS_ABERTOS_MEDICAMENTOS（同一 DrugBank ID 合併，2026-1
 
 # 保留頁證據包 → (DrugBank ID, 被轉址頁證據包)
 MERGES = {
-    "arginine": ("DB00125", ["arginine_aspartate", "arginine_glutamate"]),
-    "levometionina": ("DB00134", ["methionine"]),
+    "arginine": ("DB00125", ["arginine_aspartate", "arginine_glutamate", "l-arginina"]),
+    "levometionina": ("DB00134", ["methionine", "l-metionina", "dl-metionina"]),
 }
+# l-arginina、l-metionina、dl-metionina（2026-11-19 補，用戶決定「補進來」）：沒有藥物頁的證據包，10-31 依成分重建時以
+# 「l-arginina」等寫法收的登記號；保留頁依整詞 arginina／levometionina 重建，認不到 l- / dl- 前綴寫法，所以少收。
+# drug_mapping.csv 把 L-ARGININA 對到 DB00125、L-METIONINA 與 DL-METIONINA（外消旋體，本站對照如此）對到 DB00134，
+# 跟保留頁同一個 DrugBank ID；只收這 3 個證據包（不放寬一般成分比對）。這 3 個證據包本身不刪。
 
 
 def rid(r):

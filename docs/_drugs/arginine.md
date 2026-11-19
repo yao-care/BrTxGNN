@@ -51,8 +51,8 @@ O modelo TxGNN prevê que ela pode ser eficaz para **gastroparesia (Gastroparesi
 | Nova Indicação Prevista | Gastroparesia (Gastroparesis) |
 | Pontuação de Previsão TxGNN | 0,9942 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 27 de 76) |
-| Número de Registros | 76 (ativos: 27) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 27 de 94) |
+| Número de Registros | 94 (ativos: 27) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -85,17 +85,17 @@ A relação com a indicação original é indireta: o uso aprovado é nutriciona
 
 ## Informações de Comercialização no Brasil
 
-Foram encontrados 76 registros, dos quais 27 estão válidos; o medicamento é comercializado no Brasil. Principais registros (30 de 76):
+Foram encontrados 94 registros, dos quais 27 estão válidos; o medicamento é comercializado no Brasil. Principais registros (30 de 94):
 
 <!-- review:begin br-lic-20261112-arginine-1 -->
 
-> **Correção de verificação (2026-11-19)**: Texto original: “Foram encontrados 18 registros, e os 18 estão válidos” Corrigido conforme os dados abertos de medicamentos da ANVISA (situação de 2026-11-16): 76 registros para este medicamento (incluindo os registros de aspartato e glutamato de arginina, cujas páginas foram unificadas com esta em 2026-11-19), 27 válidos e 49 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-19)**: Texto original: “Foram encontrados 18 registros, e os 18 estão válidos” Corrigido conforme os dados abertos de medicamentos da ANVISA (situação de 2026-11-16): 94 registros para este medicamento (incluindo os registros de aspartato e glutamato de arginina, cujas páginas foram unificadas com esta em 2026-11-19, e os registros em que a ANVISA escreve o princípio ativo como “l-arginina”), 27 válidos e 67 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261112-arginine-1 -->
 
 <!-- review:begin br-lic-20261112-arginine-2 -->
 
-> **Correção de verificação (2026-11-19)**: Texto original: “Principais registros (5 de 18):” Corrigido conforme a tabela desta seção e os dados abertos de medicamentos da ANVISA (situação de 2026-11-16): a tabela mostra 30 registros e há 76 registros para este medicamento (incluindo os registros de aspartato e glutamato de arginina, cujas páginas foram unificadas com esta em 2026-11-19); a contagem antiga vinha de uma versão anterior dos dados (no máximo 20 registros). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-19)**: Texto original: “Principais registros (5 de 18):” Corrigido conforme a tabela desta seção e os dados abertos de medicamentos da ANVISA (situação de 2026-11-16): a tabela mostra 30 registros e há 94 registros para este medicamento (incluindo os registros de aspartato e glutamato de arginina, cujas páginas foram unificadas com esta em 2026-11-19, e os registros em que a ANVISA escreve o princípio ativo como “l-arginina”); a contagem antiga vinha de uma versão anterior dos dados (no máximo 20 registros). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261112-arginine-2 -->
 
@@ -128,9 +128,9 @@ Foram encontrados 76 registros, dos quais 27 estão válidos; o medicamento é c
 | 115600171 | ASPARGIL C | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
 | 121100504 | VELSIPITY | PFIZER BRASIL LTDA | Ativo |
 | 156510039 | REFORGAN | ZYDUS NIKKHO FARMACÊUTICA LTDA | Ativo |
+| 100140076 | REFORGAN | QUIMICA FARMACEUTICA NIKKHO DO BRASIL LTDA | Cancelado |
 | 100330010 | ENERGOPLEX | LIBBS FARMACÊUTICA LTDA | Cancelado |
 | 100410003 | AMINOSTERIL HEPA | FRESENIUS KABI BRASIL LTDA | Cancelado |
-| 100410020 | SOLUÇÃO DE AMINOÁCIDOS COM ELETRÓLITOS E SEM CARBOIDRATOS  A | FRESENIUS KABI BRASIL LTDA | Cancelado |
 
 A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
@@ -181,8 +181,8 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 |------|------|------|------|
 | 2026-11-06 | Removido: “(18 registros válidos de 18)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “dado que não há registro válido no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-19 | Registros: 18 (todos válidos) → 76 (27 válidos) | Corrigido (revisado em 2026-11-19; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-19 | Contagem exibida: “Principais registros (5 de 18” → “Principais registros (30 de 76” | Corrigido (revisado em 2026-11-19; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Registros: 18 (todos válidos) → 94 (27 válidos) | Corrigido (revisado em 2026-11-19; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Contagem exibida: “Principais registros (5 de 18” → “Principais registros (30 de 94” | Corrigido (revisado em 2026-11-19; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 
