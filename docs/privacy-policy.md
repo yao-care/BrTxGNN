@@ -76,13 +76,32 @@ Utilizamos dados públicos de:
 
 ---
 
-## Seus Direitos
+<!-- privacy-law:start（母目錄 .claude/gen_local_pages_20261119.py 產生，勿手改；法規與連結見 .claude/privacy_text_20261119.py）-->
+## Legislação aplicável
 
-Você tem direito a:
+Para visitantes no Brasil, a lei aplicável é a [Lei Geral de Proteção de Dados Pessoais (LGPD, Lei nº 13.709/2018)](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm), fiscalizada pela [Autoridade Nacional de Proteção de Dados (ANPD)](https://www.gov.br/anpd/pt-br). Os únicos dados pessoais envolvidos são os dados de uso coletados pelo Google Analytics 4 por meio de cookies, tratados pelo Google fora do Brasil (transferência internacional, arts. 33 a 36).
 
-- Acessar os dados (todos são públicos)
-- Solicitar correções via GitHub Issues
-- Contribuir para o projeto (código aberto)
+## Seus direitos e como exercê-los
+
+- Confirmação da existência de tratamento e acesso aos dados (art. 18, I e II).
+- Correção de dados incompletos, inexatos ou desatualizados (art. 18, III).
+- Eliminação dos dados e revogação do consentimento, por exemplo bloqueando os cookies (art. 18, VI e IX).
+- Petição à ANPD (art. 18, § 1º).
+
+Solicitações e dúvidas: service@yao.care. Como o site não tem contas, só podemos agir sobre os dados do Google Analytics se você fornecer detalhes suficientes (por exemplo, a data e as páginas da visita); você também pode bloquear ou apagar os cookies de análise no navegador.
+
+## Direitos autorais e fontes de dados
+
+Os textos do site são protegidos pela [Lei de Direitos Autorais (Lei nº 9.610/1998)](https://www.planalto.gov.br/ccivil_03/leis/l9610.htm). O código do site é publicado sob a licença MIT no [repositório do GitHub](https://github.com/yao-care/BrTxGNN); os textos dos relatórios são © 藥提醒科技有限公司 (yao.care).
+
+Fontes de dados deste site e seus termos:
+
+- Dados de previsão do **TxGNN** (Harvard Dataverse): dedicação ao domínio público CC0 1.0; cite Huang et al., *Nature Medicine* 2024.
+- **ClinicalTrials.gov** e **PubMed**: Biblioteca Nacional de Medicina dos EUA; veja os [termos do ClinicalTrials.gov](https://clinicaltrials.gov/about-site/terms-conditions) e as [políticas do NCBI](https://www.ncbi.nlm.nih.gov/home/about/policies/) (alguns resumos do PubMed continuam protegidos pelo editor).
+- Identificadores e dados do **DrugBank**: conforme os termos de licença do [DrugBank](https://go.drugbank.com/) (uso não comercial).
+- **Conjunto de dados local**: [ANVISA: DADOS_ABERTOS_MEDICAMENTOS.csv](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv), publicado por Agência Nacional de Vigilância Sanitária (ANVISA); a reutilização segue os termos do editor, e este site não concede direitos adicionais.
+
+<!-- privacy-law:end -->
 
 ---
 

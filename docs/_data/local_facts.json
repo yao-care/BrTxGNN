@@ -1,0 +1,469 @@
+{
+ "_about": "本檔由 scripts/local_facts.py 產生（母目錄 .claude/local_facts_lib.py），勿手改；cross 欄位由母目錄 .claude/gen_local_pages_20261119.py 更新",
+ "drugs_total": 565,
+ "level_counts": {
+  "L1": 7,
+  "L2": 22,
+  "L3": 24,
+  "L4": 31,
+  "L5": 437
+ },
+ "level_na": 44,
+ "public_pages": 565,
+ "licence_snapshot": "br_licenses.json.gz",
+ "licence": {
+  "drugs_with_data": 549,
+  "drugs_with_current": 544,
+  "drugs_none_current": 5,
+  "drugs_without_data": 16,
+  "drugs_partial": 0,
+  "items_total": 18447,
+  "items_current": 6430
+ },
+ "reviews": {
+  "records": 695,
+  "pages": 363,
+  "public_pages_with_records": 327,
+  "by_action": {
+   "correct": 695
+  }
+ },
+ "fhir": {
+  "medication_knowledge": 565,
+  "clinical_use_definition": 2949
+ },
+ "top_licensed": [
+  {
+   "t": "Betamethasone",
+   "u": "/drugs/betamethasone/",
+   "l": "L4",
+   "lt": 497,
+   "lv": 172,
+   "r": 0,
+   "i": "Mucinose folicular"
+  },
+  {
+   "t": "Metamizole",
+   "u": "/drugs/metamizole/",
+   "l": "L5",
+   "lt": 496,
+   "lv": 171,
+   "r": 2,
+   "i": "rheumatoid arthritis"
+  },
+  {
+   "t": "Amoxicillin",
+   "u": "/drugs/amoxicillin/",
+   "l": "L5",
+   "lt": 359,
+   "lv": 122,
+   "r": 0,
+   "i": "síndrome de hiperviscosidade policlonal"
+  },
+  {
+   "t": "Diclofenac",
+   "u": "/drugs/diclofenac/",
+   "l": "L5",
+   "lt": 397,
+   "lv": 102,
+   "r": 1,
+   "i": "Hipotricose simples do couro cabeludo"
+  },
+  {
+   "t": "Ibuprofen",
+   "u": "/drugs/ibuprofen/",
+   "l": "L5",
+   "lt": 218,
+   "lv": 101,
+   "r": 1,
+   "i": "displasia acromesomélica tipo Hunter-Thompson"
+  },
+  {
+   "t": "Dexamethasone",
+   "u": "/drugs/dexamethasone/",
+   "l": "L5",
+   "lt": 263,
+   "lv": 83,
+   "r": 2,
+   "i": "alopecia mucinosa"
+  },
+  {
+   "t": "Dexchlorpheniramine",
+   "u": "/drugs/dexchlorpheniramine/",
+   "l": "N/A",
+   "lt": 191,
+   "lv": 79,
+   "r": 0,
+   "i": ""
+  },
+  {
+   "t": "Caffeine",
+   "u": "/drugs/caffeine/",
+   "l": "L5",
+   "lt": 281,
+   "lv": 76,
+   "r": 2,
+   "i": "Doença da cavidade nasal"
+  }
+ ],
+ "no_current": [
+  {
+   "t": "Gemifloxacin",
+   "u": "/drugs/gemifloxacin/",
+   "l": "L5",
+   "lt": 1,
+   "lv": 0,
+   "r": 0,
+   "i": "polyclonal hyperviscosity syndrome"
+  },
+  {
+   "t": "Ledipasvir",
+   "u": "/drugs/ledipasvir/",
+   "l": "L2",
+   "lt": 1,
+   "lv": 0,
+   "r": 0,
+   "i": "Infecção pelo vírus da hepatite B"
+  },
+  {
+   "t": "Nitrogen",
+   "u": "/drugs/nitrogen/",
+   "l": "L5",
+   "lt": 1,
+   "lv": 0,
+   "r": 0,
+   "i": "16q24.1 microdeletion syndrome"
+  },
+  {
+   "t": "Selenium",
+   "u": "/drugs/selenium/",
+   "l": "L4",
+   "lt": 4,
+   "lv": 0,
+   "r": 0,
+   "i": "Colangite Esclerosante"
+  },
+  {
+   "t": "Tegaserod",
+   "u": "/drugs/tegaserod/",
+   "l": "L5",
+   "lt": 2,
+   "lv": 0,
+   "r": 1,
+   "i": "migraine disorder"
+  }
+ ],
+ "no_current_more": 0,
+ "most_reviewed": [
+  {
+   "t": "Doxycycline",
+   "u": "/drugs/doxycycline/",
+   "l": "L5",
+   "lt": 4,
+   "lv": 4,
+   "r": 6,
+   "i": "punctate epithelial keratoconjunctivitis"
+  },
+  {
+   "t": "Lenalidomida",
+   "u": "/drugs/lenalidomida/",
+   "l": "L1",
+   "lt": 11,
+   "lv": 9,
+   "r": 6,
+   "i": "Leucemia mieloide"
+  },
+  {
+   "t": "Levometionina",
+   "u": "/drugs/levometionina/",
+   "l": "L5",
+   "lt": 88,
+   "lv": 21,
+   "r": 6,
+   "i": "Acne"
+  },
+  {
+   "t": "Phenytoin",
+   "u": "/drugs/phenytoin/",
+   "l": "L5",
+   "lt": 12,
+   "lv": 12,
+   "r": 6,
+   "i": "Neoplasia do nervo trigêmeo"
+  },
+  {
+   "t": "Estradiol Cypionate",
+   "u": "/drugs/estradiol-cypionate/",
+   "l": "L5",
+   "lt": 4,
+   "lv": 4,
+   "r": 5,
+   "i": "symptomatic form of fragile X syndrome in female carrier"
+  },
+  {
+   "t": "Hydrocortisone Acetate",
+   "u": "/drugs/hydrocortisone-acetate/",
+   "l": "L2",
+   "lt": 6,
+   "lv": 6,
+   "r": 5,
+   "i": "alopecia areata"
+  }
+ ],
+ "example": {
+  "t": "Ketorolac",
+  "u": "/drugs/ketorolac/",
+  "l": "L1",
+  "lt": 76,
+  "lv": 51,
+  "r": 1,
+  "i": "Transtorno de cefaleia"
+ },
+ "recent_reviews": [
+  {
+   "t": "Levometionina",
+   "u": "/drugs/levometionina/",
+   "s": "“os registros ativos são de nutrição parenteral” → em sua maioria (16 de 21)",
+   "d": "2026-11-19"
+  },
+  {
+   "t": "Arginine",
+   "u": "/drugs/arginine/",
+   "s": "Contagem exibida: “Principais registros (5 de 18” → “Principais registros (30 de 94”",
+   "d": "2026-11-19"
+  },
+  {
+   "t": "Sodium Carbonate",
+   "u": "/drugs/sodium-carbonate/",
+   "s": "Registros válidos: “ausência” → 9 de 10",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Pheniramine",
+   "u": "/drugs/pheniramine/",
+   "s": "Registros válidos: 7 → 6 de 7",
+   "d": "2026-11-13"
+  },
+  {
+   "t": "Dexamethasone",
+   "u": "/drugs/dexamethasone/",
+   "s": "Tabela: o registro 100431384 (KOIDEXA) está inativo",
+   "d": "2026-11-13"
+  },
+  {
+   "t": "Beclomethasone Dipropionate",
+   "u": "/drugs/beclomethasone-dipropionate/",
+   "s": "Registros válidos: 13 → 12 de 13",
+   "d": "2026-11-13"
+  },
+  {
+   "t": "Zinc Chloride",
+   "u": "/drugs/zinc-chloride/",
+   "s": "Tabela: registro 100410165 (ADDAVEN) está ativo, não cancelado",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Zinc Acetate",
+   "u": "/drugs/zinc-acetate/",
+   "s": "Tabela: registro 164000011 (ACETATO DE ZINCO 0,5 MEQ/ML) está ativo, não cancelado",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Volanesorsen",
+   "u": "/drugs/volanesorsen/",
+   "s": "Tabela: registro 157700003 (WAYLIVRA) está ativo, não cancelado",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Upadacitinib",
+   "u": "/drugs/upadacitinib/",
+   "s": "Tabela: registro 198600017 (RINVOQ) está ativo, não cancelado",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Trihexyphenidyl",
+   "u": "/drugs/trihexyphenidyl/",
+   "s": "Tabela: registro 101180604 (ARTANE) está ativo, não cancelado",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Sodium Citrate",
+   "u": "/drugs/sodium-citrate/",
+   "s": "Tabela: registro 103110096 (SOLUÇÃO SALINA BALANCEADA - HALEX ISTAR) está ativo, não cancelado",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Potassium Bicarbonate",
+   "u": "/drugs/potassium-bicarbonate/",
+   "s": "Tabela: registro 173900005 (LUFTAGASTRO) está ativo, não cancelado",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Phenytoin",
+   "u": "/drugs/phenytoin/",
+   "s": "Tabela: registro 107150095 (DANTALIN) está ativo, não cancelado",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Phenol",
+   "u": "/drugs/phenol/",
+   "s": "Tabela: registro 105700050 (DORDENTE) está ativo, não cancelado",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Micafungin",
+   "u": "/drugs/micafungin/",
+   "s": "Tabela: registro 156510131 (MICAFUNGINA SÓDICA) está ativo, não cancelado",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Melphalan",
+   "u": "/drugs/melphalan/",
+   "s": "Tabela: registro 137640150 (ALKERAN) está ativo, não cancelado",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Megestrol Acetate",
+   "u": "/drugs/megestrol-acetate/",
+   "s": "Tabela: registro 106460123 (FEMIGESTROL) está ativo, não cancelado",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Loxoprofen",
+   "u": "/drugs/loxoprofen/",
+   "s": "Tabela: registro 105730495 (OXOTRON) está ativo, não cancelado",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Lactic Acid",
+   "u": "/drugs/lactic-acid/",
+   "s": "Tabela: registro 101430024 (MALVATRICIN) está ativo, não cancelado",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Inclisiran",
+   "u": "/drugs/inclisiran/",
+   "s": "Tabela: registro 100681184 (SYBRAVA) está ativo, não cancelado",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Hydrocortisone Acetate",
+   "u": "/drugs/hydrocortisone-acetate/",
+   "s": "Tabela: registro 104970020 (CORTISONAL) está ativo, não cancelado",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Givosiran",
+   "u": "/drugs/givosiran/",
+   "s": "Tabela: registro 193610002 (GIVLAARI) está ativo, não cancelado",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Estradiol Cypionate",
+   "u": "/drugs/estradiol-cypionate/",
+   "s": "Tabela: registro 110360267 (LYNDAVELUNO) está ativo, não cancelado",
+   "d": "2026-11-12"
+  }
+ ],
+ "recent_licence_reviews": [
+  {
+   "t": "Levometionina",
+   "u": "/drugs/levometionina/",
+   "s": "“os registros ativos são de nutrição parenteral” → em sua maioria (16 de 21)",
+   "d": "2026-11-19"
+  },
+  {
+   "t": "Arginine",
+   "u": "/drugs/arginine/",
+   "s": "Contagem exibida: “Principais registros (5 de 18” → “Principais registros (30 de 94”",
+   "d": "2026-11-19"
+  },
+  {
+   "t": "Sodium Carbonate",
+   "u": "/drugs/sodium-carbonate/",
+   "s": "Registros válidos: “ausência” → 9 de 10",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Pheniramine",
+   "u": "/drugs/pheniramine/",
+   "s": "Registros válidos: 7 → 6 de 7",
+   "d": "2026-11-13"
+  },
+  {
+   "t": "Dexamethasone",
+   "u": "/drugs/dexamethasone/",
+   "s": "Tabela: o registro 100431384 (KOIDEXA) está inativo",
+   "d": "2026-11-13"
+  },
+  {
+   "t": "Beclomethasone Dipropionate",
+   "u": "/drugs/beclomethasone-dipropionate/",
+   "s": "Registros válidos: 13 → 12 de 13",
+   "d": "2026-11-13"
+  },
+  {
+   "t": "Zinc Chloride",
+   "u": "/drugs/zinc-chloride/",
+   "s": "Tabela: registro 100410165 (ADDAVEN) está ativo, não cancelado",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Zinc Acetate",
+   "u": "/drugs/zinc-acetate/",
+   "s": "Tabela: registro 164000011 (ACETATO DE ZINCO 0,5 MEQ/ML) está ativo, não cancelado",
+   "d": "2026-11-12"
+  }
+ ],
+ "files": {
+  "search_index": 565,
+  "drugs_json": 565
+ },
+ "by_level": {
+  "L1": {
+   "n": 7,
+   "current": 7
+  },
+  "L2": {
+   "n": 22,
+   "current": 21
+  },
+  "L3": {
+   "n": 24,
+   "current": 24
+  },
+  "L4": {
+   "n": 31,
+   "current": 30
+  },
+  "L5": {
+   "n": 437,
+   "current": 434
+  }
+ },
+ "cross": {
+  "unique_pairs": 31,
+  "unique_examples": [
+   {
+    "t": "Amorolfina Hydrochloride",
+    "u": "/drugs/amorolfina-hydrochloride/",
+    "i": "Osteoporose induzida por fármacos"
+   },
+   {
+    "t": "Clobutinol",
+    "u": "/drugs/clobutinol/",
+    "i": "febre tifoide"
+   },
+   {
+    "t": "Cobalamin",
+    "u": "/drugs/cobalamin/",
+    "i": "hyperphosphatemia (disease)"
+   },
+   {
+    "t": "Tiabendazol",
+    "u": "/drugs/tiabendazol/",
+    "i": "Equinococose granulosa"
+   }
+  ]
+ }
+}
