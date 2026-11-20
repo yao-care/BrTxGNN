@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB01156
 monitor_inn: "Bupropion"
 predicted_indications: ["attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "proximal 16p11.2 microdeletion syndrome", "hypervitaminosis", "benign paroxysmal torticollis of infancy", "trigeminal nerve neoplasm", "obsolete hypertelorism (disease)"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Bupropion Hydrochloride: nova indicação prevista, Transtorno do Déficit de Atenção com Hiperatividade (attention deficit-hyperactivity disorder) (nível de evidência L2)."
 ---
 

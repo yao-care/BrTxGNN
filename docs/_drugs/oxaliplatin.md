@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 497
 evidence_level: L2
 indication_count: 4
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-20
 monitor_inn: "Oxaliplatin"
 predicted_indications: ["malignant pleural mesothelioma", "malignant epithelioid mesothelioma", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
 description: "Oxaliplatin: nova indicação prevista, Mesotelioma Pleural Maligno (malignant pleural mesothelioma) (nível de evidência L2). No Brasil, registros na ANVISA: 35 (ativos: 16)"

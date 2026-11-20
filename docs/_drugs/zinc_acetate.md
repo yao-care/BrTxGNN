@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 680
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "Zinc acetate"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "bronchitis", "diabetic retinopathy", "acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "acne keloid", "hydroa vacciniforme, familial", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis", "urinary tract infection (disease)"]
 description: "Zinc Acetate: nova indicação prevista, Retinopatia diabética não proliferativa grave (severe nonproliferative diabetic retinopathy) (nível de evidência L5). Indicação original: SOLUÇÕES QUE AJUSTAM O…"

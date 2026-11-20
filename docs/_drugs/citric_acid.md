@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 225
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-20
 monitor_inn: "citric acid"
 predicted_indications: ["stomach disease", "pharyngitis", "acute laryngopharyngitis", "postgastrectomy syndrome", "nasal cavity disease", "papillary conjunctivitis", "blepharoconjunctivitis", "rhinitis"]
 description: "Citric Acid: nova indicação prevista, doença gástrica (stomach disease) (nível de evidência L5). Indicação original: ANTICONVULSIVANTES"

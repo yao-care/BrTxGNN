@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Imatinib"
 predicted_indications: ["heart fibrosarcoma", "fibroblastic neoplasm", "conventional fibrosarcoma", "kidney fibrosarcoma", "low grade fibromyxoid sarcoma", "liposarcoma", "liver fibrosarcoma", "autosomal recessive familial Mediterranean fever", "ovarian myxoid liposarcoma", "familial rhabdoid tumor"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-20
 description: "Imatinib: nova indicação prevista, fibrossarcoma cardíaco (heart fibrosarcoma) (nível de evidência L5). No Brasil, registros na ANVISA: 29 (ativos: 17)"
 ---
 

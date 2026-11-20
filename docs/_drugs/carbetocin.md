@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 190
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "carbetocin"
 predicted_indications: ["isotretinoin-like syndrome", "Goodman syndrome"]
 description: "Carbetocin: nova indicação prevista, Síndrome semelhante à isotretinoína (isotretinoin-like syndrome) (nível de evidência L5). Indicação original: PREPARAÇÕES HORMONAIS PARA USO SISTÊMICO…"

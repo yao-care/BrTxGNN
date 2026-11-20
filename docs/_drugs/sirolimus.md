@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 587
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-20
 monitor_inn: "Sirolimus"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lung PEComa", "vulva sarcoma"]
 description: "Sirolimus: nova indicação prevista, lipossarcoma (liposarcoma) (nível de evidência L5). No Brasil, registros na ANVISA: 4 (ativos: 1)"

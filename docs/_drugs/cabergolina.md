@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00248
 monitor_inn: "Cabergoline"
 predicted_indications: ["progeria-short stature-pigmented nevi syndrome", "pituitary cancer", "cerebral palsy, spastic quadriplegic", "glaucoma"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Cabergolina: nova indicação prevista, Síndrome de progeria, baixa estatura e nevos pigmentados (progeria-short stature-pigmented nevi syndrome) (nível de evidência L5)."
 ---
 

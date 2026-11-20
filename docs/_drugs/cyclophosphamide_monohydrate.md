@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00531
 monitor_inn: "Cyclophosphamide"
 predicted_indications: ["vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Cyclophosphamide Monohydrate: nova indicação prevista, Anomalias vertebrais e disfunção endócrina e de células T variável (vertebral anomalies and variable endocrine and T-cell dysfunction) (nível de evidência L5)."
 ---
 

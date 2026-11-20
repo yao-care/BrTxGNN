@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 65
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-20
 monitor_inn: "Ampicillin"
 predicted_indications: ["laryngitis", "Ureaplasma urethritis", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "gingivitis", "paranasal sinus neoplasm (disease)", "bacterial arthritis", "conjunctivitis", "pericoronitis"]
 description: "Ampicillin: nova indicação prevista, laringite (laryngitis) (nível de evidência L5). No Brasil, registros na ANVISA: 125 (ativos: 17)"

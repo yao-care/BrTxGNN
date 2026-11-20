@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 504
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-20
 monitor_inn: "Paclitaxel"
 predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 description: "Paclitaxel: nova indicação prevista, Parameningeal embryonal rhabdomyosarcoma (nível de evidência L5). No Brasil, registros na ANVISA: 49 (ativos: 15)"

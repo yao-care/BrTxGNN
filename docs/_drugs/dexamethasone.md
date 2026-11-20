@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 259
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-20
 monitor_inn: "Dexamethasone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "prolapse of lacrimal gland"]
 description: "Dexamethasone: nova indicação prevista, Alopecia mucinosa (nível de evidência L5). No Brasil, registros na ANVISA: 263 (ativos: 83)"

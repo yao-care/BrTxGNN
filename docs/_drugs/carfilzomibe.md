@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB08889
 monitor_inn: "Carfilzomib"
 predicted_indications: ["CMM7", "pediatric leptomeningeal melanoma", "epithelioid cell uveal melanoma", "vulvar melanoma (disease)", "melanoma"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Carfilzomibe: nova indicação prevista, CMM7 (nível de evidência L5). No Brasil, registros na ANVISA: 7 (ativos: 7)"
 ---
 

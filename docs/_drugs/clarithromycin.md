@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Clarithromycin"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "punctate epithelial keratoconjunctivitis", "blood group incompatibility"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-20
 description: "Clarithromycin: nova indicação prevista, Hiperamilasemia (nível de evidência L5). Indicação original: Macrolídeos"
 ---
 

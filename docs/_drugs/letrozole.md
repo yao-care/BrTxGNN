@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Letrozole"
 predicted_indications: ["nipple carcinoma", "Ehrlich tumor carcinoma", "breast fibrocystic disease", "benign mammary dysplasia"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-20
 description: "Letrozole: nova indicação prevista, carcinoma de mamilo (nipple carcinoma) (nível de evidência L5). Indicação original: ANTINEOPLASICO"
 ---
 

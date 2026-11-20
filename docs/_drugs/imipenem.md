@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 364
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-20
 monitor_inn: "imipenem"
 predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "sinusitis", "chronic rhinosinusitis", "typhoid fever", "chronic ethmoidal sinusitis", "paranasal sinus neoplasm (disease)", "eosinophilia-myalgia syndrome"]
 description: "Imipenem: nova indicação prevista, Esclerodermia difusa (diffuse scleroderma) (nível de evidência L5). No Brasil, registros na ANVISA: 21 (ativos: 8)"

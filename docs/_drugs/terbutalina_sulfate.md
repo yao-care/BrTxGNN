@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00871
 monitor_inn: "Terbutaline"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Terbutalina Sulfate: nova indicação prevista, Malformação respiratória (respiratory malformation) (nível de evidência L5). Indicação original: BRONCODILATADORES"
 ---
 

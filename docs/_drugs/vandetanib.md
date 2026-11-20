@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 666
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-20
 monitor_inn: "vandetanib"
 predicted_indications: ["renal cell carcinoma (disease)", "renal cell carcinoma associated with neuroblastoma", "unclassified renal cell carcinoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "renal pelvis carcinoma", "clear cell renal carcinoma", "childhood kidney cell carcinoma", "renal carcinoma", "angiolipoma", "familial spontaneous pneumothorax"]
 description: "Vandetanib: nova indicação prevista, Carcinoma de células renais (renal cell carcinoma (disease)) (nível de evidência L3). No Brasil, registros na ANVISA: 4 (ativos: 1)"

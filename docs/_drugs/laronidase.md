@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Laronidase"
 predicted_indications: ["Sanfilippo syndrome"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-20
 description: "Laronidase: nova indicação prevista, Síndrome de Sanfilippo (Sanfilippo syndrome) (nível de evidência L5). No Brasil, registros na ANVISA: 2 (ativos: 1)"
 ---
 

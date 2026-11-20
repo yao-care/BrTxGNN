@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 595
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "Sorafenib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "female breast carcinoma", "renal pelvis carcinoma", "vulva sarcoma", "dermatofibrosarcoma protuberans"]
 description: "Sorafenib: nova indicação prevista, lipossarcoma (liposarcoma) (nível de evidência L5). No Brasil, registros na ANVISA: 4 (ativos: 3)"

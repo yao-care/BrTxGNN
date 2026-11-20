@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 517
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "PERAMPANEL"
 predicted_indications: ["beta-ketothiolase deficiency"]
 description: "Perampanel: nova indicação prevista, Beta-ketothiolase deficiency (nível de evidência L5). No Brasil, registros na ANVISA: 2 (ativos: 1)"

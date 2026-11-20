@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 651
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "Trastuzumab"
 predicted_indications: ["malignant cutaneous granular cell skin tumor", "ectomesenchymoma", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "kidney pelvis sarcomatoid transitional cell carcinoma", "prostatic urethra urothelial carcinoma"]
 description: "Trastuzumab: nova indicação prevista, Malignant cutaneous granular cell skin tumor (nível de evidência L5). No Brasil, registros na ANVISA: 15 (ativos: 14)"

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Levothyroxine"
 predicted_indications: ["renal hypodysplasia/aplasia", "bilateral renal agenesis", "Potter sequence", "Carney complex"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-20
 description: "Levothyroxine: nova indicação prevista, Hipodisplasia/aplasia renal (renal hypodysplasia/aplasia) (nível de evidência L5). Indicação original: HORMONIOS TIREOIDEANOS SIMPLES OU ASSOCIADOS ENTRE SI"
 ---
 

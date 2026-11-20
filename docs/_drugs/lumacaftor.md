@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Lumacaftor"
 predicted_indications: ["leprosy"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-20
 description: "Lumacaftor: nova indicação prevista, Hanseníase (leprosy) (nível de evidência L5). No Brasil, registros na ANVISA: 2 (ativos: 2)"
 ---
 

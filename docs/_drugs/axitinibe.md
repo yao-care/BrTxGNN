@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB06626
 monitor_inn: "Axitinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Axitinibe: nova indicação prevista, lipossarcoma (liposarcoma) (nível de evidência L4). No Brasil, registros na ANVISA: 2 (ativos: 1)"
 ---
 

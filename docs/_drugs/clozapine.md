@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 237
 evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-20
 monitor_inn: "Clozapine"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "schizophreniform disorder", "bipolar disorder", "major affective disorder", "attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "Malan overgrowth syndrome"]
 description: "Clozapine: nova indicação prevista, Transtorno afetivo bipolar maníaco (manic bipolar affective disorder) (nível de evidência L2). No Brasil, registros na ANVISA: 13 (ativos: 5)"

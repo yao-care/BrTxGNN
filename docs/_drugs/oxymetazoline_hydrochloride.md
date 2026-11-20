@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00935
 monitor_inn: "Oxymetazoline"
 predicted_indications: ["nasal cavity disease", "headache disorder"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Oxymetazoline Hydrochloride: nova indicação prevista, Doença da cavidade nasal (nasal cavity disease) (nível de evidência L5). Indicação original: DESCONGESTIONANTES NASAIS TOPICOS"
 ---
 

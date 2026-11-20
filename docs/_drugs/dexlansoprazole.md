@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "dexlansoprazole"
 predicted_indications: ["gastroduodenitis", "duodenal obstruction", "achlorhydria", "leather-bottle stomach"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-20
 description: "Dexlansoprazole: nova indicação prevista, gastroduodenite (gastroduodenitis) (nível de evidência L5). Indicação original: ANTIACIDOS E ANTIULCEROSOS"
 ---
 

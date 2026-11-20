@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00640
 monitor_inn: "Adenosine"
 predicted_indications: ["obsolete bundle branch block"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Adenosina: nova indicação prevista, bloqueio de ramo obsoleto (obsolete bundle branch block) (nível de evidência L5). No Brasil, registros na ANVISA: 23 (ativos: 5)"
 ---
 

@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB06282
 monitor_inn: "Levocetirizine"
 predicted_indications: ["rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Levocetirizine Dihydrochloride: nova indicação prevista, Artrite reumatoide (rheumatoid arthritis) (nível de evidência L5). Indicação original: ANTIALERGICOS"
 ---
 

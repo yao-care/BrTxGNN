@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 381
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-20
 description: "Ivosidenib: nova indicação prevista, Poliomielite bulbar (bulbar polio) (nível de evidência L5). Indicação original: Agentes antineoplásicos"
 monitor_inn: "ivosidenib"
 predicted_indications: ["bulbar polio"]

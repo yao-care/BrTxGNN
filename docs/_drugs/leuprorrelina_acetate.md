@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00007
 monitor_inn: "Leuprolide"
 predicted_indications: ["osteoarthritis", "pseudoachondroplasia"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Leuprorrelina Acetate: nova indicação prevista, Osteoartrite (osteoarthritis) (nível de evidência L5). Indicação original: OUTROS HORMONIOS MEDIADORES E PRODUTOS EQUIVALENTES"
 ---
 

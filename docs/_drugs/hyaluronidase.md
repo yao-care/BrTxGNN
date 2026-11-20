@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "hyaluronidase"
 predicted_indications: ["esotropia", "amenorrhea (disease)", "severe nonproliferative diabetic retinopathy", "renal tubular acidosis", "dermatitis", "diabetic retinopathy", "acrodermatitis chronica atrophicans", "diabetic cataract", "neonatal dermatomyositis", "non-syndromic esophageal malformation"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-20
 description: "Hyaluronidase: nova indicação prevista, Esotropia (nível de evidência L5). Indicação original: GLICOCORTICOIDES TOPICOS - ASSOCIACAO MEDICAMENTOSA"
 ---
 

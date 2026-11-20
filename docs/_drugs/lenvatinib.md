@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 399
 evidence_level: L3
 indication_count: 5
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-20
 monitor_inn: "lenvatinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax", "endocrine-cerebro-osteodysplasia syndrome"]
 description: "Lenvatinib: nova indicação prevista, Lipossarcoma (liposarcoma) (nível de evidência L3). No Brasil, registros na ANVISA: 6 (ativos: 5)"

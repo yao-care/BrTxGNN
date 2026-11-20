@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 516
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "Penciclovir"
 predicted_indications: ["fascioliasis"]
 description: "Penciclovir: nova indicação prevista, fascioliase (fascioliasis) (nível de evidência L5). No Brasil, registros na ANVISA: 4 (ativos: 1)"

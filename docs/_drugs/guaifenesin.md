@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Guaifenesin"
 predicted_indications: ["nasal cavity disease", "faucial diphtheria", "cervical disc degenerative disorder", "papillary conjunctivitis"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Guaifenesin: nova indicação prevista, doença da cavidade nasal (nasal cavity disease) (nível de evidência L5). No Brasil, registros na ANVISA: 128 (ativos: 30)"
 ---
 

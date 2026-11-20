@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 395
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-20
 monitor_inn: "LEDIPASVIR"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "Kyasanur forest disease", "chronic hepatitis B virus infection", "HIV infectious disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection"]
 description: "Ledipasvir: nova indicação prevista, Infecção pelo vírus da hepatite B (hepatitis B virus infection) (nível de evidência L2). No Brasil, registros na ANVISA: 1 (ativos: 0)"

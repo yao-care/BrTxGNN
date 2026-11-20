@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB11799
 monitor_inn: "Bictegravir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Bictegravir Sodium: nova indicação prevista, Infecção pelo vírus da imunodeficiência símia (simian immunodeficiency virus infection) (nível de evidência L5)."
 ---
 

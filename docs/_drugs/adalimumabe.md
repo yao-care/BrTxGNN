@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB00051
 monitor_inn: "Adalimumab"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease", "vertebral disease"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Adalimumabe: nova indicação prevista, hipermobilidade do cóccix (hypermobility of coccyx) (nível de evidência L5). No Brasil, registros na ANVISA: 14 (ativos: 11)"
 ---
 

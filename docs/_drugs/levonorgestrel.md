@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 414
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-20
 monitor_inn: "LEVONORGESTREL"
 predicted_indications: ["acne (disease)", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
 description: "Levonorgestrel: nova indicação prevista, acne (acne (disease)) (nível de evidência L2). No Brasil, registros na ANVISA: 95 (ativos: 33)"

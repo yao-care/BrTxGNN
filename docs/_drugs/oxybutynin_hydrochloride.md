@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB01062
 monitor_inn: "Oxybutynin"
 predicted_indications: ["restless legs syndrome", "gastroduodenitis", "peptic ulcer disease"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Oxybutynin Hydrochloride: nova indicação prevista, Síndrome das pernas inquietas (restless legs syndrome) (nível de evidência L5). Indicação original: ANTIESPASMODICOS"
 ---
 

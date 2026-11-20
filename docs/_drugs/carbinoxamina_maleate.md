@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB00748
 monitor_inn: "Carbinoxamine"
 predicted_indications: ["nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Carbinoxamina Maleate: nova indicação prevista, Doença da cavidade nasal (nasal cavity disease) (nível de evidência L5). Indicação original: PRODUTOS PARA TERAPIA SINTOMATICA DA GRIPE"
 ---
 

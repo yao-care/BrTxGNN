@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Cabotegravir"
 predicted_indications: ["rheumatoid arthritis", "sclerosing cholangitis", "bronchitis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "severe nonproliferative diabetic retinopathy"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-20
 description: "Cabotegravir: nova indicação prevista, Artrite reumatoide (rheumatoid arthritis) (nível de evidência L5). No Brasil, registros na ANVISA: 4 (ativos: 4)"
 ---
 

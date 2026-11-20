@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB08885
 monitor_inn: "Aflibercept"
 predicted_indications: ["esotropia"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Aflibercepte: nova indicação prevista, Esotropia (nível de evidência L5). No Brasil, registros na ANVISA: 6 (ativos: 5)"
 ---
 

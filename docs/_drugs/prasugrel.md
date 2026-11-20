@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 543
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "Prasugrel"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura", "kyphoscoliotic heart disease", "rheumatoid arthritis", "homozygous familial hypercholesterolemia", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "leprosy"]
 description: "Prasugrel: nova indicação prevista, Hipertensão Pulmonar (pulmonary hypertension) (nível de evidência L5). No Brasil, registros na ANVISA: 2 (ativos: 1)"

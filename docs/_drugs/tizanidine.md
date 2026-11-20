@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 642
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-20
 monitor_inn: "Tizanidine"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "Tourette syndrome", "ulerythema ophryogenesis"]
 description: "Tizanidine: nova indicação prevista, Enxaqueca (migraine disorder) (nível de evidência L2). No Brasil, registros na ANVISA: 5 (ativos: 2)"

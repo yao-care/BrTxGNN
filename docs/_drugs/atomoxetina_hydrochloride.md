@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00289
 monitor_inn: "Atomoxetine"
 predicted_indications: ["specific developmental disorder", "faciodigitogenital syndrome", "chondromyxoid fibroma", "trichotillomania", "restless legs syndrome", "manic bipolar affective disorder", "Tourette syndrome", "transient tic disorder", "cerebellar ataxia", "autosomal dominant cerebellar ataxia"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Atomoxetina Hydrochloride: nova indicação prevista, Transtorno específico do desenvolvimento (specific developmental disorder) (nível de evidência L5)."
 ---
 

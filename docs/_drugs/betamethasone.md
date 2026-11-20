@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 127
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-20
 monitor_inn: "BETAMETHASONE"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions"]
 description: "Betamethasone: nova indicação prevista, Mucinose folicular (alopecia mucinosa) (nível de evidência L4). No Brasil, registros na ANVISA: 497 (ativos: 172)"

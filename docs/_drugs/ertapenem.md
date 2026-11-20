@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ertapenem"
 predicted_indications: ["bacterial arthritis"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-20
 description: "Ertapenem: nova indicação prevista, artrite bacteriana (bacterial arthritis) (nível de evidência L5). Indicação original: ANTIBIOTICOS SISTEMICOS SIMPLES"
 ---
 

@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 24
 evidence_level: L3
 indication_count: 4
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "acitretin"
 predicted_indications: ["acne (disease)", "pediatric systemic lupus erythematosus", "fetal erythroblastosis", "familial cutaneous telangiectasia and oropharyngeal predisposition cancer syndrome"]
 description: "Acitretin: nova indicação prevista, Acne (acne (disease)) (nível de evidência L3). Indicação original: CERATOLITICOS E CERATOPLASTICOS"

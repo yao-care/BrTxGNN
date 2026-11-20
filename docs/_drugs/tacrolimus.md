@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 602
 evidence_level: L1
 indication_count: 2
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "TACROLIMUS"
 predicted_indications: ["seborrheic dermatitis", "parapsoriasis"]
 description: "Tacrolimus: nova indicação prevista, Dermatite seborreica (seborrheic dermatitis) (nível de evidência L1). No Brasil, registros na ANVISA: 30 (ativos: 15)"

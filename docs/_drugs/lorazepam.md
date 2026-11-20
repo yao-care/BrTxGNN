@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 425
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-20
 monitor_inn: "LORAZEPAM"
 predicted_indications: ["trigeminal nerve neoplasm"]
 description: "Lorazepam: nova indicação prevista, Neoplasia do Nervo Trigêmeo (trigeminal nerve neoplasm) (nível de evidência L5). No Brasil, registros na ANVISA: 24 (ativos: 7)"
