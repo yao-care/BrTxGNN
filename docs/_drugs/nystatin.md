@@ -56,7 +56,7 @@ Essa previsão não tem apoio clínico direto: há **1 ensaio clínico** associa
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Em geral, a nistatina é um antifúngico poliênico que se liga ao ergosterol da membrana do fungo e a desorganiza. Esse mecanismo é específico para infecções fúngicas.
+Segundo a seção “Clinical Pharmacology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Nystatin (tradução não oficial): “A nistatina atua ligando-se aos esteróis da membrana celular de espécies suscetíveis de Candida, com consequente alteração da permeabilidade da membrana, o que permite o extravasamento de componentes intracelulares. A nistatina não apresenta atividade apreciável contra bactérias, protozoários ou vírus.” Texto original em inglês: "Nystatin acts by binding to sterols in the cell membrane of susceptible Candida species with a resultant change in membrane permeability allowing leakage of intracellular components. Nystatin exhibits no appreciable activity against bacteria, protozoa, or viruses." ([DailyMed: Nystatin Oral Suspension (nystatin) prescribing information, Xttrium Laboratories, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4a670371-d373-1ba6-e063-6394a90a13b6), versão de 2026-02-06; acessado em 2026-11-19). Em geral, a nistatina é um antifúngico poliênico que se liga ao ergosterol da membrana do fungo e a desorganiza. Esse mecanismo é específico para infecções fúngicas.
 
 Não foi identificado vínculo mecanístico plausível entre essa ação antifúngica e doenças da região orbital. A pontuação alta do modelo é apenas uma previsão computacional, provavelmente derivada de proximidade na rede de dados, e não traz respaldo clínico.
 
@@ -127,6 +127,18 @@ Para advertências e contraindicações, consulte a bula.
 - Estudos pré-clínicos ou clínicos que avaliem diretamente a nistatina nessa doença.
 - Análise de compatibilidade de via de administração e de similaridade com o uso original.
 - Revisão da bula para advertências e contraindicações, que não constam nos dados compilados.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Nystatin Oral Suspension (nystatin) prescribing information, Xttrium Laboratories, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4a670371-d373-1ba6-e063-6394a90a13b6) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

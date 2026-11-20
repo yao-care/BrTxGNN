@@ -56,7 +56,7 @@ mas **não há ensaios clínicos** e apenas **2 publicações** foram recuperada
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o aciclovir inibe a DNA polimerase dos herpesvírus depois de ser ativado pela timidina quinase viral.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Acyclovir (tradução não oficial): “O aciclovir é um análogo sintético de nucleosídeo purínico com atividade inibitória in vitro e in vivo contra os vírus herpes simplex tipos 1 (HSV-1) e 2 (HSV-2) e o vírus varicela-zóster (VZV). A atividade inibitória do aciclovir é altamente seletiva devido à sua afinidade pela enzima timidina quinase (TK) codificada pelo HSV e pelo VZV.” Texto original em inglês: "Acyclovir is a synthetic purine nucleoside analogue with in vitro and in vivo inhibitory activity against herpes simplex virus types 1 (HSV-1), 2 (HSV-2), and varicella-zoster virus (VZV). The inhibitory activity of acyclovir is highly selective due to its affinity for the enzyme thymidine kinase (TK) encoded by HSV and VZV." ([DailyMed: acyclovir prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=499c6a98-0614-4ded-8526-909942bae8a4), versão de 2026-06-26; acessado em 2026-11-19). Segundo informações conhecidas, o aciclovir inibe a DNA polimerase dos herpesvírus depois de ser ativado pela timidina quinase viral.
 
 A ceratoconjuntivite epitelial puntata tem várias causas (adenovírus, microsporídios, herpes simples). As duas publicações recuperadas tratam de ceratoconjuntivite por microsporídios e de lipidose corneana em pacientes com AIDS; nenhuma delas descreve uma condição que responda ao aciclovir. O vínculo mecanístico é, portanto, apenas uma previsão derivada da pontuação do modelo, e não há apoio direto nos estudos disponíveis.
 
@@ -126,6 +126,19 @@ A lista apresenta apenas 5 dos registros e pode ser parcial.
 - Realizar busca de estudos que avaliem diretamente o aciclovir nessa condição.
 - Obter dados do mecanismo de ação e as advertências e contraindicações da bula na ANVISA.
 - Avaliar a compatibilidade da via de administração (por exemplo, tópica oftálmica) com as apresentações disponíveis.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: acyclovir prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=499c6a98-0614-4ded-8526-909942bae8a4) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

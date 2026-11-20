@@ -56,7 +56,7 @@ atualmente com **2 ensaios clínicos** (ambos de relevância indireta) e **10 pu
 
 ## Por que Esta Previsão é Razoável?
 
-Não há dados detalhados do mecanismo de ação registrados para este fármaco. Pela farmacologia de classe, bem estabelecida, o midazolam é um benzodiazepínico de ação curta que modula positivamente os receptores GABA-A, aumentando a neurotransmissão inibitória e produzindo efeito sedativo-hipnótico.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Midazolam (tradução não oficial): “O midazolam é um depressor do sistema nervoso central (SNC) benzodiazepínico de ação curta.” Texto original em inglês: "Midazolam is a short-acting benzodiazepine central nervous system (CNS) depressant." ([DailyMed: Midazolam In Sodium Chloride (midazolam) prescribing information, WG Critical Care, LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f051776f-94c5-4e34-80ed-f45b9c36881e), versão de 2025-07-31; acessado em 2026-11-19). Pela farmacologia de classe, bem estabelecida, o midazolam é um benzodiazepínico de ação curta que modula positivamente os receptores GABA-A, aumentando a neurotransmissão inibitória e produzindo efeito sedativo-hipnótico.
 
 A ansiedade e a insônia compartilham a mesma base farmacológica: a potencialização do GABA reduz a excitação do sistema nervoso central, o que alivia a ansiedade e favorece a indução e a manutenção do sono. Esse mecanismo é comum a hipnóticos benzodiazepínicos já aprovados, como flurazepam e triazolam, o que torna a previsão do TxGNN (pontuação elevada) coerente.
 
@@ -117,11 +117,12 @@ Consulte a bula para as advertências e contraindicações formais, que não est
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “o fármaco não tem registro no Brasil e faltam dados de bula e de mecanismo, o que impede a triagem de segurança” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Midazolam In Sodium Chloride (midazolam) prescribing information, WG Critical Care, LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f051776f-94c5-4e34-80ed-f45b9c36881e) |
 
 <!-- review:end log -->
 

@@ -57,7 +57,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Retinopatia distrófica com ou 
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação neste material. Segundo informações conhecidas, a quetiapina é antagonista de receptores de serotonina 5-HT2A e de dopamina D2, e sua eficácia como antipsicótico é estabelecida.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Quetiapine (tradução não oficial): “O mecanismo de ação da quetiapina nas indicações listadas não é claro. No entanto, a eficácia da quetiapina nessas indicações pode ser mediada por uma combinação de antagonismo dos receptores de dopamina tipo 2 (D 2 ) e de serotonina tipo 2A (5HT 2A ).” Texto original em inglês: "The mechanism of action of quetiapine in the listed indications is unclear. However, the efficacy of quetiapine in these indications could be mediated through a combination of dopamine type 2 (D 2 ) and serotonin type 2A (5HT 2A ) antagonism." ([DailyMed: Quetiapine Extended Release (quetiapine) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6953175c-78ec-442c-b91d-97dfb57db933), versão de 2026-10-08; acessado em 2026-11-19). Segundo informações conhecidas, a quetiapina é antagonista de receptores de serotonina 5-HT2A e de dopamina D2, e sua eficácia como antipsicótico é estabelecida.
 
 Para a previsão de maior pontuação (distrofia retiniana), **não há vínculo mecanístico plausível**: a pontuação alta reflete apenas semelhança na rede de conhecimento do modelo, sem relação conhecida entre a farmacologia da quetiapina e as causas genéticas da degeneração retiniana hereditária. O mesmo vale para as outras previsões de doenças genéticas ou malformações congênitas, nas quais um fármaco que atua em receptores não deveria modificar a causa da doença.
 
@@ -165,13 +165,14 @@ Não há texto de bula disponível para advertências e contraindicações forma
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-10-31 | Removido: “(registros cancelados)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Há 20 registros válidos no mercado brasileiro” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “e o medicamento é comercializado no Brasil com 20 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Quetiapine Extended Release (quetiapine) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6953175c-78ec-442c-b91d-97dfb57db933) |
 
 <!-- review:end log -->
 

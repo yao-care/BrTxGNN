@@ -60,7 +60,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Analbuminemia congênita (conge
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o benznidazol é um nitroimidazólico antiparasitário cuja atividade depende de ativação por nitrorredutases, gerando metabólitos reativos e radicais livres contra o *Trypanosoma cruzi*.
+Segundo as seções “Mechanism of Action” e “Microbiology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Benznidazol (tradução não oficial): “O benznidazol é um medicamento antimicrobiano nitroimidazólico. […] O benznidazol inibe a síntese de DNA, RNA e proteínas no parasita T. cruzi. Estudos sugerem que o benznidazol é reduzido por uma enzima nitrorredutase (NTR) do tipo I do T. cruzi, produzindo uma série de intermediários de curta duração que podem promover danos a diversas macromoléculas, incluindo o DNA.” Texto original em inglês: "Benznidazole is a nitroimidazole antimicrobial drug. […] Benznidazole inhibits the synthesis of DNA, RNA, and proteins within the T. cruzi parasite. Studies suggest that benznidazole is reduced by a Type I nitroreductase (NTR) enzyme of T. cruzi producing a series of short-lived intermediates that may promote damage to several macromolecules including DNA." ([DailyMed: benznidazole prescribing information, Exeltis USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8983d6a0-f63f-4f8e-bba4-38223f39e29b), versão de 2026-08-27; acessado em 2026-11-19). Segundo informações conhecidas, o benznidazol é um nitroimidazólico antiparasitário cuja atividade depende de ativação por nitrorredutases, gerando metabólitos reativos e radicais livres contra o *Trypanosoma cruzi*.
 
 A analbuminemia congênita é uma doença genética rara, causada por mutações de perda de função no gene da albumina (ALB). Não é uma condição infecciosa nem parasitária. Não há via farmacológica plausível que ligue a ação antiparasitária do benznidazol à restauração da síntese de albumina.
 
@@ -102,11 +102,12 @@ Não há ensaios clínicos nem publicações que estudem a analbuminemia congên
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “O fármaco possui **2 registros ativos** no Brasil, porém os detalhes individuais (número de registro, nome comercial, forma farmacêutica e i” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: benznidazole prescribing information, Exeltis USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8983d6a0-f63f-4f8e-bba4-38223f39e29b) |
 
 <!-- review:end log -->
 

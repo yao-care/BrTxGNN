@@ -59,7 +59,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Púrpura Trombocitopênica (Thr
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a hemina é um agente de reposição de heme que induz a heme oxigenase-1 e é usado em crises de porfiria aguda.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Hemin (tradução não oficial): “O heme atua limitando a síntese hepática e/ou medular de porfirina. Essa ação deve-se provavelmente à inibição da δ-aminolevulínico ácido sintetase, a enzima que limita a velocidade da via biossintética da porfirina/heme.” Texto original em inglês: "Heme acts to limit the hepatic and/or marrow synthesis of porphyrin. This action is likely due to the inhibition of δ-aminolevulinic acid synthetase, the enzyme which limits the rate of the porphyrin/heme biosynthetic pathway." ([DailyMed: Panhematin (hemin) prescribing information, Recordati Rare Diseases, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9984267a-4d57-4444-9bb5-16bca7dea691), versão de 2026-02-26; acessado em 2026-11-19). Segundo informações conhecidas, a hemina é um agente de reposição de heme que induz a heme oxigenase-1 e é usado em crises de porfiria aguda.
 
 A relação entre a indicação original (derivado do sangue) e a púrpura trombocitopênica (destruição imunomediada de plaquetas) é apenas especulativa. Os dados não sustentam um elo mecanístico claro. A pontuação alta (0,9979) vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica nem de eficácia.
 
@@ -124,11 +124,12 @@ Observação: para a segunda previsão (hemofilia), foram recuperadas três publ
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “O único registro no Brasil está cancelado, e f” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Panhematin (hemin) prescribing information, Recordati Rare Diseases, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9984267a-4d57-4444-9bb5-16bca7dea691) |
 
 <!-- review:end log -->
 

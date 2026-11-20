@@ -54,7 +54,7 @@ Sorafenibe é um inibidor multiquinase de uso oncológico. O modelo TxGNN prevê
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Pelo conhecimento geral, o sorafenibe inibe várias quinases: a via RAF/MEK/ERK, os receptores de VEGF (VEGFR), de PDGF (PDGFR) e o KIT. Por isso, atua tanto na proliferação das células tumorais quanto na formação de vasos sanguíneos do tumor.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Sorafenib (tradução não oficial): “Sorafenibe é um inibidor de quinase que diminui a proliferação de células tumorais in vitro. Foi demonstrado que sorafenibe inibe múltiplas quinases intracelulares (c-CRAF, BRAF e BRAF mutante) e de superfície celular (KIT, FLT- 3, RET, RET/PTC, VEGFR-1, VEGFR- 2, VEGFR- 3 e PDGFR-ß).” Texto original em inglês: "Sorafenib is a kinase inhibitor that decreases tumor cell proliferation in vitro. Sorafenib was shown to inhibit multiple intracellular (c-CRAF, BRAF and mutant BRAF) and cell surface kinases (KIT, FLT- 3, RET, RET/PTC, VEGFR-1, VEGFR- 2, VEGFR- 3, and PDGFR-ß)." ([DailyMed: Nexavar (sorafenib) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b50667e4-5ebc-4968-a646-d605058dbef0), versão de 2023-08-28; acessado em 2026-11-19). Pelo conhecimento geral, o sorafenibe inibe várias quinases: a via RAF/MEK/ERK, os receptores de VEGF (VEGFR), de PDGF (PDGFR) e o KIT. Por isso, atua tanto na proliferação das células tumorais quanto na formação de vasos sanguíneos do tumor.
 
 A via MAPK e a angiogênese são vias plausíveis em sarcomas de partes moles, e um estudo pré-clínico mostrou inibição da sinalização MAPK em células de tumor de bainha de nervo periférico, incluindo linhagens de lipossarcoma desdiferenciado. No entanto, os subtipos de lipossarcoma, como a doença desdiferenciada, dependem sobretudo de alterações em MDM2 e CDK4, vias que o sorafenibe não alcança diretamente. A atividade específica em lipossarcoma permanece, portanto, incerta.
 
@@ -120,11 +120,12 @@ Para advertências e contraindicações, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Os detalhes de cada registro (nome comercial, forma farmacêutica) não estão disponíveis nos dados compilados para este relatório” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Nexavar (sorafenib) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b50667e4-5ebc-4968-a646-d605058dbef0) |
 
 <!-- review:end log -->
 

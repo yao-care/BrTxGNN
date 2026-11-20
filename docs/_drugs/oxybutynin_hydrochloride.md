@@ -56,7 +56,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Síndrome das pernas inquietas 
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação compilados para este relatório. Segundo informações conhecidas, a oxibutinina é um antimuscarínico com ação relaxante direta sobre a musculatura lisa (efeito musculotrópico antiespasmódico).
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Oxybutynin Hydrochloride (tradução não oficial): “A oxibutinina relaxa a musculatura lisa da bexiga. O cloreto de oxibutinina exerce um efeito antiespasmódico direto sobre a musculatura lisa e inibe a ação muscarínica da acetilcolina sobre a musculatura lisa. Não ocorrem efeitos de bloqueio nas junções neuromusculares esqueléticas nem nos gânglios autonômicos (efeitos antinicotínicos).” Texto original em inglês: "Oxybutynin relaxes bladder smooth muscle. Oxybutynin chloride exerts a direct antispasmodic effect on smooth muscle and inhibits the muscarinic action of acetylcholine on smooth muscle. No blocking effects occur at skeletal neuromuscular junctions or autonomic ganglia (antinicotinic effects)." ([DailyMed: Oxybutynin Chloride Extended Release (oxybutynin chloride) prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b5653b7e-1e3b-4da3-b3a2-33318f448c67), versão de 2026-11-11; acessado em 2026-11-19). Segundo informações conhecidas, a oxibutinina é um antimuscarínico com ação relaxante direta sobre a musculatura lisa (efeito musculotrópico antiespasmódico).
 
 A relação com a síndrome das pernas inquietas é frágil. Essa condição está associada principalmente à disfunção dopaminérgica e à deficiência de ferro no cérebro, e não há elo mecanístico direto estabelecido com a atividade antimuscarínica. Além disso, agentes anticolinérgicos podem até piorar os sintomas dessa síndrome.
 
@@ -88,6 +88,19 @@ Consulte a bula para informações de segurança.
 - Complementar os dados de mecanismo de ação (MOA) a partir do DrugBank.
 - Realizar revisão sistemática da literatura sobre anticolinérgicos e síndrome das pernas inquietas, incluindo o risco de agravamento.
 - Só então considerar estudos pré-clínicos ou exploratórios, se houver racional mecanístico plausível.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Oxybutynin Chloride Extended Release (oxybutynin chloride) prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b5653b7e-1e3b-4da3-b3a2-33318f448c67) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

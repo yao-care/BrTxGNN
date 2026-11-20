@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a bupivacaína é um anestésico local que bloqueia canais de sódio, e sua eficácia como anestésico está estabelecida.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Bupivacaine (tradução não oficial): “Os anestésicos locais bloqueiam a geração e a condução dos impulsos nervosos, presumivelmente por aumentarem o limiar de excitação elétrica no nervo, por retardarem a propagação do impulso nervoso e por reduzirem a velocidade de elevação do potencial de ação. Em geral, a progressão da anestesia está relacionada ao diâmetro, à mielinização e à velocidade de condução das fibras nervosas afetadas.” Texto original em inglês: "Local anesthetics block the generation and the conduction of nerve impulses presumably by increasing the threshold for electrical excitation in the nerve, by slowing the propagation of the nerve impulse, and by reducing the rate of rise of the action potential. In general, the progression of anesthesia is related to the diameter, myelination, and conduction velocity of affected nerve fibers." ([DailyMed: Exparel (bupivacaine) prescribing information, Pacira Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bb5a9e59-0f51-11df-8a39-0800200c9a66), versão de 2026-11-09; acessado em 2026-11-19). Segundo informações conhecidas, a bupivacaína é um anestésico local que bloqueia canais de sódio, e sua eficácia como anestésico está estabelecida.
 
 A acrodermatite crônica atrófica é uma manifestação cutânea tardia da infecção por *Borrelia*, tratada com antibióticos. A bupivacaína não tem ação antimicrobiana nem modificadora da doença. No máximo, poderia ter papel sintomático na dor neuropática, o que é especulativo e sem suporte nos dados disponíveis.
 
@@ -129,11 +129,12 @@ A indicação aprovada em todos é "Anestésicos locais". Principais registros:
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Todos os 12 registros estão válidos (12 de 12)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Exparel (bupivacaine) prescribing information, Pacira Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bb5a9e59-0f51-11df-8a39-0800200c9a66) |
 
 <!-- review:end log -->
 

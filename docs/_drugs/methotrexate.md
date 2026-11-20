@@ -59,7 +59,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Blastoma Pulmonar (Pulmonary Bl
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o metotrexato é um antagonista do folato (inibidor da di-hidrofolato redutase, DHFR) que prejudica a síntese de nucleotídeos em células de divisão rápida. Sua eficácia como antineoplásico citotóxico é estabelecida em diversos tumores.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Methotrexate (tradução não oficial): “O metotrexato inibe a di-hidrofolato redutase. Os di-hidrofolatos devem ser reduzidos a tetra-hidrofolatos por essa enzima antes que possam ser utilizados como carreadores de grupos de um carbono na síntese de nucleotídeos de purina e de timidilato.” Texto original em inglês: "Methotrexate inhibits dihydrofolic acid reductase. Dihydrofolates must be reduced to tetrahydrofolates by this enzyme before they can be utilized as carriers of one-carbon groups in the synthesis of purine nucleotides and thymidylate." ([DailyMed: Jylamvo (methotrexate) prescribing information, SHORLA ONCOLOGY INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=96e931f5-51ae-4bdf-a441-bb0dd26d4c0e), versão de 2026-11-05; acessado em 2026-11-19). Segundo informações conhecidas, o metotrexato é um antagonista do folato (inibidor da di-hidrofolato redutase, DHFR) que prejudica a síntese de nucleotídeos em células de divisão rápida. Sua eficácia como antineoplásico citotóxico é estabelecida em diversos tumores.
 
 O blastoma pulmonar é uma neoplasia pulmonar rara e agressiva. A lógica é que um antimetabólito que atua sobre células de proliferação rápida poderia, em princípio, ser aplicável a esse tipo de tumor. Contudo, esse vínculo baseia-se unicamente na pontuação do TxGNN; não foram fornecidos ensaios ou literatura que o sustentem.
 
@@ -195,7 +195,7 @@ Consulte a bula para advertências e contraindicações oficiais.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
@@ -203,6 +203,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | 2026-11-06 | Removido: “Todos os 10 registros encontrados estão **válidos**; o (10 registros válidos de 10)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “*(Exibidos os 5 primeiros de 10 registros, todos cancelados.)*” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Por outro lado, o medicamento está comercializado no Brasil, com 10 registros válidos de 10” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Jylamvo (methotrexate) prescribing information, SHORLA ONCOLOGY INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=96e931f5-51ae-4bdf-a441-bb0dd26d4c0e) |
 
 <!-- review:end log -->
 

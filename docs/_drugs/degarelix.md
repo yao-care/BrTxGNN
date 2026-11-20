@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Hipertricose (hypertrichosis (d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação registrados nos dados compilados para este relatório. Segundo o conhecimento farmacológico geral, o degarelix bloqueia o receptor de GnRH na hipófise, reduz a liberação de LH e FSH e, com isso, diminui a testosterona e os androgênios derivados.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Degarelix (tradução não oficial): “O degarelix é um antagonista do receptor de GnRH. Ele se liga de forma reversível aos receptores de GnRH da hipófise, reduzindo assim a liberação de gonadotrofinas e, consequentemente, de testosterona.” Texto original em inglês: "Degarelix is a GnRH receptor antagonist. It binds reversibly to the pituitary GnRH receptors, thereby reducing the release of gonadotropins and consequently testosterone." ([DailyMed: Firmagon (degarelix) prescribing information, Ferring Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ab11dd8a-0fd9-4013-89ab-e114557c7e4b), versão de 2024-01-30; acessado em 2026-11-19). Segundo o conhecimento farmacológico geral, o degarelix bloqueia o receptor de GnRH na hipófise, reduz a liberação de LH e FSH e, com isso, diminui a testosterona e os androgênios derivados.
 
 A relação com a hipertricose é fraca. A hipertricose costuma ser um crescimento excessivo de pelos que não depende de androgênios (ao contrário do hirsutismo), de modo que suprimir androgênios não deveria, em princípio, corrigi-la. A pontuação muito alta (0,9999) reflete apenas a previsão do modelo, sem estudos que a sustentem.
 
@@ -80,6 +80,19 @@ Para advertências e contraindicações formais, consulte a bula.
 - Revisão da literatura sobre antagonismo de GnRH e crescimento de pelos não dependente de androgênios
 - Texto da bula da ANVISA (advertências e contraindicações) para a triagem de segurança
 - Evidência pré-clínica ou clínica que sustente a hipótese antes de qualquer avanço
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Firmagon (degarelix) prescribing information, Ferring Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ab11dd8a-0fd9-4013-89ab-e114557c7e4b) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

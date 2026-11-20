@@ -55,7 +55,7 @@ O modelo TxGNN prevê que ela pode ser eficaz para **Epiglotite (Epiglottitis)**
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, a oxacilina faz parte da classe das penicilinas resistentes à penicilinase (beta-lactâmicos), com atividade contra *Staphylococcus aureus* sensível à meticilina (MSSA).
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Oxacillin (tradução não oficial): “As penicilinas resistentes à penicilinase exercem ação bactericida contra microrganismos sensíveis à penicilina durante o estado de multiplicação ativa. Todas as penicilinas inibem a biossíntese da parede celular bacteriana.” Texto original em inglês: "Penicillinase-resistant penicillins exert a bactericidal action against penicillin susceptible microorganisms during the state of active multiplication. All penicillins inhibit the biosynthesis of the bacterial cell wall." ([DailyMed: oxacillin prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d893e45b-7f18-4c67-b10c-1e2e52a6b3ef), versão de 2026-08-31; acessado em 2026-11-19). Segundo informações conhecidas, a oxacilina faz parte da classe das penicilinas resistentes à penicilinase (beta-lactâmicos), com atividade contra *Staphylococcus aureus* sensível à meticilina (MSSA).
 
 A epiglotite é uma infecção bacteriana aguda, na qual o *S. aureus* pode ser um dos agentes causadores. Por isso, existe uma lógica antibacteriana para a previsão. No entanto, o tratamento empírico padrão costuma priorizar agentes com cobertura para *H. influenzae* e estreptococos, e a cobertura de *S. aureus* geralmente é feita com outros fármacos.
 
@@ -143,11 +143,12 @@ Consulte a bula para advertências e contraindicações formais, que não estava
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “dado que não há registro válido no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: oxacillin prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d893e45b-7f18-4c67-b10c-1e2e52a6b3ef) |
 
 <!-- review:end log -->
 

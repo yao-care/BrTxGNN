@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **artrite bacteriana (bacterial a
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados do mecanismo de ação nos dados compilados. Conforme o conhecimento geral da classe, o meropeném é um carbapenêmico de amplo espectro que inibe a síntese da parede celular bacteriana ao se ligar às proteínas ligadoras de penicilina (PBPs).
+Segundo as seções “Mechanism of Action” e “Microbiology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Meropenem (tradução não oficial): “O meropeném é um medicamento antibacteriano. […] A atividade bactericida do meropeném resulta da inibição da síntese da parede celular. O meropeném penetra na parede celular da maioria das bactérias gram-positivas e gram-negativas para se ligar aos alvos das proteínas de ligação à penicilina (PBP).” Texto original em inglês: "Meropenem is an antibacterial drug. […] The bactericidal activity of meropenem results from the inhibition of cell wall synthesis. Meropenem penetrates the cell wall of most gram-positive and gram-negative bacteria to bind penicillin-binding-protein (PBP) targets." ([DailyMed: meropenem prescribing information, Civica, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b0075b72-c3cc-f844-e053-2a95a90a417f), versão de 2026-11-02; acessado em 2026-11-19). Conforme o conhecimento geral da classe, o meropeném é um carbapenêmico de amplo espectro que inibe a síntese da parede celular bacteriana ao se ligar às proteínas ligadoras de penicilina (PBPs).
 
 A artrite bacteriana é causada por bactérias, incluindo bacilos Gram-negativos e *Burkholderia pseudomallei* (melioidose), para os quais a atividade do meropeném é plausível. Os relatos de caso reunidos descrevem artrite séptica por *Klebsiella pneumoniae* produtora de β-lactamase de espectro estendido tratada com meropeném associado a amicacina e lavagem articular, e isolados de melioidose osteoarticular suscetíveis ao meropeném.
 
@@ -125,6 +125,18 @@ Para advertências e contraindicações, consulte a bula.
 - Dados clínicos controlados ou prospectivos do meropeném em artrite bacteriana, incluindo dados de penetração articular
 - Dados de mecanismo de ação e de advertências e contraindicações da bula da ANVISA
 - Avaliação à luz de estratégias de uso racional de carbapenêmicos (stewardship) e da resistência bacteriana local
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: meropenem prescribing information, Civica, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b0075b72-c3cc-f844-e053-2a95a90a417f) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

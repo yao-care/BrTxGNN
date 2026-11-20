@@ -56,7 +56,7 @@ O modelo TxGNN prevê que pode ser eficaz para **distrofia retiniana com ou sem 
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação compilados para este relatório. Segundo informações conhecidas, a paliperidona (9-hidroxirrisperidona) é um antipsicótico que atua por antagonismo dos receptores dopaminérgicos D2 e serotoninérgicos 5-HT2A.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Paliperidona (tradução não oficial): “A paliperidona é o principal metabólito ativo da risperidona. O mecanismo de ação da paliperidona na esquizofrenia não está claro. No entanto, o efeito terapêutico do medicamento na esquizofrenia pode ser mediado por uma combinação de antagonismo dos receptores centrais de dopamina tipo 2 (D 2 ) e de serotonina tipo 2 (5HT 2A ).” Texto original em inglês: "Paliperidone is the major active metabolite of risperidone. The mechanism of action of paliperidone in schizophrenia is unclear. However, the drug's therapeutic effect in schizophrenia could be mediated through a combination of central dopamine Type 2 (D 2 ) and serotonin Type 2 (5HT 2A ) receptor antagonism." ([DailyMed: Invega (paliperidone) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7b8e5b26-b9e4-4704-921b-3c3c0d159916), versão de 2025-01-31; acessado em 2026-11-19). Segundo informações conhecidas, a paliperidona (9-hidroxirrisperidona) é um antipsicótico que atua por antagonismo dos receptores dopaminérgicos D2 e serotoninérgicos 5-HT2A.
 
 Não se identifica uma ligação plausível entre esse antagonismo e a degeneração retiniana hereditária. A distrofia retiniana é, em geral, de origem genética e estrutural, e um antipsicótico sintomático não tem efeito conhecido sobre os mecanismos que a causam.
 
@@ -82,12 +82,13 @@ Consulte a bula para informações de segurança.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Os dados de suporte — mecanismo de ação, detalhes dos registros e informações de segurança — estão todos ausentes neste pacote de evidências” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “> Para completar esta seção, é necessário re-executar a consulta TFDA/ANVISA com retorno dos campos de produto” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Invega (paliperidone) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7b8e5b26-b9e4-4704-921b-3c3c0d159916) |
 
 <!-- review:end log -->
 

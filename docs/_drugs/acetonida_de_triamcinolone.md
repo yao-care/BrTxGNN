@@ -57,7 +57,7 @@ mas há **nenhum ensaio clínico** e apenas **2 publicações** (relatos de caso
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação deste fármaco nos dados compilados para este relatório. Pelo que se sabe da classe, a triancinolona é um glicocorticoide com atividade anti-inflamatória e imunossupressora.
+Segundo a seção “Clinical Pharmacology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Acetonida De Triamcinolone (tradução não oficial): “Estudos indicam que, após uma dose intramuscular única de 60 mg a 100 mg de acetonido de triancinolona, ocorre supressão adrenal em 24 a 48 horas, que depois retorna gradualmente ao normal, geralmente em 30 a 40 dias. Esse achado está estreitamente correlacionado com a duração prolongada da ação terapêutica obtida com o fármaco.” Texto original em inglês: "Studies indicate that following a single intramuscular dose of 60 mg to 100 mg of triamcinolone acetonide, adrenal suppression occurs within 24 to 48 hours and then gradually returns to normal, usually in 30 to 40 days. This finding correlates closely with the extended duration of therapeutic action achieved with the drug." ([DailyMed: Kenalog-40 (triamcinolone acetonide) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4ce116aa-b330-4da9-9cdd-ba8e6be0c4ad), versão de 2026-01-05; acessado em 2026-11-19). Pelo que se sabe da classe, a triancinolona é um glicocorticoide com atividade anti-inflamatória e imunossupressora.
 
 A mucinose folicular (alopecia mucinosa) é caracterizada por infiltrado inflamatório perifolicular e acúmulo de mucina. Em princípio, um corticoide poderia reduzir essa inflamação, e isso sustenta a plausibilidade da previsão do modelo.
 
@@ -102,6 +102,19 @@ Consulte a bula para informações de segurança.
 - Dados do mecanismo de ação e das advertências e contraindicações da bula da ANVISA
 - Avaliação da compatibilidade de via de administração e forma farmacêutica
 - Se houver interesse, séries de casos ou estudo exploratório para gerar evidência direta
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Kenalog-40 (triamcinolone acetonide) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4ce116aa-b330-4da9-9cdd-ba8e6be0c4ad) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

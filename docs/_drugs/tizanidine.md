@@ -56,7 +56,7 @@ O nível de evidência é **L2**.
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados de mecanismo de ação registrados nos dados compilados para este relatório. Pela literatura farmacológica, a tizanidina é um agonista alfa-2 adrenérgico central. Esse tipo de ação pode reduzir a transmissão nociceptiva trigeminovascular e diminuir a tensão muscular, incluindo a contribuição da musculatura pericraniana para a dor de cabeça.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Tizanidine (tradução não oficial): “Tizanidina é um agonista central dos receptores alfa-2-adrenérgicos e presumivelmente reduz a espasticidade ao aumentar a inibição pré-sináptica dos neurônios motores. Os efeitos da tizanidina são maiores nas vias polissinápticas. Acredita-se que o efeito geral dessas ações seja reduzir a facilitação dos neurônios motores espinhais.” Texto original em inglês: "Tizanidine is a central alpha-2-adrenergic receptor agonist and presumably reduces spasticity by increasing presynaptic inhibition of motor neurons. The effects of tizanidine are greatest on polysynaptic pathways. The overall effect of these actions is thought to reduce facilitation of spinal motor neurons." ([DailyMed: Zanaflex (tizanidine hydrochloride) prescribing information, Legacy Pharma USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=60c27d35-7349-4fc6-86ad-70fffdbe3e08), versão de 2026-01-02; acessado em 2026-11-19). Pela literatura farmacológica, a tizanidina é um agonista alfa-2 adrenérgico central. Esse tipo de ação pode reduzir a transmissão nociceptiva trigeminovascular e diminuir a tensão muscular, incluindo a contribuição da musculatura pericraniana para a dor de cabeça.
 
 Como o fármaco já é usado para reduzir o tônus muscular, é plausível que o mesmo mecanismo ajude na profilaxia da enxaqueca. O apoio clínico direto vem de um ensaio randomizado controlado por placebo em cefaleia crônica diária (na qual a maioria dos pacientes tinha enxaqueca) e de um ensaio de Phase 3 de prevenção de enxaqueca ainda sem resultados.
 
@@ -110,6 +110,18 @@ Para advertências e contraindicações completas, consulte a bula.
 - Obter bula completa com advertências e contraindicações.
 - Plano de monitoramento de sedação, pressão arterial e função hepática, com atenção às interações via CYP1A2.
 - Dados detalhados do mecanismo de ação.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Zanaflex (tizanidine hydrochloride) prescribing information, Legacy Pharma USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=60c27d35-7349-4fc6-86ad-70fffdbe3e08) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

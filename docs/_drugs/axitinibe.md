@@ -56,7 +56,7 @@ O modelo TxGNN prevê que pode ser eficaz para **lipossarcoma (liposarcoma)**, m
 
 ## Por que Esta Previsão é Razoável?
 
-Axitinibe é um inibidor potente dos receptores de tirosina quinase VEGFR1, VEGFR2 e VEGFR3, com atividade também sobre PDGFR e c-KIT. Atualmente, não há dados detalhados de mecanismo de ação nas fontes compiladas para este relatório; a descrição aqui se baseia no conhecimento farmacológico geral do fármaco.
+Axitinibe é um inibidor potente dos receptores de tirosina quinase VEGFR1, VEGFR2 e VEGFR3, com atividade também sobre PDGFR e c-KIT. Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Axitinibe (tradução não oficial): “Demonstrou-se que o axitinibe inibe receptores de tirosina quinase, incluindo os receptores do fator de crescimento do endotélio vascular (VEGFR)-1, VEGFR-2 e VEGFR-3, em concentrações plasmáticas terapêuticas. Esses receptores estão implicados na angiogênese patológica, no crescimento tumoral e na progressão do câncer.” Texto original em inglês: "Axitinib has been shown to inhibit receptor tyrosine kinases including vascular endothelial growth factor receptors (VEGFR)-1, VEGFR-2, and VEGFR-3 at therapeutic plasma concentrations. These receptors are implicated in pathologic angiogenesis, tumor growth, and cancer progression." ([DailyMed: Inlyta (axitinib) prescribing information, U.S. Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8a903e31-936e-4ed7-8a59-59f32374f338), versão de 2026-03-12; acessado em 2026-11-19).
 
 Os lipossarcomas, especialmente o subtipo mixoide, apresentam uma vasculatura capilar plexiforme proeminente e dependência de sinalização angiogênica. Assim, o bloqueio de VEGFR oferece um mecanismo antiangiogênico e antitumoral plausível.
 
@@ -114,7 +114,7 @@ A previsão para lipossarcoma tem pontuação TxGNN alta (0,9987), mas se apoia 
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
@@ -122,6 +122,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | 2026-11-06 | Removido: “Os registros existem conforme confirmado pelo query TFDA (resultado: 2 licenças), mas os campos de detalhamento não foram retornados” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “(fonte: TFDA/ANVISA, método: download e parse do PDF da bula)” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Licenças ativas: 2 → 1 (de 2) | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Inlyta (axitinib) prescribing information, U.S. Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8a903e31-936e-4ed7-8a59-59f32374f338) |
 
 <!-- review:end log -->
 

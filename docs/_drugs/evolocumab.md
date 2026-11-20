@@ -60,7 +60,7 @@ mas há **0 ensaios clínicos** e **0 publicações** apoiando esta direção; t
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o evolocumabe é um anticorpo monoclonal que se liga à PCSK9 (proproteína convertase subtilisina/kexina tipo 9), aumentando a disponibilidade de receptores de LDL e reduzindo o LDL-colesterol. Foi aprovado na Europa (julho de 2015) e nos EUA (agosto de 2015) para hipercolesterolemia familiar heterozigótica e homozigótica e para hipercolesterolemia primária não familiar.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Evolocumab (tradução não oficial): “O evolocumabe é uma IgG2 monoclonal humana dirigida contra a pró-proteína convertase subtilisina/kexina tipo 9 (PCSK9) humana. A PCSK9 liga-se ao receptor de lipoproteína de baixa densidade (LDLR) na superfície dos hepatócitos para promover a degradação do LDLR no fígado.” Texto original em inglês: "Evolocumab is a human monoclonal IgG2 directed against human proprotein convertase subtilisin kexin type 9 (PCSK9). PCSK9 binds to the low-density lipoprotein receptor (LDLR) on the surface of hepatocytes to promote LDLR degradation within the liver." ([DailyMed: Repatha (evolocumab) prescribing information, Amgen USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cd61e902-166d-4aa6-9f3c-a18c1008d07e), versão de 2026-10-12; acessado em 2026-11-19). Segundo informações conhecidas, o evolocumabe é um anticorpo monoclonal que se liga à PCSK9 (proproteína convertase subtilisina/kexina tipo 9), aumentando a disponibilidade de receptores de LDL e reduzindo o LDL-colesterol. Foi aprovado na Europa (julho de 2015) e nos EUA (agosto de 2015) para hipercolesterolemia familiar heterozigótica e homozigótica e para hipercolesterolemia primária não familiar.
 
 **Não foi identificada relação mecanística plausível** entre a inibição da PCSK9 e a deficiência dos fatores VIII/IX ligada ao X em portadoras. A pontuação muito alta (0,9982) vem do modelo TxGNN (deep learning) e pode refletir similaridades que o modelo aprendeu entre doenças relacionadas, não evidência biológica; não há respaldo em qualquer ensaio clínico ou publicação. A similaridade com a indicação original não foi avaliada.
 
@@ -130,11 +130,12 @@ Os dados de advertências e contraindicações da bula não estavam disponíveis
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-10-31 | Removido: “(registro cancelado)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Repatha (evolocumab) prescribing information, Amgen USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cd61e902-166d-4aa6-9f3c-a18c1008d07e) |
 
 <!-- review:end log -->
 

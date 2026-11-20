@@ -59,7 +59,7 @@ O modelo TxGNN prevê que pode ser útil para **hipertensão pulmonar de mecanis
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o ramipril é um inibidor da ECA. Ele reduz a angiotensina II e, com isso, pode influenciar o tônus e o remodelamento dos vasos. Esse efeito é relevante para a hipertensão arterial e para a proteção cerebrovascular.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Ramipril (tradução não oficial): “O ramipril e o ramiprilato inibem a ECA em seres humanos e em animais. A enzima conversora de angiotensina é uma peptidil dipeptidase que catalisa a conversão da angiotensina I na substância vasoconstritora angiotensina II. A angiotensina II também estimula a secreção de aldosterona pelo córtex adrenal.” Texto original em inglês: "Ramipril and ramiprilat inhibit ACE in human subjects and animals. Angiotensin converting enzyme is a peptidyl dipeptidase that catalyzes the conversion of angiotensin I to the vasoconstrictor substance, angiotensin II. Angiotensin II also stimulates aldosterone secretion by the adrenal cortex." ([DailyMed: ramipril prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=245d3580-77c6-4c0f-b324-c8514b792c59), versão de 2026-11-11; acessado em 2026-11-19). Segundo informações conhecidas, o ramipril é um inibidor da ECA. Ele reduz a angiotensina II e, com isso, pode influenciar o tônus e o remodelamento dos vasos. Esse efeito é relevante para a hipertensão arterial e para a proteção cerebrovascular.
 
 A relação com a nova indicação é indireta. A hipertensão arterial sistêmica e a hipertensão pulmonar são doenças distintas, embora ambas envolvam alterações do tônus e da estrutura vascular. Por isso, mecanisticamente o sistema renina-angiotensina poderia ter algum papel. No entanto, a previsão para esta doença específica é apenas uma saída do modelo (TxGNN), sem ensaios clínicos nem literatura que a sustentem.
 
@@ -143,6 +143,19 @@ Para advertências e contraindicações oficiais, consulte a bula.
 - Realizar busca bibliográfica dirigida e estudos pré-clínicos específicos para esta doença.
 - Baixar e analisar a bula da ANVISA para avaliar advertências e contraindicações, em especial os riscos com hipotensão e função renal.
 - Avaliar a compatibilidade de vias de administração e o perfil de segurança na população-alvo.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: ramipril prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=245d3580-77c6-4c0f-b324-c8514b792c59) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

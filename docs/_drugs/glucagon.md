@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser útil para a **síndrome do intestino irritá
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação do glucagon nos dados compilados para este relatório. Sabe-se que o glucagon e o GLP-1 derivam do mesmo precursor (proglucagon) e que ambos atuam sobre o intestino. O glucagon é conhecido como relaxante da musculatura lisa, usado como antiespasmódico em exames de imagem do trato digestivo, o que oferece uma justificativa teórica para a síndrome do intestino irritável, em que há alteração da motilidade e hipersensibilidade visceral.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Glucagon (tradução não oficial): “O glucagon aumenta a concentração de glicose no sangue ao ativar os receptores hepáticos de glucagon, estimulando assim a degradação do glicogênio e a liberação de glicose pelo fígado. As reservas hepáticas de glicogênio são necessárias para que o glucagon produza um efeito anti-hipoglicêmico.” Texto original em inglês: "Glucagon increases blood glucose concentration by activating hepatic glucagon receptors, thereby stimulating glycogen breakdown and release of glucose from the liver. Hepatic stores of glycogen are necessary for glucagon to produce an antihypoglycemic effect." ([DailyMed: glucagon prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e4be1c0e-0fe6-45a0-9229-5cde98434b84), versão de 2020-09-16; acessado em 2026-11-19). Sabe-se que o glucagon e o GLP-1 derivam do mesmo precursor (proglucagon) e que ambos atuam sobre o intestino. O glucagon é conhecido como relaxante da musculatura lisa, usado como antiespasmódico em exames de imagem do trato digestivo, o que oferece uma justificativa teórica para a síndrome do intestino irritável, em que há alteração da motilidade e hipersensibilidade visceral.
 
 O GLP-1 e seus análogos retardam o esvaziamento gástrico e inibem a motilidade antro-duodeno-jejunal. Isso poderia reduzir a motilidade anormal e a dor da síndrome. No entanto, o vínculo com o glucagon é **indireto**: baseia-se em uma família de peptídeos comum e em uma via de receptores relacionada, não em dados do próprio glucagon.
 
@@ -117,11 +117,12 @@ Para advertências e contraindicações, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Os detalhes dos registros (número, nome comercial, forma farmacêutica) não estão disponíveis nos dados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: glucagon prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e4be1c0e-0fe6-45a0-9229-5cde98434b84) |
 
 <!-- review:end log -->
 

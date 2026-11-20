@@ -56,7 +56,7 @@ Até o momento, **nenhum ensaio clínico** e **nenhuma publicação** nos dados 
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. De modo geral, a clorambucila alquila o DNA, formando ligações cruzadas que impedem a replicação e induzem a morte de células em proliferação. Por isso, teoricamente ela poderia agir sobre células de linfoma B, que se dividem rapidamente.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Chlorambucil (tradução não oficial): “O clorambucila, um derivado aromático da mostarda nitrogenada, é um agente alquilante. O clorambucila interfere na replicação do DNA e induz a apoptose celular por meio do acúmulo de p53 citosólica e subsequente ativação de Bax, um promotor da apoptose.” Texto original em inglês: "Chlorambucil, an aromatic nitrogen mustard derivative, is an alkylating agent. Chlorambucil interferes with DNA replication and induces cellular apoptosis via the accumulation of cytosolic p53 and subsequent activation of Bax, an apoptosis promoter." ([DailyMed: Leukeran (chlorambucil) prescribing information, Waylis Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=58a3c995-5ad6-465d-8437-5970c9088213), versão de 2025-01-08; acessado em 2026-11-19). De modo geral, a clorambucila alquila o DNA, formando ligações cruzadas que impedem a replicação e induzem a morte de células em proliferação. Por isso, teoricamente ela poderia agir sobre células de linfoma B, que se dividem rapidamente.
 
 O linfoma de grandes células B ALK-positivo é um tumor raro e agressivo. Não há ensaios clínicos nem literatura que mostrem benefício da clorambucila nessa doença. A relação com um alquilante é apenas conceitual, e a pontuação alta reflete a previsão do modelo, não um resultado clínico. Um alquilante de uso oral e de potência relativamente baixa também pode ser insuficiente para um linfoma agressivo. Isso precisaria ser avaliado antes de qualquer conclusão.
 
@@ -113,6 +113,18 @@ Para advertências e contraindicações, consulte a bula.
 - Obtenção e análise da bula aprovada pela ANVISA, para completar advertências e contraindicações.
 - Avaliação de dados pré-clínicos ou de casos clínicos antes de qualquer estudo prospectivo.
 - Plano de monitoramento de segurança hematológica, caso a avaliação avance.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Leukeran (chlorambucil) prescribing information, Waylis Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=58a3c995-5ad6-465d-8437-5970c9088213) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

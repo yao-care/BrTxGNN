@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a fentanila é um agonista do receptor mu-opioide, com eficácia estabelecida como analgésico e anestésico opioide.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Fentanyl (tradução não oficial): “O Citrato de Fentanila Injetável é um agonista opioide, cujas principais ações de valor terapêutico são a analgesia e a sedação.” Texto original em inglês: "Fentanyl Citrate Injection is an opioid agonist, whose principal actions of therapeutic value are analgesia and sedation." ([DailyMed: fentanyl citrate prescribing information, Phlow Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=58dcd3f7-e3d8-4929-a186-8f680a51ff11), versão de 2026-10-23; acessado em 2026-11-19). Segundo informações conhecidas, a fentanila é um agonista do receptor mu-opioide, com eficácia estabelecida como analgésico e anestésico opioide.
 
 Do ponto de vista mecanístico, **não há um elo crível** que sustente esta previsão. A síndrome nefrogênica de antidiurese inapropriada é causada por mutações de ganho de função no receptor V2 da vasopressina (AVPR2), que atuam no rim independentemente da vasopressina circulante. Os opioides podem influenciar a liberação de vasopressina e o manejo de água pelo organismo, mas isso tenderia a **provocar** antidiurese, e não a tratá-la. Não se espera que a fentanila corrija o defeito do receptor.
 
@@ -144,12 +144,13 @@ Consulte a bula para as advertências e contraindicações oficiais.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “e a ausência de registros vigentes no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Registros válidos: “todos os 11” → 10 de 29 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: fentanyl citrate prescribing information, Phlow Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=58dcd3f7-e3d8-4929-a186-8f680a51ff11) |
 
 <!-- review:end log -->
 

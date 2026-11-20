@@ -59,7 +59,7 @@ O modelo TxGNN prevê que pode ser eficaz para **linfoma cutâneo primário de c
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, a fludrocortisona é um mineralocorticoide com alguma atividade glicocorticoide. Sua eficácia como mineralocorticoide é estabelecida, por exemplo na insuficiência adrenal e na hipotensão ortostática.
+Segundo a seção “Clinical Pharmacology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Fludrocortisone (tradução não oficial): “Acredita-se que os corticosteroides atuem, pelo menos em parte, controlando a taxa de síntese de proteínas. Embora haja vários casos em que se sabe que a síntese de proteínas específicas é induzida por corticosteroides, as ligações entre as ações iniciais dos hormônios e os efeitos metabólicos finais não foram completamente elucidadas. […] A ação fisiológica do acetato de fludrocortisona é semelhante à da hidrocortisona.” Texto original em inglês: "Corticosteroids are thought to act at least in part, by controlling the rate of synthesis of proteins. Although there are a number of instances in which the synthesis of specific proteins is known to be induced by corticosteroids, the links between the initial actions of the hormones and the final metabolic effects have not been completely elucidated. […] The physiologic action of fludrocortisone acetate is similar to that of hydrocortisone." ([DailyMed: fludrocortisone acetate prescribing information, Major Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=933e28ef-05e8-419e-a786-21eab67f33a2), versão de 2026-06-24; acessado em 2026-11-19). Segundo informações conhecidas, a fludrocortisona é um mineralocorticoide com alguma atividade glicocorticoide. Sua eficácia como mineralocorticoide é estabelecida, por exemplo na insuficiência adrenal e na hipotensão ortostática.
 
 A relação com o linfoma cutâneo de células T é especulativa. Glicocorticoides têm efeito linfocitolítico em algumas neoplasias linfoides, e isso poderia sugerir um elo teórico. Porém, a atividade da fludrocortisona é dominada pelo efeito mineralocorticoide, e os dados compilados para este relatório não sustentam nenhum vínculo mecanístico concreto.
 
@@ -121,11 +121,12 @@ Para advertências e contraindicações, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “O registro brasileiro está cancelado e n” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: fludrocortisone acetate prescribing information, Major Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=933e28ef-05e8-419e-a786-21eab67f33a2) |
 
 <!-- review:end log -->
 

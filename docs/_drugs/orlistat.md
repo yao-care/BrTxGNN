@@ -60,7 +60,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada. Segundo conhecimento farmacológico geral, o orlistate inibe as lipases gástrica e pancreática, reduzindo a absorção de gordura da dieta em cerca de 30%.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Orlistat (tradução não oficial): “O orlistate é um inibidor reversível das lipases gastrointestinais. Ele exerce sua atividade terapêutica no lúmen do estômago e do intestino delgado formando uma ligação covalente com o sítio do resíduo de serina ativo das lipases gástrica e pancreática.” Texto original em inglês: "Orlistat is a reversible inhibitor of gastrointestinal lipases. It exerts its therapeutic activity in the lumen of the stomach and small intestine by forming a covalent bond with the active serine residue site of gastric and pancreatic lipases." ([DailyMed: Xenical (orlistat) prescribing information, H2-Pharma LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6240792b-9224-2d10-e053-2a91aa0a2c3e), versão de 2026-09-30; acessado em 2026-11-19). Segundo conhecimento farmacológico geral, o orlistate inibe as lipases gástrica e pancreática, reduzindo a absorção de gordura da dieta em cerca de 30%.
 
 As vitaminas lipossolúveis (A, D, E e K) são absorvidas junto com a gordura da dieta. Em tese, reduzir essa absorção poderia diminuir a carga corporal em casos de excesso dessas vitaminas. Esse vínculo é apoiado apenas pelo efeito adverso já conhecido do orlistate (redução dos níveis de vitaminas lipossolúveis) e pela pontuação alta do modelo.
 
@@ -162,7 +162,7 @@ A previsão se baseia somente no modelo (L5), sem ensaios clínicos nem literatu
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
@@ -170,6 +170,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | 2026-11-06 | Removido: “Além disso, o orlistate não tem registro válido no Brasil, e o manejo padrão da hipervitaminose (suspender a fonte) já é simples e eficaz” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “dado que o medicamento está comercializado com 20 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Contagem exibida: “Principais registros (5 de 20” → “Principais registros (30 de 41” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Xenical (orlistat) prescribing information, H2-Pharma LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6240792b-9224-2d10-e053-2a91aa0a2c3e) |
 
 <!-- review:end log -->
 

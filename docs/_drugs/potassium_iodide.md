@@ -56,7 +56,7 @@ atualmente com **nenhum ensaio clínico** e **4 publicações** (relatos de caso
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, o iodeto de potássio é um sal de iodo usado há muito tempo como expectorante e no tratamento de certas infecções fúngicas e semelhantes a fungos, como a esporotricose e as zigomicoses (conidiobomicose e basidiobiomicose).
+Segundo a seção “Clinical Pharmacology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Potassium Iodide (tradução não oficial): “Acredita-se que o iodeto de potássio atue como expectorante ao aumentar as secreções do trato respiratório e, assim, diminuir a viscosidade do muco.” Texto original em inglês: "Potassium iodide is thought to act as an expectorant by increasing respiratory tract secretions and thereby decreasing the viscosity of mucus." ([DailyMed: Potassium Iodide (Saturated) (potassium iodide) prescribing information, Emerald Therapeutics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0bdf305f-ed4a-49d1-8901-edaed8d67850), versão de 2026-08-25; acessado em 2026-11-19). Segundo informações conhecidas, o iodeto de potássio é um sal de iodo usado há muito tempo como expectorante e no tratamento de certas infecções fúngicas e semelhantes a fungos, como a esporotricose e as zigomicoses (conidiobomicose e basidiobiomicose).
 
 A relação com a nova indicação é plausível, mas restrita: a literatura recuperada descreve o uso do iodeto em doença nasal infecciosa granulomatosa ou micótica (pitiose rinofacial em ovelhas, rinite micótica em equinos, infecção nasal por *Pseudallescheria boydii* em cavalo e um caso humano de zigomicose nasofacial). O vínculo não se sustenta para "doença da cavidade nasal" de forma ampla.
 
@@ -125,12 +125,13 @@ Todos os 11 registros encontrados estão válidos. Os 5 principais:
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-10-31 | Removido: “(registro cancelado)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Além disso, o iodeto de potássio não tem registro válido no Brasil (todos os 11 estão cancelados) e as informações de segurança da bula estã” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Potassium Iodide (Saturated) (potassium iodide) prescribing information, Emerald Therapeutics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0bdf305f-ed4a-49d1-8901-edaed8d67850) |
 
 <!-- review:end log -->
 

@@ -57,7 +57,7 @@ Observação: entre as 10 previsões, a que reúne mais evidências é **schwann
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, selumetinibe é um inibidor de MEK1/2 da via RAS-RAF-MEK-ERK, usado em tumores ligados a essa via, e mecanisticamente pode ser aplicável a doenças com desregulação da via MAPK.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Selumetinib (tradução não oficial): “O selumetinibe é um inibidor das quinases 1 e 2 da proteína quinase ativada por mitógeno (MEK1/2). As proteínas MEK1/2 são reguladoras a montante da via da quinase relacionada a sinais extracelulares (ERK). Tanto a MEK quanto a ERK são componentes essenciais da via RAF-MEK-ERK regulada por RAS, que frequentemente está ativada em diferentes tipos de câncer.” Texto original em inglês: "Selumetinib is an inhibitor of mitogen-activated protein kinase kinases 1 and 2 (MEK1/2). MEK1/2 proteins are upstream regulators of the extracellular signal-related kinase (ERK) pathway. Both MEK and ERK are critical components of the RAS-regulated RAF-MEK-ERK pathway, which is often activated in different types of cancers." ([DailyMed: Koselugo (selumetinib) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7d042c61-f28f-4ab5-ab10-d7558c0d49ff), versão de 2026-05-26; acessado em 2026-11-19). Segundo informações conhecidas, selumetinibe é um inibidor de MEK1/2 da via RAS-RAF-MEK-ERK, usado em tumores ligados a essa via, e mecanisticamente pode ser aplicável a doenças com desregulação da via MAPK.
 
 Síndromes de lentiginose pigmentar frequentemente envolvem desregulação da via RAS/MAPK (biologia semelhante às RASopatias), de modo que a inibição de MEK é plausível. Ainda assim, não foram recuperados ensaios nem literatura, e a pontuação elevada do TxGNN é apenas uma previsão computacional.
 
@@ -145,12 +145,13 @@ Para advertências e contraindicações, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “O registro brasileiro está cancelado, e n” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Obter a bula da ANVISA (advertências e contraindicações) e esclarecer a situação do registro cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Koselugo (selumetinib) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7d042c61-f28f-4ab5-ab10-d7558c0d49ff) |
 
 <!-- review:end log -->
 

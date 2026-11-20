@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, o esomeprazol é um fármaco antiulceroso, e mecanisticamente a aplicação à obstrução duodenal é pouco evidente.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Esomeprazole (tradução não oficial): “O esomeprazol pertence a uma classe de compostos antissecretores, os benzimidazóis substituídos, que suprimem a secreção de ácido gástrico por meio da inibição específica do sistema enzimático H+/K+ ATPase na superfície secretora da célula parietal gástrica. O esomeprazol é protonado e convertido no compartimento ácido da célula parietal, formando o inibidor ativo, a sulfenamida aquiral.” Texto original em inglês: "Esomeprazole belongs to a class of antisecretory compounds, the substituted benzimidazoles, that suppress gastric acid secretion by specific inhibition of the H+/K+ ATPase enzyme system at the secretory surface of the gastric parietal cell. Esomeprazole is protonated and converted in the acidic compartment of the parietal cell forming the active inhibitor, the achiral sulphenamide." ([DailyMed: Nexium (esomeprazole magnesium) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f4853677-1622-4037-688b-fdf533a11d96), versão de 2025-12-19; acessado em 2026-11-19). Segundo informações conhecidas, o esomeprazol é um fármaco antiulceroso, e mecanisticamente a aplicação à obstrução duodenal é pouco evidente.
 
 A pontuação alta do modelo provavelmente reflete a proximidade do fármaco com doenças do duodeno nos dados usados pelo modelo. A obstrução é um problema mecânico, que a supressão ácida não deveria tratar por si só. Por isso, a base mecanística é fraca.
 
@@ -128,11 +128,12 @@ Há 57 registros no total; a tabela mostra apenas os cinco primeiros.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-12 | Registros no total: 15 → 57 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Nexium (esomeprazole magnesium) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f4853677-1622-4037-688b-fdf533a11d96) |
 
 <!-- review:end log -->
 

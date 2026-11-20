@@ -55,7 +55,7 @@ O modelo TxGNN prevê que ela poderia ser útil para a **síndrome de hipervisco
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Sabe-se que a amoxicilina é um antibiótico betalactâmico, que inibe a síntese da parede celular bacteriana, e sua ação é dirigida a infecções bacterianas.
+Segundo as seções “Mechanism of Action” e “Microbiology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Amoxicillin (tradução não oficial): “A amoxicilina é um fármaco antibacteriano. […] A amoxicilina é semelhante à penicilina em sua ação bactericida contra bactérias sensíveis durante o estágio de multiplicação ativa. Ela atua por meio da inibição da biossíntese da parede celular, o que leva à morte das bactérias.” Texto original em inglês: "Amoxicillin is an antibacterial drug. […] Amoxicillin is similar to penicillin in its bactericidal action against susceptible bacteria during the stage of active multiplication. It acts through the inhibition of cell wall biosynthesis that leads to the death of the bacteria." ([DailyMed: amoxicillin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98e9274c-c02e-44d9-8cc5-17536ef03a77), versão de 2026-11-13; acessado em 2026-11-19). Sabe-se que a amoxicilina é um antibiótico betalactâmico, que inibe a síntese da parede celular bacteriana, e sua ação é dirigida a infecções bacterianas.
 
 A síndrome de hiperviscosidade policlonal decorre do excesso de imunoglobulinas policlonais no sangue, o que aumenta a viscosidade sanguínea. Não há vínculo mecanístico identificável entre um antibacteriano e esse processo. A pontuação elevada do modelo não é sustentada por nenhum dado clínico ou da literatura e deve ser interpretada com muita cautela, como um resultado do modelo sem respaldo experimental.
 
@@ -126,6 +126,19 @@ Para advertências e contraindicações da bula, consulte a bula do produto, poi
 - Estudos que avaliem diretamente a amoxicilina na síndrome de hiperviscosidade policlonal (hoje inexistentes) e uma justificativa mecanística plausível.
 - Dados de mecanismo de ação e das advertências e contraindicações da bula da ANVISA.
 - Revisão especializada antes de qualquer investimento adicional, dada a ausência de racional biológico.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: amoxicillin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98e9274c-c02e-44d9-8cc5-17536ef03a77) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

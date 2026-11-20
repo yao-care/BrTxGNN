@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Sabe-se que o calcitriol é o metabólito ativo da vitamina D (1,25-di-hidroxivitamina D3), de modo que um vínculo biológico com a deficiência de vitamina D é plausível.
+Segundo a seção “Clinical Pharmacology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Calcitriol (tradução não oficial): “A síntese e o catabolismo endógenos do calcitriol, bem como os mecanismos de controle fisiológico que afetam esses processos, desempenham um papel crítico na regulação do nível sérico de calcitriol. A produção diária fisiológica é normalmente de 0,5 a 1,0 mcg e é um pouco maior durante períodos de aumento da síntese óssea (por exemplo, crescimento ou gravidez).” Texto original em inglês: "Endogenous synthesis and catabolism of calcitriol, as well as physiological control mechanisms affecting these processes, play a critical role regulating the serum level of calcitriol. Physiological daily production is normally 0.5 to 1.0 mcg and is somewhat higher during periods of increased bone synthesis (eg, growth or pregnancy)." ([DailyMed: calcitriol prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=45f78bbe-4bbc-404d-a061-ead3db50908e), versão de 2026-10-15; acessado em 2026-11-19). Sabe-se que o calcitriol é o metabólito ativo da vitamina D (1,25-di-hidroxivitamina D3), de modo que um vínculo biológico com a deficiência de vitamina D é plausível.
 
 No entanto, a entrada da doença está marcada como obsoleta na terminologia de referência e não foram encontrados ensaios clínicos nem literatura. A pontuação alta (0,9996) é apenas uma previsão do modelo e provavelmente reflete a proximidade com condições já relacionadas ao eixo da vitamina D, e não uma evidência nova. Como o fármaco já atua diretamente nesse eixo, isto não representa um sinal significativo de reposicionamento.
 
@@ -101,12 +101,13 @@ Para advertências e contraindicações, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Os detalhes individuais dos registros não estão disponíveis nos dados deste relatório” | Corrigido (revisado em 2026-11-12; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Registros cancelados: 10 → 9 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: calcitriol prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=45f78bbe-4bbc-404d-a061-ead3db50908e) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações farmacológicas conhecidas, o droperidol é uma butirofenona com potente antagonismo do receptor de dopamina D2, a mesma classe mecanística de haloperidol e pimozida, fármacos usados na síndrome de Tourette.
+Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Droperidol é (tradução não oficial): “Antagonista do receptor de serotonina 2a (5-HT2a); antagonista do receptor de dopamina do tipo D2” Texto original em inglês: "Serotonin 2a (5-HT2a) receptor antagonist; D2-like dopamine receptor antagonist" ([ChEMBL CHEMBL1108 (droperidol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1108), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações farmacológicas conhecidas, o droperidol é uma butirofenona com potente antagonismo do receptor de dopamina D2, a mesma classe mecanística de haloperidol e pimozida, fármacos usados na síndrome de Tourette.
 
 Como os tiques da síndrome de Tourette estão associados à sinalização dopaminérgica, o bloqueio de D2 oferece um elo mecanístico plausível. Esse elo, porém, se apoia apenas na previsão computacional: não há ensaios clínicos nem literatura sobre droperidol nesta doença.
 
@@ -103,11 +103,12 @@ Para advertências e contraindicações oficiais, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-12 | Registros: 4 (2 cancelados) → 3 (1 cancelado) | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [ChEMBL CHEMBL1108 (droperidol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1108) |
 
 <!-- review:end log -->
 

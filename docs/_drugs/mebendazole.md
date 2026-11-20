@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Acne (acne (disease))**, mas h�
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação registrados para este medicamento. Segundo informações conhecidas, o mebendazol é um anti-helmíntico benzimidazólico que inibe a polimerização da tubulina nos parasitas.
+Segundo as seções “Mechanism of Action” e “Microbiology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Mebendazole (tradução não oficial): “O mebendazol, um benzimidazol, é um anti-helmíntico. […] O mebendazol interfere na formação da tubulina celular no helminto e causa alterações degenerativas ultraestruturais em seu intestino. Como resultado, a captação de glicose e as funções digestivas e reprodutivas são comprometidas, levando à imobilização, à inibição da produção de ovos e à morte do helminto.” Texto original em inglês: "Mebendazole, a benzimidazole, is an anthelmintic. […] Mebendazole interferes with cellular tubulin formation in the helminth and causes ultrastructural degenerative changes in its intestine. As a result, its glucose uptake and the digestive and reproductive functions are disrupted, leading to immobilization, inhibition of egg production and death of the helminth." ([DailyMed: Vermox (mebendazole) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a720c424-517a-461b-8e13-6c37caf8aa3f), versão de 2021-10-05; acessado em 2026-11-19). Segundo informações conhecidas, o mebendazol é um anti-helmíntico benzimidazólico que inibe a polimerização da tubulina nos parasitas.
 
 Não foi estabelecida uma relação mecanística plausível com a acne. A acne é uma condição inflamatória da unidade pilossebácea, sem envolvimento conhecido de helmintos. A pontuação alta do modelo provavelmente é um artefato da modelagem e não reflete uma base biológica identificada.
 
@@ -140,11 +140,12 @@ A tabela mostra até 30 registros (os ativos primeiro). A lista completa está n
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-11 | Removido: “Há 11 registros, todos de produtos de ingrediente único” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Vermox (mebendazole) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a720c424-517a-461b-8e13-6c37caf8aa3f) |
 
 <!-- review:end log -->
 

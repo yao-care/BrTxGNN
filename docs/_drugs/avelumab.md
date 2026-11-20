@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** nos dados compi
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação na base consultada. Segundo informações conhecidas, o avelumabe é um anticorpo monoclonal anti-PD-L1 (inibidor de checkpoint imunológico), que bloqueia a ligação entre PD-L1 e PD-1 e, assim, pode restaurar a resposta imune contra células tumorais.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Avelumab (tradução não oficial): “O PD-L1 pode ser expresso em células tumorais e em células imunes infiltrantes do tumor e pode contribuir para a inibição da resposta imune antitumoral no microambiente tumoral. A ligação do PD-L1 aos receptores PD-1 e B7.1 presentes em células T e em células apresentadoras de antígenos suprime a atividade das células T citotóxicas, a proliferação de células T e a produção de citocinas. […] O avelumabe liga-se ao PD-L1 e bloqueia a interação entre o PD-L1 e seus receptores PD-1 e B7.1.” Texto original em inglês: "PD-L1 may be expressed on tumor cells and tumor-infiltrating immune cells and can contribute to the inhibition of the anti-tumor immune response in the tumor microenvironment. Binding of PD-L1 to the PD-1 and B7.1 receptors found on T cells and antigen presenting cells suppresses cytotoxic T-cell activity, T-cell proliferation, and cytokine production. […] Avelumab binds PD-L1 and blocks the interaction between PD-L1 and its receptors PD-1 and B7.1." ([DailyMed: Bavencio (avelumab) prescribing information, EMD Serono, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5cd725a1-2fa4-408a-a651-57a7b84b2118), versão de 2026-09-22; acessado em 2026-11-19). Segundo informações conhecidas, o avelumabe é um anticorpo monoclonal anti-PD-L1 (inibidor de checkpoint imunológico), que bloqueia a ligação entre PD-L1 e PD-1 e, assim, pode restaurar a resposta imune contra células tumorais.
 
 Os tumores causados pelo HHV-8 (como o sarcoma de Kaposi e o linfoma primário de efusão) utilizam a via PD-1/PD-L1 para escapar do sistema imune, o que torna biologicamente plausível o uso do bloqueio de checkpoint. Outros inibidores da via PD-1 já mostraram atividade no sarcoma de Kaposi. Além disso, o avelumabe é aprovado em outros países para o carcinoma de células de Merkel, também um tumor associado a vírus, o que oferece apenas apoio conceitual indireto.
 
@@ -135,12 +135,13 @@ Para a indicação principal (tumor relacionado ao HHV-8), a previsão está no 
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “e o registro brasileiro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “já que o único registro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Bavencio (avelumab) prescribing information, EMD Serono, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5cd725a1-2fa4-408a-a651-57a7b84b2118) |
 
 <!-- review:end log -->
 

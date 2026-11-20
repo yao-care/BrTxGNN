@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para a **infecção pelo vírus da hep
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada. Segundo informações conhecidas, o sofosbuvir é um análogo nucleotídico que inibe a RNA polimerase RNA-dependente NS5B do HCV, e sua eficácia na hepatite C está bem estabelecida.
+Segundo as seções “Mechanism of Action” e “Microbiology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Sofosbuvir (tradução não oficial): “Sofosbuvir é um agente antiviral de ação direta contra o vírus da hepatite C. […] Sofosbuvir é um inibidor da RNA polimerase dependente de RNA NS5B do HCV, que é essencial para a replicação viral. Sofosbuvir é um pró-fármaco nucleotídico que sofre metabolismo intracelular para formar o trifosfato análogo da uridina farmacologicamente ativo (GS-461203), que pode ser incorporado ao RNA do HCV pela polimerase NS5B e atua como terminador de cadeia.” Texto original em inglês: "Sofosbuvir is a direct-acting antiviral agent against the hepatitis C virus. […] Sofosbuvir is an inhibitor of the HCV NS5B RNA-dependent RNA polymerase, which is essential for viral replication. Sofosbuvir is a nucleotide prodrug that undergoes intracellular metabolism to form the pharmacologically active uridine analog triphosphate (GS-461203), which can be incorporated into HCV RNA by the NS5B polymerase and acts as a chain terminator." ([DailyMed: Sovaldi (sofosbuvir) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=80beab2c-396e-4a37-a4dc-40fdb62859cf), versão de 2024-12-26; acessado em 2026-11-19). Segundo informações conhecidas, o sofosbuvir é um análogo nucleotídico que inibe a RNA polimerase RNA-dependente NS5B do HCV, e sua eficácia na hepatite C está bem estabelecida.
 
 Mecanisticamente, porém, a previsão é fraca. O HBV é um vírus de DNA que replica por uma etapa de transcrição reversa e não possui homólogo da NS5B. Uma ação antiviral direta do sofosbuvir contra o HBV, portanto, não é plausível. A pontuação alta do TxGNN (0,9977) provavelmente reflete a proximidade na rede de "hepatite viral" e não um mecanismo real.
 
@@ -126,11 +126,12 @@ Para advertências e contraindicações, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “O fármaco também não tem registro ativo no Brasil, segundo os dados compilados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Sovaldi (sofosbuvir) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=80beab2c-396e-4a37-a4dc-40fdb62859cf) |
 
 <!-- review:end log -->
 

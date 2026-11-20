@@ -55,7 +55,7 @@ O modelo TxGNN prevê que ela pode ser eficaz para **doença da cavidade nasal (
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a cafeína é um antagonista dos receptores de adenosina e inibidor de fosfodiesterases (PDE). Esse perfil explica seu uso como estimulante respiratório e como adjuvante analgésico em associações com dipirona, ácido acetilsalicílico e relaxantes musculares.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Caffeine (tradução não oficial): “A cafeína é estruturalmente relacionada a outras metilxantinas, teofilina e teobromina. É um relaxante da musculatura lisa brônquica, um estimulante do SNC, um estimulante do músculo cardíaco e um diurético. Embora o mecanismo de ação da cafeína na apneia da prematuridade não seja conhecido, vários mecanismos foram propostos como hipótese.” Texto original em inglês: "Caffeine is structurally related to other methylxanthines, theophylline, and theobromine. It is a bronchial smooth muscle relaxant, a CNS stimulant, a cardiac muscle stimulant, and a diuretic. Although the mechanism of action of caffeine in apnea of prematurity is not known, several mechanisms have been hypothesized." ([DailyMed: caffeine citrate prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f38c395-0093-4afd-89ec-f96e5dc0934a), versão de 2026-07-29; acessado em 2026-11-19). Segundo informações conhecidas, a cafeína é um antagonista dos receptores de adenosina e inibidor de fosfodiesterases (PDE). Esse perfil explica seu uso como estimulante respiratório e como adjuvante analgésico em associações com dipirona, ácido acetilsalicílico e relaxantes musculares.
 
 A relação com a doença nasal é plausível, mas não comprovada. Receptores de sabor amargo (TAS2R) presentes nas vias aéreas são ativados pela cafeína e podem regular o batimento ciliar e a defesa inata. A única literatura específica para o nariz é um estudo de formulação de gel intranasal de cafeína para cognição após privação de sono, que visa a entrega do nariz ao cérebro e não o tratamento de doença nasal.
 
@@ -149,12 +149,13 @@ A previsão se apoia apenas no modelo e em literatura indireta, sem ensaios clí
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Há 20 registros válidos e o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “dado que não há registros vigentes no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: caffeine citrate prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f38c395-0093-4afd-89ec-f96e5dc0934a) |
 
 <!-- review:end log -->
 

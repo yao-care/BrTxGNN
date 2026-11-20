@@ -60,7 +60,7 @@ Até o momento, os dados compilados para este relatório mostram **nenhum ensaio
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação registrados para este fármaco. Segundo informações conhecidas, a vimblastina é um alcaloide da vinca que se liga à tubulina e inibe a polimerização dos microtúbulos, causando parada mitótica em células de divisão rápida.
+Segundo a seção “Clinical Pharmacology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Vinblastine (tradução não oficial): “Outros estudos indicam que o sulfato de vimblastina tem efeito sobre a produção de energia celular necessária para a mitose e interfere na síntese de ácidos nucleicos. O mecanismo de ação da vimblastina tem sido relacionado à inibição da formação de microtúbulos no fuso mitótico, resultando na parada das células em divisão no estágio de metáfase.” Texto original em inglês: "Other studies indicate that vinblastine sulfate has an effect on cell-energy production required for mitosis and interferes with nucleic acid synthesis. The mechanism of action of vinblastine has been related to the inhibition of microtubule formation in the mitotic spindle, resulting in an arrest of dividing cells at the metaphase stage." ([DailyMed: vinblastine sulfate prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f073b58e-56d6-4c8d-a2ce-b37719402d77), versão de 2025-04-15; acessado em 2026-11-19). Segundo informações conhecidas, a vimblastina é um alcaloide da vinca que se liga à tubulina e inibe a polimerização dos microtúbulos, causando parada mitótica em células de divisão rápida.
 
 O rabdomiossarcoma é um sarcoma pediátrico altamente proliferativo, e um agente antimitótico é mecanisticamente plausível nesse contexto. Alcaloides da vinca (principalmente a vincristina) já fazem parte de esquemas padrão para rabdomiossarcoma, de modo que a novidade do reposicionamento especificamente para a vimblastina é limitada.
 
@@ -142,6 +142,18 @@ Para advertências e contraindicações formais, consulte a bula.
 - Revisão sistemática da literatura que isole a contribuição da vimblastina em esquemas para rabdomiossarcoma, incluindo estudos mais robustos que relatos de caso
 - Dados formais de mecanismo de ação e das advertências e contraindicações da bula aprovada pela ANVISA
 - Avaliação comparativa frente aos esquemas padrão com vincristina, com plano de monitoramento de segurança (hematológico, neurológico e gastrointestinal)
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: vinblastine sulfate prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f073b58e-56d6-4c8d-a2ce-b37719402d77) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Hipertensão Pulmonar (Pulmonar
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, o prasugrel é um antagonista do receptor P2Y12 que inibe a agregação plaquetária, e sua eficácia na síndrome coronariana aguda é estabelecida.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Prasugrel (tradução não oficial): “O prasugrel é um inibidor da ativação e da agregação plaquetárias por meio da ligação irreversível de seu metabólito ativo à classe P2Y 12 de receptores de ADP nas plaquetas.” Texto original em inglês: "Prasugrel is an inhibitor of platelet activation and aggregation through the irreversible binding of its active metabolite to the P2Y 12 class of ADP receptors on platelets." ([DailyMed: Effient (prasugrel hydrochloride) prescribing information, Cosette Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=69ea2d58-5353-4222-b61f-cab976fa7e5e), versão de 2022-09-07; acessado em 2026-11-19). Segundo informações conhecidas, o prasugrel é um antagonista do receptor P2Y12 que inibe a agregação plaquetária, e sua eficácia na síndrome coronariana aguda é estabelecida.
 
 Na hipertensão pulmonar, a ativação plaquetária e a trombose *in situ* contribuem para o remodelamento vascular pulmonar. Existe, portanto, um elo plausível, porém não comprovado, entre a ação antiplaquetária e a nova indicação.
 
@@ -129,11 +129,12 @@ Consulte a bula para advertências e contraindicações oficiais; o risco hemorr
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “O prasugrel não tem registro no Brasil, e a” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Effient (prasugrel hydrochloride) prescribing information, Cosette Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=69ea2d58-5353-4222-b61f-cab976fa7e5e) |
 
 <!-- review:end log -->
 

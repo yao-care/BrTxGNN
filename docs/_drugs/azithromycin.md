@@ -59,7 +59,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Hiperamilasemia (Hyperamylasemi
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, a azitromicina é um antibiótico da classe dos macrolídeos, com eficácia comprovada em infecções bacterianas.
+Segundo as seções “Mechanism of Action” e “Microbiology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Azithromycin (tradução não oficial): “A azitromicina é um medicamento antibacteriano macrolídeo. […] A azitromicina atua ligando-se ao rRNA 23S da subunidade ribossômica 50S de microrganismos sensíveis, inibindo a síntese proteica bacteriana e impedindo a montagem da subunidade ribossômica 50S.” Texto original em inglês: "Azithromycin is a macrolide antibacterial drug. […] Azithromycin acts by binding to the 23S rRNA of the 50S ribosomal subunit of susceptible microorganisms inhibiting bacterial protein synthesis and impeding the assembly of the 50S ribosomal subunit." ([DailyMed: Zithromax (azithromycin dihydrate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d24bacb-feff-4c6a-b8df-625e1435387a), versão de 2026-09-09; acessado em 2026-11-19). Segundo informações conhecidas, a azitromicina é um antibiótico da classe dos macrolídeos, com eficácia comprovada em infecções bacterianas.
 
 Para a hiperamilasemia, não foi identificado nenhum vínculo mecanístico plausível. A hiperamilasemia é um achado laboratorial, e não uma doença propriamente tratável, e a azitromicina não tem papel conhecido na redução da amilase. A pontuação elevada vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica, sem ensaios ou literatura de apoio.
 
@@ -169,13 +169,14 @@ A previsão para hiperamilasemia tem pontuação alta no modelo, mas não conta 
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Foram encontrados 20 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “O medicamento está comercializado no Brasil, com 20 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “(medicamento comercializado, com 20 registros válidos)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Zithromax (azithromycin dihydrate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d24bacb-feff-4c6a-b8df-625e1435387a) |
 
 <!-- review:end log -->
 

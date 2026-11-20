@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **acne (acne (disease))**, com **
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Sabe-se que o levonorgestrel é um progestágeno derivado da 19-nortestosterona, com alguma atividade androgênica residual, o que, em princípio, vai na direção oposta ao desejado no tratamento da acne.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Levonorgestrel (tradução não oficial): “O mecanismo local pelo qual o LNG liberado continuamente contribui para a eficácia contraceptiva de Skyla não foi demonstrado de forma conclusiva. Estudos com Skyla e com protótipos semelhantes de SIU de LNG sugeriram vários mecanismos que previnem a gravidez: espessamento do muco cervical, impedindo a passagem dos espermatozoides para o útero, inibição da capacitação ou da sobrevivência dos espermatozoides e alteração do endométrio.” Texto original em inglês: "The local mechanism by which continuously released LNG contributes to the contraceptive effectiveness of Skyla has not been conclusively demonstrated. Studies of Skyla and similar LNG IUS prototypes have suggested several mechanisms that prevent pregnancy: thickening of cervical mucus preventing passage of sperm into the uterus, inhibition of sperm capacitation or survival, and alteration of the endometrium." ([DailyMed: Skyla (levonorgestrel) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f44ff35-e052-49cd-a1c2-0bfd87d49309), versão de 2026-03-04; acessado em 2026-11-19). Sabe-se que o levonorgestrel é um progestágeno derivado da 19-nortestosterona, com alguma atividade androgênica residual, o que, em princípio, vai na direção oposta ao desejado no tratamento da acne.
 
 O benefício da acne com contraceptivos hormonais costuma ser atribuído principalmente ao componente estrogênico e a progestágenos antiandrogênicos (como acetato de clormadinona, drospirenona e acetato de ciproterona). A literatura recuperada trata a acne sobretudo como possível efeito adverso, ou como benefício de outros progestágenos, e não como indicação do levonorgestrel isolado.
 
@@ -101,6 +101,18 @@ Consulte a bula para as advertências e contraindicações oficiais.
 - Ensaios comparativos de levonorgestrel (isolado ou associado) versus progestágenos antiandrogênicos em acne
 - Avaliação do perfil de risco (tromboembolismo venoso, metabolismo da glicose e lipídios) na população-alvo
 - Esclarecimento das formas farmacêuticas e vias de administração compatíveis com o uso dermatológico
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Skyla (levonorgestrel) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f44ff35-e052-49cd-a1c2-0bfd87d49309) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

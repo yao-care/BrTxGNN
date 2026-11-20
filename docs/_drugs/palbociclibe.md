@@ -57,7 +57,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Sabe-se que o palbociclibe pertence à classe dos inibidores de CDK4/6, que bloqueiam a progressão do ciclo celular da fase G1 para a fase S.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Palbociclibe (tradução não oficial): “O palbociclibe é um inibidor das quinases dependentes de ciclina (CDK) 4 e 6. A ciclina D1 e as CDK4/6 estão a jusante de vias de sinalização que levam à proliferação celular. In vitro, o palbociclibe reduziu a proliferação celular de linhagens celulares de câncer de mama positivas para receptor de estrogênio (ER) ao bloquear a progressão da célula da fase G1 para a fase S do ciclo celular.” Texto original em inglês: "Palbociclib is an inhibitor of cyclin-dependent kinases (CDK) 4 and 6. Cyclin D1 and CDK4/6 are downstream of signaling pathways which lead to cellular proliferation. In vitro, palbociclib reduced cellular proliferation of estrogen receptor (ER)-positive breast cancer cell lines by blocking progression of the cell from G1 into S phase of the cell cycle." ([DailyMed: Ibrance (palbociclib) prescribing information, U.S. Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=89a142d5-7e61-48bf-9e77-e2cd124c4792), versão de 2026-07-06; acessado em 2026-11-19). Sabe-se que o palbociclibe pertence à classe dos inibidores de CDK4/6, que bloqueiam a progressão do ciclo celular da fase G1 para a fase S.
 
 Não há um elo mecanístico evidente entre a inibição de CDK4/6 e o excesso de hormônio tireoidiano. Nenhum ensaio clínico ou publicação foi encontrado para hipertireoidismo, de modo que o sinal é exclusivamente computacional e a plausibilidade biológica não pôde ser avaliada.
 
@@ -108,11 +108,12 @@ Consulte a bula para as demais informações de segurança, incluindo advertênc
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Os detalhes individuais de cada registro (número, nome comercial, forma farmacêutica e indicação aprovada) não foram recuperados na coleta a” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Ibrance (palbociclib) prescribing information, U.S. Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=89a142d5-7e61-48bf-9e77-e2cd124c4792) |
 
 <!-- review:end log -->
 

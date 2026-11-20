@@ -56,7 +56,7 @@ atualmente com **0 ensaios clínicos** e **8 publicações** (todas pré-clínic
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada. Segundo informações conhecidas, o TAF é um pró-fármaco do tenofovir que entrega eficientemente tenofovir difosfato às células linfoides e atua inibindo a transcriptase reversa viral. Sua eficácia contra o HIV-1 é conhecida, e mecanisticamente pode ser aplicável ao vírus da imunodeficiência símia (SIV).
+Segundo as seções “Mechanism of Action” e “Microbiology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Tenofovir Alafenamide (tradução não oficial): “Tenofovir alafenamida é um medicamento antiviral contra o vírus da hepatite B. […] Tenofovir alafenamida é um pró-fármaco fosfonamidato do tenofovir (análogo do monofosfato de 2'-desoxiadenosina). Tenofovir alafenamida, como composto lipofílico permeável às células, entra nos hepatócitos primários por difusão passiva e pelos transportadores de captação hepática OATP1B1 e OATP1B3.” Texto original em inglês: "Tenofovir alafenamide is an antiviral drug against the hepatitis B virus. […] Tenofovir alafenamide is a phosphonamidate prodrug of tenofovir (2'-deoxyadenosine monophosphate analog). Tenofovir alafenamide as a lipophilic cell-permeant compound enters primary hepatocytes by passive diffusion and by the hepatic uptake transporters OATP1B1 and OATP1B3." ([DailyMed: Vemlidy (tenofovir alafenamide) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=72e6b33c-0351-4070-9172-eeaa186c01d2), versão de 2025-07-14; acessado em 2026-11-19). Segundo informações conhecidas, o TAF é um pró-fármaco do tenofovir que entrega eficientemente tenofovir difosfato às células linfoides e atua inibindo a transcriptase reversa viral. Sua eficácia contra o HIV-1 é conhecida, e mecanisticamente pode ser aplicável ao vírus da imunodeficiência símia (SIV).
 
 O SIV e o híbrido SHIV são lentivírus aparentados ao HIV e dependem da transcriptase reversa para se replicar, o que torna plausível a atividade do TAF. As publicações disponíveis são estudos em macacos e em camundongos humanizados sobre profilaxia pré-exposição (PrEP), profilaxia pós-exposição e tratamento.
 
@@ -125,11 +125,12 @@ Para demais informações de segurança (advertências e contraindicações), co
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, não há registro válido do produto no Brasil no momento” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Vemlidy (tenofovir alafenamide) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=72e6b33c-0351-4070-9172-eeaa186c01d2) |
 
 <!-- review:end log -->
 

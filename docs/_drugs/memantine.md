@@ -59,7 +59,7 @@ A direção melhor sustentada pelos dados é a **enxaqueca (migraine disorder)**
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, a memantina é um antagonista não competitivo do receptor NMDA de glutamato, e seu uso neurológico foi estabelecido. Mecanisticamente, pode ser aplicável a condições em que o glutamato tem papel importante.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Memantine (tradução não oficial): “Foi levantada a hipótese de que a ativação persistente dos receptores N-metil-D-aspartato (NMDA) do sistema nervoso central pelo aminoácido excitatório glutamato contribua para a sintomatologia da doença de Alzheimer. Postula-se que a memantina exerça seu efeito terapêutico por meio de sua ação como antagonista não competitivo (de canal aberto) dos receptores NMDA, de afinidade baixa a moderada, que se liga preferencialmente aos canais catiônicos operados pelos receptores NMDA.” Texto original em inglês: "Persistent activation of central nervous system N-methyl-D-aspartate (NMDA) receptors by the excitatory amino acid glutamate has been hypothesized to contribute to the symptomatology of Alzheimer’s disease. Memantine is postulated to exert its therapeutic effect through its action as a low to moderate affinity uncompetitive (open-channel) NMDA receptor antagonist which binds preferentially to the NMDA receptor-operated cation channels." ([DailyMed: memantine hydrochloride prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0e6977ef-6a0a-4bd9-b500-6ceb15abbd5e), versão de 2026-11-11; acessado em 2026-11-19). Segundo informações conhecidas, a memantina é um antagonista não competitivo do receptor NMDA de glutamato, e seu uso neurológico foi estabelecido. Mecanisticamente, pode ser aplicável a condições em que o glutamato tem papel importante.
 
 **Enxaqueca:** a depressão cortical alastrante e a sensibilização central mediadas por glutamato estão implicadas na enxaqueca. Ao bloquear o receptor NMDA, a memantina pode reduzir esses processos. Revisões sobre antagonistas de NMDA como agentes antienxaqueca, uma metanálise de ensaios randomizados e uma revisão sistemática sobre prevenção de cefaleias primárias apoiam essa lógica. Porém, um comentário na revista *Headache* resume a situação como "grande promessa, pouca evidência".
 
@@ -193,7 +193,7 @@ A tabela mostra até 30 registros (os ativos primeiro). A lista completa está n
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
@@ -201,6 +201,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | 2026-11-06 | Removido: “Além disso, não há registro válido no Brasil, e os dados de segurança da bula estão ausentes” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Avaliar a situação regulatória: o medicamento é comercializado e há 20 registros válidos, de modo que seria preciso verificar a via de acess” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Contagem exibida: “Principais registros (5 de 20” → “Principais registros (30 de 58” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: memantine hydrochloride prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0e6977ef-6a0a-4bd9-b500-6ceb15abbd5e) |
 
 <!-- review:end log -->
 

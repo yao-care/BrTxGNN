@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **lipossarcoma (liposarcoma)**, m
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o sirolimo inibe o complexo mTORC1, um regulador central do crescimento e da proliferação celular.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Sirolimus (tradução não oficial): “Sirolimo em FYARRO é um inibidor da quinase alvo mecanístico da rapamicina (mTOR, anteriormente conhecida como alvo da rapamicina em mamíferos). A mTOR, uma serina treonina quinase, está a jusante da via PI3K/AKT, controla processos celulares essenciais, como sobrevivência, crescimento e proliferação celular, e é comumente desregulada em diversos cânceres humanos. Nas células, sirolimo liga-se à imunofilina, proteína de ligação FK-12 (FKBP-12), para gerar um complexo imunossupressor.” Texto original em inglês: "Sirolimus in FYARRO is an inhibitor of mechanistic target of rapamycin kinase (mTOR, previously known as mammalian target of rapamycin). mTOR, a serine threonine kinase, is downstream of the PI3K/AKT pathway, controls key cellular processes such as cell survival, growth, and proliferation, and is commonly dysregulated in several human cancers. In cells, sirolimus binds to the immunophilin, FK Binding Protein-12 (FKBP-12), to generate an immunosuppressive complex." ([DailyMed: Fyarro (sirolimus) prescribing information, Aadi Bioscience, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0f9bb784-53e2-46f9-a65d-1c6c2a230eaf), versão de 2026-09-09; acessado em 2026-11-19). Segundo informações conhecidas, o sirolimo inibe o complexo mTORC1, um regulador central do crescimento e da proliferação celular.
 
 A via PI3K/AKT/mTOR costuma estar ativada em sarcomas de partes moles, incluindo o lipossarcoma. Isso oferece uma justificativa biológica plausível para testar a inibição de mTOR nessa doença. Trata-se, porém, de um raciocínio teórico: não há estudo publicado que confirme benefício do sirolimo em lipossarcoma.
 
@@ -105,6 +105,18 @@ Para advertências e contraindicações, consulte a bula.
 - Obter ou publicar os resultados do ensaio NCT02821507 para avaliar a contribuição do sirolimo
 - Reunir dados de mecanismo de ação e de advertências e contraindicações da bula
 - Planejar estudos que testem o sirolimo diretamente em lipossarcoma, com plano de monitoramento de segurança e de interações medicamentosas
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Fyarro (sirolimus) prescribing information, Aadi Bioscience, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0f9bb784-53e2-46f9-a65d-1c6c2a230eaf) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

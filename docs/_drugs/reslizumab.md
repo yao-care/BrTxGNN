@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Reslizumabe é um anticorpo monoclonal anti-IL-5, que reduz os sinais de sobrevivência e ativação dos eosinófilos. Atualmente, não há dados detalhados sobre o mecanismo de ação compilados para este relatório; a descrição acima baseia-se em conhecimento geral sobre a classe do fármaco.
+Reslizumabe é um anticorpo monoclonal anti-IL-5, que reduz os sinais de sobrevivência e ativação dos eosinófilos. Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Reslizumab (tradução não oficial): “O reslizumabe é um antagonista da interleucina-5 (IgG4, kappa). A IL-5 é a principal citocina responsável pelo crescimento e diferenciação, recrutamento, ativação e sobrevivência dos eosinófilos. O reslizumabe liga-se à IL-5 com uma constante de dissociação de 81 pM, inibindo a bioatividade da IL-5 ao bloquear sua ligação à cadeia alfa do complexo receptor de IL-5 expresso na superfície dos eosinófilos.” Texto original em inglês: "Reslizumab is an interleukin-5 antagonist (IgG4, kappa). IL-5 is the major cytokine responsible for the growth and differentiation, recruitment, activation, and survival of eosinophils. Reslizumab binds to IL-5 with a dissociation constant of 81 pM, inhibiting the bioactivity of IL-5 by blocking its binding to the alpha chain of the IL-5 receptor complex expressed on the eosinophil surface." ([DailyMed: Cinqair (reslizumab) prescribing information, Teva Respiratory, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=053b9158-2a5b-48b9-bf47-5fa78a35ec33), versão de 2020-02-29; acessado em 2026-11-19).
 
 A relação com a trombocitopenia imune é, por ora, apenas uma previsão do modelo (pontuação de 0,9953). Os dados compilados não sustentam um papel estabelecido do bloqueio de IL-5 na destruição plaquetária mediada por mecanismos imunes. A indicação original (asma, doença com componente eosinofílico) e a nova indicação (doença autoimune hematológica) são distintas, e a similaridade entre elas ainda não foi avaliada.
 
@@ -106,12 +106,13 @@ Consulte a bula para informações de segurança.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, o único registro brasileiro está cancelado e faltam dados de mecanismo e de segurança” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “dado que o registro no Brasil está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Cinqair (reslizumab) prescribing information, Teva Respiratory, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=053b9158-2a5b-48b9-bf47-5fa78a35ec33) |
 
 <!-- review:end log -->
 

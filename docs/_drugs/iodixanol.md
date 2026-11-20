@@ -54,7 +54,7 @@ Iodixanol é um meio de contraste radiográfico iodado, iso-osmolar, usado em ex
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação do iodixanol. Segundo informações conhecidas, ele é um contraste iodado iso-osmolar, usado para visualizar estruturas em exames de imagem, e não possui ação modificadora de doença conhecida.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Iodixanol (tradução não oficial): “A injeção intravascular de iodixanol opacifica os vasos no trajeto do fluxo do agente de contraste, permitindo a visualização de estruturas internas. Na obtenção de imagens do corpo, os agentes de contraste iodados difundem-se do espaço vascular para o espaço extravascular.” Texto original em inglês: "Intravascular injection of iodixanol opacifies vessels in the path of flow of the contrast agent, permitting visualization of internal structures. In imaging of the body, iodinated contrast agents diffuse from the vascular into the extravascular space." ([DailyMed: Visipaque (iodixanol) prescribing information, GE Healthcare Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d964c13-88ad-43be-88d4-a3a7ea4d5b5e), versão de 2026-10-16; acessado em 2026-11-19). Segundo informações conhecidas, ele é um contraste iodado iso-osmolar, usado para visualizar estruturas em exames de imagem, e não possui ação modificadora de doença conhecida.
 
 A literatura recuperada trata do iodixanol como agente diagnóstico: tomografia computadorizada com contraste da cartilagem, difusão de nanopartículas e de solutos pela cartilagem e pela interface osteocondral, e um estudo in vitro sobre plasma rico em plaquetas. Nada disso demonstra efeito terapêutico na osteoartrite.
 
@@ -111,6 +111,19 @@ Para advertências e contraindicações, consulte a bula.
 - Advertências e contraindicações da bula na ANVISA, para a triagem de segurança
 - Avaliação de via de administração compatível (por exemplo, intra-articular), hoje não definida
 - Dados de indicação aprovada nos registros brasileiros, que não constam nas informações compiladas
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Visipaque (iodixanol) prescribing information, GE Healthcare Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d964c13-88ad-43be-88d4-a3a7ea4d5b5e) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

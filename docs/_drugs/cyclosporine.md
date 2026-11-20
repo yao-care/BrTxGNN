@@ -59,7 +59,7 @@ O modelo TxGNN prevê que pode ser eficaz para **doença granulomatosa crônica 
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a ciclosporina é um inibidor de calcineurina com atividade imunossupressora, usada em transplantes e em doenças inflamatórias, e, na forma oftálmica, na doença do olho seco.
+Segundo a seção “Clinical Pharmacology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Cyclosporine (tradução não oficial): “A ciclosporina é um potente agente imunossupressor que, em animais, prolonga a sobrevida de transplantes alogênicos de pele, rim, fígado, coração, pâncreas, medula óssea, intestino delgado e pulmão. Foi demonstrado que a ciclosporina suprime parte da imunidade humoral e, em maior grau, reações imunes mediadas por células, como rejeição de aloenxerto, hipersensibilidade tardia, encefalomielite alérgica experimental, artrite induzida por adjuvante de Freund e doença do enxerto contra o hospedeiro, em muitas espécies animais e para uma variedade de órgãos.” Texto original em inglês: "Cyclosporine is a potent immunosuppressive agent that in animals prolongs survival of allogeneic transplants involving skin, kidney, liver, heart, pancreas, bone marrow, small intestine, and lung. Cyclosporine has been demonstrated to suppress some humoral immunity and to a greater extent, cell-mediated immune reactions such as allograft rejection, delayed hypersensitivity, experimental allergic encephalomyelitis, Freund’s adjuvant arthritis, and graft versus host disease in many animal species for a variety of organs." ([DailyMed: Cyclosporine, Modfied (cyclosporine) prescribing information, Apotex Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5baaf78c-90f6-abcf-52c8-814490f3cf9f), versão de 2026-09-10; acessado em 2026-11-19). Segundo informações conhecidas, a ciclosporina é um inibidor de calcineurina com atividade imunossupressora, usada em transplantes e em doenças inflamatórias, e, na forma oftálmica, na doença do olho seco.
 
 A doença granulomatosa crônica (DGC) é uma imunodeficiência primária, causada por defeito na explosão oxidativa dos fagócitos, que leva a infecções recorrentes e a inflamação granulomatosa. O único artigo recuperado trata dos resultados do transplante de células-tronco hematopoéticas (TCTH) de doador irmão ou não aparentado na DGC. Nesse contexto, inibidores de calcineurina podem ser usados para profilaxia da doença do enxerto contra o hospedeiro (DECH).
 
@@ -146,11 +146,12 @@ Atualmente não há ensaios clínicos relacionados registrados para esta indica�
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “já que não há registro válido” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Cyclosporine, Modfied (cyclosporine) prescribing information, Apotex Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5baaf78c-90f6-abcf-52c8-814490f3cf9f) |
 
 <!-- review:end log -->
 

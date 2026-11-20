@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o diclofenaco pertence à classe dos AINEs e atua reduzindo a síntese de prostaglandinas por meio da inibição da COX, o que diminui inflamação e dor.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Diclofenac (tradução não oficial): “O diclofenaco tem propriedades analgésicas, anti-inflamatórias e antipiréticas. O mecanismo de ação do diclofenaco, assim como o de outros AINEs, não é completamente compreendido, mas envolve a inibição da ciclo-oxigenase (COX-1 e COX-2).” Texto original em inglês: "Diclofenac has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of diclofenac, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)." ([DailyMed: Diclofenac Sodium Delayed Release (diclofenac sodium) prescribing information, Preferred Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bc99e6af-7050-4653-a681-5b252305a970), versão de 2026-09-24; acessado em 2026-11-19). Segundo informações conhecidas, o diclofenaco pertence à classe dos AINEs e atua reduzindo a síntese de prostaglandinas por meio da inibição da COX, o que diminui inflamação e dor.
 
 A hipotricose simples é um distúrbio genético raro do cabelo, associado a variantes em genes como CDSN e APCDD1. Sua origem é um defeito de desenvolvimento do folículo piloso, e não um processo inflamatório mediado por prostaglandinas. Por isso, a análise de plausibilidade não encontra uma ligação mecanística clara com a inibição da COX.
 
@@ -97,11 +97,12 @@ Os dados de advertências e contraindicações da bula não estão disponíveis 
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Segundo os dados de registro compilados, o diclofenaco consta como **comercializado** no Brasil, com 6 registros válidos e 14 cancelados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Diclofenac Sodium Delayed Release (diclofenac sodium) prescribing information, Preferred Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bc99e6af-7050-4653-a681-5b252305a970) |
 
 <!-- review:end log -->
 

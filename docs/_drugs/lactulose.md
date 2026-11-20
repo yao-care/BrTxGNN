@@ -56,7 +56,7 @@ mas **não há ensaios clínicos nem publicações** apoiando esta direção esp
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Sabe-se que a lactulose é um laxante osmótico que acidifica o cólon e reduz a absorção de amônia.
+Segundo a seção “Clinical Pharmacology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Lactulose (tradução não oficial): “A lactulose causa diminuição da concentração sanguínea de amônia e reduz o grau de encefalopatia portossistêmica. Considera-se que essas ações resultem do seguinte: a degradação bacteriana da lactulose no cólon acidifica o conteúdo colônico.” Texto original em inglês: "Lactulose causes a decrease in blood ammonia concentration and reduces the degree of portalsystemic encephalopathy. These actions are considered to be results of the following: Bacterial degradation of lactulose in the colon acidifies the colonic contents." ([DailyMed: Enulose (lactulose) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fa3aae7c-6f98-4fbb-85dc-32affe9874d5), versão de 2024-12-18; acessado em 2026-11-19). Sabe-se que a lactulose é um laxante osmótico que acidifica o cólon e reduz a absorção de amônia.
 
 Não há mecanismo plausível evidente que ligue esses efeitos ao manejo do ácido úrico ou à precipitação tubular de urato. A pontuação alta (0,9989) reflete apenas a previsão computacional do modelo e não é sustentada por dados clínicos ou de literatura. Por isso, a previsão deve ser tratada com cautela, como hipótese a ser investigada.
 
@@ -101,11 +101,12 @@ Para advertências e contraindicações, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Os dados compilados indicam situação de comercialização "Comercializado", com 6 registros válidos e 13 cancelados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Enulose (lactulose) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fa3aae7c-6f98-4fbb-85dc-32affe9874d5) |
 
 <!-- review:end log -->
 

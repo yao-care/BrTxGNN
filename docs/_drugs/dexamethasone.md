@@ -54,7 +54,7 @@ Dexametasona é um glicocorticoide com ampla utilização clínica. O modelo TxG
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a dexametasona pertence à classe dos glicocorticoides, que atuam reduzindo a inflamação e modulando a resposta imune.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Dexamethasone (tradução não oficial): “A dexametasona é um corticosteroide com efeitos anti-inflamatórios e baixa atividade mineralocorticoide. O mecanismo de ação preciso no mieloma múltiplo é desconhecido. A dexametasona induz a apoptose das células do mieloma múltiplo.” Texto original em inglês: "Dexamethasone is a corticosteroid with anti-inflammatory effects and low mineralocorticoid activity. The precise mechanism of action in multiple myeloma is unknown. Dexamethasone induces apoptosis of multiple myeloma cells." ([DailyMed: Hemady (dexamethasone) prescribing information, Edenbridge Pharmaceuticals LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6b9cf32c-6d60-4853-bbfd-2304ffc2c129), versão de 2026-01-09; acessado em 2026-11-19). Segundo informações conhecidas, a dexametasona pertence à classe dos glicocorticoides, que atuam reduzindo a inflamação e modulando a resposta imune.
 
 A mucinose folicular (alopecia mucinosa) envolve infiltrado inflamatório e depósito de mucina nos folículos pilosos. Por isso, um fármaco anti-inflamatório como um glicocorticoide é mecanisticamente plausível. Essa plausibilidade, porém, é apenas teórica: não há ensaios nem literatura nos dados compilados que a confirmem, e a pontuação elevada do modelo representa somente uma previsão.
 
@@ -140,12 +140,13 @@ Para advertências e contraindicações, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-13 | Registros válidos: 85 → 83; cancelados: 178 → 180 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-13 | Tabela: o registro 100431384 (KOIDEXA) está inativo | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Hemady (dexamethasone) prescribing information, Edenbridge Pharmaceuticals LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6b9cf32c-6d60-4853-bbfd-2304ffc2c129) |
 
 <!-- review:end log -->
 

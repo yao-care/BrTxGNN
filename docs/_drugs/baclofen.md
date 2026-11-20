@@ -63,7 +63,7 @@ O modelo TxGNN prevê que pode ser eficaz para o **transtorno de déficit de ate
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, o baclofeno é um agonista do receptor GABA-B, usado como relaxante muscular e antiespástico, e mecanisticamente poderia modular a excitabilidade cortical e estriatal.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Baclofen (tradução não oficial): “O mecanismo de ação exato do baclofeno não é totalmente compreendido. O baclofeno inibe os reflexos monossinápticos e polissinápticos no nível espinhal, possivelmente por diminuir a liberação de neurotransmissores excitatórios a partir dos terminais aferentes, embora também possam ocorrer ações em locais supraespinhais que contribuam para seu efeito clínico.” Texto original em inglês: "The precise mechanism of action of baclofen is not fully understood. Baclofen inhibits both monosynaptic and polysynaptic reflexes at the spinal level, possibly by decreasing excitatory neurotransmitter release from afferent terminals, although actions at supraspinal sites may also occur and contribute to its clinical effect." ([DailyMed: Lyvispah (baclofen) prescribing information, Anvi Pharmaceuticals Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5b13c40d-a109-f838-e063-6294a90aecf2), versão de 2026-09-22; acessado em 2026-11-19). Segundo informações conhecidas, o baclofeno é um agonista do receptor GABA-B, usado como relaxante muscular e antiespástico, e mecanisticamente poderia modular a excitabilidade cortical e estriatal.
 
 A relação com o TDAH é indireta. A literatura recuperada trata principalmente do tratamento de tiques na síndrome de Tourette (frequentemente associada ao TDAH) e de estudos em roedores sobre impulsividade e função do hipocampo, da habênula e do córtex cingulado. Nenhum estudo testou o baclofeno em pacientes com TDAH.
 
@@ -125,12 +125,13 @@ Consulte a bula para as advertências e contraindicações oficiais, que não es
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “O medicamento é comercializado neste país, com 4 de 7 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “O baclofeno não tem registro ativo no Brasil, e as contraindicações do grafo de conhecimento incluem transtornos psiquiátricos, o que exige ” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Lyvispah (baclofen) prescribing information, Anvi Pharmaceuticals Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5b13c40d-a109-f838-e063-6294a90aecf2) |
 
 <!-- review:end log -->
 

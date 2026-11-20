@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o cetoprofeno é um AINE que inibe as enzimas COX-1 e COX-2, reduzindo a síntese de prostaglandinas, e sua ação anti-inflamatória e antirreumática é bem estabelecida.
+Segundo a seção “Clinical Pharmacology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Ketoprofen (tradução não oficial): “Em modelos anti-inflamatórios, demonstrou-se que o cetoprofeno tem efeitos inibitórios sobre a síntese de prostaglandinas e leucotrienos, atividade antibradicinina, bem como ação estabilizadora da membrana lisossômica. Entretanto, seu modo de ação, assim como o de outros anti-inflamatórios não esteroides, não é totalmente compreendido.” Texto original em inglês: "In anti-inflammatory models ketoprofen has been shown to have inhibitory effects on prostaglandin and leukotriene synthesis, to have antibradykinin activity, as well as to have lysosomal membrane-stabilizing action. However, its mode of action, like that of other non-steroidal anti-inflammatory drugs, is not fully understood." ([DailyMed: Orudis (ketoprofen) prescribing information, Allegis Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=47d0b808-7142-c7a9-e063-6394a90a6e0d), versão de 2026-01-07; acessado em 2026-11-19). Segundo informações conhecidas, o cetoprofeno é um AINE que inibe as enzimas COX-1 e COX-2, reduzindo a síntese de prostaglandinas, e sua ação anti-inflamatória e antirreumática é bem estabelecida.
 
 A displasia acromesomélica tipo Hunter-Thompson é um distúrbio esquelético raro, causado por mutações de perda de função em CDMP1/GDF5, que afetam a formação da cartilagem (condrogênese). A inibição da COX não atua sobre esse defeito de base, e **não há vínculo mecanístico estabelecido** entre o fármaco e a doença.
 
@@ -158,13 +158,14 @@ As advertências e contraindicações da bula não estavam disponíveis nos dado
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-12 | Removido: “O medicamento está comercializado, com 20 registros válidos” | Corrigido (revisado em 2026-11-12; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Além disso, o medicamento está comercializado no Brasil, com 20 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “pois não há registro vigente no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Orudis (ketoprofen) prescribing information, Allegis Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=47d0b808-7142-c7a9-e063-6394a90a6e0d) |
 
 <!-- review:end log -->
 

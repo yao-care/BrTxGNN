@@ -56,7 +56,7 @@ Nos dados compilados para este relatório há **0 ensaios clínicos registrados*
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Pela literatura recuperada, o diazepam é um modulador alostérico positivo do receptor GABA-A. Ele aumenta a inibição neuronal, o que produz efeitos sedativos e hipnóticos.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Diazepam (tradução não oficial): “Acredita-se que o mecanismo de ação do diazepam para as indicações listadas envolva a potencialização do ácido gama-aminobutírico (GABA), um neurotransmissor inibitório, resultante da ligação ao sítio benzodiazepínico do receptor GABA A.” Texto original em inglês: "The mechanism of action of diazepam for the listed indications is thought to involve potentiation of gamma aminobutyric acid (GABA), an inhibitory neurotransmitter, resulting from binding at the benzodiazepine site of the GABA A receptor." ([DailyMed: Valium (diazepam) prescribing information, Waylis Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=260e2041-2bb3-482f-850e-b5d47a7bdbe6), versão de 2026-10-06; acessado em 2026-11-19). Pela literatura recuperada, o diazepam é um modulador alostérico positivo do receptor GABA-A. Ele aumenta a inibição neuronal, o que produz efeitos sedativos e hipnóticos.
 
 Esse mecanismo é biologicamente coerente com o tratamento da insônia. Os benzodiazepínicos como classe são usados há décadas para reduzir o tempo para adormecer e favorecer a manutenção do sono.
 
@@ -106,6 +106,18 @@ Consulte a bula para advertências e contraindicações formais.
 - Dados detalhados do mecanismo de ação e das advertências e contraindicações da bula.
 - Plano de mitigação de riscos de dependência, sedação e quedas, sobretudo em idosos.
 - Detalhamento dos registros válidos no Brasil, com formas farmacêuticas e indicações aprovadas.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Valium (diazepam) prescribing information, Waylis Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=260e2041-2bb3-482f-850e-b5d47a7bdbe6) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

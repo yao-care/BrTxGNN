@@ -56,7 +56,7 @@ atualmente com **0 ensaios clínicos registrados** e **12 publicações** (estud
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação no conjunto de dados compilado. Segundo informações conhecidas, a micafungina é uma equinocandina que inibe a enzima 1,3-beta-D-glucana sintase, essencial para a construção da parede celular dos fungos, e tem atividade contra espécies de *Candida*.
+Segundo as seções “Mechanism of Action” e “Microbiology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Micafungin (tradução não oficial): “A micafungina é um membro da classe das equinocandinas de agentes antifúngicos. […] A micafungina inibe a síntese de 1,3-beta-D-glucana, um componente essencial das paredes celulares fúngicas, que não está presente em células de mamíferos. Atividade em modelos animais de candidíase A atividade da micafungina foi demonstrada em modelos murinos e de coelhos de candidíase tanto mucosa quanto disseminada.” Texto original em inglês: "Micafungin is a member of the echinocandin class of antifungal agents. […] Micafungin inhibits the synthesis of 1,3-beta-D-glucan, an essential component of fungal cell walls, which is not present in mammalian cells. Activity in Animal Models of Candidiasis Activity of micafungin has been demonstrated in both mucosal and disseminated murine and rabbit models of candidiasis." ([DailyMed: Micafungin (micafungin sodium) prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=33e579c1-b315-44cb-a690-e2dd2cdf44ee), versão de 2025-11-08; acessado em 2026-11-19). Segundo informações conhecidas, a micafungina é uma equinocandina que inibe a enzima 1,3-beta-D-glucana sintase, essencial para a construção da parede celular dos fungos, e tem atividade contra espécies de *Candida*.
 
 As espécies de *Candida* são a principal causa fúngica de infecção urinária (candidúria). Assim, usar um antifúngico ativo contra *Candida* nesse contexto é uma extensão biologicamente plausível da indicação original, o que é coerente com a pontuação elevada do TxGNN (0,9903).
 
@@ -152,7 +152,7 @@ Há plausibilidade biológica e evidência clínica consistente, porém limitada
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
@@ -161,6 +161,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | 2026-11-12 | Tabela: registro 155370119 (MICAFUNGINA SÓDICA) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Tabela: registro 155370126 (MYCAFREM) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Tabela: registro 156510131 (MICAFUNGINA SÓDICA) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Micafungin (micafungin sodium) prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=33e579c1-b315-44cb-a690-e2dd2cdf44ee) |
 
 <!-- review:end log -->
 

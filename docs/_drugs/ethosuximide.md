@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a etosuximida é geralmente descrita como bloqueadora de canais de cálcio do tipo T em neurônios talâmicos, o que explica seu uso em crises anticonvulsivantes (em especial crises de ausência).
+Segundo a seção “Clinical Pharmacology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Ethosuximide (tradução não oficial): “A etossuximida suprime a atividade de ponta-onda paroxística de três ciclos por segundo associada a lapsos de consciência, que é comum nas crises de ausência (pequeno mal). A frequência dos ataques epileptiformes é reduzida, aparentemente pela depressão do córtex motor e pela elevação do limiar do sistema nervoso central a estímulos convulsivos.” Texto original em inglês: "Ethosuximide suppresses the paroxysmal three cycle per second spike and wave activity associated with lapses of consciousness which is common in absence (petit mal) seizures. The frequency of epileptiform attacks is reduced, apparently by depression of the motor cortex and elevation of the threshold of the central nervous system to convulsive stimuli." ([DailyMed: Zarontin (ethosuximide) prescribing information, Parke-Davis Div of Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0e008f33-70a1-4bc6-b3a0-d45214418ab6), versão de 2026-05-25; acessado em 2026-11-19). Segundo informações conhecidas, a etosuximida é geralmente descrita como bloqueadora de canais de cálcio do tipo T em neurônios talâmicos, o que explica seu uso em crises anticonvulsivantes (em especial crises de ausência).
 
 A NSIAD é causada por mutações de ganho de função no receptor V2 da vasopressina (AVPR2), que levam à ativação constitutiva do receptor e à retenção de água independentemente da vasopressina. Não há, nos dados disponíveis, nenhuma ligação farmacológica plausível entre o bloqueio de canais de cálcio do tipo T e a hiperatividade do receptor V2.
 
@@ -110,12 +110,13 @@ A previsão tem apenas a pontuação do modelo como suporte (nível L5), sem ens
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, o único registro no Brasil está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “dado que o registro no Brasil está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Zarontin (ethosuximide) prescribing information, Parke-Davis Div of Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0e008f33-70a1-4bc6-b3a0-d45214418ab6) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **acne (acne (disease))**, mas as
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação no conjunto de dados compilado. Segundo informações conhecidas, a acitretina é um retinoide oral de segunda geração que modula a diferenciação e a proliferação dos queratinócitos, reduz a hiperqueratinização folicular e tem efeito anti-inflamatório.
+Segundo a seção “Clinical Pharmacology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Acitretin (tradução não oficial): “O mecanismo de ação da acitretina é desconhecido.” Texto original em inglês: "The mechanism of action of acitretin is unknown." ([DailyMed: acitretin prescribing information, AvKARE](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6af396c2-af3e-436d-ba9a-583637495910), versão de 2026-10-20; acessado em 2026-11-19). Segundo informações conhecidas, a acitretina é um retinoide oral de segunda geração que modula a diferenciação e a proliferação dos queratinócitos, reduz a hiperqueratinização folicular e tem efeito anti-inflamatório.
 
 A indicação original (distúrbios de queratinização) e a acne compartilham o componente de hiperqueratinização do folículo pilossebáceo. Por isso, a ação do fármaco é biologicamente plausível na acne e em doenças de oclusão folicular, como a hidradenite supurativa (acne inversa).
 
@@ -133,12 +133,13 @@ Os dados de bula da ANVISA não estavam disponíveis nos dados compilados; consu
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “e os dois registros brasileiros estão cancelados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “já que não há registro válido no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: acitretin prescribing information, AvKARE](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6af396c2-af3e-436d-ba9a-583637495910) |
 
 <!-- review:end log -->
 

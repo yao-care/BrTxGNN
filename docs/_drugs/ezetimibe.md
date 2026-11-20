@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **deficiência da proteína de tr
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo conhecimento geral, a ezetimiba inibe a absorção intestinal de colesterol por meio da proteína NPC1L1, reduzindo o LDL-colesterol. Sua eficácia como antilipêmico consta nos registros da ANVISA.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Ezetimibe (tradução não oficial): “A ezetimiba reduz o colesterol sanguíneo inibindo a absorção do colesterol pelo intestino delgado. Demonstrou-se que o alvo molecular da ezetimiba é o transportador de esteróis Niemann-Pick C1-Like 1 (NPC1L1), que está envolvido na captação intestinal de colesterol e fitoesteróis.” Texto original em inglês: "Ezetimibe reduces blood cholesterol by inhibiting the absorption of cholesterol by the small intestine. The molecular target of ezetimibe has been shown to be the sterol transporter, Niemann-Pick C1-Like 1 (NPC1L1), which is involved in the intestinal uptake of cholesterol and phytosterols." ([DailyMed: ezetimibe prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c37c695b-fb40-423c-9b73-d1aa58a34db9), versão de 2026-10-08; acessado em 2026-11-19). Segundo conhecimento geral, a ezetimiba inibe a absorção intestinal de colesterol por meio da proteína NPC1L1, reduzindo o LDL-colesterol. Sua eficácia como antilipêmico consta nos registros da ANVISA.
 
 A deficiência de CETP é uma condição genética caracterizada por HDL-colesterol elevado e metabolismo lipoproteico alterado. Existe um vínculo plausível por vias comuns do metabolismo lipídico, mas não há mecanismo direto nem justificativa clínica que mostre que a ezetimiba trate essa condição. Além disso, a deficiência de CETP costuma ser um fenótipo lipídico benigno ou até favorável, e não é reconhecida como condição que exija terapia de redução de LDL.
 
@@ -130,6 +130,19 @@ Não há ensaio clínico nem estudo que avalie diretamente a deficiência de CET
 - Dados do mecanismo de ação e análise mecanística específica para esta doença
 - Estudos pré-clínicos ou observacionais que avaliem diretamente a ezetimiba nesta condição
 - Advertências e contraindicações extraídas das bulas da ANVISA, ainda não disponíveis nos dados compilados
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: ezetimibe prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c37c695b-fb40-423c-9b73-d1aa58a34db9) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

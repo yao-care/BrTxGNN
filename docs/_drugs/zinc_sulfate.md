@@ -55,7 +55,7 @@ O modelo TxGNN prevê que ele possa ser útil para **Faringite (pharyngitis)**, 
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação do sulfato de zinco. O zinco é um mineral com papel conhecido na reparação do epitélio, na resposta imune local e na função sensorial, como o paladar.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Zinc Sulfate (tradução não oficial): “O zinco é um oligoelemento essencial. O zinco atua como cofator de várias enzimas, incluindo DNA polimerases, RNA polimerases, álcool desidrogenase e fosfatases alcalinas. O zinco é um coordenador do dobramento estrutural de proteínas, como o dobramento do motivo “dedo de zinco”, que interage com uma variedade de proteínas, lipídios e ácidos nucleicos.” Texto original em inglês: "Zinc is an essential trace element. Zinc functions as a cofactor of various enzymes including DNA polymerases, RNA polymerases, alcohol dehydrogenase, and alkaline phosphatases. Zinc is a coordinator of protein structural folding, such as folding of “Zinc finger” motif that interacts with a variety of proteins, lipids, and nucleic acids." ([DailyMed: zinc sulfate prescribing information, Camber Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49698d00-f44b-4b1f-ae34-6b9067911757), versão de 2026-03-04; acessado em 2026-11-19). O zinco é um mineral com papel conhecido na reparação do epitélio, na resposta imune local e na função sensorial, como o paladar.
 
 Esses efeitos tornam plausível, em teoria, um benefício em irritação e dor de garganta. Mesmo assim, o vínculo é indireto: os estudos disponíveis tratam de dor de garganta após intubação e de mucosite por radioterapia, não de faringite em geral.
 
@@ -111,11 +111,12 @@ Para advertências e contraindicações, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-10-31 | Removido: “(registros cancelados)” | Não aparece mais após a regeneração do relatório (2026-11-12: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: zinc sulfate prescribing information, Camber Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49698d00-f44b-4b1f-ae34-6b9067911757) |
 
 <!-- review:end log -->
 

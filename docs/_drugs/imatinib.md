@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **fibrossarcoma cardíaco (heart 
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas e a literatura citada, o imatinibe inibe as quinases PDGFR, KIT e ABL.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Imatinib (tradução não oficial): “O mesilato de imatinibe é um inibidor da proteína tirosina quinase que inibe a tirosina quinase BCR-ABL, a tirosina quinase anormal constitutiva criada pela anomalia do cromossomo Filadélfia na LMC. O imatinibe inibe a proliferação e induz a apoptose em linhagens celulares BCR-ABL positivas, bem como em células leucêmicas frescas de leucemia mieloide crônica com cromossomo Filadélfia positivo.” Texto original em inglês: "Imatinib mesylate is a protein-tyrosine kinase inhibitor that inhibits the BCR-ABL tyrosine kinase, the constitutive abnormal tyrosine kinase created by the Philadelphia chromosome abnormality in CML. Imatinib inhibits proliferation and induces apoptosis in BCR-ABL positive cell lines as well as fresh leukemic cells from Philadelphia chromosome positive chronic myeloid leukemia." ([DailyMed: Gleevec (imatinib mesylate) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=211ef2da-2868-4a77-8055-1cb2cd78e24b), versão de 2026-07-13; acessado em 2026-11-19). Segundo informações conhecidas e a literatura citada, o imatinibe inibe as quinases PDGFR, KIT e ABL.
 
 Alguns tumores do tipo fibrossarcoma podem ser dependentes de PDGFB, como ocorre na fusão COL1A1-PDGFB do dermatofibrossarcoma protuberans. Isso fornece uma ponte mecanística plausível, pois a inibição de PDGFR poderia, em teoria, atingir tumores com esse tipo de sinalização.
 
@@ -91,6 +91,19 @@ Para advertências e contraindicações, consulte a bula.
 - Relatos de casos, séries ou estudos pré-clínicos específicos de fibrossarcoma cardíaco.
 - Obtenção e análise da bula registrada na ANVISA (advertências e contraindicações).
 - Plano de monitoramento de segurança, considerando as interações de gravidade maior e a cardiotoxicidade em população com tumor cardíaco.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Gleevec (imatinib mesylate) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=211ef2da-2868-4a77-8055-1cb2cd78e24b) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

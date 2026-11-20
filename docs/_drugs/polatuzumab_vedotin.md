@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada. Segundo informações conhecidas, o polatuzumabe vedotina é um ADC que tem como alvo o CD79b e entrega o agente desestabilizador de microtúbulos monometil auristatina E (MMAE). Seu uso aprovado é em neoplasias de células B, nas quais o CD79b é expresso.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Polatuzumab Vedotin (tradução não oficial): “O polatuzumabe vedotina-piiq é um conjugado anticorpo-fármaco direcionado ao CD79b com atividade contra células B em divisão. A pequena molécula, MMAE, é um agente antimitótico ligado covalentemente ao anticorpo por meio de um ligante clivável. O anticorpo monoclonal liga-se ao CD79b, uma proteína de superfície específica das células B, que é um componente do receptor de células B.” Texto original em inglês: "Polatuzumab vedotin-piiq is a CD79b-directed antibody-drug conjugate with activity against dividing B cells. The small molecule, MMAE, is an anti-mitotic agent covalently attached to the antibody via a cleavable linker. The monoclonal antibody binds to CD79b, a B-cell specific surface protein, which is a component of the B-cell receptor." ([DailyMed: Polivy (polatuzumab vedotin) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=20a16ab2-f338-4abb-9dcd-254bd949a2bc), versão de 2026-08-24; acessado em 2026-11-19). Segundo informações conhecidas, o polatuzumabe vedotina é um ADC que tem como alvo o CD79b e entrega o agente desestabilizador de microtúbulos monometil auristatina E (MMAE). Seu uso aprovado é em neoplasias de células B, nas quais o CD79b é expresso.
 
 A pontuação do TxGNN (0,9934) é uma previsão do modelo TxGNN (aprendizado profundo). Os dados compilados não sustentam um vínculo mecanístico direto com o carcinoma de mama HER2-positivo: o CD79b não é um alvo reconhecido em câncer de mama. O sinal do modelo pode refletir a semelhança de carga citotóxica (MMAE, compartilhada com outros ADCs, como brentuximabe vedotina e enfortumabe vedotina) ou de classe do fármaco, e não a biologia do alvo.
 
@@ -115,11 +115,12 @@ A previsão é sustentada apenas pelo modelo (L5), sem ensaios clínicos nem lit
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, o único registro no Brasil está cancelado e há alternativas já estabelecidas dirigidas ao HER2” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Polivy (polatuzumab vedotin) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=20a16ab2-f338-4abb-9dcd-254bd949a2bc) |
 
 <!-- review:end log -->
 

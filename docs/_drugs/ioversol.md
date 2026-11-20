@@ -59,7 +59,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Osteoartrite (osteoarthritis)**
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação do ioversol nos dados compilados para este relatório. Segundo informações conhecidas, trata-se de um meio de contraste iodado, usado para visualização de estruturas em exames de imagem, sem atividade farmacológica anti-artrítica conhecida.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Ioversol (tradução não oficial): “A injeção intravascular de ioversol opacifica os vasos no trajeto do fluxo do meio de contraste, permitindo a visualização radiográfica das estruturas internas até que ocorra hemodiluição significativa. O ioversol pode ser visualizado no parênquima renal dentro de 30 a 60 segundos após a injeção intravenosa rápida.” Texto original em inglês: "Intravascular injection of ioversol opacifies those vessels in the path of the flow of the contrast medium, permitting radiographic visualization of the internal structures until significant hemodilution occurs. Ioversol may be visualized in the renal parenchyma within 30 to 60 seconds following rapid intravenous injection." ([DailyMed: Optiray 320 (ioversol) prescribing information, Liebel-Flarsheim Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6cb6ca5f-b249-49b0-a9eb-8aa583da7c74), versão de 2025-12-29; acessado em 2026-11-19). Segundo informações conhecidas, trata-se de um meio de contraste iodado, usado para visualização de estruturas em exames de imagem, sem atividade farmacológica anti-artrítica conhecida.
 
 A única publicação associada (estudo LipioJoint-1, 2024) avaliou a embolização transitória das artérias genicualres em osteoartrite de joelho usando uma emulsão de óleo etiodado (Lipiodol), outro agente iodado. O efeito terapêutico vem do procedimento de embolização, não do ioversol. O ioversol poderia, no máximo, ser usado de forma incidental como contraste para guiar a angiografia, o que não constitui sinal de reposicionamento.
 
@@ -119,6 +119,19 @@ Consulte a bula para as demais informações de segurança, pois advertências e
 - Obter e analisar a bula na ANVISA (advertências, contraindicações e indicações aprovadas), hoje uma lacuna bloqueante para a triagem de segurança.
 - Obter dados de mecanismo de ação no DrugBank.
 - Confirmar, com revisão da literatura, se existe algum estudo que avalie o próprio ioversol na osteoartrite; caso contrário, considerar que a pontuação do modelo TxGNN pode refletir apenas similaridades aprendidas entre doenças relacionadas, e não evidência biológica, e não investir em desenvolvimento.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Optiray 320 (ioversol) prescribing information, Liebel-Flarsheim Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6cb6ca5f-b249-49b0-a9eb-8aa583da7c74) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

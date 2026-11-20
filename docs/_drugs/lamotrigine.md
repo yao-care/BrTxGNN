@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **neoplasia do nervo trigêmeo (t
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a lamotrigina bloqueia canais de sódio dependentes de voltagem e inibe a liberação de glutamato, o que explica sua ação anticonvulsivante.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Lamotrigine (tradução não oficial): “O(s) mecanismo(s) preciso(s) pelo(s) qual(is) a lamotrigina exerce sua ação anticonvulsivante é(são) desconhecido(s). Em modelos animais desenvolvidos para detectar atividade anticonvulsivante, a lamotrigina foi eficaz na prevenção da propagação das crises nos testes de eletrochoque máximo (MES) e de pentilenotetrazol (scMet), e preveniu crises nos testes de pós-descarga evocada visual e eletricamente (EEAD) para atividade antiepiléptica.” Texto original em inglês: "The precise mechanism(s) by which lamotrigine exerts its anticonvulsant action are unknown. In animal models designed to detect anticonvulsant activity, lamotrigine was effective in preventing seizure spread in the maximum electroshock (MES) and pentylenetetrazol (scMet) tests, and prevented seizures in the visually and electrically evoked after-discharge (EEAD) tests for antiepileptic activity." ([DailyMed: Lamotrigine Kit (lamotrigine) prescribing information, OWP Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=474fb321-575c-4b97-9dbe-080061652ee4), versão de 2026-10-12; acessado em 2026-11-19). Segundo informações conhecidas, a lamotrigina bloqueia canais de sódio dependentes de voltagem e inibe a liberação de glutamato, o que explica sua ação anticonvulsivante.
 
 A pontuação alta provavelmente reflete a proximidade do fármaco com a neuralgia do trigêmeo, condição em que antiepilépticos de bloqueio de canais de sódio são usados. As duas publicações recuperadas (uma revisão geral e um relato de caso de radiocirurgia Gamma Knife para neuralgia causada por malformação cavernosa) tratam de neuralgia, e não do tratamento de neoplasia.
 
@@ -129,6 +129,19 @@ Para advertências e contraindicações, consulte a bula.
 - Dados detalhados do mecanismo de ação
 - Advertências e contraindicações extraídas das bulas da ANVISA
 - Definição clara do objetivo terapêutico (tratamento do tumor versus controle da dor neuropática)
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Lamotrigine Kit (lamotrigine) prescribing information, OWP Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=474fb321-575c-4b97-9dbe-080061652ee4) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

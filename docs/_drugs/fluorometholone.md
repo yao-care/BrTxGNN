@@ -60,7 +60,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação compilados para este relatório. Segundo informações conhecidas, a fluorometolona é um corticosteroide sintético que atua sobre o receptor de glicocorticoides (NR3C1), com atividade anti-inflamatória e imunossupressora. Seu uso clínico estabelecido é o tratamento de conjuntivite inflamatória.
+Segundo a seção “Clinical Pharmacology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Fluorometholone (tradução não oficial): “Os corticosteroides inibem a resposta inflamatória a diversos agentes desencadeantes e provavelmente retardam ou tornam mais lenta a cicatrização. Eles inibem o edema, a deposição de fibrina, a dilatação capilar, a migração de leucócitos, a proliferação capilar, a proliferação de fibroblastos, a deposição de colágeno e a formação de cicatriz associados à inflamação. […] Em estudos clínicos com indivíduos comprovadamente responsivos a esteroides, a fluorometolona demonstrou um tempo médio significativamente maior para produzir elevação da pressão intraocular do que o fosfato de dexametasona; entretanto, em uma pequena porcentagem de indivíduos, ocorreu elevação significativa da pressão intraocular em até uma semana.” Texto original em inglês: "Corticosteroids inhibit the inflammatory response to a variety of inciting agents and probably delay or slow healing. They inhibit the edema, fibrin deposition, capillary dilation, leukocyte migration, capillary proliferation, fibroblast proliferation, deposition of collagen, and scar formation associated with inflammation. […] In clinical studies of documented steroid-responders, fluorometholone demonstrated a significantly longer average time to produce a rise in intraocular pressure than dexamethasone phosphate; however, in a small percentage of individuals, a significant rise in intraocular pressure occurred within one week." ([DailyMed: Fluorometholone Ophthalmic Suspension (fluorometholone) prescribing information, Amneal Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e7988a3b-e432-4d42-a8d2-63ca017e6a01), versão de 2026-08-12; acessado em 2026-11-19). Segundo informações conhecidas, a fluorometolona é um corticosteroide sintético que atua sobre o receptor de glicocorticoides (NR3C1), com atividade anti-inflamatória e imunossupressora. Seu uso clínico estabelecido é o tratamento de conjuntivite inflamatória.
 
 Corticosteroides são plausíveis em vasculites imunomediadas em geral. Porém, a fluorometolona é de uso tópico oftálmico, com exposição sistêmica mínima, o que torna **fraco** o vínculo com uma vasculite sistêmica. A pontuação alta do modelo (0,9991) não é acompanhada de nenhum ensaio ou publicação.
 
@@ -130,12 +130,13 @@ Para a indicação principal (vasculite pós-infecciosa), há apenas previsão d
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Não há registro válido atualmente, o que limita a viabilidade prática” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Além disso, o único registro no Brasil está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Fluorometholone Ophthalmic Suspension (fluorometholone) prescribing information, Amneal Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e7988a3b-e432-4d42-a8d2-63ca017e6a01) |
 
 <!-- review:end log -->
 

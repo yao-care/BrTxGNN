@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e apenas **1 publicação** indireta 
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o triexifenidil é um antagonista muscarínico de ação central, seletivo para o receptor M1, e sua utilização em sintomas parkinsonianos está bem estabelecida.
+Segundo a seção “Clinical Pharmacology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Trihexyphenidyl (tradução não oficial): “O Cloridrato de Triexifenidil é o sal de piperidina substituída, cloridrato de 3-(1-piperidil)- 1-fenilciclo-hexil-1-propanol, que exerce um efeito inibitório direto sobre o sistema nervoso parassimpático. Também tem um efeito relaxante sobre a musculatura lisa, exercido tanto diretamente sobre o próprio tecido muscular quanto indiretamente por meio de um efeito inibitório sobre o sistema nervoso parassimpático.” Texto original em inglês: "Trihexyphenidyl Hydrochloride is the substituted piperidine salt, 3-(1-piperidyl)- 1-phenylcyclohexyl-1-propanol hydrochloride, which exerts a direct inhibitory effect upon the parasympathetic nervous system. It also has a relaxing effect on smooth musculature; exerted both directly upon the muscle tissue itself and indirectly through an inhibitory effect upon the parasympathetic nervous system." ([DailyMed: trihexyphenidyl hydrochloride prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b60ef86c-b8b6-4530-baaf-d4671ce961af), versão de 2026-07-23; acessado em 2026-11-19). Segundo informações conhecidas, o triexifenidil é um antagonista muscarínico de ação central, seletivo para o receptor M1, e sua utilização em sintomas parkinsonianos está bem estabelecida.
 
 A hipótese por trás da previsão é que o desequilíbrio colinérgico-dopaminérgico no estriado pode estar relacionado à hiperatividade, a tiques e à distonia, que frequentemente coexistem com o TDAH. Essa é, porém, uma ligação indireta: o único artigo recuperado trata do transtorno primário de tiques associado à distonia, que é uma condição distinta do TDAH.
 
@@ -122,13 +122,14 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “e o único registro no Brasil está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “já que não há registro vigente no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Tabela: registro 101180604 (ARTANE) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: trihexyphenidyl hydrochloride prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b60ef86c-b8b6-4530-baaf-d4671ce961af) |
 
 <!-- review:end log -->
 

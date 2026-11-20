@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Sabe-se, pela farmacologia, que o clobetasol se liga ao receptor de glicocorticoide (NR3C1), e é usado para reduzir inflamação e coceira da pele em condições como reações alérgicas, eczema e psoríase.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Clobetasol Propionate (tradução não oficial): “Assim como outros corticosteroides tópicos, o propionato de clobetasol tem propriedades anti-inflamatórias, antipruriginosas e vasoconstritoras. O mecanismo da atividade anti-inflamatória dos esteroides tópicos, em geral, não é claro.” Texto original em inglês: "Like other topical corticosteroids, clobetasol propionate has anti-inflammatory, antipruritic, and vasoconstrictive properties. The mechanism of the anti-inflammatory activity of the topical steroids, in general, is unclear." ([DailyMed: Clobetasol Propionate (Emollient) (clobetasol propionate) prescribing information, The J. Molner Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=26ccb1d8-c466-e238-e063-6394a90a0069), versão de 2026-11-10; acessado em 2026-11-19). Sabe-se, pela farmacologia, que o clobetasol se liga ao receptor de glicocorticoide (NR3C1), e é usado para reduzir inflamação e coceira da pele em condições como reações alérgicas, eczema e psoríase.
 
 Mecanisticamente, os efeitos anti-inflamatórios e antiproliferativos de um corticosteroide potente poderiam, em teoria, atuar sobre uma lesão benigna queratinizante da vulva. Essa é, porém, uma hipótese plausível, não uma demonstração.
 
@@ -81,6 +81,19 @@ Consulte a bula para as advertências e contraindicações oficiais, que não es
 - Avaliação dclínica de dermatologia/ginecologia sobre a plausibilidade do uso tópico
 - Obtenção da bula completa (advertências e contraindicações) e dos dados de mecanismo de ação
 - Confirmação da situação dos registros no Brasil junto à ANVISA, pois a lista de registros pode ser parcial
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Clobetasol Propionate (Emollient) (clobetasol propionate) prescribing information, The J. Molner Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=26ccb1d8-c466-e238-e063-6394a90a0069) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

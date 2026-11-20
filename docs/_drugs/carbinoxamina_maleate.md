@@ -57,7 +57,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação registrados para este fármaco. Segundo informações conhecidas, a carbinoxamina é um antagonista do receptor H1 de primeira geração, com atividade anticolinérgica. Esse perfil farmacológico é típico da classe e não foi confirmado pelos dados compilados para este relatório.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Carbinoxamina Maleate (tradução não oficial): “O maleato de carbinoxamina, um derivado da etanolamina, é um anti-histamínico com propriedades anticolinérgicas (secativas) e sedativas. A carbinoxamina parece competir com a histamina (tipo H1) pelos sítios receptores nas células efetoras do trato gastrointestinal, dos vasos sanguíneos e do trato respiratório.” Texto original em inglês: "Carbinoxamine maleate, an ethanolamine derivative, is an antihistamine with anticholinergic (drying) and sedative properties. Carbinoxamine appears to compete with histamine (type H1) for receptor sites on effector cells in the gastrointestinal tract, blood vessels and respiratory tract." ([DailyMed: Carbzah (carbinoxamine maleate) prescribing information, IPG Pharmaceuticals, inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a845fc15-c675-4e33-840c-6a74e79d0ced), versão de 2026-10-05; acessado em 2026-11-19). Segundo informações conhecidas, a carbinoxamina é um antagonista do receptor H1 de primeira geração, com atividade anticolinérgica. Esse perfil farmacológico é típico da classe e não foi confirmado pelos dados compilados para este relatório.
 
 Do ponto de vista biológico, reduzir a rinorreia, os espirros e a congestão nasal mediados por histamina é plausível em doenças da cavidade nasal. Os produtos comercializados no Brasil com este princípio ativo já são voltados a sintomas respiratórios superiores, o que torna a direção coerente.
 
@@ -92,6 +92,19 @@ Consulte a bula para informações de segurança.
 - Definir de forma mais precisa a condição nasal-alvo e verificar se ela já coincide com usos conhecidos da classe.
 - Realizar busca ativa de ensaios clínicos e literatura sobre carbinoxamina em doenças da cavidade nasal.
 - Avaliar a compatibilidade da via de administração e a similaridade com o uso original.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Carbzah (carbinoxamine maleate) prescribing information, IPG Pharmaceuticals, inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a845fc15-c675-4e33-840c-6a74e79d0ced) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

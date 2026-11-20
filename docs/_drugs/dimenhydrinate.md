@@ -56,7 +56,7 @@ mas atualmente há **nenhum ensaio clínico** e apenas **1 publicação** (estud
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação do medicamento. Segundo informações conhecidas, o dimenidrinato é o sal da difenidramina (anti-histamínico H1 de primeira geração) com a 8-cloroteofilina. Sua eficácia como antiemético e antinauseante está estabelecida, e mecanisticamente pode ser aplicável à urticária alérgica.
+Segundo a seção “Clinical Pharmacology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Dimenhydrinate (tradução não oficial): “Embora o modo de ação preciso do dimenidrinato não seja conhecido, ele tem uma ação depressora sobre a função labiríntica hiperestimulada.” Texto original em inglês: "While the precise mode of action of dimenhydrinate is not known, it has a depressant action on hyperstimulated labyrinthine function." ([DailyMed: dimenhydrinate prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bc71539e-1a33-4709-8a24-c2894e8dbc1c), versão de 2025-01-15; acessado em 2026-11-19). Segundo informações conhecidas, o dimenidrinato é o sal da difenidramina (anti-histamínico H1 de primeira geração) com a 8-cloroteofilina. Sua eficácia como antiemético e antinauseante está estabelecida, e mecanisticamente pode ser aplicável à urticária alérgica.
 
 Na urticária alérgica, a histamina liberada pelos mastócitos age nos receptores H1 e provoca o aparecimento de urticas (vergões) e eritema. O componente difenidramina bloqueia esses receptores, de modo que o vínculo biológico é plausível e coerente com a pontuação elevada do TxGNN. Esse vínculo, porém, foi inferido da farmacologia conhecida da difenidramina, e não de dados específicos do dimenidrinato.
 
@@ -152,12 +152,13 @@ As advertências e contraindicações da bula não estavam disponíveis nos dado
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Todos os 14 registros encontrados estão **válidos**; o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Além disso, o produto não tem registro válido no Brasil e existem alternativas de segunda geração com melhor perfil de tolerabilidade” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: dimenhydrinate prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bc71539e-1a33-4709-8a24-c2894e8dbc1c) |
 
 <!-- review:end log -->
 

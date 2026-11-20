@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos registros compilados para este relatório. Sabe-se que a difenidramina é um antagonista do receptor H1 da histamina, e, em tese, poderia reduzir a inflamação da superfície ocular mediada por histamina.
+Segundo a seção “Clinical Pharmacology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Diphenhydramine (tradução não oficial): “O cloridrato de difenidramina é um anti-histamínico com efeitos colaterais anticolinérgicos (de ressecamento) e sedativos. Os anti-histamínicos parecem competir com a histamina pelos sítios receptores celulares nas células efetoras. O cloridrato de difenidramina na forma injetável tem início de ação rápido.” Texto original em inglês: "Diphenhydramine hydrochloride is an antihistamine with anticholinergic (drying) and sedative side effects. Antihistamines appear to compete with histamine for cell receptor sites on effector cells. Diphenhydramine hydrochloride in the injectable form has a rapid onset of action." ([DailyMed: diphenhydramine hydrochloride prescribing information, Henry Schein, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=af972e71-62ab-40c6-925a-cbcb4d6720a4), versão de 2026-10-28; acessado em 2026-11-19). Sabe-se que a difenidramina é um antagonista do receptor H1 da histamina, e, em tese, poderia reduzir a inflamação da superfície ocular mediada por histamina.
 
 Por outro lado, a conjuntivite rosácea é impulsionada principalmente por disfunção das glândulas meibomianas, ativação da imunidade inata e fatores microbianos ou relacionados ao *Demodex*. O bloqueio de histamina, portanto, tende a atacar apenas uma parte do problema. A ligação mecanística é plausível, mas especulativa.
 
@@ -101,6 +101,19 @@ Para advertências e contraindicações, consulte a bula.
 - Completar os dados de mecanismo de ação no DrugBank.
 - Realizar revisão da literatura e estudos pré-clínicos ou piloto sobre anti-histamínicos oculares na conjuntivite rosácea.
 - Avaliar a compatibilidade da via de administração (por exemplo, formulação oftálmica), ainda pendente.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: diphenhydramine hydrochloride prescribing information, Henry Schein, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=af972e71-62ab-40c6-925a-cbcb4d6720a4) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -56,7 +56,7 @@ atualmente com **15 ensaios clínicos** e **20 publicações** apoiando esta dir
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada. Segundo informações conhecidas, a epinefrina é um agonista adrenérgico não seletivo (alfa e beta). A estimulação dos receptores beta-2 relaxa a musculatura lisa brônquica e provoca broncodilatação, enquanto o efeito alfa-1 reduz o edema da mucosa das vias aéreas.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Epinephrine (tradução não oficial): “A epinefrina atua tanto nos receptores alfa-adrenérgicos quanto nos beta-adrenérgicos. Por meio de sua ação nos receptores alfa-adrenérgicos, a epinefrina atenua a vasodilatação e o aumento da permeabilidade vascular que ocorrem durante a anafilaxia, os quais podem levar à perda de volume de líquido intravascular e à hipotensão.” Texto original em inglês: "Epinephrine acts on both alpha and beta-adrenergic receptors. Through its action on alpha-adrenergic receptors, epinephrine lessens the vasodilation and increased vascular permeability that occurs during anaphylaxis, which can lead to loss of intravascular fluid volume and hypotension." ([DailyMed: Auvi-Q (epinephrine) prescribing information, Sportpharm LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f40988b-8365-4f7b-84d1-b88e053725cf), versão de 2026-09-18; acessado em 2026-11-19). Segundo informações conhecidas, a epinefrina é um agonista adrenérgico não seletivo (alfa e beta). A estimulação dos receptores beta-2 relaxa a musculatura lisa brônquica e provoca broncodilatação, enquanto o efeito alfa-1 reduz o edema da mucosa das vias aéreas.
 
 A indicação original (ação vasoconstritora e cardíaca) e a nova indicação compartilham a mesma base farmacológica: a ativação de receptores adrenérgicos. Isso torna a aplicação em doenças obstrutivas reversíveis das vias aéreas, como asma e bronquiolite, mecanisticamente direta.
 
@@ -138,11 +138,12 @@ Há vários ensaios de Phase 3 concluídos com epinefrina inalatória em asma, o
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Definir a situação regulatória: não há registro vigente no Brasil, e seria preciso verificar a via para uma formulação inalatória” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Auvi-Q (epinephrine) prescribing information, Sportpharm LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f40988b-8365-4f7b-84d1-b88e053725cf) |
 
 <!-- review:end log -->
 

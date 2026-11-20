@@ -59,7 +59,7 @@ A atorvastatina cálcica é uma estatina, registrada no Brasil como antilipêmic
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Com base na farmacologia geral das estatinas, a atorvastatina inibe a HMG-CoA redutase e reduz o LDL-colesterol.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Atorvastatin Calcium (tradução não oficial): “LIPITOR é um inibidor seletivo e competitivo da HMG-CoA redutase, a enzima limitante da velocidade que converte a 3-hidroxi-3-metilglutaril-coenzima A em mevalonato, um precursor de esteróis, incluindo o colesterol. Em modelos animais, LIPITOR reduz os níveis plasmáticos de colesterol e de lipoproteínas por meio da inibição da HMG-CoA redutase e da síntese de colesterol no fígado e do aumento do número de receptores hepáticos de LDL na superfície celular, intensificando a captação e o catabolismo do LDL; LIPITOR também reduz a produção de LDL e o número de partículas de LDL.” Texto original em inglês: "LIPITOR is a selective, competitive inhibitor of HMG-CoA reductase, the rate-limiting enzyme that converts 3-hydroxy-3-methylglutaryl-coenzyme A to mevalonate, a precursor of sterols, including cholesterol. In animal models, LIPITOR lowers plasma cholesterol and lipoprotein levels by inhibiting HMG-CoA reductase and cholesterol synthesis in the liver and by increasing the number of hepatic LDL receptors on the cell surface to enhance uptake and catabolism of LDL; LIPITOR also reduces LDL production and the number of LDL particles." ([DailyMed: Lipitor (atorvastatin calcium) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a60cc18b-0631-4cf0-b021-9f52224ece65), versão de 2024-04-15; acessado em 2026-11-19). Com base na farmacologia geral das estatinas, a atorvastatina inibe a HMG-CoA redutase e reduz o LDL-colesterol.
 
 A atorvastatina não é um antiviral contra o HIV. A hipótese é que ela atue sobre a inflamação crônica, a ativação imune (em especial a ativação de monócitos/macrófagos) e o risco cardiovascular elevado, característicos de pessoas que vivem com HIV, inclusive a dislipidemia associada a inibidores de protease. Estatinas reduzem marcadores inflamatórios e melhoram a função endotelial, o que se encaixa nesse perfil.
 
@@ -148,12 +148,13 @@ Consulte a bula para informações de segurança. Com base nos ensaios e na lite
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “O Evidence Pack apresenta duas lacunas bloqueantes: ausência total de previsões TxGNN (`predicted_indications: []`) e ausência de registros ” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “⚠️ **Nota sobre os dados recebidos:** A ausência de registros regulatórios para Atorvastatin Calcium é incomum, dado que este é um dos fárma” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Lipitor (atorvastatin calcium) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a60cc18b-0631-4cf0-b021-9f52224ece65) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **candidíase oral (oral candidia
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação no material compilado. Segundo informações conhecidas, a rifaximina é um antibacteriano da classe das rifamicinas, não absorvido, que atua sobre a RNA polimerase bacteriana. Não tem atividade antifúngica conhecida.
+Segundo as seções “Mechanism of Action” e “Microbiology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Rifaximin (tradução não oficial): “A rifaximina é um medicamento antibacteriano. […] A rifaximina é um derivado semissintético da rifampicina e atua ligando-se à subunidade beta da RNA polimerase DNA-dependente bacteriana, bloqueando uma das etapas da transcrição. Isso resulta na inibição da síntese proteica bacteriana e, consequentemente, inibe o crescimento das bactérias.” Texto original em inglês: "Rifaximin is an antibacterial drug. […] Rifaximin is a semi-synthetic derivative of rifampin and acts by binding to the beta-subunit of bacterial DNA-dependent RNA polymerase blocking one of the steps in transcription. This results in inhibition of bacterial protein synthesis and consequently inhibits the growth of bacteria." ([DailyMed: Xifaxan (rifaximin) prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7afafa63-3236-4212-9589-045db6b01c0b), versão de 2025-08-27; acessado em 2026-11-19). Segundo informações conhecidas, a rifaximina é um antibacteriano da classe das rifamicinas, não absorvido, que atua sobre a RNA polimerase bacteriana. Não tem atividade antifúngica conhecida.
 
 Por isso, não se identifica uma ligação mecanística plausível entre a indicação original (infecções bacterianas intestinais) e a candidíase oral. A pontuação alta do TxGNN (0.9975) é uma previsão do modelo TxGNN (aprendizado profundo), pode refletir similaridades que o modelo aprendeu entre doenças relacionadas, não evidência biológica, e conflita com as evidências clínicas disponíveis.
 
@@ -108,11 +108,12 @@ Para advertências e contraindicações formais, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, o único registro no Brasil está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Xifaxan (rifaximin) prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7afafa63-3236-4212-9589-045db6b01c0b) |
 
 <!-- review:end log -->
 

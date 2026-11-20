@@ -55,7 +55,7 @@ O modelo TxGNN (deep learning) prevê que pode ser eficaz para **torcicolo parox
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a tranilcipromina é um inibidor não seletivo e irreversível da MAO, que aumenta os níveis de serotonina, noradrenalina e dopamina. Sua eficácia como antidepressivo é estabelecida, e ela também inibe a LSD1 (KDM1A), uma desmetilase de histonas.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Tranylcypromine (tradução não oficial): “O mecanismo de ação de PARNATE como antidepressivo não é totalmente compreendido, mas presume-se que esteja ligado à potencialização da atividade dos neurotransmissores monoaminérgicos no sistema nervoso central (SNC), resultante de sua inibição irreversível da enzima monoamina oxidase (MAO).” Texto original em inglês: "The mechanism of action of PARNATE as an antidepressant is not fully understood, but is presumed to be linked to potentiation of monoamine neurotransmitter activity in the central nervous system (CNS) resulting from its irreversible inhibition of the enzyme monoamine oxidase (MAO)." ([DailyMed: Parnate (tranylcypromine sulfate) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b72d8187-dfcc-4ea0-b5e9-c0be95b69a27), versão de 2025-07-02; acessado em 2026-11-19). Segundo informações conhecidas, a tranilcipromina é um inibidor não seletivo e irreversível da MAO, que aumenta os níveis de serotonina, noradrenalina e dopamina. Sua eficácia como antidepressivo é estabelecida, e ela também inibe a LSD1 (KDM1A), uma desmetilase de histonas.
 
 Para o torcicolo paroxístico benigno da infância, **não foi estabelecida nenhuma ligação mecanística**. Trata-se de um distúrbio pediátrico, autolimitado e associado a canalopatia (gene CACNA1A). A pontuação alta do TxGNN vem do modelo de deep learning e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica. Além disso, um IMAO irreversível, com risco de crise hipertensiva e de interação com tiramina, dificilmente seria apropriado para lactentes.
 
@@ -119,12 +119,13 @@ A previsão de maior pontuação (torcicolo paroxístico benigno da infância) n
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “O único registro no Brasil está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “já que o registro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Parnate (tranylcypromine sulfate) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b72d8187-dfcc-4ea0-b5e9-c0be95b69a27) |
 
 <!-- review:end log -->
 

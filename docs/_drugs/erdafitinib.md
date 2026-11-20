@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada. Segundo informações conhecidas, o erdafitinibe é um inibidor pan-FGFR (FGFR1-4) e pertence à classe dos inibidores de tirosina quinase, usada em oncologia.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Erdafitinib (tradução não oficial): “O erdafitinibe é um inibidor de quinase que se liga à FGFR1, FGFR2, FGFR3 e FGFR4 e inibe sua atividade enzimática, com base em dados in vitro. O erdafitinibe inibiu a fosforilação e a sinalização de FGFR e diminuiu a viabilidade celular em linhagens celulares que expressam alterações genéticas de FGFR, incluindo mutações pontuais, amplificações e fusões.” Texto original em inglês: "Erdafitinib is a kinase inhibitor that binds to and inhibits enzymatic activity of FGFR1, FGFR2, FGFR3 and FGFR4 based on in vitro data. Erdafitinib inhibited FGFR phosphorylation and signaling and decreased cell viability in cell lines expressing FGFR genetic alterations, including point mutations, amplifications, and fusions." ([DailyMed: Balversa (erdafitinib) prescribing information, Janssen Products LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2a8aa5c0-6c92-4566-8c45-e8f4d1fc20ee), versão de 2025-10-24; acessado em 2026-11-19). Segundo informações conhecidas, o erdafitinibe é um inibidor pan-FGFR (FGFR1-4) e pertence à classe dos inibidores de tirosina quinase, usada em oncologia.
 
 A sinalização FGF/FGFR está associada ao remodelamento vascular pulmonar e à proliferação de células musculares lisas e endoteliais na hipertensão arterial pulmonar. Isso oferece uma justificativa biológica plausível para a previsão.
 
@@ -134,12 +134,13 @@ Todas as previsões estão no nível L5, sem ensaios clínicos nem literatura di
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, o registro no Brasil está cancelado e o perfil de segurança da classe (hiperfosfatemia, toxicidade ocular, 112 interações) exige” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “já que o único registro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Balversa (erdafitinib) prescribing information, Janssen Products LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2a8aa5c0-6c92-4566-8c45-e8f4d1fc20ee) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ atualmente com **1 ensaio clínico** e **4 publicações** relacionadas, sendo a
 
 ## Por que Esta Previsão é Razoável?
 
-Lenvatinibe inibe vários receptores de tirosina quinase envolvidos na angiogênese tumoral e na sinalização de crescimento: VEGFR1-3, FGFR1-4, PDGFRα, RET e KIT. Ao bloquear esses alvos, reduz o suprimento sanguíneo e o crescimento do tumor. Atualmente, não há dados detalhados de mecanismo de ação nos registros compilados; a descrição acima baseia-se no racional de reposicionamento do fármaco.
+Lenvatinibe inibe vários receptores de tirosina quinase envolvidos na angiogênese tumoral e na sinalização de crescimento: VEGFR1-3, FGFR1-4, PDGFRα, RET e KIT. Ao bloquear esses alvos, reduz o suprimento sanguíneo e o crescimento do tumor. Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Lenvatinib (tradução não oficial): “O lenvatinibe é um inibidor de quinase que inibe as atividades de quinase dos receptores do fator de crescimento endotelial vascular (VEGF) VEGFR1 (FLT1), VEGFR2 (KDR) e VEGFR3 (FLT4). O lenvatinibe inibe outras quinases que foram implicadas na angiogênese patogênica, no crescimento tumoral e na progressão do câncer, além de suas funções celulares normais, incluindo os receptores do fator de crescimento de fibroblastos (FGF) FGFR1, 2, 3 e 4; o receptor alfa do fator de crescimento derivado de plaquetas (PDGFRA), KIT e RET.” Texto original em inglês: "Lenvatinib is a kinase inhibitor that inhibits the kinase activities of vascular endothelial growth factor (VEGF) receptors VEGFR1 (FLT1), VEGFR2 (KDR), and VEGFR3 (FLT4). Lenvatinib inhibits other kinases that have been implicated in pathogenic angiogenesis, tumor growth, and cancer progression in addition to their normal cellular functions, including fibroblast growth factor (FGF) receptors FGFR1, 2, 3, and 4; platelet derived growth factor receptor alpha (PDGFRA), KIT, and RET." ([DailyMed: Lenvima (lenvatinib) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f4bedd21-efde-44c6-9d9c-b48b78d7ed1e), versão de 2026-10-14; acessado em 2026-11-19).
 
 Os sarcomas de partes moles, como o lipossarcoma, são tumores mesenquimais com opções terapêuticas limitadas na doença avançada. A inibição da angiogênese e de vias de fatores de crescimento é uma estratégia plausível nesses tumores, o que sustenta a previsão do modelo.
 
@@ -118,6 +118,18 @@ Para advertências e contraindicações, consulte a bula.
 - Ensaio randomizado ou comparativo que isole a contribuição do lenvatinibe
 - Dados de mecanismo de ação e de advertências e contraindicações da bula aprovada pela ANVISA
 - Plano de monitoramento de segurança, incluindo revisão das interações medicamentosas de gravidade maior
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Lenvima (lenvatinib) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f4bedd21-efde-44c6-9d9c-b48b78d7ed1e) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

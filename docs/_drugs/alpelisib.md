@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Hipertensão Pulmonar (Pulmonar
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Sabe-se que o alpelisibe é um inibidor da PI3K alfa usado em oncologia, e sua indicação original é a de agente antineoplásico. A relação com a hipertensão pulmonar é, no momento, apenas uma previsão computacional.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Alpelisib (tradução não oficial): “O alpelisibe é um inibidor da fosfatidilinositol-3-quinase (PI3K) com atividade inibitória predominantemente contra a PI3Kα. Mutações de ganho de função no gene que codifica a subunidade α catalítica da PI3K (PIK3CA) levam à ativação da PI3Kα e da sinalização de Akt, à transformação celular e à geração de tumores em modelos in vitro e in vivo.” Texto original em inglês: "Alpelisib is an inhibitor of phosphatidylinositol-3-kinase (PI3K) with inhibitory activity predominantly against PI3Kα. Gain-of-function mutations in the gene encoding the catalytic α-subunit of PI3K (PIK3CA) lead to activation of PI3Kα and Akt-signaling, cellular transformation and the generation of tumors in in vitro and in vivo models." ([DailyMed: Piqray (alpelisib) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b20b4e18-7a4b-4500-a08f-06c6dab0ee5b), versão de 2026-10-28; acessado em 2026-11-19). Sabe-se que o alpelisibe é um inibidor da PI3K alfa usado em oncologia, e sua indicação original é a de agente antineoplásico. A relação com a hipertensão pulmonar é, no momento, apenas uma previsão computacional.
 
 Em teoria, a via PI3K/Akt/mTOR está implicada no remodelamento vascular pulmonar, em particular na proliferação das células musculares lisas das artérias pulmonares. Por isso, inibir a PI3K alfa poderia, em princípio, ser relevante para a doença. Trata-se, porém, de uma hipótese biológica, não de um mecanismo estabelecido pelos dados disponíveis.
 
@@ -114,11 +114,12 @@ A previsão baseia-se apenas no modelo (nível L5), sem ensaios clínicos, e a �
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, o único registro no Brasil está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Piqray (alpelisib) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b20b4e18-7a4b-4500-a08f-06c6dab0ee5b) |
 
 <!-- review:end log -->
 

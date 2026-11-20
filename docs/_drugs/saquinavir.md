@@ -59,7 +59,7 @@ O modelo TxGNN prevê que pode ser eficaz para a **síndrome da imunodeficiênci
 
 ## Por que Esta Previsão é Razoável?
 
-Não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o saquinavir é um inibidor da protease do HIV-1. O vírus da imunodeficiência felina (FIV) é um lentivírus relacionado ao HIV, de modo que um mecanismo baseado na inibição de protease é plausível em princípio.
+Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Saquinavir é (tradução não oficial): “Inibidor da protease do vírus da imunodeficiência humana tipo 1” Texto original em inglês: "Human immunodeficiency virus type 1 protease inhibitor" ([ChEMBL CHEMBL114 (saquinavir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL114), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações conhecidas, o saquinavir é um inibidor da protease do HIV-1. O vírus da imunodeficiência felina (FIV) é um lentivírus relacionado ao HIV, de modo que um mecanismo baseado na inibição de protease é plausível em princípio.
 
 Contudo, a protease do FIV difere da protease do HIV-1 na especificidade de substrato e na sensibilidade a inibidores. A pontuação elevada do TxGNN provavelmente reflete a proximidade na rede de conhecimento com a indicação de HIV/AIDS, e não uma evidência independente. Não há ensaios nem literatura para esta doença, portanto trata-se apenas de uma previsão do modelo.
 
@@ -118,6 +118,19 @@ As advertências e contraindicações da bula da ANVISA não estavam disponívei
 - Estudos in vitro e em animais de atividade antiviral contra o FIV.
 - Obtenção e análise da bula da ANVISA (advertências e contraindicações).
 - Avaliação de que há interesse de uso veterinário, já que a doença prevista é felina e não uma indicação humana.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [ChEMBL CHEMBL114 (saquinavir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL114) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

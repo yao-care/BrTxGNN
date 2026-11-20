@@ -59,7 +59,7 @@ O modelo TxGNN prevê que pode ser eficaz para **neoplasma do nervo trigêmeo (t
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados compilados sobre o mecanismo de ação. Segundo informações conhecidas, o topiramato atua por bloqueio de canais de sódio, potencialização da ação do GABA-A, antagonismo de receptores glutamatérgicos AMPA/cainato e inibição da anidrase carbônica. Esses mecanismos explicam seu efeito em crises epilépticas.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Topiramate (tradução não oficial): “Os mecanismos exatos pelos quais o topiramato exerce seus efeitos anticonvulsivantes e de prevenção da enxaqueca são desconhecidos; no entanto, estudos pré-clínicos revelaram quatro propriedades que podem contribuir para a eficácia do topiramato na epilepsia e no tratamento preventivo da enxaqueca.” Texto original em inglês: "The precise mechanisms by which topiramate exerts its anticonvulsant and preventive migraine effects are unknown; however, preclinical studies have revealed four properties that may contribute to topiramate's efficacy for epilepsy and the preventive treatment of migraine." ([DailyMed: Trokendi Xr (topiramate) prescribing information, Supernus Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2dc7957e-a3e5-46bb-aa66-f3250f872f5e), versão de 2026-10-05; acessado em 2026-11-19). Segundo informações conhecidas, o topiramato atua por bloqueio de canais de sódio, potencialização da ação do GABA-A, antagonismo de receptores glutamatérgicos AMPA/cainato e inibição da anidrase carbônica. Esses mecanismos explicam seu efeito em crises epilépticas.
 
 **Para o neoplasma do nervo trigêmeo, a previsão não encontra respaldo mecanístico nos dados disponíveis.** Nenhuma dessas ações tem relevância antineoplásica estabelecida. O escore alto (0,9970) vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica. Qualquer benefício se limitaria ao alívio sintomático (dor trigeminal ou crises), sem controle do tumor.
 
@@ -168,13 +168,14 @@ Essas indicações são extensões do uso original em epilepsia e merecem ser tr
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “O medicamento está comercializado no país, com 20 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Além disso, o medicamento não tem registro vigente no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “(o medicamento está comercializado, com 20 registros válidos)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Trokendi Xr (topiramate) prescribing information, Supernus Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2dc7957e-a3e5-46bb-aa66-f3250f872f5e) |
 
 <!-- review:end log -->
 

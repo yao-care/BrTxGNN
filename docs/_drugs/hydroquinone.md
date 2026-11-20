@@ -60,7 +60,7 @@ mas atualmente há **0 ensaios clínicos** e apenas **1 publicação** (estudo o
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, a hidroquinona inibe a tirosinase, enzima-chave da síntese de melanina, e reduz a produção desse pigmento. Sua eficácia como despigmentante em condições como melasma e hiperpigmentações é a base de seu uso original.
+Segundo a seção “Clinical Pharmacology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Hydroquinone (tradução não oficial): “A aplicação tópica de hidroquinona produz uma despigmentação reversível da pele por meio da inibição da oxidação enzimática da tirosina em 3,4-di-hidroxifenilalanina (dopa) (Denton, C. et al., 1952)1 e da supressão de outros processos metabólicos dos melanócitos (Jimbow, K. et al., 1974)2. A exposição à luz solar ou à luz ultravioleta causará a repigmentação das áreas clareadas (Parrish, L.A. et al., 1978)3.” Texto original em inglês: "Topical application of hydroquinone produces a reversible depigmentation of the skin by inhibition of the enzymatic oxidation of tyrosine to 3,4-dihydroxyphenylalanine (dopa) (Denton, C. et al., 1952)1 and suppression of other melanocyte metabolic processes (Jimbow, K. et al., 1974)2. Exposure to sunlight or ultraviolet light will cause repigmentation of bleached areas (Parrish, L.A. et al., 1978)3." ([DailyMed: Hydroquinone 4% (hydroquinone) prescribing information, Acella Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=595dfc50-ee6f-41b5-ab5b-4c293aee342b), versão de 2026-07-10; acessado em 2026-11-19). Segundo informações conhecidas, a hidroquinona inibe a tirosinase, enzima-chave da síntese de melanina, e reduz a produção desse pigmento. Sua eficácia como despigmentante em condições como melasma e hiperpigmentações é a base de seu uso original.
 
 A relação com a nova indicação é limitada. Mecanisticamente, a hidroquinona poderia clarear a hiperpigmentação das lesões de ceratose seborreica. No entanto, essa condição é uma proliferação epidérmica benigna, e não um distúrbio primário da melanogênese. Clarear a lesão não trataria a lesão em si.
 
@@ -163,12 +163,13 @@ Para as demais informações de segurança (advertências, contraindicações e 
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-11 | Removido: “s 12 registros no Brasil estão vigentes; o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-11 | Removido: “Os 12 registros brasileiros estão vigentes” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Hydroquinone 4% (hydroquinone) prescribing information, Acella Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=595dfc50-ee6f-41b5-ab5b-4c293aee342b) |
 
 <!-- review:end log -->
 

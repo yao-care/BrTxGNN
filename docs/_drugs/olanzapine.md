@@ -64,7 +64,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Agorafobia (Agoraphobia)**, a i
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação compilados para este relatório. Segundo informações conhecidas, a olanzapina é um antipsicótico atípico que antagoniza receptores de serotonina (5-HT2A/2C) e dopamina (D2), com atividade também sobre receptores histaminérgicos e muscarínicos. Esses sistemas participam dos circuitos de ansiedade e pânico, o que torna mecanisticamente plausível um efeito ansiolítico.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Olanzapine (tradução não oficial): “O mecanismo de ação da olanzapina, nas indicações listadas, não é claro. No entanto, a eficácia da olanzapina na esquizofrenia poderia ser mediada por uma combinação de antagonismo dos receptores de dopamina e de serotonina tipo 2 (5HT 2 ).” Texto original em inglês: "The mechanism of action of olanzapine, in the listed indications, is unclear. However, the efficacy of olanzapine in schizophrenia could be mediated through a combination of dopamine and serotonin type 2 (5HT 2 ) antagonism." ([DailyMed: Weltruza (olanzapine) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a23e99c7-fb76-46d2-95af-e03d5a4d1f2c), versão de 2026-10-26; acessado em 2026-11-19). Segundo informações conhecidas, a olanzapina é um antipsicótico atípico que antagoniza receptores de serotonina (5-HT2A/2C) e dopamina (D2), com atividade também sobre receptores histaminérgicos e muscarínicos. Esses sistemas participam dos circuitos de ansiedade e pânico, o que torna mecanisticamente plausível um efeito ansiolítico.
 
 A relação com a indicação original é indireta: ambas são condições psiquiátricas, mas a agorafobia (geralmente associada ao transtorno de pânico) é tratada em primeira linha com ISRSs e terapia cognitivo-comportamental. A literatura disponível trata sobretudo do transtorno de pânico resistente ao tratamento, com ou sem agorafobia, e não da agorafobia isoladamente.
 
@@ -164,12 +164,13 @@ A tabela mostra até 30 registros (os ativos primeiro). A lista completa está n
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Foram encontrados 20 registros válidos; o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Além disso, a olanzapina não tem registro vigente no Brasil e carrega riscos metabólicos relevantes” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Weltruza (olanzapine) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a23e99c7-fb76-46d2-95af-e03d5a4d1f2c) |
 
 <!-- review:end log -->
 

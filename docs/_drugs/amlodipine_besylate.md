@@ -56,7 +56,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Infarto do tronco encefálico (
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Sabe-se que o anlodipino é um bloqueador dos canais de cálcio do tipo L, da classe das di-hidropiridinas, que relaxa a musculatura lisa das artérias e reduz a pressão arterial.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Amlodipine Besylate (tradução não oficial): “A anlodipina é um antagonista do cálcio di-hidropiridínico (antagonista do íon cálcio ou bloqueador dos canais lentos) que inibe o influxo transmembrana de íons cálcio para o músculo liso vascular e para o músculo cardíaco. Dados experimentais sugerem que a anlodipina se liga tanto a sítios de ligação di-hidropiridínicos quanto não di-hidropiridínicos.” Texto original em inglês: "Amlodipine is a dihydropyridine calcium antagonist (calcium ion antagonist or slow-channel blocker) that inhibits the transmembrane influx of calcium ions into vascular smooth muscle and cardiac muscle. Experimental data suggest that amlodipine binds to both dihydropyridine and nondihydropyridine binding sites." ([DailyMed: Sdamlo (amlodipine) prescribing information, Pangea Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=886a7f97-60a4-4206-a6c7-5206069ed487), versão de 2026-09-28; acessado em 2026-11-19). Sabe-se que o anlodipino é um bloqueador dos canais de cálcio do tipo L, da classe das di-hidropiridinas, que relaxa a musculatura lisa das artérias e reduz a pressão arterial.
 
 A hipótese do modelo é que a redução da pressão arterial e uma possível neuroproteção, plausíveis em outros acidentes vasculares cerebrais isquêmicos, também possam ser relevantes para o infarto do tronco encefálico. Trata-se de uma inferência a partir de condições cerebrovasculares relacionadas, e não de evidência direta.
 
@@ -89,6 +89,19 @@ Consulte a bula para informações de segurança.
 - Estudos pré-clínicos ou clínicos que avaliem diretamente o anlodipino em infarto do tronco encefálico
 - Dados do mecanismo de ação e informações de segurança da bula da ANVISA
 - Revisão por especialistas para confirmar a plausibilidade biológica da previsão
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Sdamlo (amlodipine) prescribing information, Pangea Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=886a7f97-60a4-4206-a6c7-5206069ed487) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

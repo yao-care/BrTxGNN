@@ -58,7 +58,7 @@ atualmente com **2 ensaios clínicos** e **20 publicações** relacionadas a est
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação na base de dados do fármaco. Segundo informações conhecidas da literatura, o tacrolimo liga-se à FKBP12 e inibe a calcineurina, bloqueando a ativação de células T dependente de NFAT e reduzindo a liberação de citocinas pró-inflamatórias (como IL-2, IL-4 e interferon-gama).
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Tacrolimus (tradução não oficial): “O tacrolimo liga-se a uma proteína intracelular, a FKBP-12. Forma-se então um complexo de tacrolimo-FKBP-12, cálcio, calmodulina e calcineurina (uma enzima intracelular ubíqua dos mamíferos), e a atividade fosfatase da calcineurina é inibida.” Texto original em inglês: "Tacrolimus binds to an intracellular protein, FKBP-12. A complex of tacrolimus-FKBP-12, calcium, calmodulin, and calcineurin (an ubiquitous mammalian intracellular enzyme) is then formed and the phosphatase activity of calcineurin inhibited." ([DailyMed: Envarsus Xr (tacrolimus) prescribing information, Veloxis Pharmaceuticals, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de2315b0-6344-43ac-9aea-3e3b68d828e7), versão de 2025-02-26; acessado em 2026-11-19). Segundo informações conhecidas da literatura, o tacrolimo liga-se à FKBP12 e inibe a calcineurina, bloqueando a ativação de células T dependente de NFAT e reduzindo a liberação de citocinas pró-inflamatórias (como IL-2, IL-4 e interferon-gama).
 
 A dermatite atópica e a dermatite seborreica são dermatoses inflamatórias crônicas, com recaídas frequentes. Na dermatite seborreica há uma resposta inflamatória à levedura *Malassezia*, e a presença de *Malassezia* também foi documentada na dermatite atópica (PMID 16094289). Assim, bloquear a via inflamatória mediada por células T pode reduzir o componente inflamatório de ambas as doenças, o que sustenta a plausibilidade da previsão.
 
@@ -121,12 +121,13 @@ Consulte a bula para as advertências e contraindicações oficiais.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Contudo, o tacrolimo não possui registro comercializado no Brasil e as preocupações de classe (malignidade, linfoma) exigem cautela” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “já que não há registro vigente” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Envarsus Xr (tacrolimus) prescribing information, Veloxis Pharmaceuticals, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de2315b0-6344-43ac-9aea-3e3b68d828e7) |
 
 <!-- review:end log -->
 

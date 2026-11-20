@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação registrados para este fármaco. Segundo as informações compiladas, o trifaroteno é um agonista seletivo dos receptores do ácido retinoico, com atividade farmacológica descrita sobre RARα, RARβ e RARγ (com seletividade principal para RARγ). Sua instabilidade metabólica elevada sugere exposição sistêmica limitada quando usado por via tópica.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Trifarotene (tradução não oficial): “O trifaroteno é um agonista dos receptores do ácido retinoico (RAR), com atividade particular no subtipo gama do RAR. A estimulação do RAR resulta na modulação de genes-alvo associados a diversos processos, incluindo a diferenciação celular e a mediação da inflamação.” Texto original em inglês: "Trifarotene is an agonist of retinoic acid receptors (RAR), with particular activity at the gamma subtype of RAR. Stimulation of RAR results in modulation of target genes which are associated with various processes, including cell differentiation and mediation of inflammation." ([DailyMed: Aklief (trifarotene) prescribing information, Galderma Laboratories, L.P.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=62d910db-85a6-4696-b69b-4bd2f3080cfc), versão de 2024-09-16; acessado em 2026-11-19). Segundo as informações compiladas, o trifaroteno é um agonista seletivo dos receptores do ácido retinoico, com atividade farmacológica descrita sobre RARα, RARβ e RARγ (com seletividade principal para RARγ). Sua instabilidade metabólica elevada sugere exposição sistêmica limitada quando usado por via tópica.
 
 Não foi estabelecida relação mecanística plausível entre o trifaroteno e a elevação de zinco plasmático. Esta última é um achado laboratorial ou metabólico, e não uma doença conduzida por uma via responsiva a retinoides. A alta pontuação do TxGNN (0,9940) é apenas uma previsão computacional, sem estudos clínicos ou literatura que a sustentem, e não deve ser interpretada como evidência de efeito terapêutico.
 
@@ -104,12 +104,13 @@ Para demais informações de segurança (advertências e contraindicações), co
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-10-31 | Removido: “(registro cancelado)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Além disso, o único registro no Brasil está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Aklief (trifarotene) prescribing information, Galderma Laboratories, L.P.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=62d910db-85a6-4696-b69b-4bd2f3080cfc) |
 
 <!-- review:end log -->
 

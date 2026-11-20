@@ -57,7 +57,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Oclusão de Artéria Cerebral (
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, a telmisartana bloqueia o receptor AT1 da angiotensina II e tem atividade agonista parcial sobre o PPARγ, o que lhe rendeu o apelido de "metabosartan". Sua eficácia na hipertensão arterial é estabelecida.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Telmisartan (tradução não oficial): “A angiotensina II é formada a partir da angiotensina I em uma reação catalisada pela enzima conversora de angiotensina (ECA, cininase II). A angiotensina II é o principal agente pressor do sistema renina-angiotensina, com efeitos que incluem vasoconstrição, estimulação da síntese e liberação de aldosterona, estimulação cardíaca e reabsorção renal de sódio. […] Telmisartana bloqueia os efeitos vasoconstritores e secretores de aldosterona da angiotensina II ao bloquear seletivamente a ligação da angiotensina II ao receptor AT 1 em muitos tecidos, como o músculo liso vascular e a glândula adrenal.” Texto original em inglês: "Angiotensin II is formed from angiotensin I in a reaction catalyzed by angiotensin-converting enzyme (ACE, kininase II). Angiotensin II is the principal pressor agent of the reninangiotensin system, with effects that include vasoconstriction, stimulation of synthesis and release of aldosterone, cardiac stimulation, and renal reabsorption of sodium. […] Telmisartan blocks the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT 1 receptor in many tissues, such as vascular smooth muscle and the adrenal gland." ([DailyMed: telmisartan prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=56a72ddf-c2a2-45ce-91b1-1fcfbff52c10), versão de 2026-11-02; acessado em 2026-11-19). Segundo informações conhecidas, a telmisartana bloqueia o receptor AT1 da angiotensina II e tem atividade agonista parcial sobre o PPARγ, o que lhe rendeu o apelido de "metabosartan". Sua eficácia na hipertensão arterial é estabelecida.
 
 A hipertensão e o AVC compartilham a mesma fisiopatologia vascular, e a oclusão de artéria cerebral é uma causa direta de infarto cerebral. A pontuação vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica.
 
@@ -125,11 +125,12 @@ Não há dados de advertências e contraindicações da bula nos dados compilado
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “já que não há registro vigente nos dados compilados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: telmisartan prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=56a72ddf-c2a2-45ce-91b1-1fcfbff52c10) |
 
 <!-- review:end log -->
 

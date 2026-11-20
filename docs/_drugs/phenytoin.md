@@ -55,7 +55,7 @@ O modelo TxGNN (deep learning) prevê, com a maior pontuação (0.9999), que ela
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a fenitoína bloqueia canais de sódio dependentes de voltagem, o que explica sua ação anticonvulsivante e seu uso em dor neuropática.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Phenytoin (tradução não oficial): “O mecanismo preciso pelo qual a fenitoína exerce seu efeito terapêutico não foi estabelecido, mas acredita-se que envolva o bloqueio dependente de voltagem dos canais de sódio da membrana, resultando em uma redução das descargas neuronais sustentadas de alta frequência.” Texto original em inglês: "The precise mechanism by which phenytoin exerts its therapeutic effect has not been established but is thought to involve the voltage-dependent blockade of membrane sodium channels resulting in a reduction in sustained high-frequency neuronal discharges." ([DailyMed: Extended Phenytoin Sodium (phenytoin sodium) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=363cd347-d25e-42b9-9ce7-30642f3cb353), versão de 2026-06-25; acessado em 2026-11-19). Segundo informações conhecidas, a fenitoína bloqueia canais de sódio dependentes de voltagem, o que explica sua ação anticonvulsivante e seu uso em dor neuropática.
 
 Para a indicação de maior pontuação, **neoplasia do nervo trigêmeo**, não há vínculo mecanístico crível. A fenitoína não tem atividade antineoplásica conhecida contra tumores nervosos. A pontuação alta vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, como a "neuralgia do trigêmeo", e não evidência biológica. Por isso, a previsão não é considerada razoável como reposicionamento oncológico.
 
@@ -147,7 +147,7 @@ Para as demais advertências, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
@@ -157,6 +157,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | 2026-11-12 | Tabela: registro 107150171 (FENITOÍNA) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Tabela: registro 112090023 (FUNED - FENITOÍNA) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Tabela: registro 107150095 (DANTALIN) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Extended Phenytoin Sodium (phenytoin sodium) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=363cd347-d25e-42b9-9ce7-30642f3cb353) |
 
 <!-- review:end log -->
 

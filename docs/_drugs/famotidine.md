@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser útil para **obstrução duodenal (duodenal o
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Sabe-se, de forma geral, que a famotidina bloqueia os receptores H2 e reduz a secreção de ácido gástrico.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Famotidine (tradução não oficial): “A famotidina é um inibidor competitivo dos receptores de histamina-2 (H2). A principal atividade farmacológica clinicamente importante da famotidina é a inibição da secreção gástrica. Tanto a concentração ácida quanto o volume da secreção gástrica são suprimidos pela famotidina, enquanto as alterações na secreção de pepsina são proporcionais ao volume produzido.” Texto original em inglês: "Famotidine is a competitive inhibitor of histamine-2 (H2) receptors. The primary clinically important pharmacologic activity of famotidine is inhibition of gastric secretion. Both the acid concentration and volume of gastric secretion are suppressed by famotidine, while changes in pepsin secretion are proportional to volume output." ([DailyMed: Pepcid (famotidine) prescribing information, Bausch Health US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a06502d9-7903-4f37-833e-e5763d502def), versão de 2024-06-01; acessado em 2026-11-19). Sabe-se, de forma geral, que a famotidina bloqueia os receptores H2 e reduz a secreção de ácido gástrico.
 
 Não há vínculo mecanístico claro com a nova indicação. A supressão ácida pode ajudar em complicações secundárias, como úlceras pépticas, mas não trata uma obstrução mecânica. A pontuação alta do modelo provavelmente reflete a proximidade, na rede de relações do modelo, com a úlcera duodenal.
 
@@ -100,6 +100,19 @@ Para advertências e contraindicações, consulte a bula.
 - Dados do mecanismo de ação e justificativa biológica para a obstrução duodenal
 - Estudos que avaliem diretamente a famotidina nessa condição
 - Dados de advertências e contraindicações da bula na ANVISA, para a triagem de segurança
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Pepcid (famotidine) prescribing information, Bausch Health US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a06502d9-7903-4f37-833e-e5763d502def) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

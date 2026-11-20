@@ -60,7 +60,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada. Segundo informações conhecidas, a mupirocina é um antibacteriano tópico que inibe a isoleucil-tRNA sintetase bacteriana, com atividade principalmente contra bactérias Gram-positivas, como *Staphylococcus aureus* (incluindo MRSA) e estreptococos.
+Segundo as seções “Mechanism of Action” e “Microbiology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Mupirocin (tradução não oficial): “A mupirocina é um antibacteriano inibidor da RNA sintetase. […] A mupirocina inibe a síntese proteica bacteriana ligando-se de forma reversível e específica à isoleucil-RNA transportador (tRNA) sintetase bacteriana. A mupirocina é bactericida nas concentrações atingidas pela administração tópica.” Texto original em inglês: "Mupirocin is an RNA synthetase inhibitor antibacterial. […] Mupirocin inhibits bacterial protein synthesis by reversibly and specifically binding to bacterial isoleucyl-transfer RNA (tRNA) synthetase. Mupirocin is bactericidal at concentrations achieved by topical administration." ([DailyMed: Pirnuo (mupirocin) prescribing information, Glenmark Pharmaceuticals Inc., USA](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=89c43f7b-1a88-45bf-a356-07518d4e7870), versão de 2020-03-20; acessado em 2026-11-19). Segundo informações conhecidas, a mupirocina é um antibacteriano tópico que inibe a isoleucil-tRNA sintetase bacteriana, com atividade principalmente contra bactérias Gram-positivas, como *Staphylococcus aureus* (incluindo MRSA) e estreptococos.
 
 Esses microrganismos são causas comuns de empiema pleural, o que cria uma ligação plausível, porém apenas teórica, entre a indicação original (infecções cutâneas tópicas) e a nova indicação.
 
@@ -121,6 +121,19 @@ Consulte a bula para as demais informações de segurança (advertências e cont
 - Avaliar a viabilidade de uma formulação ou via de administração adequada (por exemplo, intrapleural), com dados de penetração, segurança e posologia.
 - Realizar revisão sistemática da literatura e de registros de ensaios para empiema pleural e para ceratoconjuntivite epitelial punctata.
 - Esclarecer a relação de contraindicação com dermatite e a relevância clínica das interações medicamentosas.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Pirnuo (mupirocin) prescribing information, Glenmark Pharmaceuticals Inc., USA](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=89c43f7b-1a88-45bf-a356-07518d4e7870) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -55,7 +55,7 @@ O modelo TxGNN prevê que ele possa ser eficaz para **malformação esofágica n
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, o ácido ascórbico atua como antioxidante e como cofator da síntese de colágeno.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Ascorbic Acid (tradução não oficial): “O mecanismo de ação exato do ácido ascórbico no tratamento dos sintomas e sinais do escorbuto (um distúrbio causado por deficiência grave de vitamina C) é desconhecido; no entanto, acredita-se que a administração de ácido ascórbico em pacientes com escorbuto restaure o reservatório corporal de ácido ascórbico.” Texto original em inglês: "The exact mechanism of action of ascorbic acid for the treatment of symptoms and signs of scurvy (a disorder caused by severe deficiency in vitamin C) is unknown; however, administration of ascorbic acid in patients with scurvy is thought to restore the body pool of ascorbic acid." ([DailyMed: ascorbic acid prescribing information, Zydus Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f0b683f8-189b-4a3f-9ffe-f91df6d798b6), versão de 2026-09-03; acessado em 2026-11-19). Segundo informações conhecidas, o ácido ascórbico atua como antioxidante e como cofator da síntese de colágeno.
 
 Não se identificou um vínculo mecanístico plausível entre essas propriedades e uma malformação estrutural congênita do esôfago. Esse tipo de defeito tem origem no desenvolvimento embrionário, e o ácido ascórbico não atua sobre esse processo. A pontuação elevada (0,9996) reflete apenas a previsão do modelo, sem respaldo de ensaios ou literatura.
 
@@ -101,6 +101,18 @@ Para advertências e contraindicações em bula, consulte a bula do produto.
 - Dados detalhados do mecanismo de ação (MOA)
 - Informações de segurança da bula (advertências e contraindicações)
 - Avaliação da viabilidade de uma população-alvo e de vias de administração compatíveis
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: ascorbic acid prescribing information, Zydus Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f0b683f8-189b-4a3f-9ffe-f91df6d798b6) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

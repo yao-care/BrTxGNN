@@ -56,7 +56,7 @@ O modelo TxGNN prevê que ela possa ser eficaz para **Anomalias vertebrais e dis
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Sabe-se que a ciclofosfamida é um agente alquilante com efeitos imunossupressores e linfodepletores.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Cyclophosphamide Monohydrate (tradução não oficial): “O mecanismo de ação não foi totalmente caracterizado. No entanto, a ligação cruzada do DNA das células tumorais pode estar envolvida. Os metabólitos alquilantes ativos da ciclofosfamida interferem no crescimento de células malignas suscetíveis de proliferação rápida.” Texto original em inglês: "The mechanism of action has not been fully characterized. However, cross-linking of tumor cell DNA may be involved. The active alkylating metabolites of cyclophosphamide interfere with the growth of susceptible rapidly proliferating malignant cells." ([DailyMed: Frindovyx (cyclophosphamide) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5ad8ea65-4c98-487a-9c8d-df778765ec5e), versão de 2026-08-26; acessado em 2026-11-19). Sabe-se que a ciclofosfamida é um agente alquilante com efeitos imunossupressores e linfodepletores.
 
 Para a síndrome prevista, uma condição congênita rara que combina malformações vertebrais com disfunção endócrina e de células T, não há ponte mecanística sustentada pelos dados. Pelo contrário, uma imunossupressão adicional poderia agravar a deficiência imune já existente nesses pacientes.
 
@@ -93,6 +93,19 @@ Consulte a bula para informações de segurança.
 - Dados do mecanismo de ação (MOA) e da bula (advertências e contraindicações) da ANVISA
 - Evidência biológica ou clínica direta que justifique o uso na síndrome prevista
 - Avaliação de segurança imunológica específica para pacientes com disfunção de células T
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Frindovyx (cyclophosphamide) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5ad8ea65-4c98-487a-9c8d-df778765ec5e) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

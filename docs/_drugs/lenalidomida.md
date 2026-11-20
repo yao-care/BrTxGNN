@@ -59,7 +59,7 @@ A lenalidomida se liga à cereblon e redireciona o complexo ligase CRL4-CRBN par
 
 O mecanismo da del(5q) é bem estabelecido nas síndromes mielodisplásicas. Sua transferência para a leucemia mieloide aguda sem del(5q) é plausível, mas com respaldo menos sólido. Os ensaios compilados exploram justamente esses cenários: leucemia mieloide aguda com anormalidades do cromossomo 5, manutenção em remissão, combinação com azacitidina ou quimioterapia e uso pós-transplante.
 
-Não há dados detalhados de mecanismo de ação de uma fonte de referência para o fármaco; a explicação acima vem da análise de reposicionamento compilada.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Lenalidomida (tradução não oficial): “A lenalidomida é um análogo da talidomida com propriedades imunomoduladoras, antiangiogênicas e antineoplásicas. As atividades celulares da lenalidomida são mediadas por meio de seu alvo, o cereblon, um componente de um complexo enzimático de ubiquitina ligase E3 do tipo cullin ring.” Texto original em inglês: "Lenalidomide is an analogue of thalidomide with immunomodulatory, antiangiogenic, and antineoplastic properties. Cellular activities of lenalidomide are mediated through its target cereblon, a component of a cullin ring E3 ubiquitin ligase enzyme complex." ([DailyMed: Revlimid (lenalidomide) prescribing information, Celgene Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5fa97bf5-28a2-48f1-8955-f56012d296be), versão de 2023-03-24; acessado em 2026-11-19).
 
 ## Evidências de Ensaios Clínicos
 
@@ -149,7 +149,7 @@ Consulte a bula para informações de segurança. Nos dados compilados constam a
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
@@ -159,6 +159,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | 2026-11-06 | Removido: “É necessário recuperar os detalhes completos antes de prosseguir com a análise” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “e sem dados regulatórios detalhados 10” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “2. **Recuperar detalhes dos 10 registros ANVISA**: números de registro, nomes comerciais, formas farmacêuticas e indicações aprovadas” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Revlimid (lenalidomide) prescribing information, Celgene Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5fa97bf5-28a2-48f1-8955-f56012d296be) |
 
 <!-- review:end log -->
 

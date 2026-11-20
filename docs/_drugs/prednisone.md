@@ -56,7 +56,7 @@ atualmente com **nenhum ensaio clínico registrado** e **20 publicações** rela
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação da prednisona nos dados compilados para este relatório. Sabe-se, porém, que ela é um glicocorticoide sistêmico, que suprime a ativação de linfócitos T e a sinalização de citocinas pró-inflamatórias, como o interferon-gama.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Prednisone (tradução não oficial): “Os corticosteroides de ocorrência natural (hidrocortisona e cortisona), que também possuem propriedades de retenção de sal, são usados como terapia de reposição em estados de deficiência adrenocortical. Seus análogos sintéticos, como a prednisona, são usados principalmente por seus potentes efeitos anti-inflamatórios em distúrbios de muitos sistemas orgânicos.” Texto original em inglês: "Naturally occurring corticosteroids (hydrocortisone and cortisone), which also have salt-retaining properties, are used as replacement therapy in adrenocortical deficiency states. Their synthetic analogs, such as prednisone, are primarily used for their potent anti-inflammatory effects in disorders of many organ systems." ([DailyMed: Prednisone Delayed Release (prednisone) prescribing information, Dr. Reddys Laboratories Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=01bdc479-1f1f-af94-837c-12e7e861321a), versão de 2026-09-23; acessado em 2026-11-19). Sabe-se, porém, que ela é um glicocorticoide sistêmico, que suprime a ativação de linfócitos T e a sinalização de citocinas pró-inflamatórias, como o interferon-gama.
 
 A alopecia areata é uma doença autoimune mediada por linfócitos T: células T CD8+ citotóxicas atacam o folículo piloso, que perdeu seu privilégio imunológico. Suprimir essa resposta imune é, portanto, um mecanismo plausível para a prednisona.
 
@@ -137,6 +137,18 @@ As advertências e contraindicações da bula não estavam disponíveis nos dado
 - Obter as advertências e contraindicações da bula na ANVISA.
 - Complementar os dados de mecanismo de ação (DrugBank).
 - Definir um plano de monitoramento de segurança (pressão arterial, glicemia, infecções) e de estratégia para recaída após a suspensão.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Prednisone Delayed Release (prednisone) prescribing information, Dr. Reddys Laboratories Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=01bdc479-1f1f-af94-837c-12e7e861321a) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

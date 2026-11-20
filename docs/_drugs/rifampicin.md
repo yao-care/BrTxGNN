@@ -56,7 +56,7 @@ atualmente com **0 ensaios clínicos** e **19 publicações** recuperadas nesta 
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nas informações compiladas. Segundo informações conhecidas, a rifampicina inibe a RNA polimerase DNA-dependente bacteriana e tem atividade ampla contra bactérias Gram-positivas, *Chlamydia* e *Staphylococcus*. Sua eficácia na tuberculose está bem estabelecida.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Rifampicin (tradução não oficial): “A rifampicina inibe a atividade da RNA polimerase DNA-dependente em organismos suscetíveis de Mycobacterium tuberculosis. Especificamente, ela interage com a RNA polimerase bacteriana, mas não inibe a enzima de mamíferos.” Texto original em inglês: "Rifampin inhibits DNA-dependent RNA polymerase activity in susceptible Mycobacterium tuberculosis organisms. Specifically, it interacts with bacterial RNA polymerase but does not inhibit the mammalian enzyme." ([DailyMed: rifampin prescribing information, Mylan Institutional LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8be91604-d7cd-4f2b-997d-e3364e4092e5), versão de 2026-05-05; acessado em 2026-11-19). Segundo informações conhecidas, a rifampicina inibe a RNA polimerase DNA-dependente bacteriana e tem atividade ampla contra bactérias Gram-positivas, *Chlamydia* e *Staphylococcus*. Sua eficácia na tuberculose está bem estabelecida.
 
 A conjuntivite bacteriana e o tracoma são causados justamente por patógenos sensíveis à rifampicina (*Staphylococcus*, *Chlamydia trachomatis*, *Corynebacterium*). Por isso, a previsão do modelo é plausível do ponto de vista antibacteriano.
 
@@ -157,11 +157,12 @@ As advertências e contraindicações da bula da ANVISA não estavam disponívei
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “pois não há dados de forma farmacêutica nos registros (todos cancelados)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: rifampin prescribing information, Mylan Institutional LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8be91604-d7cd-4f2b-997d-e3364e4092e5) |
 
 <!-- review:end log -->
 

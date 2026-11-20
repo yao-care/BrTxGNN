@@ -55,7 +55,7 @@ O modelo TxGNN prevê que a associação pode ser útil em **infecção por Stap
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. O que se sabe é que a cilastatina inibe a dipeptidase 1 (desidropeptidase-I) nos rins e não tem atividade antibacteriana própria. Ela é coformulada com o imipenem, um carbapenêmico, para impedir que ele seja degradado nos rins.
+Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Cilastatin é (tradução não oficial): “Inibidor da dipeptidase renal” Texto original em inglês: "Renal dipeptidase inhibitor" ([ChEMBL CHEMBL766 (cilastatin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL766), CC BY-SA 3.0; acessado em 2026-11-19). O que se sabe é que a cilastatina inibe a dipeptidase 1 (desidropeptidase-I) nos rins e não tem atividade antibacteriana própria. Ela é coformulada com o imipenem, um carbapenêmico, para impedir que ele seja degradado nos rins.
 
 Qualquer efeito contra *S. aureus* vem, portanto, do imipenem. A associação imipenem/cilastatina tem atividade documentada contra *S. aureus* sensível à meticilina, e há relatos de caso de uso em infecções refratárias por MRSA, em combinação com fosfomicina. A atividade contra MRSA não é intrínseca aos carbapenêmicos.
 
@@ -130,6 +130,19 @@ Não há advertências nem contraindicações de bula nos dados compilados; cons
 - Dados do mecanismo de ação e das advertências e contraindicações de bula.
 - Estudos comparativos contemporâneos de imipenem/cilastatina em infecções por *S. aureus*, com atenção ao MRSA.
 - Definição de que a avaliação se refere à associação imipenem/cilastatina, e não à cilastatina isolada.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [ChEMBL CHEMBL766 (cilastatin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL766) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

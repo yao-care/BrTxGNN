@@ -55,7 +55,7 @@ O modelo TxGNN prevê que ela possa ser eficaz para a **Síndrome de Hurler (Hur
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação registrados para este fármaco. Segundo informações conhecidas, o imiglucerase é uma glucocerebrosidase (beta-glucosidase) recombinante que age sobre o acúmulo de glucosilceramida na doença de Gaucher.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Imiglucerase (tradução não oficial): “A doença de Gaucher caracteriza-se por uma deficiência da atividade da β-glicocerebrosidase, que resulta no acúmulo de glicocerebrosídeo em diversos tecidos, incluindo fígado, baço e medula óssea. Os açúcares de manose da imiglucerase medeiam a ligação a células, incluindo macrófagos, e a internalização por essas células.” Texto original em inglês: "Gaucher disease is characterized by a deficiency of β-glucocerebrosidase activity, which results in accumulation of glucocerebroside in various tissues including liver, spleen, and bone marrow. The mannose sugars on imiglucerase mediate binding to and internalization by cells including macrophages." ([DailyMed: Cerezyme (imiglucerase) prescribing information, Genzyme Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=df60f030-866b-4374-a31f-8ae3f6b45c38), versão de 2026-08-27; acessado em 2026-11-19). Segundo informações conhecidas, o imiglucerase é uma glucocerebrosidase (beta-glucosidase) recombinante que age sobre o acúmulo de glucosilceramida na doença de Gaucher.
 
 A síndrome de Hurler (MPS I) é causada pela deficiência da enzima alfa-L-iduronidase, com acúmulo de glicosaminoglicanos. O imiglucerase **não repõe a enzima ausente** e não atua sobre esse substrato. O único elo é o conceito compartilhado de doença de depósito lisossômico e de terapia de reposição enzimática, o que é uma justificativa de classe, não específica do fármaco.
 
@@ -100,11 +100,12 @@ Para as demais informações de segurança (advertências e contraindicações),
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “já que o fármaco não possui registro no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Cerezyme (imiglucerase) prescribing information, Genzyme Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=df60f030-866b-4374-a31f-8ae3f6b45c38) |
 
 <!-- review:end log -->
 

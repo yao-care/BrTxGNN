@@ -56,7 +56,7 @@ atualmente com **28 ensaios clínicos** e **20 publicações** apoiando esta dir
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada. Segundo informações conhecidas, a doxorrubicina é um inibidor da topoisomerase II e intercalador de DNA, que causa dano ao DNA em células tumorais de proliferação rápida.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Doxorubicin (tradução não oficial): “Acredita-se que o efeito citotóxico do cloridrato de doxorrubicina sobre as células malignas e seus efeitos tóxicos em vários órgãos estejam relacionados às atividades de intercalação entre bases nucleotídicas e de ligação aos lipídios da membrana celular da doxorrubicina. A intercalação inibe a replicação de nucleotídeos e a ação das DNA e RNA polimerases.” Texto original em inglês: "The cytotoxic effect of doxorubicin hydrochloride on malignant cells and its toxic effects on various organs are thought to be related to nucleotide base intercalation and cell membrane lipid binding activities of doxorubicin. Intercalation inhibits nucleotide replication and action of DNA and RNA polymerases." ([DailyMed: Oxderys (doxorubicin hydrochloride) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f280fb2e-5070-46e1-a4ed-ba191359cedd), versão de 2026-11-12; acessado em 2026-11-19). Segundo informações conhecidas, a doxorrubicina é um inibidor da topoisomerase II e intercalador de DNA, que causa dano ao DNA em células tumorais de proliferação rápida.
 
 A indicação original (antineoplásico, antibiótico antineoplásico) já é oncológica, e a doxorrubicina é um componente básico dos esquemas multiagentes padrão para o sarcoma de Ewing (VDC/IE, VAC/VAI). Assim, a previsão do TxGNN é coerente com o uso clínico real.
 
@@ -181,6 +181,18 @@ As advertências e contraindicações do texto de bula não estavam disponíveis
 | Rabdomiossarcoma embrionário botrioide da vagina | 0,9972 | L4 | Questão de pesquisa |
 | Rabdomiossarcoma embrionário parameníngeo | 0,9971 | L4 | Questão de pesquisa |
 | Ganglioneuroblastoma | 0,9970 | L4 | Questão de pesquisa |
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Oxderys (doxorubicin hydrochloride) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f280fb2e-5070-46e1-a4ed-ba191359cedd) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

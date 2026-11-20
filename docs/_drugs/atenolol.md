@@ -56,7 +56,7 @@ mas, nos dados compiladas para este relatório, há **0 ensaios clínicos** e **
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, atenolol é um betabloqueador beta-1 seletivo, que reduz a frequência cardíaca, o débito cardíaco e a liberação de renina, e é um anti-hipertensivo consolidado.
+Segundo a seção “Clinical Pharmacology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Atenolol (tradução não oficial): “TENORMIN é um agente bloqueador dos receptores beta-adrenérgicos beta 1 -seletivo (cardiosseletivo), sem atividade estabilizadora de membrana ou atividade simpatomimética intrínseca (agonista parcial). Esse efeito preferencial não é absoluto, entretanto, e em doses mais altas, TENORMIN inibe os adrenorreceptores beta 2, localizados principalmente na musculatura brônquica e vascular.” Texto original em inglês: "TENORMIN is a beta 1 -selective (cardioselective) beta-adrenergic receptor blocking agent without membrane stabilizing or intrinsic sympathomimetic (partial agonist) activities. This preferential effect is not absolute, however, and at higher doses, TENORMIN inhibits beta 2 -adrenoreceptors, chiefly located in the bronchial and vascular musculature." ([DailyMed: Tenormin (atenolol) prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6e850b1e-28a4-4ff8-8ed7-bb0b29faa28a), versão de 2025-09-18; acessado em 2026-11-19). Segundo informações conhecidas, atenolol é um betabloqueador beta-1 seletivo, que reduz a frequência cardíaca, o débito cardíaco e a liberação de renina, e é um anti-hipertensivo consolidado.
 
 A doença renal hipertensiva maligna é uma complicação grave de órgão-alvo da hipertensão. A pontuação alta do modelo TxGNN (deep learning) pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, e não evidência biológica nem clínica própria.
 
@@ -136,6 +136,19 @@ A tabela mostra até 30 registros (os ativos primeiro). A lista completa está n
 - Complementar os dados de mecanismo de ação.
 - Realizar revisão sistemática da literatura sobre betabloqueadores em doença renal hipertensiva maligna.
 - Definir a justificativa clínica e o plano de segurança, considerando as contraindicações do grafo de conhecimento e as interações medicamentosas.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Tenormin (atenolol) prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6e850b1e-28a4-4ff8-8ed7-bb0b29faa28a) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

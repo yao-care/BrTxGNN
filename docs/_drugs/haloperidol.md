@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o haloperidol é um antagonista de receptores de dopamina D2, classe dos antipsicóticos butirofenonas.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Haloperidol (tradução não oficial): “O mecanismo de ação do decanoato de haloperidol no tratamento da esquizofrenia em adultos não está esclarecido. No entanto, seu efeito na esquizofrenia pode ser mediado por sua atividade como antagonista dos receptores centrais de dopamina do tipo 2.” Texto original em inglês: "The mechanism of action of haloperidol decanoate for the treatment of schizophrenia in adults is unclear. However, its effect in schizophrenia could be mediated through its activity as an antagonist at central dopamine type 2 receptors." ([DailyMed: haloperidol decanoate prescribing information, BluePoint Laboratories](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3d011250-a517-4c27-8ce3-d59d441ea61c), versão de 2026-11-03; acessado em 2026-11-19). Segundo informações conhecidas, o haloperidol é um antagonista de receptores de dopamina D2, classe dos antipsicóticos butirofenonas.
 
 Não foi identificado vínculo mecanístico entre o bloqueio de dopamina D2 e defeitos de fucosilação na glicosilação de proteínas. A pontuação do TxGNN é muito alta (0,9991), mas resulta apenas de um cálculo do modelo: não há ensaios, nem literatura, nem justificativa biológica plausível que a sustente.
 
@@ -103,11 +103,12 @@ Para advertências e contraindicações em bula, consulte a bula aprovada pela A
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Os dados compilados indicam 5 registros válidos e 15 cancelados, e a Os detalhes de cada registro não estão disponíveis nos dados compilados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: haloperidol decanoate prescribing information, BluePoint Laboratories](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3d011250-a517-4c27-8ce3-d59d441ea61c) |
 
 <!-- review:end log -->
 

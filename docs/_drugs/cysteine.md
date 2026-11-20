@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e apenas **estudos pré-clínicos e d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, a cisteína é um aminoácido nutricional, componente de soluções de nutrição parenteral, e seu grupo tiol (-SH) é precursor da glutationa, um dos principais antioxidantes do organismo.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Cysteine (tradução não oficial): “A cisteína endógena é sintetizada a partir da metionina pela enzima cistationase, por meio da via de transulfuração, e serve como substrato precursor tanto para a glutationa quanto para a taurina. ELCYS ® fornece cisteína à circulação sistêmica de pacientes que necessitam de NP e não conseguem sintetizar quantidades adequadas de cisteína devido à atividade insuficiente ou deficiente da cistationase.” Texto original em inglês: "Endogenous cysteine is synthesized from methionine by the enzyme, cystathionase, via the trans-sulfuration pathway, and serves as a precursor substrate for both glutathione and taurine. ELCYS ® provides cysteine to the systemic circulation of patients who require PN and cannot synthesize adequate quantities of cysteine due to insufficient or deficient cystathionase activity." ([DailyMed: Elcys (cysteine hydrochloride) prescribing information, Exela Pharma Sciences, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=52317b38-b2e6-4a1c-b5b0-43cada0d205e), versão de 2026-04-09; acessado em 2026-11-19). Segundo informações conhecidas, a cisteína é um aminoácido nutricional, componente de soluções de nutrição parenteral, e seu grupo tiol (-SH) é precursor da glutationa, um dos principais antioxidantes do organismo.
 
 O olho seco é uma doença da superfície ocular em que o excesso de espécies reativas de oxigênio (ROS) alimenta um ciclo de inflamação, incluindo a ativação do inflamassoma NLRP3 nas glândulas lacrimais e no epitélio da córnea. Em tese, um precursor antioxidante poderia atuar sobre esse ciclo.
 
@@ -132,13 +132,14 @@ Consulte a bula para as advertências e contraindicações oficiais, pois não f
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-12 | Tabela: registro 106830098 (PRIMENE) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Tabela: registro 106830186 (NUMETA PED) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Tabela: registro 106830185 (NUMETA NEO) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Elcys (cysteine hydrochloride) prescribing information, Exela Pharma Sciences, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=52317b38-b2e6-4a1c-b5b0-43cada0d205e) |
 
 <!-- review:end log -->
 

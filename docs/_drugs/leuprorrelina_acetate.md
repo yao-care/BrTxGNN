@@ -56,7 +56,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Osteoartrite (osteoarthritis)**
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação registrados nos dados compilados para este relatório. Pelo conhecimento farmacológico geral, a leuprorrelina é um agonista do hormônio liberador de gonadotrofinas (GnRH): suprime o eixo hipófise-gônadas e reduz os esteroides sexuais (estrogênio e testosterona).
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Leuprorrelina Acetate (tradução não oficial): “O acetato de leuprorrelina, um agonista do hormônio liberador de gonadotrofina (GnRH), atua como inibidor da secreção de gonadotrofinas quando administrado continuamente em doses terapêuticas. Estudos em animais e em humanos indicam que, após uma estimulação inicial, a administração crônica de acetato de leuprorrelina resulta na supressão da esteroidogênese testicular e ovariana.” Texto original em inglês: "Leuprolide acetate, a gonadotropin releasing hormone (GnRH) agonist, acts as an inhibitor of gonadotropin secretion when given continuously in therapeutic doses. Animal and human studies indicate that after an initial stimulation, chronic administration of leuprolide acetate results in suppression of testicular and ovarian steroidogenesis." ([DailyMed: Vabrinty (leuprolide acetate) prescribing information, URONOVA PHARMACEUTICALS, INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=008776cc-83f1-4f8c-819b-6471425da15f), versão de 2026-04-30; acessado em 2026-11-19). Pelo conhecimento farmacológico geral, a leuprorrelina é um agonista do hormônio liberador de gonadotrofinas (GnRH): suprime o eixo hipófise-gônadas e reduz os esteroides sexuais (estrogênio e testosterona).
 
 Não foi identificado um vínculo mecanístico crível com a osteoartrite. A deficiência de estrogênio está, se algo, associada a maior risco de osteoartrite e perda óssea, de modo que a previsão não é sustentada pela farmacologia conhecida. A pontuação elevada provavelmente reflete proximidade estatística no modelo, e não um mecanismo terapêutico real.
 
@@ -111,11 +111,12 @@ Consulte a bula para informações de segurança. Não foram encontradas intera�
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “O fármaco não possui registros ativos no Brasil” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Vabrinty (leuprolide acetate) prescribing information, URONOVA PHARMACEUTICALS, INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=008776cc-83f1-4f8c-819b-6471425da15f) |
 
 <!-- review:end log -->
 

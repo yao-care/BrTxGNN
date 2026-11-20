@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **tumor astrocítico adulto (adul
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a bleomicina é um antibiótico citotóxico cuja ação antitumoral decorre de quebras na fita de DNA das células tumorais.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Bleomycin (tradução não oficial): “Embora o mecanismo de ação exato da bleomicina seja desconhecido, as evidências disponíveis indicam que o principal modo de ação é a inibição da síntese de DNA, com algumas evidências de inibição menor da síntese de RNA e de proteínas. Sabe-se que a bleomicina causa quebras de fita simples e, em menor grau, de fita dupla no DNA.” Texto original em inglês: "Although the exact mechanism of action of bleomycin is unknown, available evidence indicates that the main mode of action is the inhibition of DNA synthesis with some evidence of lesser inhibition of RNA and protein synthesis. Bleomycin is known to cause single, and to a lesser extent, double-stranded breaks in DNA." ([DailyMed: Bleomycin (bleomycin sulfate) prescribing information, Meitheal Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=640602f9-a7df-46f0-a9b1-19c471008bee), versão de 2026-04-17; acessado em 2026-11-19). Segundo informações conhecidas, a bleomicina é um antibiótico citotóxico cuja ação antitumoral decorre de quebras na fita de DNA das células tumorais.
 
 Em princípio, essa citotoxicidade poderia atingir células de glioma, e o fármaco já foi estudado nesse contexto: há um ensaio de fase I com infusão intratumoral contínua em glioblastoma recorrente, um estudo de fase II associando inibidores de calmodulina à bleomicina em gliomas de alto grau e regimes antigos de radioterapia com procarbazina, bleomicina e CCNU em astrocitomas supratentoriais de alto grau.
 
@@ -126,6 +126,18 @@ Para advertências e contraindicações, consulte a bula.
 - Avaliação de vias de administração local (intratumoral) e sua compatibilidade com as apresentações registradas
 - Estudos modernos e controlados em tumores astrocíticos
 - Informações completas de segurança da bula (advertências e contraindicações)
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Bleomycin (bleomycin sulfate) prescribing information, Meitheal Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=640602f9-a7df-46f0-a9b1-19c471008bee) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

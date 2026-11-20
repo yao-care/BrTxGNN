@@ -57,7 +57,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados no conjunto compilado sobre o mecanismo de ação registrado para este fármaco. Pelo conhecimento geral da classe, o belimumabe inibe o BLyS solúvel (BAFF), reduzindo a sobrevivência de linfócitos B e a produção de autoanticorpos.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Belimumabe (tradução não oficial): “BENLYSTA é um inibidor específico do BLyS que bloqueia a ligação do BLyS solúvel, um fator de sobrevivência das células B, aos seus receptores nas células B. BENLYSTA não se liga diretamente às células B, mas, ao se ligar ao BLyS, BENLYSTA inibe a sobrevivência das células B, incluindo as células B autorreativas, e reduz a diferenciação das células B em plasmócitos produtores de imunoglobulinas.” Texto original em inglês: "BENLYSTA is a BLyS-specific inhibitor that blocks the binding of soluble BLyS, a B-cell survival factor, to its receptors on B cells. BENLYSTA does not bind B cells directly, but by binding BLyS, BENLYSTA inhibits the survival of B cells, including autoreactive B cells, and reduces the differentiation of B cells into immunoglobulin-producing plasma cells." ([DailyMed: Benlysta (belimumab) prescribing information, GlaxoSmithKline LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2fa3c528-1777-4628-8a55-a69dae2381a3), versão de 2026-10-30; acessado em 2026-11-19). Pelo conhecimento geral da classe, o belimumabe inibe o BLyS solúvel (BAFF), reduzindo a sobrevivência de linfócitos B e a produção de autoanticorpos.
 
 Os distúrbios primários de liberação plaquetária costumam ser defeitos hereditários ou adquiridos da secreção de grânulos e da sinalização plaquetária, e não são impulsionados principalmente por autoimunidade mediada por linfócitos B. Por isso, não se identifica uma ligação mecanística plausível entre a inibição de BLyS e esta condição.
 
@@ -90,11 +90,12 @@ Consulte a bula para informações de segurança.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Os detalhes individuais do registro (número, nome comercial, forma farmacêutica e indicação aprovada) **não foram populados** no Evidence Pa” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Benlysta (belimumab) prescribing information, GlaxoSmithKline LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2fa3c528-1777-4628-8a55-a69dae2381a3) |
 
 <!-- review:end log -->
 

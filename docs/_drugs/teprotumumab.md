@@ -55,7 +55,7 @@ O modelo TxGNN (deep learning) prevê que pode ser eficaz para **monossomia do X
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados de mecanismo de ação registrados para este fármaco nos dados compilados. Segundo informações conhecidas, o teprotumumabe é um anticorpo monoclonal inibidor do IGF-1R, e a classificação regulatória brasileira o descreve apenas como imunossupressor.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Teprotumumab (tradução não oficial): “O mecanismo de ação do teprotumumabe-trbw em pacientes com Doença Ocular da Tireoide não foi totalmente caracterizado. O teprotumumabe-trbw liga-se ao IGF-1R e bloqueia sua ativação e sinalização.” Texto original em inglês: "Teprotumumab-trbw's mechanism of action in patients with Thyroid Eye Disease has not been fully characterized. Teprotumumab-trbw binds to IGF-1R and blocks its activation and signaling." ([DailyMed: Tepezza (teprotumumab) prescribing information, Horizon Therapeutics USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3e6c54a1-cefd-4a5b-a855-ab9f268b6cce), versão de 2026-09-28; acessado em 2026-11-19). Segundo informações conhecidas, o teprotumumabe é um anticorpo monoclonal inibidor do IGF-1R, e a classificação regulatória brasileira o descreve apenas como imunossupressor.
 
 A monossomia do X (síndrome de Turner) é uma alteração cromossômica que cursa com baixa estatura e disgenesia gonadal. O eixo do IGF-1 tem relação com o crescimento, o que pode ajudar a entender a pontuação do modelo TxGNN (deep learning), que pode refletir semelhanças aprendidas entre doenças relacionadas, não evidência biológica.
 
@@ -120,12 +120,13 @@ Não há ensaios clínicos nem literatura para nenhuma das indicações prevista
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “e o único registro brasileiro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “já que o registro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Tepezza (teprotumumab) prescribing information, Horizon Therapeutics USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3e6c54a1-cefd-4a5b-a855-ab9f268b6cce) |
 
 <!-- review:end log -->
 

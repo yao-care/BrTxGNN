@@ -56,7 +56,7 @@ com **9 ensaios clínicos** e **20 publicações** listados nos dados compilados
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Pela análise de racional da previsão, o albendazol atua por inibição da beta-tubulina, afetando a biologia de larvas de cestódeos. A cenurose é causada por larvas císticas de Taenia (Multiceps), parasitas do mesmo grupo dos cestódeos.
+Segundo as seções “Mechanism of Action” e “Microbiology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Albendazole (tradução não oficial): “ALBENZA (albendazol) é um fármaco anti-helmíntico sintético da classe dos benzimidazóis. […] ALBENZA liga-se ao sítio sensível à colchicina da β-tubulina, inibindo sua polimerização em microtúbulos. A diminuição dos microtúbulos nas células intestinais dos parasitas diminui sua função absortiva, especialmente a captação de glicose pelas formas adultas e larvais dos parasitas, e também esgota o armazenamento de glicogênio.” Texto original em inglês: "ALBENZA (albendazole) is a synthetic, antihelminthic drug of the class benzimidazole. […] ALBENZA binds to the colchicine-sensitive site of β-tubulin inhibiting their polymerization into microtubules. The decrease in microtubules in the intestinal cells of the parasites decreases their absorptive function, especially the uptake of glucose by the adult and larval forms of the parasites, and also depletes glycogen storage." ([DailyMed: Albenza (albendazole) prescribing information, Amneal Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1977a867-0ee1-44c0-8da3-fe59c48699f5), versão de 2019-09-23; acessado em 2026-11-19). Pela análise de racional da previsão, o albendazol atua por inibição da beta-tubulina, afetando a biologia de larvas de cestódeos. A cenurose é causada por larvas císticas de Taenia (Multiceps), parasitas do mesmo grupo dos cestódeos.
 
 Os ensaios e as publicações disponíveis tratam de neurocisticercose, outra infecção larvária de cestódeos que atinge o sistema nervoso central. A aplicação à cenurose seria, portanto, uma extrapolação de classe, não uma demonstração direta. Também não há estudo citado que avalie a cenurose em si; por isso o nível de evidência é L5, apesar de haver ensaios de Fase 3 em condição vizinha.
 
@@ -148,6 +148,18 @@ Para advertências e contraindicações oficiais, consulte a bula.
 - Dados de mecanismo de ação documentados
 - Advertências e contraindicações da bula aprovada pela ANVISA
 - Plano de monitoramento hematológico e hepático
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Albenza (albendazole) prescribing information, Amneal Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1977a867-0ee1-44c0-8da3-fe59c48699f5) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

@@ -56,7 +56,7 @@ atualmente com **0 ensaios clínicos registrados** e **20 publicações** apoian
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada. Segundo informações conhecidas, o polidocanol é um agente esclerosante que lesa o endotélio vascular e induz trombose e fibrose do vaso injetado. Sua eficácia em varizes dos membros inferiores está estabelecida.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Polidocanol (tradução não oficial): “O princípio ativo de Asclera é o polidocanol. O polidocanol é um agente esclerosante que danifica localmente o endotélio dos vasos sanguíneos. Quando injetado por via intravenosa, o polidocanol induz dano endotelial. As plaquetas então se agregam no local do dano e se aderem à parede venosa.” Texto original em inglês: "The active ingredient of Asclera is polidocanol. Polidocanol is a sclerosing agent that locally damages the endothelium of blood vessels. When injected intravenously, polidocanol induces endothelial damage. Platelets then aggregate at the site of damage and attach to the venous wall." ([DailyMed: Asclera (polidocanol) prescribing information, Methapharm, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bb1f342b-5352-4059-a0b2-e60fd652fd28), versão de 2025-07-16; acessado em 2026-11-19). Segundo informações conhecidas, o polidocanol é um agente esclerosante que lesa o endotélio vascular e induz trombose e fibrose do vaso injetado. Sua eficácia em varizes dos membros inferiores está estabelecida.
 
 As varizes esofágicas são veias dilatadas da parede do esôfago, geralmente decorrentes de hipertensão portal na cirrose. O mecanismo é o mesmo das varizes de membros inferiores: a injeção endoscópica do esclerosante oblitera o vaso e estanca o sangramento. A relação mecanística é direta e bem estabelecida.
 
@@ -112,11 +112,12 @@ Há RCTs e estudos comparativos que utilizam polidocanol em varizes esofágicas 
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “(não há registros ativos)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Asclera (polidocanol) prescribing information, Methapharm, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bb1f342b-5352-4059-a0b2-e60fd652fd28) |
 
 <!-- review:end log -->
 

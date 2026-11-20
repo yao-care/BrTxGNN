@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o bevacizumabe neutraliza o VEGF-A, bloqueando a angiogênese que sustenta o crescimento de tumores.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Bevacizumab (tradução não oficial): “Os produtos de bevacizumabe se ligam ao VEGF e impedem a interação do VEGF com seus receptores (Flt-1 e KDR) na superfície das células endoteliais. A interação do VEGF com seus receptores leva à proliferação de células endoteliais e à formação de novos vasos sanguíneos em modelos in vitro de angiogênese.” Texto original em inglês: "Bevacizumab products bind VEGF and prevent the interaction of VEGF to its receptors (Flt-1 and KDR) on the surface of endothelial cells. The interaction of VEGF with its receptors leads to endothelial cell proliferation and new blood vessel formation in in vitro models of angiogenesis." ([DailyMed: Vegzelma (bevacizumab-adcd) prescribing information, CELLTRION USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4cdcccda-7b9a-49d0-ac50-f4605a3c0ebe), versão de 2026-08-21; acessado em 2026-11-19). Segundo informações conhecidas, o bevacizumabe neutraliza o VEGF-A, bloqueando a angiogênese que sustenta o crescimento de tumores.
 
 Tumores de cabeça e pescoço, região a que pertence a epiglote, costumam depender de vascularização, de modo que o bloqueio do VEGF-A é mecanisticamente plausível. Porém, a pontuação alta (0,9990) é apenas uma previsão computacional: não foram fornecidos ensaios clínicos nem literatura para esta doença, e a similaridade com as indicações originais ainda não foi avaliada.
 
@@ -89,6 +89,19 @@ Para advertências e contraindicações, consulte a bula.
 - Dados do mecanismo de ação detalhado
 - Advertências e contraindicações extraídas da bula na ANVISA
 - Análise da similaridade com as indicações já registradas e da compatibilidade de vias de administração
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Vegzelma (bevacizumab-adcd) prescribing information, CELLTRION USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4cdcccda-7b9a-49d0-ac50-f4605a3c0ebe) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

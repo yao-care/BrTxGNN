@@ -56,7 +56,7 @@ Atualmente há **0 ensaios clínicos** vinculados a esta indicação e **20 publ
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a ranitidina é um antagonista competitivo dos receptores H2 da histamina nas células parietais gástricas, o que reduz a secreção de ácido basal e estimulada. A redução da acidez é a base estabelecida para a cicatrização de úlceras.
+Segundo a seção “Clinical Pharmacology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Ranitidine (tradução não oficial): “Ranitidina Comprimidos é um inibidor competitivo e reversível da ação da histamina nos receptores H 2 de histamina, incluindo os receptores nas células gástricas. Ranitidina Comprimidos não reduz o Ca ++ sérico em estados hipercalcêmicos.” Texto original em inglês: "Ranitidine Tablets are a competitive, reversible inhibitor of the action of histamine at the histamine H 2 -receptors, including receptors on the gastric cells. Ranitidine Tablets do not lower serum Ca ++ in hypercalcemic states." ([DailyMed: ranitidine prescribing information, Atland Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fcf27c99-8bd4-41fb-bff8-38fed9de76d9), versão de 2026-09-24; acessado em 2026-11-19). Segundo informações conhecidas, a ranitidina é um antagonista competitivo dos receptores H2 da histamina nas células parietais gástricas, o que reduz a secreção de ácido basal e estimulada. A redução da acidez é a base estabelecida para a cicatrização de úlceras.
 
 Além disso, os inibidores da bomba de prótons (IBPs) substituíram em grande parte os bloqueadores H2, de modo que o valor de reposicionamento é limitado.
 
@@ -160,12 +160,13 @@ Para advertências e contraindicações da bula, consulte a bula do medicamento.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Vale notar que a ranitidina está comercializada no Brasil, com 20 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Há 20 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: ranitidine prescribing information, Atland Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fcf27c99-8bd4-41fb-bff8-38fed9de76d9) |
 
 <!-- review:end log -->
 

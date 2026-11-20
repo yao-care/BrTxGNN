@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Síndrome de Sanfilippo (Sanfil
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação neste material. Laronidase é uma alfa-L-iduronidase recombinante, que degrada glicosaminoglicanos (GAG) acumulados, como o heparan sulfato e o dermatan sulfato.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Laronidase (tradução não oficial): “Os distúrbios de armazenamento de mucopolissacarídeos são causados pela deficiência de enzimas lisossômicas específicas necessárias para o catabolismo dos glicosaminoglicanos (GAG). A mucopolissacaridose I (MPS I) caracteriza-se pela deficiência de α-L-iduronidase, uma hidrolase lisossômica que catalisa a hidrólise de resíduos terminais de ácido α-L-idurônico do dermatan sulfato e do heparan sulfato. […] A captação de ALDURAZYME pelas células para os lisossomos é muito provavelmente mediada pela ligação das cadeias de oligossacarídeos terminadas em manose-6-fosfato da laronidase a receptores específicos de manose-6-fosfato.” Texto original em inglês: "Mucopolysaccharide storage disorders are caused by the deficiency of specific lysosomal enzymes required for the catabolism of glycosaminoglycans (GAG). Mucopolysaccharidosis I (MPS I) is characterized by the deficiency of α-L-iduronidase, a lysosomal hydrolase which catalyzes the hydrolysis of terminal α-L-iduronic acid residues of dermatan sulfate and heparan sulfate. […] ALDURAZYME uptake by cells into lysosomes is most likely mediated by the mannose-6-phosphate-terminated oligosaccharide chains of laronidase binding to specific mannose-6-phosphate receptors." ([DailyMed: Aldurazyme (laronidase) prescribing information, Genzyme Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a80ac249-cae4-41f3-88bb-344088b20e60), versão de 2026-09-11; acessado em 2026-11-19). Laronidase é uma alfa-L-iduronidase recombinante, que degrada glicosaminoglicanos (GAG) acumulados, como o heparan sulfato e o dermatan sulfato.
 
 A pontuação elevada provavelmente reflete o substrato compartilhado: o heparan sulfato se acumula tanto na mucopolissacaridose tipo I quanto na síndrome de Sanfilippo (MPS III).
 
@@ -97,6 +97,18 @@ Para demais informações de segurança, consulte a bula.
 - Estudos pré-clínicos que demonstrem atividade da laronidase em modelos de MPS III, incluindo efeito no sistema nervoso central
 - Dados de mecanismo de ação detalhados e avaliação de estratégias de passagem pela barreira hematoencefálica
 - Informações de advertências e contraindicações da bula aprovada pela ANVISA
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Aldurazyme (laronidase) prescribing information, Genzyme Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a80ac249-cae4-41f3-88bb-344088b20e60) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

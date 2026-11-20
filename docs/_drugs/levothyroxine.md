@@ -56,7 +56,7 @@ mas **não há ensaios clínicos nem publicações** nos dados compilados para e
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, a levotiroxina é a forma sintética do hormônio tireoidiano T4, e a sinalização tireoidiana tem papel geral no crescimento fetal e na maturação de órgãos, incluindo o rim em desenvolvimento.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Levothyroxine (tradução não oficial): “Os hormônios tireoidianos exercem suas ações fisiológicas por meio do controle da transcrição do DNA e da síntese proteica. A tri-iodotironina (T3) e a L-tiroxina (T4) difundem-se para o núcleo celular e ligam-se às proteínas receptoras de hormônio tireoidiano ligadas ao DNA.” Texto original em inglês: "Thyroid hormones exert their physiologic actions through control of DNA transcription and protein synthesis. Triiodothyronine (T3) and L-thyroxine (T4) diffuse into the cell nucleus and bind to thyroid receptor proteins attached to DNA." ([DailyMed: Levoxyl (levothyroxine sodium) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=758588c3-c63e-491b-0aa2-4f50d80cb174), versão de 2026-11-06; acessado em 2026-11-19). Segundo informações conhecidas, a levotiroxina é a forma sintética do hormônio tireoidiano T4, e a sinalização tireoidiana tem papel geral no crescimento fetal e na maturação de órgãos, incluindo o rim em desenvolvimento.
 
 A razoabilidade, porém, é fraca. A hipodisplasia/aplasia renal é uma malformação congênita estrutural, geralmente associada a defeitos genéticos (como PAX2, HNF1B e RET). Não há mecanismo estabelecido pelo qual a levotiroxina exógena reverta ou trate essa condição. A pontuação alta (0,9967) é apenas uma previsão computacional, provavelmente refletindo proximidade na rede de conhecimento.
 
@@ -106,6 +106,19 @@ As advertências e contraindicações da bula não estavam disponíveis nos dado
 - Advertências e contraindicações da bula da ANVISA, para triagem de segurança.
 - Revisão sistemática da literatura e de registros de ensaios para qualquer das doenças previstas (por exemplo, estudos pré-clínicos sobre hormônio tireoidiano e desenvolvimento renal).
 - Avaliação de se a previsão do complexo de Carney (apenas como terapia de suporte) merece análise separada.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Levoxyl (levothyroxine sodium) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=758588c3-c63e-491b-0aa2-4f50d80cb174) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

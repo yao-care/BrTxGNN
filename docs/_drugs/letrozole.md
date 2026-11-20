@@ -56,7 +56,7 @@ atualmente sem ensaios clínicos registrados e com **8 publicações** (principa
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o letrozol pertence à classe dos inibidores de aromatase, que reduzem a produção de estrogênio. Essa ação é aplicável a tumores de mama dependentes de hormônio.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Letrozole (tradução não oficial): “O crescimento de alguns cânceres de mama é estimulado ou mantido por estrogênios. O tratamento do câncer de mama considerado hormonalmente responsivo (ou seja, positivo para receptores de estrogênio e/ou progesterona ou com status de receptor desconhecido) tem incluído uma variedade de esforços para diminuir os níveis de estrogênio (ovariectomia, adrenalectomia, hipofisectomia) ou inibir os efeitos estrogênicos (antiestrogênios e agentes progestacionais). […] O letrozol é um inibidor competitivo não esteroide do sistema enzimático da aromatase; ele inibe a conversão de andrógenos em estrogênios.” Texto original em inglês: "The growth of some cancers of the breast is stimulated or maintained by estrogens. Treatment of breast cancer thought to be hormonally responsive (i.e., estrogen and/or progesterone receptor positive or receptor unknown) has included a variety of efforts to decrease estrogen levels (ovariectomy, adrenalectomy, hypophysectomy) or inhibit estrogen effects (antiestrogens and progestational agents). […] Letrozole is a nonsteroidal competitive inhibitor of the aromatase enzyme system; it inhibits the conversion of androgens to estrogens." ([DailyMed: Femara (letrozole) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=82b77d74-085f-45ac-a7dd-1f5c038bf406), versão de 2026-06-11; acessado em 2026-11-19). Segundo informações conhecidas, o letrozol pertence à classe dos inibidores de aromatase, que reduzem a produção de estrogênio. Essa ação é aplicável a tumores de mama dependentes de hormônio.
 
 O carcinoma de mamilo é uma neoplasia de origem mamária. Se o tumor expressar receptores hormonais, a supressão de estrogênio é mecanisticamente plausível. Contudo, a similaridade com a indicação original ainda não foi analisada em detalhe.
 
@@ -136,6 +136,19 @@ Nenhum ensaio clínico ou estudo publicado avalia o letrozol diretamente no carc
 - Estudos ou séries de casos que avaliem o letrozol especificamente no carcinoma de mamilo, com status de receptores hormonais
 - Advertências e contraindicações extraídas da bula da ANVISA para triagem de segurança
 - Avaliação de vias de administração e formas farmacêuticas disponíveis
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Femara (letrozole) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=82b77d74-085f-45ac-a7dd-1f5c038bf406) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

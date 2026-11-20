@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos registros compilados. Segundo informações conhecidas, o benralizumabe é um anticorpo que se liga ao IL-5Rα e depleta eosinófilos e basófilos por citotoxicidade celular dependente de anticorpos (ADCC). Nos dados compilados, ele é descrito como tratamento complementar de manutenção na asma eosinofílica grave e, desde 2024, na granulomatose eosinofílica com poliangeíte (aprovações descritas em referência farmacológica internacional, não em registro brasileiro).
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Benralizumab (tradução não oficial): “O benralizumabe é um anticorpo monoclonal (IgG1, kappa) humanizado e afucosilado que se liga diretamente à subunidade alfa do receptor da interleucina-5 humana (IL-5Rα) com uma constante de dissociação de 11 pM. O receptor de IL-5 é expresso na superfície de eosinófilos e basófilos.” Texto original em inglês: "Benralizumab is a humanized afucosylated, monoclonal antibody (IgG1, kappa) that directly binds to the alpha subunit of the human interleukin-5 receptor (IL-5Rα) with a dissociation constant of 11 pM. The IL-5 receptor is expressed on the surface of eosinophils and basophils." ([DailyMed: Fasenra (benralizumab) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=da6aca1a-19ed-44a4-abb7-696c7d58b784), versão de 2026-05-13; acessado em 2026-11-19). Segundo informações conhecidas, o benralizumabe é um anticorpo que se liga ao IL-5Rα e depleta eosinófilos e basófilos por citotoxicidade celular dependente de anticorpos (ADCC). Nos dados compilados, ele é descrito como tratamento complementar de manutenção na asma eosinofílica grave e, desde 2024, na granulomatose eosinofílica com poliangeíte (aprovações descritas em referência farmacológica internacional, não em registro brasileiro).
 
 A ligação mecanística com a trombocitopenia imune é fraca. Essa doença é impulsionada principalmente por autoanticorpos, desregulação de linfócitos T e depuração de plaquetas mediada por macrófagos, sem mecanismo estabelecido dependente de eosinófilos. A pontuação elevada do TxGNN (0,9934) reflete apenas uma previsão computacional e não deve ser interpretada como evidência clínica.
 
@@ -91,6 +91,19 @@ Para as demais informações de segurança (advertências e contraindicações),
 - Estudos pré-clínicos ou de mecanismo que justifiquem o papel de IL-5Rα/eosinófilos na trombocitopenia imune
 - Dados detalhados do mecanismo de ação (MOA)
 - Bula da ANVISA com advertências e contraindicações para triagem de segurança
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Fasenra (benralizumab) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=da6aca1a-19ed-44a4-abb7-696c7d58b784) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

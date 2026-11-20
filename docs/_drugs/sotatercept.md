@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** nos dados compi
 
 ## Por que Esta Previsão é Razoável?
 
-Não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, o sotatercepte é uma proteína de fusão do receptor de activina tipo IIA com Fc (ActRIIA-Fc). Ele captura activinas e fatores de diferenciação de crescimento (GDFs), reequilibrando a sinalização BMP/activina, o que sustenta seu uso na hipertensão arterial pulmonar.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Sotatercept (tradução não oficial): “Sotatercepte-csrk, uma proteína de fusão recombinante receptor de ativina tipo IIA-Fc (ActRIIA-Fc), é um inibidor da sinalização da ativina que se liga à ativina A e a outros ligantes da superfamília do TGF- β. Como resultado, sotatercepte-csrk melhora o equilíbrio entre a sinalização pró-proliferativa (mediada por ActRIIA/Smad2/3) e antiproliferativa (mediada por BMPRII/Smad1/5/8) para modular a proliferação vascular.” Texto original em inglês: "Sotatercept-csrk, a recombinant activin receptor type IIA-Fc (ActRIIA-Fc) fusion protein, is an activin signaling inhibitor that binds to activin A and other TGF- β superfamily ligands. As a result, sotatercept-csrk improves the balance between the pro-proliferative (ActRIIA/Smad2/3-mediated) and anti-proliferative (BMPRII/Smad1/5/8-mediated) signaling to modulate vascular proliferation." ([DailyMed: Winrevair (sotatercept-csrk) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=21693ee2-cd23-4137-ac67-066bb3a4a9b7), versão de 2026-09-21; acessado em 2026-11-19). Segundo informações conhecidas, o sotatercepte é uma proteína de fusão do receptor de activina tipo IIA com Fc (ActRIIA-Fc). Ele captura activinas e fatores de diferenciação de crescimento (GDFs), reequilibrando a sinalização BMP/activina, o que sustenta seu uso na hipertensão arterial pulmonar.
 
 A ligação com a leucemia linfoblástica aguda é **especulativa**. A sinalização da família activina/TGF-beta pode influenciar a hematopoese, mas não há mecanismo direto estabelecido. A pontuação alta (0,9978) é apenas uma previsão do modelo, sem respaldo em ensaios ou publicações. Como o fármaco modula a diferenciação hematopoética, um sinal em neoplasia hematológica também precisaria ser avaliado quanto a possível **dano**, e não apenas benefício.
 
@@ -118,11 +118,12 @@ Todas as previsões estão no nível L5 (apenas previsão do modelo), sem ensaio
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “O registro brasileiro está cancelado e n” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Winrevair (sotatercept-csrk) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=21693ee2-cd23-4137-ac67-066bb3a4a9b7) |
 
 <!-- review:end log -->
 

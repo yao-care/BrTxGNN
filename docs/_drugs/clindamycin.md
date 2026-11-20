@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a clindamicina é um antibiótico lincosamida que inibe a síntese proteica bacteriana ao se ligar à subunidade ribossomal 50S. Sua eficácia como antibacteriano e no tratamento da acne está estabelecida.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Clindamycin (tradução não oficial): “A clindamicina inibe a síntese proteica bacteriana ligando-se ao RNA 23S da subunidade 50S do ribossomo. A clindamicina é bacteriostática.” Texto original em inglês: "Clindamycin inhibits bacterial protein synthesis by binding to the 23S RNA of the 50S subunit of the ribosome. Clindamycin is bacteriostatic." ([DailyMed: Cleocin Hydrochloride (clindamycin hydrochloride) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=df9a2a41-b132-4f43-8940-b2d773b1369a), versão de 2026-09-16; acessado em 2026-11-19). Segundo informações conhecidas, a clindamicina é um antibiótico lincosamida que inibe a síntese proteica bacteriana ao se ligar à subunidade ribossomal 50S. Sua eficácia como antibacteriano e no tratamento da acne está estabelecida.
 
 A relação com a nova indicação é fraca. A ceratoconjuntivite epitelial punctata costuma ter origem viral ou inflamatória, e a clindamicina só faria sentido se houvesse componente bacteriano. A pontuação do modelo é muito alta, mas não há ensaios nem literatura que a sustentem.
 
@@ -141,11 +141,12 @@ As advertências e contraindicações da bula brasileira não estavam disponíve
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “já que não há registro vigente no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Cleocin Hydrochloride (clindamycin hydrochloride) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=df9a2a41-b132-4f43-8940-b2d773b1369a) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ atualmente com **1 ensaio clínico** (Phase 2, concluído) apoiando esta direç�
 
 ## Por que Esta Previsão é Razoável?
 
-O acetato de megestrol é uma progestina sintética que atua nos receptores de progesterona. A terapia com progestágenos é uma abordagem hormonal estabelecida para o carcinoma endometrial com receptores hormonais positivos, pois induz diferenciação e supressão do crescimento das células endometriais. Atualmente, não há dados detalhados de mecanismo de ação no registro do fármaco; a descrição acima baseia-se no conhecimento farmacológico geral da classe.
+O acetato de megestrol é uma progestina sintética que atua nos receptores de progesterona. A terapia com progestágenos é uma abordagem hormonal estabelecida para o carcinoma endometrial com receptores hormonais positivos, pois induz diferenciação e supressão do crescimento das células endometriais. Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Megestrol Acetate (tradução não oficial): “Vários pesquisadores relataram a propriedade estimulante do apetite do acetato de megestrol e seu possível uso na caquexia. O mecanismo exato pelo qual o acetato de megestrol produz efeitos na anorexia e na caquexia é desconhecido até o momento.” Texto original em inglês: "Several investigators have reported on the appetite enhancing property of megestrol acetate and its possible use in cachexia. The precise mechanism by which megestrol acetate produces effects in anorexia and cachexia is unknown at the present time." ([DailyMed: megestrol acetate prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2dc921d5-e423-4379-a345-151e87d13651), versão de 2026-04-14; acessado em 2026-11-19).
 
 A indicação original (antineoplásico, de forma genérica) já situa o fármaco em oncologia, e o câncer endometrial é um tumor classicamente sensível a hormônios. Por isso, o uso de um progestágeno nesse cenário tem lógica biológica.
 
@@ -129,13 +129,14 @@ A previsão com melhor sustentação é a de câncer de ovário, que tem um ensa
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “e o único registro brasileiro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Definir a situação regulatória: o registro está cancelado, e seria necessário um novo registro ou outra via de acesso” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Tabela: registro 106460123 (FEMIGESTROL) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: megestrol acetate prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2dc921d5-e423-4379-a345-151e87d13651) |
 
 <!-- review:end log -->
 

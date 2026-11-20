@@ -56,7 +56,7 @@ atualmente com **7 ensaios clínicos** e **1 publicação** apoiando esta direç
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação na base de dados consultada. Segundo informações conhecidas, o melfalano é um agente alquilante bifuncional (mostarda nitrogenada) que forma ligações cruzadas entre as fitas do DNA, impedindo a divisão das células tumorais.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Melphalan (tradução não oficial): “O melfalano é um agente alquilante do tipo bis-cloroetilamina. Como resultado, sua citotoxicidade parece estar relacionada à extensão de suas ligações cruzadas entre as fitas do DNA, provavelmente por meio da ligação na posição N 7 da guanina.” Texto original em inglês: "Melphalan is an alkylating agent of the bischloroethylamine type. As a result, its cytotoxicity appears to be related to the extent of its interstrand cross-linking with DNA, probably by binding at the N 7 position of guanine." ([DailyMed: Evomela (melphalan) prescribing information, Acrotech Biopharma Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=69f55869-dc11-408e-8fc7-47634269a52c), versão de 2026-09-15; acessado em 2026-11-19). Segundo informações conhecidas, o melfalano é um agente alquilante bifuncional (mostarda nitrogenada) que forma ligações cruzadas entre as fitas do DNA, impedindo a divisão das células tumorais.
 
 Os tumores de células germinativas são conhecidos por sua alta quimiossensibilidade a agentes que lesam o DNA. Por isso, o melfalano em altas doses, com resgate por células-tronco autólogas, é uma estratégia plausível de resgate em doenças recidivadas ou de mau prognóstico. A pontuação muito alta do TxGNN é coerente com esse mecanismo.
 
@@ -139,13 +139,14 @@ Há um ensaio de Phase 2 concluído em tumores germinativos recidivados, mas o m
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-10-31 | Removido: “(registro cancelado)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Além disso, o único registro brasileiro está cancelado e as informações de bula não estão disponíveis, o que impede a triagem de segurança” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Tabela: registro 137640150 (ALKERAN) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Evomela (melphalan) prescribing information, Acrotech Biopharma Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=69f55869-dc11-408e-8fc7-47634269a52c) |
 
 <!-- review:end log -->
 

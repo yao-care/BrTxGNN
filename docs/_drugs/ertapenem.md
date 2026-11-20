@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **artrite bacteriana (bacterial a
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Pelo conhecimento geral da farmacologia dos carbapenêmicos, o ertapenem inibe a síntese da parede celular bacteriana ao se ligar às proteínas ligadoras de penicilina (PBPs). Isso é biologicamente plausível para infecções osteoarticulares causadas por enterobactérias sensíveis, anaeróbios e estreptococos.
+Segundo as seções “Mechanism of Action” e “Microbiology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Ertapenem (tradução não oficial): “O ertapeném sódico é um antibiótico carbapenêmico. […] O ertapeném tem atividade in vitro contra bactérias aeróbias e anaeróbias Gram-positivas e Gram-negativas. A atividade bactericida do ertapeném resulta da inibição da síntese da parede celular e é mediada pela ligação do ertapeném às proteínas de ligação à penicilina (PBPs).” Texto original em inglês: "Ertapenem sodium is a carbapenem antibiotic. […] Ertapenem has in vitro activity against Gram-positive and Gram-negative aerobic and anaerobic bacteria. The bactericidal activity of ertapenem results from the inhibition of cell wall synthesis and is mediated through ertapenem binding to penicillin binding proteins (PBPs)." ([DailyMed: Invanz (ertapenem sodium) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=33f3b99b-fa82-42e0-26bf-f49891ae3d22), versão de 2026-02-04; acessado em 2026-11-19). Pelo conhecimento geral da farmacologia dos carbapenêmicos, o ertapenem inibe a síntese da parede celular bacteriana ao se ligar às proteínas ligadoras de penicilina (PBPs). Isso é biologicamente plausível para infecções osteoarticulares causadas por enterobactérias sensíveis, anaeróbios e estreptococos.
 
 Por ser um antibacteriano de amplo espectro, a artrite bacteriana está dentro do espectro de ação esperado da classe. Trata-se, portanto, mais de uma extensão de espectro do que de um reposicionamento no sentido estrito. A pontuação do modelo é apenas uma previsão e não substitui evidência clínica.
 
@@ -106,6 +106,19 @@ Atualmente não há ensaios clínicos relacionados registrados.
 - Dados de mecanismo de ação e análise de sensibilidade dos patógenos mais comuns
 - Advertências e contraindicações da bula da ANVISA para a triagem de segurança
 - Avaliação das interações medicamentosas relevantes, em especial com bupropiona
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Invanz (ertapenem sodium) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=33f3b99b-fa82-42e0-26bf-f49891ae3d22) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

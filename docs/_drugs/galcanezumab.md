@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Deficiência de Cofator 2 da He
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o galcanezumabe é um anticorpo monoclonal que neutraliza o peptídeo relacionado ao gene da calcitonina (CGRP) e é usado na prevenção da enxaqueca.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Galcanezumab (tradução não oficial): “O galcanezumabe-gnlm é um anticorpo monoclonal humanizado que se liga ao ligante peptídeo relacionado ao gene da calcitonina (CGRP) e bloqueia sua ligação ao receptor.” Texto original em inglês: "Galcanezumab-gnlm is a humanized monoclonal antibody that binds to calcitonin gene-related peptide (CGRP) ligand and blocks its binding to the receptor." ([DailyMed: Emgality (galcanezumab-gnlm) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=33a147be-233a-40e8-a55e-e40936e28db0), versão de 2026-06-05; acessado em 2026-11-19). Segundo informações conhecidas, o galcanezumabe é um anticorpo monoclonal que neutraliza o peptídeo relacionado ao gene da calcitonina (CGRP) e é usado na prevenção da enxaqueca.
 
 Não foi identificado vínculo mecanístico crível com a nova indicação. O cofator II da heparina é uma serpina que inibe a trombina de forma dependente de dermatan sulfato/heparina. As vias do CGRP e da inibição da coagulação mediada por serpinas não se sobrepõem, e um anticorpo anti-CGRP não repõe uma proteína plasmática deficiente.
 
@@ -110,12 +110,13 @@ Não há ensaios clínicos nem literatura, e o mecanismo do galcanezumabe (bloqu
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-10-31 | Removido: “(registro cancelado)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Além disso, o único registro no Brasil está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Emgality (galcanezumab-gnlm) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=33a147be-233a-40e8-a55e-e40936e28db0) |
 
 <!-- review:end log -->
 

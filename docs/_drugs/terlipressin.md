@@ -58,7 +58,7 @@ Há **0 ensaios clínicos** registrados e **20 publicações** recuperadas, em s
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, a terlipressina é um pró-fármaco da lisina-vasopressina, agonista dos receptores V1, usada como vasoconstritora esplâncnica em sangramento varicoso e síndrome hepatorrenal.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Terlipressin (tradução não oficial): “A terlipressina é um análogo sintético da vasopressina com o dobro de seletividade pelos receptores V 1 da vasopressina em relação aos receptores V 2. A terlipressina atua tanto como pró-fármaco da lisina-vasopressina quanto possuindo atividade farmacológica própria.” Texto original em inglês: "Terlipressin is a synthetic vasopressin analogue with twice the selectivity for vasopressin V 1 receptors versus V 2 receptors. Terlipressin acts as both a prodrug for lysine-vasopressin, as well as having pharmacologic activity on its own." ([DailyMed: Terlivaz (terlipressin) prescribing information, Keenova Hospital Products Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3a35b86c-f451-4fac-8499-43019e4da354), versão de 2026-10-23; acessado em 2026-11-19). Segundo informações conhecidas, a terlipressina é um pró-fármaco da lisina-vasopressina, agonista dos receptores V1, usada como vasoconstritora esplâncnica em sangramento varicoso e síndrome hepatorrenal.
 
 A relação com a nova indicação é indireta. Alguns estudos hemodinâmicos pequenos sugerem que a terlipressina pode reduzir a resistência vascular pulmonar, ao contrário da vasoconstrição observada nos leitos sistêmico e esplâncnico. Uma hipótese é a liberação de óxido nítrico mediada por V1 na vasculatura pulmonar. Há estudos em pacientes cirróticos com hipertensão portopulmonar e relatos de caso em neonatos com hipertensão pulmonar persistente.
 
@@ -125,11 +125,12 @@ A previsão de hipertensão pulmonar tem plausibilidade fisiológica e alguns es
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-10-31 | Removido: “(registros cancelados)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Terlivaz (terlipressin) prescribing information, Keenova Hospital Products Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3a35b86c-f451-4fac-8499-43019e4da354) |
 
 <!-- review:end log -->
 

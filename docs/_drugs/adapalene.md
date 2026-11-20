@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Zinco plasmático elevado (zinc
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Sabe-se que o adapaleno é um retinoide tópico que atua sobre receptores do ácido retinoico (RAR-beta e RAR-gama).
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Adapalene (tradução não oficial): “O adapaleno liga-se a receptores nucleares específicos do ácido retinoico, mas não se liga à proteína receptora citosólica. Estudos de perfil bioquímico e farmacológico demonstraram que o adapaleno é um modulador da diferenciação celular, da queratinização e de processos inflamatórios.” Texto original em inglês: "Adapalene binds to specific retinoic acid nuclear receptors but does not bind to cytosolic receptor protein. Biochemical and pharmacological profile studies have demonstrated that adapalene is a modulator of cellular differentiation, keratinization, and inflammatory processes." ([DailyMed: Differin (adapalene) prescribing information, Galderma Laboratories, L.P.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a0031324-92a6-4c11-90e2-c2818f7278ec), versão de 2023-12-27; acessado em 2026-11-19). Sabe-se que o adapaleno é um retinoide tópico que atua sobre receptores do ácido retinoico (RAR-beta e RAR-gama).
 
 Não foi identificado um vínculo mecanístico plausível entre o adapaleno e a regulação do zinco plasmático. O fármaco não tem papel conhecido nesse processo. A pontuação alta do modelo parece ser um artefato da predição baseada em redes de relações, sem respaldo biológico demonstrado. A similaridade com a indicação original ainda não foi avaliada.
 
@@ -134,11 +134,12 @@ Para demais informações de segurança, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-12 | Contagem exibida: “Estão listados os 5 primeiros de 10 registros” → “Estão listados os 28 registros” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Differin (adapalene) prescribing information, Galderma Laboratories, L.P.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a0031324-92a6-4c11-90e2-c2818f7278ec) |
 
 <!-- review:end log -->
 

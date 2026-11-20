@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para a **síndrome da pessoa rígida c
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a acarbose atua na luz intestinal inibindo as alfa-glicosidases, o que retarda a absorção de carboidratos e reduz a glicemia pós-prandial.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Acarbose (tradução não oficial): “Ao contrário das sulfonilureias, Acarbose Comprimidos não aumenta a secreção de insulina. A ação anti-hiperglicêmica da acarbose resulta de uma inibição competitiva e reversível da alfa-amilase pancreática e das enzimas alfa-glicosídeo hidrolases intestinais ligadas à membrana.” Texto original em inglês: "In contrast to sulfonylureas, Acarbose Tablets do not enhance insulin secretion. The antihyperglycemic action of acarbose results from a competitive, reversible inhibition of pancreatic alpha-amylase and membrane-bound intestinal alpha-glucoside hydrolase enzymes." ([DailyMed: acarbose prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1ba7a072-03b0-41f2-be7a-101145bdef3a), versão de 2026-08-11; acessado em 2026-11-19). Segundo informações conhecidas, a acarbose atua na luz intestinal inibindo as alfa-glicosidases, o que retarda a absorção de carboidratos e reduz a glicemia pós-prandial.
 
 A síndrome da pessoa rígida é um distúrbio autoimune da neurotransmissão GABAérgica, geralmente associado a anticorpos anti-GAD65. Não foi identificado vínculo mecanístico plausível com a acarbose. A pontuação alta (0,9965) vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, possivelmente a autoimunidade a GAD65 compartilhada com o diabetes, e não evidência biológica.
 
@@ -98,6 +98,19 @@ Consulte a bula para advertências e contraindicações oficiais.
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), ainda ausente.
 - Complementar os dados de mecanismo de ação (por exemplo, via DrugBank).
 - Demonstrar um racional biológico direto, com estudos pré-clínicos ou clínicos na doença-alvo, antes de qualquer reavaliação.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: acarbose prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1ba7a072-03b0-41f2-be7a-101145bdef3a) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

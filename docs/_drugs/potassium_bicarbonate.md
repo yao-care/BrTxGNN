@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, o bicarbonato de potássio é um agente alcalinizante que neutraliza o ácido gástrico, o que fundamenta sua indicação original como antiácido.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Potassium Bicarbonate (tradução não oficial): “A terapia intravenosa com bicarbonato de sódio aumenta o bicarbonato plasmático, tampona o excesso de concentração de íons hidrogênio, eleva o pH sanguíneo.” Texto original em inglês: "Intravenous sodium bicarbonate therapy increases plasma bicarbonate, buffers excess hydrogen ion concentration, raises blood pH." ([DailyMed: sodium bicarbonate prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b50c858a-00c8-4cb2-ad73-8797f19e656d), versão de 2026-08-14; acessado em 2026-11-19). Segundo informações conhecidas, o bicarbonato de potássio é um agente alcalinizante que neutraliza o ácido gástrico, o que fundamenta sua indicação original como antiácido.
 
 Essa ação oferece uma justificativa sintomática plausível para a gastroduodenite, na qual a irritação da mucosa relacionada ao ácido contribui para os sintomas. A indicação prevista, portanto, se sobrepõe de perto à indicação original, e a previsão pode ser vista mais como uma extensão do uso existente do que como um reposicionamento genuíno.
 
@@ -109,12 +109,13 @@ Não há ensaios clínicos nem literatura que sustentem a previsão (nível L5).
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “e o único registro brasileiro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Tabela: registro 173900005 (LUFTAGASTRO) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: sodium bicarbonate prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b50c858a-00c8-4cb2-ad73-8797f19e656d) |
 
 <!-- review:end log -->
 

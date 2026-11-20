@@ -56,7 +56,7 @@ atualmente com **nenhum ensaio clínico registrado** e **1 publicação clínica
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação na base consultada. Segundo informações conhecidas, o parecoxibe é um pró-fármaco do valdecoxibe, inibidor seletivo da COX-2, com propriedades anti-inflamatórias e analgésicas.
+Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Parecoxib é (tradução não oficial): “Inibidor da ciclo-oxigenase-2” Texto original em inglês: "Cyclooxygenase-2 inhibitor" ([ChEMBL CHEMBL1206690 (parecoxib): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1206690), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações conhecidas, o parecoxibe é um pró-fármaco do valdecoxibe, inibidor seletivo da COX-2, com propriedades anti-inflamatórias e analgésicas.
 
 A síntese de prostaglandina E2 (PGE2) dependente de COX-2 contribui para a inflamação neurogênica e a sensibilização do sistema trigeminovascular na enxaqueca. Por isso, inibir a COX-2 é mecanisticamente plausível para crises agudas. A pontuação alta do TxGNN (0,9955) é coerente com esse vínculo.
 
@@ -129,13 +129,14 @@ Apesar da pontuação alta e do mecanismo plausível, a evidência clínica se r
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-10-31 | Removido: “(registros cancelados)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “s 8 registros estão válidos (8 de 8); o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “s 8 registros no Brasil estão válidos (8 de 8) e o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [ChEMBL CHEMBL1206690 (parecoxib): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1206690) |
 
 <!-- review:end log -->
 

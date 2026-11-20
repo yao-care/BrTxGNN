@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Porfiria intermitente aguda (ac
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Sabe-se que a dexclorfeniramina é um anti-histamínico H1, mas não há um vínculo mecanístico estabelecido com a porfiria intermitente aguda.
+Segundo a seção “Clinical Pharmacology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Dexchlorpheniramine Maleate (tradução não oficial): “O maleato de dexclorfeniramina é um anti-histamínico com efeitos colaterais anticolinérgicos (de ressecamento) e sedativos. Os anti-histamínicos parecem competir com a histamina pelos sítios receptores celulares nas células efetoras.” Texto original em inglês: "Dexchlorpheniramine maleate is an antihistamine with anticholinergic (drying) and sedative side effects. Antihistamines appear to compete with histamine for cell receptor sites on effector cells." ([DailyMed: Corphena (dexchlorpheniramine maleate) prescribing information, BluCrest Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4694616b-4ef4-28a4-e063-6394a90ac5f6), versão de 2026-10-15; acessado em 2026-11-19). Sabe-se que a dexclorfeniramina é um anti-histamínico H1, mas não há um vínculo mecanístico estabelecido com a porfiria intermitente aguda.
 
 A pontuação alta (0,9912) vem exclusivamente de uma previsão computacional do modelo e não é respaldada por estudos clínicos ou publicações. A relação entre o uso original (antialérgico) e a nova indicação (doença metabólica hepática rara) ainda não foi avaliada.
 
@@ -89,6 +89,19 @@ Consulte a bula para informações de segurança. Não há dados de interações
 - Obter dados do mecanismo de ação (por exemplo, via DrugBank)
 - Realizar revisão de segurança específica da dexclorfeniramina em porfiria
 - Buscar estudos pré-clínicos ou clínicos que avaliem diretamente a porfiria intermitente aguda
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Corphena (dexchlorpheniramine maleate) prescribing information, BluCrest Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4694616b-4ef4-28a4-e063-6394a90ac5f6) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

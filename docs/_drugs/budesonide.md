@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **eczema atópico (atopic eczema)
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a budesonida é um glicocorticoide potente, com ação anti-inflamatória e imunossupressora, que reduz a produção de citocinas pró-inflamatórias e o recrutamento de células imunes para o tecido inflamado.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Budesonide (tradução não oficial): “A budesonida é um corticosteroide anti-inflamatório que apresenta potente atividade glicocorticoide e fraca atividade mineralocorticoide. Em modelos padrão in vitro e em animais, a budesonida tem afinidade aproximadamente 200 vezes maior pelo receptor de glicocorticoides e potência anti-inflamatória tópica 1000 vezes maior do que o cortisol (ensaio de edema de orelha induzido por óleo de cróton em ratos).” Texto original em inglês: "Budesonide is an anti-inflammatory corticosteroid that exhibits potent glucocorticoid activity and weak mineralocorticoid activity. In standard in vitro and animal models, budesonide has approximately a 200-fold higher affinity for the glucocorticoid receptor and a 1000-fold higher topical anti-inflammatory potency than cortisol (rat croton oil ear edema assay)." ([DailyMed: Budesonide Inhalation Suspension (budesonide) prescribing information, Cipla USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c52c5382-1400-44b9-95be-a30e1cf706da), versão de 2026-06-10; acessado em 2026-11-19). Segundo informações conhecidas, a budesonida é um glicocorticoide potente, com ação anti-inflamatória e imunossupressora, que reduz a produção de citocinas pró-inflamatórias e o recrutamento de células imunes para o tecido inflamado.
 
 O eczema atópico é uma inflamação cutânea crônica, dirigida principalmente por resposta imune do tipo Th2. Corticosteroides tópicos são tradicionalmente usados nessa condição, o que torna a ação anti-inflamatória da budesonida mecanisticamente plausível.
 
@@ -116,12 +116,13 @@ Para advertências e contraindicações formais, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-10-31 | Removido: “Os dados locais indicam apenas registros cancelados, sem produto atualmente válido no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “já que não há registro válido no mercado brasileiro” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Budesonide Inhalation Suspension (budesonide) prescribing information, Cipla USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c52c5382-1400-44b9-95be-a30e1cf706da) |
 
 <!-- review:end log -->
 

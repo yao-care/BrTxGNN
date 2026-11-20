@@ -59,10 +59,9 @@ O modelo TxGNN prevê que ele pode ser eficaz para **leucemia linfocítica crôn
 
 ## Por que Esta Previsão é Razoável?
 
-Não há dados detalhados sobre o mecanismo de ação compilados para este relatório. Segundo informações conhecidas, a asparaginase degrada a asparagina circulante, e células linfoides imaturas com baixa expressão de asparagina sintetase dependem desse aminoácido para sobreviver. Esse racional é bem estabelecido na LLA.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Pegaspargase (tradução não oficial): “A L-asparaginase é uma enzima que catalisa a conversão do aminoácido L-asparagina em ácido aspártico e amônia. Acredita-se que o efeito farmacológico de ONCASPAR se baseie na morte de células leucêmicas devido à depleção de asparagina plasmática.” Texto original em inglês: "L-asparaginase is an enzyme that catalyzes the conversion of the amino acid L-asparagine into aspartic acid and ammonia. The pharmacological effect of ONCASPAR is thought to be based on the killing of leukemic cells due to depletion of plasma asparagine." ([DailyMed: Oncaspar (pegaspargase) prescribing information, Servier Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ac7b6a6f-6ddb-48c6-8088-d8a8e3fea6ce), versão de 2024-10-07; acessado em 2026-11-19). Segundo informações conhecidas, a asparaginase degrada a asparagina circulante, e células linfoides imaturas com baixa expressão de asparagina sintetase dependem desse aminoácido para sobreviver. Esse racional é bem estabelecido na LLA.
 
 A relação com a nova indicação é fraca. A LLC/LLP é composta por células B maduras, de proliferação lenta, e nada indica a mesma dependência de asparagina. A pontuação alta provavelmente reflete a proximidade na ontologia com as indicações de leucemia linfoide, e não um sinal biológico independente. Isso vale também para o subtipo com hipermutação somática dos genes da região variável da cadeia pesada de imunoglobulina (pontuação idêntica, 0,9995).
-
 
 ---
 
@@ -139,6 +138,19 @@ Consulte a bula para advertências e contraindicações.
 - Estudos pré-clínicos que mostrem sensibilidade de células de LLC/LLP à depleção de asparagina (expressão de asparagina sintetase).
 - Dados do mecanismo de ação e da bula da ANVISA (advertências e contraindicações; o texto de indicação dos registros está vazio).
 - Se houver interesse em reposicionamento, avaliar separadamente o linfoma NK/T extranodal, onde a literatura é mais consistente, como indicação própria (não é a previsão principal deste relatório).
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Oncaspar (pegaspargase) prescribing information, Servier Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ac7b6a6f-6ddb-48c6-8088-d8a8e3fea6ce) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

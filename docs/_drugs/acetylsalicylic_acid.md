@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Sabe-se de forma geral que o ácido acetilsalicílico inibe a ciclo-oxigenase (COX) e, com isso, reduz a agregação plaquetária e a síntese de prostaglandinas.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para aspirin and extended - release dipyridamole (associação que contém Acetylsalicylic Acid) (tradução não oficial): “Ácido acetilsalicílico O ácido acetilsalicílico inibe a agregação plaquetária por inibição irreversível da ciclo-oxigenase plaquetária e, assim, inibe a geração de tromboxano A 2, um potente indutor da agregação plaquetária e da vasoconstrição.” Texto original em inglês: "Aspirin Aspirin inhibits platelet aggregation by irreversible inhibition of platelet cyclooxygenase and thus inhibits the generation of thromboxane A 2, a powerful inducer of platelet aggregation and vasoconstriction." ([DailyMed: Aspirin And Extended - Release Dipyridamole Capsules, 25 Mg / 200 Mg (aspirin and extended - release dipyridamole) prescribing information, Major Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6e652e1-b2e4-47ba-bed2-c5e902f8b8f1), versão de 2026-08-19; acessado em 2026-11-19). Sabe-se de forma geral que o ácido acetilsalicílico inibe a ciclo-oxigenase (COX) e, com isso, reduz a agregação plaquetária e a síntese de prostaglandinas.
 
 Os dados compilados não sustentam nenhum vínculo mecanístico entre o fármaco e a atrofodermia vermiculada, uma doença atrófica folicular da pele. A pontuação alta é apenas um resultado computacional, sem ensaios clínicos nem literatura que a respaldem. A similaridade com a indicação original não foi avaliada.
 
@@ -98,6 +98,19 @@ Para advertências e contraindicações, consulte a bula.
 - Estudos pré-clínicos ou séries de casos que estudem diretamente a atrofodermia vermiculada.
 - Advertências e contraindicações extraídas da bula na ANVISA.
 - Avaliação da via de administração, da relação com a indicação original e do perfil de risco-benefício (sangramento e interações medicamentosas).
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Aspirin And Extended - Release Dipyridamole Capsules, 25 Mg / 200 Mg (aspirin and extended - release dipyridamole) prescribing information, Major Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6e652e1-b2e4-47ba-bed2-c5e902f8b8f1) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

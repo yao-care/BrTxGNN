@@ -56,7 +56,7 @@ O modelo TxGNN prevê que pode ser eficaz para **adenocarcinoma do ligamento ute
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Sabe-se que o atezolizumabe bloqueia o PD-L1, restaurando a atividade das células T contra o tumor. Em princípio, esse mecanismo poderia ser aplicável a adenocarcinomas do trato genital feminino.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Atezolizumabe (tradução não oficial): “O PD L1 pode ser expresso em células tumorais e/ou em células imunes infiltrantes do tumor e pode contribuir para a inibição da resposta imune antitumoral no microambiente tumoral. A ligação do PD L1 aos receptores PD 1 e B7.1 encontrados nas células T e nas células apresentadoras de antígenos suprime a atividade das células T citotóxicas, a proliferação das células T e a produção de citocinas. […] Atezolizumabe é um anticorpo monoclonal que se liga ao PD L1 e bloqueia suas interações com os receptores PD 1 e B7.1.” Texto original em inglês: "PD L1 may be expressed on tumor cells and/or tumor infiltrating immune cells and can contribute to the inhibition of the anti-tumor immune response in the tumor microenvironment. Binding of PD L1 to the PD 1 and B7.1 receptors found on T cells and antigen presenting cells suppresses cytotoxic T-cell activity, T-cell proliferation and cytokine production. […] Atezolizumab is a monoclonal antibody that binds to PD L1 and blocks its interactions with both PD 1 and B7.1 receptors." ([DailyMed: Tecentriq (atezolizumab) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6fa682c9-a312-4932-9831-f286908660ee), versão de 2026-10-13; acessado em 2026-11-19). Sabe-se que o atezolizumabe bloqueia o PD-L1, restaurando a atividade das células T contra o tumor. Em princípio, esse mecanismo poderia ser aplicável a adenocarcinomas do trato genital feminino.
 
 No entanto, a pontuação muito alta do modelo (0,9993) não é sustentada por nenhuma evidência clínica nos dados disponíveis. A relação com a indicação original ainda não foi analisada, e a expressão de PD-L1 nesse tipo de tumor, que é raro, não está estabelecida. Qualquer vínculo seria uma extrapolação a partir de tumores ginecológicos em geral, e não evidência direta.
 
@@ -87,13 +87,14 @@ Consulte a bula para informações de segurança.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “No entanto, os detalhes do registro (número, nome comercial, forma farmacêutica e indicação aprovada) **não estão disponíveis** no Evidence ” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “os detalhes do registro regulatório estão vazios” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “(ANVISA/TFDA)” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Tecentriq (atezolizumab) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6fa682c9-a312-4932-9831-f286908660ee) |
 
 <!-- review:end log -->
 

@@ -61,7 +61,7 @@ O modelo TxGNN prevê que pode ser eficaz para **ceratoconjuntivite epitelial pu
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, a doxiciclina faz parte da classe das tetraciclinas, sua eficácia como antibiótico de amplo espectro está estabelecida, e mecanisticamente pode ser aplicável a quadros oculares de origem infecciosa ou inflamatória.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Doxycycline (tradução não oficial): “A doxiciclina inibe a síntese proteica bacteriana ligando-se à subunidade ribossômica 30S. A doxiciclina tem atividade bacteriostática contra uma ampla gama de bactérias Gram-positivas e Gram-negativas.” Texto original em inglês: "Doxycycline inhibits bacterial protein synthesis by binding to the 30S ribosomal subunit. Doxycycline has bacteriostatic activity against a broad range of Gram-positive and Gram-negative bacteria." ([DailyMed: Doxycyclate Hyclate (doxycycline hyclate) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4dc319c1-b7ef-40e4-9e66-fb24cfdefea8), versão de 2026-07-09; acessado em 2026-11-19). Segundo informações conhecidas, a doxiciclina faz parte da classe das tetraciclinas, sua eficácia como antibiótico de amplo espectro está estabelecida, e mecanisticamente pode ser aplicável a quadros oculares de origem infecciosa ou inflamatória.
 
 A ligação proposta é dupla. Primeiro, a doxiciclina é ativa contra *Chlamydia trachomatis*, agente de conjuntivites foliculares que podem evoluir com ceratite epitelial punctata. Segundo, descrevem-se efeitos anti-inflamatórios e de inibição de metaloproteinases de matriz (MMP) na superfície ocular.
 
@@ -172,7 +172,7 @@ Para advertências e demais contraindicações, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
@@ -182,6 +182,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | 2026-11-12 | Tabela: registro 103700108 (CLORDOX) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Tabela: registro 121100437 (VIBRAMICINA) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Tabela: registro 100470330 (DOXICICLINA) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Doxycyclate Hyclate (doxycycline hyclate) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4dc319c1-b7ef-40e4-9e66-fb24cfdefea8) |
 
 <!-- review:end log -->
 

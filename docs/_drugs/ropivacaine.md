@@ -58,7 +58,7 @@ atualmente com **2 ensaios clínicos** e **3 publicações** apoiando esta dire�
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, a ropivacaína é um bloqueador de canais de sódio dependentes de voltagem, que suprime a condução de sinais nociceptivos e autonômicos.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Ropivacaine (tradução não oficial): “A ropivacaína pertence à classe das amino amidas dos anestésicos locais e é fornecida como o enantiômero S-(-) puro. Os anestésicos locais bloqueiam a geração e a condução dos impulsos nervosos, presumivelmente ao aumentar o limiar de excitação elétrica no nervo, ao retardar a propagação do impulso nervoso e ao reduzir a velocidade de ascensão do potencial de ação.” Texto original em inglês: "Ropivacaine is a member of the amino amide class of local anesthetics and is supplied as the pure S-(-)-enantiomer. Local anesthetics block the generation and the conduction of nerve impulses, presumably by increasing the threshold for electrical excitation in the nerve, by slowing the propagation of the nerve impulse, and by reducing the rate of rise of the action potential." ([DailyMed: Naropin (ropivacaine hydrochloride) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cb6583ff-cde4-4280-aa5b-0bea2b844792), versão de 2026-07-17; acessado em 2026-11-19). Segundo informações conhecidas, a ropivacaína é um bloqueador de canais de sódio dependentes de voltagem, que suprime a condução de sinais nociceptivos e autonômicos.
 
 Na enxaqueca, a ropivacaína é aplicada de forma localizada em estruturas ligadas à via trigeminovascular: o gânglio esfenopalatino, o gânglio estrelado ou pontos-gatilho. O bloqueio pode interromper as vias trigeminovasculares e parassimpáticas envolvidas na crise. O mecanismo é plausível e coerente com o uso regional do anestésico, e o escore elevado do TxGNN é compatível com essa leitura.
 
@@ -156,13 +156,14 @@ Existe plausibilidade mecanística e algum suporte clínico para bloqueios com r
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, embora o medicamento esteja comercializado, com 8 registros válidos de 8, faltam dados de bula e de mecanismo de ação” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Verificar a situação regulatória: não há registro válido no Brasil, o que exigiria novo registro ou comercialização por outra via” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Registros válidos: “todos os 8” → 7 de 13 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Naropin (ropivacaine hydrochloride) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cb6583ff-cde4-4280-aa5b-0bea2b844792) |
 
 <!-- review:end log -->
 

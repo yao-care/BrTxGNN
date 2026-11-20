@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **fibromatose gengival (fibromato
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas da literatura, o lorlatinibe é um inibidor de tirosina quinase de terceira geração, com penetração no sistema nervoso central, que atua sobre ALK e ROS1. Sua eficácia está bem estabelecida no câncer de pulmão de células não pequenas (CPNPC) ALK-positivo.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Lorlatinib (tradução não oficial): “O lorlatinibe é um inibidor de quinase com atividade in vitro contra ALK e ROS1, bem como TYK1, FER, FPS, TRKA, TRKB, TRKC, FAK, FAK2 e ACK. O lorlatinibe demonstrou atividade in vitro contra múltiplas formas mutantes da enzima ALK, incluindo algumas mutações detectadas em tumores no momento da progressão da doença durante o uso de crizotinibe e outros inibidores de ALK.” Texto original em inglês: "Lorlatinib is a kinase inhibitor with in vitro activity against ALK and ROS1 as well as TYK1, FER, FPS, TRKA, TRKB, TRKC, FAK, FAK2, and ACK. Lorlatinib demonstrated in vitro activity against multiple mutant forms of the ALK enzyme, including some mutations detected in tumors at the time of disease progression on crizotinib and other ALK inhibitors." ([DailyMed: Lorbrena (lorlatinib) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2b34d62d-e02a-4af3-bc0d-1571dd4ee76d), versão de 2026-06-26; acessado em 2026-11-19). Segundo informações conhecidas da literatura, o lorlatinibe é um inibidor de tirosina quinase de terceira geração, com penetração no sistema nervoso central, que atua sobre ALK e ROS1. Sua eficácia está bem estabelecida no câncer de pulmão de células não pequenas (CPNPC) ALK-positivo.
 
 Não há ligação identificável entre a sinalização de ALK e a fibromatose gengival. A pontuação alta do TxGNN (0,9981) é uma previsão computacional, sem estudos que a sustentem. Portanto, **a plausibilidade mecanística desta previsão não pôde ser confirmada**.
 
@@ -127,11 +127,12 @@ Os dados de advertências e contraindicações da bula não estavam disponíveis
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “O único registro brasileiro está cancelado, e a bula não pôde ser analisada, o que impede a triagem de segurança” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Lorbrena (lorlatinib) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2b34d62d-e02a-4af3-bc0d-1571dd4ee76d) |
 
 <!-- review:end log -->
 

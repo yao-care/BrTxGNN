@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Ceratite por Exposição (Expos
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, a tobramicina faz parte da classe dos aminoglicosídeos, com atividade ampla contra bactérias Gram-negativas e algumas Gram-positivas. Sua eficácia em infecções oculares externas e ceratite bacteriana é reconhecida, e mecanisticamente pode ser aplicável à ceratite por exposição.
+Segundo as seções “Mechanism of Action” e “Microbiology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Tobramycin (tradução não oficial): “A tobramicina é um antibacteriano aminoglicosídeo. […] A tobramicina é um antibacteriano aminoglicosídeo produzido por Streptomyces tenebrarius. Atua principalmente interrompendo a síntese proteica, o que leva à alteração da permeabilidade da membrana celular, à ruptura progressiva do envelope celular e, por fim, à morte celular.” Texto original em inglês: "Tobramycin is an aminoglycoside antibacterial. […] Tobramycin is an aminoglycoside antibacterial produced by Streptomyces tenebrarius. It acts primarily by disrupting protein synthesis leading to altered cell membrane permeability, progressive disruption of the cell envelope, and eventual cell death." ([DailyMed: Tobi Podhaler (tobramycin) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c4b5bb1f-e158-4ac1-9c35-e98a416c743a), versão de 2026-04-15; acessado em 2026-11-19). Segundo informações conhecidas, a tobramicina faz parte da classe dos aminoglicosídeos, com atividade ampla contra bactérias Gram-negativas e algumas Gram-positivas. Sua eficácia em infecções oculares externas e ceratite bacteriana é reconhecida, e mecanisticamente pode ser aplicável à ceratite por exposição.
 
 A ceratite por exposição é uma lesão da superfície ocular causada pelo fechamento palpebral insuficiente. Nesse cenário, a infecção bacteriana secundária é uma complicação plausível, de modo que a cobertura antibacteriana é razoável do ponto de vista teórico. O benefício seria, no máximo, a prevenção ou o tratamento da infecção associada, e não a correção da lesão de exposição em si.
 
@@ -164,13 +164,14 @@ As advertências e contraindicações da bula brasileira não estavam disponíve
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “já que não há registro vigente” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-11 | Removido: “Há 20 registros vigentes no Brasil e o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-11 | Removido: “No Brasil, o medicamento é comercializado, com 20 registros vigentes” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Tobi Podhaler (tobramycin) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c4b5bb1f-e158-4ac1-9c35-e98a416c743a) |
 
 <!-- review:end log -->
 

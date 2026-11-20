@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser útil para **doença gástrica (stomach disea
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação do ácido cítrico nos dados compilados para este relatório. Sabe-se que ele costuma entrar em formulações efervescentes e tamponantes, em que atua como acidulante ou componente tamponante, geralmente associado a bicarbonato.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para sodium picosulfate, magnesium oxide, and anhydrous citric acid (associação que contém Citric Acid) (tradução não oficial): “O óxido de magnésio e o ácido cítrico reagem para formar citrato de magnésio em solução, que é um agente osmótico que faz com que a água seja retida no trato gastrointestinal.” Texto original em inglês: "Magnesium oxide and citric acid react to create magnesium citrate in solution, which is an osmotic agent that causes water to be retained within the gastrointestinal tract." ([DailyMed: Clenpiq (sodium picosulfate, magnesium oxide, and anhydrous citric acid) prescribing information, Ferring Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e95fff66-4ec0-4001-a727-33e66a5ec7d5), versão de 2026-04-15; acessado em 2026-11-19). Sabe-se que ele costuma entrar em formulações efervescentes e tamponantes, em que atua como acidulante ou componente tamponante, geralmente associado a bicarbonato.
 
 Essa proximidade com produtos de uso gástrico explica por que o modelo aponta uma ligação com doenças do estômago. Trata-se, porém, de uma associação computacional: a pontuação alta não equivale a demonstração de eficácia, e o papel do ácido cítrico nessas formulações é, em geral, de coadjuvante.
 
@@ -109,6 +109,18 @@ Os avisos e contraindicações da bula aprovada pela ANVISA não estavam dispon�
 - Estudos que avaliem diretamente o ácido cítrico (e não como auxiliar diagnóstico) em doenças do estômago
 - Bula completa com advertências e contraindicações
 - Definição mais precisa de qual condição gástrica seria o alvo, já que "doença gástrica" é um termo amplo
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Clenpiq (sodium picosulfate, magnesium oxide, and anhydrous citric acid) prescribing information, Ferring Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e95fff66-4ec0-4001-a727-33e66a5ec7d5) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

@@ -59,7 +59,7 @@ O modelo TxGNN prevê que ele pode ser eficaz para **porfiria hepática (hepatic
 
 ## Por que Esta Previsão é Razoável?
 
-Não há dados detalhados sobre o mecanismo de ação compilados para este relatório. Segundo informações conhecidas, o alopurinol inibe a xantina oxidase, enzima da via de degradação das purinas, reduzindo a produção de ácido úrico. É essa ação que sustenta seu uso na gota.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Allopurinol (tradução não oficial): “O alopurinol é um análogo estrutural da base purínica natural hipoxantina. O alopurinol e seu metabólito oxipurinol inibem a xantina oxidase, a enzima responsável pela conversão da hipoxantina em xantina e da xantina em ácido úrico, o produto final do metabolismo das purinas em humanos.” Texto original em inglês: "Allopurinol is a structural analogue of the natural purine base, hypoxanthine. Allopurinol and its oxypurinol metabolite inhibitor xanthine oxidase, the enzyme responsible for the conversion of hypoxanthine to xanthine and of xanthine to uric acid, the end product of purine metabolism in humans." ([DailyMed: Aloprim (allopurinol) prescribing information, Mylan Institutional LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10cc918f-aa44-415b-932d-2404695ac449), versão de 2022-02-18; acessado em 2026-11-19). Segundo informações conhecidas, o alopurinol inibe a xantina oxidase, enzima da via de degradação das purinas, reduzindo a produção de ácido úrico. É essa ação que sustenta seu uso na gota.
 
 A ligação com a porfiria hepática é incerta. As crises de porfiria aguda são impulsionadas pela indução da enzima ALAS1, que controla a síntese do heme no fígado. Um fármaco que altere os estoques hepáticos de heme poderia, em teoria, ser relevante, mas também prejudicial; a direção do efeito não está definida. Os dados compilados não demonstram que o alopurinol tenha essa ação, e a pontuação alta do modelo, por si só, não constitui evidência.
 
@@ -132,6 +132,19 @@ Consulte a bula para as advertências e contraindicações oficiais, que não es
 - Levantar dados de mecanismo de ação e investigar o efeito do alopurinol sobre o heme hepático e a ALAS1.
 - Realizar estudos pré-clínicos que mostrem a direção do efeito (benefício ou agravamento) antes de qualquer estudo clínico.
 - Verificar se a pontuação alta é específica da doença ou se reflete semelhanças que o modelo TxGNN (deep learning) aprendeu entre doenças relacionadas, e não evidência biológica, já que várias outras doenças hepáticas têm pontuações praticamente idênticas.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Aloprim (allopurinol) prescribing information, Mylan Institutional LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10cc918f-aa44-415b-932d-2404695ac449) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

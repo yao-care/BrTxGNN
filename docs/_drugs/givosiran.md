@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **esclerose hepatoportal (hepatop
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada para este relatório. Segundo informações conhecidas, givosiran é um siRNA conjugado a GalNAc que silencia a enzima hepática ALAS1, reduzindo a produção dos intermediários neurotóxicos ALA e PBG. Sua indicação aprovada em outros países é a prevenção de crises de porfiria hepática aguda.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Givosiran (tradução não oficial): “A givosirana é um RNA de interferência pequeno de fita dupla que causa a degradação do mRNA da aminolevulinato sintase 1 ( ALAS1 ) nos hepatócitos por meio de interferência de RNA, reduzindo os níveis elevados de mRNA de ALAS1 hepático. Isso leva à redução dos níveis circulantes dos intermediários neurotóxicos ácido aminolevulínico (ALA) e porfobilinogênio (PBG), fatores associados às crises e a outras manifestações da doença da AHP.” Texto original em inglês: "Givosiran is a double-stranded small interfering RNA that causes degradation of aminolevulinate synthase 1 ( ALAS1 ) mRNA in hepatocytes through RNA interference, reducing the elevated levels of liver ALAS1 mRNA. This leads to reduced circulating levels of neurotoxic intermediates aminolevulinic acid (ALA) and porphobilinogen (PBG), factors associated with attacks and other disease manifestations of AHP." ([DailyMed: Givlaari (givosiran sodium) prescribing information, Alnylam Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=167e663c-11e1-497b-a3fc-951d65d58eaa), versão de 2025-09-10; acessado em 2026-11-19). Segundo informações conhecidas, givosiran é um siRNA conjugado a GalNAc que silencia a enzima hepática ALAS1, reduzindo a produção dos intermediários neurotóxicos ALA e PBG. Sua indicação aprovada em outros países é a prevenção de crises de porfiria hepática aguda.
 
 Não foi identificada relação mecanística plausível entre a supressão de ALAS1 e a patologia vascular e portal da esclerose hepatoportal. A pontuação muito alta do TxGNN (1,0000) vem do modelo de aprendizado profundo e pode refletir semelhanças que o modelo aprendeu entre doenças hepáticas relacionadas, e não evidência biológica. Ressalta-se que outras quatro doenças tiveram exatamente a mesma pontuação, o que reforça essa leitura.
 
@@ -104,11 +104,12 @@ Para advertências e contraindicações, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-12 | Tabela: registro 193610002 (GIVLAARI) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Givlaari (givosiran sodium) prescribing information, Alnylam Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=167e663c-11e1-497b-a3fc-951d65d58eaa) |
 
 <!-- review:end log -->
 

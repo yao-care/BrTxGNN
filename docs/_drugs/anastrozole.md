@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Pela classe conhecida, o anastrozol atua inibindo a aromatase, enzima que converte androgênios em estrogênios, e por isso é usado em tumores dependentes de estrogênio.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Anastrozole (tradução não oficial): “O crescimento de muitos cânceres de mama é estimulado ou mantido por estrogênios. Em mulheres na pós-menopausa, os estrogênios derivam principalmente da ação da enzima aromatase, que converte androgênios adrenais (principalmente androstenediona e testosterona) em estrona e estradiol. […] O anastrozol é um inibidor seletivo não esteroidal da aromatase.” Texto original em inglês: "The growth of many cancers of the breast is stimulated or maintained by estrogens. In postmenopausal women, estrogens are mainly derived from the action of the aromatase enzyme, which converts adrenal androgens (primarily androstenedione and testosterone) to estrone and estradiol. […] Anastrozole is a selective non-steroidal aromatase inhibitor." ([DailyMed: Arimidex (anastrozole) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de), versão de 2026-03-02; acessado em 2026-11-19). Pela classe conhecida, o anastrozol atua inibindo a aromatase, enzima que converte androgênios em estrogênios, e por isso é usado em tumores dependentes de estrogênio.
 
 O neuroblastoma, porém, não é um tumor classicamente dependente de estrogênio. O vínculo mecanístico com a inibição da aromatase é, portanto, fraco e não sustentado por dados. A pontuação elevada provavelmente reflete proximidade computacional com a classe dos antineoplásicos, e não um mecanismo específico.
 
@@ -116,6 +116,19 @@ Os dados compilados mostram situação de comercialização "Comercializado", co
 - Estudos pré-clínicos (modelos celulares e animais) que demonstrem efeito
 - Obtenção e análise da bula da ANVISA (advertências e contraindicações)
 - Avaliação de compatibilidade de via de administração e de segurança em população pediátrica
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Arimidex (anastrozole) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

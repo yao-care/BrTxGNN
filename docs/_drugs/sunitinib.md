@@ -56,7 +56,7 @@ atualmente com **2 ensaios clínicos** (ambos de Fase 2, concluídos) e **9 publ
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este fármaco. Segundo informações conhecidas, o sunitinibe inibe múltiplos receptores tirosina quinase (VEGFR, PDGFR e KIT), envolvidos na angiogênese e na sinalização de crescimento tumoral.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Sunitinib (tradução não oficial): “Sunitinibe é uma molécula pequena que inibe múltiplos receptores tirosina quinase (RTKs), alguns dos quais estão implicados no crescimento tumoral, na angiogênese patológica e na progressão metastática do câncer.” Texto original em inglês: "Sunitinib is a small molecule that inhibits multiple receptor tyrosine kinases (RTKs), some of which are implicated in tumor growth, pathologic angiogenesis, and metastatic progression of cancer." ([DailyMed: Sutent (sunitinib malate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=43a4d7f8-48ae-4a63-9108-2fa8e3ea9d9c), versão de 2026-02-20; acessado em 2026-11-19). Segundo informações conhecidas, o sunitinibe inibe múltiplos receptores tirosina quinase (VEGFR, PDGFR e KIT), envolvidos na angiogênese e na sinalização de crescimento tumoral.
 
 A indicação original é genérica (antineoplásico), e o sunitinibe é usado em outros tumores sólidos, como o tumor estromal gastrointestinal (GIST) resistente ao imatinibe e o carcinoma renal. Os sarcomas de partes moles compartilham parte dessas vias de crescimento e angiogênese, o que torna a previsão plausível do ponto de vista mecanístico.
 
@@ -155,13 +155,14 @@ Entre as demais indicações previstas, o **dermatofibrossarcoma protuberans** (
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “todos os 7 registros encontrados estão válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “e todos os registros brasileiros do sunitinibe estão cancelados, o que impede o uso imediato no país” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “dado que não há registro válido atualmente” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Sutent (sunitinib malate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=43a4d7f8-48ae-4a63-9108-2fa8e3ea9d9c) |
 
 <!-- review:end log -->
 

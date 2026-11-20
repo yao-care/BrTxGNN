@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, o cloreto de zinco é uma fonte de zinco usada em nutrição parenteral para repor as necessidades desse oligoelemento. Sua eficácia como suplemento nutricional é estabelecida, e mecanisticamente poderia ser aplicável à retinopatia diabética.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Zinc Chloride (tradução não oficial): “O zinco é um oligoelemento essencial. O zinco atua como cofator de várias enzimas, incluindo DNA polimerases, RNA polimerases, álcool desidrogenase e fosfatases alcalinas. O zinco é um coordenador do dobramento estrutural de proteínas, como o dobramento do motivo “dedo de zinco”, que interage com uma variedade de proteínas, lipídios e ácidos nucleicos.” Texto original em inglês: "Zinc is an essential trace element. Zinc functions as a cofactor of various enzymes including DNA polymerases, RNA polymerases, alcohol dehydrogenase, and alkaline phosphatases. Zinc is a coordinator of protein structural folding, such as folding of “Zinc finger” motif that interacts with a variety of proteins, lipids, and nucleic acids." ([DailyMed: zinc sulfate prescribing information, Camber Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49698d00-f44b-4b1f-ae34-6b9067911757), versão de 2026-03-04; acessado em 2026-11-19). Segundo informações conhecidas, o cloreto de zinco é uma fonte de zinco usada em nutrição parenteral para repor as necessidades desse oligoelemento. Sua eficácia como suplemento nutricional é estabelecida, e mecanisticamente poderia ser aplicável à retinopatia diabética.
 
 O zinco participa da defesa antioxidante (por exemplo, na superóxido dismutase Cu/Zn) e do metabolismo da retina, o que pode se relacionar ao estresse oxidativo na retinopatia diabética. Essa ligação, porém, é especulativa e não é sustentada por evidências nos dados compilados para este relatório. A pontuação do modelo (0.9934) é muito alta, mas vem do modelo TxGNN (deep learning) e pode refletir similaridades que o modelo aprendeu entre doenças relacionadas, não evidência biológica.
 
@@ -114,12 +114,13 @@ Para advertências e contraindicações da bula, consulte a bula; não foi poss�
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “o único registro no Brasil está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Tabela: registro 100410165 (ADDAVEN) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: zinc sulfate prescribing information, Camber Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49698d00-f44b-4b1f-ae34-6b9067911757) |
 
 <!-- review:end log -->
 

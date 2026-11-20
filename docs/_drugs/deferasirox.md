@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Infecção por HIV (HIV infecti
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, deferasirox é um quelante de ferro, e mecanisticamente a homeostase do ferro poderia ter alguma relação com a infecção por HIV.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Deferasirox (tradução não oficial): “Exjade (deferasirox) é um quelante ativo por via oral, seletivo para o ferro (na forma de Fe 3+ ). É um ligante tridentado que se liga ao ferro com alta afinidade na proporção de 2:1. Embora o deferasirox tenha afinidade muito baixa pelo zinco e pelo cobre, ocorrem reduções variáveis na concentração sérica desses metais-traço após a administração de deferasirox.” Texto original em inglês: "Exjade (deferasirox) is an orally active chelator that is selective for iron (as Fe 3+ ). It is a tridentate ligand that binds iron with high affinity in a 2:1 ratio. Although deferasirox has very low affinity for zinc and copper there are variable decreases in the serum concentration of these trace metals after the administration of deferasirox." ([DailyMed: Exjade (deferasirox) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3495a70c-870c-4968-940e-8baea152cf85), versão de 2026-01-28; acessado em 2026-11-19). Segundo informações conhecidas, deferasirox é um quelante de ferro, e mecanisticamente a homeostase do ferro poderia ter alguma relação com a infecção por HIV.
 
 Um estudo pré-clínico in vitro (PMID 34550543, 2021) sugere que o ferro nos endolisossomos restringe a transativação do LTR do HIV-1 mediada pela proteína Tat, aumentando a oligomerização de Tat e a expressão de β-catenina. Isso indica que o estado do ferro intracelular pode modular a transcrição do HIV-1, o que torna plausível que um quelante de ferro influencie a expressão gênica viral.
 
@@ -94,6 +94,19 @@ Consulte a bula para as demais informações de segurança, incluindo advertênc
 - Dados detalhados do mecanismo de ação (MOA)
 - Revisão da bula aprovada pela ANVISA (advertências e contraindicações)
 - Avaliação de segurança em pessoas com HIV, considerando as interações medicamentosas e a toxicidade renal, hepática e hematológica
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Exjade (deferasirox) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3495a70c-870c-4968-940e-8baea152cf85) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, a urofollitropina é uma gonadotrofina baseada em FSH, e sua função como hormônio gonadotrófico está registrada na ANVISA. Mecanisticamente, não há uma ligação estabelecida com a enxaqueca.
+Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Urofollitropin é (tradução não oficial): “Agonista do receptor do hormônio folículo-estimulante” Texto original em inglês: "Follicle stimulating hormone receptor agonist" ([ChEMBL CHEMBL1201520 (urofollitropin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201520), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações conhecidas, a urofollitropina é uma gonadotrofina baseada em FSH, e sua função como hormônio gonadotrófico está registrada na ANVISA. Mecanisticamente, não há uma ligação estabelecida com a enxaqueca.
 
 Uma hipótese especulativa seria a modulação hormonal de enxaquecas sensíveis a estrogênio ou relacionadas à menstruação. No entanto, essa hipótese não é sustentada por nenhum dado compilado para este relatório. A pontuação alta vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica, sem ensaios ou literatura que a corroborem.
 
@@ -100,11 +100,12 @@ A previsão se baseia apenas na pontuação do modelo (L5), sem ensaios clínico
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, o único registro no Brasil está cancelado, e não há produto comercializado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [ChEMBL CHEMBL1201520 (urofollitropin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201520) |
 
 <!-- review:end log -->
 

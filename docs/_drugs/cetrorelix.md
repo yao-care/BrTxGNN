@@ -59,7 +59,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Hipertricose (hypertrichosis)**
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, cetrorelix é um antagonista do receptor GnRH1 (gene GNRHR), um peptídeo que bloqueia a ação do GnRH na hipófise e suprime a liberação de LH e FSH, reduzindo os androgênios gonadais a jusante.
+Segundo a seção “Clinical Pharmacology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Cetrorelix (tradução não oficial): “O GnRH induz a produção e a liberação do hormônio luteinizante (LH) e do hormônio folículo-estimulante (FSH) pelas células gonadotróficas da hipófise anterior. Devido a um feedback positivo do estradiol (E2) no meio do ciclo, a liberação de GnRH é aumentada, resultando em um pico de LH.” Texto original em inglês: "GnRH induces the production and release of luteinizing hormone (LH) and follicle stimulating hormone (FSH) from the gonadotrophic cells of the anterior pituitary. Due to a positive estradiol (E2) feedback at midcycle, GnRH liberation is enhanced resulting in an LH-surge." ([DailyMed: Cetrotide (cetrorelix acetate) prescribing information, EMD Serono, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=aca7768e-28a7-4027-b1d8-e66247665f79), versão de 2025-09-22; acessado em 2026-11-19). Segundo informações conhecidas, cetrorelix é um antagonista do receptor GnRH1 (gene GNRHR), um peptídeo que bloqueia a ação do GnRH na hipófise e suprime a liberação de LH e FSH, reduzindo os androgênios gonadais a jusante.
 
 A relação com a hipertricose é fraca. A supressão de androgênios poderia, em teoria, afetar o crescimento de pelos, mas a hipertricose (principalmente as formas congênitas) geralmente não é dirigida por androgênios. A pontuação muito alta do TxGNN (0.9998) vem do modelo TxGNN (deep learning) e pode refletir similaridades que o modelo aprendeu entre doenças relacionadas, não evidência biológica; não há respaldo clínico ou bibliográfico.
 
@@ -122,11 +122,12 @@ Para advertências e contraindicações, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “O registro único no Brasil está cancelado, o que limita a viabilidade prática” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Cetrotide (cetrorelix acetate) prescribing information, EMD Serono, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=aca7768e-28a7-4027-b1d8-e66247665f79) |
 
 <!-- review:end log -->
 

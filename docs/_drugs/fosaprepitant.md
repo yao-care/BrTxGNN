@@ -60,7 +60,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o fosaprepitant é um pró-fármaco do aprepitanto, um antagonista do receptor de neurocinina-1 (NK1), e sua eficácia como antiemético (por exemplo, na prevenção de náuseas e vômitos associados à quimioterapia) é reconhecida.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Fosaprepitant (tradução não oficial): “O fosaprepitanto é um pró-fármaco do aprepitanto e, consequentemente, seus efeitos antieméticos são atribuíveis ao aprepitanto. O aprepitanto é um antagonista seletivo de alta afinidade dos receptores humanos da substância P/neurocinina 1 (NK-1). O aprepitanto tem pouca ou nenhuma afinidade pelos receptores de serotonina (5-HT 3 ), dopamina e corticosteroides, que são os alvos das terapias existentes para náuseas e vômitos induzidos por quimioterapia (NVIQ).” Texto original em inglês: "Fosaprepitant is a prodrug of aprepitant and accordingly, its antiemetic effects are attributable to aprepitant. Aprepitant is a selective high-affinity antagonist of human substance P/neurokinin 1 (NK-1) receptors. Aprepitant has little or no affinity for serotonin (5-HT 3 ), dopamine, and corticosteroid receptors, the targets of existing therapies for chemotherapy-induced nausea and vomiting (CINV)." ([DailyMed: Navitrux (fosaprepitant) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a41b7c3a-1376-43a7-b5b9-6ba2eba1e169), versão de 2026-07-29; acessado em 2026-11-19). Segundo informações conhecidas, o fosaprepitant é um pró-fármaco do aprepitanto, um antagonista do receptor de neurocinina-1 (NK1), e sua eficácia como antiemético (por exemplo, na prevenção de náuseas e vômitos associados à quimioterapia) é reconhecida.
 
 A relação entre a indicação original e a nova indicação é fraca. A síndrome nefrogênica de antidiurese inapropriada é um distúrbio do manejo renal da água, ligado à via da vasopressina. Uma conexão com o antagonismo NK1 é especulativa, e nenhum mecanismo de suporte foi estabelecido com os dados disponíveis.
 
@@ -123,11 +123,12 @@ Entre as demais previsões do modelo, apenas **retinite** (L4) tem algum suporte
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “todos com situação cancelada” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Navitrux (fosaprepitant) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a41b7c3a-1376-43a7-b5b9-6ba2eba1e169) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Cabotegravir é conhecido como inibidor da integrase do HIV, uma classe antiviral que bloqueia a inserção do material genético viral no DNA da célula hospedeira.
+Segundo as seções “Mechanism of Action” e “Microbiology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Cabotegravir (tradução não oficial): “O cabotegravir é um medicamento antirretroviral para o HIV-1. […] O cabotegravir inibe a integrase do HIV ligando-se ao sítio ativo da integrase e bloqueando a etapa de transferência de fita da integração do ácido desoxirribonucleico (DNA) retroviral, essencial para o ciclo de replicação do HIV. O valor médio da concentração inibitória de 50% (CI 50 ) do cabotegravir em um ensaio de transferência de fita utilizando integrase recombinante purificada do HIV-1 foi de 3,0 nM.” Texto original em inglês: "Cabotegravir is an HIV-1 antiretroviral drug. […] Cabotegravir inhibits HIV integrase by binding to the integrase active site and blocking the strand transfer step of retroviral deoxyribonucleic acid (DNA) integration that is essential for the HIV replication cycle. The mean 50% inhibitory concentration (IC 50 ) value of cabotegravir in a strand transfer assay using purified recombinant HIV-1 integrase was 3.0 nM." ([DailyMed: Vocabria (cabotegravir sodium) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=66d450fb-cca4-476c-b0c7-c0730e3e4cf3), versão de 2025-04-11; acessado em 2026-11-19). Cabotegravir é conhecido como inibidor da integrase do HIV, uma classe antiviral que bloqueia a inserção do material genético viral no DNA da célula hospedeira.
 
 Não há mecanismo estabelecido que ligue essa ação à inflamação articular imunomediada da artrite reumatoide. Qualquer vínculo mecanístico é, portanto, especulativo, e a similaridade com o uso original ainda não foi avaliada.
 
@@ -96,6 +96,19 @@ Para advertências e contraindicações, consulte a bula.
 - Estudos pré-clínicos que testem a hipótese
 - Obtenção e análise da bula da ANVISA (advertências e contraindicações) para a triagem de segurança
 - Avaliação da compatibilidade de via de administração e formas farmacêuticas
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Vocabria (cabotegravir sodium) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=66d450fb-cca4-476c-b0c7-c0730e3e4cf3) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -56,7 +56,7 @@ mas, até o momento, há apenas **1 ensaio clínico** (de uma combinação de tr
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação no material compilado para este relatório. Segundo informações conhecidas, o clotrimazol é um antifúngico azólico que inibe a síntese de ergosterol na membrana fúngica e também apresenta alguma atividade anti-inflamatória.
+Segundo a seção “Clinical Pharmacology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Clotrimazole (tradução não oficial): “O clotrimazol é um agente antifúngico de amplo espectro que inibe o crescimento de leveduras patogênicas alterando a permeabilidade das membranas celulares. A ação do clotrimazol é fungistática em concentrações do fármaco de até 20 mcg/mL e pode ser fungicida in vitro contra Candida albicans e outras espécies do gênero Candida em concentrações mais altas.” Texto original em inglês: "Clotrimazole is a broad-spectrum antifungal agent that inhibits the growth of pathogenic yeasts by altering the permeability of cell membranes. The action of clotrimazole is fungistatic at concentrations of drug up to 20 mcg/mL and may be fungicidal in vitro against Candida albicans and other species of the genus Candida at higher concentrations." ([DailyMed: clotrimazole prescribing information, Rising Pharma Holdings, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=980736aa-751a-4642-ab85-a309435fd02f), versão de 2025-03-27; acessado em 2026-11-19). Segundo informações conhecidas, o clotrimazol é um antifúngico azólico que inibe a síntese de ergosterol na membrana fúngica e também apresenta alguma atividade anti-inflamatória.
 
 Mecanisticamente, essa combinação de ação antifúngica e anti-inflamatória poderia se relacionar a processos inflamatórios da pele associados a leveduras do gênero *Malassezia* e à bactéria *Cutibacterium*. Trata-se, porém, de uma hipótese plausível, e não de um mecanismo demonstrado para a acne.
 
@@ -125,6 +125,19 @@ Para advertências e contraindicações, consulte a bula.
 - Estudos pré-clínicos ou clínicos do clotrimazol isolado em acne
 - Revisão da bula na ANVISA (advertências e contraindicações) para a triagem de segurança
 - Verificação da disponibilidade atual dos produtos e das formulações no Brasil
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: clotrimazole prescribing information, Rising Pharma Holdings, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=980736aa-751a-4642-ab85-a309435fd02f) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -56,7 +56,7 @@ atualmente com **0 ensaios clínicos** e **0 publicações** apoiando diretament
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação registrados para este fármaco. Segundo informações conhecidas, a bacitracina é um antibiótico polipeptídico tópico que inibe a síntese da parede celular de bactérias Gram-positivas.
+Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Bacitracin é (tradução não oficial): “Inibidor do pirofosfato de C55-isoprenila” Texto original em inglês: "C55-isoprenyl pyrophosphate inhibitor" ([ChEMBL CHEMBL1200558 (bacitracin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200558), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações conhecidas, a bacitracina é um antibiótico polipeptídico tópico que inibe a síntese da parede celular de bactérias Gram-positivas.
 
 A nova indicação prevista está na mesma família de doenças oculares de superfície que os usos oculares já conhecidos do fármaco, o que torna a previsão plausível como extensão dentro do mesmo grupo de doenças. Esse parentesco é provavelmente o que sustenta a pontuação elevada.
 
@@ -98,11 +98,12 @@ Para advertências e contraindicações formais, consulte a bula, pois esses dad
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Segundo os dados compilados para este relatório, a situação de mercado é **comercializado**, com **8 registros válidos** e **12 registros ca” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [ChEMBL CHEMBL1200558 (bacitracin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200558) |
 
 <!-- review:end log -->
 

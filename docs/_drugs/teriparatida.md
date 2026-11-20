@@ -56,7 +56,7 @@ O modelo TxGNN prevê que pode ser eficaz para **úlcera duodenal (duodenal ulce
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Pelo conhecimento geral, a teriparatida atua como agonista do receptor PTH1R e estimula a formação óssea, o que explica seu uso como fármaco osteoanabólico.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Teriparatida (tradução não oficial): “O paratormônio (PTH) endógeno de 84 aminoácidos é o principal regulador do metabolismo do cálcio e do fosfato no osso e no rim. As ações fisiológicas do PTH incluem a regulação do metabolismo ósseo, a reabsorção tubular renal de cálcio e fosfato e a absorção intestinal de cálcio. […] As ações biológicas do PTH e da teriparatida são mediadas pela ligação a receptores específicos de alta afinidade na superfície celular.” Texto original em inglês: "Endogenous 84-amino acid parathyroid hormone (PTH) is the primary regulator of calcium and phosphate metabolism in bone and kidney. Physiological actions of PTH include regulation of bone metabolism, renal tubular reabsorption of calcium and phosphate, and intestinal calcium absorption. […] The biological actions of PTH and teriparatide are mediated through binding to specific high-affinity cell-surface receptors." ([DailyMed: Bonsity (teriparatide) prescribing information, Alvogen Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d0c89a2-3849-adf6-007d-aeca21cf417c), versão de 2026-08-31; acessado em 2026-11-19). Pelo conhecimento geral, a teriparatida atua como agonista do receptor PTH1R e estimula a formação óssea, o que explica seu uso como fármaco osteoanabólico.
 
 Não há vínculo mecanístico crível entre essa ação e a úlcera duodenal. A teriparatida não tem papel estabelecido na supressão da acidez gástrica nem na cicatrização da mucosa duodenal. A pontuação alta do TxGNN é uma previsão computacional, sem respaldo de ensaios clínicos ou de literatura. Por isso, a previsão deve ser tratada como hipótese a ser examinada, e não como direção terapêutica com base sólida.
 
@@ -93,6 +93,19 @@ Não há ensaios clínicos nem publicações sobre teriparatida em úlcera duode
 - Estudos pré-clínicos que mostrem algum efeito sobre a mucosa duodenal
 - Texto de bula da ANVISA com advertências e contraindicações para a triagem de segurança
 - Revisão do texto de indicação aprovada nos registros locais
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Bonsity (teriparatide) prescribing information, Alvogen Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d0c89a2-3849-adf6-007d-aeca21cf417c) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

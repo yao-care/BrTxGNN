@@ -59,7 +59,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Carcinoma de células renais (r
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados de mecanismo de ação nos registros locais. Segundo a literatura compilada, o vandetanibe inibe VEGFR2, EGFR e RET, três quinases envolvidas no crescimento tumoral e na formação de novos vasos sanguíneos (angiogênese).
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Vandetanib (tradução não oficial): “Estudos in vitro demonstraram que o vandetanibe inibe a atividade tirosina quinase das famílias EGFR e VEGFR, RET, BRK, TIE2 e de membros das famílias de receptores EPH e de quinases Src. Essas tirosina quinases receptoras estão envolvidas tanto na função celular normal quanto em processos patológicos, como oncogênese, metástase, angiogênese tumoral e manutenção do microambiente tumoral.” Texto original em inglês: "In vitro studies have shown that vandetanib inhibits the tyrosine kinase activity of the EGFR and VEGFR families, RET, BRK, TIE2, and members of the EPH receptor and Src kinase families. These receptor tyrosine kinases are involved in both normal cellular function and pathologic processes such as oncogenesis, metastasis, tumor angiogenesis, and maintenance of the tumor microenvironment." ([DailyMed: Caprelsa (vandetanib) prescribing information, Genzyme Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e5721cb8-4185-47b9-bbb3-1c587e558a03), versão de 2026-10-30; acessado em 2026-11-19). Segundo a literatura compilada, o vandetanibe inibe VEGFR2, EGFR e RET, três quinases envolvidas no crescimento tumoral e na formação de novos vasos sanguíneos (angiogênese).
 
 No carcinoma de células renais, a angiogênese dependente de VEGF é um alvo validado, e outros inibidores de tirosina quinase que atuam sobre o VEGFR já são usados nessa doença. Em tumores de células claras e na doença de von Hippel-Lindau, a perda do gene VHL ativa a via HIF/VEGF, o que torna coerente o bloqueio do VEGFR2 pelo vandetanibe.
 
@@ -135,6 +135,18 @@ Para as advertências e contraindicações em bula, consulte a bula aprovada.
 - Complementar os dados de mecanismo de ação e a bula aprovada pela ANVISA (advertências e contraindicações).
 - Definir plano de monitoramento de segurança (ECG, eletrólitos, pressão arterial, função tireoidiana).
 - Avaliar a viabilidade de um estudo adicional em subpopulações com mecanismo mais favorável (por exemplo, VHL e carcinoma de células claras).
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Caprelsa (vandetanib) prescribing information, Genzyme Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e5721cb8-4185-47b9-bbb3-1c587e558a03) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

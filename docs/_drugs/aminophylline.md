@@ -56,7 +56,7 @@ atualmente com **nenhum ensaio clínico** e **4 publicações** apoiando esta di
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada para este relatório. Segundo informações conhecidas, a aminofilina é um antagonista não seletivo dos receptores de adenosina e inibidor de fosfodiesterases. Sua eficácia como broncodilatador é conhecida, e mecanisticamente pode ser aplicável à enxaqueca.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Aminophylline (tradução não oficial): “A teofilina tem duas ações distintas nas vias aéreas de pacientes com obstrução reversível: relaxamento da musculatura lisa (ou seja, broncodilatação) e supressão da resposta das vias aéreas a estímulos (ou seja, efeitos profiláticos não broncodilatadores).” Texto original em inglês: "Theophylline has two distinct actions in the airways of patients with reversible obstruction; smooth muscle relaxation (i.e., bronchodilation) and suppression of the response of the airways to stimuli (i.e., nonbronchodilator prophylactic effects)." ([DailyMed: aminophylline prescribing information, Medical Purchasing Solutions, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=52bbc6cd-4baf-7859-e063-6394a90ac87d), versão de 2026-05-26; acessado em 2026-11-19). Segundo informações conhecidas, a aminofilina é um antagonista não seletivo dos receptores de adenosina e inibidor de fosfodiesterases. Sua eficácia como broncodilatador é conhecida, e mecanisticamente pode ser aplicável à enxaqueca.
 
 A relação entre as duas indicações não é a doença em si, mas a via de sinalização: a adenosina participa da dor trigeminovascular e, segundo uma revisão de 2023, a enxaqueca pode estar associada a um metabolismo energético cerebral prejudicado, com níveis patologicamente elevados de adenosina. Um relato de caso descreve ainda um episódio de enxaqueca hemiplégica desencadeado por regadenoson (agonista de adenosina A2A), o que reforça a lógica do antagonismo da adenosina.
 
@@ -154,7 +154,7 @@ Entre as alternativas, a **hipertensão pulmonar** tem o maior nível de evidên
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
@@ -162,6 +162,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | 2026-11-06 | Removido: “Há mais 4 registros cancelados (nº 113430165, 110850024, 103700445 e Asmafin nº 107150067), todos com a mesma indicação” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Além disso, os 9 registros no Brasil estão válidos (9 de 9) e os dados de bula (advertências e contraindicações) não estão disponíveis, o qu” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “já que não há produto com registro válido no país” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: aminophylline prescribing information, Medical Purchasing Solutions, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=52bbc6cd-4baf-7859-e063-6394a90ac87d) |
 
 <!-- review:end log -->
 

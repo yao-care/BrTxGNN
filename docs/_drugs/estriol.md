@@ -56,7 +56,7 @@ Atualmente, não há ensaios clínicos registrados e há **6 publicações** rel
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação na base consultada. Segundo informações conhecidas, o estriol é um estrogênio fraco que se liga aos receptores de estrogênio alfa (ESR1) e beta (ESR2). Esses dois alvos constam nos dados farmacológicos compilados para este relatório.
+Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Estriol é (tradução não oficial): “Modulador do receptor de estrogênio” Texto original em inglês: "Estrogen receptor modulator" ([ChEMBL CHEMBL193482 (estriol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL193482), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações conhecidas, o estriol é um estrogênio fraco que se liga aos receptores de estrogênio alfa (ESR1) e beta (ESR2). Esses dois alvos constam nos dados farmacológicos compilados para este relatório.
 
 Na amenorreia hipotalâmica funcional (AHF), a secreção pulsátil de GnRH no hipotálamo está reduzida. Isso leva a LH e FSH baixos e a um estado de hipoestrogenismo. Estrogênios em baixa dose, como o estriol, podem funcionar como moduladores neuroendócrinos. Um estudo de 2012 sugere que o estriol modifica o padrão de secreção de LH em mulheres com AHF. A reposição de estrogênio também pode oferecer proteção óssea e cardiovascular.
 
@@ -109,12 +109,13 @@ Consulte a bula para as demais informações de segurança (advertências e cont
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, o estriol não tem registro no Brasil e os dados de segurança da bula estão ausentes” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “já que não há registro vigente no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [ChEMBL CHEMBL193482 (estriol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL193482) |
 
 <!-- review:end log -->
 

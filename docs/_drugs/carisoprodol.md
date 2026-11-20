@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Insônia (insomnia)**, mas atua
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo conhecimento farmacológico geral, o carisoprodol é um relaxante muscular esquelético de ação central. Seu metabólito ativo, o meprobamato, tem efeitos sedativos e ansiolíticos semelhantes aos dos barbitúricos, e o próprio carisoprodol parece modular receptores GABA-A.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Carisoprodol (tradução não oficial): “O mecanismo de ação do carisoprodol no alívio do desconforto associado a condições musculoesqueléticas agudas dolorosas não foi claramente identificado. Em estudos com animais, o relaxamento muscular induzido pelo carisoprodol está associado à atividade interneuronal alterada na medula espinhal e na formação reticular descendente do cérebro.” Texto original em inglês: "The mechanism of action of carisoprodol in relieving discomfort associated with acute painful musculoskeletal conditions has not been clearly identified. In animal studies, muscle relaxation induced by carisoprodol is associated with altered interneuronal activity in the spinal cord and in the descending reticular formation of the brain." ([DailyMed: Carisoprodol Tablets, Usp, 350 Mg (carisoprodol) prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1f08f4af-37c2-49b5-a4e3-284414f866fa), versão de 2026-11-03; acessado em 2026-11-19). Segundo conhecimento farmacológico geral, o carisoprodol é um relaxante muscular esquelético de ação central. Seu metabólito ativo, o meprobamato, tem efeitos sedativos e ansiolíticos semelhantes aos dos barbitúricos, e o próprio carisoprodol parece modular receptores GABA-A.
 
 Essa farmacologia sedativa oferece um elo teórico plausível com a insônia: a depressão do sistema nervoso central pode favorecer o início e a manutenção do sono. Contudo, essa ligação foi inferida da farmacologia geral e não de dados fornecidos.
 
@@ -106,11 +106,12 @@ A previsão baseia-se apenas no modelo (nível L5), sem ensaios clínicos e com 
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, o fármaco não está registrado no Brasil e apresenta importantes preocupações de segurança (dependência, sedação e interações com” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Carisoprodol Tablets, Usp, 350 Mg (carisoprodol) prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1f08f4af-37c2-49b5-a4e3-284414f866fa) |
 
 <!-- review:end log -->
 

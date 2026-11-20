@@ -60,7 +60,7 @@ mas atualmente há apenas **1 ensaio clínico** (sem relevância direta) e **19 
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a norepinefrina atua sobre receptores adrenérgicos (alfa e beta) e é um vasopressor sistêmico, com eficácia reconhecida como vasoconstritor e hipertensor.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Norepinephrine (tradução não oficial): “A norepinefrina é um vasoconstritor periférico (ação alfa-adrenérgica) e um estimulante inotrópico do coração e dilatador das artérias coronárias (ação beta-adrenérgica).” Texto original em inglês: "Norepinephrine is a peripheral vasoconstrictor (alpha-adrenergic action) and an inotropic stimulator of the heart and dilator of coronary arteries (beta-adrenergic action)." ([DailyMed: Norepinephrine Bitartrate In Dextrose (norepinephrine bitartrate) prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=be3c6f4f-54fc-4cb3-a299-8a022515d396), versão de 2026-10-27; acessado em 2026-11-19). Segundo informações conhecidas, a norepinefrina atua sobre receptores adrenérgicos (alfa e beta) e é um vasopressor sistêmico, com eficácia reconhecida como vasoconstritor e hipertensor.
 
 A literatura recuperada descreve a regulação noradrenérgica e simpática do tônus das vias aéreas, da vasculatura brônquica, do edema e da inflamação neuroimune na asma e na DPOC. Isso sustenta apenas uma plausibilidade biológica.
 
@@ -174,13 +174,14 @@ As outras duas indicações previstas têm evidência ainda mais fraca e também
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Observação: os 10 registros encontrados estão válidos; a” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “e está comercializada no Brasil, com 10 registros válidos de 10” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “dado que não há registros válidos no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Norepinephrine Bitartrate In Dextrose (norepinephrine bitartrate) prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=be3c6f4f-54fc-4cb3-a299-8a022515d396) |
 
 <!-- review:end log -->
 

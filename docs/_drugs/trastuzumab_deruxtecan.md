@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o trastuzumabe deruxtecana é um conjugado anticorpo-fármaco dirigido ao HER2, com carga citotóxica inibidora da topoisomerase I (deruxtecana), usado em oncologia.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Trastuzumab Deruxtecan (tradução não oficial): “O fam-trastuzumabe deruxtecana-nxki é um conjugado anticorpo-fármaco direcionado ao HER2. O anticorpo é uma IgG1 anti-HER2 humanizada. A molécula pequena, DXd, é um inibidor da topoisomerase I ligado ao anticorpo por um ligante clivável.” Texto original em inglês: "Fam-trastuzumab deruxtecan-nxki is a HER2-directed antibody-drug conjugate. The antibody is a humanized anti-HER2 IgG1. The small molecule, DXd, is a topoisomerase I inhibitor attached to the antibody by a cleavable linker." ([DailyMed: Enhertu (fam-trastuzumab deruxtecan-nxki) prescribing information, Daiichi Sankyo Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7e67e73e-ddf4-4e4d-8b50-09d7514910b6), versão de 2026-05-15; acessado em 2026-11-19). Segundo informações conhecidas, o trastuzumabe deruxtecana é um conjugado anticorpo-fármaco dirigido ao HER2, com carga citotóxica inibidora da topoisomerase I (deruxtecana), usado em oncologia.
 
 Não há vínculo mecanístico claro entre o direcionamento ao HER2 ou a inibição da topoisomerase I e o metabolismo ósseo, a regulação de osteoblastos/osteoclastos ou as vias envolvidas na perda óssea induzida por fármacos. A pontuação alta do TxGNN (0,9931) é apenas uma previsão computacional, sem respaldo de ensaios ou literatura.
 
@@ -117,12 +117,13 @@ A previsão se baseia exclusivamente na pontuação do modelo (L5), sem ensaios 
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-10-31 | Removido: “(registro cancelado)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Além disso, o único registro no Brasil está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Enhertu (fam-trastuzumab deruxtecan-nxki) prescribing information, Daiichi Sankyo Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7e67e73e-ddf4-4e4d-8b50-09d7514910b6) |
 
 <!-- review:end log -->
 

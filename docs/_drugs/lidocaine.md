@@ -59,7 +59,7 @@ O modelo TxGNN prevê que pode ser eficaz para **ceratoconjuntivite epitelial pu
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a lidocaína é um bloqueador de canais de sódio com ação anestésica tópica, e sua eficácia como anestésico local está estabelecida.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Lidocaine (tradução não oficial): “O cloridrato de lidocaína exerce efeito antiarrítmico ao aumentar o limiar de estimulação elétrica do ventrículo durante a diástole. Em doses terapêuticas usuais, o cloridrato de lidocaína não produz alteração na contratilidade miocárdica, na pressão arterial sistêmica ou no período refratário absoluto.” Texto original em inglês: "Lidocaine hydrochloride exerts an antiarrhythmic effect by increasing the electrical stimulation threshold of the ventricle during diastole. In usual therapeutic doses, lidocaine hydrochloride produces no change in myocardial contractility, in systemic arterial pressure, or in absolute refractory period." ([DailyMed: Lidocaine Hydrochloride And Dextrose (lidocaine hydrochloride) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f21512ea-c7c3-4766-b976-b2c0b5616bf0), versão de 2026-02-20; acessado em 2026-11-19). Segundo informações conhecidas, a lidocaína é um bloqueador de canais de sódio com ação anestésica tópica, e sua eficácia como anestésico local está estabelecida.
 
 Mecanisticamente, isso poderia aliviar a dor da superfície ocular. No entanto, não há evidência de que trate a ceratoconjuntivite subjacente. O uso prolongado de anestésicos tópicos pode, inclusive, lesar o epitélio da córnea, o que é uma preocupação de segurança em doenças epiteliais.
 
@@ -170,11 +170,12 @@ Consulte a bula para advertências e contraindicações formais, pois não estav
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Foram listados 20 registros válidos, todos de medicamentos de ingrediente único (lista possivelmente parcial)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Lidocaine Hydrochloride And Dextrose (lidocaine hydrochloride) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f21512ea-c7c3-4766-b976-b2c0b5616bf0) |
 
 <!-- review:end log -->
 

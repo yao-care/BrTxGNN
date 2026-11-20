@@ -61,7 +61,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** nos dados compi
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Em termos gerais, a levocetirizina é um antagonista (agonista inverso) seletivo do receptor de histamina H1.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Levocetirizine Dihydrochloride (tradução não oficial): “A levocetirizina, o enantiômero ativo da cetirizina, é um anti-histamínico; seus principais efeitos são mediados pela inibição seletiva dos receptores H 1. A atividade anti-histamínica da levocetirizina foi documentada em diversos modelos animais e humanos.” Texto original em inglês: "Levocetirizine, the active enantiomer of cetirizine, is an antihistamine; its principal effects are mediated via selective inhibition of H 1 receptors. The antihistaminic activity of levocetirizine has been documented in a variety of animal and human models." ([DailyMed: Xyzal (levocetirizine dihydrochloride) prescribing information, Chattem, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1673f7ff-0c7c-4403-86cf-c05eb1475222), versão de 2025-07-22; acessado em 2026-11-19). Em termos gerais, a levocetirizina é um antagonista (agonista inverso) seletivo do receptor de histamina H1.
 
 Existe um elo teórico: a histamina está presente em níveis elevados na sinóvia reumatoide e pode contribuir para a permeabilidade vascular e o recrutamento de células inflamatórias. Porém, o bloqueio de H1 não é um mecanismo estabelecido de modificação da doença na artrite reumatoide.
 
@@ -101,6 +101,19 @@ Consulte a bula para informações de segurança.
 - Complementar os dados de mecanismo de ação (por exemplo, via DrugBank)
 - Realizar revisão sistemática da literatura e de registros de ensaios sobre anti-histamínicos H1 na artrite reumatoide
 - Se houver sustentação, estudos pré-clínicos ou de prova de conceito antes de qualquer ensaio clínico
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Xyzal (levocetirizine dihydrochloride) prescribing information, Chattem, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1673f7ff-0c7c-4403-86cf-c05eb1475222) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -59,7 +59,7 @@ O modelo TxGNN prevê que pode ser eficaz para **perfuração de úlcera péptic
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, a vonoprazana é um bloqueador de ácido competitivo com o potássio (P-CAB) que inibe a H+/K+-ATPase gástrica (alvo ATP4A) e suprime a secreção de ácido gástrico. Esse tipo de ação é coerente com a cicatrização de úlceras pépticas.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Vonoprazan (tradução não oficial): “A vonoprazana suprime a secreção basal e estimulada de ácido gástrico na superfície secretora da célula parietal gástrica por meio da inibição do sistema enzimático H +, K + -ATPase de maneira competitiva com o potássio. Como essa enzima é considerada a bomba de ácido (prótons) dentro da célula parietal, a vonoprazana tem sido caracterizada como um tipo de inibidor da bomba de prótons gástrica, no sentido de que bloqueia a etapa final da produção de ácido.” Texto original em inglês: "Vonoprazan suppresses basal and stimulated gastric acid secretion at the secretory surface of the gastric parietal cell through inhibition of the H +, K + -ATPase enzyme system in a potassium-competitive manner. Because this enzyme is regarded as the acid (proton) pump within the parietal cell, vonoprazan has been characterized as a type of gastric proton-pump inhibitor, in that it blocks the final step of acid production." ([DailyMed: Voquezna (vonoprazan fumarate) prescribing information, Phathom Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0cc52ac5-77ec-4d66-a770-762a1a960914), versão de 2026-07-16; acessado em 2026-11-19). Segundo informações conhecidas, a vonoprazana é um bloqueador de ácido competitivo com o potássio (P-CAB) que inibe a H+/K+-ATPase gástrica (alvo ATP4A) e suprime a secreção de ácido gástrico. Esse tipo de ação é coerente com a cicatrização de úlceras pépticas.
 
 A indicação original (úlcera péptica e doenças de refluxo) já está estreitamente ligada à nova indicação prevista: ambas são doenças relacionadas ao ácido. Por isso, a previsão tem plausibilidade mecanística, mas é em grande parte uma extensão da indicação já existente, e não uma indicação verdadeiramente nova.
 
@@ -131,11 +131,12 @@ Para as demais informações de segurança (advertências e contraindicações),
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, o medicamento é comercializado no Brasil, com 1 registro válido de 1” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Voquezna (vonoprazan fumarate) prescribing information, Phathom Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0cc52ac5-77ec-4d66-a770-762a1a960914) |
 
 <!-- review:end log -->
 

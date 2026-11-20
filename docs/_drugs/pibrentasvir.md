@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **infecção pelo vírus da hepat
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação compilados para este relatório. Segundo informações conhecidas, o pibrentasvir é um inibidor de NS5A, usado em combinação com o glecaprevir (inibidor da protease NS3/4A), e sua eficácia na hepatite C está bem estabelecida.
+Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Pibrentasvir é (tradução não oficial): “Inibidor da proteína não estrutural 5A” Texto original em inglês: "Nonstructural protein 5A inhibitor" ([ChEMBL CHEMBL3545123 (pibrentasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3545123), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações conhecidas, o pibrentasvir é um inibidor de NS5A, usado em combinação com o glecaprevir (inibidor da protease NS3/4A), e sua eficácia na hepatite C está bem estabelecida.
 
 A hepatite B e a hepatite C são doenças virais que afetam o fígado, o que explica a proximidade entre elas na rede de conhecimento usada pelo TxGNN. Contudo, essa proximidade é de natureza clínica e semântica, não de alvo molecular. A NS5A é específica do VHC (família Flaviviridae) e não tem homólogo no VHB (família Hepadnaviridae), que se replica por transcrição reversa do RNA pré-genômico e via cccDNA. Portanto, a pontuação alta (0,998) provavelmente reflete a proximidade entre termos de hepatite viral, e não um alvo compartilhado.
 
@@ -103,6 +103,19 @@ A previsão para hepatite B não tem ensaios clínicos nem literatura específic
 - Plano de triagem e monitoramento de reativação do VHB em pacientes coinfectados tratados com antivirais contra VHC
 
 **Observação sobre as demais previsões:** as outras nove previsões de maior pontuação (HIV, hepatite E, hepatite A, hepatite viral animal, febre hemorrágica de Omsk, doença da floresta de Kyasanur, imunodeficiência felina, infecção por SIV e um distúrbio do neurodesenvolvimento) também receberam recomendação **Hold**. Os ensaios ligados ao HIV e à hepatite A são, na verdade, estudos de hepatite C, de modo que não sustentam novas indicações. O pibrentasvir não tem atividade anti-HIV conhecida. O relevante nesse contexto é o manejo de interações com antirretrovirais em pacientes coinfectados.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [ChEMBL CHEMBL3545123 (pibrentasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3545123) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação da diosmina. Segundo informações gerais, ela é um flavonoide venoativo, com efeitos sobre o tônus vascular e sobre a inflamação. Não há, porém, dados compilados que confirmem sua indicação original.
+Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Diosmin é (tradução não oficial): “Desconhecido” Texto original em inglês: "Unknown" ([ChEMBL CHEMBL231884 (diosmin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL231884), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações gerais, ela é um flavonoide venoativo, com efeitos sobre o tônus vascular e sobre a inflamação. Não há, porém, dados compilados que confirmem sua indicação original.
 
 Não foi identificada uma via plausível que ligue esses efeitos às causas endócrinas ou estruturais da amenorreia. A pontuação do TxGNN é alta (0,9942), mas o resultado vem apenas de cálculo computacional: o ranking global da previsão é 3.817, e não há estudos que a sustentem.
 
@@ -107,11 +107,12 @@ A previsão para amenorreia tem pontuação alta no modelo, mas não conta com e
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, a diosmina não possui registro ativo no Brasil nos dados compilados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [ChEMBL CHEMBL231884 (diosmin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL231884) |
 
 <!-- review:end log -->
 

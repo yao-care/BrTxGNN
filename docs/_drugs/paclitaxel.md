@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para o **carcinoma de mama feminino (f
 
 ## Por que Esta Previsão é Razoável?
 
-Não há dados detalhados de mecanismo de ação nos dados compilados para este relatório. Segundo o conhecimento farmacológico estabelecido, o paclitaxel estabiliza os microtúbulos e impede a desmontagem do fuso mitótico, causando parada do ciclo celular em G2/M e apoptose em células tumorais de divisão rápida.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Paclitaxel (tradução não oficial): “O paclitaxel em partículas ligadas a proteínas para suspensão injetável (ligado à albumina) é um inibidor de microtúbulos que promove a montagem de microtúbulos a partir de dímeros de tubulina e estabiliza os microtúbulos impedindo a despolimerização. Essa estabilidade resulta na inibição da reorganização dinâmica normal da rede de microtúbulos, que é essencial para as funções celulares vitais da interfase e da mitose.” Texto original em inglês: "Paclitaxel protein-bound particles for injectable suspension (albumin-bound) is a microtubule inhibitor that promotes the assembly of microtubules from tubulin dimers and stabilizes microtubules by preventing depolymerization. This stability results in the inhibition of the normal dynamic reorganization of the microtubule network that is essential for vital interphase and mitotic cellular functions." ([DailyMed: Paclitaxel Protein-Bound Particles For Injectable Suspension (Albumin-Bound) (paclitaxel) prescribing information, NorthStar Rx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e9d5093-fbfc-470a-8520-811c46a8870c), versão de 2025-09-17; acessado em 2026-11-19). Segundo o conhecimento farmacológico estabelecido, o paclitaxel estabiliza os microtúbulos e impede a desmontagem do fuso mitótico, causando parada do ciclo celular em G2/M e apoptose em células tumorais de divisão rápida.
 
 Como esse efeito antimitótico não depende de um órgão-alvo específico, ele se aplica tanto ao câncer de ovário quanto ao de mama. A literatura revisada confirma que os taxanos são componentes baseados em evidência no tratamento de carcinomas avançados de mama, pulmão e ovário, e que o paclitaxel foi aprovado para o tratamento adjuvante do câncer de mama em estágio inicial com linfonodos positivos.
 
@@ -128,6 +128,19 @@ Consulte a bula para as advertências e contraindicações oficiais, que não es
 - Estabelecer plano de monitoramento hematológico, neurológico e de hipersensibilidade, e de gestão de interações medicamentosas (especialmente inibidores e indutores de CYP).
 
 **Observação sobre outras indicações previstas:** o câncer de mama RE-positivo (L1 com ressalva, pois os Phase 3 listados avaliam outros agentes), o RE-negativo e o resistente a hormônio (L2) seguem a mesma lógica e podem avançar com salvaguardas.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Paclitaxel Protein-Bound Particles For Injectable Suspension (Albumin-Bound) (paclitaxel) prescribing information, NorthStar Rx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e9d5093-fbfc-470a-8520-811c46a8870c) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

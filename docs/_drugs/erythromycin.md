@@ -56,7 +56,7 @@ mas até o momento há **0 ensaios clínicos** e apenas **1 publicação** (uma 
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a eritromicina é um antibiótico macrolídeo que inibe a subunidade ribossômica 50S bacteriana, tem atividade contra bactérias Gram-positivas e alguns microrganismos atípicos, e apresenta ainda efeito anti-inflamatório (imunomodulador).
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Erythromycin (tradução não oficial): “A eritromicina age por inibição da síntese proteica, ligando-se às subunidades ribossômicas 50S de organismos sensíveis. Ela não afeta a síntese de ácidos nucleicos.” Texto original em inglês: "Erythromycin acts by inhibition of protein synthesis by binding 50S ribosomal subunits of susceptible organisms. It does not affect nucleic acid synthesis." ([DailyMed: Ery-Tab (erythromycin) prescribing information, Arbor Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fda44eb6-7901-4b80-ba0b-216f6cacf3fd), versão de 2018-12-04; acessado em 2026-11-19). Segundo informações conhecidas, a eritromicina é um antibiótico macrolídeo que inibe a subunidade ribossômica 50S bacteriana, tem atividade contra bactérias Gram-positivas e alguns microrganismos atípicos, e apresenta ainda efeito anti-inflamatório (imunomodulador).
 
 A relação com a nova indicação é indireta. A blefaroceratoconjuntivite estafilocócica pode causar ceratopatia epitelial punctata, e macrolídeos, tópicos ou sistêmicos, são plausivelmente úteis nesse quadro, seja pelo efeito antibacteriano, seja pelo imunomodulador. Essa ligação se apoia em uma única revisão pediátrica sobre blefaroceratoconjuntivite crônica.
 
@@ -115,12 +115,13 @@ Para advertências e contraindicações formais, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, o único registro brasileiro está cancelado, o que limita a relevância prática imediata” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Tabela: registro 125680089 (RUBROMICIN) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Ery-Tab (erythromycin) prescribing information, Arbor Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fda44eb6-7901-4b80-ba0b-216f6cacf3fd) |
 
 <!-- review:end log -->
 

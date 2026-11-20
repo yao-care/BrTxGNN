@@ -56,7 +56,7 @@ atualmente com **0 ensaios clínicos** e **2 publicações** (série e relato de
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação registrados para este fármaco nos dados compilados. Segundo informações conhecidas, o clobazam é um modulador alostérico positivo do receptor GABA-A, mecanismo compartilhado com outros benzodiazepínicos, como midazolam e lorazepam.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Clobazam (tradução não oficial): “O mecanismo de ação exato do clobazam, um 1,5-benzodiazepínico, não é totalmente compreendido, mas acredita-se que envolva a potencialização da neurotransmissão GABAérgica resultante da ligação ao sítio benzodiazepínico do receptor GABA A.” Texto original em inglês: "The exact mechanism of action for clobazam, a 1,5-benzodiazepine, is not fully understood but is thought to involve potentiation of GABAergic neurotransmission resulting from binding at the benzodiazepine site of the GABA A receptor." ([DailyMed: Onfi (clobazam) prescribing information, Lundbeck Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de03bd69-2dca-459c-93b4-541fd3e9571c), versão de 2026-10-16; acessado em 2026-11-19). Segundo informações conhecidas, o clobazam é um modulador alostérico positivo do receptor GABA-A, mecanismo compartilhado com outros benzodiazepínicos, como midazolam e lorazepam.
 
 A síndrome epiléptica relacionada à infecção febril é uma forma de estado de mal epiléptico refratário de início recente, que acomete crianças previamente saudáveis. As crises costumam resistir aos antiepilépticos convencionais e exigem anestésicos em altas doses. Como benzodiazepínicos já fazem parte do manejo dessa condição, há uma justificativa plausível, baseada na classe de medicamentos, para considerar o clobazam.
 
@@ -91,6 +91,19 @@ Para advertências e contraindicações, consulte a bula.
 - Dados detalhados do mecanismo de ação (MOA)
 - Revisão sistemática da literatura sobre clobazam em FIRES/NORSE e, se houver sinal, relatos de casos ou estudos observacionais com clobazam
 - Análise da compatibilidade de vias de administração, considerando a necessidade de formulações adequadas ao quadro agudo
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Onfi (clobazam) prescribing information, Lundbeck Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de03bd69-2dca-459c-93b4-541fd3e9571c) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** nos dados compi
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, a capecitabina é um pró-fármaco oral de fluoropirimidina, convertido em 5-fluorouracila, inibidor da timidilato sintase, que interfere na síntese de DNA em células de divisão rápida.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Capecitabine (tradução não oficial): “A capecitabina é metabolizada em fluoruracila in vivo. Tanto as células normais quanto as tumorais metabolizam a fluoruracila em 5-fluoro-2'-desoxiuridina monofosfato (FdUMP) e 5-fluorouridina trifosfato (FUTP). Esses metabólitos causam lesão celular por dois mecanismos diferentes.” Texto original em inglês: "Capecitabine is metabolized to fluorouracil in vivo. Both normal and tumor cells metabolize fluorouracil to 5-fluoro-2'-deoxyuridine monophosphate (FdUMP) and 5-fluorouridine triphosphate (FUTP). These metabolites cause cell injury by two different mechanisms." ([DailyMed: Xeloda (capecitabine) prescribing information, H2-Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e702d84d-7162-4751-bf37-d724cc7e45a5), versão de 2026-02-05; acessado em 2026-11-19). Segundo informações conhecidas, a capecitabina é um pró-fármaco oral de fluoropirimidina, convertido em 5-fluorouracila, inibidor da timidilato sintase, que interfere na síntese de DNA em células de divisão rápida.
 
 Mecanisticamente, esse efeito citotóxico é plausível para o adenocarcinoma gástrico, um tumor em que as fluoropirimidinas são uma classe de fármacos consolidada. No entanto, a entidade prevista é um conjunto composto: uma síndrome hereditária rara com componente de polipose e predisposição ao câncer. Os dados não mostram que o mecanismo citotóxico se aplique ao componente de polipose; a ligação com essa síndrome é, portanto, inferida e não demonstrada.
 
@@ -131,12 +131,13 @@ As advertências e contraindicações da bula não estavam disponíveis; consult
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Há 11 registros válidos de produtos de agente único, sem registros cancelados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Contagem exibida: “A lista acima mostra os 5 primeiros de 11 registros” → “A lista acima mostra os 16 registros” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Xeloda (capecitabine) prescribing information, H2-Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e702d84d-7162-4751-bf37-d724cc7e45a5) |
 
 <!-- review:end log -->
 

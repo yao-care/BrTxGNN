@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **retinopatia diabética (diabeti
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, pegvaliase é uma fenilalanina amônia-liase peguilada que degrada a fenilalanina, e seu uso aprovado é a fenilcetonúria.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Pegvaliase (tradução não oficial): “A pegvaliase-pqpz é uma enzima fenilalanina amônia-liase (PAL) PEGuilada que converte a fenilalanina em amônia e ácido trans -cinâmico. Ela substitui a atividade deficiente da enzima fenilalanina hidroxilase (PAH) em pacientes com PKU e reduz as concentrações sanguíneas de fenilalanina.” Texto original em inglês: "Pegvaliase-pqpz is a PEGylated phenylalanine ammonia lyase (PAL) enzyme that converts phenylalanine to ammonia and trans -cinnamic acid. It substitutes for the deficient phenylalanine hydroxylase (PAH) enzyme activity in patients with PKU and reduces blood phenylalanine concentrations." ([DailyMed: Palynziq (pegvaliase-pqpz) prescribing information, BioMarin Pharmaceutical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6dba844a-db02-44f8-8593-ce497ed9406c), versão de 2026-03-02; acessado em 2026-11-19). Segundo informações conhecidas, pegvaliase é uma fenilalanina amônia-liase peguilada que degrada a fenilalanina, e seu uso aprovado é a fenilcetonúria.
 
 Não foi estabelecida nenhuma relação mecanística entre a depleção de fenilalanina e a patologia microvascular da retina diabética. A pontuação elevada do TxGNN (0,9917) vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica; por si só, não constitui prova de plausibilidade biológica.
 
@@ -83,6 +83,19 @@ A previsão é baseada apenas no modelo (L5), sem ensaios clínicos, sem literat
 - Propor e testar uma hipótese biológica que ligue a degradação de fenilalanina à retinopatia diabética, com estudos pré-clínicos
 - Avaliar a viabilidade da via de administração (a via sistêmica peguilada versus a necessidade de acesso ocular) e a situação regulatória no Brasil
 - Buscar sinais clínicos ou de literatura antes de qualquer reavaliação
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Palynziq (pegvaliase-pqpz) prescribing information, BioMarin Pharmaceutical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6dba844a-db02-44f8-8593-ce497ed9406c) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

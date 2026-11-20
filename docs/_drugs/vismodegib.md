@@ -57,7 +57,7 @@ Atenção: essa indicação corresponde, na prática, ao uso oncológico já est
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada. Segundo informações conhecidas, o vismodegibe é um inibidor oral de pequena molécula da proteína Smoothened (SMO), que bloqueia a via de sinalização Hedgehog. A literatura revisada confirma essa descrição (PMID 24756807, 24359667).
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Vismodegib (tradução não oficial): “O vismodegibe é um inibidor da via Hedgehog. O vismodegibe liga-se à Smoothened e a inibe, uma proteína transmembrana envolvida na transdução do sinal Hedgehog.” Texto original em inglês: "Vismodegib is an inhibitor of the Hedgehog pathway. Vismodegib binds to and inhibits Smoothened, a transmembrane protein involved in Hedgehog signal transduction." ([DailyMed: Erivedge (vismodegib) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eb368bb6-80e3-4df9-8a85-91df0a2ada6a), versão de 2024-12-02; acessado em 2026-11-19). Segundo informações conhecidas, o vismodegibe é um inibidor oral de pequena molécula da proteína Smoothened (SMO), que bloqueia a via de sinalização Hedgehog. A literatura revisada confirma essa descrição (PMID 24756807, 24359667).
 
 O carcinoma basocelular (CBC) é impulsionado por sinalização Hedgehog aberrante, por perda de PTCH1 ou ativação de SMO. Ao inibir SMO, o vismodegibe atua diretamente sobre esse motor tumoral. É justamente esse o mecanismo do seu uso aprovado em CBC localmente avançado ou metastático, por isso a previsão do modelo é biologicamente coerente.
 
@@ -162,13 +162,14 @@ O mecanismo é sólido (inibição de SMO em tumor dependente de Hedgehog) e há
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-10-31 | Removido: “(registro cancelado)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “O único registro do vismodegibe na ANVISA consta como **cancelado**, portanto não há produto com registro válido no Brasil nos dados compila” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Contudo, a indicação coincide com o uso oncológico original, o registro brasileiro está cancelado e não há dados de bula, então a decisão ex” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Erivedge (vismodegib) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eb368bb6-80e3-4df9-8a85-91df0a2ada6a) |
 
 <!-- review:end log -->
 

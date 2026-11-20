@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o dexlansoprazol faz parte da classe dos inibidores da bomba de prótons, que reduzem a secreção de ácido gástrico.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Dexlansoprazole (tradução não oficial): “O dexlansoprazol pertence a uma classe de compostos antissecretores, os benzimidazóis substituídos, que suprimem a secreção de ácido gástrico por meio da inibição específica da (H +, K + )-ATPase na superfície secretora da célula parietal gástrica. Como essa enzima é considerada a bomba de ácido (de prótons) dentro da célula parietal, o dexlansoprazol foi caracterizado como um inibidor da bomba de prótons gástrica, uma vez que bloqueia a etapa final da produção de ácido.” Texto original em inglês: "Dexlansoprazole belongs to a class of antisecretory compounds, the substituted benzimidazoles, that suppress gastric acid secretion by specific inhibition of the (H +, K + )-ATPase at the secretory surface of the gastric parietal cell. Because this enzyme is regarded as the acid (proton) pump within the parietal cell, dexlansoprazole has been characterized as a gastric proton-pump inhibitor, in that it blocks the final step of acid production." ([DailyMed: Dexlansoprazole Delayed Release (dexlansoprazole) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=55c550b4-eb8b-4e69-9c09-fa5125a52e65), versão de 2026-11-04; acessado em 2026-11-19). Segundo informações conhecidas, o dexlansoprazol faz parte da classe dos inibidores da bomba de prótons, que reduzem a secreção de ácido gástrico.
 
 Mecanisticamente, a supressão ácida poderia reduzir a inflamação da mucosa em doenças gastroduodenais relacionadas ao ácido, o que dá alguma plausibilidade à previsão. Ainda assim, não foram identificados ensaios nem literatura sobre esta indicação, de modo que a pontuação elevada se apoia somente na previsão da rede do modelo.
 
@@ -91,6 +91,19 @@ Atualmente não há literatura relacionada.
 - Revisão da literatura e busca de estudos que avaliem diretamente o dexlansoprazol em gastroduodenite
 - Dados do mecanismo de ação e da bula (advertências e contraindicações) para a triagem de segurança
 - Avaliação de compatibilidade de via de administração e da relevância clínica frente aos inibidores da bomba de prótons já disponíveis
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Dexlansoprazole Delayed Release (dexlansoprazole) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=55c550b4-eb8b-4e69-9c09-fa5125a52e65) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

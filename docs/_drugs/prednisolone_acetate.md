@@ -59,7 +59,7 @@ O modelo TxGNN prevê que pode ser eficaz para **foliculose conjuntival (conjunc
 
 ## Por que Esta Previsão é Razoável?
 
-Não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, o acetato de prednisolona é um corticosteroide tópico oftálmico, e sua ação anti-inflamatória na superfície ocular é bem estabelecida. Mecanisticamente, isso pode ser aplicável a quadros inflamatórios da conjuntiva.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Prednisolone Acetate (tradução não oficial): “A prednisolona é um fármaco esteroide adrenocortical sintético com propriedades predominantemente glicocorticoides. Algumas dessas propriedades reproduzem as ações fisiológicas dos glicocorticosteroides endógenos, mas outras não refletem necessariamente nenhuma das funções normais dos hormônios adrenais; elas são observadas somente após a administração de grandes doses terapêuticas do fármaco.” Texto original em inglês: "Prednisolone is a synthetic adrenocortical steroid drug with predominantly glucocorticoid properties. Some of these properties reproduce the physiological actions of endogenous glucocorticosteroids, but others do not necessarily reflect any of the adrenal hormones' normal functions; they are seen only after administration of large therapeutic doses of the drug." ([DailyMed: Orapred Odt (prednisolone sodium phosphate) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e379543-c4cf-4e72-953b-db15b7f0c2a1), versão de 2025-06-03; acessado em 2026-11-19). Segundo informações conhecidas, o acetato de prednisolona é um corticosteroide tópico oftálmico, e sua ação anti-inflamatória na superfície ocular é bem estabelecida. Mecanisticamente, isso pode ser aplicável a quadros inflamatórios da conjuntiva.
 
 A indicação original (corticoterapia tópica oftálmica) e a nova indicação (foliculose conjuntival) envolvem o mesmo tecido-alvo, a conjuntiva. Por isso, a lógica de ação anti-inflamatória é plausível. Ainda assim, nenhum estudo foi recuperado para essa entidade específica, e a similaridade formal com a indicação original ainda não foi avaliada.
 
@@ -138,11 +138,12 @@ Para advertências e contraindicações oficiais, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Há ainda mais dois registros válidos (PREDOPTIC e ZYPRED, este classificado como anti-infeccioso tópico em associações medicamentosas), tota” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Orapred Odt (prednisolone sodium phosphate) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e379543-c4cf-4e72-953b-db15b7f0c2a1) |
 
 <!-- review:end log -->
 

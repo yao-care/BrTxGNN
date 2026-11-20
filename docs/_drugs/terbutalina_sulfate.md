@@ -60,7 +60,7 @@ O modelo TxGNN prevê que pode ser útil para **Malformação respiratória (res
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Pelo que se sabe da classe, a terbutalina é um agonista beta-2 adrenérgico que relaxa a musculatura lisa brônquica, e há relato de que estimula a atividade ciliar (PMID 6314736).
+Segundo a seção “Clinical Pharmacology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Terbutalina Sulfate (tradução não oficial): “Estudos farmacológicos in vitro e in vivo demonstraram que a terbutalina exerce um efeito preferencial sobre os receptores beta 2 -adrenérgicos. Embora se reconheça que os receptores beta2-adrenérgicos são os receptores predominantes no músculo liso brônquico, os dados indicam que existe uma população de receptores beta2 no coração humano, presente em uma concentração entre 10% e 50%.” Texto original em inglês: "In vitro and in vivo pharmacologic studies have demonstrated that terbutaline exerts a preferential effect on beta 2 -adrenergic receptors. While it is recognized that beta2-adrenergic receptors are the predominant receptors in bronchial smooth muscle, data indicate that there is a population of beta2-receptors in the human heart, existing in a concentration between 10% to 50%." ([DailyMed: terbutaline sulfate prescribing information, Chartwell RX, LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=859267c6-3d14-4123-9b9d-4fc248f09726), versão de 2025-12-10; acessado em 2026-11-19). Pelo que se sabe da classe, a terbutalina é um agonista beta-2 adrenérgico que relaxa a musculatura lisa brônquica, e há relato de que estimula a atividade ciliar (PMID 6314736).
 
 Esses efeitos poderiam, em teoria, aliviar sintomas de distúrbios das vias aéreas que acompanham anomalias estruturais do sistema respiratório, como estreitamento das vias aéreas e comprometimento da depuração mucociliar. O benefício seria apenas sintomático: nada indica que a terbutalina corrija ou modifique a malformação em si.
 
@@ -133,13 +133,14 @@ Consulte a bula para informações de segurança. Não foram encontradas intera�
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “A ausência de registro no Brasil, de dados de mecanismo de ação e de indicação primária documentada no pack inviabiliza uma avaliação comple” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “e o fármaco não possui qualquer registro ativo na ANVISA segundo os dados consultados em 26/03/2026” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “⚠️ **Nota metodológica:** A ausência de resultados na consulta TFDA/ANVISA é inconsistente com o conhecimento farmacológico estabelecido sob” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: terbutaline sulfate prescribing information, Chartwell RX, LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=859267c6-3d14-4123-9b9d-4fc248f09726) |
 
 <!-- review:end log -->
 

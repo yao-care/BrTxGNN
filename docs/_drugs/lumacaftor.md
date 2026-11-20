@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Hanseníase (leprosy)**, mas at
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Sabe-se que o lumacaftor é classificado como corretor da CFTR, atuando no enovelamento e no tráfego dessa proteína até a membrana celular.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para lumacaftor and ivacaftor (associação que contém Lumacaftor) (tradução não oficial): “O lumacaftor melhora a estabilidade conformacional da F508del-CFTR, resultando em aumento do processamento e do tráfego da proteína madura para a superfície celular. Estudos in vitro demonstraram que tanto o lumacaftor quanto o ivacaftor atuam diretamente sobre a proteína CFTR em culturas primárias de epitélio brônquico humano e em outras linhagens celulares portadoras da mutação F508del-CFTR, aumentando a quantidade, a estabilidade e a função da F508del-CFTR na superfície celular, o que resulta em aumento do transporte de íons cloreto.” Texto original em inglês: "Lumacaftor improves the conformational stability of F508del-CFTR, resulting in increased processing and trafficking of mature protein to the cell surface. In vitro studies have demonstrated that both lumacaftor and ivacaftor act directly on the CFTR protein in primary human bronchial epithelial cultures and other cell lines harboring the F508del-CFTR mutation to increase the quantity, stability, and function of F508del-CFTR at the cell surface, resulting in increased chloride ion transport." ([DailyMed: Orkambi (lumacaftor and ivacaftor) prescribing information, Vertex Pharmaceuticals Incorporated](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3fc1c40e-cfac-47a1-9e1a-61ead3570600), versão de 2026-03-24; acessado em 2026-11-19). Sabe-se que o lumacaftor é classificado como corretor da CFTR, atuando no enovelamento e no tráfego dessa proteína até a membrana celular.
 
 Nos dados compilados, não há uma ligação mecanística estabelecida entre a correção da CFTR e a infecção por *Mycobacterium leprae* ou a resposta do hospedeiro a ela. A pontuação elevada (0,9944) é um resultado do modelo computacional e, por si só, não constitui evidência biológica ou clínica.
 
@@ -89,6 +89,19 @@ Consulte a bula para advertências e contraindicações, que não estavam dispon
 - Obter dados do mecanismo de ação do lumacaftor.
 - Realizar revisão de literatura e estudos pré-clínicos que avaliem a relevância da CFTR na hanseníase.
 - Avaliar a compatibilidade de vias de administração e a relevância clínica para a população-alvo.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Orkambi (lumacaftor and ivacaftor) prescribing information, Vertex Pharmaceuticals Incorporated](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3fc1c40e-cfac-47a1-9e1a-61ead3570600) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

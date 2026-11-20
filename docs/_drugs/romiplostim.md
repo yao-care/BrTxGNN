@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **distúrbio primário de libera�
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação compilados para este relatório. Segundo informações conhecidas, o romiplostim é um peptídeo agonista do receptor de trombopoietina (MPL), que estimula a maturação dos megacariócitos e aumenta a produção de plaquetas. Seu uso estabelecido é na trombocitopenia imune (PTI) crônica, e a farmacologia o relaciona ao receptor MPL.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Romiplostim (tradução não oficial): “Nplate aumenta a produção de plaquetas por meio da ligação e ativação do receptor de TPO, um mecanismo análogo ao da TPO endógena.” Texto original em inglês: "Nplate increases platelet production through binding and activation of the TPO receptor, a mechanism analogous to endogenous TPO." ([DailyMed: Nplate (romiplostim) prescribing information, Amgen, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c45f9a58-37c1-4f76-8e36-97d38c577037), versão de 2026-06-23; acessado em 2026-11-19). Segundo informações conhecidas, o romiplostim é um peptídeo agonista do receptor de trombopoietina (MPL), que estimula a maturação dos megacariócitos e aumenta a produção de plaquetas. Seu uso estabelecido é na trombocitopenia imune (PTI) crônica, e a farmacologia o relaciona ao receptor MPL.
 
 A relação com a nova indicação é fraca. O distúrbio de liberação plaquetária é um defeito de **função** (secreção de grânulos), e não de **contagem** de plaquetas. Aumentar a produção dificilmente corrigiria esse defeito funcional. O único artigo encontrado trata de PTI, na qual autoanticorpos inibem a formação de pró-plaquetas, e não da doença prevista.
 
@@ -129,13 +129,14 @@ Para as demais informações de segurança (advertências e contraindicações),
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “e o fármaco não possui registro no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “pois o fármaco não tem registro local” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “(ausência de registros nos dados compilados)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Nplate (romiplostim) prescribing information, Amgen, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c45f9a58-37c1-4f76-8e36-97d38c577037) |
 
 <!-- review:end log -->
 

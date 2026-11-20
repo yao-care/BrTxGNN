@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para a **síndrome da pessoa rígida c
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a vildagliptina inibe a DPP-4. Isso aumenta os níveis de GLP-1 e GIP ativos e reduz a secreção de glucagon, o que melhora o controle glicêmico no diabetes tipo 2. Os dados de farmacologia também listam como alvos as enzimas DPP-8 e DPP-9 e o canal TRPV4.
+Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Vildagliptin é (tradução não oficial): “Inibidor da dipeptidil peptidase IV” Texto original em inglês: "Dipeptidyl peptidase IV inhibitor" ([ChEMBL CHEMBL142703 (vildagliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL142703), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações conhecidas, a vildagliptina inibe a DPP-4. Isso aumenta os níveis de GLP-1 e GIP ativos e reduz a secreção de glucagon, o que melhora o controle glicêmico no diabetes tipo 2. Os dados de farmacologia também listam como alvos as enzimas DPP-8 e DPP-9 e o canal TRPV4.
 
 Na prática, **não há uma ligação mecanística sustentada pelos dados** entre essa inibição e a síndrome da pessoa rígida. Essa doença é um distúrbio autoimune do sistema GABAérgico, geralmente associado a anticorpos anti-GAD65, e a inibição da DPP-4 não tem conexão estabelecida com ela. A pontuação alta (0.9988) vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica nem um efeito terapêutico demonstrado.
 
@@ -84,6 +84,19 @@ Consulte a bula para informações de segurança. Os dados compilados não traze
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), uma lacuna que impede a triagem de segurança.
 - Complementar os dados de mecanismo de ação (por exemplo, via DrugBank) e avaliar se existe alguma hipótese biológica que ligue a inibição da DPP-4 à síndrome da pessoa rígida.
 - Realizar uma busca sistemática de literatura e de registros de ensaios específica para esta indicação.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [ChEMBL CHEMBL142703 (vildagliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL142703) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

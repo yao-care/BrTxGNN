@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o aztreonam é um monobactâmico que inibe a proteína ligadora de penicilina 3 (PBP3) bacteriana, interferindo na síntese da parede celular de bactérias Gram-negativas.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Aztreonam (tradução não oficial): “O aztreonam é um agente bactericida que atua por meio da inibição da síntese da parede celular bacteriana. O aztreonam tem atividade na presença de algumas betalactamases, tanto penicilinases quanto cefalosporinases, de bactérias Gram-negativas e Gram-positivas.” Texto original em inglês: "Aztreonam is a bactericidal agent that acts by inhibition of bacterial cell wall synthesis. Aztreonam has activity in the presence of some beta-lactamases, both penicillinases and cephalosporinases, of Gram-negative and Gram-positive bacteria." ([DailyMed: aztreonam prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d4500795-3b07-4a7d-b432-73cafbb3dbc6), versão de 2024-06-03; acessado em 2026-11-19). Segundo informações conhecidas, o aztreonam é um monobactâmico que inibe a proteína ligadora de penicilina 3 (PBP3) bacteriana, interferindo na síntese da parede celular de bactérias Gram-negativas.
 
 A análise mecanística não encontra um vínculo plausível entre esse mecanismo e a hiperamilasemia. O aztreonam não tem efeito conhecido sobre o metabolismo da amilase, e a pontuação alta do modelo parece ser um artefato da estrutura de dados em rede, não uma evidência biológica.
 
@@ -109,11 +109,12 @@ Para advertências e contraindicações, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-12 | Registros: 11 (8 cancelados) → 12 (9 cancelados) | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: aztreonam prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d4500795-3b07-4a7d-b432-73cafbb3dbc6) |
 
 <!-- review:end log -->
 

@@ -59,7 +59,7 @@ O modelo TxGNN prevê que pode ser eficaz para **pneumocistose (Pneumocystosis)*
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nas informações compiladas para este relatório. Segundo informações conhecidas, o metronidazol atua sobre bactérias anaeróbias e protozoários por ativação redutora do seu grupo nitro, que gera metabólitos tóxicos para o DNA do microrganismo.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Metronidazole (tradução não oficial): “O metronidazol, um nitroimidazol, exerce efeitos antibacterianos em ambiente anaeróbio contra a maioria dos anaeróbios obrigatórios. Depois que o metronidazol entra no organismo por difusão passiva e é ativado no citoplasma das bactérias anaeróbias suscetíveis, ele é reduzido; esse processo inclui doadores intracelulares de transporte de elétrons, como a ferredoxina, e a transferência de um elétron para o grupo nitro do metronidazol, levando à formação de um radical livre nitroso de vida curta.” Texto original em inglês: "Metronidazole, a nitroimidazole, exerts antibacterial effects in an anaerobic environment against most obligate anaerobes. Once metronidazole enters the organism by passive diffusion and activated in the cytoplasm of susceptible anaerobic bacteria, it is reduced; this process includes intra-cellular electron transport donors such as ferredoxin and transfer of an electron to the nitro group of the metronidazole leading to formation of a short-lived nitroso free radical." ([DailyMed: metronidazole prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49360d6f-c8b3-420e-af75-154cf7b05255), versão de 2026-11-02; acessado em 2026-11-19). Segundo informações conhecidas, o metronidazol atua sobre bactérias anaeróbias e protozoários por ativação redutora do seu grupo nitro, que gera metabólitos tóxicos para o DNA do microrganismo.
 
 Neste caso, **a previsão é pouco razoável do ponto de vista mecanístico**. *Pneumocystis* é um fungo e não possui a via de nitrorredutases necessária para ativar o metronidazol. A pontuação alta do TxGNN provavelmente é um artefato de proximidade na rede de conhecimento (o fármaco e a doença aparecem frequentemente em contextos de infecções oportunistas e antiparasitários), e não um sinal biológico real. O tratamento padrão da pneumocistose é sulfametoxazol-trimetoprima.
 
@@ -180,13 +180,14 @@ Para advertências e contraindicações oficiais, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-10-31 | Removido: “(registros cancelados)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Foram encontrados 20 registros válidos; o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Além disso, o medicamento está comercializado no Brasil, com 20 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: metronidazole prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49360d6f-c8b3-420e-af75-154cf7b05255) |
 
 <!-- review:end log -->
 

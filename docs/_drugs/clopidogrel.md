@@ -58,7 +58,7 @@ Observação sobre o nível de evidência: nenhuma das publicações citadas est
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Pela classe farmacológica, o clopidogrel inibe o receptor P2Y12 e reduz a agregação plaquetária.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Clopidogrel (tradução não oficial): “O clopidogrel é um inibidor da ativação e da agregação plaquetárias por meio da ligação irreversível de seu metabólito ativo à classe P2Y 12 de receptores de ADP nas plaquetas.” Texto original em inglês: "Clopidogrel is an inhibitor of platelet activation and aggregation through the irreversible binding of its active metabolite to the P2Y 12 class of ADP receptors on platelets." ([DailyMed: Plavix (clopidogrel) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de8b0b67-eb25-4684-83b5-7ad785314227), versão de 2025-05-30; acessado em 2026-11-19). Pela classe farmacológica, o clopidogrel inibe o receptor P2Y12 e reduz a agregação plaquetária.
 
 A hipótese discutida na literatura é que, em pacientes com shunt direita-esquerda (como o FOP), a ativação plaquetária e a microembolia paradoxal, com liberação de mediadores vasoativos e serotoninérgicos, poderiam desencadear a aura. O bloqueio do P2Y12 reduziria esse processo. Estudos pré-clínicos em modelos animais de enxaqueca também sugerem participação do receptor P2Y12, embora esses estudos tenham sido localizados na busca da enxaqueca em geral.
 
@@ -120,11 +120,12 @@ Consulte a bula para as advertências e contraindicações oficiais.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Segundo os dados compilados, o clopidogrel consta como comercializado no Brasil, com 9 registros válidos e 11 cancelados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Plavix (clopidogrel) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de8b0b67-eb25-4684-83b5-7ad785314227) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **hanseníase (leprosy)**, mas at
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, enfortumabe vedotina é um conjugado anticorpo-fármaco dirigido contra a Nectina-4, que entrega a monometil auristatina E (MMAE), um agente que rompe os microtúbulos. Sua eficácia como antineoplásico em carcinoma urotelial é conhecida.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Enfortumab Vedotin (tradução não oficial): “O enfortumabe vedotina-ejfv é um ADC. O anticorpo é uma IgG1 kappa humana dirigida contra a Nectina-4, uma proteína de adesão localizada na superfície das células. A molécula pequena, MMAE, é um agente desorganizador de microtúbulos, ligado ao anticorpo por meio de um ligante clivável por protease.” Texto original em inglês: "Enfortumab vedotin-ejfv is an ADC. The antibody is a human IgG1 kappa directed against Nectin-4, an adhesion protein located on the surface of cells. The small molecule, MMAE, is a microtubule-disrupting agent, attached to the antibody via a protease-cleavable linker." ([DailyMed: Padcev Ejfv (enfortumab vedotin) prescribing information, SEAGEN INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b5631d3e-4604-4363-8f20-11dfc5a4a8ed), versão de 2026-08-04; acessado em 2026-11-19). Segundo informações conhecidas, enfortumabe vedotina é um conjugado anticorpo-fármaco dirigido contra a Nectina-4, que entrega a monometil auristatina E (MMAE), um agente que rompe os microtúbulos. Sua eficácia como antineoplásico em carcinoma urotelial é conhecida.
 
 Não há relação mecanística identificada entre esse tipo de ação e a infecção por *Mycobacterium leprae*. Nada nos dados conecta o direcionamento à Nectina-4 ou a entrega de carga citotóxica à hanseníase. A pontuação alta (0,9953) vem do modelo TxGNN (aprendizado profundo) e pode refletir similaridades que o modelo aprendeu entre doenças relacionadas, não evidência biológica, sem respaldo em ensaios ou literatura. A similaridade com a indicação original ainda não foi avaliada.
 
@@ -114,12 +114,13 @@ Para advertências e contraindicações, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-10-31 | Removido: “(registro cancelado)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Além disso, o único registro no Brasil está cancelado, e um fármaco citotóxico e imunossupressor dificilmente seria adequado para uma doença” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Padcev Ejfv (enfortumab vedotin) prescribing information, SEAGEN INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b5631d3e-4604-4363-8f20-11dfc5a4a8ed) |
 
 <!-- review:end log -->
 

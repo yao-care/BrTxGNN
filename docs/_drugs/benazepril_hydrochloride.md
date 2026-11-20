@@ -60,7 +60,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Doença renal hipertensiva mali
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação neste material. Sabe-se, porém, que o benazepril pertence à classe dos inibidores da ECA, que reduzem a formação de angiotensina II e, assim, a pressão arterial e a carga sobre os rins.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Benazepril Hydrochloride (tradução não oficial): “O benazepril e o benazeprilato inibem a enzima conversora de angiotensina (ECA) em seres humanos e em animais. O benazeprilato tem atividade inibitória da ECA muito maior do que a do benazepril. A ECA é uma peptidil dipeptidase que catalisa a conversão da angiotensina I na substância vasoconstritora angiotensina II.” Texto original em inglês: "Benazepril and benazeprilat inhibit angiotensin-converting enzyme (ACE) in human subjects and animals. Benazeprilat has much greater ACE inhibitory activity than does benazepril. ACE is a peptidyl dipeptidase that catalyzes the conversion of angiotensin I to the vasoconstrictor substance, angiotensin II." ([DailyMed: Lotensin (benazepril hydrochloride) prescribing information, Validus Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2abb091b-a53e-46b0-9b84-e5ee8f2bdd8e), versão de 2025-09-30; acessado em 2026-11-19). Sabe-se, porém, que o benazepril pertence à classe dos inibidores da ECA, que reduzem a formação de angiotensina II e, assim, a pressão arterial e a carga sobre os rins.
 
 Na hipertensão maligna, a ativação do sistema renina-angiotensina-aldosterona (SRAA) é central para a lesão renal (necrose fibrinoide, endarterite proliferativa). Inibidores da ECA são estabelecidos como protetores renais em doença renal hipertensiva e proteinúrica. Por isso, o vínculo é biologicamente plausível e coerente com o conhecimento da classe.
 
@@ -97,6 +97,19 @@ Consulte a bula para informações de segurança.
 - Dados detalhados do mecanismo de ação (MOA).
 - Informações de segurança da bula aprovada pela ANVISA (advertências e contraindicações).
 - Avaliação de segurança específica para pacientes com hipertensão maligna, incluindo estenose de artéria renal e função renal basal.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Lotensin (benazepril hydrochloride) prescribing information, Validus Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2abb091b-a53e-46b0-9b84-e5ee8f2bdd8e) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

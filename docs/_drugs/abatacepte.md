@@ -56,7 +56,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Espondilite anquilosante (ankyl
 
 ## Por que Esta Previsão é Razoável?
 
-Não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Pelo conhecimento geral, o abatacepte (CTLA4-Ig) bloqueia a coestimulação mediada por CD28 e, com isso, reduz a ativação de linfócitos T. Isso é plausível em doenças inflamatórias dirigidas por células T.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Abatacepte (tradução não oficial): “O abatacepte, um modulador seletivo da coestimulação, inibe a ativação de células T (linfócitos T) ao se ligar a CD80 e CD86, bloqueando assim a interação com CD28. Essa interação fornece um sinal coestimulatório necessário para a ativação completa dos linfócitos T.” Texto original em inglês: "Abatacept, a selective costimulation modulator, inhibits T-cell (T lymphocyte) activation by binding to CD80 and CD86, thereby blocking interaction with CD28. This interaction provides a costimulatory signal necessary for full activation of T lymphocytes." ([DailyMed: Orencia (abatacept) prescribing information, E.R. Squibb & Sons, L.L.C.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0836c6ac-ee37-5640-2fed-a3185a0b16eb), versão de 2025-11-13; acessado em 2026-11-19). Pelo conhecimento geral, o abatacepte (CTLA4-Ig) bloqueia a coestimulação mediada por CD28 e, com isso, reduz a ativação de linfócitos T. Isso é plausível em doenças inflamatórias dirigidas por células T.
 
 Entretanto, a espondilite anquilosante é conduzida principalmente pelos eixos do TNF e da IL-17/IL-23. Revisões da literatura (por exemplo, Sieper, 2016) indicam que biológicos direcionados a IL-1, IL-6 e células T (abatacepte) não são eficazes na doença axial, ao contrário dos bloqueadores de TNF. A pontuação TxGNN muito alta (0,9991) não é sustentada por dados clínicos; o vínculo mecanístico é fraco e se baseia em conhecimento geral.
 
@@ -100,6 +100,19 @@ Consulte a bula para informações de segurança. Entre os dados compilados, a l
 - Obter os resultados publicados do piloto NCT00558506 ou ensaios controlados específicos para espondilite anquilosante.
 - Complementar os dados de mecanismo de ação e as advertências e contraindicações da bula da ANVISA.
 - Avaliar a posição do abatacepte frente aos inibidores de TNF e de IL-17, já estabelecidos na doença.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Orencia (abatacept) prescribing information, E.R. Squibb & Sons, L.L.C.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0836c6ac-ee37-5640-2fed-a3185a0b16eb) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

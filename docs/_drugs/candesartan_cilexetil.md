@@ -54,7 +54,7 @@ Candesartana cilexetila é um anti-hipertensivo, e o modelo TxGNN prevê que pod
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação no material compilado para este relatório. Pela classe do fármaco, a candesartana é um bloqueador do receptor AT1 da angiotensina II (ARA II).
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Candesartan Cilexetil (tradução não oficial): “A angiotensina II é formada a partir da angiotensina I em uma reação catalisada pela enzima conversora de angiotensina (ECA, cininase II). A angiotensina II é o principal agente pressor do sistema renina-angiotensina, com efeitos que incluem vasoconstrição, estimulação da síntese e liberação de aldosterona, estimulação cardíaca e reabsorção renal de sódio. […] A candesartana bloqueia os efeitos vasoconstritores e secretores de aldosterona da angiotensina II ao bloquear seletivamente a ligação da angiotensina II ao receptor AT 1 em muitos tecidos, como o músculo liso vascular e a glândula adrenal.” Texto original em inglês: "Angiotensin II is formed from angiotensin I in a reaction catalyzed by angiotensin-converting enzyme (ACE, kininase II). Angiotensin II is the principal pressor agent of the renin-angiotensin system, with effects that include vasoconstriction, stimulation of synthesis and release of aldosterone, cardiac stimulation, and renal reabsorption of sodium. […] Candesartan blocks the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT 1 receptor in many tissues, such as vascular smooth muscle and the adrenal gland." ([DailyMed: Atacand (candesartan cilexetil) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=94a59260-d2b6-464a-b5b9-bbc599e57e10), versão de 2025-12-22; acessado em 2026-11-19). Pela classe do fármaco, a candesartana é um bloqueador do receptor AT1 da angiotensina II (ARA II).
 
 Bloquear a sinalização da angiotensina II pode reduzir a pressão dentro dos glomérulos e a lesão renal na nefropatia hipertensiva, e os ARA II já são utilizados em doença renal crônica associada à hipertensão. Isso dá plausibilidade biológica à previsão.
 
@@ -129,11 +129,12 @@ Consulte a bula para advertências e contraindicações oficiais, pois esses dad
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-11 | Removido: “Segundo os dados compilados, há 17 registros, todos de produtos com candesartana cilexetila isolada ou associada à hidroclorotiazida” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Atacand (candesartan cilexetil) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=94a59260-d2b6-464a-b5b9-bbc599e57e10) |
 
 <!-- review:end log -->
 

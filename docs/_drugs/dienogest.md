@@ -56,7 +56,7 @@ mas atualmente não há ensaios clínicos registrados e há **7 publicações** 
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação no material compilado. Sabe-se que o dienogeste é um progestágeno com forte ação antiproliferativa sobre o endométrio, que suprime parcialmente a ovulação e o estradiol. Com isso, a amenorreia é um efeito bem conhecido do seu uso, o que torna a associação biologicamente plausível.
+Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Dienogest é (tradução não oficial): “Desconhecido” Texto original em inglês: "Unknown" ([ChEMBL CHEMBL1201864 (dienogest): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201864), CC BY-SA 3.0; acessado em 2026-11-19). Sabe-se que o dienogeste é um progestágeno com forte ação antiproliferativa sobre o endométrio, que suprime parcialmente a ovulação e o estradiol. Com isso, a amenorreia é um efeito bem conhecido do seu uso, o que torna a associação biologicamente plausível.
 
 Porém, a amenorreia aqui aparece como efeito farmacodinâmico ou adverso esperado (supressão do sangramento), e não como alvo terapêutico. A amenorreia, como condição (ausência de menstruação), não é um objetivo de tratamento adequado com um fármaco que a provoca. A supressão do eixo hipotálamo-hipófise-ovário poderia, em teoria, ajudar em sangramento uterino anormal, mas isso é outra situação clínica. A pontuação alta do modelo provavelmente reflete a associação entre o fármaco e a condição, e não benefício terapêutico.
 
@@ -106,11 +106,12 @@ Consulte a bula para as demais informações de segurança (advertências e cont
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Segundo os dados locais, há 13 registros válidos e 7 cancelados, e a” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [ChEMBL CHEMBL1201864 (dienogest): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201864) |
 
 <!-- review:end log -->
 

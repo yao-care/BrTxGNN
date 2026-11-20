@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **18 publicações** relacionadas, 
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação no material compilado. Segundo informações conhecidas, o alprazolam é um benzodiazepínico que potencializa a sinalização do receptor GABA-A, o que produz efeitos ansiolíticos e sedativo-hipnóticos.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Alprazolam (tradução não oficial): “O alprazolam é um 1,4-benzodiazepínico. O alprazolam exerce seu efeito no tratamento do transtorno de pânico por meio da ligação ao sítio benzodiazepínico dos receptores do ácido gama-aminobutírico A (GABA A ) no cérebro e potencializa a inibição sináptica mediada pelo GABA.” Texto original em inglês: "Alprazolam is a 1,4 benzodiazepine. Alprazolam exerts its effect for the treatment of panic disorder through binding to the benzodiazepine site of gamma‑aminobutyric acid-A (GABA A ) receptors in the brain and enhances GABA-mediated synaptic inhibition." ([DailyMed: Alprazolam Xr (alprazolam) prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1338d1c9-7c75-42ed-95f3-9eb1b6fc51d3), versão de 2025-02-11; acessado em 2026-11-19). Segundo informações conhecidas, o alprazolam é um benzodiazepínico que potencializa a sinalização do receptor GABA-A, o que produz efeitos ansiolíticos e sedativo-hipnóticos.
 
 A ansiedade e a insônia costumam coexistir, e o efeito sedativo do fármaco pode, em princípio, ser aplicável ao tratamento da insônia. Esse é um elo mecanístico plausível.
 
@@ -111,11 +111,12 @@ A previsão baseia-se apenas no modelo e em um elo mecanístico plausível, sem 
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “e a ausência de registro no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Alprazolam Xr (alprazolam) prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1338d1c9-7c75-42ed-95f3-9eb1b6fc51d3) |
 
 <!-- review:end log -->
 

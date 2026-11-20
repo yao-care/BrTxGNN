@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser útil para **hiperamilasemia (hyperamylasemia
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Sabe-se que a ceftriaxona é uma cefalosporina de terceira geração, que atua inibindo a síntese da parede celular bacteriana.
+Segundo as seções “Mechanism of Action” e “Microbiology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Ceftriaxone (tradução não oficial): “A ceftriaxona é um fármaco antibacteriano. […] A ceftriaxona é um agente bactericida que atua por inibição da síntese da parede celular bacteriana. A ceftriaxona tem atividade na presença de algumas betalactamases, tanto penicilinases quanto cefalosporinases, de bactérias Gram-negativas e Gram-positivas.” Texto original em inglês: "Ceftriaxone is an antibacterial drug. […] Ceftriaxone is a bactericidal agent that acts by inhibition of bacterial cell wall synthesis. Ceftriaxone has activity in the presence of some beta-lactamases, both penicillinases and cephalosporinases, of Gram-negative and Gram-positive bacteria." ([DailyMed: Ceftriaxone And Dextrose (ceftriaxone) prescribing information, B. Braun Medical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=67153914-16bc-490d-82d7-638061618467), versão de 2022-01-13; acessado em 2026-11-19). Sabe-se que a ceftriaxona é uma cefalosporina de terceira geração, que atua inibindo a síntese da parede celular bacteriana.
 
 Do ponto de vista mecanístico, **não há uma ligação plausível** com a hiperamilasemia. Trata-se de um achado laboratorial (elevação da amilase sérica), e não de uma doença com alvo antibiótico definido. A pontuação elevada do modelo provavelmente reflete proximidade na rede de relações, e não farmacologia.
 
@@ -134,6 +134,18 @@ Consulte a bula para advertências e contraindicações formais.
 - Dados de mecanismo de ação e das advertências e contraindicações da bula da ANVISA.
 - Estudos que demonstrem benefício em hiperamilasemia, o que hoje não tem sustentação.
 - Avaliação do risco de lama biliar e pancreatite associado ao fármaco.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Ceftriaxone And Dextrose (ceftriaxone) prescribing information, B. Braun Medical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=67153914-16bc-490d-82d7-638061618467) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o brolucizumabe é um fragmento de anticorpo de cadeia única (scFv) que inibe o VEGF-A, aprovado para uso intraocular (injeção intravítrea).
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Brolucizumab (tradução não oficial): “O brolucizumabe é um inibidor do VEGF humano. O brolucizumabe liga-se às três principais isoformas do VEGF-A (p. ex., VEGF 110, VEGF 121 e VEGF 165 ), impedindo assim a interação com os receptores VEGFR-1 e VEGFR-2. Ao inibir o VEGF-A, o brolucizumabe suprime a proliferação de células endoteliais, a neovascularização e a permeabilidade vascular.” Texto original em inglês: "Brolucizumab is a human VEGF inhibitor. Brolucizumab binds to the three major isoforms of VEGF-A (e.g., VEGF 110, VEGF 121, and VEGF 165 ), thereby preventing interaction with receptors VEGFR-1 and VEGFR-2. By inhibiting VEGF-A, brolucizumab suppresses endothelial cell proliferation, neovascularization, and vascular permeability." ([DailyMed: Beovu (brolucizumab) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5d1dc1fa-a2d3-46ed-9e9a-c1a036590d3d), versão de 2026-10-26; acessado em 2026-11-19). Segundo informações conhecidas, o brolucizumabe é um fragmento de anticorpo de cadeia única (scFv) que inibe o VEGF-A, aprovado para uso intraocular (injeção intravítrea).
 
 **Não foi estabelecida uma ligação mecanística plausível.** Os transtornos mitocondriais da fosforilação oxidativa não são conhecidos por serem dirigidos pelo VEGF-A, e um biológico administrado por via intravítrea dificilmente alcançaria a disfunção mitocondrial sistêmica. A pontuação alta (0,9967) vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica. Além disso, os riscos de inflamação intraocular e vasculite retiniana associados ao fármaco acrescentam uma preocupação de segurança.
 
@@ -106,11 +106,12 @@ Todas as indicações previstas têm apenas previsão do modelo (L5), sem ensaio
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, o único registro no Brasil está cancelado e a via de administração (intravítrea) é incompatível com doenças sistêmicas” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Beovu (brolucizumab) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5d1dc1fa-a2d3-46ed-9e9a-c1a036590d3d) |
 
 <!-- review:end log -->
 

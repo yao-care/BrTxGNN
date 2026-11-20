@@ -56,7 +56,7 @@ atualmente com **39 ensaios clínicos** e **20 publicações** compilados para e
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, o busulfano é um agente alquilante bifuncional que provoca ligações cruzadas no DNA e mieloablação. Sua eficácia como antineoplásico citotóxico está estabelecida.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Busulfan (tradução não oficial): “O bussulfano é um agente alquilante bifuncional no qual dois grupos metanossulfonato lábeis estão ligados a extremidades opostas de uma cadeia alquila de quatro carbonos. Em meio aquoso, o bussulfano sofre hidrólise, liberando os grupos metanossulfonato.” Texto original em inglês: "Busulfan is a bifunctional alkylating agent in which two labile methanesulfonate groups are attached to opposite ends of a four-carbon alkyl chain. In aqueous media, busulfan hydrolyzes to release the methanesulfonate groups." ([DailyMed: busulfan prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=086a715e-4958-4bb5-9ebd-86171e6b6203), versão de 2026-07-29; acessado em 2026-11-19). Segundo informações conhecidas, o busulfano é um agente alquilante bifuncional que provoca ligações cruzadas no DNA e mieloablação. Sua eficácia como antineoplásico citotóxico está estabelecida.
 
 Na síndrome mielodisplásica (SMD), o busulfano é usado como base de regimes de condicionamento (com fludarabina, clofarabina ou ciclofosfamida) antes do transplante alogênico de células-tronco hematopoéticas. Esse condicionamento erradica o clone maligno e abre espaço na medula para o enxerto do doador. Trata-se de um papel de condicionamento, não de monoterapia modificadora da doença.
 
@@ -163,12 +163,13 @@ Há vários ensaios de Fase 2, Fase 2/3 e Fase 3, além de comparações randomi
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “e o único registro brasileiro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Esclarecer a situação regulatória: o registro está cancelado, sendo necessário verificar a disponibilidade de produto vigente (por exemplo, ” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: busulfan prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=086a715e-4958-4bb5-9ebd-86171e6b6203) |
 
 <!-- review:end log -->
 

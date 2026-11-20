@@ -56,7 +56,7 @@ porém há apenas **1 ensaio clínico** (basket trial tumor-agnóstico, relevân
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o larotrectinibe é um inibidor altamente seletivo de TRK (NTRK1/2/3), usado em tumores com fusão de NTRK.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Larotrectinib (tradução não oficial): “O larotrectinibe é um inibidor das quinases do receptor de tropomiosina (TRK), TRKA, TRKB e TRKC. Em um amplo painel de ensaios com enzimas purificadas, o larotrectinibe inibiu TRKA, TRKB e TRKC com valores de IC 50 entre 5-11 nM. Uma outra quinase, a TNK2, foi inibida em uma concentração aproximadamente 100 vezes maior.” Texto original em inglês: "Larotrectinib is an inhibitor of the tropomyosin receptor kinases (TRK), TRKA, TRKB, and TRKC. In a broad panel of purified enzyme assays, larotrectinib inhibited TRKA, TRKB, and TRKC with IC 50 values between 5-11 nM. One other kinase TNK2 was inhibited at approximately 100-fold higher concentration." ([DailyMed: Vitrakvi (larotrectinib) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0c8ca614-58b2-4aa4-83d3-0387a8f782fd), versão de 2026-05-22; acessado em 2026-11-19). Segundo informações conhecidas, o larotrectinibe é um inibidor altamente seletivo de TRK (NTRK1/2/3), usado em tumores com fusão de NTRK.
 
 A Neoplasia Endócrina Múltipla tipo 2 (MEN2) é causada principalmente por mutações germinativas ativadoras do gene RET, e não por alterações em NTRK. Portanto, **não há sobreposição direta de alvo**. A ligação é indireta: a literatura aborda terapias com inibidores de quinase no câncer de tireoide avançado (incluindo o carcinoma medular de tireoide, tumor característico da MEN2), e tumores dependentes de RET podem apresentar resistência por vias paralelas de quinases.
 
@@ -124,11 +124,12 @@ Não há alvo em comum entre o larotrectinibe (TRK) e o principal motor da MEN2 
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, os registros do produto no Brasil estão cancelados e faltam dados de segurança da bula” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Vitrakvi (larotrectinib) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0c8ca614-58b2-4aa4-83d3-0387a8f782fd) |
 
 <!-- review:end log -->
 

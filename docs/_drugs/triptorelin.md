@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Hipertricose (hypertrichosis (d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Sabe-se, pela classe do fármaco, que a triptorelina é um agonista do GnRH: após a estimulação inicial, ela dessensibiliza a hipófise e reduz a produção de hormônios sexuais (testosterona e estrogênio).
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Triptorelin (tradução não oficial): “A triptorrelina é um decapeptídeo sintético análogo agonista do hormônio liberador de gonadotrofina (GnRH). Estudos comparativos in vitro mostraram que a triptorrelina foi 100 vezes mais ativa que o GnRH nativo na estimulação da liberação do hormônio luteinizante a partir de monocamadas de células hipofisárias dispersas de rato em cultura e 20 vezes mais ativa que o GnRH nativo no deslocamento do 125 I-GnRH dos sítios receptores hipofisários.” Texto original em inglês: "Triptorelin is a synthetic decapeptide agonist analog of gonadotropin releasing hormone (GnRH). Comparative in vitro studies showed that triptorelin was 100-fold more active than native GnRH in stimulating luteinizing hormone release from monolayers of dispersed rat pituitary cells in culture and 20-fold more active than native GnRH in displacing 125 I-GnRH from pituitary receptor sites." ([DailyMed: Trelstar (triptorelin pamoate) prescribing information, Verity Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b1b84d62-a369-a4b7-5c41-dd1f553a18f3), versão de 2026-06-30; acessado em 2026-11-19). Sabe-se, pela classe do fármaco, que a triptorelina é um agonista do GnRH: após a estimulação inicial, ela dessensibiliza a hipófise e reduz a produção de hormônios sexuais (testosterona e estrogênio).
 
 A análise dos dados compilados não identificou um vínculo mecanístico crível com a hipertricose. A supressão de esteroides sexuais não deve tratar o crescimento excessivo de pelos e pode até atuar em sentido oposto sobre o crescimento capilar. A pontuação alta do modelo, portanto, deve ser interpretada com cautela, pois não é acompanhada de nenhuma evidência clínica ou de plausibilidade biológica.
 
@@ -96,6 +96,18 @@ As advertências e contraindicações da bula da ANVISA não estavam disponívei
 - Uma hipótese mecanística plausível que justifique o uso de um agonista do GnRH nessa condição
 - Dados detalhados do mecanismo de ação
 - Bula da ANVISA com advertências e contraindicações para a triagem de segurança
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Trelstar (triptorelin pamoate) prescribing information, Verity Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b1b84d62-a369-a4b7-5c41-dd1f553a18f3) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

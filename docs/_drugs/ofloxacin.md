@@ -71,7 +71,7 @@ Entre as 10 previsões analisadas, a mais bem sustentada por dados é a **peste 
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação no material compilado. Segundo informações conhecidas, o ofloxacino é uma fluoroquinolona que inibe a DNA girase e a topoisomerase IV bacterianas, e sua eficácia antibacteriana está estabelecida.
+Segundo a seção “Clinical Pharmacology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Ofloxacin (tradução não oficial): “A ofloxacina exerce sua atividade antibacteriana inibindo a DNA girase, uma topoisomerase bacteriana. A DNA girase é uma enzima essencial que controla a topologia do DNA e auxilia na replicação, reparo, desativação e transcrição do DNA.” Texto original em inglês: "Ofloxacin exerts its antibacterial activity by inhibiting DNA gyrase, a bacterial topoisomerase. DNA gyrase is an essential enzyme which controls DNA topology and assists in DNA replication, repair, deactivation, and transcription." ([DailyMed: Ofloxacin Otic (ofloxacin) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=42366170-e536-46a1-9735-d76e5820a9de), versão de 2026-10-23; acessado em 2026-11-19). Segundo informações conhecidas, o ofloxacino é uma fluoroquinolona que inibe a DNA girase e a topoisomerase IV bacterianas, e sua eficácia antibacteriana está estabelecida.
 
 Para a previsão principal (síndrome de hiperviscosidade policlonal), **não há vínculo mecanístico plausível**: o ofloxacino não tem efeito conhecido sobre a viscosidade sérica nem sobre a elevação policlonal de imunoglobulinas. A pontuação alta vem do modelo TxGNN (aprendizado profundo) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica. O mesmo vale para hiperamilasemia, analbuminemia congênita, doenças hematológicas e gamopatia monoclonal. Para a doença hematológica associada a neuropatia periférica, as fluoroquinolonas podem causar neuropatia periférica como efeito adverso, o que contraria a hipótese de benefício e levanta preocupação de segurança.
 
@@ -183,13 +183,14 @@ Consulte a bula para advertências principais e contraindicações oficiais; os 
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “(8 registros válidos de 8)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “já que não há registro vigente no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-11 | Removido: “Todos os 8 registros estão vigentes (8 licenças válidas de 8); o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Ofloxacin Otic (ofloxacin) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=42366170-e536-46a1-9735-d76e5820a9de) |
 
 <!-- review:end log -->
 

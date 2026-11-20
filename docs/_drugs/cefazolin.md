@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e apenas **2 publicações** associad
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a cefazolina é uma cefalosporina de primeira geração que inibe a síntese da parede celular bacteriana ao se ligar às proteínas ligadoras de penicilina (PBP). Tem boa atividade contra cocos gram-positivos, como estreptococos e *Staphylococcus aureus* sensível à meticilina, que podem causar otite média.
+Segundo as seções “Mechanism of Action” e “Microbiology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Cefazolin (tradução não oficial): “A cefazolina é um fármaco antibacteriano. […] A cefazolina é um agente bactericida que atua por inibição da síntese da parede celular bacteriana.” Texto original em inglês: "Cefazolin is an antibacterial drug. […] Cefazolin is a bactericidal agent that acts by inhibition of bacterial cell wall synthesis." ([DailyMed: Cefazolin (cefazolin sodium) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d91a8d13-99a0-4d87-88dc-71cbd37922b4), versão de 2026-08-31; acessado em 2026-11-19). Segundo informações conhecidas, a cefazolina é uma cefalosporina de primeira geração que inibe a síntese da parede celular bacteriana ao se ligar às proteínas ligadoras de penicilina (PBP). Tem boa atividade contra cocos gram-positivos, como estreptococos e *Staphylococcus aureus* sensível à meticilina, que podem causar otite média.
 
 Por outro lado, a atividade contra *Haemophilus influenzae* e *Moraxella catarrhalis*, patógenos frequentes da otite média, é limitada, e a cefazolina só está disponível por via parenteral, o que restringe seu uso em uma doença habitualmente tratada por via oral. A pontuação muito alta do TxGNN é coerente com a classe antibacteriana do fármaco, mas não há dados clínicos diretos que a sustentem.
 
@@ -107,11 +107,12 @@ Para advertências e contraindicações oficiais, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Segundo os registros locais, há 5 registros válidos e 15 cancelados, e a” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Cefazolin (cefazolin sodium) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d91a8d13-99a0-4d87-88dc-71cbd37922b4) |
 
 <!-- review:end log -->
 

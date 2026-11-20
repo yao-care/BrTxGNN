@@ -56,7 +56,7 @@ atualmente com **0 ensaios clínicos** e **1 publicação** (um relato de caso) 
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada. Segundo informações conhecidas, o mepolizumabe é um anticorpo monoclonal anti-IL-5 que reduz os eosinófilos, e sua eficácia em doenças eosinofílicas, como a asma, é reconhecida.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Mepolizumab (tradução não oficial): “O mepolizumabe é um antagonista da IL-5 (IgG1 kappa). A IL-5 é a principal citocina responsável pelo crescimento e diferenciação, recrutamento, ativação e sobrevivência dos eosinófilos. O mepolizumabe liga-se à IL-5 com uma constante de dissociação de 100 pM, inibindo a bioatividade da IL-5 ao bloquear sua ligação à cadeia alfa do complexo do receptor de IL-5 expresso na superfície celular dos eosinófilos.” Texto original em inglês: "Mepolizumab is an IL-5 antagonist (IgG1 kappa). IL-5 is the major cytokine responsible for the growth and differentiation, recruitment, activation, and survival of eosinophils. Mepolizumab binds to IL-5 with a dissociation constant of 100 pM, inhibiting the bioactivity of IL-5 by blocking its binding to the alpha chain of the IL-5 receptor complex expressed on the eosinophil cell surface." ([DailyMed: Nucala (mepolizumab) prescribing information, GlaxoSmithKline LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fefb887c-e4ac-431e-8893-e9d1a5a63fea), versão de 2025-08-06; acessado em 2026-11-19). Segundo informações conhecidas, o mepolizumabe é um anticorpo monoclonal anti-IL-5 que reduz os eosinófilos, e sua eficácia em doenças eosinofílicas, como a asma, é reconhecida.
 
 O único relato disponível descreve a resolução de uma diátese imune hipereosinofílica resistente a esteroides, com citopenia imunomediada associada, após o uso de mepolizumabe combinado a outras terapias. Isso sugere, no máximo, uma ligação **indireta**, por desregulação imune dirigida por eosinófilos. Não há evidência de efeito direto sobre a trombocitopenia imune (PTI) mediada por autoanticorpos antiplaquetários.
 
@@ -112,12 +112,13 @@ A previsão baseia-se quase exclusivamente em um escore computacional, com apena
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, o único registro brasileiro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “já que o registro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Nucala (mepolizumab) prescribing information, GlaxoSmithKline LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fefb887c-e4ac-431e-8893-e9d1a5a63fea) |
 
 <!-- review:end log -->
 

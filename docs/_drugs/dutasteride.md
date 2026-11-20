@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a dutasterida inibe a 5-alfa-redutase dos tipos 1 e 2, reduzindo a di-hidrotestosterona (DHT). Sua eficácia no trato urinário (inibição da alfa-redutase) está estabelecida no Brasil, e seu uso off-label mais conhecido é na alopecia androgenética.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Dutasteride (tradução não oficial): “A dutasterida inibe a conversão da testosterona em DHT. A DHT é o andrógeno principalmente responsável pelo desenvolvimento inicial e pelo subsequente aumento da glândula prostática. A testosterona é convertida em DHT pela enzima 5 alfa-redutase, que existe em 2 isoformas, tipo 1 e tipo 2.” Texto original em inglês: "Dutasteride inhibits the conversion of testosterone to DHT. DHT is the androgen primarily responsible for the initial development and subsequent enlargement of the prostate gland. Testosterone is converted to DHT by the enzyme 5 alpha-reductase, which exists as 2 isoforms, type 1 and type 2." ([DailyMed: dutasteride prescribing information, Strides Pharma Science Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c78d18cf-05df-4154-b2f9-39cc374ca9e3), versão de 2026-08-27; acessado em 2026-11-19). Segundo informações conhecidas, a dutasterida inibe a 5-alfa-redutase dos tipos 1 e 2, reduzindo a di-hidrotestosterona (DHT). Sua eficácia no trato urinário (inibição da alfa-redutase) está estabelecida no Brasil, e seu uso off-label mais conhecido é na alopecia androgenética.
 
 A relação com a nova indicação é fraca. A síndrome de Ambras é uma hipertricose congênita associada a alterações genéticas que afetam a regulação do gene *TRPS1* e não é claramente dependente da DHT. Um mecanismo antiandrogênico é, portanto, pouco plausível. A pontuação muito alta do modelo (1,0000) não é acompanhada de qualquer ensaio clínico ou publicação, e deve ser lida como uma hipótese gerada pela rede de conhecimento, não como evidência.
 
@@ -142,12 +142,13 @@ A previsão tem pontuação alta, mas nível de evidência L5: não há ensaios 
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, o medicamento é comercializado no Brasil, com 13 registros válidos de 13” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Registros válidos: “todos os 13” → 15 de 21 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: dutasteride prescribing information, Strides Pharma Science Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c78d18cf-05df-4154-b2f9-39cc374ca9e3) |
 
 <!-- review:end log -->
 

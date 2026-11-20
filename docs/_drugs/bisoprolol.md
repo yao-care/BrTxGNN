@@ -56,7 +56,7 @@ mas, nos dados compilados para este relatório, há **0 ensaios clínicos** e **
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Sabe-se que o bisoprolol bloqueia seletivamente os receptores beta-1 adrenérgicos, o que reduz a frequência cardíaca, o débito cardíaco e a secreção de renina. Esse efeito explica o seu uso na redução da pressão arterial.
+Segundo a seção “Clinical Pharmacology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Bisoprolol (tradução não oficial): “O FUMARATO DE BISOPROLOL é um agente bloqueador de adrenoceptores beta 1 -seletivo (cardiosseletivo), sem atividade estabilizadora de membrana significativa nem atividade simpatomimética intrínseca em sua faixa de dosagem terapêutica. A cardiosseletividade, contudo, não é absoluta e, em doses mais altas (≥ 20 mg), o fumarato de bisoprolol também inibe os adrenoceptores beta 2 , localizados principalmente na musculatura brônquica e vascular; portanto, para manter a seletividade, é importante utilizar a menor dose eficaz.” Texto original em inglês: "BISOPROLOL FUMARATE is a beta 1 -selective (cardioselective) adrenoceptor blocking agent without significant membrane stabilizing activity or intrinsic sympathomimetic activity in its therapeutic dosage range. Cardioselectivity is not absolute, however, and at higher doses (≥ 20 mg) bisoprolol fumarate also inhibits beta 2 -adrenoceptors, chiefly located in the bronchial and vascular musculature; to retain selectivity it is therefore important to use the lowest effective dose." ([DailyMed: bisoprolol fumarate prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6517d564-ea55-4084-a8ab-34fea548c24e), versão de 2026-11-11; acessado em 2026-11-19). Sabe-se que o bisoprolol bloqueia seletivamente os receptores beta-1 adrenérgicos, o que reduz a frequência cardíaca, o débito cardíaco e a secreção de renina. Esse efeito explica o seu uso na redução da pressão arterial.
 
 A doença renal hipertensiva maligna é uma complicação grave de órgão-alvo da hipertensão, com lesão renal associada a elevações muito intensas da pressão. Por isso, é plausível pensar que um fármaco que reduz a pressão e suprime a renina possa ter algum papel. Essa é, porém, uma hipótese mecanística, sem estudo que a confirme.
 
@@ -97,11 +97,12 @@ Para advertências e contraindicações, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “A situação de mercado no Brasil é de medicamento comercializado, com 13 registros válidos e 7 cancelados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: bisoprolol fumarate prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6517d564-ea55-4084-a8ab-34fea548c24e) |
 
 <!-- review:end log -->
 

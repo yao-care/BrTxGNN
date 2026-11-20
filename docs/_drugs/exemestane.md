@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **deficiência de antitrombina ti
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Pelo que se sabe, o exemestano é um inibidor esteroidal irreversível da aromatase, enzima que converte androgênios em estrogênios, resultando em redução dos níveis de estrogênio.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Exemestane (tradução não oficial): “O crescimento das células do câncer de mama pode ser dependente de estrogênio. A aromatase é a principal enzima que converte andrógenos em estrogênios, tanto em mulheres na pré-menopausa quanto na pós-menopausa. […] O exemestano é um inativador esteroidal irreversível da aromatase, estruturalmente relacionado ao substrato natural androstenediona.” Texto original em inglês: "Breast cancer cell growth may be estrogen-dependent. Aromatase is the principal enzyme that converts androgens to estrogens both in pre- and postmenopausal women. […] Exemestane is an irreversible, steroidal aromatase inactivator, structurally related to the natural substrate androstenedione." ([DailyMed: Aromasin (exemestane) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cf066b7a-032a-416c-8d40-15ba581423e3), versão de 2025-12-24; acessado em 2026-11-19). Pelo que se sabe, o exemestano é um inibidor esteroidal irreversível da aromatase, enzima que converte androgênios em estrogênios, resultando em redução dos níveis de estrogênio.
 
 A deficiência de antitrombina tipo 2 é um defeito hereditário da função da antitrombina, ligado ao gene SERPINC1. A inibição da aromatase não corrige esse defeito, e não se conhece efeito de agentes redutores de estrogênio sobre a função da antitrombina. Não foi identificado um vínculo mecanístico plausível.
 
@@ -104,6 +104,19 @@ Consulte a bula para as demais informações de segurança.
 - Dados de mecanismo de ação detalhados do fármaco
 - Bula completa com advertências e contraindicações
 - Avaliação de segurança tromboembólica em pacientes com trombofilia hereditária
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Aromasin (exemestane) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cf066b7a-032a-416c-8d40-15ba581423e3) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

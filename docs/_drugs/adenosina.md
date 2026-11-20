@@ -56,7 +56,7 @@ O modelo TxGNN prevê, como principal nova indicação, **bloqueio de ramo obsol
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação compilados para este relatório. Sabe-se, pela farmacologia geral, que a adenosina retarda a condução no nó atrioventricular e pode causar bloqueio AV transitório.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Adenosina (tradução não oficial): “A Adenosina Injetável retarda o tempo de condução através do nó A-V, pode interromper as vias de reentrada através do nó A-V e pode restaurar o ritmo sinusal normal em pacientes com taquicardia supraventricular paroxística (TSVP), incluindo a TSVP associada à síndrome de Wolff-Parkinson-White. A Adenosina Injetável é antagonizada competitivamente por metilxantinas, como a cafeína e a teofilina, e potencializada por bloqueadores do transporte de nucleosídeos, como o dipiridamol.” Texto original em inglês: "Adenosine Injection slows conduction time through the A-V node, can interrupt the reentry pathways through the A-V node, and can restore normal sinus rhythm in patients with paroxysmal supraventricular tachycardia (PSVT), including PSVT associated with Wolff-Parkinson-White Syndrome. Adenosine Injection is antagonized competitively by methylxanthines such as caffeine and theophylline, and potentiated by blockers of nucleoside transport such as dipyridamole." ([DailyMed: adenosine prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9508caf5-0e3a-4d32-909d-bff7ea40ec30), versão de 2026-08-31; acessado em 2026-11-19). Sabe-se, pela farmacologia geral, que a adenosina retarda a condução no nó atrioventricular e pode causar bloqueio AV transitório.
 
 Isso torna a previsão pouco plausível do ponto de vista terapêutico: um fármaco que reduz a condução não tem fundamento claro para tratar um bloqueio de ramo. A associação provavelmente reflete o uso diagnóstico da adenosina para desmascarar doenças de condução, e não um benefício terapêutico.
 
@@ -94,12 +94,13 @@ Consulte a bula para informações de segurança. Não foram encontradas intera�
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Adenosina é um nucleosídeo endógeno com presença consolidada no mercado brasileiro, contando com **20 registros ativos**” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “O fármaco possui **20 registros ativos** no mercado brasileiro, confirmando disponibilidade comercial ampla. Contudo, os detalhes individuai” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: adenosine prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9508caf5-0e3a-4d32-909d-bff7ea40ec30) |
 
 <!-- review:end log -->
 

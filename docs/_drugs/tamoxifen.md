@@ -61,7 +61,7 @@ O modelo TxGNN prevê que pode ser eficaz para a **Doença de Paget mamária (Ma
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, o tamoxifeno é um modulador seletivo do receptor de estrogênio (SERM) que antagoniza competitivamente o receptor de estrogênio (ER) no tecido mamário. Sua eficácia no câncer de mama com receptor hormonal positivo está bem estabelecida.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Tamoxifen (tradução não oficial): “O tamoxifeno é um agonista/antagonista estrogênico. O tamoxifeno compete com o estrogênio pela ligação ao receptor de estrogênio, o que pode resultar em uma diminuição do crescimento dependente da sinalização do receptor de estrogênio no tecido mamário. O tamoxifeno demonstrou atividade antitumoral contra linhagens celulares de câncer de mama humano xenoenxertadas em camundongos.” Texto original em inglês: "Tamoxifen is an estrogen agonist/antagonist. Tamoxifen competes with estrogen for binding to the estrogen receptor, which can result in a decrease in estrogen receptor signaling-dependent growth in breast tissue. Tamoxifen has demonstrated antitumor activity against human breast cancer cell lines xenografted in mice." ([DailyMed: Soltamox (tamoxifen citrate) prescribing information, Mayne Pharma](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e6ff055-590c-41e6-9530-1fdf04cdbd02), versão de 2021-11-29; acessado em 2026-11-19). Segundo informações conhecidas, o tamoxifeno é um modulador seletivo do receptor de estrogênio (SERM) que antagoniza competitivamente o receptor de estrogênio (ER) no tecido mamário. Sua eficácia no câncer de mama com receptor hormonal positivo está bem estabelecida.
 
 A doença de Paget mamária costuma estar associada a carcinoma ductal *in situ* ou a câncer de mama invasivo, frequentemente ER-positivos. Por isso, o antagonismo do ER é biologicamente plausível. Há um relato de caso de resposta ao tamoxifeno em doença de Paget extramamária metastática com receptor hormonal positivo, e outro de resposta em um caso extenso de Paget do mamilo.
 
@@ -153,6 +153,19 @@ Essa informação diverge da realidade esperada para um fármaco amplamente usad
 - Bula da ANVISA (advertências e contraindicações) e verificação da situação de comercialização e dos registros no Brasil.
 - Para Paget mamária: estudos prospectivos ou séries com status de receptor hormonal e desfecho com tamoxifeno.
 - Plano de monitoramento de risco endometrial, tromboembolismo e CYP2D6, bem como revisão das 100 interações medicamentosas, em especial as de gravidade maior.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Soltamox (tamoxifen citrate) prescribing information, Mayne Pharma](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e6ff055-590c-41e6-9530-1fdf04cdbd02) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

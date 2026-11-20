@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **acidose tubular renal (renal tu
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a nitisinona inibe a enzima 4-hidroxifenilpiruvato dioxigenase (HPPD) e é usada na tirosinemia hereditária tipo 1, doença em que metabólitos tóxicos (como a succinilacetona) podem causar tubulopatia proximal do tipo Fanconi.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Nitisinone (tradução não oficial): “A nitisinona é um inibidor competitivo da 4-hidroxifenilpiruvato dioxigenase, uma enzima situada a montante da fumarilacetoacetato hidrolase (FAH) na via catabólica da tirosina. Ao inibir o catabolismo normal da tirosina em pacientes com HT-1, a nitisinona impede o acúmulo dos intermediários catabólicos maleilacetoacetato e fumarilacetoacetato.” Texto original em inglês: "Nitisinone is a competitive inhibitor of 4-hydroxyphenyl-pyruvate dioxygenase, an enzyme upstream of fumarylacetoacetate hydrolase (FAH) in the tyrosine catabolic pathway. By inhibiting the normal catabolism of tyrosine in patients with HT-1, nitisinone prevents the accumulation of the catabolic intermediates maleylacetoacetate and fumarylacetoacetate." ([DailyMed: Nityr (nitisinone) prescribing information, Cycle Pharmaceuticals Ltd.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=00fd1905-27e4-420e-8dc5-a69e4ddc1526), versão de 2026-10-21; acessado em 2026-11-19). Segundo informações conhecidas, a nitisinona inibe a enzima 4-hidroxifenilpiruvato dioxigenase (HPPD) e é usada na tirosinemia hereditária tipo 1, doença em que metabólitos tóxicos (como a succinilacetona) podem causar tubulopatia proximal do tipo Fanconi.
 
 A relação com a acidose tubular renal seria apenas indireta: ao reduzir a toxicidade tubular nessa doença de base, o fármaco poderia atenuar a disfunção dos túbulos renais. Não há evidência clínica ou da literatura que sustente essa ligação.
 
@@ -123,12 +123,13 @@ Para advertências e contraindicações da bula, consulte a bula aprovada, pois 
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-10-31 | Removido: “Além disso, no Brasil só há registros cancelados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-10-31 | Removido: “(registros cancelados)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Nityr (nitisinone) prescribing information, Cycle Pharmaceuticals Ltd.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=00fd1905-27e4-420e-8dc5-a69e4ddc1526) |
 
 <!-- review:end log -->
 

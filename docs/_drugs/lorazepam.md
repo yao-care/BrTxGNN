@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Neoplasia do Nervo Trigêmeo (T
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, o lorazepam é um modulador alostérico positivo do receptor GABA-A, que reforça a neurotransmissão inibitória e produz efeito ansiolítico, sedativo e anticonvulsivante.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Lorazepam (tradução não oficial): “O lorazepam exerce seu efeito no tratamento dos transtornos de ansiedade por meio da ligação ao sítio benzodiazepínico dos receptores do ácido gama-aminobutírico A (GABA A ) no cérebro e potencializa a inibição sináptica mediada pelo GABA.” Texto original em inglês: "Lorazepam exerts its effect for the treatment of anxiety disorders through binding to the benzodiazepine site of the gamma-aminobutyric acid-A (GABA A ) receptors in the brain and enhances GABA-mediated synaptic inhibition." ([DailyMed: Loreev Xr (lorazepam) prescribing information, Almatica Pharma LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=227734c1-bf01-9607-73ea-5a1f38a89bd9), versão de 2025-10-08; acessado em 2026-11-19). Segundo informações conhecidas, o lorazepam é um modulador alostérico positivo do receptor GABA-A, que reforça a neurotransmissão inibitória e produz efeito ansiolítico, sedativo e anticonvulsivante.
 
 Para a neoplasia do nervo trigêmeo, **não há vínculo mecanístico estabelecido**. A pontuação muito alta do TxGNN (0,9987) vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica. No máximo, o lorazepam poderia aliviar sintomas associados a um tumor, como ansiedade ou crises convulsivas, sem qualquer racional antineoplásico.
 
@@ -96,6 +96,19 @@ Atualmente não há literatura relacionada à neoplasia do nervo trigêmeo.
 - Obter dados detalhados do mecanismo de ação (por exemplo, via DrugBank).
 - Se houver interesse em insônia, realizar revisão sistemática da literatura mais recente, ponderando risco de dependência, tolerância e interações.
 - Para a neoplasia do nervo trigêmeo, só considerar avanço se surgir evidência pré-clínica ou clínica específica.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Loreev Xr (lorazepam) prescribing information, Almatica Pharma LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=227734c1-bf01-9607-73ea-5a1f38a89bd9) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

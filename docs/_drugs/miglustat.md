@@ -63,7 +63,7 @@ O modelo TxGNN prevê que pode ser eficaz para a **doença de Tay-Sachs (Tay-Sac
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada. Segundo a literatura, o miglustate é um inibidor oral de pequena massa molecular da glicosilceramida sintase (gene UGCG), que reduz a síntese de glicoesfingolipídios derivados da glicosilceramida. Está aprovado em outros países para a doença de Gaucher tipo 1.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Miglustat (tradução não oficial): “A doença de Gaucher tipo 1 é causada por uma deficiência funcional de glicocerebrosidase, a enzima que medeia a degradação do glicoesfingolipídio glicosilceramida. O miglustate atua como um inibidor competitivo e reversível da enzima glicosilceramida sintase, a enzima inicial de uma série de reações que resulta na síntese da maioria dos glicoesfingolipídios.” Texto original em inglês: "Type 1 Gaucher disease is caused by a functional deficiency of glucocerebrosidase, the enzyme that mediates the degradation of the glycosphingolipid glucosylceramide. Miglustat functions as a competitive and reversible inhibitor of the enzyme glucosylceramide synthase, the initial enzyme in a series of reactions which results in the synthesis of most glycosphingolipids." ([DailyMed: Yargesa (miglustat) prescribing information, Edenbridge Pharmaceuticals LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2b371dfe-e2b0-47fe-b677-a7bde7149f87), versão de 2025-12-17; acessado em 2026-11-19). Segundo a literatura, o miglustate é um inibidor oral de pequena massa molecular da glicosilceramida sintase (gene UGCG), que reduz a síntese de glicoesfingolipídios derivados da glicosilceramida. Está aprovado em outros países para a doença de Gaucher tipo 1.
 
 Na doença de Tay-Sachs, a deficiência da enzima β-hexosaminidase A causa acúmulo do gangliosídeo GM2, principalmente nos neurônios. A lógica da terapia de redução de substrato é diminuir a síntese desse gangliosídeo, de modo que a atividade enzimática residual consiga dar conta do que é produzido. O miglustate atravessa a barreira hematoencefálica, o que é relevante para uma doença neuronopática.
 
@@ -162,11 +162,12 @@ Todas com nível L5 e recomendação **Hold**, sem ensaios clínicos ou literatu
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “e o único registro no Brasil está cancelado, de modo que só se justifica avançar como questão de pesquisa, com salvaguardas” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Yargesa (miglustat) prescribing information, Edenbridge Pharmaceuticals LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2b371dfe-e2b0-47fe-b677-a7bde7149f87) |
 
 <!-- review:end log -->
 

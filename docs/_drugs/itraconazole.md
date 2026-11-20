@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Pneumocistose (Pneumocystosis)*
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo o conhecimento geral da classe, o itraconazol é um antifúngico azólico que inibe a lanosterol 14-alfa-desmetilase (CYP51), bloqueando a síntese de ergosterol na membrana fúngica. Esta descrição é inferida do conhecimento da classe, e não dos dados fornecidos.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Itraconazole (tradução não oficial): “Estudos in vitro demonstraram que o itraconazol inibe a síntese de ergosterol dependente do citocromo P450, que é um componente vital das membranas celulares fúngicas.” Texto original em inglês: "In vitro studies have demonstrated that itraconazole inhibits the cytochrome P450-dependent synthesis of ergosterol, which is a vital component of fungal cell membranes." ([DailyMed: Sporanox (itraconazole) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a4d555fa-787c-40fb-bb7d-b0d4f7318fd0), versão de 2026-07-13; acessado em 2026-11-19). Segundo o conhecimento geral da classe, o itraconazol é um antifúngico azólico que inibe a lanosterol 14-alfa-desmetilase (CYP51), bloqueando a síntese de ergosterol na membrana fúngica. Esta descrição é inferida do conhecimento da classe, e não dos dados fornecidos.
 
 A relação entre a indicação original (infecções fúngicas sistêmicas) e a nova indicação (pneumocistose, infecção pulmonar oportunista em imunossuprimidos) é, em princípio, de proximidade clínica: ambas ocorrem em pacientes imunocomprometidos, como os com HIV, transplantados e neutropênicos. É provável que a pontuação elevada do TxGNN reflita essa proximidade na rede de conhecimento, e não um vínculo mecanístico real.
 
@@ -155,11 +155,12 @@ As advertências e contraindicações oficiais da bula da ANVISA não estavam di
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “já que não há registro vigente no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Sporanox (itraconazole) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a4d555fa-787c-40fb-bb7d-b0d4f7318fd0) |
 
 <!-- review:end log -->
 

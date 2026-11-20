@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **ceratite de exposição (exposu
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada para este relatório. Segundo informações conhecidas, o ácido fusídico inibe a síntese proteica bacteriana ao bloquear o fator de elongação G (EF-G), com atividade principalmente contra bactérias Gram-positivas, como *Staphylococcus*.
+Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Fusidic Acid é (tradução não oficial): “Inibidor do fator de alongamento G” Texto original em inglês: "Elongation factor G inhibitor" ([ChEMBL CHEMBL374975 (fusidic acid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL374975), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações conhecidas, o ácido fusídico inibe a síntese proteica bacteriana ao bloquear o fator de elongação G (EF-G), com atividade principalmente contra bactérias Gram-positivas, como *Staphylococcus*.
 
 A ceratite de exposição é uma lesão da superfície da córnea causada pelo fechamento incompleto das pálpebras. Uma infecção bacteriana secundária poderia, em tese, ser tratada por um antibacteriano tópico, o que dá alguma plausibilidade biológica à previsão.
 
@@ -114,11 +114,12 @@ Para advertências e contraindicações oficiais, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “já que não há registro vigente” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [ChEMBL CHEMBL374975 (fusidic acid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL374975) |
 
 <!-- review:end log -->
 

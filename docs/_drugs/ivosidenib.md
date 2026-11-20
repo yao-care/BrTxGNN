@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **poliomielite bulbar (bulbar pol
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o ivosidenibe é um inibidor da enzima IDH1 mutante: reduz a produção de 2-hidroxiglutarato e alivia o bloqueio de diferenciação celular em cânceres com mutação em IDH1, como a leucemia mieloide aguda (LMA).
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Ivosidenib (tradução não oficial): “O ivosidenibe é um inibidor de molécula pequena que tem como alvo a enzima isocitrato desidrogenase 1 (IDH1) mutante. Em pacientes com LMA, as mutações suscetíveis de IDH1 são definidas como aquelas que levam a níveis aumentados de 2-hidroxiglutarato (2-HG) nas células leucêmicas e nas quais a eficácia é prevista por 1) remissões clinicamente significativas com a dose recomendada de ivosidenibe e/ou 2) inibição da atividade enzimática da IDH1 mutante em concentrações de ivosidenibe sustentáveis com a posologia recomendada, de acordo com métodos validados.” Texto original em inglês: "Ivosidenib is a small molecule inhibitor that targets the mutant isocitrate dehydrogenase 1 (IDH1) enzyme. In patients with AML, susceptible IDH1 mutations are defined as those leading to increased levels of 2-hydroxyglutarate (2-HG) in the leukemia cells and where efficacy is predicted by 1) clinically meaningful remissions with the recommended dose of ivosidenib and/or 2) inhibition of mutant IDH1 enzymatic activity at concentrations of ivosidenib sustainable at the recommended dosage according to validated methods." ([DailyMed: Tibsovo (ivosidenib) prescribing information, Servier Pharmaceutical LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=65d254c0-67ad-42c4-b972-ad463b755b2d), versão de 2025-12-22; acessado em 2026-11-19). Segundo informações conhecidas, o ivosidenibe é um inibidor da enzima IDH1 mutante: reduz a produção de 2-hidroxiglutarato e alivia o bloqueio de diferenciação celular em cânceres com mutação em IDH1, como a leucemia mieloide aguda (LMA).
 
 Para a poliomielite bulbar, **não há vínculo mecanístico crível**. Trata-se de uma infecção viral dos neurônios motores causada pelo poliovírus, e não se conhece nenhuma via dependente de IDH1 envolvida. A pontuação alta do TxGNN (0,9931) vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica.
 
@@ -113,6 +113,19 @@ Para advertências e contraindicações, consulte a bula.
 - Confirmar a situação regulatória atual do ivosidenibe no Brasil.
 - Priorizar a investigação de subgrupos de LMA/SMD relacionadas a terapia com mutação em IDH1 em ensaios já existentes de ivosidenibe, o que poderia elevar o nível de evidência dessas indicações.
 - Descartar ou redirecionar a hipótese de poliomielite bulbar, salvo surgimento de evidência biológica nova.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Tibsovo (ivosidenib) prescribing information, Servier Pharmaceutical LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=65d254c0-67ad-42c4-b972-ad463b755b2d) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

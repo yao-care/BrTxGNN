@@ -56,7 +56,7 @@ mas até o momento há **0 ensaios clínicos** e apenas **2 publicações** (amb
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a desloratadina pertence à classe dos anti-histamínicos H1, que reduzem os sintomas nasais mediados por histamina, como espirros, coriza e prurido.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Desloratadine (tradução não oficial): “A desloratadina é um antagonista da histamina tricíclico de ação prolongada, com atividade antagonista seletiva dos receptores H1 da histamina. Os dados de ligação ao receptor indicam que, em uma concentração de 2-3 ng/mL (7 nanomolar), a desloratadina apresenta interação significativa com o receptor H1 da histamina humano.” Texto original em inglês: "Desloratadine is a long-acting tricyclic histamine antagonist with selective H1-receptor histamine antagonist activity. Receptor binding data indicates that at a concentration of 2-3 ng/mL (7 nanomolar), desloratadine shows significant interaction with the human histamine H1-receptor." ([DailyMed: Desloratadine Oral Solution (desloratadine) prescribing information, INA Pharmaceutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41d5e0d4-6188-847b-e063-6294a90a2e2f), versão de 2025-10-23; acessado em 2026-11-19). Segundo informações conhecidas, a desloratadina pertence à classe dos anti-histamínicos H1, que reduzem os sintomas nasais mediados por histamina, como espirros, coriza e prurido.
 
 A previsão é plausível do ponto de vista farmacológico, pois a histamina tem papel central em condições inflamatórias e alérgicas da cavidade nasal. No entanto, o termo "doença da cavidade nasal" é pouco específico, o que dificulta definir qual condição concreta seria tratada.
 
@@ -142,11 +142,12 @@ Consulte a bula para advertências e contraindicações oficiais.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-11 | Removido: “Há 20 registros de produtos de desloratadina isolada nos dados compilados (a lista pode estar incompleta)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Desloratadine Oral Solution (desloratadine) prescribing information, INA Pharmaceutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41d5e0d4-6188-847b-e063-6294a90a2e2f) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Enxaqueca (Migraine Disorder)**
 
 ## Por que Esta Previsão é Razoável?
 
-Não há dados detalhados sobre o mecanismo de ação originalmente registrados. Segundo o conhecimento farmacológico, o propofol é um modulador alostérico positivo do receptor GABA-A, o que intensifica a inibição GABAérgica no sistema nervoso central. Essa é a base de sua ação anestésica e sedativa.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Propofol (tradução não oficial): “O mecanismo de ação, como o de todos os anestésicos gerais, é pouco compreendido. No entanto, acredita-se que o propofol produza seus efeitos sedativos/anestésicos pela modulação positiva da função inibitória do neurotransmissor GABA por meio dos receptores GABA A ativados por ligante.” Texto original em inglês: "The mechanism of action, like all general anesthetics, is poorly understood. However, propofol is thought to produce its sedative/anesthetic effects by the positive modulation of the inhibitory function of the neurotransmitter GABA through the ligand-gated GABA A receptors." ([DailyMed: Diprivan (propofol) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e3105799-a4b6-f3f4-e6e2-b2b29bbdb538), versão de 2025-09-11; acessado em 2026-11-19). Segundo o conhecimento farmacológico, o propofol é um modulador alostérico positivo do receptor GABA-A, o que intensifica a inibição GABAérgica no sistema nervoso central. Essa é a base de sua ação anestésica e sedativa.
 
 A inibição GABAérgica reforçada pode atenuar a sinalização nociceptiva trigeminovascular e a hiperexcitabilidade cortical, que participam da fisiopatologia da enxaqueca. Um estudo pré-clínico com hemissuccinato de propofol indicou supressão da depressão alastrante cortical, considerada o substrato da aura migranosa. Isso oferece uma base plausível para o uso em doses subanestésicas como terapia abortiva em enxaqueca refratária, o que combina com a pontuação muito alta do modelo.
 
@@ -110,6 +110,19 @@ Há um ensaio de Phase 2/3 concluído (n=74) e vários ensaios randomizados publ
 - Realizar ensaios randomizados maiores e controlados, com definição de dose subanestésica, desfechos de recidiva e segurança.
 - Definir protocolo restrito a ambiente hospitalar/pronto-socorro com monitorização cardiorrespiratória e hemodinâmica, dada a via intravenosa e o risco de depressão respiratória e hipotensão.
 - Avaliar o risco em pacientes com epilepsia, hipotensão, insuficiência respiratória, distúrbios lipídicos e em doença coronariana.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Diprivan (propofol) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e3105799-a4b6-f3f4-e6e2-b2b29bbdb538) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

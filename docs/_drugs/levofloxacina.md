@@ -57,7 +57,7 @@ mas a previsão conta apenas com **0 ensaios clínicos** e **1 publicação** (u
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a levofloxacina pertence à classe das fluoroquinolonas, que atuam inibindo a DNA girase e a topoisomerase IV bacterianas, e tem amplo espectro antibacteriano.
+Segundo as seções “Mechanism of Action” e “Microbiology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Levofloxacina (tradução não oficial): “A levofloxacina é um membro da classe das fluoroquinolonas de agentes antibacterianos. […] A levofloxacina é o isômero L do racemato ofloxacina, um agente antimicrobiano quinolônico. A atividade antibacteriana da ofloxacina reside principalmente no isômero L. O mecanismo de ação da levofloxacina e de outros antimicrobianos fluoroquinolônicos envolve a inibição da topoisomerase IV e da DNA girase bacterianas (ambas topoisomerases do tipo II), enzimas necessárias para a replicação, transcrição, reparo e recombinação do DNA.” Texto original em inglês: "Levofloxacin is a member of the fluoroquinolone class of antibacterial agents. […] Levofloxacin is the L-isomer of the racemate, ofloxacin, a quinolone antimicrobial agent. The antibacterial activity of ofloxacin resides primarily in the L-isomer. The mechanism of action of levofloxacin and other fluoroquinolone antimicrobials involves inhibition of bacterial topoisomerase IV and DNA gyrase (both of which are type II topoisomerases), enzymes required for DNA replication, transcription, repair and recombination." ([DailyMed: levofloxacin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=814450ae-439e-4a5d-8c60-9b21b6f14be5), versão de 2026-11-05; acessado em 2026-11-19). Segundo informações conhecidas, a levofloxacina pertence à classe das fluoroquinolonas, que atuam inibindo a DNA girase e a topoisomerase IV bacterianas, e tem amplo espectro antibacteriano.
 
 A ligação com a ceratoconjuntivite epitelial puntiforme é indireta. O único artigo recuperado descreve um surto de ceratoconjuntivite por microsporídios, organismos eucarióticos relacionados aos fungos, que não são alvo das fluoroquinolonas. Portanto, o mecanismo não sustenta de forma convincente a aplicação nessa doença.
 
@@ -107,13 +107,14 @@ Consulte a bula para informações de segurança.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “No entanto, os detalhes individuais de cada registro (número de registro ANVISA, nome comercial, forma farmacêutica e texto de indicação apr” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido (revisado em 2026-11-12; versão anterior guardada no registro)) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Registros: 4 → 78 (38 válidos) | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Registros: 4 → 78 (38 válidos) | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: levofloxacin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=814450ae-439e-4a5d-8c60-9b21b6f14be5) |
 
 <!-- review:end log -->
 

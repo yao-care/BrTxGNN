@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **carcinoma de mama HER2 positivo
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada. Segundo informações conhecidas, o ocrelizumabe é um anticorpo monoclonal humanizado que se liga ao CD20 e depleta células B. Está aprovado em outros países para esclerose múltipla, e seu uso está ligado à imunossupressão seletiva.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Ocrelizumab (tradução não oficial): “O mecanismo exato pelo qual o ocrelizumabe exerce seus efeitos terapêuticos na esclerose múltipla é desconhecido, mas presume-se que envolva a ligação ao CD20, um antígeno de superfície celular presente em linfócitos pré-B e B maduros. Após a ligação à superfície celular dos linfócitos B, o ocrelizumabe resulta em citólise celular dependente de anticorpos e lise mediada por complemento.” Texto original em inglês: "The precise mechanism by which ocrelizumab exerts its therapeutic effects in multiple sclerosis is unknown, but is presumed to involve binding to CD20, a cell surface antigen present on pre-B and mature B lymphocytes. Following cell surface binding to B lymphocytes, ocrelizumab results in antibody-dependent cellular cytolysis and complement-mediated lysis." ([DailyMed: Ocrevus (ocrelizumab) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9da42362-3bb5-4b83-b4bb-b59fd4e55f0d), versão de 2026-05-14; acessado em 2026-11-19). Segundo informações conhecidas, o ocrelizumabe é um anticorpo monoclonal humanizado que se liga ao CD20 e depleta células B. Está aprovado em outros países para esclerose múltipla, e seu uso está ligado à imunossupressão seletiva.
 
 Não se estabelece uma relação mecanística entre a indicação original e a nova indicação. O carcinoma de mama HER2 positivo é impulsionado pela amplificação do HER2, e o CD20 não é um alvo terapêutico reconhecido nessa doença. A pontuação elevada (0,9989) vem do modelo TxGNN (deep learning) e pode refletir semelhanças aprendidas pelo modelo entre doenças relacionadas, não evidência biológica.
 
@@ -105,12 +105,13 @@ Consulte a bula para advertências e contraindicações.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “O único registro no Brasil está cancelado, e n” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “já que o registro consta como cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Ocrevus (ocrelizumab) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9da42362-3bb5-4b83-b4bb-b59fd4e55f0d) |
 
 <!-- review:end log -->
 

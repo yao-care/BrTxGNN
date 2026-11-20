@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o upadacitinibe pertence à classe dos inibidores de JAK (com atividade principalmente sobre a JAK1), que modulam a sinalização inflamatória mediada pela via JAK-STAT. Seu uso está associado à imunossupressão seletiva.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Upadacitinib (tradução não oficial): “O upadacitinibe é um inibidor da Janus quinase (JAK). As JAKs são enzimas intracelulares que transmitem sinais provenientes de interações entre citocinas ou fatores de crescimento e seus receptores na membrana celular, para influenciar processos celulares de hematopoiese e a função das células imunes.” Texto original em inglês: "Upadacitinib is a Janus kinase (JAK) inhibitor. JAKs are intracellular enzymes which transmit signals arising from cytokine or growth factor-receptor interactions on the cellular membrane to influence cellular processes of hematopoiesis and immune cell function." ([DailyMed: Rinvoq (upadacitinib) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2966aec7-2ef0-923c-d8ff-fe1a957bf095), versão de 2026-06-30; acessado em 2026-11-19). Segundo informações conhecidas, o upadacitinibe pertence à classe dos inibidores de JAK (com atividade principalmente sobre a JAK1), que modulam a sinalização inflamatória mediada pela via JAK-STAT. Seu uso está associado à imunossupressão seletiva.
 
 A síndrome prevista é uma malformação congênita rara, que afeta os olhos (microftalmia com coloboma) e o esqueleto (displasia rizomélica). Presumivelmente, ela decorre de alterações genéticas ou do desenvolvimento, e não de inflamação dependente de JAK. Não foi fornecido nenhum vínculo de via, alvo ou gene entre a inibição de JAK1 e essa condição, portanto não há relação biológica plausível evidente com a indicação original.
 
@@ -119,13 +119,14 @@ A previsão se apoia somente na pontuação do modelo (nível L5), sem ensaios c
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, o único registro no Brasil está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “já que o registro encontrado está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Tabela: registro 198600017 (RINVOQ) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Rinvoq (upadacitinib) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2966aec7-2ef0-923c-d8ff-fe1a957bf095) |
 
 <!-- review:end log -->
 

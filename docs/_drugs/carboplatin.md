@@ -55,7 +55,7 @@ O modelo TxGNN prevê que ela pode ser eficaz para **adenocarcinoma mucinoso do 
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a carboplatina pertence à classe dos compostos de platina, que causam dano ao DNA das células tumorais e impedem sua divisão.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Carboplatin (tradução não oficial): “A carboplatina é um fármaco à base de platina que se liga ao DNA e forma ligações cruzadas no DNA. Essas ligações cruzadas inibem a replicação e a transcrição do DNA e desencadeiam processos citotóxicos que levam à morte celular.” Texto original em inglês: "Carboplatin is a platinum-based drug that binds to DNA and forms DNA cross-links. These crosslinks inhibit DNA replication and transcription and trigger cytotoxic processes that lead to cell death." ([DailyMed: Kyxata (carboplatin) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f91c48da-68d1-4aa7-89b8-d84a3e8b629b), versão de 2026-11-09; acessado em 2026-11-19). Segundo informações conhecidas, a carboplatina pertence à classe dos compostos de platina, que causam dano ao DNA das células tumorais e impedem sua divisão.
 
 A previsão parece decorrer principalmente de uma semelhança de classificação entre tipos de tumor mucinoso (adenocarcinoma mucinoso), e não de um raciocínio mecanístico estabelecido. Não há ensaios nem literatura que testem a carboplatina especificamente nesta doença, portanto a plausibilidade biológica permanece hipotética.
 
@@ -97,6 +97,19 @@ Para advertências e contraindicações oficiais, consulte a bula.
 - Dados de mecanismo de ação e justificativa biológica específica para o adenocarcinoma mucinoso do reto
 - Revisão sistemática da literatura e identificação de estudos clínicos diretamente relacionados à doença
 - Texto da bula brasileira com advertências e contraindicações para a avaliação de segurança
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Kyxata (carboplatin) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f91c48da-68d1-4aa7-89b8-d84a3e8b629b) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Malformação arteriovenosa pul
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a ambrisentana é um antagonista seletivo do receptor de endotelina tipo A, que reduz a resistência vascular pulmonar.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Ambrisentan (tradução não oficial): “A endotelina-1 (ET-1) é um potente peptídeo autócrino e parácrino. Dois subtipos de receptores, ET A e ET B, medeiam os efeitos da ET-1 no músculo liso vascular e no endotélio. […] A ambrisentana é um antagonista do receptor ET A de alta afinidade (K i =0,011 nM), com alta seletividade pelo receptor ET A em relação ao receptor ET B (>4000 vezes).” Texto original em inglês: "Endothelin-1 (ET-1) is a potent autocrine and paracrine peptide. Two receptor subtypes, ET A and ET B, mediate the effects of ET-1 in the vascular smooth muscle and endothelium. […] Ambrisentan is a high-affinity (K i =0.011 nM) ET A receptor antagonist with a high selectivity for the ET A versus ET B receptor (>4000-fold)." ([DailyMed: Letairis (ambrisentan) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=725d4e73-6c83-477a-adc6-0ae4a133a844), versão de 2026-06-22; acessado em 2026-11-19). Segundo informações conhecidas, a ambrisentana é um antagonista seletivo do receptor de endotelina tipo A, que reduz a resistência vascular pulmonar.
 
 A única publicação associada descreve hipertensão arterial pulmonar em uma paciente com telangiectasia hemorrágica hereditária. Trata-se de uma complicação hipertensiva e não do tratamento da malformação arteriovenosa pulmonar em si. A pontuação alta provavelmente reflete a proximidade da rede de relações com a hipertensão arterial pulmonar.
 
@@ -95,6 +95,19 @@ Consulte a bula para as demais informações de segurança.
 - Dados de mecanismo de ação e análise do risco de piora do shunt direita-esquerda
 - Texto de bula da ANVISA com advertências e contraindicações
 - Plano de monitoramento de segurança, incluindo contracepção, dada a teratogenicidade
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Letairis (ambrisentan) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=725d4e73-6c83-477a-adc6-0ae4a133a844) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

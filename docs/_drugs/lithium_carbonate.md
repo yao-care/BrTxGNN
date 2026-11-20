@@ -60,7 +60,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o lítio inibe a GSK-3β e modula a via Wnt/β-catenina, o que pode influenciar a biologia dos condrócitos.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Lithium Carbonate (tradução não oficial): “O mecanismo de ação do lítio como agente estabilizador do humor é desconhecido.” Texto original em inglês: "The mechanism of action of lithium as a mood stabilizing agent is unknown." ([DailyMed: Lithium Carbonate Lithium Carbonate (lithium carbonate) prescribing information, Alembic Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4ca2b977-b94c-4232-9b7e-835db97c9544), versão de 2022-11-03; acessado em 2026-11-19). Segundo informações conhecidas, o lítio inibe a GSK-3β e modula a via Wnt/β-catenina, o que pode influenciar a biologia dos condrócitos.
 
 A relação com a indicação original é fraca: o carbonato de lítio é usado em psiquiatria, enquanto a pseudoacondroplasia é uma displasia esquelética rara. A doença é causada por mutações no gene COMP, que levam a estresse do retículo endoplasmático e morte de condrócitos. Um vínculo mecanístico direto com o lítio é especulativo e não é sustentado pelos dados disponíveis.
 
@@ -136,12 +136,13 @@ As advertências e contraindicações da bula não estavam disponíveis; consult
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “*Mostrados os 5 primeiros de 10 registros, todos cancelados.*” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “já que não há registro vigente” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Lithium Carbonate Lithium Carbonate (lithium carbonate) prescribing information, Alembic Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4ca2b977-b94c-4232-9b7e-835db97c9544) |
 
 <!-- review:end log -->
 

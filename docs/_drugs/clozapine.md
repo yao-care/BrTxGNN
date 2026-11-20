@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Transtorno afetivo bipolar man�
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Com base no perfil farmacológico conhecido, a clozapina bloqueia vários receptores: dopaminérgicos D2/D4, serotoninérgico 5-HT2A, muscarínicos e adrenérgicos. Esse amplo perfil de receptores pode explicar efeitos antimaníacos e estabilizadores do humor, sobretudo em casos de mania refratária ao tratamento.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Clozapine (tradução não oficial): “O mecanismo de ação da clozapina é desconhecido. No entanto, foi proposto que a eficácia terapêutica da clozapina na esquizofrenia é mediada pelo antagonismo dos receptores de dopamina tipo 2 (D 2 ) e de serotonina tipo 2A (5-HT 2A ).” Texto original em inglês: "The mechanism of action of clozapine is unknown. However, it has been proposed that the therapeutic efficacy of clozapine in schizophrenia is mediated through antagonism of the dopamine type 2 (D 2 ) and the serotonin type 2A (5-HT 2A ) receptors." ([DailyMed: Versacloz (clozapine) prescribing information, TruPharma LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2592c9a8-fd74-4e0d-a895-b07b014cf355), versão de 2026-09-06; acessado em 2026-11-19). Com base no perfil farmacológico conhecido, a clozapina bloqueia vários receptores: dopaminérgicos D2/D4, serotoninérgico 5-HT2A, muscarínicos e adrenérgicos. Esse amplo perfil de receptores pode explicar efeitos antimaníacos e estabilizadores do humor, sobretudo em casos de mania refratária ao tratamento.
 
 A mania do transtorno bipolar e os quadros tratados com antipsicóticos compartilham vias dopaminérgicas e serotoninérgicas. Uma revisão sistemática com metanálise de 2020 sobre clozapina no transtorno bipolar (PMID 32182485) encontrou eficácia semelhante à de outros antipsicóticos nos episódios maníacos e resultado melhor no transtorno bipolar resistente ao tratamento. Isso sustenta a plausibilidade da previsão.
 
@@ -126,6 +126,18 @@ Consulte a bula para as advertências e contraindicações oficiais.
 - Complementar os dados de mecanismo de ação (MOA).
 - Definir um plano de monitoramento: hemograma com contagem absoluta de neutrófilos, função cardíaca, risco de convulsões e parâmetros metabólicos (glicemia e lipídios).
 - Revisar as interações medicamentosas graves e moderadas antes de qualquer uso em associação.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Versacloz (clozapine) prescribing information, TruPharma LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2592c9a8-fd74-4e0d-a895-b07b014cf355) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

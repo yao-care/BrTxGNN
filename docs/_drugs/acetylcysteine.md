@@ -56,7 +56,7 @@ atualmente com **7 ensaios clínicos** e **20 publicações** apoiando esta dire
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação na base consultada. Segundo informações conhecidas, a acetilcisteína é um composto com grupo tiol e agente redutor, e sua eficácia como mucolítico está estabelecida. Ela rompe pontes dissulfeto nas mucinas, o que explica a ação sobre o muco.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Acetylcysteine (tradução não oficial): “Demonstrou-se que a acetilcisteína reduz a extensão da lesão hepática após superdosagem de paracetamol. Doses de paracetamol de 150 mg/kg ou mais foram associadas a hepatotoxicidade. A acetilcisteína provavelmente protege o fígado mantendo ou restaurando os níveis de glutationa, ou atuando como substrato alternativo para a conjugação com o metabólito reativo do paracetamol e, assim, para sua destoxificação.” Texto original em inglês: "Acetylcysteine has been shown to reduce the extent of liver injury following acetaminophen overdose. Acetaminophen doses of 150 mg/kg or greater have been associated with hepatotoxicity. Acetylcysteine probably protects the liver by maintaining or restoring the glutathione levels, or by acting as an alternate substrate for conjugation with, and thus detoxification of, the reactive metabolite of acetaminophen." ([DailyMed: Acetadote (acetylcysteine) prescribing information, Cumberland Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=472f158a-5ab9-4308-8e49-1116e6ea3d39), versão de 2025-04-30; acessado em 2026-11-19). Segundo informações conhecidas, a acetilcisteína é um composto com grupo tiol e agente redutor, e sua eficácia como mucolítico está estabelecida. Ela rompe pontes dissulfeto nas mucinas, o que explica a ação sobre o muco.
 
 Essa mesma capacidade de reduzir pontes dissulfeto é a base da hipótese para doenças trombóticas. A NAC pode reduzir as pontes dissulfeto dos multímeros do fator de von Willebrand (VWF), diminuindo seu tamanho e sua capacidade de ligação às plaquetas. Além disso, atua como antioxidante, podendo reduzir a ativação plaquetária e a disfunção endotelial causadas pelo estresse oxidativo.
 
@@ -179,13 +179,14 @@ As advertências e contraindicações da bula aprovada pela ANVISA não estavam 
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Foram encontrados 20 registros válidos; o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “O produto não tem registro válido no Brasil, o que exige regularização regulatória antes de qualquer uso na nova indicação” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Avaliar a situação regulatória: há 20 registros válidos e o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Acetadote (acetylcysteine) prescribing information, Cumberland Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=472f158a-5ab9-4308-8e49-1116e6ea3d39) |
 
 <!-- review:end log -->
 

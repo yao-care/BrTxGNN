@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Acne (acne (disease))**, atualm
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada. Segundo informações conhecidas, o cetoconazol é um antifúngico azólico que inibe a CYP51 (lanosterol 14-alfa-desmetilase) fúngica. Em doses sistêmicas mais altas, inibe também a CYP17A1 e outras enzimas da esteroidogênese, reduzindo a síntese de androgênios.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Ketoconazole (tradução não oficial): “O cetoconazol bloqueia a síntese do ergosterol, um componente essencial da membrana celular fúngica, por meio da inibição da enzima lanosterol 14α-desmetilase, dependente do citocromo P-450, responsável pela conversão do lanosterol em ergosterol na membrana celular fúngica. Isso resulta em acúmulo de precursores esteróis metilados e em depleção de ergosterol na membrana celular, enfraquecendo assim a estrutura e a função da membrana celular fúngica.” Texto original em inglês: "Ketoconazole blocks the synthesis of ergosterol, a key component of the fungal cell membrane, through the inhibition of cytochrome P-450 dependent enzyme lanosterol 14α-demethylase responsible for the conversion of lanosterol to ergosterol in the fungal cell membrane. This results in an accumulation of methylated sterol precursors and a depletion of ergosterol within the cell membrane thus weakening the structure and function of the fungal cell membrane." ([DailyMed: ketoconazole prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4baebcab-a237-42c0-9183-6f447a44e371), versão de 2025-11-18; acessado em 2026-11-19). Segundo informações conhecidas, o cetoconazol é um antifúngico azólico que inibe a CYP51 (lanosterol 14-alfa-desmetilase) fúngica. Em doses sistêmicas mais altas, inibe também a CYP17A1 e outras enzimas da esteroidogênese, reduzindo a síntese de androgênios.
 
 A relação com a acne é plausível por duas vias. A primeira é hormonal: menos androgênios podem significar menos produção de sebo, o que é relevante na acne hiperandrogênica, como na síndrome dos ovários policísticos. A segunda é local: o cetoconazol tópico pode reduzir a colonização por *Malassezia* (*Pityrosporum*) e a inflamação associada em erupções foliculares e acneiformes. Estudos in vitro também indicam que o cetoconazol inibe o crescimento e a atividade da lipase de *Propionibacterium acnes*, bactéria associada à acne.
 
@@ -162,13 +162,14 @@ A tabela mostra até 30 registros (os ativos primeiro). A lista completa está n
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Há 20 registros válidos e o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Não há registro válido no Brasil, e o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Avaliação da viabilidade regulatória de um novo registro tópico, considerando que há 20 registros válidos atualmente” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: ketoconazole prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4baebcab-a237-42c0-9183-6f447a44e371) |
 
 <!-- review:end log -->
 

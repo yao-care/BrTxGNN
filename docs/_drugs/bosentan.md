@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Artrite Reumatoide (Rheumatoid 
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a bosentana é um antagonista duplo dos receptores de endotelina (ETA/ETB), com eficácia estabelecida em doenças vasculares como a hipertensão arterial pulmonar, e mecanisticamente pode ser aplicável à artrite reumatoide.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Bosentan (tradução não oficial): “A bosentana é um antagonista específico e competitivo dos receptores de endotelina dos tipos ET A e ET B. A bosentana tem afinidade ligeiramente maior pelos receptores ET A do que pelos receptores ET B. O impacto clínico do bloqueio duplo da endotelina é desconhecido.” Texto original em inglês: "Bosentan is a specific and competitive antagonist at endothelin receptor types ET A and ET B. Bosentan has a slightly higher affinity for ET A receptors than for ET B receptors. The clinical impact of dual endothelin blockage is unknown." ([DailyMed: Tracleer (bosentan) prescribing information, Actelion Pharmaceuticals US, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=749e42fb-2fe0-45dd-9268-b43bb3f4081c), versão de 2025-11-17; acessado em 2026-11-19). Segundo informações conhecidas, a bosentana é um antagonista duplo dos receptores de endotelina (ETA/ETB), com eficácia estabelecida em doenças vasculares como a hipertensão arterial pulmonar, e mecanisticamente pode ser aplicável à artrite reumatoide.
 
 A endotelina participa de processos inflamatórios, como inflamação sinovial, disfunção vascular e liberação de citocinas (TNF-alfa, LTB4). Em camundongos com artrite induzida por colágeno, a bosentana atenuou a doença, com mecanismo relacionado ao TNF-alfa (PMID 22249931). Outro estudo em modelo murino de artrite induzida por zimosan também apontou participação das endotelinas na reação inflamatória.
 
@@ -132,12 +132,13 @@ As advertências e contraindicações oficiais da bula brasileira não estavam d
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Dos 5 registros brasileiros, todos os 5 estão válidos (mercado: comercializado) e o perfil de segurança exige atenção (especialmente toxicid” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “dado que não há registro vigente no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Tracleer (bosentan) prescribing information, Actelion Pharmaceuticals US, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=749e42fb-2fe0-45dd-9268-b43bb3f4081c) |
 
 <!-- review:end log -->
 

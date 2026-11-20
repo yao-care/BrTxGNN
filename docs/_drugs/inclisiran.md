@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **deficiência de potássio (pota
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a inclisirana é um RNA interferente pequeno (siRNA) que atua sobre o RNA mensageiro do PCSK9, reduzindo o colesterol LDL (LDL-C). Sua eficácia está associada ao controle de lipídios, e não à regulação de eletrólitos.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Inclisiran (tradução não oficial): “A inclisirana é um ácido ribonucleico interferente pequeno (siRNA) de fita dupla, conjugado na fita senso com N-acetilgalactosamina (GalNAc) triantenária para facilitar a captação pelos hepatócitos. Nos hepatócitos, a inclisirana utiliza o mecanismo de interferência por RNA e direciona a degradação catalítica do mRNA da PCSK9.” Texto original em inglês: "Inclisiran is a double-stranded small interfering ribonucleic acid (siRNA), conjugated on the sense strand with triantennary N-Acetylgalactosamine (GalNAc) to facilitate uptake by hepatocytes. In hepatocytes, inclisiran utilizes the RNA interference mechanism and directs catalytic breakdown of mRNA for PCSK9." ([DailyMed: Leqvio (inclisiran) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6fc0afca-4513-4c35-b594-6544aee29a44), versão de 2026-08-19; acessado em 2026-11-19). Segundo informações conhecidas, a inclisirana é um RNA interferente pequeno (siRNA) que atua sobre o RNA mensageiro do PCSK9, reduzindo o colesterol LDL (LDL-C). Sua eficácia está associada ao controle de lipídios, e não à regulação de eletrólitos.
 
 Não foi identificada relação plausível entre o silenciamento do PCSK9 e a homeostase do potássio. A pontuação alta do TxGNN (0,9993) decorre apenas da previsão do modelo TxGNN (aprendizado profundo), sem ensaios ou literatura que a sustentem. Por isso, a razoabilidade mecanística desta previsão é **fraca** e deve ser tratada como hipótese a ser verificada, não como indicação de eficácia.
 
@@ -112,12 +112,13 @@ Consulte a bula para informações de segurança. Não foram encontradas intera�
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, o único registro brasileiro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Tabela: registro 100681184 (SYBRAVA) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Leqvio (inclisiran) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6fc0afca-4513-4c35-b594-6544aee29a44) |
 
 <!-- review:end log -->
 

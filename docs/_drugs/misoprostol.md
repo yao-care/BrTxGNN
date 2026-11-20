@@ -59,7 +59,7 @@ O modelo TxGNN prevê que pode ser eficaz para **amenorreia (amenorrhea)**, mas 
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, o misoprostol é um análogo sintético da prostaglandina E1 que estimula contrações uterinas e promove o amadurecimento cervical.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para diclofenac sodium and misoprostol (associação que contém Misoprostol) (tradução não oficial): “Misoprostol O misoprostol é um análogo sintético da PGE1 com propriedades antissecretoras gástricas e protetoras da mucosa. O misoprostol pode aumentar a produção de bicarbonato e de muco, mas foi demonstrado que, em doses de 200 mcg ou mais, ele também é antissecretor.” Texto original em inglês: "Misoprostol Misoprostol is a synthetic PGE1 analog with gastric antisecretory and mucosal protective properties. Misoprostol can increase bicarbonate and mucus production, but it has been shown at doses 200 mcg and above that are also antisecretory." ([DailyMed: diclofenac sodium and misoprostol prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a7701e8c-4e16-4165-8b83-de2c08d5ded3), versão de 2026-08-31; acessado em 2026-11-19). Segundo informações conhecidas, o misoprostol é um análogo sintético da prostaglandina E1 que estimula contrações uterinas e promove o amadurecimento cervical.
 
 Existe um elo plausível, porém indireto, com a amenorreia: o fármaco atua sobre o endométrio e o sangramento uterino, sendo usado na interrupção da gestação, na evacuação de restos ovulares e na indução de sangramento de privação. A gravidez e seu término estão ligados à interrupção do ciclo menstrual, o que pode explicar a associação captada pelo modelo.
 
@@ -125,11 +125,12 @@ Consulte a bula para informações adicionais de advertências e contraindicaç�
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “e o fármaco não possui registro ativo no Brasil nos dados compilados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: diclofenac sodium and misoprostol prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a7701e8c-4e16-4165-8b83-de2c08d5ded3) |
 
 <!-- review:end log -->
 

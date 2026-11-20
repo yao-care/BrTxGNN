@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, o tinidazol é um antimicrobiano da classe dos 5-nitroimidazólicos, com atividade contra protozoários e bactérias anaeróbias. Sua eficácia em tricomoníase, giardíase e amebíase está estabelecida, e ele foi comercializado no Brasil em associações vaginais tópicas (por exemplo, com nitrato de miconazol e tioconazol).
+Segundo as seções “Mechanism of Action” e “Microbiology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Tinidazole (tradução não oficial): “A tinidazol é um agente antiprotozoário e antibacteriano.. […] A tinidazol é um agente antiprotozoário e antibacteriano. O grupo nitro da tinidazol é reduzido por extratos celulares de Trichomonas. O radical nitro livre gerado como resultado dessa redução pode ser responsável pela atividade antiprotozoária.” Texto original em inglês: "Tinidazole is an antiprotozoal, antibacterial agent.. […] Tinidazole is an antiprotozoal, antibacterial agent. The nitro- group of tinidazole is reduced by cell extracts of Trichomonas. The free nitro radical generated as a result of this reduction may be responsible for the antiprotozoal activity." ([DailyMed: Tindazole (tinidazole) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=45fa3ebd-52da-4987-82a1-4a64f99785a7), versão de 2026-08-18; acessado em 2026-11-19). Segundo informações conhecidas, o tinidazol é um antimicrobiano da classe dos 5-nitroimidazólicos, com atividade contra protozoários e bactérias anaeróbias. Sua eficácia em tricomoníase, giardíase e amebíase está estabelecida, e ele foi comercializado no Brasil em associações vaginais tópicas (por exemplo, com nitrato de miconazol e tioconazol).
 
 A previsão do modelo provavelmente decorre da proximidade na rede de conhecimento entre o tinidazol e produtos ginecológicos antiinfecciosos tópicos. A vaginite atrófica, porém, é causada principalmente pela deficiência de estrogênio, e não por infecção. Por isso, a plausibilidade biológica de um mecanismo antimicrobiano é fraca.
 
@@ -146,12 +146,13 @@ Nenhuma das outras previsões de maior pontuação tem respaldo suficiente (toda
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Há 20 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “já que não há registro válido no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Tindazole (tinidazole) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=45fa3ebd-52da-4987-82a1-4a64f99785a7) |
 
 <!-- review:end log -->
 

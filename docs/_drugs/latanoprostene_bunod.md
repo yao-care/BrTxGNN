@@ -54,7 +54,7 @@ Latanoprosteno bunod (VYZULTA) é um análogo da prostaglandina F2-alfa que libe
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação no registro consultado. Segundo informações farmacológicas conhecidas, o latanoprosteno bunod é um análogo da prostaglandina F2-alfa que, após metabolização, libera óxido nítrico (NO) e o ácido de latanoprosta, que atua sobre o receptor FP (gene PTGFR). Em células, também aumenta a atividade da guanilato ciclase (formação de GMPc mediada por NO).
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Latanoprostene Bunod (tradução não oficial): “Acredita-se que o latanoprosteno bunode reduza a pressão intraocular ao aumentar o escoamento do humor aquoso tanto pela via da malha trabecular quanto pela via uveoescleral. A pressão intraocular é um importante fator de risco modificável para a progressão do glaucoma.” Texto original em inglês: "Latanoprostene bunod is thought to lower intraocular pressure by increasing outflow of aqueous humor through both the trabecular meshwork and uveoscleral routes. Intraocular pressure is a major modifiable risk factor for glaucoma progression." ([DailyMed: Vyzulta (latanoprostene bunod) prescribing information, Bausch & Lomb Incorporated](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=60ce7900-a677-4fc2-88d0-1603baa9dbd4), versão de 2024-02-27; acessado em 2026-11-19). Segundo informações farmacológicas conhecidas, o latanoprosteno bunod é um análogo da prostaglandina F2-alfa que, após metabolização, libera óxido nítrico (NO) e o ácido de latanoprosta, que atua sobre o receptor FP (gene PTGFR). Em células, também aumenta a atividade da guanilato ciclase (formação de GMPc mediada por NO).
 
 A relação com a nova indicação é frágil. A vasodilatação mediada por NO poderia, em teoria, relacionar-se à calcificação vascular. No entanto, o fármaco é aplicado por via tópica ocular, com exposição sistêmica mínima, o que dificulta qualquer efeito sobre uma doença visceral e vascular sistêmica como a calcifilaxia.
 
@@ -138,12 +138,13 @@ Para as demais informações de segurança, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, o único registro no Brasil está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “já que o registro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Vyzulta (latanoprostene bunod) prescribing information, Bausch & Lomb Incorporated](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=60ce7900-a677-4fc2-88d0-1603baa9dbd4) |
 
 <!-- review:end log -->
 

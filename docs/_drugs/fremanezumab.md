@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Fremanezumabe é classificado como anticorpo monoclonal e, pelo nome comercial e pela classe, é conhecido por atuar na via do peptídeo relacionado ao gene da calcitonina (CGRP).
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Fremanezumab (tradução não oficial): “O fremanezumabe-vfrm é um anticorpo monoclonal humanizado que se liga ao ligante peptídeo relacionado ao gene da calcitonina (CGRP) e bloqueia sua ligação ao receptor.” Texto original em inglês: "Fremanezumab-vfrm is a humanized monoclonal antibody that binds to calcitonin gene-related peptide (CGRP) ligand and blocks its binding to the receptor." ([DailyMed: Ajovy (fremanezumab-vfrm) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98e344ea-5916-4947-b6f2-4a76ccc04b6b), versão de 2026-06-05; acessado em 2026-11-19). Fremanezumabe é classificado como anticorpo monoclonal e, pelo nome comercial e pela classe, é conhecido por atuar na via do peptídeo relacionado ao gene da calcitonina (CGRP).
 
 A atrofodermia vermiculada é um distúrbio atrófico folicular raro da pele. Não há papel conhecido do CGRP em sua patogênese, e os dados compilados não sustentam nenhum vínculo mecanístico entre o fármaco e essa doença. A única base da previsão é a pontuação elevada do modelo (0,9904), que é uma previsão computacional, sem confirmação experimental ou clínica.
 
@@ -92,6 +92,19 @@ A previsão baseia-se apenas na pontuação do modelo, sem ensaios clínicos, se
 - Revisão de literatura e estudos pré-clínicos que abordem diretamente esta doença
 - Obtenção e análise da bula da ANVISA (advertências e contraindicações)
 - Avaliação da compatibilidade de via de administração (injetável) com a doença-alvo, de manifestação cutânea
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Ajovy (fremanezumab-vfrm) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98e344ea-5916-4947-b6f2-4a76ccc04b6b) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

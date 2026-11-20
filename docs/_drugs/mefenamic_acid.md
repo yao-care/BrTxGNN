@@ -56,7 +56,7 @@ Não há ensaios clínicos registrados para essa direção. Há **20 publicaçõ
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados de mecanismo de ação para este fármaco nos dados compilados. Pelo que se sabe da classe, o ácido mefenâmico bloqueia a ciclo-oxigenase (COX) e reduz a produção de prostaglandinas. Essas moléculas participam da dor e da inflamação neurogênica, e acredita-se que também contribuam para a cefaleia, em especial a menstrual ou perimenstrual, em que há liberação de prostaglandinas.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Mefenamic Acid (tradução não oficial): “O ácido mefenâmico tem propriedades analgésicas, anti-inflamatórias e antipiréticas. O mecanismo de ação do ácido mefenâmico, assim como o de outros AINEs, não é completamente compreendido, mas envolve a inibição da ciclo-oxigenase (COX-1 e COX-2).” Texto original em inglês: "Mefenamic acid has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of mefenamic acid, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)." ([DailyMed: mefenamic acid prescribing information, Lupin Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d15733a9-d5fd-4d5f-86ce-e7ed8c706c7f), versão de 2026-04-20; acessado em 2026-11-19). Pelo que se sabe da classe, o ácido mefenâmico bloqueia a ciclo-oxigenase (COX) e reduz a produção de prostaglandinas. Essas moléculas participam da dor e da inflamação neurogênica, e acredita-se que também contribuam para a cefaleia, em especial a menstrual ou perimenstrual, em que há liberação de prostaglandinas.
 
 A ligação mecanística é plausível, mas a evidência para a categoria ampla "transtorno de cefaleia" é indireta. Os estudos clínicos disponíveis são pequenos, antigos e feitos especificamente em enxaqueca. Para a enxaqueca, as diretrizes discutem AINEs na prevenção, mas a evidência é limitada e, em geral, favorece outros AINEs (como o naproxeno) e agentes mais novos.
 
@@ -112,6 +112,18 @@ Para advertências e contraindicações formais, consulte a bula.
 - Dados de mecanismo de ação detalhados.
 - Advertências e contraindicações da bula brasileira.
 - Plano de monitoramento de segurança gastrintestinal e renal, e de limitação da frequência de uso para evitar cefaleia por uso excessivo.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: mefenamic acid prescribing information, Lupin Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d15733a9-d5fd-4d5f-86ce-e7ed8c706c7f) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

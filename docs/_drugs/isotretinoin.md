@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, a isotretinoína faz parte da classe dos retinoides, e não é possível verificar um mecanismo que a ligue à doença renal hipertensiva maligna.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Isotretinoin (tradução não oficial): “O mecanismo de ação exato de Zenatane no tratamento da acne nodular grave e recalcitrante em pacientes não grávidas com 12 anos de idade ou mais, com múltiplos nódulos inflamatórios de diâmetro igual ou superior a 5 mm, que não respondem à terapia convencional, incluindo antibióticos sistêmicos, é desconhecido. A isotretinoína, um retinoide, inibe a função das glândulas sebáceas e a queratinização.” Texto original em inglês: "The exact mechanism of action of Zenatane in the treatment of severe recalcitrant nodular acne in nonpregnant patients 12 years of age and older with multiple inflammatory nodules with a diameter of 5 mm or greater who are unresponsive to conventional therapy, including systemic antibiotics is unknown. Isotretinoin, a retinoid, inhibits sebaceous gland function and keratinization." ([DailyMed: Zenatane (isotretinoin) prescribing information, Dr. Reddy's Laboratories Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=27b3cf26-f22e-5b70-1c24-009933b7c6ee), versão de 2026-09-20; acessado em 2026-11-19). Segundo informações conhecidas, a isotretinoína faz parte da classe dos retinoides, e não é possível verificar um mecanismo que a ligue à doença renal hipertensiva maligna.
 
 O único apoio é a pontuação elevada do modelo TxGNN (0,9901). Essa pontuação é idêntica à de outra previsão renal vinculada à hipertensão, o que sugere que ambas compartilham o mesmo sinal do modelo, e não evidências independentes. Retinoides foram estudados em modelos pré-clínicos de lesão e fibrose renal, mas isso é indireto e não está nos dados compilados para este relatório.
 
@@ -104,12 +104,13 @@ Consulte a bula para informações de segurança complementares.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Segundo os dados compilados, os 3 registros existentes no Brasil estão cancelados e não há registro válido” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Os registros no Brasil estão todos cancelados, e h” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Zenatane (isotretinoin) prescribing information, Dr. Reddy's Laboratories Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=27b3cf26-f22e-5b70-1c24-009933b7c6ee) |
 
 <!-- review:end log -->
 

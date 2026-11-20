@@ -56,7 +56,7 @@ atualmente com **1 ensaio clínico** (Fase 2, em combinação com ribociclibe) e
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada. Segundo informações conhecidas, o everolimo é um inibidor de mTORC1, nó situado a jusante da via PI3K/AKT, frequentemente ativa em sarcomas. Seu uso como antineoplásico e imunossupressor já foi reconhecido nos registros brasileiros.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Everolimus (tradução não oficial): “O everolimo inibe a ativação e a proliferação de linfócitos T e B estimuladas por antígenos e por interleucinas (IL-2 e IL-15). Nas células, o everolimo liga-se a uma proteína citoplasmática, a proteína de ligação ao FK506-12 (FKBP-12), formando um complexo imunossupressor (everolimo: FKBP-12) que se liga ao alvo da rapamicina em mamíferos (mTOR), uma quinase reguladora fundamental, e o inibe.” Texto original em inglês: "Everolimus inhibits antigenic and interleukin (IL-2 and IL-15) stimulated activation and proliferation of T and B lymphocytes. In cells, everolimus binds to a cytoplasmic protein, the FK506 Binding Protein-12 (FKBP-12), to form an immunosuppressive complex (everolimus: FKBP-12) that binds to and inhibits the mammalian target of rapamycin (mTOR), a key regulatory kinase." ([DailyMed: Zortress (everolimus) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e082a024-7850-400b-a5c2-2a140612562a), versão de 2026-09-16; acessado em 2026-11-19). Segundo informações conhecidas, o everolimo é um inibidor de mTORC1, nó situado a jusante da via PI3K/AKT, frequentemente ativa em sarcomas. Seu uso como antineoplásico e imunossupressor já foi reconhecido nos registros brasileiros.
 
 No lipossarcoma desdiferenciado (amplificação de CDK4/MDM2), a proposta é combinar o everolimo com o ribociclibe, inibidor de CDK4/6, bloqueando simultaneamente as vias CDK4/6-ciclina D e mTOR e limitando a resistência compensatória. Essa combinação mostrou inibição sinérgica do crescimento em vários modelos tumorais.
 
@@ -144,11 +144,12 @@ As advertências e contraindicações da bula não estavam disponíveis; consult
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-10-31 | Removido: “(registros cancelados)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Zortress (everolimus) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e082a024-7850-400b-a5c2-2a140612562a) |
 
 <!-- review:end log -->
 

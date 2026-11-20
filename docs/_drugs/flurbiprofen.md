@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Pela classe conhecida, o flurbiprofeno é um AINE, cujo efeito principal é reduzir a síntese de prostaglandinas por inibição da COX, aliviando dor e inflamação.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Flurbiprofen (tradução não oficial): “O flurbiprofeno tem propriedades analgésicas, anti-inflamatórias e antipiréticas. O mecanismo de ação do flurbiprofeno, como o de outros AINEs, não é completamente compreendido, mas envolve a inibição da ciclo-oxigenase (COX-1 e COX-2).” Texto original em inglês: "Flurbiprofen has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of flurbiprofen, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)." ([DailyMed: Lurbiro (flurbiprofen) prescribing information, IPG Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7ebf7427-eaae-4035-a6b2-0ea6381e8763), versão de 2026-10-05; acessado em 2026-11-19). Pela classe conhecida, o flurbiprofeno é um AINE, cujo efeito principal é reduzir a síntese de prostaglandinas por inibição da COX, aliviando dor e inflamação.
 
 A displasia acromesomélica tipo Hunter-Thompson é uma doença genética rara do esqueleto, associada à perda de função do gene GDF5 (CDMP1), de origem do desenvolvimento e não inflamatória. A inibição da COX não deve corrigir esse defeito de base. Não foi identificado vínculo mecanístico plausível.
 
@@ -85,6 +85,18 @@ O flurbiprofeno consta como **comercializado** no Brasil, com 10 registros no to
 - Estudos pré-clínicos ou observacionais que avaliem diretamente esta doença
 - Advertências e contraindicações extraídas da bula aprovada pela ANVISA
 - Detalhamento dos registros locais (apresentações e formas farmacêuticas)
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Lurbiro (flurbiprofen) prescribing information, IPG Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7ebf7427-eaae-4035-a6b2-0ea6381e8763) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

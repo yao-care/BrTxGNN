@@ -56,7 +56,7 @@ O modelo TxGNN prevê que pode ser eficaz para **infecção pelo vírus da imuno
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação neste material. Sabe-se que o atazanavir é um inibidor da protease do HIV-1. O vírus da imunodeficiência símia (SIV) é um parente lentiviral próximo do HIV e codifica uma protease homóloga, de modo que a inibição é biologicamente plausível.
+Segundo as seções “Mechanism of Action” e “Microbiology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Atazanavir Sulfate (tradução não oficial): “O atazanavir é um fármaco antirretroviral contra o HIV-1. […] O atazanavir (ATV) é um inibidor da protease (IP) do HIV-1 do tipo azapeptídeo. O composto inibe seletivamente o processamento vírus-específico das poliproteínas virais Gag e Gag-Pol em células infectadas pelo HIV-1, impedindo assim a formação de vírions maduros.” Texto original em inglês: "Atazanavir is an HIV-1 antiretroviral drug. […] Atazanavir (ATV) is an azapeptide HIV-1 protease inhibitor (PI). The compound selectively inhibits the virus-specific processing of viral Gag and Gag-Pol polyproteins in HIV-1-infected cells, thus preventing formation of mature virions." ([DailyMed: Reyataz (atazanavir) prescribing information, E.R. Squibb & Sons, L.L.C.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=165cff62-b284-4a27-a65d-9ec8a5bfcdd8), versão de 2024-12-05; acessado em 2026-11-19). Sabe-se que o atazanavir é um inibidor da protease do HIV-1. O vírus da imunodeficiência símia (SIV) é um parente lentiviral próximo do HIV e codifica uma protease homóloga, de modo que a inibição é biologicamente plausível.
 
 A única publicação disponível (2010) é um estudo em macacos tratados com terapia antirretroviral altamente ativa (HAART), que mostrou menor replicação viral e inflamação no sistema nervoso central, mas persistência de DNA viral. Esse estudo avalia um esquema combinado, e não isola a contribuição do atazanavir. Trata-se de um modelo animal do HIV, e não de uma nova indicação para uso humano.
 
@@ -96,12 +96,13 @@ Consulte a bula para informações de segurança.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Foram identificadas **lacunas críticas de dados** — incluindo ausência de registros regulatórios brasileiros e de mecanismo de ação document” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “e o fármaco não possui registros ativos na base de dados regulatória consultada — impossibilitando qualquer análise de indicação original, m” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Reyataz (atazanavir) prescribing information, E.R. Squibb & Sons, L.L.C.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=165cff62-b284-4a27-a65d-9ec8a5bfcdd8) |
 
 <!-- review:end log -->
 

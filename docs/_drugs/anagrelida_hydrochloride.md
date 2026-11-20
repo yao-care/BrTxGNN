@@ -57,7 +57,7 @@ mas a literatura compilada trata sobretudo da trombocitemia essencial (um distú
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada. Pela farmacologia geral, a anagrelida reduz a contagem de plaquetas ao inibir a maturação e a diferenciação dos megacariócitos (diminuindo a produção de plaquetas), com inibição adicional da PDE3. Esse mecanismo é, em princípio, relevante para qualquer condição com excesso de plaquetas.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Anagrelida Hydrochloride (tradução não oficial): “O mecanismo exato pelo qual a anagrelida reduz a contagem de plaquetas no sangue é desconhecido. Em estudos de cultura de células, a anagrelida suprimiu a expressão de fatores de transcrição, incluindo GATA-1 e FOG-1, necessários para a megacariocitopoese, levando, em última instância, à redução da produção de plaquetas.” Texto original em inglês: "The precise mechanism by which anagrelide reduces blood platelet count is unknown. In cell culture studies, anagrelide suppressed expression of transcription factors including GATA-1 and FOG-1 required for megakaryocytopoiesis, ultimately leading to reduced platelet production." ([DailyMed: Agrylin (anagrelide hydrochloride) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cb960074-99c1-4a73-941f-f0644a7ec219), versão de 2026-04-08; acessado em 2026-11-19). Pela farmacologia geral, a anagrelida reduz a contagem de plaquetas ao inibir a maturação e a diferenciação dos megacariócitos (diminuindo a produção de plaquetas), com inibição adicional da PDE3. Esse mecanismo é, em princípio, relevante para qualquer condição com excesso de plaquetas.
 
 Porém, a trombocitose reativa (secundária) é causada por inflamação, infecção, deficiência de ferro ou neoplasia, e em geral é benigna, sem o risco trombótico dos distúrbios clonais. O tratamento normalmente se dirige à causa de base, e reduzir plaquetas raramente é indicado. A pontuação elevada do modelo provavelmente reflete o uso consolidado da anagrelida na trombocitemia essencial, e não evidência independente para a forma reativa.
 
@@ -117,6 +117,19 @@ Consulte a bula para informações de segurança.
 - Dados do mecanismo de ação a partir de fonte curada (por exemplo, DrugBank)
 - Definição de um subgrupo de trombocitose reativa com risco trombótico que justifique terapia redutora de plaquetas
 - Estudos clínicos ou séries de casos que avaliem diretamente a anagrelida nesta condição
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Agrylin (anagrelide hydrochloride) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cb960074-99c1-4a73-941f-f0644a7ec219) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

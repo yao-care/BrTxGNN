@@ -59,7 +59,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Hipertricose universal congêni
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação no material compilado. Segundo informações conhecidas, a tadalafila é um inibidor da PDE5: aumenta o GMPc (monofosfato de guanosina cíclico) e provoca vasodilatação, o que sustenta seu uso em disfunção erétil, hipertensão pulmonar e hiperplasia prostática benigna.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Tadalafil (tradução não oficial): “A ereção peniana durante a estimulação sexual é causada pelo aumento do fluxo sanguíneo peniano resultante do relaxamento das artérias penianas e do músculo liso dos corpos cavernosos. Essa resposta é mediada pela liberação de óxido nítrico (NO) a partir de terminações nervosas e células endoteliais, que estimula a síntese de cGMP nas células musculares lisas. […] A tadalafila inibe a PDE5.” Texto original em inglês: "Penile erection during sexual stimulation is caused by increased penile blood flow resulting from the relaxation of penile arteries and corpus cavernosal smooth muscle. This response is mediated by the release of nitric oxide (NO) from nerve terminals and endothelial cells, which stimulates the synthesis of cGMP in smooth muscle cells. […] Tadalafil inhibits PDE5." ([DailyMed: Cialis (tadalafil) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bcd8f8ab-81a2-4891-83db-24a0b0e25895), versão de 2026-06-03; acessado em 2026-11-19). Segundo informações conhecidas, a tadalafila é um inibidor da PDE5: aumenta o GMPc (monofosfato de guanosina cíclico) e provoca vasodilatação, o que sustenta seu uso em disfunção erétil, hipertensão pulmonar e hiperplasia prostática benigna.
 
 **Na prática, esta previsão não tem respaldo mecanístico.** A síndrome de Ambras é um distúrbio genético raro do desenvolvimento do folículo piloso (rearranjos cromossômicos que afetam a regulação do gene TRPS1). Não há relação demonstrada entre a inibição da PDE5 e a correção desse defeito. Além disso, a hipertricose é um efeito adverso conhecido de outros vasodilatadores, como o minoxidil. Assim, um mecanismo baseado em vasodilatação mediada por GMPc tenderia, de forma plausível, a piorar a condição, e não a tratá-la.
 
@@ -139,11 +139,12 @@ Entre as demais previsões, a única publicação identificada refere-se à enxa
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “A tadalafila não tem registro comercializado no Brasil nos dados compilados, e h” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Cialis (tadalafil) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bcd8f8ab-81a2-4891-83db-24a0b0e25895) |
 
 <!-- review:end log -->
 

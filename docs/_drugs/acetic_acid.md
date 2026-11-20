@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, o ácido acético faz parte de concentrados ácidos para hemodiálise, nos quais atua como acidificante/tampão do dialisato. Isso é muito diferente de qualquer uso anti-infeccioso ou imunomodulador.
+Segundo a seção “Clinical Pharmacology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Acetic Acid (tradução não oficial): “O ácido acético é antibacteriano e antifúngico; o propilenoglicol é hidrofílico e proporciona baixa tensão superficial; o cloreto de benzetônio é um agente tensoativo que promove o contato da solução com os tecidos.” Texto original em inglês: "Acetic acid is antibacterial and antifungal; propylene glycol is hydrophilic and provides a low surface tension; benzethonium chloride is a surface active agent that promotes contact of the solution with tissues." ([DailyMed: acetic acid prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c1c28375-9b03-4590-9d39-ab28403da93d), versão de 2026-03-18; acessado em 2026-11-19). Segundo informações conhecidas, o ácido acético faz parte de concentrados ácidos para hemodiálise, nos quais atua como acidificante/tampão do dialisato. Isso é muito diferente de qualquer uso anti-infeccioso ou imunomodulador.
 
 O ácido acético possui atividade antibacteriana geral, o que poderia sugerir alguma relação com condições "pós-bacterianas". Porém, com os dados compilados para este relatório, não é possível estabelecer um vínculo mecanístico específico entre o fármaco e as sequelas pós-bacterianas. A similaridade com a indicação original ainda está pendente de análise.
 
@@ -134,11 +134,12 @@ Consulte a bula para as demais informações de segurança.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “dado que não há registro válido no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: acetic acid prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c1c28375-9b03-4590-9d39-ab28403da93d) |
 
 <!-- review:end log -->
 

@@ -59,7 +59,7 @@ O modelo TxGNN prevê que poderia ser eficaz para **Neoplasia do Nervo Trigêmeo
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o fenobarbital é um modulador alostérico positivo do receptor GABA-A, com atividade antiepiléptica comprovada, e não tem efeito antineoplásico conhecido.
+Segundo a seção “Clinical Pharmacology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Phenobarbital (tradução não oficial): “O mecanismo de ação preciso do fenobarbital no tratamento de convulsões neonatais não é totalmente compreendido, mas acredita-se que envolva a potencialização da inibição sináptica por meio de uma ação sobre o receptor GABA A.” Texto original em inglês: "The precise mechanism of action for phenobarbital for the treatment of neonatal seizures is not fully understood, but it is thought to involve potentiation of synaptic inhibition through an action on the GABA A receptor." ([DailyMed: Sezaby (phenobarbital sodium) prescribing information, Sun Pharmaceutical Industries, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8c7d0402-4977-4c25-bc4b-11db91339e9a), versão de 2026-10-23; acessado em 2026-11-19). Segundo informações conhecidas, o fenobarbital é um modulador alostérico positivo do receptor GABA-A, com atividade antiepiléptica comprovada, e não tem efeito antineoplásico conhecido.
 
 **Esta previsão, na prática, não é razoável.** A relação entre a indicação original (controle de crises convulsivas) e a nova (Neoplasia do Nervo Trigêmeo) é frágil. A única publicação recuperada é uma série de casos de 1997 sobre síndrome de Sturge-Weber, que trata do controle de crises em um distúrbio neurocutâneo e não de um tumor trigeminal. A pontuação alta do TxGNN (0.9996) vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica.
 
@@ -173,11 +173,12 @@ Consulte a bula para advertências e contraindicações oficiais.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Todos os 8 registros estão **válidos** (8 de 8); o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Sezaby (phenobarbital sodium) prescribing information, Sun Pharmaceutical Industries, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8c7d0402-4977-4c25-bc4b-11db91339e9a) |
 
 <!-- review:end log -->
 

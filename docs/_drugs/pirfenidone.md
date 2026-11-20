@@ -56,7 +56,7 @@ A pontuação é alta (0,9971), mas trata-se de uma previsão puramente computac
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a pirfenidona modula a sinalização de TGF-β e de TNF-α, com atividade antifibrótica e anti-inflamatória, e é usada na fibrose pulmonar.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Pirfenidone (tradução não oficial): “O mecanismo de ação da pirfenidona no tratamento da FPI não foi estabelecido.” Texto original em inglês: "The mechanism of action of pirfenidone in the treatment of IPF has not been established." ([DailyMed: Esbriet (pirfenidone) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2e8c3537-36d7-4de5-9b5c-7a624b9a9e6e), versão de 2025-12-05; acessado em 2026-11-19). Segundo informações conhecidas, a pirfenidona modula a sinalização de TGF-β e de TNF-α, com atividade antifibrótica e anti-inflamatória, e é usada na fibrose pulmonar.
 
 A relação com a nova indicação é fraca. Neoplasias de mastócitos são tipicamente impulsionadas por sinalização via KIT, e a pirfenidona não é conhecida por atuar sobre esse alvo. Não há vínculo mecanístico direto sustentado pelos dados disponíveis, e a similaridade com a indicação original não foi avaliada.
 
@@ -141,12 +141,13 @@ Consulte a bula para as demais informações de segurança (advertências e cont
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-10-31 | Removido: “e o fármaco não tem registro vigente no Brasil (apenas registros cancelados)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “já que o medicamento está comercializado no Brasil, com 3 registros válidos de 3” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Esbriet (pirfenidone) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2e8c3537-36d7-4de5-9b5c-7a624b9a9e6e) |
 
 <!-- review:end log -->
 

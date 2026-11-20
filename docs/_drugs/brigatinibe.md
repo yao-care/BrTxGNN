@@ -56,7 +56,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Fibromatose gengival (fibromato
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Sabe-se que o brigatinibe é um inibidor de tirosina quinase direcionado a ALK, EGFR e ROS1, usado em oncologia.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Brigatinibe (tradução não oficial): “O brigatinibe é um inibidor de tirosina quinase (TKI) com atividade in vitro, em concentrações clinicamente alcançáveis, contra múltiplas quinases, incluindo ALK, ROS1, receptor do fator de crescimento semelhante à insulina tipo 1 (IGF-1R) e FLT-3, bem como contra deleções e mutações pontuais do EGFR. O brigatinibe inibiu a autofosforilação da ALK e a fosforilação mediada pela ALK das proteínas de sinalização a jusante STAT3, AKT, ERK1/2 e S6 em ensaios in vitro e in vivo.” Texto original em inglês: "Brigatinib is a tyrosine kinase inhibitor (TKI) with in vitro activity at clinically achievable concentrations against multiple kinases including ALK, ROS1, insulin-like growth factor-1 receptor (IGF-1R), and FLT-3 as well as EGFR deletion and point mutations. Brigatinib inhibited autophosphorylation of ALK and ALK-mediated phosphorylation of the downstream signaling proteins STAT3, AKT, ERK1/2, and S6 in in vitro and in vivo assays." ([DailyMed: Alunbrig (brigatinib) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0fe9ff20-d402-41f3-bc1e-7002ea7007db), versão de 2026-01-12; acessado em 2026-11-19). Sabe-se que o brigatinibe é um inibidor de tirosina quinase direcionado a ALK, EGFR e ROS1, usado em oncologia.
 
 Não existe vínculo estabelecido entre esses alvos e a fibromatose gengival. Uma hipótese puramente especulativa seria a participação de vias dependentes de quinases na proliferação de fibroblastos, mas isso não é sustentado por nenhum estudo clínico ou publicação identificado.
 
@@ -95,6 +95,19 @@ A previsão para fibromatose gengival tem pontuação alta no modelo (0,9989), m
 - Realizar revisão sistemática da literatura e estudos pré-clínicos específicos para esta doença
 - Obter da bula na ANVISA as advertências e contraindicações, hoje ausentes, para a triagem de segurança
 - Avaliar a viabilidade de via de administração adequada para uma doença gengival, ainda não analisada
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Alunbrig (brigatinib) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0fe9ff20-d402-41f3-bc1e-7002ea7007db) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a clortalidona é um diurético semelhante às tiazidas que inibe o cotransportador sódio-cloreto (Na-Cl) no túbulo renal, aumentando a excreção de sal e água.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Chlorthalidone (tradução não oficial): “A clortalidona é um diurético oral de ação prolongada com atividade anti-hipertensiva. Os efeitos diuréticos da clortalidona e dos diuréticos benzotiadiazínicos (tiazídicos) parecem decorrer de mecanismos semelhantes, e o efeito máximo da clortalidona e dos tiazídicos parece ser semelhante.” Texto original em inglês: "Chlorthalidone is a long-acting oral diuretic with antihypertensive activity. The diuretic effects of chlorthalidone and the benzothiadiazine (thiazide) diuretics appear to arise from similar mechanisms and the maximal effect of chlorthalidone and the thiazides appear to be similar." ([DailyMed: Thalitone (chlorthalidone) prescribing information, Casper Pharma LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bc5a0299-115b-4e60-bb3f-c75a95c51c15), versão de 2026-06-25; acessado em 2026-11-19). Segundo informações conhecidas, a clortalidona é um diurético semelhante às tiazidas que inibe o cotransportador sódio-cloreto (Na-Cl) no túbulo renal, aumentando a excreção de sal e água.
 
 Não é possível verificar uma ponte mecanística entre esse efeito e o glaucoma hereditário primário. Qualquer influência sobre a pressão intraocular seria especulativa, pois não há ensaios, publicações ou dados de mecanismo que sustentem a previsão. A pontuação alta do modelo, por si só, não substitui evidência clínica.
 
@@ -128,6 +128,19 @@ A tabela mostra até 30 registros (os ativos primeiro). A lista completa está n
 - Estudos pré-clínicos ou observacionais que avaliem diretamente a clortalidona no glaucoma.
 - Obtenção e análise da bula na ANVISA para fechar a lacuna de advertências e contraindicações.
 - Avaliação da viabilidade de via de administração e formulação adequadas ao uso oftalmológico.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Thalitone (chlorthalidone) prescribing information, Casper Pharma LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bc5a0299-115b-4e60-bb3f-c75a95c51c15) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

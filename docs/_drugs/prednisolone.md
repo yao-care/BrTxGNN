@@ -56,7 +56,7 @@ atualmente sem ensaios clínicos registrados nos dados compilados, mas com **20 
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, a prednisolona é um glicocorticoide com ampla ação imunossupressora e anti-inflamatória, e sua eficácia como glicocorticoide sistêmico é estabelecida.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Prednisolone (tradução não oficial): “A prednisolona é um fármaco esteroide adrenocortical sintético com propriedades predominantemente glicocorticoides. Algumas dessas propriedades reproduzem as ações fisiológicas dos glicocorticosteroides endógenos, mas outras não refletem necessariamente nenhuma das funções normais dos hormônios adrenais; elas são observadas somente após a administração de grandes doses terapêuticas do fármaco.” Texto original em inglês: "Prednisolone is a synthetic adrenocortical steroid drug with predominantly glucocorticoid properties. Some of these properties reproduce the physiological actions of endogenous glucocorticosteroids, but others do not necessarily reflect any of the adrenal hormones' normal functions; they are seen only after administration of large therapeutic doses of the drug." ([DailyMed: Orapred Odt (prednisolone sodium phosphate) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e379543-c4cf-4e72-953b-db15b7f0c2a1), versão de 2025-06-03; acessado em 2026-11-19). Segundo informações conhecidas, a prednisolona é um glicocorticoide com ampla ação imunossupressora e anti-inflamatória, e sua eficácia como glicocorticoide sistêmico é estabelecida.
 
 A alopecia areata é uma doença autoimune mediada por células T, em que o folículo piloso perde o seu "privilégio imunológico" e sofre ataque imune. A imunossupressão glicocorticoide, que reduz a ativação de células T e de citocinas pró-inflamatórias, atua diretamente sobre essa patologia. Um estudo sugere ainda que os pulsos orais de corticoide alteram os níveis séricos e teciduais de TNF-α, o que apoia o mecanismo.
 
@@ -164,12 +164,13 @@ Há um ensaio randomizado controlado por placebo, uma meta-análise em rede e re
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Foram encontrados 20 registros válidos; os cinco principais:” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Confirmar a situação regulatória: o medicamento está comercializado no Brasil, com 20 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Orapred Odt (prednisolone sodium phosphate) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e379543-c4cf-4e72-953b-db15b7f0c2a1) |
 
 <!-- review:end log -->
 

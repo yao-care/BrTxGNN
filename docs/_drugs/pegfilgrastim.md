@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **retinopatia diabética não pro
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, o pegfilgrastim é um G-CSF de ação prolongada que estimula a produção de neutrófilos e mobiliza progenitores hematopoéticos. Sua indicação original não consta nos dados compilados.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Pegfilgrastim (tradução não oficial): “Os produtos de pegfilgrastim são fator estimulador de colônias que atua sobre células hematopoéticas por meio da ligação a receptores específicos da superfície celular, estimulando assim a proliferação, a diferenciação, o comprometimento e a ativação funcional das células finais.” Texto original em inglês: "Pegfilgrastim products are colony-stimulating factor that acts on hematopoietic cells by binding to specific cell surface receptors, thereby stimulating proliferation, differentiation, commitment, and end cell functional activation." ([DailyMed: Armlupeg (pegfilgrastim-unne) prescribing information, Lupin Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c48fe1a7-63d7-4dce-bb53-a913cb0ade83), versão de 2026-10-29; acessado em 2026-11-19). Segundo informações conhecidas, o pegfilgrastim é um G-CSF de ação prolongada que estimula a produção de neutrófilos e mobiliza progenitores hematopoéticos. Sua indicação original não consta nos dados compilados.
 
 Uma hipótese especulativa é que a mobilização de células progenitoras poderia influenciar o reparo vascular da retina. Por outro lado, a inflamação induzida pelo G-CSF poderia igualmente piorar a patologia retiniana. Não há vínculo mecanístico estabelecido nos dados disponíveis.
 
@@ -95,11 +95,12 @@ Não há ensaios clínicos nem publicações que sustentem qualquer das indicaç
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “O fármaco também não possui registro comercializado no Brasil, e a” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Armlupeg (pegfilgrastim-unne) prescribing information, Lupin Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c48fe1a7-63d7-4dce-bb53-a913cb0ade83) |
 
 <!-- review:end log -->
 

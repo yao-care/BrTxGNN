@@ -56,7 +56,7 @@ O modelo TxGNN prevê que pode ser eficaz para **hipermobilidade do cóccix (hyp
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Sabe-se que o adalimumabe é um inibidor de TNF-alfa, uma classe usada em doenças inflamatórias crônicas, inclusive doenças inflamatórias que acometem a coluna.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Adalimumabe (tradução não oficial): “Os produtos de adalimumabe ligam-se especificamente ao TNF-alfa e bloqueiam sua interação com os receptores de TNF p55 e p75 da superfície celular. Os produtos de adalimumabe também lisam in vitro células que expressam TNF de superfície na presença de complemento.” Texto original em inglês: "Adalimumab products bind specifically to TNF-alpha and block its interaction with the p55 and p75 cell surface TNF receptors. Adalimumab products also lyse surface TNF expressing cells in vitro in the presence of complement." ([DailyMed: Simlandi (adalimumab-ryvk) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=12f609c9-2088-bb05-e063-6394a90a9ecc), versão de 2026-11-11; acessado em 2026-11-19). Sabe-se que o adalimumabe é um inibidor de TNF-alfa, uma classe usada em doenças inflamatórias crônicas, inclusive doenças inflamatórias que acometem a coluna.
 
 A hipermobilidade do cóccix é, em essência, uma condição mecânica ou estrutural, embora possa haver alguma contribuição inflamatória na articulação sacrococcígea. A ligação com a inibição de TNF-alfa é, portanto, especulativa. A pontuação alta provavelmente reflete a proximidade do fármaco com condições musculoesqueléticas e espondiloartrites no modelo, e não um mecanismo validado.
 
@@ -99,6 +99,19 @@ Os dados compilados não trazem advertências, contraindicações nem interaçõ
 - Dados de mecanismo de ação e de segurança extraídos da bula da ANVISA.
 - Revisão da literatura sobre o papel da inflamação na articulação sacrococcígea e na hipermobilidade do cóccix.
 - Estudos pré-clínicos ou observacionais que sustentem a hipótese antes de qualquer ensaio clínico.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Simlandi (adalimumab-ryvk) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=12f609c9-2088-bb05-e063-6394a90a9ecc) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

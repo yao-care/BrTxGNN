@@ -62,7 +62,7 @@ atualmente com **3 ensaios clínicos** e **17 publicações** apoiando esta dire
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, o secnidazol é um 5-nitroimidazol, da mesma classe do metronidazol e do tinidazol. Sua forma reduzida danifica o DNA de bactérias anaeróbias e protozoários. Tem meia-vida longa (cerca de 17 horas, contra cerca de 8 horas do metronidazol), o que permite tratamento em dose única.
+Segundo as seções “Mechanism of Action” e “Microbiology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Secnidazole (tradução não oficial): “SOLOSEC é um fármaco antimicrobiano nitroimidazólico. […] O secnidazol, assim como outros 5-nitroimidazóis, penetra nas células bacterianas e de Trichomonas, onde o grupo nitro é reduzido pela(s) enzima(s) nitrorredutase(s), levando à produção de ânions radicais e de uma série de intermediários, depleção de tióis, dano ao DNA e morte de isolados suscetíveis de bactérias Gram-positivas, bactérias Gram-negativas e T. vaginalis.” Texto original em inglês: "SOLOSEC is a nitroimidazole antimicrobial drug. […] Secnidazole, like other 5-nitroimidazoles, enters the bacterial and Trichomonas cells where the nitro group is reduced by nitroreductase enzyme(s) leading to the production of radical anions and a series of intermediates, depletion of thiols, DNA damage, and death of susceptible isolates of Gram positive bacteria, Gram negative bacteria and T. vaginalis." ([DailyMed: Solosec (secnidazole) prescribing information, Evofem Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=056485b6-8bba-4a21-ae00-cdb4e7ae4bfa), versão de 2026-10-30; acessado em 2026-11-19). Segundo informações conhecidas, o secnidazol é um 5-nitroimidazol, da mesma classe do metronidazol e do tinidazol. Sua forma reduzida danifica o DNA de bactérias anaeróbias e protozoários. Tem meia-vida longa (cerca de 17 horas, contra cerca de 8 horas do metronidazol), o que permite tratamento em dose única.
 
 Corrimento vaginal é um sintoma, causado na maioria das vezes por vaginose bacteriana ou tricomoníase. Ambas são sensíveis aos 5-nitroimidazóis. Por isso, a previsão se sobrepõe em grande parte à indicação original (tricomonicida) e é mais uma extensão de indicação do que um reposicionamento novo.
 
@@ -193,13 +193,14 @@ Para advertências e contraindicações, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Há 20 registros válidos de secnidazol nos dados compilados, e o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “e o medicamento está comercializado no Brasil, com 20 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “já que não há registro válido” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Solosec (secnidazole) prescribing information, Evofem Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=056485b6-8bba-4a21-ae00-cdb4e7ae4bfa) |
 
 <!-- review:end log -->
 

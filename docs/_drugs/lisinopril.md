@@ -56,7 +56,7 @@ atualmente com **0 ensaios clínicos** e **0 publicações** apoiando esta dire�
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Pela classe farmacológica, o lisinopril inibe a ECA, reduzindo a formação de angiotensina II, com menor vasoconstrição e menor remodelamento vascular.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Lisinopril (tradução não oficial): “O lisinopril inibe a enzima conversora de angiotensina (ECA) em seres humanos e em animais. A ECA é uma peptidil dipeptidase que catalisa a conversão da angiotensina I na substância vasoconstritora angiotensina II. A angiotensina II também estimula a secreção de aldosterona pelo córtex adrenal.” Texto original em inglês: "Lisinopril inhibits angiotensin-converting enzyme (ACE) in human subjects and animals. ACE is a peptidyl dipeptidase that catalyzes the conversion of angiotensin I to the vasoconstrictor substance, angiotensin II. Angiotensin II also stimulates aldosterone secretion by the adrenal cortex." ([DailyMed: Qbrelis (lisinopril) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f6e4e57-a489-4b36-b093-b93865d3717c), versão de 2025-12-16; acessado em 2026-11-19). Pela classe farmacológica, o lisinopril inibe a ECA, reduzindo a formação de angiotensina II, com menor vasoconstrição e menor remodelamento vascular.
 
 Esse mecanismo é plausível para doenças da circulação pulmonar, nas quais o sistema renina-angiotensina pode participar do tônus e do remodelamento dos vasos. Entretanto, a hipertensão pulmonar desta previsão tem etiologia heterogênea e mal definida, o que torna o vínculo mecanístico pouco específico.
 
@@ -129,6 +129,19 @@ Para advertências e contraindicações formais, consulte a bula, pois não cons
 - Revisão sistemática da literatura clínica sobre inibidores da ECA em hipertensão pulmonar, com definição clara do subtipo da doença.
 - Texto da bula brasileira (advertências e contraindicações) para a triagem de segurança.
 - Estudos pré-clínicos ou piloto que avaliem diretamente o lisinopril nesta condição.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Qbrelis (lisinopril) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f6e4e57-a489-4b36-b093-b93865d3717c) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

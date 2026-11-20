@@ -56,7 +56,7 @@ atualmente com **0 ensaios clínicos** e **3 publicações** (uma revisão, um e
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo conhecimento geral da classe, a rivastigmina inibe a acetilcolinesterase e a butirilcolinesterase, impedindo a degradação da acetilcolina e reforçando a sinalização colinérgica. Esta descrição do mecanismo é inferida a partir da classe do fármaco, e não de um campo de dados confirmado.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Rivastigmine (tradução não oficial): “Embora o mecanismo de ação preciso da rivastigmina seja desconhecido, acredita-se que ela exerça seu efeito terapêutico ao potencializar a função colinérgica. Isso é obtido pelo aumento da concentração de acetilcolina por meio da inibição reversível de sua hidrólise pela colinesterase.” Texto original em inglês: "Although the precise mechanism of action of rivastigmine is unknown, it is thought to exert its therapeutic effect by enhancing cholinergic function. This is accomplished by increasing the concentration of acetylcholine through reversible inhibition of its hydrolysis by cholinesterase." ([DailyMed: rivastigmine tartrate prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=52781229-ee82-43f9-a113-4419a611978d), versão de 2025-11-11; acessado em 2026-11-19). Segundo conhecimento geral da classe, a rivastigmina inibe a acetilcolinesterase e a butirilcolinesterase, impedindo a degradação da acetilcolina e reforçando a sinalização colinérgica. Esta descrição do mecanismo é inferida a partir da classe do fármaco, e não de um campo de dados confirmado.
 
 No olho, o reforço colinérgico pode promover a contração do músculo ciliar e atuar sobre a malha trabecular, aumentando o escoamento do humor aquoso e reduzindo a pressão intraocular (PIO), principal fator de risco modificável do glaucoma. Esse raciocínio é coerente com o de agentes colinérgicos/mióticos já estabelecidos, como a pilocarpina e a fisostigmina.
 
@@ -156,12 +156,13 @@ A evidência se limita a um estudo pré-clínico em coelhos, uma análise comput
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-10-31 | Removido: “diante da situação "apenas cancelados"” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Registros válidos: “todos os 17” → 19 de 42 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: rivastigmine tartrate prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=52781229-ee82-43f9-a113-4419a611978d) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ Não há **nenhum ensaio clínico** e há apenas **1 publicação** associada, u
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. A valsartana pertence à classe dos bloqueadores do receptor de angiotensina II, que atuam sobre o sistema renina-angiotensina.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Valsartan (tradução não oficial): “A angiotensina II é formada a partir da angiotensina I em uma reação catalisada pela enzima conversora de angiotensina (ECA, cininase II). A angiotensina II é o principal agente pressor do sistema renina-angiotensina, com efeitos que incluem vasoconstrição, estimulação da síntese e liberação de aldosterona, estimulação cardíaca e reabsorção renal de sódio. […] Diovan (valsartana) bloqueia os efeitos vasoconstritores e secretores de aldosterona da angiotensina II ao bloquear seletivamente a ligação da angiotensina II ao receptor AT 1 em muitos tecidos, como o músculo liso vascular e a glândula adrenal.” Texto original em inglês: "Angiotensin II is formed from angiotensin I in a reaction catalyzed by angiotensin-converting enzyme (ACE, kininase II). Angiotensin II is the principal pressor agent of the renin-angiotensin system, with effects that include vasoconstriction, stimulation of synthesis and release of aldosterone, cardiac stimulation, and renal reabsorption of sodium. […] Diovan (valsartan) blocks the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT 1 receptor in many tissues, such as vascular smooth muscle and the adrenal gland." ([DailyMed: Diovan (valsartan) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5ddba454-f3e6-43c2-a7a6-58365d297213), versão de 2026-08-11; acessado em 2026-11-19). A valsartana pertence à classe dos bloqueadores do receptor de angiotensina II, que atuam sobre o sistema renina-angiotensina.
 
 Esse sistema participa do controle da pressão arterial e da hemodinâmica renal. É plausível que seu bloqueio proteja o rim em quadros de pressão muito elevada, e esse é o raciocínio por trás da previsão do modelo.
 
@@ -96,6 +96,18 @@ Para advertências e contraindicações, consulte a bula.
 - Dados detalhados do mecanismo de ação.
 - Revisão das advertências e contraindicações da bula aprovada pela ANVISA, ainda não disponíveis nos dados compilados.
 - Avaliação de segurança renal, em particular do risco de hiperpotassemia e de alterações da função renal, em pacientes com lesão renal grave.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Diovan (valsartan) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5ddba454-f3e6-43c2-a7a6-58365d297213) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

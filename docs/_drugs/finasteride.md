@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Hipertricose universal congêni
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a finasterida inibe a 5-alfa-redutase tipo II, reduzindo a di-hidrotestosterona (DHT) em tecidos sensíveis a andrógenos, como o folículo piloso.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Finasteride (tradução não oficial): “O desenvolvimento e o aumento da glândula prostática dependem do potente andrógeno 5α-di-hidrotestosterona (DHT). A 5α-redutase tipo II metaboliza a testosterona em DHT na glândula prostática, no fígado e na pele. […] A finasterida é um inibidor competitivo e específico da 5α-redutase tipo II, com a qual forma lentamente um complexo enzimático estável.” Texto original em inglês: "The development and enlargement of the prostate gland is dependent on the potent androgen, 5α-dihydrotestosterone (DHT). Type II 5α-reductase metabolizes testosterone to DHT in the prostate gland, liver and skin. […] Finasteride is a competitive and specific inhibitor of Type II 5α-reductase with which it slowly forms a stable enzyme complex." ([DailyMed: Proscar (finasteride) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6f988153-fc74-4ca4-b29a-111f750c4a4b), versão de 2026-03-18; acessado em 2026-11-19). Segundo informações conhecidas, a finasterida inibe a 5-alfa-redutase tipo II, reduzindo a di-hidrotestosterona (DHT) em tecidos sensíveis a andrógenos, como o folículo piloso.
 
 A relação com a nova indicação é fraca. A síndrome de Ambras é uma hipertricose congênita associada a rearranjos genômicos que afetam a regulação do gene *TRPS1* e não é primariamente dependente de andrógenos. A pontuação alta do TxGNN é uma previsão baseada em rede, sem respaldo biológico direto para um mecanismo mediado por DHT.
 
@@ -159,12 +159,13 @@ Consulte a bula para as advertências e contraindicações oficiais, que não es
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “s 20 registros brasileiros estão cancelados, e o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “já que o medicamento está comercializado com 20 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Proscar (finasteride) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6f988153-fc74-4ca4-b29a-111f750c4a4b) |
 
 <!-- review:end log -->
 

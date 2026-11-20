@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **doença trombótica (thrombotic
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada. Segundo informações conhecidas, a teofilina é um inibidor não seletivo de fosfodiesterases e antagonista de receptores de adenosina. Sua eficácia como broncodilatador está registrada na licença brasileira.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Theophylline (tradução não oficial): “A teofilina tem duas ações distintas nas vias aéreas de pacientes com obstrução reversível: relaxamento do músculo liso (ou seja, broncodilatação) e supressão da resposta das vias aéreas a estímulos (ou seja, efeitos profiláticos não broncodilatadores).” Texto original em inglês: "Theophylline has two distinct actions in the airways of patients with reversible obstruction: smooth muscle relaxation (i.e., bronchodilation) and suppression of the response of the airways to stimuli (i.e., non-bronchodilator prophylactic effects)." ([DailyMed: Theo-24 (theophylline anhydrous) prescribing information, ENDO USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7a108fa0-c230-475f-be93-6f864b98a410), versão de 2024-07-08; acessado em 2026-11-19). Segundo informações conhecidas, a teofilina é um inibidor não seletivo de fosfodiesterases e antagonista de receptores de adenosina. Sua eficácia como broncodilatador está registrada na licença brasileira.
 
 Em teoria, a inibição de fosfodiesterases eleva o AMPc plaquetário, o que poderia reduzir a agregação plaquetária. Por outro lado, o antagonismo da adenosina atua contra o efeito antiplaquetário da própria adenosina. Os dois efeitos se opõem, e o benefício líquido é incerto.
 
@@ -113,6 +113,19 @@ Outras previsões do TxGNN para a teofilina foram avaliadas, e todas estão em *
 - **Doença traqueal (tracheal disease, 0.9949):** há relaxamento traqueal in vitro, revisões sobre metilxantinas na extubação de prematuros e um estudo veterinário retrospectivo em cães. Não há estudos em humanos com doença traqueal. Nível L5.
 - **Pharyngitis (0.9946):** sem mecanismo plausível; a literatura trata de antibióticos macrolídeos. Nível L5.
 - **Laringotraqueíte (0.9951) e laringofaringite aguda (0.9935):** sem ensaios nem literatura. Nível L5.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Theo-24 (theophylline anhydrous) prescribing information, ENDO USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7a108fa0-c230-475f-be93-6f864b98a410) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

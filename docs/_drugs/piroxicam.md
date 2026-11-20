@@ -57,7 +57,7 @@ Entre as indicações previstas pelo modelo TxGNN, a que tem maior sustentação
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o piroxicam é um inibidor não seletivo da ciclo-oxigenase (COX), com efeito anti-inflamatório e analgésico, e sua utilidade em artrite reumatoide e osteoartrite é reconhecida.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Piroxicam (tradução não oficial): “O piroxicam tem propriedades analgésicas, anti-inflamatórias e antipiréticas. O mecanismo de ação do Piroxicam Cápsulas, assim como o de outros AINEs, não é completamente compreendido, mas envolve a inibição da ciclo-oxigenase (COX-1 e COX-2).” Texto original em inglês: "Piroxicam has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of Piroxicam Capsules, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)." ([DailyMed: piroxicam prescribing information, Sportpharm LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41425352-2a59-43ef-bccc-f8cc69e72be4), versão de 2026-09-29; acessado em 2026-11-19). Segundo informações conhecidas, o piroxicam é um inibidor não seletivo da ciclo-oxigenase (COX), com efeito anti-inflamatório e analgésico, e sua utilidade em artrite reumatoide e osteoartrite é reconhecida.
 
 A artrite idiopática juvenil é uma doença inflamatória articular muito próxima da artrite reumatoide, indicação original do fármaco. A inibição da COX é compatível com o controle sintomático da inflamação articular, o que sustenta a previsão. Trata-se, porém, de controle de sintomas, e não de modificação da doença.
 
@@ -90,7 +90,6 @@ Outras revisões (nabumetona, oxaprozina, pirprofeno e sistemas de liberação d
 
 ## Informações de Comercialização no Brasil
 
-
 ## Considerações de Segurança
 
 - **Contraindicações (grafo de conhecimento, não texto de bula):** hipertensão, doença renal, doença hepática (incluindo insuficiência hepática aguda, hepatite e lesão hepática induzida por fármacos), doença da vesícula biliar, insuficiência cardíaca congestiva, doenças cardiovasculares (infarto do miocárdio, trombose coronariana, AVC, infarto cerebral, doença cerebrovascular), distúrbios da coagulação, doença trombótica, úlcera péptica ativa, anemias e hemoglobinopatias, abuso/dependência de substâncias e distúrbios visuais.
@@ -115,6 +114,19 @@ As advertências e contraindicações da bula da ANVISA não estão disponíveis
 - Avaliar nas meta-análises de 2021 e 2024 o desempenho específico do piroxicam frente a outros AINEs na artrite idiopática juvenil.
 - Elaborar um plano de segurança pediátrica (trato gastrointestinal, função renal e hepática).
 - Descartar as previsões sem vínculo biológico (displasias e síndromes genéticas) ou revisá-las apenas com novas evidências.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: piroxicam prescribing information, Sportpharm LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41425352-2a59-43ef-bccc-f8cc69e72be4) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

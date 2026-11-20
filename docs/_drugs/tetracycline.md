@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e apenas **1 publicação** (um relat
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, a tetraciclina faz parte da classe das tetraciclinas, sua eficácia em infecções bacterianas (incluindo as oculares) está estabelecida, e mecanisticamente pode ser aplicável à nova indicação.
+Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Tetracycline é (tradução não oficial): “Inibidor do ribossomo bacteriano 70S” Texto original em inglês: "Bacterial 70S ribosome inhibitor" ([ChEMBL CHEMBL1440 (tetracycline): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1440), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações conhecidas, a tetraciclina faz parte da classe das tetraciclinas, sua eficácia em infecções bacterianas (incluindo as oculares) está estabelecida, e mecanisticamente pode ser aplicável à nova indicação.
 
 A tetraciclina é um tratamento reconhecido para a conjuntivite por clamídia (tracoma e conjuntivite de inclusão). Além do efeito antibacteriano, as tetraciclinas têm ação anti-inflamatória e inibem metaloproteinases de matriz (MMPs) na superfície ocular, o que poderia ser relevante em lesões epiteliais da córnea.
 
@@ -151,12 +151,13 @@ A previsão tem pontuação alta no TxGNN (0,9958), mas o único suporte é um r
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, não há registro válido da tetraciclina no Brasil (todos cancelados), e os dados de segurança da bula estão ausentes” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “dado que não há registro vigente no país” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [ChEMBL CHEMBL1440 (tetracycline): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1440) |
 
 <!-- review:end log -->
 

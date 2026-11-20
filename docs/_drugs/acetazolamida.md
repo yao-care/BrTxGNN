@@ -56,7 +56,7 @@ O modelo TxGNN prevê que pode ser eficaz para **hipertermia maligna induzida po
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Sabe-se, de forma geral, que a acetazolamida inibe a anidrase carbônica, o que altera o equilíbrio ácido-base e iônico dos tecidos.
+Segundo a seção “Clinical Pharmacology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Acetazolamida (tradução não oficial): “A acetazolamida é um potente inibidor da anidrase carbônica, eficaz no controle da secreção de líquidos (p. ex., alguns tipos de glaucoma), no tratamento de certos distúrbios convulsivos (p. ex., epilepsia) e na promoção da diurese em casos de retenção anormal de líquidos (p. ex., edema cardíaco). A acetazolamida não é um diurético mercurial.” Texto original em inglês: "Acetazolamide is a potent carbonic anhydrase inhibitor, effective in the control of fluid secretion (e.g., some types of glaucoma), in the treatment of certain convulsive disorders (e.g., epilepsy), and in the promotion of diuresis in instances of abnormal fluid retention (e.g., cardiac edema). Acetazolamide is not a mercurial diuretic." ([DailyMed: acetazolamide prescribing information, Chartwell RX, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e8e48a25-5f6c-4b5a-a5f2-ee87aabea33b), versão de 2026-11-10; acessado em 2026-11-19). Sabe-se, de forma geral, que a acetazolamida inibe a anidrase carbônica, o que altera o equilíbrio ácido-base e iônico dos tecidos.
 
 Uma ligação plausível, porém não verificada, é que o fármaco module o equilíbrio iônico e ácido-base no músculo esquelético, como ocorre em paralisias periódicas. Já a hipertermia maligna é impulsionada pela liberação desregulada de cálcio pelo receptor RyR1, e nenhum dado sustenta um papel da acetazolamida nesse mecanismo.
 
@@ -101,11 +101,12 @@ Consulte a bula para informações de segurança.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Embora o sistema confirme **5 registros ativos** na ANVISA, todos os campos de detalhe (número de registro, nome comercial, forma farmacêuti” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: acetazolamide prescribing information, Chartwell RX, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e8e48a25-5f6c-4b5a-a5f2-ee87aabea33b) |
 
 <!-- review:end log -->
 

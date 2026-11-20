@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, o acetato de zinco é um sal de zinco usado para reposição do mineral e ajuste eletrolítico. Sua eficácia como fonte de zinco é conhecida, e mecanisticamente poderia ser aplicável à nova indicação, mas isso é hipotético.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Zinc Acetate (tradução não oficial): “O zinco é um oligoelemento essencial. O zinco atua como cofator de várias enzimas, incluindo DNA polimerases, RNA polimerases, álcool desidrogenase e fosfatases alcalinas. O zinco é um coordenador do dobramento estrutural de proteínas, como o dobramento do motivo “dedo de zinco”, que interage com uma variedade de proteínas, lipídios e ácidos nucleicos.” Texto original em inglês: "Zinc is an essential trace element. Zinc functions as a cofactor of various enzymes including DNA polymerases, RNA polymerases, alcohol dehydrogenase, and alkaline phosphatases. Zinc is a coordinator of protein structural folding, such as folding of “Zinc finger” motif that interacts with a variety of proteins, lipids, and nucleic acids." ([DailyMed: zinc sulfate prescribing information, Camber Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49698d00-f44b-4b1f-ae34-6b9067911757), versão de 2026-03-04; acessado em 2026-11-19). Segundo informações conhecidas, o acetato de zinco é um sal de zinco usado para reposição do mineral e ajuste eletrolítico. Sua eficácia como fonte de zinco é conhecida, e mecanisticamente poderia ser aplicável à nova indicação, mas isso é hipotético.
 
 O zinco atua como cofator antioxidante (por exemplo, da superóxido dismutase) e poderia, em tese, modular o estresse oxidativo na retina diabética. Não há, porém, nenhum ensaio ou publicação nos dados compilados para este relatório que sustente essa hipótese. A pontuação elevada do TxGNN é apenas uma previsão computacional.
 
@@ -139,12 +139,13 @@ As advertências principais e as contraindicações de bula não estavam dispon�
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “O único registro brasileiro está cancelado, e f” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Tabela: registro 164000011 (ACETATO DE ZINCO 0,5 MEQ/ML) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: zinc sulfate prescribing information, Camber Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49698d00-f44b-4b1f-ae34-6b9067911757) |
 
 <!-- review:end log -->
 

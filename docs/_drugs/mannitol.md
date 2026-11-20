@@ -56,7 +56,7 @@ mas hoje há **0 ensaios clínicos** e apenas **1 publicação** (uma revisão g
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o manitol é um diurético osmótico: ele é filtrado pelos rins e não é reabsorvido, arrastando água para a urina. Por isso, existe um vínculo teórico com a excreção de água.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Mannitol (tradução não oficial): “O manitol, quando administrado por via intravenosa, exerce seu efeito diurético osmótico como um soluto de tamanho molecular relativamente pequeno, ficando em grande parte confinado ao espaço extracelular. O manitol dificulta a reabsorção tubular de água e aumenta a excreção de sódio e cloreto ao elevar a osmolaridade do filtrado glomerular.” Texto original em inglês: "Mannitol, when administered intravenously, exerts its osmotic diuretic effect as a solute of relatively small molecular size being largely confined to the extracellular space. Mannitol hinders tubular reabsorption of water and enhances excretion of sodium and chloride by elevating the osmolarity of the glomerular filtrate." ([DailyMed: Osmitrol (mannitol) prescribing information, Baxter Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d914965-7001-45cb-ba51-d7c5964b05bc), versão de 2025-08-26; acessado em 2026-11-19). Segundo informações conhecidas, o manitol é um diurético osmótico: ele é filtrado pelos rins e não é reabsorvido, arrastando água para a urina. Por isso, existe um vínculo teórico com a excreção de água.
 
 A NSIAD, porém, é causada por mutação de ganho de função no receptor V2 da vasopressina (AVPR2), que mantém os rins retendo água de forma inadequada, com hiponatremia. A diurese osmótica não é um tratamento estabelecido para essa causa. Além disso, o manitol pode piorar a hiponatremia por deslocamentos osmóticos de água.
 
@@ -155,13 +155,14 @@ A previsão se baseia apenas na pontuação do modelo (nível L5): não há ensa
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-10-31 | Removido: “(registros cancelados)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Há 20 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Além disso, o medicamento é comercializado no Brasil, com 20 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Osmitrol (mannitol) prescribing information, Baxter Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d914965-7001-45cb-ba51-d7c5964b05bc) |
 
 <!-- review:end log -->
 

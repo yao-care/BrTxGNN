@@ -56,7 +56,7 @@ com **nenhum ensaio clínico** registrado e **20 publicações** na direção de
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo a literatura, o danazol suprime o eixo hipófise-ovário, reduzindo a liberação de LH e FSH, diminui a esteroidogênese ovariana e induz atrofia endometrial. Também se liga a proteínas de transporte de esteroides e a receptores em tecidos-alvo.
+Segundo a seção “Clinical Pharmacology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Danazol (tradução não oficial): “O danazol suprime o eixo hipófise-ovário.” Texto original em inglês: "Danazol suppresses the pituitary-ovarian axis." ([DailyMed: danazol prescribing information, Chartwell RX, LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=55ad6325-16f6-4f0c-a1dc-734847052d0b), versão de 2024-10-10; acessado em 2026-11-19). Segundo a literatura, o danazol suprime o eixo hipófise-ovário, reduzindo a liberação de LH e FSH, diminui a esteroidogênese ovariana e induz atrofia endometrial. Também se liga a proteínas de transporte de esteroides e a receptores em tecidos-alvo.
 
 A amenorreia é um efeito farmacológico bem descrito do danazol quando usado em doenças dependentes de estrogênio. Por isso, o vínculo mecanístico é direto. Vale ressalvar que a amenorreia é, aqui, mais um efeito esperado do medicamento do que uma doença-alvo no sentido convencional: o objetivo seria a supressão menstrual, não a correção de uma disfunção.
 
@@ -119,11 +119,12 @@ Consulte a bula para as advertências e contraindicações oficiais.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Os detalhes individuais dos registros (número, nome comercial e forma farmacêutica) não estão disponíveis nos dados compilados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: danazol prescribing information, Chartwell RX, LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=55ad6325-16f6-4f0c-a1dc-734847052d0b) |
 
 <!-- review:end log -->
 

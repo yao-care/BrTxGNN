@@ -60,7 +60,7 @@ mas atualmente há **0 ensaios clínicos** e **18 publicações** associadas, ne
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a carbamazepina é um anticonvulsivante que atua bloqueando canais de sódio dependentes de voltagem, e é tratamento de primeira linha para neuralgia do trigêmeo e para crises focais.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Carbamazepine (tradução não oficial): “Tegretol demonstrou propriedades anticonvulsivantes em ratos e camundongos com convulsões induzidas elétrica e quimicamente. Parece agir reduzindo as respostas polissinápticas e bloqueando a potenciação pós-tetânica. […] O principal metabólito de Tegretol, a carbamazepina-10,11-epóxido, tem atividade anticonvulsivante, conforme demonstrado em vários modelos animais in vivo de convulsões.” Texto original em inglês: "Tegretol has demonstrated anticonvulsant properties in rats and mice with electrically and chemically induced seizures. It appears to act by reducing polysynaptic responses and blocking the post-tetanic potentiation. […] The principal metabolite of Tegretol, carbamazepine-10,11-epoxide, has anticonvulsant activity as demonstrated in several in vivo animal models of seizures." ([DailyMed: Tegretol (carbamazepine) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d409411-aa9f-4f3a-a52c-fbcb0c3ec053), versão de 2026-08-20; acessado em 2026-11-19). Segundo informações conhecidas, a carbamazepina é um anticonvulsivante que atua bloqueando canais de sódio dependentes de voltagem, e é tratamento de primeira linha para neuralgia do trigêmeo e para crises focais.
 
 A relação entre a indicação original e a nova indicação é indireta. A literatura recuperada mostra a carbamazepina sendo usada para a dor neurálgica secundária a tumores ou lesões do nervo trigêmeo (schwannoma, meningioma, lipoma, cisto dermoide, linfoma). Trata-se de **alívio sintomático da dor associada ao tumor, e não de efeito antineoplásico**. A pontuação elevada do TxGNN provavelmente reflete a associação com a neuralgia do trigêmeo, e não atividade contra a neoplasia em si.
 
@@ -190,13 +190,14 @@ Além da neoplasia do nervo trigêmeo, o modelo prevê outras indicações. Quas
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Todos os 18 registros estão válidos (18 de 18)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Além disso, os 18 registros brasileiros estão válidos (18 de 18) e há dados de segurança relevantes, como risco hematológico, hepático e car” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “já que não há registro válido no mercado brasileiro” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Tegretol (carbamazepine) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d409411-aa9f-4f3a-a52c-fbcb0c3ec053) |
 
 <!-- review:end log -->
 

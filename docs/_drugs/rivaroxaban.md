@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Artrite Reumatoide (Rheumatoid 
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, a rivaroxabana é um inibidor do fator Xa da coagulação, usado como anticoagulante oral na prevenção e no tratamento de eventos tromboembólicos.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Rivaroxaban (tradução não oficial): “XARELTO é um inibidor seletivo do FXa. Ele não requer um cofator (como a antitrombina III) para sua atividade. A rivaroxabana inibe o FXa livre e a atividade da protrombinase. A rivaroxabana não tem efeito direto sobre a agregação plaquetária, mas inibe indiretamente a agregação plaquetária induzida pela trombina.” Texto original em inglês: "XARELTO is a selective inhibitor of FXa. It does not require a cofactor (such as Anti-thrombin III) for activity. Rivaroxaban inhibits free FXa and prothrombinase activity. Rivaroxaban has no direct effect on platelet aggregation, but indirectly inhibits platelet aggregation induced by thrombin." ([DailyMed: Xarelto (rivaroxaban) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10db92f9-2300-4a80-836b-673e1ae91610), versão de 2026-09-10; acessado em 2026-11-19). Segundo informações conhecidas, a rivaroxabana é um inibidor do fator Xa da coagulação, usado como anticoagulante oral na prevenção e no tratamento de eventos tromboembólicos.
 
 A relação com a artrite reumatoide é, no máximo, indireta. Uma hipótese plausível é a ativação da coagulação e da via da trombina na inflamação crônica, e a literatura recuperada discute a geração de trombina em doenças autoimunes. Essa ligação é especulativa e **não sustenta um efeito modificador da doença**. A pontuação alta do modelo (0,9957) não é acompanhada por evidência clínica ou mecanística.
 
@@ -101,11 +101,12 @@ A previsão é apenas do modelo (L5): não há ensaios clínicos e a literatura 
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, o fármaco não tem registro vigente no Brasil nos dados compilados, e a segurança em artrite reumatoide (risco de sangramento, in” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Xarelto (rivaroxaban) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10db92f9-2300-4a80-836b-673e1ae91610) |
 
 <!-- review:end log -->
 

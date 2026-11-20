@@ -55,7 +55,7 @@ O modelo TxGNN (deep learning) prevê que pode ser eficaz para **Hipertireoidism
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo conhecimento farmacológico geral, o ácido bempedoico inibe a enzima ATP-citrato liase (ACLY) no fígado, etapa anterior à HMG-CoA redutase, o que aumenta a expressão de receptores de LDL e reduz o LDL-colesterol.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Bempedoic Acid (tradução não oficial): “O ácido bempedoico é um inibidor da adenosina trifosfato-citrato liase (ACL) que reduz o LDL-C por meio da inibição da síntese de colesterol no fígado. A ACL é uma enzima situada a montante da 3-hidroxi-3-metil-glutaril-coenzima A (HMG-CoA) redutase na via de biossíntese do colesterol.” Texto original em inglês: "Bempedoic acid is an adenosine triphosphate-citrate lyase (ACL) inhibitor that lowers LDL-C by inhibition of cholesterol synthesis in the liver. ACL is an enzyme upstream of 3-hydroxy-3-methyl-glutaryl-coenzyme A (HMG-CoA) reductase in the cholesterol biosynthesis pathway." ([DailyMed: Nexletol (bempedoic acid) prescribing information, Esperion Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=88d06d89-a3da-40b4-b273-8f4f7d56c4c9), versão de 2026-06-25; acessado em 2026-11-19). Segundo conhecimento farmacológico geral, o ácido bempedoico inibe a enzima ATP-citrato liase (ACLY) no fígado, etapa anterior à HMG-CoA redutase, o que aumenta a expressão de receptores de LDL e reduz o LDL-colesterol.
 
 Não há vínculo mecanístico claro entre essa via e a síntese ou secreção de hormônios tireoidianos. A pontuação alta (0,9961) vem do modelo TxGNN (deep learning) e pode refletir similaridades aprendidas entre doenças relacionadas, não evidência biológica, sem ensaios ou literatura que a sustentem. Portanto, a previsão deve ser tratada com cautela e, por ora, como hipótese sem respaldo.
 
@@ -141,13 +141,14 @@ A previsão para hipertireoidismo baseia-se apenas na pontuação do modelo (ní
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-10-31 | Removido: “(registro cancelado)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Além disso, o único registro no Brasil está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Tabela: registro 104540195 (NUSTENDI) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Nexletol (bempedoic acid) prescribing information, Esperion Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=88d06d89-a3da-40b4-b273-8f4f7d56c4c9) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **hiperamilasemia (hyperamylasemi
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a claritromicina é um antibiótico macrolídeo, cuja eficácia contra infecções bacterianas é bem estabelecida.
+Segundo as seções “Mechanism of Action” e “Microbiology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Clarithromycin (tradução não oficial): “A claritromicina é um fármaco antimicrobiano macrolídeo. […] A claritromicina exerce sua ação antibacteriana ligando-se à subunidade ribossômica 50S de bactérias suscetíveis, resultando na inibição da síntese proteica.” Texto original em inglês: "Clarithromycin is a macrolide antimicrobial drug. […] Clarithromycin exerts its antibacterial action by binding to the 50S ribosomal subunit of susceptible bacteria resulting in inhibition of protein synthesis." ([DailyMed: clarithromycin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ba216276-b0bd-420a-9e0d-090bdfcc2460), versão de 2026-11-12; acessado em 2026-11-19). Segundo informações conhecidas, a claritromicina é um antibiótico macrolídeo, cuja eficácia contra infecções bacterianas é bem estabelecida.
 
 Não há relação mecanística plausível entre a claritromicina e a hiperamilasemia. A única publicação associada (PMID 15228140, 2004) é um relato de caso de infecção pulmonar por *Mycobacterium abscessus* acompanhada de macroamilasemia primária. Nesse caso, o antibiótico serve ao tratamento da infecção, e a coexistência com a elevação da amilase é incidental. O relato não mostra efeito do fármaco sobre os níveis de amilase.
 
@@ -131,6 +131,19 @@ Para advertências e contraindicações oficiais, consulte a bula.
 - Análise de segurança, com foco em prolongamento do intervalo QT e interações via CYP3A4.
 
 **Observação sobre outras previsões:** entre as demais indicações previstas, a ceratoconjuntivite epitelial punctata (PMID 38472959, estudo retrospectivo de 2024 em ceratoconjuntivite relacionada à meibomite) é a que tem base mais plausível, como questão de pesquisa. Síndrome de hiperviscosidade policlonal, analbuminemia congênita e incompatibilidade de grupo sanguíneo não têm evidências nem mecanismo plausível.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: clarithromycin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ba216276-b0bd-420a-9e0d-090bdfcc2460) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

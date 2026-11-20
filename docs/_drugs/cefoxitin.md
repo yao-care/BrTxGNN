@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **otite média infecciosa (infect
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação no conjunto de dados compilado. Segundo informações conhecidas, a cefoxitina é uma cefamicina beta-lactâmica que inibe a síntese da parede celular bacteriana, com atividade contra bactérias Gram-negativas e anaeróbias, incluindo o grupo *Bacteroides fragilis*.
+Segundo as seções “Mechanism of Action” e “Microbiology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Cefoxitin (tradução não oficial): “A cefoxitina é um fármaco antibacteriano. […] A cefoxitina é um agente bactericida que atua por inibição da síntese da parede celular bacteriana. A cefoxitina tem atividade na presença de algumas betalactamases, tanto penicilinases quanto cefalosporinases, de bactérias Gram-negativas e Gram-positivas.” Texto original em inglês: "Cefoxitin is an antibacterial drug. […] Cefoxitin is a bactericidal agent that acts by inhibition of bacterial cell wall synthesis. Cefoxitin has activity in the presence of some beta-lactamases, both penicillinases and cephalosporinases, of Gram-negative and Gram-positive bacteria." ([DailyMed: Cefoxitin And Dextrose (cefoxitin sodium) prescribing information, B. Braun Medical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6c7e9485-1ede-411c-8c46-911439332864), versão de 2019-07-29; acessado em 2026-11-19). Segundo informações conhecidas, a cefoxitina é uma cefamicina beta-lactâmica que inibe a síntese da parede celular bacteriana, com atividade contra bactérias Gram-negativas e anaeróbias, incluindo o grupo *Bacteroides fragilis*.
 
 A relação com a nova indicação é plausível no plano conceitual: a otite média é frequentemente de origem bacteriana, e um antibiótico de amplo espectro poderia, em tese, ser aplicável.
 
@@ -144,13 +144,14 @@ Consulte a bula para as advertências e contraindicações oficiais, que não es
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “O medicamento é comercializado no Brasil, com 4 registros válidos de 4” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “No Brasil, o medicamento é comercializado, com 4 registros válidos de 4” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “dado que não há registro vigente no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Cefoxitin And Dextrose (cefoxitin sodium) prescribing information, B. Braun Medical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6c7e9485-1ede-411c-8c46-911439332864) |
 
 <!-- review:end log -->
 

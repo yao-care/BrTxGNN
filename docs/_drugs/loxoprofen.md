@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados do mecanismo de ação na base compilada. Segundo informações conhecidas, o loxoprofeno é um pró-fármaco de AINE: seu metabólito ativo (o trans-álcool) inibe as enzimas COX-1 e COX-2, reduzindo a síntese de prostaglandinas, o que explica seu efeito anti-inflamatório e analgésico.
+Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Loxoprofen é (tradução não oficial): “Inibidor da ciclo-oxigenase” Texto original em inglês: "Cyclooxygenase inhibitor" ([ChEMBL CHEMBL19299 (loxoprofen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL19299), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações conhecidas, o loxoprofeno é um pró-fármaco de AINE: seu metabólito ativo (o trans-álcool) inibe as enzimas COX-1 e COX-2, reduzindo a síntese de prostaglandinas, o que explica seu efeito anti-inflamatório e analgésico.
 
 A nova indicação prevista é uma síndrome de desenvolvimento muito rara, sem patologia inflamatória ou mediada por prostaglandinas evidente que a inibição de COX possa plausivelmente tratar. Os dados disponíveis não sustentam nenhuma ligação mecanística entre o fármaco e a doença.
 
@@ -128,7 +128,7 @@ Não há ensaios clínicos nem literatura que sustentem a previsão (nível L5),
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
@@ -137,6 +137,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | 2026-11-12 | Tabela: registro 104540159 (LOXONIN) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Tabela: registro 104540188 (LOXONIN FLEX) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Tabela: registro 105730495 (OXOTRON) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [ChEMBL CHEMBL19299 (loxoprofen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL19299) |
 
 <!-- review:end log -->
 

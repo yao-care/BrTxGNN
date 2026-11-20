@@ -57,7 +57,7 @@ Atualmente há **0 ensaios clínicos** e **0 publicações** apoiando diretament
 
 ## Por que Esta Previsão é Razoável?
 
-Não há dados detalhados de mecanismo de ação compilados para este relatório. Pelo que se sabe da classe, o carfilzomibe inibe de forma irreversível a atividade tipo quimiotripsina do proteassoma 20S. Isso leva ao acúmulo de proteínas mal dobradas e reguladoras, estresse proteotóxico e apoptose.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Carfilzomibe (tradução não oficial): “O carfilzomibe é um inibidor do proteassoma do tipo tetrapeptídeo epoxicetona que se liga irreversivelmente aos sítios ativos contendo treonina N-terminal do proteassoma 20S, a partícula central proteolítica dentro do proteassoma 26S. O carfilzomibe apresentou atividades antiproliferativas e pró-apoptóticas in vitro em células de tumores sólidos e hematológicos.” Texto original em inglês: "Carfilzomib is a tetrapeptide epoxyketone proteasome inhibitor that irreversibly binds to the N-terminal threonine-containing active sites of the 20S proteasome, the proteolytic core particle within the 26S proteasome. Carfilzomib had antiproliferative and proapoptotic activities in vitro in solid and hematologic tumor cells." ([DailyMed: Kyprolis (carfilzomib) prescribing information, Onyx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ea66eb30-e665-4693-99a1-a9d3b4bbe2d6), versão de 2025-06-18; acessado em 2026-11-19). Pelo que se sabe da classe, o carfilzomibe inibe de forma irreversível a atividade tipo quimiotripsina do proteassoma 20S. Isso leva ao acúmulo de proteínas mal dobradas e reguladoras, estresse proteotóxico e apoptose.
 
 CMM7 parece ser um subtipo de melanoma maligno cutâneo familiar. Em princípio, células de melanoma poderiam ser sensíveis ao estresse proteotóxico, o que daria uma base mecanística plausível. Porém, não há ensaios clínicos nem publicações sobre esta indicação específica.
 
@@ -109,6 +109,19 @@ A previsão para CMM7 baseia-se apenas no modelo, sem ensaios clínicos nem lite
 - Dados detalhados do mecanismo de ação e sua ligação com a biologia da doença
 - Informações de segurança da bula da ANVISA (advertências e contraindicações)
 - Avaliação da vantagem de carfilzomibe como monoterapia, já que inibidores de proteassoma tiveram eficácia limitada em tumores sólidos
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Kyprolis (carfilzomib) prescribing information, Onyx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ea66eb30-e665-4693-99a1-a9d3b4bbe2d6) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

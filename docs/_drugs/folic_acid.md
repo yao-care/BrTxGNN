@@ -59,7 +59,7 @@ O modelo TxGNN prevê que ele pode ser eficaz para a **doença metabólica da bi
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, o ácido fólico é uma vitamina do complexo B hidrossolúvel, atua como cofator no metabolismo de um carbono e sua eficácia na anemia por deficiência de folato (megaloblástica) é bem estabelecida.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Folic Acid (tradução não oficial): “O ácido fólico atua sobre a medula óssea megaloblástica para produzir uma medula normoblástica. No homem, é necessária uma fonte exógena de folato para a síntese de nucleoproteínas e a manutenção da eritropoiese normal. O ácido fólico é o precursor do ácido tetra-hidrofólico, que participa como cofator em reações de transformilação na biossíntese de purinas e timidilatos dos ácidos nucleicos.” Texto original em inglês: "Folic acid acts on megaloblastic bone marrow to produce a normoblastic marrow. In man, an exogenous source of folate is required for nucleoprotein synthesis and the maintenance of normal erythropoiesis. Folic acid is the precursor of tetrahydrofolic acid, which is involved as a cofactor for transformylation reactions in the biosynthesis of purines and thymidylates of nucleic acids." ([DailyMed: Quiofic (folic acid) prescribing information, Solubiomix, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b868b314-591d-458b-be82-2bcd0b73cce1), versão de 2026-10-05; acessado em 2026-11-19). Segundo informações conhecidas, o ácido fólico é uma vitamina do complexo B hidrossolúvel, atua como cofator no metabolismo de um carbono e sua eficácia na anemia por deficiência de folato (megaloblástica) é bem estabelecida.
 
 A ligação com a doença metabólica da biotina é frágil. Ácido fólico e biotina são vitaminas hidrossolúveis, e a literatura descreve sobreposição entre os distúrbios responsivos a vitaminas (cobalamina, folato, biotina). Porém, o ácido fólico não substitui a biotina nas carboxilases dependentes de biotina. Por isso, não há mecanismo direto para tratar doenças como a deficiência de biotinidase ou de holocarboxilase sintetase.
 
@@ -177,13 +177,14 @@ Consulte a bula para advertências e contraindicações oficiais, pois esses dad
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Há 20 registros válidos no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “O medicamento é comercializado no Brasil, com 20 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “pois não há registro válido no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Quiofic (folic acid) prescribing information, Solubiomix, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b868b314-591d-458b-be82-2bcd0b73cce1) |
 
 <!-- review:end log -->
 

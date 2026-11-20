@@ -59,7 +59,7 @@ O modelo TxGNN prevê que pode ser eficaz para **hipotricose simples do couro ca
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a iloprosta é um análogo da prostaciclina: ativa os receptores IP, eleva o AMPc, causa vasodilatação e inibe a agregação plaquetária e o remodelamento vascular. É esse o mecanismo que sustenta seu uso aprovado na hipertensão arterial pulmonar (HAP).
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Iloprost (tradução não oficial): “O iloprosta é um análogo sintético da prostaciclina PGI 2. O iloprosta é um vasodilatador e inibe a agregação plaquetária.” Texto original em inglês: "Iloprost is a synthetic analog of prostacyclin PGI 2. Iloprost is a vasodilator and inhibits platelet aggregation." ([DailyMed: Aurlumyn (iloprost) prescribing information, BTG International Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34036fc0-6832-d066-e063-6394a90a18a4), versão de 2026-08-13; acessado em 2026-11-19). Segundo informações conhecidas, a iloprosta é um análogo da prostaciclina: ativa os receptores IP, eleva o AMPc, causa vasodilatação e inibe a agregação plaquetária e o remodelamento vascular. É esse o mecanismo que sustenta seu uso aprovado na hipertensão arterial pulmonar (HAP).
 
 A relação com a nova indicação é frágil. A hipotricose simples é um distúrbio genético de perda de cabelo (por exemplo, variantes em CDSN, APCDD1 e RPL21). Um efeito vasodilatador na microcirculação do couro cabeludo é apenas especulativo. A pontuação alta do TxGNN é uma previsão computacional, sem respaldo clínico.
 
@@ -141,12 +141,13 @@ A HAP associada a cardiopatia congênita e a HAP associada a doença do tecido c
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “O único registro brasileiro da iloprosta (VENTAVIS) está cancelado, e os dados de bula (advertências e contraindicações) não estavam disponí” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “já que o único registro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Aurlumyn (iloprost) prescribing information, BTG International Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34036fc0-6832-d066-e063-6394a90a18a4) |
 
 <!-- review:end log -->
 

@@ -55,12 +55,11 @@ O modelo TxGNN prevê que pode ser eficaz para **bronquite (bronchitis)**, mas e
 | Número de Registros | pelo menos 20 |
 | Decisão Recomendada | Hold |
 
-
 ---
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada. Segundo informações conhecidas, a polimixina B é um agente bactericida contra bactérias Gram-negativas: liga-se ao lipídeo A do lipopolissacarídeo (LPS) e rompe a membrana externa bacteriana. É um agente de último recurso contra patógenos multirresistentes (por exemplo, *Pseudomonas aeruginosa* e *Acinetobacter baumannii*).
+Segundo a seção “Clinical Pharmacology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Polymyxin B (tradução não oficial): “O sulfato de polimixina B tem ação bactericida contra quase todos os bacilos gram-negativos, exceto o grupo Proteus. As polimixinas aumentam a permeabilidade da membrana celular bacteriana, levando à morte da célula. Todas as bactérias gram-positivas, fungos e cocos gram-negativos são resistentes à polimixina B. Para informações específicas sobre os critérios de testes de sensibilidade e os métodos de teste associados e padrões de controle de qualidade reconhecidos pela FDA para este medicamento, consulte: www.fda.gov/STIC.” Texto original em inglês: "Polymyxin B sulfate has a bactericidal action against almost all gram-negative bacilli except the Proteus group. Polymyxins increase the permeability of bacterial cell membrane leading to death of the cell. All gram positive bacteria, fungi, and gram-negative cocci are resistant to polymyxin B. For specific information regarding susceptibility test criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: www.fda.gov/STIC." ([DailyMed: Polymyxin B (polymyxin b sulfate) prescribing information, Xellia Pharmaceuticals USA LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b56f18c0-ef5e-4ed9-a5af-f79f3cd189b6), versão de 2026-06-22; acessado em 2026-11-19). Segundo informações conhecidas, a polimixina B é um agente bactericida contra bactérias Gram-negativas: liga-se ao lipídeo A do lipopolissacarídeo (LPS) e rompe a membrana externa bacteriana. É um agente de último recurso contra patógenos multirresistentes (por exemplo, *Pseudomonas aeruginosa* e *Acinetobacter baumannii*).
 
 A relação com a nova indicação é plausível apenas para quadros **bacterianos** das vias respiratórias causados por Gram-negativos resistentes (traqueobronquite associada à ventilação, pneumonia). A literatura sobre bronquite é majoritariamente antiga (década de 1970) e trata de uso endobrônquico/inalatório, além de estudos em que a polimixina B inalada **provoca broncoconstrição** em pacientes com asma e bronquite crônica, por degranulação de mastócitos e basófilos. Vários estudos usam a polimixina B como agente de provocação brônquica ou para induzir bronquite eosinofílica em modelos animais, o que não é evidência de benefício terapêutico.
 
@@ -98,7 +97,6 @@ Para a indicação **infecção do trato respiratório** (4ª previsão, 98,89%)
 | [11359434](https://pubmed.ncbi.nlm.nih.gov/11359434/) | 2001 | Estudo animal | Clin Exp Allergy | Acúmulo de eosinófilos nas vias aéreas induzido por polimixina B reduz a responsividade brônquica em cobaias |
 | [2984629](https://pubmed.ncbi.nlm.nih.gov/2984629/) | 1985 | Estudo fisiológico (provocação) | Orv Hetil | Provocação brônquica inespecífica com polimixina B em asma e bronquite crônica |
 | [4373513](https://pubmed.ncbi.nlm.nih.gov/4373513/) | 1974 | Relato clínico | J Kans Med Soc | Traqueobronquite por *Pseudomonas* tratada com gentamicina sistêmica e aerossol de polimixina B |
-
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
@@ -150,6 +148,19 @@ Para advertências e contraindicações formais, consulte a bula.
 - Para a via respiratória: aguardar resultados dos ensaios de nebulização (NCT07086391, NCT06076603) e definir estratégia de mitigação do risco de broncoespasmo e nefro/neurotoxicidade.
 - Para conjuntivite: confirmar evidências para a associação polimixina B/trimetoprima (sem registros NCT nos dados compilados) e restringir a indicação à conjuntivite bacteriana (não viral/alérgica).
 - Descartar a previsão sem base (laringotraqueíte) ou mantê-la apenas como hipótese computacional.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Polymyxin B (polymyxin b sulfate) prescribing information, Xellia Pharmaceuticals USA LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b56f18c0-ef5e-4ed9-a5af-f79f3cd189b6) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

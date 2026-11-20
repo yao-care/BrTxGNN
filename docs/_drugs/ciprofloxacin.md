@@ -54,7 +54,7 @@ O ciprofloxacino é um antibacteriano da classe das fluoroquinolonas, usado em i
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Sabe-se, de forma geral, que o ciprofloxacino é uma fluoroquinolona que inibe a DNA girase e a topoisomerase IV bacterianas, o que explica sua ação antibacteriana.
+Segundo as seções “Mechanism of Action” e “Microbiology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Ciprofloxacin (tradução não oficial): “A ciprofloxacina é um membro da classe de agentes antibacterianos das fluoroquinolonas. […] A ação bactericida da ciprofloxacina resulta da inibição das enzimas topoisomerase II (DNA girase) e topoisomerase IV (ambas topoisomerases do Tipo II), que são necessárias para a replicação, transcrição, reparo e recombinação do DNA bacteriano.” Texto original em inglês: "Ciprofloxacin is a member of the fluoroquinolone class of antibacterial agents. […] The bactericidal action of ciprofloxacin results from inhibition of the enzymes topoisomerase II (DNA gyrase) and topoisomerase IV (both Type II topoisomerases), which are required for bacterial DNA replication, transcription, repair, and recombination." ([DailyMed: Ciprofloxacin In Dextrose (ciprofloxacin) prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cbbbf939-3219-4515-a48e-ca264daa4d07), versão de 2025-11-04; acessado em 2026-11-19). Sabe-se, de forma geral, que o ciprofloxacino é uma fluoroquinolona que inibe a DNA girase e a topoisomerase IV bacterianas, o que explica sua ação antibacteriana.
 
 Para a esclerodermia, a hipótese presente na literatura é dupla. A primeira é um possível efeito antifibrótico na pele, talvez por modulação da síntese de colágeno ou da atividade dos fibroblastos (PMID 20507401). A segunda é indireta: tratar o supercrescimento bacteriano no intestino delgado, comum na esclerose sistêmica e causa de diarreia crônica e perda de peso (PMID 7728404).
 
@@ -90,6 +90,19 @@ Para advertências e contraindicações, consulte a bula.
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), etapa necessária para a triagem de segurança.
 - Avaliar o perfil de risco-benefício em uma doença crônica, considerando os riscos conhecidos das fluoroquinolonas (por exemplo, tendinopatia e neuropatia periférica) e o uso prolongado.
 - Se houver sinal de benefício, planejar um ensaio controlado específico em esclerodermia difusa.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Ciprofloxacin In Dextrose (ciprofloxacin) prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cbbbf939-3219-4515-a48e-ca264daa4d07) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **poliomielite bulbar (bulbar pol
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o gilteritinibe é um inibidor de tirosina quinase FLT3/AXL, aprovado para LMA recidivada/refratária com mutação de FLT3.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Gilteritinib (tradução não oficial): “O gilteritinibe é uma molécula pequena que inibe múltiplos receptores de tirosina quinase, incluindo a tirosina quinase 3 semelhante a FMS (FLT3). O gilteritinibe demonstrou a capacidade de inibir a sinalização do receptor FLT3 e a proliferação em células que expressam FLT3 de forma exógena, incluindo FLT3-ITD e as mutações do domínio tirosina quinase (TKD) FLT3-D835Y e FLT3-ITD-D835Y, e induziu apoptose em células leucêmicas que expressam FLT3-ITD.” Texto original em inglês: "Gilteritinib is a small molecule that inhibits multiple receptor tyrosine kinases, including FMS-like tyrosine kinase 3 (FLT3). Gilteritinib demonstrated the ability to inhibit FLT3 receptor signaling and proliferation in cells exogenously expressing FLT3 including FLT3-ITD, tyrosine kinase domain mutations (TKD) FLT3-D835Y and FLT3-ITD-D835Y, and it induced apoptosis in leukemic cells expressing FLT3-ITD." ([DailyMed: Xospata (gilteritinib) prescribing information, Astellas Pharma US, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b5ff59aa-9c0d-49a8-9053-1f179b482383), versão de 2026-10-01; acessado em 2026-11-19). Segundo informações conhecidas, o gilteritinibe é um inibidor de tirosina quinase FLT3/AXL, aprovado para LMA recidivada/refratária com mutação de FLT3.
 
 A poliomielite bulbar é uma infecção viral dos neurônios motores do tronco encefálico, causada pelo poliovírus. **Não há relação mecanística plausível estabelecida** entre a inibição de FLT3/AXL e essa doença: não foi identificado nenhum efeito sobre a replicação do poliovírus nem dependência de fatores do hospedeiro ligados a FLT3/AXL.
 
@@ -114,12 +114,13 @@ A previsão se baseia apenas no modelo (L5), sem ensaios clínicos, sem literatu
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, o único registro no Brasil está cancelado, e há preocupações de segurança (mielossupressão e numerosas interações) numa infecção” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Esclarecer a situação regulatória do registro cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Xospata (gilteritinib) prescribing information, Astellas Pharma US, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b5ff59aa-9c0d-49a8-9053-1f179b482383) |
 
 <!-- review:end log -->
 

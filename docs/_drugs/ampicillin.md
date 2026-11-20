@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **laringite (laryngitis)**, mas o
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, a ampicilina é uma aminopenicilina de amplo espectro que atua inibindo a síntese da parede celular bacteriana. Em tese, infecções bacterianas da laringe, como a epiglotite por *Haemophilus influenzae* tipo b e abscessos laríngeos ou cervicais profundos, poderiam ser suscetíveis.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Ampicillin (tradução não oficial): “A ampicilina é semelhante à penicilina em sua ação bactericida contra bactérias sensíveis durante a fase de multiplicação ativa. Ela atua por meio da inibição da biossíntese da parede celular, o que leva à morte das bactérias.” Texto original em inglês: "Ampicillin is similar to penicillin in its bactericidal action against susceptible bacteria during the stage of active multiplication. It acts through the inhibition of cell wall biosynthesis that leads to the death of the bacteria." ([DailyMed: ampicillin prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4134cd79-c895-4e6e-b1d5-8e01c38bf2d1), versão de 2026-07-27; acessado em 2026-11-19). Segundo informações conhecidas, a ampicilina é uma aminopenicilina de amplo espectro que atua inibindo a síntese da parede celular bacteriana. Em tese, infecções bacterianas da laringe, como a epiglotite por *Haemophilus influenzae* tipo b e abscessos laríngeos ou cervicais profundos, poderiam ser suscetíveis.
 
 O vínculo, porém, é indireto. A maior parte das laringites é de origem viral, contra a qual um antibiótico não tem papel. A literatura recuperada trata de epiglotite, abscessos, profilaxia perioperatória e outras infecções, e não de laringite propriamente dita. A pontuação alta do modelo, portanto, não substitui evidência clínica direta.
 
@@ -133,6 +133,18 @@ Há registros válidos na ANVISA, conforme os dados compilados (18 válidos e 10
 - Estudos clínicos ou observacionais que avaliem a ampicilina especificamente em laringite bacteriana confirmada
 - Dados de mecanismo de ação e de advertências e contraindicações da bula da ANVISA
 - Análise de resistência local de patógenos laríngeos (*H. influenzae* produtor de beta-lactamase) e comparação com alternativas
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: ampicillin prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4134cd79-c895-4e6e-b1d5-8e01c38bf2d1) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

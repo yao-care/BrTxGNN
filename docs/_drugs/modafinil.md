@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **insônia (insomnia (disease))**
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. De modo geral, entende-se que o modafinil atua por inibição do transportador de dopamina e por efeitos em circuitos promotores da vigília, o que o diferencia de outros estimulantes.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Modafinil (tradução não oficial): “O(s) mecanismo(s) pelo(s) qual(is) a modafinila promove a vigília é(são) desconhecido(s). A modafinila tem ações promotoras da vigília semelhantes às de agentes simpatomiméticos, incluindo anfetamina e metilfenidato, embora o perfil farmacológico não seja idêntico ao das aminas simpatomiméticas.” Texto original em inglês: "The mechanism(s) through which modafinil promotes wakefulness is unknown. Modafinil has wake-promoting actions similar to sympathomimetic agents including amphetamine and methylphenidate, although the pharmacologic profile is not identical to that of the sympathomimetic amines." ([DailyMed: Provigil (modafinil) prescribing information, Apotex Corp](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0391f182-1958-9fef-a944-53b229ce99e7), versão de 2026-09-16; acessado em 2026-11-19). De modo geral, entende-se que o modafinil atua por inibição do transportador de dopamina e por efeitos em circuitos promotores da vigília, o que o diferencia de outros estimulantes.
 
 Do ponto de vista mecanístico, um fármaco que promove a vigília não é uma escolha lógica para tratar a insônia, que é um distúrbio de sono insuficiente ou de má qualidade. A pontuação muito alta (0,9985) provavelmente reflete a proximidade, na rede do modelo, com distúrbios do sono e da vigília (narcolepsia, distúrbio do sono do trabalho em turnos, sonolência associada a doenças neurológicas), e não um real ajuste terapêutico.
 
@@ -108,6 +108,18 @@ Os dados de advertências e contraindicações da bula não estavam disponíveis
 - Completar os dados de mecanismo de ação
 - Obter advertências e contraindicações da bula na ANVISA
 - Se houver interesse, reorientar a hipótese para sonolência diurna e fadiga em condições comórbidas, em vez de insônia
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Provigil (modafinil) prescribing information, Apotex Corp](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0391f182-1958-9fef-a944-53b229ce99e7) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

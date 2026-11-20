@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Sabe-se, de forma geral, que a donepezila pertence à classe dos inibidores da acetilcolinesterase, que elevam a acetilcolina sináptica.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Donepezil (tradução não oficial): “As teorias atuais sobre a patogênese dos sinais e sintomas cognitivos da doença de Alzheimer atribuem alguns deles a uma deficiência da neurotransmissão colinérgica. Postula-se que o cloridrato de donepezila exerça seu efeito terapêutico potencializando a função colinérgica.” Texto original em inglês: "Current theories on the pathogenesis of the cognitive signs and symptoms of Alzheimer’s disease attribute some of them to a deficiency of cholinergic neurotransmission. Donepezil hydrochloride is postulated to exert its therapeutic effect by enhancing cholinergic function." ([DailyMed: Aricept (donepezil hydrochloride) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98e451e1-e4d7-4439-a675-c5457ba20975), versão de 2021-12-30; acessado em 2026-11-19). Sabe-se, de forma geral, que a donepezila pertence à classe dos inibidores da acetilcolinesterase, que elevam a acetilcolina sináptica.
 
 Um elo plausível seria a modulação colinérgica de redes motoras e atencionais. Trata-se, porém, de uma hipótese especulativa: nenhum ensaio clínico ou publicação nos dados compilados a sustenta, e a similaridade com a indicação original ainda não foi avaliada.
 
@@ -96,11 +96,12 @@ Para advertências e contraindicações da bula, consulte a bula aprovada pela A
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Segundo os dados compilados, o medicamento consta como comercializado, com 10 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Aricept (donepezil hydrochloride) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98e451e1-e4d7-4439-a675-c5457ba20975) |
 
 <!-- review:end log -->
 

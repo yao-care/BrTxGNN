@@ -60,7 +60,7 @@ O modelo TxGNN prevê que ele possa ser eficaz para **Neoplasia benigna da líng
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação registrados para este fármaco. Segundo informações conhecidas, o palivizumabe é um anticorpo monoclonal humanizado que neutraliza a proteína F do VSR, e seu efeito é específico contra esse vírus.
+Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Palivizumabe é (tradução não oficial): “Inibidor da glicoproteína de fusão F0” Texto original em inglês: "Fusion glycoprotein F0 inhibitor" ([ChEMBL CHEMBL1201586 (palivizumab): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201586), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações conhecidas, o palivizumabe é um anticorpo monoclonal humanizado que neutraliza a proteína F do VSR, e seu efeito é específico contra esse vírus.
 
 Não foi identificado nenhum vínculo mecanístico entre esse alvo viral e a neoplasia benigna da língua. O palivizumabe não tem alvo biológico conhecido nesse tipo de tumor, e a relação entre a função original do fármaco e a nova indicação prevista não pôde ser estabelecida (análise de similaridade pendente).
 
@@ -97,6 +97,19 @@ Consulte a bula para informações de segurança.
 - Dados de mecanismo de ação (MOA) do fármaco
 - Estudos pré-clínicos que demonstrem alguma plausibilidade biológica para esta indicação
 - Bula da ANVISA com advertências e contraindicações, para triagem de segurança
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [ChEMBL CHEMBL1201586 (palivizumab): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201586) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

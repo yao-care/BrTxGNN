@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o certolizumab pegol é um fragmento de anticorpo (Fab') peguilado que se liga ao TNF-α e o neutraliza, sendo usado em doenças inflamatórias mediadas por esse fator.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Certolizumab Pegol (tradução não oficial): “O certolizumabe pegol liga-se ao TNFα humano com uma KD de 90pM. O TNFα é uma citocina pró-inflamatória fundamental, com papel central nos processos inflamatórios. O certolizumabe pegol neutraliza seletivamente o TNFα (CI 90 de 4 ng/mL para inibição do TNFα humano no ensaio in vitro de citotoxicidade em fibrossarcoma murino L929), mas não neutraliza a linfotoxina α (TNFβ).” Texto original em inglês: "Certolizumab pegol binds to human TNFα with a KD of 90pM. TNFα is a key pro-inflammatory cytokine with a central role in inflammatory processes. Certolizumab pegol selectively neutralizes TNFα (IC 90 of 4 ng/mL for inhibition of human TNFα in the in vitro L929 murine fibrosarcoma cytotoxicity assay) but does not neutralize lymphotoxin α (TNFβ)." ([DailyMed: Cimzia (certolizumab pegol) prescribing information, UCB, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b4c2c9dc-a0bb-4d64-a667-a67ebe88392d), versão de 2026-10-29; acessado em 2026-11-19). Segundo informações conhecidas, o certolizumab pegol é um fragmento de anticorpo (Fab') peguilado que se liga ao TNF-α e o neutraliza, sendo usado em doenças inflamatórias mediadas por esse fator.
 
 A hipermobilidade do cóccix, porém, é principalmente uma condição mecânica ou traumática, sem mecanismo inflamatório claramente dependente de TNF. A ligação mecanística com o fármaco é, portanto, fraca, e a pontuação alta do TxGNN deve ser entendida apenas como uma previsão computacional. A similaridade com a indicação original ainda não foi avaliada.
 
@@ -93,6 +93,19 @@ Para advertências e contraindicações, consulte a bula.
 - Dados de mecanismo de ação do fármaco
 - Evidência biológica de envolvimento de TNF-α na hipermobilidade do cóccix, ou estudos pré-clínicos/observacionais
 - Avaliação da similaridade com a indicação original e da compatibilidade de vias de administração
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Cimzia (certolizumab pegol) prescribing information, UCB, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b4c2c9dc-a0bb-4d64-a667-a67ebe88392d) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

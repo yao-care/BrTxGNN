@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **retinopatia diabética não pro
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação registrados para este fármaco. Segundo informações conhecidas, o tildrakizumabe é um anticorpo monoclonal anti-IL-23 p19, que inibe a via IL-23/IL-17, central em doenças inflamatórias imunomediadas.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Tildrakizumab (tradução não oficial): “O tildraquizumabe é um anticorpo monoclonal IgG1/k humanizado que se liga seletivamente à subunidade p19 da IL-23 e inibe sua interação com o receptor da IL-23. A IL-23 é uma citocina de ocorrência natural envolvida nas respostas inflamatórias e imunológicas.” Texto original em inglês: "Tildrakizumab is a humanized IgG1/k monoclonal antibody that selectively binds to the p19 subunit of IL-23 and inhibits its interaction with the IL-23 receptor. IL-23 is a naturally occurring cytokine that is involved in inflammatory and immune responses." ([DailyMed: Ilumya (tildrakizumab-asmn) prescribing information, Sun Pharmaceutical Industries, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c6a322bb-51b9-4f0e-8642-62a9682ffcde), versão de 2026-11-02; acessado em 2026-11-19). Segundo informações conhecidas, o tildrakizumabe é um anticorpo monoclonal anti-IL-23 p19, que inibe a via IL-23/IL-17, central em doenças inflamatórias imunomediadas.
 
 A hipótese é que a inflamação crônica de baixo grau, incluindo a sinalização de citocinas na via IL-23/IL-17, contribua para o dano vascular da retina na retinopatia diabética. Assim, bloquear essa via poderia, em teoria, atenuar parte do processo.
 
@@ -113,12 +113,13 @@ Não há ensaios clínicos nem literatura que sustentem qualquer das indicaçõe
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-10-31 | Removido: “(registro cancelado)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “e o único registro brasileiro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Ilumya (tildrakizumab-asmn) prescribing information, Sun Pharmaceutical Industries, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c6a322bb-51b9-4f0e-8642-62a9682ffcde) |
 
 <!-- review:end log -->
 

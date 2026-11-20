@@ -56,7 +56,7 @@ Até o momento, **nenhum ensaio clínico** e **nenhuma publicação** apoiam est
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações farmacológicas conhecidas, o plerixafor bloqueia o receptor CXCR4 (e também interage com o ACKR3). Com isso, interrompe o eixo CXCR4/CXCL12, que mantém as células na medula óssea.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Plerixafor (tradução não oficial): “O plerixafor é um inibidor do receptor de quimiocina CXCR4 e bloqueia a ligação de seu ligante cognato, o fator-1α derivado de células estromais (SDF-1α). Reconhece-se que o SDF-1α e o CXCR4 desempenham um papel no tráfego e no direcionamento (homing) das células-tronco hematopoéticas (CTHs) humanas para o compartimento medular.” Texto original em inglês: "Plerixafor is an inhibitor of the CXCR4 chemokine receptor and blocks binding of its cognate ligand, stromal cell-derived factor-1α (SDF-1α). SDF-1α and CXCR4 are recognized to play a role in the trafficking and homing of human hematopoietic stem cells (HSCs) to the marrow compartment." ([DailyMed: Mozobil (plerixafor) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0ed08d2b-5051-46b2-aa37-1d6275bf9003), versão de 2025-09-22; acessado em 2026-11-19). Segundo informações farmacológicas conhecidas, o plerixafor bloqueia o receptor CXCR4 (e também interage com o ACKR3). Com isso, interrompe o eixo CXCR4/CXCL12, que mantém as células na medula óssea.
 
 Esse eixo ancora as células de mieloma de plasmócitos no nicho da medula óssea. A hipótese é que bloqueá-lo possa afetar a permanência e a sobrevivência dessas células. Isso torna a previsão plausível do ponto de vista biológico, mas é apenas uma hipótese.
 
@@ -106,12 +106,13 @@ Atualmente não há literatura relacionada.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “O medicamento não tem registro no Brasil, e a” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “já que não há registro vigente” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Mozobil (plerixafor) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0ed08d2b-5051-46b2-aa37-1d6275bf9003) |
 
 <!-- review:end log -->
 

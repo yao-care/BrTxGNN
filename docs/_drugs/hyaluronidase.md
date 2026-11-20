@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Esotropia (esotropia)**, mas n�
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação de hialuronidase nos dados compilados para este relatório. Sabe-se de forma geral que a enzima degrada o ácido hialurônico da matriz extracelular e é usada para aumentar a difusão de outros medicamentos nos tecidos, inclusive como adjuvante em anestesia ocular.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Hyaluronidase (tradução não oficial): “A hialuronidase é um agente de dispersão que modifica a permeabilidade do tecido conjuntivo por meio da hidrólise do ácido hialurônico, um polissacarídeo encontrado na substância fundamental intercelular do tecido conjuntivo e de certos tecidos especializados, como o cordão umbilical e o humor vítreo. O ácido hialurônico também está presente nas cápsulas dos estreptococos hemolíticos dos tipos A e C.” Texto original em inglês: "Hyaluronidase is a dispersion agent, which modifies the permeability of connective tissue through the hydrolysis of hyaluronic acid, a polysaccharide found in the intercellular ground substance of connective tissue, and of certain specialized tissues, such as the umbilical cord and vitreous humor. Hyaluronic acid is also present in the capsules of type A and C hemolytic streptococci." ([DailyMed: Hylenex Recombinant (hyaluronidase) prescribing information, Antares Pharma, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3023cc56-ed4b-4e87-b3a1-81b20943f658), versão de 2024-11-11; acessado em 2026-11-19). Sabe-se de forma geral que a enzima degrada o ácido hialurônico da matriz extracelular e é usada para aumentar a difusão de outros medicamentos nos tecidos, inclusive como adjuvante em anestesia ocular.
 
 Não há mecanismo terapêutico estabelecido para a esotropia. A única publicação encontrada (PMID 16934027) relata diplopia e estrabismo persistentes após cirurgia de catarata sob anestesia local, na qual a hialuronidase foi usada como adjuvante anestésico. Nesse contexto, o estrabismo é um evento adverso ou complicação, não um alvo terapêutico. A pontuação alta do modelo, portanto, não encontra respaldo em evidência clínica.
 
@@ -99,6 +99,19 @@ Atualmente não há ensaios clínicos relacionados registrados.
 - Estudos pré-clínicos ou clínicos que avaliem diretamente a hialuronidase na esotropia
 - Informações de segurança da bula (advertências e contraindicações), ainda não disponíveis nos dados compilados
 - Esclarecimento da situação de comercialização dos registros atuais
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Hylenex Recombinant (hyaluronidase) prescribing information, Antares Pharma, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3023cc56-ed4b-4e87-b3a1-81b20943f658) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

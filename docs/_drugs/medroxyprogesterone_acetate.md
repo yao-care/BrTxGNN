@@ -56,7 +56,7 @@ atualmente com **0 ensaios clínicos registrados** e **9 publicações** relacio
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, o acetato de medroxiprogesterona é um progestagênio, e mecanisticamente pode ser aplicável à doença fibrocística da mama.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Medroxyprogesterone Acetate (tradução não oficial): “Depo-Provera CI (acetato de medroxiprogesterona [MPA]) inibe a secreção de gonadotrofinas, o que impede principalmente a maturação folicular e a ovulação e causa espessamento do muco cervical. Essas ações contribuem para seu efeito contraceptivo.” Texto original em inglês: "Depo-Provera CI (medroxyprogesterone acetate [MPA]) inhibits the secretion of gonadotropins which primarily prevents follicular maturation and ovulation and causes thickening of cervical mucus. These actions contribute to its contraceptive effect." ([DailyMed: Depo-Provera (medroxyprogesterone acetate) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=199cf13e-0859-4a73-9b45-e700d0cd1049), versão de 2026-08-25; acessado em 2026-11-19). Segundo informações conhecidas, o acetato de medroxiprogesterona é um progestagênio, e mecanisticamente pode ser aplicável à doença fibrocística da mama.
 
 As alterações fibrocísticas da mama dependem de hormônios. A literatura descreve um quadro de predomínio de estrogênio e deficiência relativa de progesterona, que estimula a proliferação do tecido conjuntivo e do epitélio. Um progestagênio poderia, em teoria, contrapor essa proliferação induzida pelo estrogênio.
 
@@ -113,6 +113,18 @@ Consulte a bula para as advertências e contraindicações oficiais.
 - Revisão crítica dos dois estudos clínicos antigos e, se justificável, ensaio controlado e randomizado.
 - Avaliação do risco mamário do progestagênio, especialmente em população com lesões proliferativas.
 - Avaliação da compatibilidade de via de administração e formulação para o novo uso.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Depo-Provera (medroxyprogesterone acetate) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=199cf13e-0859-4a73-9b45-e700d0cd1049) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

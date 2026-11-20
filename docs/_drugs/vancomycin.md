@@ -55,7 +55,7 @@ O modelo TxGNN prevê que ela pode ser eficaz para **esclerodermia difusa (diffu
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a vancomicina é um antibiótico glicopeptídico que inibe a síntese da parede celular bacteriana, ligando-se às extremidades D-Ala-D-Ala dos precursores do peptideoglicano. Sua eficácia está estabelecida em infecções por bactérias Gram-positivas.
+Segundo as seções “Mechanism of Action” e “Microbiology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Vancomycin (tradução não oficial): “A vancomicina é um fármaco antibacteriano. […] A ação bactericida da vancomicina resulta principalmente da inibição da biossíntese da parede celular. Além disso, a vancomicina altera a permeabilidade da membrana celular bacteriana e a síntese de RNA.” Texto original em inglês: "Vancomycin is an antibacterial drug. […] The bactericidal action of vancomycin results primarily from inhibition of cell-wall biosynthesis. In addition, vancomycin alters bacterial-cell-membrane permeability and RNA synthesis." ([DailyMed: Tyzavan (vancomycin) prescribing information, Hikma Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=72e9c5e2-07cc-4a8b-ba64-b2e7619ea560), versão de 2026-08-19; acessado em 2026-11-19). Segundo informações conhecidas, a vancomicina é um antibiótico glicopeptídico que inibe a síntese da parede celular bacteriana, ligando-se às extremidades D-Ala-D-Ala dos precursores do peptideoglicano. Sua eficácia está estabelecida em infecções por bactérias Gram-positivas.
 
 **Na prática, a previsão não se sustenta.** A esclerodermia difusa é uma doença autoimune e fibrótica, sem causa bacteriana, e não existe vínculo mecanístico plausível com um inibidor da síntese da parede celular bacteriana. A pontuação alta do TxGNN (0.9992) vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica. O único artigo recuperado (relato de caso de erupção esfoliativa com sepse e eosinofilia, 2019) não trata de esclerodermia.
 
@@ -137,6 +137,19 @@ Para advertências e contraindicações baseadas em bula, consulte a bula; esses
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), lacuna que impede a triagem de segurança.
 - Complementar os dados de mecanismo de ação (por exemplo, via DrugBank).
 - Se houver interesse em uma direção plausível, tratar a pneumonia estreptocócica como questão de pesquisa, reconhecendo que é uso antibacteriano já existente e não reposicionamento, e confirmar a situação regulatória atual da vancomicina no Brasil.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Tyzavan (vancomycin) prescribing information, Hikma Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=72e9c5e2-07cc-4a8b-ba64-b2e7619ea560) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

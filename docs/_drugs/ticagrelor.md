@@ -58,7 +58,7 @@ atualmente com **2 ensaios clínicos** e **2 publicações** diretamente associa
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação na base consultada. Segundo informações conhecidas, o ticagrelor é um inibidor reversível do receptor plaquetário P2Y12, reduzindo a agregação plaquetária e os eventos trombóticos. Diferentemente do clopidogrel, não depende de ativação pela enzima CYP2C19.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Ticagrelor (tradução não oficial): “Ticagrelor e seu principal metabólito interagem reversivelmente com o receptor de ADP P2Y 12 plaquetário para impedir a transdução de sinal e a ativação plaquetária. Ticagrelor e seu metabólito ativo são aproximadamente equipotentes.” Texto original em inglês: "Ticagrelor and its major metabolite reversibly interact with the platelet P2Y 12 ADP-receptor to prevent signal transduction and platelet activation. Ticagrelor and its active metabolite are approximately equipotent." ([DailyMed: Brilinta (ticagrelor) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f7b3f443-e83d-4bf2-0e96-023448fed9a8), versão de 2026-05-07; acessado em 2026-11-19). Segundo informações conhecidas, o ticagrelor é um inibidor reversível do receptor plaquetário P2Y12, reduzindo a agregação plaquetária e os eventos trombóticos. Diferentemente do clopidogrel, não depende de ativação pela enzima CYP2C19.
 
 A estenose aterosclerótica intracraniana sintomática envolve trombose mediada por plaquetas e embolia artéria-artéria. Como o ticagrelor já é usado em doença aterosclerótica coronariana (síndrome coronariana aguda), é mecanisticamente plausível estender o uso à circulação cerebral.
 
@@ -112,11 +112,12 @@ Consulte a bula para as demais informações de segurança.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “dado que não há registro vigente” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Brilinta (ticagrelor) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f7b3f443-e83d-4bf2-0e96-023448fed9a8) |
 
 <!-- review:end log -->
 

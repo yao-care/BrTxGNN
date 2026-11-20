@@ -58,7 +58,7 @@ Entre as demais previsões, a mais sustentada por evidências é **cor pulmonale
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos registros compilados. Segundo informações conhecidas, a milrinona é um inibidor de PDE3 (também com afinidade registrada por PDE2A, PDE3B e PDE5A), com efeito inotrópico positivo e vasodilatador ("inodilatador"). Isso ocorre pelo aumento do AMPc em cardiomiócitos e na musculatura lisa vascular.
+Segundo a seção “Clinical Pharmacology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Milrinone (tradução não oficial): “A milrinona é um inotrópico positivo e vasodilatador, com pouca atividade cronotrópica, diferente em estrutura e modo de ação tanto dos glicosídeos digitálicos quanto das catecolaminas.” Texto original em inglês: "Milrinone is a positive inotrope and vasodilator, with little chronotropic activity different in structure and mode of action from either the digitalis glycosides or catecholamines." ([DailyMed: Milrinone Lactate In Dextrose (milrinone lactate) prescribing information, Gland Pharma Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=838da14b-c070-4c09-b088-99e7c64d9964), versão de 2021-08-25; acessado em 2026-11-19). Segundo informações conhecidas, a milrinona é um inibidor de PDE3 (também com afinidade registrada por PDE2A, PDE3B e PDE5A), com efeito inotrópico positivo e vasodilatador ("inodilatador"). Isso ocorre pelo aumento do AMPc em cardiomiócitos e na musculatura lisa vascular.
 
 Para a **alopecia**, o vínculo é apenas teórico: o aumento da sinalização por AMPc e uma possível melhora da microcirculação do couro cabeludo, de forma semelhante ao vasodilatador minoxidil. Não há ensaios nem literatura que sustentem essa hipótese. Para as formas genéticas (hipotricose simples do couro cabeludo, hipotricose congênita com milia), a pontuação alta provavelmente reflete a proximidade na rede de conhecimento com outros termos de perda de cabelo, e não uma ligação biológica. Na alopecia areata difusa, que é autoimune, a inibição de PDE tem papel imunomodulador teórico, mas mais relacionado à PDE4 do que à PDE3.
 
@@ -144,11 +144,12 @@ Consulte a bula para as advertências e contraindicações oficiais, que não es
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Definir a situação regulatória: como não há registro válido no Brasil, seria necessário novo registro ou reativação” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Milrinone Lactate In Dextrose (milrinone lactate) prescribing information, Gland Pharma Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=838da14b-c070-4c09-b088-99e7c64d9964) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ O modelo TxGNN (aprendizado profundo) prevê que pode ser eficaz para **Deficiê
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação compilados para este relatório. Segundo a literatura recuperada, perampanel é um antagonista seletivo e não competitivo do receptor AMPA, que reduz a hiperexcitabilidade neuronal mediada por glutamato. Já foi aprovado em vários países como terapia adjuvante de crises focais.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Perampanel (tradução não oficial): “O perampanel é um antagonista não competitivo do receptor ionotrópico de glutamato do tipo ácido α-amino-3-hidroxi-5-metil-4-isoxazolpropiônico (AMPA) nos neurônios pós-sinápticos. O glutamato é o principal neurotransmissor excitatório no sistema nervoso central e está implicado em diversos distúrbios neurológicos causados pela hiperexcitação neuronal.” Texto original em inglês: "Perampanel is a non-competitive antagonist of the ionotropic α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA) glutamate receptor on post-synaptic neurons. Glutamate is the primary excitatory neurotransmitter in the central nervous system and is implicated in a number of neurological disorders caused by neuronal over excitation." ([DailyMed: Fycompa (perampanel) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=71cf3309-e182-473c-8b0b-280cabd0e122), versão de 2022-12-28; acessado em 2026-11-19). Segundo a literatura recuperada, perampanel é um antagonista seletivo e não competitivo do receptor AMPA, que reduz a hiperexcitabilidade neuronal mediada por glutamato. Já foi aprovado em vários países como terapia adjuvante de crises focais.
 
 ## Evidências de Ensaios Clínicos
 
@@ -115,11 +115,12 @@ Para a deficiência de beta-cetotiolase, as evidências se limitam à previsão 
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “(sem registro vigente)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Fycompa (perampanel) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=71cf3309-e182-473c-8b0b-280cabd0e122) |
 
 <!-- review:end log -->
 

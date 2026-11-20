@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser útil para **transtorno de enxaqueca (migrain
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Sabe-se que a apixabana pertence à classe dos anticoagulantes orais diretos que inibem o fator Xa.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Apixaban (tradução não oficial): “A apixabana é um inibidor seletivo do FXa. Ela não requer antitrombina III para a atividade antitrombótica. A apixabana inibe o FXa livre e ligado ao coágulo, bem como a atividade da protrombinase. A apixabana não tem efeito direto sobre a agregação plaquetária, mas inibe indiretamente a agregação plaquetária induzida pela trombina.” Texto original em inglês: "Apixaban is a selective inhibitor of FXa. It does not require antithrombin III for antithrombotic activity. Apixaban inhibits free and clot-bound FXa, and prothrombinase activity. Apixaban has no direct effect on platelet aggregation, but indirectly inhibits platelet aggregation induced by thrombin." ([DailyMed: Eliquis (apixaban) prescribing information, Aphena Pharma Solutions - Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41a133ef-e461-48ad-8221-b735bdd0ec25), versão de 2026-09-24; acessado em 2026-11-19). Sabe-se que a apixabana pertence à classe dos anticoagulantes orais diretos que inibem o fator Xa.
 
 A ligação com a enxaqueca é especulativa. Hipóteses levantadas incluem microtrombos ou embolia paradoxal por forame oval patente (FOP) e um estado pró-trombótico em pacientes com anticorpos antifosfolípides. Esses mecanismos não foram demonstrados para a apixabana.
 
@@ -104,6 +104,18 @@ Consulte a bula para advertências e contraindicações.
 - Advertências e contraindicações da bula da ANVISA para a triagem de segurança.
 - Estudos que avaliem diretamente a apixabana em enxaqueca, com desfechos de frequência e gravidade das crises.
 - Avaliação do risco de sangramento em uma população que usaria o fármaco por longo prazo, dadas as interações de gravidade maior.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Eliquis (apixaban) prescribing information, Aphena Pharma Solutions - Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41a133ef-e461-48ad-8221-b735bdd0ec25) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

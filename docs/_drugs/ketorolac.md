@@ -56,7 +56,7 @@ atualmente com **16 ensaios clínicos** e **18 publicações** apoiando esta dir
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos registros compilados. Pela classe farmacológica conhecida, o cetorolaco é um AINE que inibe de forma não seletiva a COX-1 e a COX-2, reduzindo a síntese de prostaglandinas.
+Segundo a seção “Clinical Pharmacology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Ketorolac (tradução não oficial): “O cetorolaco de trometamol é um anti-inflamatório não esteroidal (AINE) que exibe atividade analgésica em modelos animais. O mecanismo de ação do cetorolaco, assim como o de outros AINEs, não está completamente compreendido, mas pode estar relacionado à inibição da prostaglandina sintetase.” Texto original em inglês: "Ketorolac tromethamine is a nonsteroidal anti-inflammatory drug (NSAID) that exhibits analgesic activity in animal models. The mechanism of action of ketorolac, like that of other NSAIDs, is not completely understood but may be related to prostaglandin synthetase inhibition." ([DailyMed: Toronova Ii Suik (ketorolac tromethamine) prescribing information, Advanced Rx of Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49dd153c-10e8-505b-e063-6394a90a595f), versão de 2026-11-13; acessado em 2026-11-19). Pela classe farmacológica conhecida, o cetorolaco é um AINE que inibe de forma não seletiva a COX-1 e a COX-2, reduzindo a síntese de prostaglandinas.
 
 Esse bloqueio diminui a sensibilização periférica e central e a inflamação neurogênica envolvidas na dor da enxaqueca e da cefaleia tensional. Há, portanto, um vínculo mecanístico direto com a analgesia da cefaleia aguda.
 
@@ -123,11 +123,12 @@ Dos 16 ensaios compilados, os 10 mais relevantes são:
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-10-31 | Removido: “: os do indicam apenas um registro cancelado, embora existam” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Toronova Ii Suik (ketorolac tromethamine) prescribing information, Advanced Rx of Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49dd153c-10e8-505b-e063-6394a90a595f) |
 
 <!-- review:end log -->
 

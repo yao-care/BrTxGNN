@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **neurodegeneração associada ao
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a entacapona é um inibidor da COMT (catecol-O-metiltransferase), que prolonga a ação da levodopa, e sua utilidade como adjuvante em Parkinson está estabelecida. Essa descrição vem de conhecimento geral, não dos dados fornecidos.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Entacapone (tradução não oficial): “A entacapona é um inibidor seletivo e reversível da COMT. Em mamíferos, a COMT está distribuída em vários órgãos, com as maiores atividades no fígado e no rim. A COMT também ocorre no coração, pulmão, músculos liso e esquelético, trato intestinal, órgãos reprodutivos, várias glândulas, tecido adiposo, pele, células sanguíneas e tecidos neuronais, especialmente nas células da glia.” Texto original em inglês: "Entacapone is a selective and reversible inhibitor of COMT. In mammals, COMT is distributed throughout various organs with the highest activities in the liver and kidney. COMT also occurs in the heart, lung, smooth and skeletal muscles, intestinal tract, reproductive organs, various glands, adipose tissue, skin, blood cells, and neuronal tissues, especially in glial cells." ([DailyMed: entacapone prescribing information, Rising Pharma Holdings, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ee02a04a-4b42-4cfa-8d9d-b1459c0ee9fd), versão de 2026-02-16; acessado em 2026-11-19). Segundo informações conhecidas, a entacapona é um inibidor da COMT (catecol-O-metiltransferase), que prolonga a ação da levodopa, e sua utilidade como adjuvante em Parkinson está estabelecida. Essa descrição vem de conhecimento geral, não dos dados fornecidos.
 
 A neurodegeneração associada ao PLA2G6 (PLAN) pode incluir um fenótipo de distonia-parkinsonismo, o que torna plausível um vínculo dopaminérgico: a entacapona poderia, em tese, contribuir para o alívio sintomático do componente parkinsoniano.
 
@@ -137,12 +137,13 @@ Para advertências e contraindicações oficiais, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Todos os registros de entacapona no Brasil constam como cancelados; não há registro válido atualmente” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “dado que não há registro válido no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: entacapone prescribing information, Rising Pharma Holdings, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ee02a04a-4b42-4cfa-8d9d-b1459c0ee9fd) |
 
 <!-- review:end log -->
 

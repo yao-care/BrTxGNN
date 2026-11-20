@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Sabe-se, de forma geral, que o ibuprofeno atua inibindo a COX-1 e a COX-2, reduzindo a síntese de prostaglandinas, com efeito analgésico e anti-inflamatório.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Ibuprofen (tradução não oficial): “O ibuprofeno tem propriedades analgésicas, anti-inflamatórias e antipiréticas. O mecanismo de ação de CALDOLOR, assim como o de outros AINEs, não é completamente compreendido, mas envolve a inibição da ciclo-oxigenase (COX-1 e COX-2).” Texto original em inglês: "Ibuprofen has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of CALDOLOR, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)." ([DailyMed: Caldolor (ibuprofen) prescribing information, Cumberland Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1eaa7790-f1a1-4f51-b10a-cbbaf033f684), versão de 2026-01-29; acessado em 2026-11-19). Sabe-se, de forma geral, que o ibuprofeno atua inibindo a COX-1 e a COX-2, reduzindo a síntese de prostaglandinas, com efeito analgésico e anti-inflamatório.
 
 Já a displasia acromesomélica tipo Hunter-Thompson é uma displasia esquelética rara, causada por variantes de perda de função no gene CDMP1/GDF5, que participa da sinalização de BMP. Não há vínculo mecanístico estabelecido entre essa via e a inibição da COX. Uma ação anti-inflamatória não seria capaz de corrigir um defeito genético do desenvolvimento.
 
@@ -107,11 +107,12 @@ As advertências e contraindicações da bula aprovada pela ANVISA não estavam 
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Segundo os dados compilados, o ibuprofeno consta como comercializado no Brasil, com 13 registros válidos e 7 cancelados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Caldolor (ibuprofen) prescribing information, Cumberland Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1eaa7790-f1a1-4f51-b10a-cbbaf033f684) |
 
 <!-- review:end log -->
 

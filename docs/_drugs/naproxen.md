@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o naproxeno é um inibidor não seletivo das enzimas COX-1 e COX-2, reduzindo a síntese de prostaglandinas, e sua eficácia em condições inflamatórias e dolorosas do sistema musculoesquelético é bem estabelecida.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Naproxen (tradução não oficial): “O naproxeno tem propriedades analgésicas, anti-inflamatórias e antipiréticas. O mecanismo de ação do NAPRELAN, como o de outros AINEs, não é completamente compreendido, mas envolve a inibição da ciclo-oxigenase (COX-1 e COX-2).” Texto original em inglês: "Naproxen has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of NAPRELAN, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)." ([DailyMed: Naprelan (naproxen sodium) prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b8a51c9a-488e-4377-a041-436f6a2f8893), versão de 2026-01-08; acessado em 2026-11-19). Segundo informações conhecidas, o naproxeno é um inibidor não seletivo das enzimas COX-1 e COX-2, reduzindo a síntese de prostaglandinas, e sua eficácia em condições inflamatórias e dolorosas do sistema musculoesquelético é bem estabelecida.
 
 A síndrome de braquidactilia-sindactilia é uma malformação esquelética congênita, de origem genética e relacionada ao desenvolvimento. Não foi identificada, nos dados disponíveis, nenhuma via plausível pela qual a inibição de prostaglandinas modificaria a evolução dessa doença. Qualquer benefício se limitaria, no máximo, ao alívio sintomático de dor articular, o que não está sustentado por evidências aqui.
 
@@ -89,6 +89,19 @@ Não há base para avançar além da triagem inicial.
 - Investigar se existe alguma ligação biológica plausível entre a via das prostaglandinas e a doença prevista
 - Buscar evidências pré-clínicas ou clínicas antes de qualquer reconsideração
 - Esclarecer a situação regulatória do naproxeno no Brasil, já que não constam registros nos dados compilados
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Naprelan (naproxen sodium) prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b8a51c9a-488e-4377-a041-436f6a2f8893) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

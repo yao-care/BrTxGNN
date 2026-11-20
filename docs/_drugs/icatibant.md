@@ -56,7 +56,7 @@ Até o momento, há **0 ensaios clínicos** e **0 publicações** que apoiem ess
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados de mecanismo de ação nas fontes compiladas. Pelos dados farmacológicos disponíveis, o icatibante é um antagonista peptídico dos receptores de bradicinina, principalmente o B2, e também tem registro de interação com o B1. Seu efeito esperado é reduzir a sinalização da bradicinina.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Icatibant (tradução não oficial): “O icatibanto é um antagonista competitivo seletivo do receptor B2 de bradicinina, com afinidade semelhante à da bradicinina. O angioedema hereditário é causado pela ausência ou disfunção do inibidor de C1-esterase, um regulador essencial da cascata proteolítica do Fator XII/calicreína que leva à produção de bradicinina.” Texto original em inglês: "Icatibant is a competitive antagonist selective for the bradykinin B2 receptor, with an affinity similar to bradykinin. Hereditary angioedema is caused by an absence or dysfunction of C1-esterase-inhibitor, a key regulator of the Factor XII/kallikrein proteolytic cascade that leads to bradykinin production." ([DailyMed: Firazyr (icatibant acetate) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ed6657ca-ab68-477a-9968-e12dc928b540), versão de 2025-07-07; acessado em 2026-11-19). Pelos dados farmacológicos disponíveis, o icatibante é um antagonista peptídico dos receptores de bradicinina, principalmente o B2, e também tem registro de interação com o B1. Seu efeito esperado é reduzir a sinalização da bradicinina.
 
 A pontuação alta do TxGNN (0,9999) provavelmente reflete proximidade na rede de relações biológicas com a biologia das serpinas, e não um mecanismo que o bloqueio do B2 resolveria. A polimerização tóxica de serpinas é um processo de dobramento e acúmulo anormal de proteínas, sem dependência conhecida da bradicinina. O vínculo mecanístico é, portanto, **especulativo**, e a similaridade com a indicação original ainda não foi avaliada.
 
@@ -98,6 +98,18 @@ Para advertências e contraindicações, consulte a bula, pois esses dados não 
 - Dados de mecanismo de ação detalhados.
 - As advertências e contraindicações da bula aprovada pela ANVISA, para a triagem de segurança.
 - A avaliação da similaridade com a indicação original e da compatibilidade de via de administração.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Firazyr (icatibant acetate) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ed6657ca-ab68-477a-9968-e12dc928b540) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

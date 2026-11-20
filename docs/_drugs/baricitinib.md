@@ -56,7 +56,7 @@ Até o momento, há **0 ensaios clínicos** e **0 publicações** apoiando esta 
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Baricitinibe é conhecido como inibidor de JAK1/JAK2, ou seja, atua sobre a via de sinalização JAK-STAT, envolvida em processos inflamatórios e imunológicos.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Baricitinib (tradução não oficial): “O baricitinibe é um inibidor da Janus quinase (JAK). As JAKs são enzimas intracelulares que transmitem sinais originados de interações de citocinas ou de fatores de crescimento com receptores na membrana celular, influenciando processos celulares da hematopoese e da função das células imunes.” Texto original em inglês: "Baricitinib is a Janus kinase (JAK) inhibitor. JAKs are intracellular enzymes which transmit signals arising from cytokine or growth factor-receptor interactions on the cellular membrane to influence cellular processes of hematopoiesis and immune cell function." ([DailyMed: Olumiant (baricitinib) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=866e9f35-9035-4581-a4b1-75a621ab55cf), versão de 2026-10-09; acessado em 2026-11-19). Baricitinibe é conhecido como inibidor de JAK1/JAK2, ou seja, atua sobre a via de sinalização JAK-STAT, envolvida em processos inflamatórios e imunológicos.
 
 Essa síndrome é uma condição do desenvolvimento, muito rara e presumivelmente de origem genética. Os dados compilados não estabelecem nenhuma via que ligue a inibição de JAK-STAT à fisiopatologia da doença. Portanto, não há vínculo mecanístico sustentado pelas evidências disponíveis.
 
@@ -86,6 +86,19 @@ Para advertências e contraindicações, consulte a bula.
 - Estudos pré-clínicos que sustentem a hipótese
 - Advertências e contraindicações da bula da ANVISA, para triagem de segurança
 - Confirmação das formas farmacêuticas e da indicação registrada no Brasil
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Olumiant (baricitinib) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=866e9f35-9035-4581-a4b1-75a621ab55cf) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -56,7 +56,7 @@ Entre as dez previsões, as mais plausíveis do ponto de vista biológico são a
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a primidona é metabolizada em fenobarbital e feniletilmalonamida (PEMA), e atua sobre a excitabilidade neuronal (modulação de canais de sódio e potencialização do GABA-A via fenobarbital). Sua eficácia como anticonvulsivante está estabelecida.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Primidone (tradução não oficial): “MYSOLINE eleva os limiares convulsivos induzidos por eletrochoque ou quimiochoque ou altera os padrões convulsivos em animais de experimentação. O(s) mecanismo(s) da ação antiepiléptica da primidona não é(são) conhecido(s). A primidona por si só possui atividade anticonvulsivante, assim como seus dois metabólitos, o fenobarbital e a feniletilmalonamida (PEMA).” Texto original em inglês: "MYSOLINE raises electro- or chemoshock seizure thresholds or alters seizure patterns in experimental animals. The mechanism(s) of primidone’s antiepileptic action is not known. Primidone per se has anticonvulsant activity as do its two metabolites, phenobarbital and phenylethylmalonamide (PEMA)." ([DailyMed: Mysoline (primidone) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=af593171-dabb-4ea3-b44c-89ed457b2c46), versão de 2026-09-10; acessado em 2026-11-19). Segundo informações conhecidas, a primidona é metabolizada em fenobarbital e feniletilmalonamida (PEMA), e atua sobre a excitabilidade neuronal (modulação de canais de sódio e potencialização do GABA-A via fenobarbital). Sua eficácia como anticonvulsivante está estabelecida.
 
 Para **neoplasia do nervo trigêmeo**, não há vínculo mecanístico crível: a primidona não tem atividade antineoplásica conhecida. A pontuação muito alta (0,9999) vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, como distúrbios do nervo trigêmeo, e não evidência biológica. Esta previsão não deve ser considerada razoável.
 
@@ -127,11 +127,12 @@ Para advertências principais e demais informações de segurança, consulte a b
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-10-31 | Removido: “(registros cancelados)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Mysoline (primidone) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=af593171-dabb-4ea3-b44c-89ed457b2c46) |
 
 <!-- review:end log -->
 

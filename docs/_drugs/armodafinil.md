@@ -57,7 +57,7 @@ O modelo TxGNN prevê que pode ser eficaz para **insônia (Insomnia)**, atualmen
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo o conhecimento farmacológico geral, o armodafinil é um agente promotor da vigília, acredita-se que atue principalmente pela inibição do transportador de dopamina. A indicação original registrada no Brasil é apenas uma categoria genérica, sem detalhamento clínico.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Armodafinil (tradução não oficial): “O(s) mecanismo(s) pelo(s) qual(is) a armodafinila promove a vigília é(são) desconhecido(s). A armodafinila (R-modafinila) tem propriedades farmacológicas semelhantes às da modafinila (uma mistura de R- e S-modafinila), na medida do que foi testado em estudos em animais e in vitro.” Texto original em inglês: "The mechanism(s) through which armodafinil promotes wakefulness is unknown. Armodafinil (R-modafinil) has pharmacological properties similar to those of modafinil (a mixture of R- and S-modafinil), to the extent tested in animal and in vitro studies." ([DailyMed: Nuvigil (armodafinil) prescribing information, Golden State Medical Supply, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3dd49302-f757-d945-e063-6294a90afcba), versão de 2026-09-24; acessado em 2026-11-19). Segundo o conhecimento farmacológico geral, o armodafinil é um agente promotor da vigília, acredita-se que atue principalmente pela inibição do transportador de dopamina. A indicação original registrada no Brasil é apenas uma categoria genérica, sem detalhamento clínico.
 
 A relação com a insônia é indireta e, de certo modo, paradoxal: o fármaco promove a vigília, não o sono. A justificativa plausível é que ele trate a sonolência diurna e a fadiga que acompanham a insônia, como na fadiga relacionada ao câncer, na apneia do sono associada à insônia e no transtorno do trabalho em turnos. Ele não trataria a dificuldade de início ou manutenção do sono.
 
@@ -124,12 +124,13 @@ Não há advertências ou contraindicações de bula nos dados compilados. Consu
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “e o único registro brasileiro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “já que o registro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Nuvigil (armodafinil) prescribing information, Golden State Medical Supply, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3dd49302-f757-d945-e063-6294a90afcba) |
 
 <!-- review:end log -->
 

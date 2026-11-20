@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos registros consultados. Segundo informações conhecidas, a caspofungina é uma equinocandina que inibe a enzima beta-(1,3)-D-glucano sintase, interrompendo a síntese da parede celular dos fungos. Sua eficácia como antifúngico está estabelecida.
+Segundo as seções “Mechanism of Action” e “Microbiology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Caspofungin (tradução não oficial): “A caspofungina é um fármaco antifúngico da classe das equinocandinas. […] A caspofungina, uma equinocandina, inibe a síntese de beta (1,3)-D-glucano, um componente essencial da parede celular de espécies suscetíveis de Aspergillus e de Candida. O beta (1,3)-D-glucano não está presente em células de mamíferos.” Texto original em inglês: "Caspofungin is an echinocandin antifungal drug. […] Caspofungin, an echinocandin, inhibits the synthesis of beta (1,3)-D-glucan, an essential component of the cell wall of susceptible Aspergillus species and Candida species. Beta (1,3)-D-glucan is not present in mammalian cells." ([DailyMed: Cancidas (caspofungin acetate) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3bad23a6-09a6-4194-9182-093ed61bc71c), versão de 2024-10-11; acessado em 2026-11-19). Segundo informações conhecidas, a caspofungina é uma equinocandina que inibe a enzima beta-(1,3)-D-glucano sintase, interrompendo a síntese da parede celular dos fungos. Sua eficácia como antifúngico está estabelecida.
 
 Não há um vínculo mecanístico conhecido com a nova indicação. A secreção de gastrina é regulada pelas células G, pelo pH gástrico e pela sinalização da somatostatina, e nenhum desses elementos é alvo conhecido da caspofungina. A pontuação elevada do TxGNN (0,9944) vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica.
 
@@ -121,13 +121,14 @@ A previsão se baseia apenas no modelo (L5), sem ensaios clínicos, sem literatu
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “(5 de 5 registros válidos)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “já que não há registro válido no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Registros válidos: 5 de 5 → 4 de 6 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Cancidas (caspofungin acetate) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3bad23a6-09a6-4194-9182-093ed61bc71c) |
 
 <!-- review:end log -->
 

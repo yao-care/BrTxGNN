@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **distúrbio de liberação prim�
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o filgrastim é um análogo do G-CSF que atua sobre progenitores da linhagem neutrofílica por meio do receptor de G-CSF, e sua eficácia em neutropenias constitucionais está estabelecida.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Filgrastim (tradução não oficial): “Os fatores estimuladores de colônias são glicoproteínas que agem sobre as células hematopoiéticas ligando-se a receptores específicos da superfície celular e estimulando a proliferação, o comprometimento com a diferenciação e alguma ativação funcional das células finais. O G-CSF endógeno é um fator estimulador de colônias específico de linhagem, produzido por monócitos, fibroblastos e células endoteliais.” Texto original em inglês: "Colony-stimulating factors are glycoproteins which act on hematopoietic cells by binding to specific cell surface receptors and stimulating proliferation‚ differentiation commitment‚ and some end-cell functional activation. Endogenous G-CSF is a lineage-specific colony-stimulating factor that is produced by monocytes‚ fibroblasts, and endothelial cells." ([DailyMed: Releuko (filgrastim) prescribing information, Amneal Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=74e1ec6e-1630-4654-895c-2bd355f939e7), versão de 2026-11-10; acessado em 2026-11-19). Segundo informações conhecidas, o filgrastim é um análogo do G-CSF que atua sobre progenitores da linhagem neutrofílica por meio do receptor de G-CSF, e sua eficácia em neutropenias constitucionais está estabelecida.
 
 A relação entre a indicação original e a nova é fraca. Os distúrbios de liberação plaquetária são defeitos intrínsecos da função das plaquetas, enquanto o filgrastim atua sobre a linhagem de neutrófilos. Não há mecanismo estabelecido que ligue o fármaco à correção desses defeitos. A pontuação alta do modelo TxGNN (deep learning) (1,0000) pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica, e não há respaldo de ensaios ou literatura.
 
@@ -126,11 +126,12 @@ Para advertências e contraindicações, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “já que não há registros ativos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Releuko (filgrastim) prescribing information, Amneal Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=74e1ec6e-1630-4654-895c-2bd355f939e7) |
 
 <!-- review:end log -->
 

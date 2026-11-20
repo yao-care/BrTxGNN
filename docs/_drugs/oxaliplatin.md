@@ -56,7 +56,7 @@ atualmente com **3 ensaios clínicos** (2 diretamente relevantes, de Fase 2) e *
 
 ## Por que Esta Previsão é Razoável?
 
-Não há dados detalhados de mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a oxaliplatina é um agente de platina que forma adutos e ligações cruzadas no DNA, bloqueando a replicação e a transcrição e induzindo apoptose. Sua eficácia no câncer colorretal metastático está bem estabelecida.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Oxaliplatin (tradução não oficial): “A oxaliplatina sofre conversão não enzimática em soluções fisiológicas em derivados ativos por meio do deslocamento do ligante oxalato lábil. Várias espécies reativas transitórias são formadas, incluindo monoaquo e diaquo DACH platina, que se ligam covalentemente a macromoléculas.” Texto original em inglês: "Oxaliplatin undergoes nonenzymatic conversion in physiologic solutions to active derivatives via displacement of the labile oxalate ligand. Several transient reactive species are formed, including monoaquo and diaquo DACH platinum, which covalently bind with macromolecules." ([DailyMed: oxaliplatin prescribing information, Gland Pharma Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6f89dc3-a594-4b5b-8728-272e20c1ecb5), versão de 2026-08-24; acessado em 2026-11-19). Segundo informações conhecidas, a oxaliplatina é um agente de platina que forma adutos e ligações cruzadas no DNA, bloqueando a replicação e a transcrição e induzindo apoptose. Sua eficácia no câncer colorretal metastático está bem estabelecida.
 
 Os compostos de platina (cisplatina e carboplatina) são a base da quimioterapia do mesotelioma. Por isso, existe uma justificativa por classe de mecanismo: um derivado da platina com ação semelhante pode, em teoria, ser aplicável a esse tumor. Em estudos de Fase 2, a oxaliplatina mostrou atividade em combinação com antifolatos (raltitrexede), gencitabina, vinorelbina e bortezomibe.
 
@@ -135,12 +135,13 @@ As advertências e contraindicações da bula brasileira não estavam disponíve
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “oxaliplatina também não tem registro no Brasil e a” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “(ausência de registro vigente)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: oxaliplatin prescribing information, Gland Pharma Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6f89dc3-a594-4b5b-8728-272e20c1ecb5) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **deficiência congênita de prot
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a desmopressina aumenta os níveis plasmáticos do fator de von Willebrand (VWF) e do fator VIII por liberação mediada pelo receptor V2 a partir dos estoques endoteliais.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Desmopressin (tradução não oficial): “O acetato de desmopressina aumenta os níveis plasmáticos da atividade do fator VIII em pacientes com hemofilia e doença de von Willebrand Tipo I. Os efeitos antidiuréticos do acetato de desmopressina são mediados pela estimulação dos receptores de vasopressina 2 (V2), aumentando assim a reabsorção de água no rim e, consequentemente, reduzindo a produção de urina. O acetato de desmopressina é um hormônio de reposição do hormônio antidiurético no tratamento do diabetes insipidus central.” Texto original em inglês: "Desmopressin acetate increases plasma levels of factor VIII activity in patients with hemophilia and von Willebrand's disease Type I. The antidiuretic effects of desmopressin acetate are mediated by stimulation of vasopressin 2 (V2) receptors, thereby increasing water re-absorption in the kidney, and hence reducing urine production. Desmopressin acetate is a replacement hormone for antidiuretic hormone in the treatment of central diabetes insipidus." ([DailyMed: Ddavp (desmopressin acetate) prescribing information, Ferring Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=651f6fee-a2c7-431b-8d5d-58b156c72244), versão de 2022-09-28; acessado em 2026-11-19). Segundo informações conhecidas, a desmopressina aumenta os níveis plasmáticos do fator de von Willebrand (VWF) e do fator VIII por liberação mediada pelo receptor V2 a partir dos estoques endoteliais.
 
 A protrombina (fator II) não é um fator sabidamente responsivo à desmopressina. Portanto, **não há justificativa mecanística clara** para esta indicação. A pontuação elevada do TxGNN provavelmente reflete a proximidade na rede de conhecimento com outros distúrbios hemorrágicos, e não um vínculo farmacológico direto.
 
@@ -116,6 +116,18 @@ As advertências e contraindicações da bula brasileira não estavam disponíve
 | Pseudo-doença de von Willebrand | 0,9916 | L4 | Conflita com a fisiopatologia; considerada relativamente contraindicada |
 | Síndrome de Scott | 0,9916 | L4 | Sem dados clínicos com desmopressina; mecanismo não corrige o defeito |
 | "Flood factor deficiency" | 0,9915 | L5 | Provável erro de mapeamento do nome da doença; requer curadoria antes de qualquer avaliação |
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Ddavp (desmopressin acetate) prescribing information, Ferring Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=651f6fee-a2c7-431b-8d5d-58b156c72244) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

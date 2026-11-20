@@ -56,7 +56,7 @@ atualmente com **10 ensaios clínicos** listados (a maioria de forma indireta, e
 
 ## Por que Esta Previsão é Razoável?
 
-A ciclobenzaprina é um relaxante muscular de ação central, estruturalmente relacionado aos antidepressivos tricíclicos. Atua principalmente no tronco cerebral, com antagonismo 5-HT2 e atividade anti-histamínica e anticolinérgica. Não há dados detalhados de mecanismo de ação no conjunto de dados compilado para este relatório; a descrição acima vem da análise de racional de reposicionamento.
+A ciclobenzaprina é um relaxante muscular de ação central, estruturalmente relacionado aos antidepressivos tricíclicos. Atua principalmente no tronco cerebral, com antagonismo 5-HT2 e atividade anti-histamínica e anticolinérgica. Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Cyclobenzaprine (tradução não oficial): “O mecanismo de ação da ciclobenzaprina para o tratamento da fibromialgia em adultos é desconhecido. Em estudos de farmacologia in vitro, a ciclobenzaprina demonstrou antagonismo funcional dos receptores 5-HT 2A, α 1 -adrenérgicos, H 1 -histaminérgicos e M 1 -muscarínicos de acetilcolina.” Texto original em inglês: "The mechanism of action of cyclobenzaprine for the treatment of fibromyalgia in adults is unknown. In in vitro pharmacology studies, cyclobenzaprine demonstrated functional antagonism of 5-HT 2A, α 1 -adrenergic, H 1 -histaminergic, and M 1 -muscarinic acetylcholine receptors." ([DailyMed: Tonmya (cyclobenzaprine hydrochloride) prescribing information, Tonix Medicines, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6fa59588-ce9b-48cf-8c5f-725a448f8571), versão de 2026-08-14; acessado em 2026-11-19).
 
 A indicação original (espasmo e relaxamento muscular) está muito próxima da dor miofascial, que envolve pontos-gatilho, tensão e espasmo musculares. Por isso, o efeito de reduzir o espasmo e a dor é mecanisticamente plausível, e o uso proposto é uma extensão natural do uso aprovado.
 
@@ -175,13 +175,14 @@ As advertências e contraindicações da bula não estavam disponíveis; consult
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-10-31 | Removido: “(registros cancelados)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “s 20 registros localizados estão **válidos**; o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “e o medicamento está comercializado no Brasil, com 20 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Tonmya (cyclobenzaprine hydrochloride) prescribing information, Tonix Medicines, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6fa59588-ce9b-48cf-8c5f-725a448f8571) |
 
 <!-- review:end log -->
 

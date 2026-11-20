@@ -56,7 +56,7 @@ atualmente com **6 ensaios clínicos** e **20 publicações** associados a esta 
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, o brentuximabe vedotina é um anticorpo anti-CD30 ligado à monometil auristatina E (MMAE), um agente que rompe os microtúbulos. O anticorpo leva a carga citotóxica às células que expressam CD30.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Brentuximab Vedotin (tradução não oficial): “O CD30 é um membro da família de receptores do fator de necrose tumoral e é expresso na superfície das células do sALCL e das células de Hodgkin Reed-Sternberg (HRS) no cHL. O CD30 é expresso de forma variável em outros linfomas de células T. […] O brentuximabe vedotina é um conjugado anticorpo-fármaco (ADC).” Texto original em inglês: "CD30 is a member of the tumor necrosis factor receptor family and is expressed on the surface of sALCL cells and on Hodgkin Reed-Sternberg (HRS) cells in cHL. CD30 is variably expressed in other T-cell lymphomas. […] Brentuximab vedotin is an antibody-drug conjugate (ADC)." ([DailyMed: Adcetris (brentuximab vedotin) prescribing information, SEAGEN INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3904f8dd-1aef-3490-e48f-bd55f32ed67f), versão de 2025-11-11; acessado em 2026-11-19). Segundo informações conhecidas, o brentuximabe vedotina é um anticorpo anti-CD30 ligado à monometil auristatina E (MMAE), um agente que rompe os microtúbulos. O anticorpo leva a carga citotóxica às células que expressam CD30.
 
 A relação com o linfoma folicular é apenas parcial. A expressão de CD30 no linfoma folicular é variável e em geral baixa, de modo que a plausibilidade mecanística depende de subgrupos CD30-positivos ou de efeito "bystander" (ação sobre células vizinhas). A pontuação alta do TxGNN reflete a proximidade na rede de conhecimento entre linfomas, e não evidência clínica específica.
 
@@ -141,12 +141,13 @@ Para advertências e contraindicações, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-10-31 | Removido: “(registro cancelado)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “e o único registro brasileiro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Adcetris (brentuximab vedotin) prescribing information, SEAGEN INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3904f8dd-1aef-3490-e48f-bd55f32ed67f) |
 
 <!-- review:end log -->
 

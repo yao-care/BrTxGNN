@@ -66,7 +66,7 @@ atualmente com **6 ensaios clínicos** e **20 publicações** relacionadas a est
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada para este relatório. Segundo informações conhecidas, belinostat é um inibidor pan-HDAC, aprovado em outras jurisdições para linfomas de células T, e sua atividade antineoplásica é reconhecida.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Belinostat (tradução não oficial): “Beleodaq é um inibidor da histona desacetilase (HDAC). As HDACs catalisam a remoção de grupos acetila dos resíduos de lisina das histonas e de algumas proteínas não histonas. In vitro, o belinostate causou o acúmulo de histonas acetiladas e de outras proteínas, induzindo a parada do ciclo celular e/ou a apoptose de algumas células transformadas.” Texto original em inglês: "Beleodaq is a histone deacetylase (HDAC) inhibitor. HDACs catalyze the removal of acetyl groups from the lysine residues of histones and some non-histone proteins. In vitro, belinostat caused the accumulation of acetylated histones and other proteins, inducing cell cycle arrest and/or apoptosis of some transformed cells." ([DailyMed: Beleodaq (belinostat) prescribing information, Acrotech Biopharma Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2e8ef36b-71fa-4492-a16f-577d5f7d111d), versão de 2025-04-07; acessado em 2026-11-19). Segundo informações conhecidas, belinostat é um inibidor pan-HDAC, aprovado em outras jurisdições para linfomas de células T, e sua atividade antineoplásica é reconhecida.
 
 Na leucemia mieloide, a desregulação epigenética é uma característica frequente da doença. A inibição de HDAC pode reativar genes supressores tumorais silenciados, induzir diferenciação e apoptose das células leucêmicas e atuar em sinergia com outros agentes (inibidores de proteassoma, de NEDD8 e de WEE1, agentes hipometilantes e antraciclinas). Estudos pré-clínicos em células de leucemia mieloide aguda e promielocítica sustentam essa biologia.
 
@@ -163,13 +163,14 @@ Para advertências e contraindicações, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “(registro atualmente cancelado)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “O único registro brasileiro está cancelado e n” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “dado que o registro no Brasil está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Beleodaq (belinostat) prescribing information, Acrotech Biopharma Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2e8ef36b-71fa-4492-a16f-577d5f7d111d) |
 
 <!-- review:end log -->
 

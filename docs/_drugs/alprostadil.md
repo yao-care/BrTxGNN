@@ -56,7 +56,7 @@ atualmente com **0 ensaios clínicos** e **8 publicações** relacionadas, sendo
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo o conhecimento farmacológico estabelecido, a prostaglandina E1 (alprostadil) relaxa a musculatura lisa do canal arterial e dos vasos, mantendo-o aberto em recém-nascidos com cardiopatias congênitas dependentes do canal.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Alprostadil (tradução não oficial): “O alprostadil (PGE1) é uma prostaglandina com uma ampla variedade de ações farmacológicas, incluindo vasodilatação e inibição da agregação plaquetária. O alprostadil induz a ereção pelo relaxamento do músculo liso trabecular e pela dilatação das artérias cavernosas, ao se ligar a seus receptores e aumentar os níveis intracelulares de monofosfato cíclico de adenosina (cAMP) por meio da modulação da adenilato ciclase.” Texto original em inglês: "Alprostadil (PGE1) is a prostaglandin with a wide variety of pharmacological actions including vasodilation and inhibition of platelet aggregation. Alprostadil induces erection by relaxation of trabecular smooth muscle and by dilation of cavernosal arteries by binding to its receptors and increasing intracellular cyclic adenosine monophosphate (cAMP) levels via modulation of adenylate cyclase." ([DailyMed: Caverject (alprostadil) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a295fc1e-d82c-4f44-bc2d-a552bf594c98), versão de 2024-05-13; acessado em 2026-11-19). Segundo o conhecimento farmacológico estabelecido, a prostaglandina E1 (alprostadil) relaxa a musculatura lisa do canal arterial e dos vasos, mantendo-o aberto em recém-nascidos com cardiopatias congênitas dependentes do canal.
 
 Esse mecanismo é a base do uso em lesões como a coarctação da aorta e o arco aórtico interrompido. Por isso, a previsão do TxGNN reflete em grande parte um mecanismo já conhecido, e não uma oportunidade de reposicionamento realmente nova. Os efeitos anti-inflamatórios e de proteção de órgãos da PGE1 (por exemplo, após circulação extracorpórea) aparecem na literatura, mas não são específicos da malformação aórtica.
 
@@ -98,6 +98,19 @@ Para advertências e contraindicações oficiais, consulte a bula.
 - Revisão do texto de bula da ANVISA (advertências e contraindicações), ainda não disponível nos dados compilados
 - Estudos clínicos que avaliem diretamente a malformação aórtica
 - Plano de monitoramento de segurança em neonatos (apneia, febre, estenose pilórica, alterações eletrolíticas)
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Caverject (alprostadil) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a295fc1e-d82c-4f44-bc2d-a552bf594c98) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

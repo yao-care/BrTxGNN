@@ -56,7 +56,7 @@ Até o momento, há **0 ensaios clínicos** e **0 publicações** que apoiem ess
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Aripiprazol pertence à classe dos antipsicóticos, mas não é possível traçar um vínculo mecanístico direto com a nova indicação prevista.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Aripiprazole (tradução não oficial): “O mecanismo de ação do aripiprazol no tratamento da esquizofrenia e do transtorno bipolar I é desconhecido. A eficácia do aripiprazol pode ser mediada por uma combinação de atividade agonista parcial nos receptores de dopamina D 2 e de serotonina 5-HT 1A e de atividade antagonista nos receptores 5-HT 2A.” Texto original em inglês: "The mechanism of action of aripiprazole in the treatment of schizophrenia and bipolar I disorder is unknown. The efficacy of aripiprazole could be mediated through a combination of partial agonist activity at dopamine D 2 and serotonin 5-HT 1A receptors and antagonist activity at 5-HT 2A receptors." ([DailyMed: Abilify Asimtufii (aripiprazole) prescribing information, Otsuka America Pharmaceutical, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=da4c07fd-1130-4341-bb44-63acfa4162be), versão de 2025-04-04; acessado em 2026-11-19). Aripiprazol pertence à classe dos antipsicóticos, mas não é possível traçar um vínculo mecanístico direto com a nova indicação prevista.
 
 A doença prevista é um distúrbio raro, de origem genética (relacionado ao gene ROBO3), que afeta o controle do movimento ocular horizontal e se associa a escoliose progressiva. Não há justificativa farmacológica evidente para que um antipsicótico atue sobre esse quadro. A pontuação alta do TxGNN indica apenas uma associação computacional, não uma hipótese biologicamente fundamentada.
 
@@ -119,6 +119,18 @@ Para advertências e contraindicações, consulte a bula.
 - Dados do mecanismo de ação do aripiprazol e análise de sua relevância para a via biológica da doença (ROBO3).
 - Estudos pré-clínicos ou de mecanismo que sustentem a hipótese.
 - Revisão das advertências e contraindicações na bula, para a triagem de segurança.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Abilify Asimtufii (aripiprazole) prescribing information, Otsuka America Pharmaceutical, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=da4c07fd-1130-4341-bb44-63acfa4162be) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

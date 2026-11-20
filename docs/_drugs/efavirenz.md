@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **síndrome da imunodeficiência 
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o efavirenz é um inibidor não nucleosídico da transcriptase reversa (ITRNN) que atua sobre a transcriptase reversa do HIV-1. O vírus da imunodeficiência felina (FIV) é um lentivírus com transcriptase reversa relacionada, o que explica, em parte, a pontuação alta do modelo.
+Segundo as seções “Mechanism of Action” e “Microbiology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Efavirenz (tradução não oficial): “O efavirenz é um medicamento antiviral. […] O efavirenz é um ITRNN do HIV-1. A atividade do efavirenz é mediada predominantemente pela inibição não competitiva da transcriptase reversa do HIV-1. A transcriptase reversa do HIV-2 e as DNA polimerases celulares humanas α,β, γ e δ não são inibidas pelo efavirenz.” Texto original em inglês: "Efavirenz is an antiviral drug. […] Efavirenz is an NNRTI of HIV-1. Efavirenz activity is mediated predominantly by noncompetitive inhibition of HIV-1 reverse transcriptase. HIV-2 reverse transcriptase and human cellular DNA polymerases α,β, γ, and δ are not inhibited by efavirenz." ([DailyMed: efavirenz prescribing information, Macleods Pharmaceuticals Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=13ca3456-e5bf-4bb1-af95-b1378658a358), versão de 2024-06-28; acessado em 2026-11-19). Segundo informações conhecidas, o efavirenz é um inibidor não nucleosídico da transcriptase reversa (ITRNN) que atua sobre a transcriptase reversa do HIV-1. O vírus da imunodeficiência felina (FIV) é um lentivírus com transcriptase reversa relacionada, o que explica, em parte, a pontuação alta do modelo.
 
 Há, porém, um sinal de cautela: a comparação bioquímica e estrutural de ITRNN contra a transcriptase reversa do FIV e do HIV (PMID 38031646) sugere que o bolso de ligação dos ITRNN na enzima felina difere do da enzima do HIV-1, o que pode reduzir a eficácia. A pontuação elevada provavelmente reflete a semelhança com o HIV, e não uma validação independente.
 
@@ -89,6 +89,19 @@ Consulte a bula para advertências e contraindicações.
 - Estudos de atividade antiviral do efavirenz contra o FIV em cultura celular e, depois, em gatos (eficácia, farmacocinética e segurança)
 - Avaliação regulatória e de segurança em medicina veterinária, incluindo os efeitos neuropsiquiátricos conhecidos do fármaco
 - Revisão das advertências e contraindicações na bula registrada na ANVISA
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: efavirenz prescribing information, Macleods Pharmaceuticals Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=13ca3456-e5bf-4bb1-af95-b1378658a358) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

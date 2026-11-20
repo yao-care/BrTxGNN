@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **apenas literatura indireta** (pub
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo a literatura revisada, a zolmitriptana é um agonista parcial dos receptores 5-HT1B/1D com ação central e periférica, capaz de inibir a ativação trigeminovascular. Sua eficácia na enxaqueca aguda, com ou sem aura, está bem documentada.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Zolmitriptan (tradução não oficial): “O zolmitriptano liga-se com alta afinidade aos receptores 5-HT 1D e 5-HT 1B humanos recombinantes e com afinidade moderada aos receptores 5-HT 1A. O metabólito N-desmetil também tem alta afinidade pelos receptores 5-HT 1B/1D e afinidade moderada pelos receptores 5-HT 1A.” Texto original em inglês: "Zolmitriptan binds with high affinity to human recombinant 5-HT 1D and 5-HT 1B receptors, and moderate affinity for 5-HT 1A receptors. The N-desmethyl metabolite also has high affinity for 5-HT 1B/1D and moderate affinity for 5-HT 1A receptors." ([DailyMed: Zolmiptriptan (zolmitriptan) prescribing information, Glenmark Pharmaceuticals Inc., USA](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a734b368-6008-441c-ab44-5634e46be9a4), versão de 2026-01-29; acessado em 2026-11-19). Segundo a literatura revisada, a zolmitriptana é um agonista parcial dos receptores 5-HT1B/1D com ação central e periférica, capaz de inibir a ativação trigeminovascular. Sua eficácia na enxaqueca aguda, com ou sem aura, está bem documentada.
 
 Há, porém, ressalvas importantes. A literatura fornecida trata de enxaqueca em geral (revisões, farmacologia, diretrizes) e não contém nenhum estudo específico sobre aura do tronco encefálico. Os triptanos historicamente exigem cautela em enxaqueca hemiplégica e com aura do tronco encefálico, por preocupações teóricas de vasoconstrição. Além disso, há um relato de caso de infarto do miocárdio associado à zolmitriptana. A evidência é, portanto, indireta.
 
@@ -118,11 +118,12 @@ Há uma lista extensa de contraindicações cardiovasculares e cerebrovasculares
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-10-31 | Removido: “(registro cancelado)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Zolmiptriptan (zolmitriptan) prescribing information, Glenmark Pharmaceuticals Inc., USA](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a734b368-6008-441c-ab44-5634e46be9a4) |
 
 <!-- review:end log -->
 

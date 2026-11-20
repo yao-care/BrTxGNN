@@ -56,7 +56,7 @@ mas atualmente há apenas **1 ensaio clínico** (sem relação direta com o trat
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, omeprazol é um inibidor da bomba de prótons que suprime a secreção de ácido gástrico, e sua eficácia em doenças ácido-relacionadas do trato digestivo superior (refluxo gastroesofágico, esofagite, úlcera duodenal) é bem estabelecida.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Omeprazole (tradução não oficial): “O omeprazol pertence a uma classe de compostos antissecretores, os benzimidazóis substituídos, que suprimem a secreção de ácido gástrico pela inibição específica do sistema enzimático H + /K + ATPase na superfície secretora da célula parietal gástrica. Como esse sistema enzimático é considerado a bomba de ácido (prótons) da mucosa gástrica, o omeprazol foi caracterizado como um inibidor da bomba de ácido gástrico, uma vez que bloqueia a etapa final da produção de ácido.” Texto original em inglês: "Omeprazole belongs to a class of antisecretory compounds, the substituted benzimidazoles, that suppress gastric acid secretion by specific inhibition of the H + /K + ATPase enzyme system at the secretory surface of the gastric parietal cell. Because this enzyme system is regarded as the acid (proton) pump within the gastric mucosa, omeprazole has been characterized as a gastric acid-pump inhibitor, in that it blocks the final step of acid production." ([DailyMed: Prilosec (omeprazole magnesium) prescribing information, Covis Pharma US, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b6761f84-53ac-4745-a8c8-1e5427d7e179), versão de 2024-03-19; acessado em 2026-11-19). Segundo informações conhecidas, omeprazol é um inibidor da bomba de prótons que suprime a secreção de ácido gástrico, e sua eficácia em doenças ácido-relacionadas do trato digestivo superior (refluxo gastroesofágico, esofagite, úlcera duodenal) é bem estabelecida.
 
 O refluxo duodenogástrico (retorno de bile e conteúdo duodenal ao estômago) é mecanisticamente adjacente a essas doenças, e a redução da acidez poderia aliviar sintomas e lesões da mucosa. No entanto, inibidores da bomba de prótons **não impedem o refluxo de bile em si**. Estudos pequenos em esôfago de Barrett (omeprazol 20 mg duas vezes ao dia) e um estudo pediátrico prospectivo avaliaram o refluxo biliar, mas mostraram redução de medidas relacionadas ao refluxo, não um benefício claro para o refluxo duodenogástrico como doença.
 
@@ -125,11 +125,12 @@ Há um sinal de segurança (carcinogênese em modelos animais). A pontuação al
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “já que os dados compilados indicam 0 registros” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Prilosec (omeprazole magnesium) prescribing information, Covis Pharma US, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b6761f84-53ac-4745-a8c8-1e5427d7e179) |
 
 <!-- review:end log -->
 

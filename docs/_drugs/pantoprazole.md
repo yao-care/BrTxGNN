@@ -60,7 +60,7 @@ atualmente com **1 ensaio clínico** e **20 publicações** apoiando esta direç
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação na base de origem. Pelo conhecimento da classe e pela literatura compilada, o pantoprazol inibe de forma irreversível a H+/K+ ATPase (bomba de prótons) das células parietais gástricas. Isso reduz a secreção de ácido e permite a cicatrização da úlcera.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Pantoprazole (tradução não oficial): “O pantoprazol é um IBP que suprime a etapa final da produção de ácido gástrico ligando-se covalentemente ao sistema enzimático (H +, K + )-ATPase na superfície secretora da célula parietal gástrica. Esse efeito leva à inibição da secreção de ácido gástrico tanto basal quanto estimulada, independentemente do estímulo.” Texto original em inglês: "Pantoprazole is a PPI that suppresses the final step in gastric acid production by covalently binding to the (H +, K + )-ATPase enzyme system at the secretory surface of the gastric parietal cell. This effect leads to inhibition of both basal and stimulated gastric acid secretion irrespective of the stimulus." ([DailyMed: Protonix I.V. (pantoprazole sodium) prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3cde88e6-28f2-4cbe-8c3f-770b05cc0e1b), versão de 2026-11-06; acessado em 2026-11-19). Pelo conhecimento da classe e pela literatura compilada, o pantoprazol inibe de forma irreversível a H+/K+ ATPase (bomba de prótons) das células parietais gástricas. Isso reduz a secreção de ácido e permite a cicatrização da úlcera.
 
 Obstrução duodenal (pontuação de 0,9921) não tem vínculo mecanístico crível. A pontuação vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica.
 
@@ -180,13 +180,14 @@ As advertências e contraindicações da bula da ANVISA não estavam disponívei
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Todos os 20 registros encontrados estão válidos; o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “e há 20 registros válidos no Brasil, com o medicamento comercializado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Verificar a situação regulatória atual: os 20 registros estão cancelados, então é preciso confirmar se há outro registro vigente ou se seria” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Protonix I.V. (pantoprazole sodium) prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3cde88e6-28f2-4cbe-8c3f-770b05cc0e1b) |
 
 <!-- review:end log -->
 

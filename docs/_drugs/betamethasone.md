@@ -56,7 +56,7 @@ atualmente com **0 ensaios clínicos** e **1 publicação** (série de casos de 
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a betametasona pertence à classe dos glicocorticoides, que exercem ação anti-inflamatória e imunossupressora.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Betamethasone (tradução não oficial): “Os corticosteroides desempenham um papel na sinalização celular, na função imune, na inflamação e na regulação de proteínas; no entanto, o mecanismo de ação exato de SERNIVO Spray na psoríase é desconhecido.” Texto original em inglês: "Corticosteroids play a role in cellular signaling, immune function, inflammation, and protein regulation; however, the precise mechanism of action of SERNIVO Spray in psoriasis is unknown." ([DailyMed: Sernivo (betamethasone dipropionate) prescribing information, Primus Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b1b3d1b0-da9b-11eb-ad76-0800200c9a66), versão de 2026-04-22; acessado em 2026-11-19). Segundo informações conhecidas, a betametasona pertence à classe dos glicocorticoides, que exercem ação anti-inflamatória e imunossupressora.
 
 A mucinose folicular envolve depósito de mucina e inflamação ao redor dos folículos pilosos, processo que corticosteroides podem, em tese, reduzir. Esse é o elo mecanístico plausível com o uso do fármaco.
 
@@ -127,6 +127,18 @@ Para advertências e contraindicações, consulte a bula.
 - Revisão sistemática da literatura recente sobre corticosteroides na mucinose folicular
 - Definição da via de administração adequada (tópica, intralesional ou sistêmica)
 - Informações de segurança da bula (advertências e contraindicações) para a avaliação de segurança
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Sernivo (betamethasone dipropionate) prescribing information, Primus Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b1b3d1b0-da9b-11eb-ad76-0800200c9a66) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

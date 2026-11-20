@@ -59,7 +59,7 @@ O modelo TxGNN prevê que pode ser eficaz para **calcifilaxia visceral (visceral
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação no material compilado. Segundo informações conhecidas, a travoprosta é um análogo da prostaglandina F2-alfa que ativa o receptor FP e tem atividade vasodilatadora. Seu uso estabelecido é reduzir a pressão intraocular no glaucoma e na hipertensão ocular.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Travoprost (tradução não oficial): “O ácido livre de travoprosta, um análogo de prostaglandina, é um agonista seletivo do receptor prostanoide FP, que se acredita reduzir a PIO por aumentar o escoamento uveoescleral. O mecanismo de ação exato é desconhecido no momento.” Texto original em inglês: "Travoprost free acid, a prostaglandin analog is a selective FP prostanoid receptor agonist, which is believed to reduce IOP by increasing uveoscleral outflow. The exact mechanism of action is unknown at this time." ([DailyMed: Travoprost Ophthalmic Soluton (travoprost) prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=498a376e-a74e-48d8-a022-ad15a1ecadb5), versão de 2026-09-28; acessado em 2026-11-19). Segundo informações conhecidas, a travoprosta é um análogo da prostaglandina F2-alfa que ativa o receptor FP e tem atividade vasodilatadora. Seu uso estabelecido é reduzir a pressão intraocular no glaucoma e na hipertensão ocular.
 
 A única ligação possível com a calcifilaxia visceral é a vasodilatação, que poderia se relacionar de forma ampla com a calcificação e a isquemia da microvasculatura. Essa hipótese é especulativa e não tem respaldo em dados. A similaridade entre a indicação original (doença ocular) e a nova indicação (doença vascular sistêmica) ainda não foi avaliada.
 
@@ -109,6 +109,19 @@ As advertências e contraindicações da bula aprovada pela ANVISA não estavam 
 Outras previsões do modelo também permanecem em **Hold**: síndrome do desfiladeiro torácico (arterial, venosa e neurogênica), doença vascular, angiodisplasia do estômago, síndrome do dedo azul, dissecção espontânea da artéria coronária, linfangiectasia e hemangioendotelioma. Nenhuma tem ensaios clínicos ou literatura que apoie a eficácia.
 
 No caso de **doença vascular**, os 10 ensaios e 20 publicações recuperados tratam de glaucoma e hiperemia conjuntival, e não de doença vascular. O único estudo com desfecho vascular (NCT00308945, Fase 4, n=20) mediu o diâmetro vascular da retina e o fluxo sanguíneo da coroide, sem relação com tratamento de doença vascular. No caso de **hemangioendotelioma**, a única publicação (PMID 19107053) é um relato de caso de efusão uveal induzida pela travoprosta em paciente com síndrome de Sturge-Weber-Krabbe, ou seja, um sinal de segurança desfavorável em pacientes com vasculatura anormal.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Travoprost Ophthalmic Soluton (travoprost) prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=498a376e-a74e-48d8-a022-ad15a1ecadb5) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

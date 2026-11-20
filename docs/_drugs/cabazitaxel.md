@@ -56,7 +56,7 @@ e os dados compilados para este relatório mostram **nenhum ensaio clínico regi
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada. Segundo informações conhecidas, o cabazitaxel é um taxano semissintético que estabiliza os microtúbulos e inibe a dinâmica do fuso mitótico, levando à parada do ciclo celular e à apoptose.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Cabazitaxel (tradução não oficial): “O cabazitaxel é um inibidor de microtúbulos. O cabazitaxel liga-se à tubulina e promove sua montagem em microtúbulos, inibindo simultaneamente sua desmontagem. Isso leva à estabilização dos microtúbulos, o que resulta na inibição das funções celulares mitóticas e de interfase.” Texto original em inglês: "Cabazitaxel is a microtubule inhibitor. Cabazitaxel binds to tubulin and promotes its assembly into microtubules while simultaneously inhibiting disassembly. This leads to the stabilization of microtubules, which results in the inhibition of mitotic and interphase cellular functions." ([DailyMed: Jevtana (cabazitaxel) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de3d9c26-572b-4ea4-9b2d-dd58a2b3e8fa), versão de 2025-10-07; acessado em 2026-11-19). Segundo informações conhecidas, o cabazitaxel é um taxano semissintético que estabiliza os microtúbulos e inibe a dinâmica do fuso mitótico, levando à parada do ciclo celular e à apoptose.
 
 Esse mecanismo é compartilhado com o docetaxel e o paclitaxel, taxanos já consolidados no tratamento do câncer de mama. Além disso, o cabazitaxel é um substrato fraco da glicoproteína-P, o que pode permitir superar a resistência a outros taxanos. Estudos in vitro mostram que ele é menos afetado por resistência cruzada do que o paclitaxel e o docetaxel em linhagens celulares.
 
@@ -114,6 +114,19 @@ Para advertências e contraindicações formais, consulte a bula.
 - Obter as advertências e contraindicações da bula aprovada pela ANVISA
 - Complementar os dados de mecanismo de ação e os detalhes dos registros no Brasil
 - Definir população-alvo (por exemplo, câncer de mama triplo-negativo) e plano de monitoramento hematológico e de interações medicamentosas (especialmente inibidores de CYP3A4)
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Jevtana (cabazitaxel) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de3d9c26-572b-4ea4-9b2d-dd58a2b3e8fa) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

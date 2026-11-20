@@ -56,7 +56,7 @@ atualmente com **1 ensaio clínico** e **2 publicações** relacionados a esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Sabe-se que a hidrocortisona é um glicocorticoide com efeitos anti-inflamatórios e imunossupressores.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Hydrocortisone Acetate (tradução não oficial): “A hidrocortisona é um glicocorticoide. Os glicocorticoides, esteroides adrenocorticais, causam efeitos metabólicos variados. Além disso, modificam as respostas imunológicas do organismo a diversos estímulos..” Texto original em inglês: "Hydrocortisone is a glucocorticoid. Glucocorticoids, adrenocortical steroids, cause varied metabolic effects. In addition, they modify the body's immune responses to diverse stimuli.." ([DailyMed: Alkindi Sprinkle (hydrocortisone) prescribing information, Eton Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=26c13a5f-7119-4c6a-bf10-fda4e07d7682), versão de 2026-04-21; acessado em 2026-11-19). Sabe-se que a hidrocortisona é um glicocorticoide com efeitos anti-inflamatórios e imunossupressores.
 
 A alopecia areata é uma doença autoimune, na qual células T atacam os folículos pilosos. Um fármaco que reduz a inflamação ao redor do folículo é, portanto, plausível, e isso condiz com o uso consagrado de corticosteroides tópicos e intralesionais nesta doença.
 
@@ -140,7 +140,7 @@ Há 6 registros válidos no total; os cinco principais estão listados acima.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
@@ -149,6 +149,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | 2026-11-12 | Tabela: registro 103700768 (ACECORTHYL) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Tabela: registro 104971404 (CORTIGEN) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Tabela: registro 104970020 (CORTISONAL) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Alkindi Sprinkle (hydrocortisone) prescribing information, Eton Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=26c13a5f-7119-4c6a-bf10-fda4e07d7682) |
 
 <!-- review:end log -->
 

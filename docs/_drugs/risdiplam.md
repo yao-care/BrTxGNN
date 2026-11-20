@@ -59,7 +59,7 @@ O modelo TxGNN prevê que pode ser eficaz para **acne (disease)**, mas atualment
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, o risdiplam é um modulador de splicing do SMN2, que promove a inclusão do éxon 7 e aumenta a produção de proteína SMN funcional. Esse é o fundamento de seu uso na atrofia muscular espinhal, mas essa indicação não consta nos registros brasileiros analisados.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Risdiplam (tradução não oficial): “O risdiplam é um modificador do splicing do gene de sobrevivência do neurônio motor 2 (SMN2) desenvolvido para tratar pacientes com atrofia muscular espinhal (AME) causada por mutações no cromossomo 5q que levam à deficiência da proteína SMN. Por meio de ensaios in vitro e de estudos em modelos animais transgênicos de AME, demonstrou-se que o risdiplam aumenta a inclusão do éxon 7 nos transcritos de ácido ribonucleico mensageiro (mRNA) do SMN2 e a produção da proteína SMN completa no cérebro.” Texto original em inglês: "Risdiplam is a survival of motor neuron 2 (SMN2) splicing modifier designed to treat patients with spinal muscular atrophy (SMA) caused by mutations in chromosome 5q that lead to SMN protein deficiency. Using in vitro assays and studies in transgenic animal models of SMA, risdiplam was shown to increase exon 7 inclusion in SMN2 messenger ribonucleic acid (mRNA) transcripts and production of full-length SMN protein in the brain." ([DailyMed: Evrysdi (risdiplam) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eceb9a99-7191-4be5-87c3-0102707cf98e), versão de 2026-11-02; acessado em 2026-11-19). Segundo informações conhecidas, o risdiplam é um modulador de splicing do SMN2, que promove a inclusão do éxon 7 e aumenta a produção de proteína SMN funcional. Esse é o fundamento de seu uso na atrofia muscular espinhal, mas essa indicação não consta nos registros brasileiros analisados.
 
 Não foi identificado mecanismo que sustente a previsão para acne. Não há relação estabelecida entre a modulação do splicing de SMN2 e a biologia das glândulas sebáceas ou a inflamação associada ao *C. acnes*. A pontuação elevada (0,9945) vem do modelo TxGNN (aprendizado profundo) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica, sem respaldo clínico ou de literatura.
 
@@ -111,6 +111,19 @@ A previsão para acne baseia-se apenas na pontuação do modelo, sem ensaios cl�
 - Verificar a situação regulatória do risdiplam no Brasil e sua indicação original
 - Realizar estudos pré-clínicos ou revisão da literatura que sustentem a ligação mecanística com acne
 - Avaliar compatibilidade de via de administração e formulação para a nova indicação
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Evrysdi (risdiplam) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eceb9a99-7191-4be5-87c3-0102707cf98e) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

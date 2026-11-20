@@ -56,7 +56,7 @@ atualmente com **8 ensaios clínicos** e **20 publicações** apoiando esta dire
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a sinvastatina é uma estatina, inibidora da enzima HMG-CoA redutase. Ao reduzir a síntese de colesterol no fígado, aumenta os receptores de LDL e acelera a remoção do LDL-colesterol do sangue.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Simvastatin (tradução não oficial): “Sinvastatina é um pró-fármaco e é hidrolisada à sua forma ativa β-hidroxiácido, o ácido de sinvastatina, após a administração. O ácido de sinvastatina e seus metabólitos são inibidores da HMG-CoA redutase, a enzima limitante da velocidade que converte HMG-CoA em mevalonato, um precursor do colesterol.” Texto original em inglês: "Simvastatin is a prodrug and is hydrolyzed to its active β-hydroxyacid form, simvastatin acid, after administration. Simvastatin acid and its metabolites are inhibitors of HMG-CoA reductase, the rate-limiting enzyme that converts HMG-CoA to mevalonate, a precursor of cholesterol." ([DailyMed: Zocor (simvastatin) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8f55d5de-5a4f-4a39-8c84-c53976dd6af9), versão de 2025-03-28; acessado em 2026-11-19). Segundo informações conhecidas, a sinvastatina é uma estatina, inibidora da enzima HMG-CoA redutase. Ao reduzir a síntese de colesterol no fígado, aumenta os receptores de LDL e acelera a remoção do LDL-colesterol do sangue.
 
 A hipercolesterolemia familiar é uma doença genética em que a remoção do LDL-colesterol é deficiente, levando a níveis muito elevados e a doença coronariana precoce. Como a sinvastatina já é usada para reduzir lipídios, a nova indicação é uma extensão natural da indicação original: o mesmo mecanismo atua sobre o mesmo problema de fundo, só que em uma população com causa genética.
 
@@ -180,13 +180,14 @@ Para advertências formais de uso, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “O medicamento está comercializado, com **20 registros válidos** atualmente” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “O mercado brasileiro não tem registros válidos, e f” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Verificar a situação regulatória: o medicamento está comercializado, com 20 registros válidos no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Zocor (simvastatin) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8f55d5de-5a4f-4a39-8c84-c53976dd6af9) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, siltuximabe é um anticorpo monoclonal anti-IL-6, e a IL-6 é uma citocina central em processos inflamatórios e linfoproliferativos.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Siltuximab (tradução não oficial): “Siltuximabe liga-se à IL-6 humana e impede a ligação da IL-6 aos receptores de IL-6 tanto solúveis quanto ligados à membrana. Foi demonstrado que a IL-6 está envolvida em diversos processos fisiológicos normais, como a indução da secreção de imunoglobulinas.” Texto original em inglês: "Siltuximab binds human IL-6 and prevents the binding of IL-6 to both soluble and membrane-bound IL-6 receptors. IL-6 has been shown to be involved in diverse normal physiologic processes such as induction of immunoglobulin secretion." ([DailyMed: Sylvant (siltuximab) prescribing information, Recordati Rare Diseases, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d663642-f52e-49c0-a023-2da083fdfc0b), versão de 2024-08-27; acessado em 2026-11-19). Segundo informações conhecidas, siltuximabe é um anticorpo monoclonal anti-IL-6, e a IL-6 é uma citocina central em processos inflamatórios e linfoproliferativos.
 
 A IL-6 tem sido associada à proliferação e à sobrevivência de mastócitos, o que cria um vínculo teórico entre o bloqueio dessa via e o mastocitoma extracutâneo. A relação com a indicação original ("imunossupressor") é de natureza ampla: ambas envolvem modulação da resposta imunológica e inflamatória.
 
@@ -132,12 +132,13 @@ A previsão para mastocitoma extracutâneo tem pontuação alta no modelo, mas n
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-10-31 | Removido: “(registro cancelado)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Além disso, o único registro na ANVISA está cancelado e faltam dados de segurança da bula” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Sylvant (siltuximab) prescribing information, Recordati Rare Diseases, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d663642-f52e-49c0-a023-2da083fdfc0b) |
 
 <!-- review:end log -->
 

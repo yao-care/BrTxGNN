@@ -60,7 +60,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, o cobicistat é um inibidor de CYP3A que atua como potencializador farmacocinético, sem atividade antiviral própria. Ele é usado para aumentar a exposição a inibidores de protease do HIV-1 (como darunavir e atazanavir) e ao inibidor de integrase elvitegravir.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Cobicistat (tradução não oficial): “O cobicistate é um inibidor baseado em mecanismo do citocromo P450 3A (CYP3A). A inibição do metabolismo mediado pelo CYP3A pelo cobicistate aumenta a exposição sistêmica aos substratos do CYP3A atazanavir e darunavir.” Texto original em inglês: "Cobicistat is a mechanism-based inhibitor of cytochrome P450 3A (CYP3A). Inhibition of CYP3A-mediated metabolism by cobicistat increases the systemic exposure of CYP3A substrates atazanavir and darunavir." ([DailyMed: Tybost (cobicistat) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3784c35c-e87f-410c-900b-8fd6313c6010), versão de 2026-02-10; acessado em 2026-11-19). Segundo informações conhecidas, o cobicistat é um inibidor de CYP3A que atua como potencializador farmacocinético, sem atividade antiviral própria. Ele é usado para aumentar a exposição a inibidores de protease do HIV-1 (como darunavir e atazanavir) e ao inibidor de integrase elvitegravir.
 
 O vírus da imunodeficiência felina (FIV) é um lentivírus relacionado ao HIV, e sua protease tem estrutura semelhante. Por isso, é concebível um raciocínio de regime potencializado. Contudo, a pontuação elevada do modelo TxGNN (deep learning) pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, e não evidência biológica.
 
@@ -119,12 +119,13 @@ Consulte a bula para informações adicionais de segurança (advertências e con
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “e o único registro brasileiro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “dado que o registro no Brasil está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Tybost (cobicistat) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3784c35c-e87f-410c-900b-8fd6313c6010) |
 
 <!-- review:end log -->
 

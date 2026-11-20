@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e apenas **12 publicações** (em sua
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, a isoniazida é um fármaco antituberculoso, sua eficácia contra a tuberculose é consolidada, e mecanisticamente pode ser aplicável a quadros oculares desencadeados por infecção micobacteriana.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Isoniazid (tradução não oficial): “A isoniazida inibe a síntese dos ácidos micólicos, um componente essencial da parede celular bacteriana. Em níveis terapêuticos, a isoniazida é bactericida contra organismos de Mycobacterium tuberculosis intracelulares e extracelulares em crescimento ativo.” Texto original em inglês: "Isoniazid inhibits the synthesis of mycoloic acids, an essential component of the bacterial cell wall. At therapeutic levels isoniazid is bactericidal against actively growing intracellular and extracellular Mycobacterium tuberculosis organisms." ([DailyMed: isoniazid prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6dab7b7b-a3a9-47ef-b423-134bc6970d8b), versão de 2026-09-04; acessado em 2026-11-19). Segundo informações conhecidas, a isoniazida é um fármaco antituberculoso, sua eficácia contra a tuberculose é consolidada, e mecanisticamente pode ser aplicável a quadros oculares desencadeados por infecção micobacteriana.
 
 A ligação com a conjuntivite é estreita e indireta. A ceratoconjuntivite flictenular é uma reação de hipersensibilidade a antígenos micobacterianos (por exemplo, da tuberculose). Tratar a infecção tuberculosa de base, ou fazer profilaxia em populações de alto risco, pode reduzir a doença ocular. Trata-se de atuar sobre o gatilho infeccioso ou imunológico, e não de um efeito anticonjuntivite direto.
 
@@ -139,6 +139,19 @@ Para advertências e contraindicações da bula, consulte o documento oficial.
 - Definir se a indicação-alvo é limitada à conjuntivite de origem tuberculosa (ceratoconjuntivite flictenular) e avaliar estudos específicos nessa população
 - Avaliar a via de administração (sistêmica ou ocular) e a compatibilidade com a nova indicação
 - Revisar o perfil de hepatotoxicidade e neuropatia frente ao benefício esperado em uma condição geralmente leve
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: isoniazid prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6dab7b7b-a3a9-47ef-b423-134bc6970d8b) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

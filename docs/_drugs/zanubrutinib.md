@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Leucemia Mieloide (Myeloid Leuk
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o zanubrutinibe é um inibidor de BTK de nova geração, com maior seletividade do que ibrutinibe e acalabrutinibe. A sinalização de BTK é central em neoplasias de células B, como leucemia linfocítica crônica/linfoma linfocítico de pequenas células (LLC/LLPC), macroglobulinemia de Waldenström e linfoma de células do manto.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Zanubrutinib (tradução não oficial): “O zanubrutinibe é um inibidor de molécula pequena da tirosina quinase de Bruton (BTK). O zanubrutinibe forma uma ligação covalente com um resíduo de cisteína no sítio ativo da BTK, levando à inibição da atividade da BTK. A BTK é uma molécula sinalizadora das vias do receptor de antígeno de células B (BCR) e dos receptores de citocinas.” Texto original em inglês: "Zanubrutinib is a small-molecule inhibitor of Bruton's tyrosine kinase (BTK). Zanubrutinib forms a covalent bond with a cysteine residue in the BTK active site, leading to inhibition of BTK activity. BTK is a signaling molecule of the B-cell antigen receptor (BCR) and cytokine receptor pathways." ([DailyMed: Brukinsa (zanubrutinib) prescribing information, BeOne Medicines USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3e08fe23-d70e-424c-bc51-1222e320f902), versão de 2026-09-04; acessado em 2026-11-19). Segundo informações conhecidas, o zanubrutinibe é um inibidor de BTK de nova geração, com maior seletividade do que ibrutinibe e acalabrutinibe. A sinalização de BTK é central em neoplasias de células B, como leucemia linfocítica crônica/linfoma linfocítico de pequenas células (LLC/LLPC), macroglobulinemia de Waldenström e linfoma de células do manto.
 
 A relação com a nova indicação é indireta. Sabe-se que a BTK é expressa em algumas células mieloides e pode contribuir para sinais de sobrevivência na leucemia mieloide aguda. No entanto, toda a literatura disponível trata de neoplasias linfoides (sobretudo LLC/LLPC), e não de leucemia mieloide.
 
@@ -138,12 +138,13 @@ Para advertências e contraindicações, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-10-31 | Removido: “(registro cancelado)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Além disso, o único registro brasileiro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Brukinsa (zanubrutinib) prescribing information, BeOne Medicines USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3e08fe23-d70e-424c-bc51-1222e320f902) |
 
 <!-- review:end log -->
 

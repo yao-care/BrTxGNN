@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **osteoporose induzida por fárma
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, o sacituzumabe govitecana é um anticorpo dirigido ao Trop-2 ligado ao SN-38, metabólito ativo do irinotecano, que inibe a topoisomerase I e causa dano ao DNA em células tumorais.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Sacituzumab Govitecan (tradução não oficial): “O sacituzumabe govitecana-hziy é um conjugado anticorpo-fármaco direcionado ao Trop-2. O sacituzumabe é um anticorpo humanizado que reconhece o Trop-2. A pequena molécula, SN-38, é um inibidor da topoisomerase I, que está ligada covalentemente ao anticorpo por um ligante.” Texto original em inglês: "Sacituzumab govitecan-hziy is a Trop-2-directed antibody-drug conjugate. Sacituzumab is a humanized antibody that recognizes Trop-2. The small molecule, SN-38, is a topoisomerase I inhibitor, which is covalently attached to the antibody by a linker." ([DailyMed: Trodelvy (sacituzumab govitecan) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=57a597d2-03f0-472e-b148-016d7169169d), versão de 2026-06-24; acessado em 2026-11-19). Segundo informações conhecidas, o sacituzumabe govitecana é um anticorpo dirigido ao Trop-2 ligado ao SN-38, metabólito ativo do irinotecano, que inibe a topoisomerase I e causa dano ao DNA em células tumorais.
 
 **Não se estabelece um vínculo mecanístico plausível** com a osteoporose induzida por fármacos. A quimioterapia citotóxica está, em geral, mais associada à perda óssea do que à proteção óssea. A pontuação elevada do TxGNN (0,9978) vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, e não evidência biológica nem um mecanismo terapêutico real.
 
@@ -108,11 +108,12 @@ Para advertências e contraindicações, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, o único registro brasileiro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Trodelvy (sacituzumab govitecan) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=57a597d2-03f0-472e-b148-016d7169169d) |
 
 <!-- review:end log -->
 

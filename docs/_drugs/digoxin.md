@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Angina de Prinzmetal (Prinzmeta
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Sabe-se que a digoxina atua classicamente inibindo a Na+/K+-ATPase, com efeito inotrópico positivo e redução da condução atrioventricular.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Digoxin (tradução não oficial): “Todas as ações da digoxina são mediadas por meio de seus efeitos sobre a Na-K ATPase. Essa enzima, a “bomba de sódio”, é responsável por manter o meio intracelular em todo o organismo, transportando íons sódio para fora das células e íons potássio para dentro delas.” Texto original em inglês: "All of digoxin’s actions are mediated through its effects on Na-K ATPase. This enzyme, the “sodium pump,” is responsible for maintaining the intracellular milieu throughout the body by moving sodium ions out of and potassium ions into cells." ([DailyMed: Lanoxin (digoxin) prescribing information, Covis Pharma US, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9ec84cac-6ecc-43dc-8006-6ccc029e2707), versão de 2025-10-17; acessado em 2026-11-19). Sabe-se que a digoxina atua classicamente inibindo a Na+/K+-ATPase, com efeito inotrópico positivo e redução da condução atrioventricular.
 
 A angina de Prinzmetal (vasoespástica) é causada por espasmo das artérias coronárias e é tratada tipicamente com bloqueadores dos canais de cálcio e nitratos. O efeito inotrópico da digoxina não oferece benefício claro contra o vasoespasmo e, teoricamente, poderia até agravá-lo. A pontuação do modelo é muito alta (0,9981), mas não encontramos justificativa mecanística respaldada por evidências. A previsão deve ser vista como um sinal computacional, ainda não sustentado por dados biológicos ou clínicos.
 
@@ -87,6 +87,19 @@ Para demais advertências e contraindicações, consulte a bula.
 - Estudos pré-clínicos ou observacionais que avaliem diretamente a digoxina na angina vasoespástica
 - Revisão das advertências e contraindicações da bula aprovada pela ANVISA
 - Análise de segurança cardiovascular específica para esta população
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Lanoxin (digoxin) prescribing information, Covis Pharma US, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9ec84cac-6ecc-43dc-8006-6ccc029e2707) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

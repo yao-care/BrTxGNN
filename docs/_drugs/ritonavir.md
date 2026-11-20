@@ -57,7 +57,7 @@ Observação sobre o nível de evidência: as publicações disponíveis estudam
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o ritonavir é um inibidor da protease do HIV (e também um potente inibidor da enzima CYP3A4, usado para "reforçar" outros antirretrovirais). Sua eficácia em HIV está registrada no grafo de conhecimento, e mecanisticamente pode ser aplicável a lentivírus aparentados.
+Segundo as seções “Mechanism of Action” e “Microbiology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Ritonavir (tradução não oficial): “O ritonavir é um fármaco antirretroviral. […] O ritonavir é um inibidor peptidomimético da protease do HIV-1. A inibição da protease do HIV torna a enzima incapaz de processar o precursor poliproteico Gag-Pol, o que leva à produção de partículas imaturas não infecciosas do HIV.” Texto original em inglês: "Ritonavir is an antiretroviral drug. […] Ritonavir is a peptidomimetic inhibitor of the HIV-1 protease. Inhibition of HIV protease renders the enzyme incapable of processing the Gag-Pol polyprotein precursor which leads to production of non-infectious immature HIV particles." ([DailyMed: Norvir (ritonavir) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2849298e-de6e-47bb-8194-56e075b33fc3), versão de 2026-07-23; acessado em 2026-11-19). Segundo informações conhecidas, o ritonavir é um inibidor da protease do HIV (e também um potente inibidor da enzima CYP3A4, usado para "reforçar" outros antirretrovirais). Sua eficácia em HIV está registrada no grafo de conhecimento, e mecanisticamente pode ser aplicável a lentivírus aparentados.
 
 O SIV é um lentivírus muito próximo do HIV, com protease semelhante. Um estudo in vitro (PMID 12709355) mostrou que o SIVmac239 foi inibido pelo ritonavir com concentração efetiva de 50% de cerca de 13 nM, comparável à observada para o HIV-1 (cerca de 25 nM). Isso sustenta a plausibilidade biológica.
 
@@ -138,11 +138,12 @@ As advertências e contraindicações da bula brasileira não estavam disponíve
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-11 | Removido: “Há 20 registros no total, dos quais 5 válidos e 15 cancelados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Norvir (ritonavir) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2849298e-de6e-47bb-8194-56e075b33fc3) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ Os dados compilados para este relatório não incluem ensaios clínicos registra
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados de mecanismo de ação nos registros compilados. Pelo conhecimento farmacológico geral, o clonazepam é um benzodiazepínico que reforça a inibição mediada pelo receptor GABA-A. Isso pode reduzir a hiperexcitabilidade sensório-motora e a fragmentação do sono associadas à síndrome das pernas inquietas e aos movimentos periódicos dos membros.
+Segundo a seção “Clinical Pharmacology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Clonazepam (tradução não oficial): “O mecanismo exato pelo qual o clonazepam exerce seus efeitos anticonvulsivantes e antipânico é desconhecido, embora se acredite que esteja relacionado à sua capacidade de potencializar a atividade do ácido gama-aminobutírico (GABA), o principal neurotransmissor inibitório do sistema nervoso central.” Texto original em inglês: "The precise mechanism by which clonazepam exerts its antiseizure and antipanic effects is unknown, although it is believed to be related to its ability to enhance the activity of gamma aminobutyric acid (GABA), the major inhibitory neurotransmitter in the central nervous system." ([DailyMed: Klonopin (clonazepam) prescribing information, H2-Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cfa0d79a-843c-4b88-95a1-e9511d649ca1), versão de 2025-12-01; acessado em 2026-11-19). Pelo conhecimento farmacológico geral, o clonazepam é um benzodiazepínico que reforça a inibição mediada pelo receptor GABA-A. Isso pode reduzir a hiperexcitabilidade sensório-motora e a fragmentação do sono associadas à síndrome das pernas inquietas e aos movimentos periódicos dos membros.
 
 A ação seria sintomática, sobre o sono e os sintomas motores, e não sobre a fisiopatologia de base (vias dopaminérgicas e metabolismo do ferro). A literatura descreve o uso de clonazepam nesse contexto há décadas, e uma pesquisa citada na revisão histórica de 2024 indica que cerca de 25% de 16.694 pessoas tratadas para a síndrome recebiam benzodiazepínicos, isolados ou associados.
 
@@ -102,6 +102,19 @@ Atualmente não há ensaios clínicos relacionados registrados.
 - Obter os dados do mecanismo de ação e as advertências e contraindicações da bula na ANVISA.
 - Definir população-alvo restrita (pacientes que não toleram ou não respondem a agentes de primeira linha) e plano de monitoramento de sedação, tolerância, dependência, quedas e interações com opioides e depressores do sistema nervoso central.
 - Considerar um ensaio controlado atual, pois os estudos controlados disponíveis são antigos e de pequeno porte.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Klonopin (clonazepam) prescribing information, H2-Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cfa0d79a-843c-4b88-95a1-e9511d649ca1) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

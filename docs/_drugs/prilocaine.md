@@ -58,7 +58,7 @@ Entre as 10 indicações previstas, a única com sinal minimamente plausível é
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a prilocaína é um anestésico local do tipo amida que bloqueia canais de sódio dependentes de voltagem, e sua eficácia como anestésico local é estabelecida. Mecanisticamente, esse bloqueio poderia aliviar sintomas ligados à ativação de fibras nervosas, como dor ou desconforto.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Prilocaine (tradução não oficial): “A prilocaína estabiliza a membrana neuronal ao inibir os fluxos iônicos necessários para o início e a condução dos impulsos, produzindo, desse modo, a ação anestésica local.” Texto original em inglês: "Prilocaine stabilizes the neuronal membrane by inhibiting the ionic fluxes required for the initiation and conduction of impulses, thereby effecting local anesthetic action." ([DailyMed: Citanest Plain (prilocaine hydrochloride) prescribing information, Dentsply Pharmaceutical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=db23a56f-1e41-4843-9220-1b2e3059db41), versão de 2021-11-10; acessado em 2026-11-19). Segundo informações conhecidas, a prilocaína é um anestésico local do tipo amida que bloqueia canais de sódio dependentes de voltagem, e sua eficácia como anestésico local é estabelecida. Mecanisticamente, esse bloqueio poderia aliviar sintomas ligados à ativação de fibras nervosas, como dor ou desconforto.
 
 Para **conjuntivite papilar**, o benefício se limitaria, no máximo, ao alívio do desconforto da superfície ocular. Não trataria a causa alérgica ou mecânica da inflamação, e o uso prolongado de anestésicos locais no olho é prejudicial à córnea. A previsão tem, portanto, baixa plausibilidade biológica e é puramente computacional.
 
@@ -148,11 +148,12 @@ Os dados de advertências e contraindicações da bula da ANVISA não estavam di
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “dado que não há registro válido de prilocaína no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Citanest Plain (prilocaine hydrochloride) prescribing information, Dentsply Pharmaceutical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=db23a56f-1e41-4843-9220-1b2e3059db41) |
 
 <!-- review:end log -->
 

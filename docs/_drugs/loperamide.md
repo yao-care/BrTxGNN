@@ -60,7 +60,7 @@ A pontuação alta vem do modelo TxGNN (deep learning) e pode refletir semelhan�
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a loperamida é um agonista dos receptores opioides mu periféricos, que age nos neurônios mioentéricos do intestino e reduz a motilidade intestinal. É essa ação que explica seu uso no alívio sintomático da diarreia.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Loperamide (tradução não oficial): “Estudos in vitro e em animais mostram que as cápsulas de cloridrato de loperamida atuam retardando a motilidade intestinal e afetando o movimento de água e eletrólitos pelo intestino. A loperamida liga-se ao receptor opiáceo na parede intestinal.” Texto original em inglês: "In vitro and animal studies show that loperamide hydrochloride capsules act by slowing intestinal motility and by affecting water and electrolyte movement through the bowel. Loperamide binds to the opiate receptor in the gut wall." ([DailyMed: loperamide hydrochloride prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=74b9893a-18c3-4117-85c2-edab8e7b3b3b), versão de 2026-07-09; acessado em 2026-11-19). Segundo informações conhecidas, a loperamida é um agonista dos receptores opioides mu periféricos, que age nos neurônios mioentéricos do intestino e reduz a motilidade intestinal. É essa ação que explica seu uso no alívio sintomático da diarreia.
 
 **Na prática, a previsão não é razoável.** Não foi identificado nenhum vínculo mecanístico plausível entre a inibição da motilidade intestinal mediada por opioides e a conjuntivite infecciosa. O papel da loperamida no olho não tem respaldo. A pontuação elevada (0,9997) vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não justificativa biológica.
 
@@ -141,6 +141,19 @@ Consulte a bula para as demais informações de segurança.
 - Obter e analisar as bulas na ANVISA (advertências e contraindicações), pendência que bloqueia a triagem de segurança.
 - Algum indício biológico ou pré-clínico que ligue a loperamida à superfície ocular; sem isso, não se recomenda investimento adicional.
 - Reavaliar a rota de administração, pois a loperamida é de uso oral e a indicação ocular exigiria via tópica, ainda não avaliada.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: loperamide hydrochloride prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=74b9893a-18c3-4117-85c2-edab8e7b3b3b) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

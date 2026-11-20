@@ -59,7 +59,7 @@ Cabergolina é um fármaco que atua como agonista do receptor de dopamina D2 e e
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos registros compilados para este relatório. Sabe-se que a cabergolina é um agonista potente do receptor de dopamina D2.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Cabergolina (tradução não oficial): “A cabergolina é um derivado do ergot e agonista do receptor de dopamina com alta afinidade pelos receptores D2. Resultados de estudos in vitro demonstram que a cabergolina exerce um efeito inibitório direto sobre a secreção de prolactina pelos lactotrofos hipofisários de ratos.” Texto original em inglês: "Cabergoline is an ergot derivative and dopamine receptor agonist with a high affinity for D2 receptors. Results of in vitro studies demonstrate that cabergoline exerts a direct inhibitory effect on the secretion of prolactin by rat pituitary lactotrophs." ([DailyMed: cabergoline prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e497366b-a124-4d7f-bd45-a883c392d4bb), versão de 2026-06-30; acessado em 2026-11-19). Sabe-se que a cabergolina é um agonista potente do receptor de dopamina D2.
 
 A pontuação do TxGNN é alta (0,9906), mas trata-se de uma previsão puramente computacional. Não há ensaios clínicos, literatura ou via biológica conhecida que conecte o mecanismo dopaminérgico à fisiopatologia da doença.
 
@@ -109,12 +109,13 @@ Consulte a bula para informações de segurança.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Existem **20 registros** da substância no mercado brasileiro, porém os detalhes dos registros não foram recuperados nesta execução” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Este Evidence Pack foi gerado com **dados parciais**: apenas a consulta ao banco regulatório brasileiro (TFDA/ANVISA) e ao DrugBank foram ex” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: cabergoline prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e497366b-a124-4d7f-bd45-a883c392d4bb) |
 
 <!-- review:end log -->
 

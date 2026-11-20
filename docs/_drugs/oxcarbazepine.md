@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **epilepsia visual (visual epilep
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação compilados para este relatório. Segundo a literatura recuperada, a oxcarbazepina age principalmente por meio do metabólito ativo MHD (10-monohidroxi derivado), que bloqueia canais de sódio dependentes de voltagem. É um fármaco estabelecido para crises focais.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Oxcarbazepine (tradução não oficial): “A atividade farmacológica do TRILEPTAL é exercida principalmente por meio do metabólito 10-mono-hidroxi (MHD) da oxcarbazepina. O mecanismo exato pelo qual a oxcarbazepina e o MHD exercem seu efeito anticonvulsivante é desconhecido; no entanto, estudos eletrofisiológicos in vitro indicam que eles produzem bloqueio dos canais de sódio sensíveis à voltagem, resultando na estabilização de membranas neurais hiperexcitadas, na inibição de disparos neuronais repetitivos e na diminuição da propagação de impulsos sinápticos.” Texto original em inglês: "The pharmacological activity of TRILEPTAL is primarily exerted through the 10-monohydroxy metabolite (MHD) of oxcarbazepine. The precise mechanism by which oxcarbazepine and MHD exert their anti-seizure effect is unknown; however, in vitro electrophysiological studies indicate that they produce blockade of voltage-sensitive sodium channels, resulting in stabilization of hyperexcited neural membranes, inhibition of repetitive neuronal firing, and diminution of propagation of synaptic impulses." ([DailyMed: Trileptal (oxcarbazepine) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4c5c86c8-ab7f-4fcf-bc1b-5a0b1fd0691b), versão de 2026-10-28; acessado em 2026-11-19). Segundo a literatura recuperada, a oxcarbazepina age principalmente por meio do metabólito ativo MHD (10-monohidroxi derivado), que bloqueia canais de sódio dependentes de voltagem. É um fármaco estabelecido para crises focais.
 
 A epilepsia visual (fotossensível) é uma epilepsia reflexa, na qual a hiperexcitabilidade neuronal tem papel central. Por isso, o efeito do fármaco sobre essa hiperexcitabilidade é plausível. No entanto, a literatura recuperada consiste apenas em revisões e diretrizes gerais sobre medicamentos antiepilépticos, sem dados específicos para epilepsia reflexa visual.
 
@@ -156,13 +156,14 @@ Para advertências e contraindicações da bula, consulte a bula do medicamento.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Todos os 8 registros encontrados estão válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “No Brasil, os 8 registros encontrados estão válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “já que não há registros vigentes” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Trileptal (oxcarbazepine) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4c5c86c8-ab7f-4fcf-bc1b-5a0b1fd0691b) |
 
 <!-- review:end log -->
 

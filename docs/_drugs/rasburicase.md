@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Hipouricemia Renal (hypouricemi
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a rasburicase é uma urato oxidase recombinante que converte o ácido úrico em alantoína, reduzindo o ácido úrico sérico. Sua eficácia na hiperuricemia decorre exatamente dessa ação.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Rasburicase (tradução não oficial): “Em humanos, o ácido úrico é a etapa final da via catabólica das purinas. A rasburicase catalisa a oxidação enzimática do ácido úrico, pouco solúvel, em um metabólito inativo e mais solúvel (alantoína).” Texto original em inglês: "In humans, uric acid is the final step in the catabolic pathway of purines. Rasburicase catalyzes enzymatic oxidation of poorly soluble uric acid into an inactive and more soluble metabolite (allantoin)." ([DailyMed: Elitek (rasburicase) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0ae10bc4-6b65-402f-9db5-2d7753054922), versão de 2026-07-30; acessado em 2026-11-19). Segundo informações conhecidas, a rasburicase é uma urato oxidase recombinante que converte o ácido úrico em alantoína, reduzindo o ácido úrico sérico. Sua eficácia na hiperuricemia decorre exatamente dessa ação.
 
 A hipouricemia renal é uma condição em que o ácido úrico sérico já é baixo, por defeito na reabsorção renal de urato (por exemplo, variantes de SLC22A12/URAT1 ou SLC2A9). Reduzir ainda mais o urato seria mecanisticamente contraproducente e potencialmente prejudicial. **A pontuação alta vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica**, e não um vínculo terapêutico racional.
 
@@ -96,6 +96,19 @@ Para advertências e contraindicações formais, consulte a bula.
 - Obter dados do mecanismo de ação na DrugBank.
 - Reavaliar as previsões de forma crítica, e só considerar a deficiência parcial de HPRT, se houver, com revisão de especialista e evidência pré-clínica ou clínica.
 - Avaliar a viabilidade regulatória e de acesso, já que não há registro no Brasil.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Elitek (rasburicase) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0ae10bc4-6b65-402f-9db5-2d7753054922) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

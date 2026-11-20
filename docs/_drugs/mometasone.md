@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e apenas **2 publicações** (ambos r
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação compilados para este relatório. Segundo informações conhecidas, a mometasona é um corticosteroide potente que atua como ligante do receptor de glucocorticoide (NR3C1), usado por via intranasal em asma, rinite alérgica e polipose nasal, e por via tópica em dermatoses alérgicas.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Mometasone (tradução não oficial): “O furoato de mometasona é um corticosteroide que demonstra potente atividade anti-inflamatória. O mecanismo exato da ação dos corticosteroides na asma não é conhecido. A inflamação é um componente importante na patogênese da asma.” Texto original em inglês: "Mometasone furoate is a corticosteroid demonstrating potent anti-inflammatory activity. The precise mechanism of corticosteroid action on asthma is not known. Inflammation is an important component in the pathogenesis of asthma." ([DailyMed: Asmanex Hfa (mometasone furoate) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0c6d63da-41bc-4894-bead-198e66c848ac), versão de 2026-07-07; acessado em 2026-11-19). Segundo informações conhecidas, a mometasona é um corticosteroide potente que atua como ligante do receptor de glucocorticoide (NR3C1), usado por via intranasal em asma, rinite alérgica e polipose nasal, e por via tópica em dermatoses alérgicas.
 
 Corticosteroides tópicos já são empregados como terapia dirigida à pele nos estágios iniciais da micose fungoide (lesões em mancha ou placa), a forma mais comum de linfoma cutâneo de células T. Seus efeitos incluem a indução de apoptose de linfócitos e ação anti-inflamatória, mediadas pelo receptor de glucocorticoide. Isso confere plausibilidade biológica à previsão, e a pontuação elevada é coerente com esse efeito de classe.
 
@@ -158,7 +158,7 @@ Consulte a bula para as demais informações de segurança (advertências e cont
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
@@ -166,6 +166,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | 2026-11-11 | Removido: “dado que o medicamento é comercializado no Brasil, com 9 registros vigentes de 9” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Registros vigentes: 9 de 9 → 28 de 58 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Contagem exibida: “Exibidos os 5 primeiros de 9 registros cancelados” → “A tabela exibe 2 dos 30 registros cancelados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Asmanex Hfa (mometasone furoate) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0c6d63da-41bc-4894-bead-198e66c848ac) |
 
 <!-- review:end log -->
 

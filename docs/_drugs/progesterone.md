@@ -56,7 +56,7 @@ Hoje há **0 ensaios clínicos** e **19 publicações** sobre o tema, todas de n
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. A progesterona atua como hormônio sexual feminino. Ela equilibra a ação do estrogênio sobre o tecido mamário, e esse papel é a base da hipótese biológica desta previsão.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Progesterone (tradução não oficial): “A progesterona é um esteroide de ocorrência natural secretado pelo ovário, pela placenta e pela glândula adrenal. Na presença de estrogênio adequado, a progesterona transforma um endométrio proliferativo em um endométrio secretor.” Texto original em inglês: "Progesterone is a naturally occurring steroid that is secreted by the ovary, placenta, and adrenal gland. In the presence of adequate estrogen, progesterone transforms a proliferative endometrium into a secretory endometrium." ([DailyMed: Progesterone Vaginal Insert (progesterone) prescribing information, XIROMED, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=473ab609-5b9e-3cb8-68d5-4a459a2ea6c1), versão de 2026-10-05; acessado em 2026-11-19). A progesterona atua como hormônio sexual feminino. Ela equilibra a ação do estrogênio sobre o tecido mamário, e esse papel é a base da hipótese biológica desta previsão.
 
 A hipótese central é a da "dominância estrogênica". Na doença fibrocística, a deficiência relativa de progesterona em relação ao estradiol (a razão E2/P) favoreceria a proliferação do tecido conjuntivo e do epitélio mamário. Isso levaria a nódulos, cistos e dor mamária. Um estudo com 50 mulheres com a doença e 40 controles avaliou essa razão na fase lútea tardia. Revisões clássicas também descrevem a fisiopatologia como predomínio estrogênico com falta de progesterona.
 
@@ -123,6 +123,18 @@ Para advertências e contraindicações, consulte a bula.
 - Obter ensaios clínicos randomizados que testem a progesterona na doença, com desfechos de dor, nódulos e cistos.
 - Avaliar a segurança mamária de longo prazo, dado o debate sobre o efeito proliferativo.
 - Complementar as advertências e contraindicações da bula aprovada pela ANVISA.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Progesterone Vaginal Insert (progesterone) prescribing information, XIROMED, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=473ab609-5b9e-3cb8-68d5-4a459a2ea6c1) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

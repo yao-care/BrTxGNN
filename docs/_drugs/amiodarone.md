@@ -56,7 +56,7 @@ mas não há **nenhum ensaio clínico** e as **9 publicações** encontradas (co
 
 ## Por que Esta Previsão é Razoável?
 
-Não há dados detalhados de mecanismo de ação nos dados compilados para este relatório. Segundo o conhecimento farmacológico geral, a amiodarona prolonga a repolarização (classe III) e também atua sobre canais de sódio e cálcio, com efeito de bloqueio beta-adrenérgico.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Amiodarone (tradução não oficial): “A amiodarona é considerada um fármaco antiarrítmico de classe III, mas possui características eletrofisiológicas de todas as quatro classes de Vaughan Williams. Assim como os fármacos de classe I, a amiodarona bloqueia os canais de sódio em frequências de estimulação rápidas e, assim como os fármacos de classe II, a amiodarona exerce uma ação antissimpática não competitiva.” Texto original em inglês: "Amiodarone is considered a class III antiarrhythmic drug, but it possesses electrophysiologic characteristics of all four Vaughan Williams classes. Like class I drugs, amiodarone blocks sodium channels at rapid pacing frequencies, and like class II drugs, amiodarone exerts a noncompetitive antisympathetic action." ([DailyMed: Pacerone (amiodarone hydrochloride) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dcadce9c-d0a0-4235-8ff8-dd93c09e03b3), versão de 2025-11-05; acessado em 2026-11-19). Segundo o conhecimento farmacológico geral, a amiodarona prolonga a repolarização (classe III) e também atua sobre canais de sódio e cálcio, com efeito de bloqueio beta-adrenérgico.
 
 A taquicardia ventricular polimórfica catecolaminérgica é uma canalopatia hereditária rara, ligada a mutações em RYR2 ou CASQ2, em que a liberação anormal de cálcio e o estímulo adrenérgico desencadeiam arritmias ventriculares. O componente beta-bloqueador da amiodarona oferece, portanto, uma ligação mecanística plausível.
 
@@ -135,6 +135,18 @@ Consulte a bula para as advertências completas.
 - Dados detalhados do mecanismo de ação
 - Texto de bula do ANVISA com advertências e contraindicações
 - Avaliação de segurança para a população pediátrica e jovem, em que a doença costuma se manifestar
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Pacerone (amiodarone hydrochloride) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dcadce9c-d0a0-4235-8ff8-dd93c09e03b3) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

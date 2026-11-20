@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e apenas **4 publicações** associad
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a metadona é um agonista de receptores opioides mu com atividade antagonista sobre receptores NMDA. Sua eficácia como analgésico está estabelecida, e mecanisticamente pode ser aplicável a transtornos de tiques.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Methadone (tradução não oficial): “O cloridrato de metadona é um agonista mu; um opioide sintético com múltiplas ações qualitativamente semelhantes às da morfina, sendo que a mais proeminente envolve o sistema nervoso central e os órgãos compostos por músculo liso. A síndrome de abstinência da metadona, embora qualitativamente semelhante à da morfina, difere pelo fato de que o início é mais lento, o curso é mais prolongado e os sintomas são menos graves.” Texto original em inglês: "Methadone hydrochloride is a mu-agonist; a synthetic opioid with multiple actions qualitatively similar to those of morphine, the most prominent of which involves the central nervous system and organs composed of smooth muscle. The methadone withdrawal syndrome, although qualitatively similar to that of morphine, differs in that the onset is slower, the course is more prolonged, and the symptoms are less severe." ([DailyMed: Methadose Dispersible (methadone hydrochloride) prescribing information, SpecGx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=544483e6-6f9d-4371-9e93-313e54e0ea05), versão de 2026-08-04; acessado em 2026-11-19). Segundo informações conhecidas, a metadona é um agonista de receptores opioides mu com atividade antagonista sobre receptores NMDA. Sua eficácia como analgésico está estabelecida, e mecanisticamente pode ser aplicável a transtornos de tiques.
 
 A hipótese é que a modulação opioide de circuitos dopaminérgicos e estriatais possa influenciar a expressão dos tiques. A literatura recuperada menciona que opioides têm sido relatados como eficazes em casos refratários de TOC e de síndrome de Tourette, e que o comportamento relacionado ao receptor 5-HT2A (associado a tiques e compulsões) é modulado por opioides em modelos experimentais.
 
@@ -117,11 +117,12 @@ A previsão se baseia em um único relato clínico antigo (1992), sem ensaios re
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, o único registro brasileiro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Methadose Dispersible (methadone hydrochloride) prescribing information, SpecGx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=544483e6-6f9d-4371-9e93-313e54e0ea05) |
 
 <!-- review:end log -->
 

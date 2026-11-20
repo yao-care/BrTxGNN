@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **síndrome malformativa com comp
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Sabe-se que a bimatoprosta é um análogo de prostamida/prostaglandina F2α, classe que modula o ciclo de crescimento do pelo.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Bimatoprost (tradução não oficial): “A bimatoprosta, um análogo de prostaglandina, é um análogo estrutural sintético da prostaglandina com atividade hipotensora ocular. Acredita-se que a bimatoprosta reduza a PIO em humanos aumentando o escoamento do humor aquoso tanto pela malha trabecular (via convencional) quanto pela via uveoescleral (via não convencional).” Texto original em inglês: "Bimatoprost, a prostaglandin analog, is a synthetic structural analog of prostaglandin with ocular hypotensive activity. Bimatoprost is believed to lower IOP in humans by increasing outflow of aqueous humor through both the trabecular meshwork (conventional) and uveoscleral routes (unconventional)." ([DailyMed: Durysta (bimatoprost) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3f59da84-0bcc-4c84-b3e2-e215681ef341), versão de 2024-10-16; acessado em 2026-11-19). Sabe-se que a bimatoprosta é um análogo de prostamida/prostaglandina F2α, classe que modula o ciclo de crescimento do pelo.
 
 Para esta previsão específica, porém, não se identificou um vínculo biológico plausível. Trata-se de uma síndrome malformativa do desenvolvimento dentário/periodontal, e não há mecanismo conhecido que ligue a sinalização de receptores de prostamida a esse tipo de defeito estrutural. A pontuação elevada reflete apenas uma previsão computacional; não há ensaio clínico nem publicação que a sustente.
 
@@ -102,11 +102,12 @@ Para advertências e contraindicações, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Os dados compilados indicam situação de comercialização "Comercializado", com 11 registros válidos e 9 cancelados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Durysta (bimatoprost) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3f59da84-0bcc-4c84-b3e2-e215681ef341) |
 
 <!-- review:end log -->
 

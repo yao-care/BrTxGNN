@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Neoplasia Endócrina Múltipla 
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada. Segundo informações conhecidas, o pemigatinibe é um inibidor seletivo dos receptores do fator de crescimento de fibroblastos (FGFR1-3), utilizado como antineoplásico.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Pemigatinib (tradução não oficial): “O pemigatinibe é um inibidor de quinase de molécula pequena que tem como alvo FGFR1, 2 e 3, com valores de IC 50 inferiores a 2 nM. O pemigatinibe também inibiu o FGFR4 in vitro em uma concentração aproximadamente 100 vezes maior do que aquelas que inibem FGFR1, 2 e 3.” Texto original em inglês: "Pemigatinib is a small molecule kinase inhibitor that targets FGFR1, 2 and 3 with IC 50 values of less than 2 nM. Pemigatinib also inhibited FGFR4 in vitro at a concentration approximately 100 times higher than those that inhibit FGFR1, 2, and 3." ([DailyMed: Pemazyre (pemigatinib) prescribing information, Incyte Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9e1f2222-1d89-4e63-989c-ccebe2ab1eb4), versão de 2026-06-09; acessado em 2026-11-19). Segundo informações conhecidas, o pemigatinibe é um inibidor seletivo dos receptores do fator de crescimento de fibroblastos (FGFR1-3), utilizado como antineoplásico.
 
 A sinalização FGF/FGFR já foi associada a alguns tumores endócrinos. No entanto, não há ligação direta estabelecida com os principais genes causadores da neoplasia endócrina múltipla (MEN1, RET, CDKN1B). A relação com a indicação original é, portanto, apenas de natureza geral (ambas são doenças tumorais), e a previsão permanece sem comprovação.
 
@@ -135,11 +135,12 @@ A previsão para neoplasia endócrina múltipla baseia-se apenas no modelo (nív
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, o único registro no Brasil está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Pemazyre (pemigatinib) prescribing information, Incyte Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9e1f2222-1d89-4e63-989c-ccebe2ab1eb4) |
 
 <!-- review:end log -->
 

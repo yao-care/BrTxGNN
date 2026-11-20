@@ -55,7 +55,7 @@ O modelo TxGNN prevê que ele pode ser eficaz para **displasia acromesomélica t
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nas informações compiladas. Segundo o conhecimento farmacológico geral, o celecoxibe é um inibidor seletivo da COX-2. Ele reduz a síntese de prostaglandinas ligadas à inflamação e à dor, e sua eficácia em doenças articulares inflamatórias e degenerativas está estabelecida.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Celecoxib (tradução não oficial): “O celecoxibe tem propriedades analgésicas, anti-inflamatórias e antipiréticas. Acredita-se que o mecanismo de ação do celecoxibe se deva à inibição da síntese de prostaglandinas, principalmente por meio da inibição da COX-2. O celecoxibe é um potente inibidor da síntese de prostaglandinas in vitro.” Texto original em inglês: "Celecoxib has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of celecoxib is believed to be due to inhibition of prostaglandin synthesis, primarily via inhibition of COX-2. Celecoxib is a potent inhibitor of prostaglandin synthesis in vitro." ([DailyMed: Vyscoxa (celecoxib) prescribing information, Carwin Pharmaceutical Associates, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5094d47e-f791-4190-9397-b7500143a74d), versão de 2025-07-31; acessado em 2026-11-19). Segundo o conhecimento farmacológico geral, o celecoxibe é um inibidor seletivo da COX-2. Ele reduz a síntese de prostaglandinas ligadas à inflamação e à dor, e sua eficácia em doenças articulares inflamatórias e degenerativas está estabelecida.
 
 A displasia acromesomélica tipo Hunter-Thompson é uma doença esquelética genética rara, causada por perda de função do gene *CDMP1/GDF5*. Ela envolve a sinalização das proteínas morfogenéticas ósseas (BMP/GDF), uma via diferente da que o celecoxibe modula. A inibição da COX-2 não corrige esse defeito de base.
 
@@ -108,12 +108,13 @@ Para as advertências formais, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “O celecoxibe também não está registrado no Brasil, o que impede qualquer avanço regulatório local” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “já que não há registro vigente” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Vyscoxa (celecoxib) prescribing information, Carwin Pharmaceutical Associates, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5094d47e-f791-4190-9397-b7500143a74d) |
 
 <!-- review:end log -->
 

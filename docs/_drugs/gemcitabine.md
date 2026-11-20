@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, a gencitabina é um antimetabólito (análogo de nucleosídeo) com atividade citotóxica geral, e mecanisticamente poderia ser aplicável a outros tumores sólidos, como o adenocarcinoma do reto.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Gemcitabine (tradução não oficial): “A gencitabina mata as células em processo de síntese de DNA e bloqueia a progressão das células através do limite da fase G1/S. A gencitabina é metabolizada por nucleosídeo quinases em nucleosídeos difosfato (dFdCDP) e trifosfato (dFdCTP).” Texto original em inglês: "Gemcitabine kills cells undergoing DNA synthesis and blocks the progression of cells through the G1/S-phase boundary. Gemcitabine is metabolized by nucleoside kinases to diphosphate (dFdCDP) and triphosphate (dFdCTP) nucleosides." ([DailyMed: Avgemsi (gemcitabine) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e11eeff7-bcaf-4bf1-8da8-88138e01af84), versão de 2026-07-27; acessado em 2026-11-19). Segundo informações conhecidas, a gencitabina é um antimetabólito (análogo de nucleosídeo) com atividade citotóxica geral, e mecanisticamente poderia ser aplicável a outros tumores sólidos, como o adenocarcinoma do reto.
 
 A pontuação alta do modelo (0,9977) parece refletir principalmente esse perfil citotóxico geral. Não há ensaios nem literatura que sustentem o uso específico nesta doença. Além disso, a histologia mucinosa costuma ser considerada relativamente quimiorresistente, o que reduz a plausibilidade clínica da previsão.
 
@@ -128,6 +128,19 @@ Consulte a bula para advertências e contraindicações formais.
 - Revisão sistemática da literatura e busca de ensaios em câncer colorretal mucinoso
 - Texto de bula da ANVISA com advertências e contraindicações
 - Dados pré-clínicos de sensibilidade de linhagens mucinosas à gencitabina
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Avgemsi (gemcitabine) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e11eeff7-bcaf-4bf1-8da8-88138e01af84) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

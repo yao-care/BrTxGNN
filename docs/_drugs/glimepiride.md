@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a glimepirida é uma sulfonilureia que bloqueia os canais de potássio sensíveis ao ATP (K-ATP) das células beta pancreáticas, estimulando a secreção de insulina. Sua eficácia no diabetes é estabelecida.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Glimepiride (tradução não oficial): “A glimepirida reduz a glicemia principalmente por estimular a liberação de insulina pelas células beta pancreáticas. As sulfonilureias ligam-se ao receptor de sulfonilureia na membrana plasmática da célula beta pancreática, levando ao fechamento do canal de potássio sensível ao ATP e, desse modo, estimulando a liberação de insulina.” Texto original em inglês: "Glimepiride primarily lowers blood glucose by stimulating the release of insulin from pancreatic beta cells. Sulfonylureas bind to the sulfonylurea receptor in the pancreatic beta-cell plasma membrane, leading to closure of the ATP-sensitive potassium channel, thereby stimulating the release of insulin." ([DailyMed: Glimepiride 3 Mg (glimepiride) prescribing information, Lifsa Drugs LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=51157849-7990-4a8b-ae50-eda1baf93cfa), versão de 2024-08-20; acessado em 2026-11-19). Segundo informações conhecidas, a glimepirida é uma sulfonilureia que bloqueia os canais de potássio sensíveis ao ATP (K-ATP) das células beta pancreáticas, estimulando a secreção de insulina. Sua eficácia no diabetes é estabelecida.
 
 A relação com a nova indicação é fraca. A síndrome do membro rígido focal pertence ao espectro da síndrome da pessoa rígida, que envolve autoimunidade (frequentemente anti-GAD65) e comprometimento da inibição GABAérgica. O bloqueio de canais K-ATP não atua sobre esse processo. A pontuação do modelo TxGNN (deep learning) pode refletir similaridades aprendidas entre doenças relacionadas, não evidência biológica, e provavelmente decorre da associação com o diabetes autoimune com anticorpos anti-GAD, um fator de confusão e não uma justificativa terapêutica.
 
@@ -136,11 +136,12 @@ A previsão vem do modelo TxGNN (deep learning) (nível L5), sem ensaios clínic
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-10-31 | Removido: “(registros cancelados)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Glimepiride 3 Mg (glimepiride) prescribing information, Lifsa Drugs LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=51157849-7990-4a8b-ae50-eda1baf93cfa) |
 
 <!-- review:end log -->
 

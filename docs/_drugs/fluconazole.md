@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o fluconazol é um antifúngico triazólico que inibe a enzima fúngica CYP51 (lanosterol 14-α-desmetilase), bloqueando a síntese de ergosterol na membrana do fungo.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Fluconazole (tradução não oficial): “O fluconazol é um inibidor altamente seletivo da enzima fúngica dependente do citocromo P450 lanosterol 14-α-desmetilase. Essa enzima atua convertendo o lanosterol em ergosterol. A consequente perda dos esteróis normais correlaciona-se com o acúmulo de 14-α-metilesteróis nos fungos e pode ser responsável pela atividade fungistática do fluconazol.” Texto original em inglês: "Fluconazole is a highly selective inhibitor of fungal cytochrome P450 dependent enzyme lanosterol 14-α-demethylase. This enzyme functions to convert lanosterol to ergosterol. The subsequent loss of normal sterols correlates with the accumulation of 14-α-methyl sterols in fungi and may be responsible for the fungistatic activity of fluconazole." ([DailyMed: Diflucan (fluconazole) prescribing information, Roerig](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f694c617-3383-416c-91b6-b94fda371204), versão de 2026-04-02; acessado em 2026-11-19). Segundo informações conhecidas, o fluconazol é um antifúngico triazólico que inibe a enzima fúngica CYP51 (lanosterol 14-α-desmetilase), bloqueando a síntese de ergosterol na membrana do fungo.
 
 A ceratoconjuntivite epitelial punctata é geralmente de origem viral (adenovírus) ou inflamatória. Não há vínculo mecanístico evidente com a ação antifúngica do fluconazol, e a similaridade com a indicação original ainda não foi avaliada. A pontuação alta do TxGNN (0,9924) deve ser interpretada apenas como um sinal computacional, sem respaldo clínico.
 
@@ -156,13 +156,14 @@ Consulte a bula para advertências e contraindicações formais, que não estava
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-12 | Removido: “O medicamento é comercializado, com 20 registros válidos” | Corrigido (revisado em 2026-11-12; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Além disso, não há registro vigente do fármaco no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “(medicamento comercializado, com 20 registros válidos)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Diflucan (fluconazole) prescribing information, Roerig](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f694c617-3383-416c-91b6-b94fda371204) |
 
 <!-- review:end log -->
 

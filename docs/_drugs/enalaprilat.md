@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação no material compilado. Segundo informações conhecidas, o enalaprilato é um inibidor da ECA (a enzima conversora de angiotensina, alvo ACE) e é a forma ativa do enalapril, usado para tratar hipertensão. Ao inibir a ECA, reduz a formação de angiotensina II.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Enalaprilat (tradução não oficial): “O enalaprilato intravenoso, ou o enalapril oral, após hidrólise a enalaprilato, inibe a ECA em seres humanos e animais. A ECA é uma peptidil dipeptidase que catalisa a conversão da angiotensina I na substância vasoconstritora angiotensina II.” Texto original em inglês: "Intravenous enalaprilat, or oral enalapril, after hydrolysis to enalaprilat, inhibits ACE in human subjects and animals. ACE is a peptidyl dipeptidase that catalyzes the conversion of angiotensin I to the vasoconstrictor substance, angiotensin II." ([DailyMed: enalaprilat prescribing information, Dr. Reddys Laboratories Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5d398da1-020c-ccb1-a775-ce8e0b29d621), versão de 2024-06-07; acessado em 2026-11-19). Segundo informações conhecidas, o enalaprilato é um inibidor da ECA (a enzima conversora de angiotensina, alvo ACE) e é a forma ativa do enalapril, usado para tratar hipertensão. Ao inibir a ECA, reduz a formação de angiotensina II.
 
 Existem componentes do sistema renina-angiotensina em tecidos oculares, e já se propôs que a inibição da ECA possa influenciar a dinâmica do humor aquoso e a pressão intraocular. Esse é o único elo mecanístico plausível entre a indicação original (hipertensão) e a nova (glaucoma).
 
@@ -114,12 +114,13 @@ Para as demais informações de segurança, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, o produto está com registro cancelado no Brasil e é de uso intravenoso” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “dado que o único registro no Brasil está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: enalaprilat prescribing information, Dr. Reddys Laboratories Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5d398da1-020c-ccb1-a775-ce8e0b29d621) |
 
 <!-- review:end log -->
 

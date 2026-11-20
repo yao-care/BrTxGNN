@@ -57,7 +57,7 @@ O modelo TxGNN prevê que pode ser eficaz para **acrodermatite crônica atrófic
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a tetracaína é um anestésico local do tipo éster que bloqueia canais de sódio dependentes de voltagem, e sua eficácia como anestésico local está estabelecida.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Tetracaine (tradução não oficial): “Tetracaína bloqueia os canais de íons sódio necessários para a iniciação e a condução dos impulsos neuronais, produzindo assim anestesia local.” Texto original em inglês: "Tetracaine blocks sodium ion channels required for the initiation and conduction of neuronal impulses thereby affecting local anesthesia." ([DailyMed: tetracaine hydrochloride prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=01fba5f8-a60a-444c-9abd-299540b8815a), versão de 2026-08-28; acessado em 2026-11-19). Segundo informações conhecidas, a tetracaína é um anestésico local do tipo éster que bloqueia canais de sódio dependentes de voltagem, e sua eficácia como anestésico local está estabelecida.
 
 A acrodermatite crônica atrófica é uma manifestação dermatológica tardia da infecção por *Borrelia* (doença de Lyme). O bloqueio de canais de sódio não tem papel antimicrobiano nem modificador da doença. **Não foi identificado vínculo mecanístico plausível**: a pontuação alta vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica.
 
@@ -158,11 +158,12 @@ As advertências e contraindicações da bula da ANVISA não estavam disponívei
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “já que não há registro válido no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: tetracaine hydrochloride prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=01fba5f8-a60a-444c-9abd-299540b8815a) |
 
 <!-- review:end log -->
 

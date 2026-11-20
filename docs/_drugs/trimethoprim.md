@@ -60,7 +60,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta p
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, a trimetoprima inibe a di-hidrofolato redutase bacteriana, bloqueando a síntese de folato, e é usada em associação com sulfonamidas no tratamento de infecções bacterianas. Em oftalmologia, é empregada em colírios combinados com polimixina B.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Trimethoprim (tradução não oficial): “A trimetoprima bloqueia a produção de ácido tetra-hidrofólico a partir do ácido di-hidrofólico ao se ligar à enzima necessária, a di-hidrofolato redutase, e inibi-la de forma reversível. Essa ligação é muito mais forte para a enzima bacteriana do que para a enzima correspondente dos mamíferos.” Texto original em inglês: "Trimethoprim blocks the production of tetrahydrofolic acid from dihydrofolic acid by binding to and reversibly inhibiting the required enzyme, dihydrofolate reductase. This binding is very much stronger for the bacterial enzyme than for the corresponding mammalian enzyme." ([DailyMed: trimethoprim prescribing information, SQUARE PHARMACEUTICALS PLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e53ccf1b-315f-4454-824e-f69769908597), versão de 2026-11-15; acessado em 2026-11-19). Segundo informações conhecidas, a trimetoprima inibe a di-hidrofolato redutase bacteriana, bloqueando a síntese de folato, e é usada em associação com sulfonamidas no tratamento de infecções bacterianas. Em oftalmologia, é empregada em colírios combinados com polimixina B.
 
 A ceratoconjuntivite epitelial punctata costuma ter origem viral ou tóxico-inflamatória. Por isso, o vínculo mecanístico só é plausível se houver um componente bacteriano associado. A pontuação alta do TxGNN é apenas uma previsão do modelo: não há ensaios nem literatura nos dados compilados que a sustentem.
 
@@ -170,11 +170,12 @@ Para advertências formais, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-12 | Registros válidos: “todos os 20” → 23 de 111 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: trimethoprim prescribing information, SQUARE PHARMACEUTICALS PLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e53ccf1b-315f-4454-824e-f69769908597) |
 
 <!-- review:end log -->
 

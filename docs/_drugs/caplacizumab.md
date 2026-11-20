@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **transtorno primário de libera�
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nas informações compiladas. Segundo o conhecimento disponível, caplacizumabe é um nanocorpo dirigido ao domínio A1 do vWF. Ele bloqueia a ligação do vWF à glicoproteína Ib (GPIb) plaquetária e, assim, impede a adesão das plaquetas e a formação de microtrombos. Esse é o motivo de sua classificação como antitrombótico.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Caplacizumab (tradução não oficial): “O caplacizumabe-yhdp tem como alvo o domínio A1 do vWF e inibe a interação entre o vWF e as plaquetas, reduzindo assim tanto a adesão plaquetária mediada pelo vWF quanto o consumo de plaquetas.” Texto original em inglês: "Caplacizumab-yhdp targets the A1-domain of vWF, and inhibits the interaction between vWF and platelets, thereby reducing both vWF-mediated platelet adhesion and platelet consumption." ([DailyMed: Cablivi (caplacizumab) prescribing information, Genzyme Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2348f06e-8004-4040-832e-e9e86a39f905), versão de 2026-04-24; acessado em 2026-11-19). Segundo o conhecimento disponível, caplacizumabe é um nanocorpo dirigido ao domínio A1 do vWF. Ele bloqueia a ligação do vWF à glicoproteína Ib (GPIb) plaquetária e, assim, impede a adesão das plaquetas e a formação de microtrombos. Esse é o motivo de sua classificação como antitrombótico.
 
 A relação com a nova indicação é fraca. Nos transtornos primários de liberação plaquetária, o problema é a secreção deficiente dos grânulos das plaquetas, um processo que não depende da interação vWF-GPIb. Bloquear a adesão plaquetária num distúrbio hemorrágico deveria, em princípio, agravar o quadro e não tratá-lo.
 
@@ -126,12 +126,13 @@ Para advertências e contraindicações, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-10-31 | Removido: “(registro cancelado)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “O único registro brasileiro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Cablivi (caplacizumab) prescribing information, Genzyme Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2348f06e-8004-4040-832e-e9e86a39f905) |
 
 <!-- review:end log -->
 

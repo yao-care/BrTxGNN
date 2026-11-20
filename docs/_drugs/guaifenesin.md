@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **doença da cavidade nasal (nasa
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, a guaifenesina é um expectorante que torna o muco das vias aéreas mais fluido e facilita sua eliminação, o que mecanisticamente pode ser aplicável a condições que envolvem secreção nas vias aéreas superiores.
+Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Guaifenesin é (tradução não oficial): “Desconhecido” Texto original em inglês: "Unknown" ([ChEMBL CHEMBL980 (guaifenesin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL980), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações conhecidas, a guaifenesina é um expectorante que torna o muco das vias aéreas mais fluido e facilita sua eliminação, o que mecanisticamente pode ser aplicável a condições que envolvem secreção nas vias aéreas superiores.
 
 A doença da cavidade nasal está anatomicamente e funcionalmente próxima das condições respiratórias superiores para as quais o fármaco já é conhecido, o que ajuda a explicar a pontuação muito alta do modelo. Ainda assim, trata-se de uma proximidade de contexto, e não de uma demonstração de eficácia.
 
@@ -102,11 +102,12 @@ Consulte a bula para informações de segurança.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Os dados locais indicam que o medicamento está comercializado, com 5 registros válidos e 15 cancelados (a lista pode estar incompleta, pois ” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [ChEMBL CHEMBL980 (guaifenesin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL980) |
 
 <!-- review:end log -->
 

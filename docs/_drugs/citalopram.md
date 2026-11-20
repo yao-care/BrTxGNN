@@ -56,7 +56,7 @@ atualmente com **4 ensaios clínicos** registrados (nenhum estudando o citalopra
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Ainda assim, o citalopram é um ISRS, e o mecanismo dessa classe é bem estabelecido: bloqueio da recaptação de serotonina, com aumento da disponibilidade desse neurotransmissor na fenda sináptica.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Citalopram (tradução não oficial): “O mecanismo de ação do citalopram não está claro, mas presume-se que esteja relacionado à potencialização da atividade serotoninérgica no sistema nervoso central (SNC), resultante da inibição da recaptação neuronal de serotonina (5-HT) no SNC.” Texto original em inglês: "The mechanism of action of citalopram is unclear, but is presumed to be related to potentiation of serotonergic activity in the central nervous system (CNS) resulting from its inhibition of CNS neuronal reuptake of serotonin (5-HT)." ([DailyMed: Celexa (citalopram) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4259d9b1-de34-43a4-85a8-41dd214e9177), versão de 2023-10-09; acessado em 2026-11-19). Ainda assim, o citalopram é um ISRS, e o mecanismo dessa classe é bem estabelecido: bloqueio da recaptação de serotonina, com aumento da disponibilidade desse neurotransmissor na fenda sináptica.
 
 A disfunção serotoninérgica é central na fisiopatologia do TOC, e os ISRS são uma classe de primeira linha no tratamento farmacológico dessa condição. Isso torna biologicamente coerente que o citalopram seja aplicável ao TOC, e a pontuação elevada do modelo concorda com esse raciocínio.
 
@@ -111,6 +111,19 @@ Consulte a bula para as advertências oficiais, que não estavam disponíveis no
 - Buscar ou conduzir ensaios controlados com citalopram especificamente no TOC
 - Estabelecer plano de monitoramento do QT e de triagem de interações medicamentosas
 - Definir cuidados específicos para o uso pediátrico (risco de suicídio e dose por idade)
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Celexa (citalopram) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4259d9b1-de34-43a4-85a8-41dd214e9177) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **febre paratifoide (paratyphoid 
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, a amicacina pertence à classe dos aminoglicosídeos, antibióticos com ampla atividade contra bactérias Gram-negativas. A *Salmonella paratyphi* é, em princípio, um microrganismo Gram-negativo suscetível, o que explica a lógica da previsão.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Amikacin (tradução não oficial): “A amicacina, um aminoglicosídeo, liga-se ao ribossomo procariótico, inibindo a síntese proteica em bactérias sensíveis. Ela é bactericida in vitro contra bactérias Gram-positivas e Gram-negativas.” Texto original em inglês: "Amikacin, an aminoglycoside, binds to the prokaryotic ribosome, inhibiting protein synthesis in susceptible bacteria. It is bactericidal in vitro against Gram-positive and Gram-negative bacteria." ([DailyMed: amikacin sulfate prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f260ff2a-76a0-4672-9516-91c344b67890), versão de 2026-07-27; acessado em 2026-11-19). Segundo informações conhecidas, a amicacina pertence à classe dos aminoglicosídeos, antibióticos com ampla atividade contra bactérias Gram-negativas. A *Salmonella paratyphi* é, em princípio, um microrganismo Gram-negativo suscetível, o que explica a lógica da previsão.
 
 Contudo, a previsão tem limitações importantes. A *Salmonella* é um patógeno intracelular e os aminoglicosídeos penetram mal nas células. Por isso, apesar da atividade in vitro, esses fármacos geralmente são clinicamente ineficazes na febre entérica. Os estudos disponíveis tratam sobretudo de epidemiologia e antibiogramas, não de ensaios de tratamento com amicacina.
 
@@ -138,12 +138,13 @@ Também há um estudo de sensibilidade de *S. typhi* (PMID 8354556, 1993) em que
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “(não há registro vigente no Brasil)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Registros: “os três estão cancelados” → 18 registros, 15 cancelados e 3 válidos | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: amikacin sulfate prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f260ff2a-76a0-4672-9516-91c344b67890) |
 
 <!-- review:end log -->
 

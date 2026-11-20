@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Hipertensão Pulmonar (Pulmonar
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o selpercatinibe é um inibidor seletivo da quinase RET, pertencente à classe dos inibidores de proteína quinase. Não há, porém, vínculo mecanístico estabelecido entre a inibição de RET e a hipertensão pulmonar.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Selpercatinib (tradução não oficial): “Selpercatinibe é um inibidor de quinase. Selpercatinibe inibiu o RET do tipo selvagem e múltiplas isoformas mutadas de RET, bem como VEGFR1 e VEGFR3, com valores de CI 50 variando de 0,92 nM a 67,8 nM. Em outros ensaios enzimáticos, selpercatinibe também inibiu FGFR 1, 2 e 3 em concentrações mais altas que ainda eram clinicamente alcançáveis.” Texto original em inglês: "Selpercatinib is a kinase inhibitor. Selpercatinib inhibited wild-type RET and multiple mutated RET isoforms as well as VEGFR1 and VEGFR3 with IC 50 values ranging from 0.92 nM to 67.8 nM. In other enzyme assays, selpercatinib also inhibited FGFR 1, 2, and 3 at higher concentrations that were still clinically achievable." ([DailyMed: Retevmo (selpercatinib) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7fa848ba-a59c-4144-9f52-64d090f4d828), versão de 2026-09-11; acessado em 2026-11-19). Segundo informações conhecidas, o selpercatinibe é um inibidor seletivo da quinase RET, pertencente à classe dos inibidores de proteína quinase. Não há, porém, vínculo mecanístico estabelecido entre a inibição de RET e a hipertensão pulmonar.
 
 Alguns inibidores de quinase de outros alvos (por exemplo, o imatinibe, que atua sobre PDGFR) já foram explorados na hipertensão arterial pulmonar. Para a inibição específica de RET, no entanto, não há evidência de apoio. As publicações recuperadas tratam de cânceres dependentes de RET e de eventos adversos, não do tratamento de hipertensão pulmonar.
 
@@ -128,12 +128,13 @@ Consulte a bula para advertências e contraindicações, pois estas não estavam
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-10-31 | Removido: “(registro cancelado)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Além disso, o único registro brasileiro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Retevmo (selpercatinib) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7fa848ba-a59c-4144-9f52-64d090f4d828) |
 
 <!-- review:end log -->
 

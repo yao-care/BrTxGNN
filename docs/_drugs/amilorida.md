@@ -56,7 +56,7 @@ O modelo TxGNN prevê que pode ser eficaz para **doença renal hipertensiva mali
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Pelo conhecimento farmacológico geral, a amilorida bloqueia o canal epitelial de sódio (ENaC) nos túbulos renais distais, promovendo a excreção de sódio e a retenção de potássio. É usada como adjuvante anti-hipertensivo, o que sugere uma ligação plausível com o controle da pressão arterial.
+Segundo a seção “Clinical Pharmacology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Amilorida (tradução não oficial): “O cloridrato de amilorida é um fármaco poupador de potássio (anticaliurético) que possui atividade natriurética, diurética e anti-hipertensiva fraca (em comparação com os diuréticos tiazídicos). Esses efeitos foram parcialmente aditivos aos efeitos dos diuréticos tiazídicos em alguns estudos clínicos.” Texto original em inglês: "Amiloride HCl is a potassium-conserving (antikaliuretic) drug that possesses weak (compared with thiazide diuretics) natriuretic, diuretic, and antihypertensive activity. These effects have been partially additive to the effects of thiazide diuretics in some clinical studies." ([DailyMed: amiloride hydrochloride prescribing information, Kesin Pharma Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5eedadbd-9be9-b920-e063-6394a90afa68), versão de 2026-11-11; acessado em 2026-11-19). Pelo conhecimento farmacológico geral, a amilorida bloqueia o canal epitelial de sódio (ENaC) nos túbulos renais distais, promovendo a excreção de sódio e a retenção de potássio. É usada como adjuvante anti-hipertensivo, o que sugere uma ligação plausível com o controle da pressão arterial.
 
 A doença renal hipertensiva maligna é uma condição grave, em que a pressão muito elevada lesa rapidamente os rins. Seu manejo costuma exigir agentes parenterais de ação rápida. Um diurético poupador de potássio oral dificilmente seria uma terapia principal, e o papel potencial seria, no máximo, de apoio no controle de volume e pressão.
 
@@ -97,13 +97,14 @@ Ponto de atenção derivado da avaliação da previsão: o risco de hiperpotasse
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Amilorida (AMILORIDA) é um fármaco com **20 registros ativos** no mercado brasileiro, porém este pacote de evidências não contém dados de in” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “mas os detalhes individuais de cada registro (nome comercial, forma farmacêutica, indicação aprovada) estão ausentes neste pacote — sendo ne” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “O fármaco possui status **Comercializado** com **20 registros ativos**. Os detalhes individuais dos registros (nome comercial, forma farmacê” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: amiloride hydrochloride prescribing information, Kesin Pharma Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5eedadbd-9be9-b920-e063-6394a90afa68) |
 
 <!-- review:end log -->
 

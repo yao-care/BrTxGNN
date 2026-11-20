@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Amenorreia (amenorrhea)**, mas 
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação registrados. Segundo informações conhecidas, a norelgestromina é o metabólito progestágeno ativo do norgestimato e é liberada em adesivo transdérmico contraceptivo junto com etinilestradiol. Sua atividade progestogênica (agonismo do receptor de progesterona) suprime a liberação de gonadotrofinas e estabiliza o endométrio, o que é biologicamente plausível para distúrbios menstruais de origem hormonal.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para norelgestromin and ethinyl estradiol (associação que contém Norelgestromin) (tradução não oficial): “A NGMN é o progestagênio ativo amplamente responsável pela atividade progestacional que ocorre em mulheres após a aplicação do sistema transdérmico de norelgestromina e etinilestradiol.” Texto original em inglês: "NGMN is the active progestin largely responsible for the progestational activity that occurs in women following application of norelgestromin and ethinyl estradiol transdermal system." ([DailyMed: norelgestromin and ethinyl estradiol prescribing information, Zydus Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10fa1458-c8ed-4197-922a-1ba7271d2b02), versão de 2026-04-16; acessado em 2026-11-19). Segundo informações conhecidas, a norelgestromina é o metabólito progestágeno ativo do norgestimato e é liberada em adesivo transdérmico contraceptivo junto com etinilestradiol. Sua atividade progestogênica (agonismo do receptor de progesterona) suprime a liberação de gonadotrofinas e estabiliza o endométrio, o que é biologicamente plausível para distúrbios menstruais de origem hormonal.
 
 A relação entre a indicação original e a nova é frágil. A amenorreia é um efeito conhecido da contracepção hormonal, e não um alvo terapêutico claramente estabelecido. Além disso, a direção do efeito é ambígua: induzir amenorreia (efeito desejado ou tolerado em alguns contextos) é diferente de tratar a amenorreia patológica, em que progestágenos exógenos servem principalmente para provocar sangramento por privação ou proteger o endométrio, e não para restaurar a ovulação.
 
@@ -111,12 +111,13 @@ As advertências e contraindicações da bula não estavam disponíveis nos dado
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “O único registro brasileiro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “já que o registro atual está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: norelgestromin and ethinyl estradiol prescribing information, Zydus Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10fa1458-c8ed-4197-922a-1ba7271d2b02) |
 
 <!-- review:end log -->
 

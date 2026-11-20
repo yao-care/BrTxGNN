@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **síndrome de hiperviscosidade p
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação compilados para este relatório. Segundo informações conhecidas, o norfloxacino é uma fluoroquinolona que inibe a DNA girase e a topoisomerase IV bacterianas, e sua atividade antibacteriana é a base de seu uso em infecções urinárias e gastrointestinais.
+Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Norfloxacin é (tradução não oficial): “Inibidor da topoisomerase IV; inibidor da DNA girase bacteriana” Texto original em inglês: "Topoisomerase IV inhibitor; Bacterial DNA gyrase inhibitor" ([ChEMBL CHEMBL9 (norfloxacin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL9), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações conhecidas, o norfloxacino é uma fluoroquinolona que inibe a DNA girase e a topoisomerase IV bacterianas, e sua atividade antibacteriana é a base de seu uso em infecções urinárias e gastrointestinais.
 
 Não foi identificada relação mecanística plausível com a síndrome de hiperviscosidade policlonal, que envolve produção excessiva de imunoglobulinas e aumento da viscosidade sérica. O norfloxacino não tem efeito conhecido sobre esses processos. A pontuação alta vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, e não evidência biológica.
 
@@ -128,6 +128,19 @@ A tabela mostra até 30 registros (os ativos primeiro). A lista completa está n
 - Obter dados do mecanismo de ação a partir do DrugBank.
 - Identificar qualquer hipótese biológica ou estudo direto sobre a doença prevista antes de reconsiderar.
 - Se houver interesse em reposicionamento, priorizar a peste septicêmica como pergunta de pesquisa, comparando com fluoroquinolonas de maior exposição sistêmica, pois as evidências disponíveis são apenas pré-clínicas e não específicas para o norfloxacino.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [ChEMBL CHEMBL9 (norfloxacin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL9) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

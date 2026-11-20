@@ -57,7 +57,7 @@ O modelo TxGNN prevê que ele pode ser eficaz para **hipertensão pulmonar de me
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o felodipino é um bloqueador dos canais de cálcio do tipo L, de seletividade vascular, que relaxa a musculatura lisa dos vasos e provoca vasodilatação. Sua eficácia como anti-hipertensivo é bem estabelecida, e mecanisticamente a vasodilatação poderia ser aplicável à circulação pulmonar.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Felodipine (tradução não oficial): “A felodipina é um membro da classe das di-hidropiridinas de antagonistas dos canais de cálcio (bloqueadores dos canais de cálcio). Ela compete de forma reversível com a nitrendipina e/ou outros bloqueadores dos canais de cálcio pelos sítios de ligação das di-hidropiridinas, bloqueia as correntes de Ca ++ dependentes de voltagem no músculo liso vascular e em células atriais de coelho cultivadas, e bloqueia a contratura induzida por potássio da veia porta de rato.” Texto original em inglês: "Felodipine is a member of the dihydropyridine class of calcium channel antagonists (calcium channel blockers). It reversibly competes with nitrendipine and/or other calcium channel blockers for dihydropyridine binding sites, blocks voltage-dependent Ca ++ currents in vascular smooth muscle and cultured rabbit atrial cells, and blocks potassium-induced contracture of the rat portal vein." ([DailyMed: Felopdipine (felodipine) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=129c48eb-29f2-462b-ad8a-b3bf1b193115), versão de 2024-08-07; acessado em 2026-11-19). Segundo informações conhecidas, o felodipino é um bloqueador dos canais de cálcio do tipo L, de seletividade vascular, que relaxa a musculatura lisa dos vasos e provoca vasodilatação. Sua eficácia como anti-hipertensivo é bem estabelecida, e mecanisticamente a vasodilatação poderia ser aplicável à circulação pulmonar.
 
 A relação entre a indicação original e a nova é a redução da resistência vascular. Contudo, a previsão deve ser vista com cautela: os bloqueadores de cálcio só beneficiam um pequeno subgrupo de pacientes com hipertensão arterial pulmonar vasorreativa, e não doenças de mecanismo multifatorial ou incerto. Nesse caso, a pontuação elevada (0,999) é apenas uma previsão computacional.
 
@@ -137,12 +137,13 @@ Para advertências e contraindicações da bula, consulte a bula aprovada, pois 
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, o único registro brasileiro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “dado que o registro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Felopdipine (felodipine) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=129c48eb-29f2-462b-ad8a-b3bf1b193115) |
 
 <!-- review:end log -->
 

@@ -59,7 +59,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Estrongiloidíase (strongyloidi
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Sabe-se que o brodalumabe é um antagonista do receptor IL-17RA, que bloqueia a sinalização de várias isoformas de IL-17 em vez de uma única.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Brodalumab (tradução não oficial): “O brodalumabe é um anticorpo monoclonal IgG2 humano que se liga seletivamente ao IL-17RA humano e inibe suas interações com as citocinas IL-17A, IL-17F, IL-17C, o heterodímero IL-17A/F e IL-25. O IL-17RA é uma proteína expressa na superfície celular e é um componente necessário dos complexos de receptores utilizados por múltiplas citocinas da família IL-17.” Texto original em inglês: "Brodalumab is a human monoclonal IgG2 antibody that selectively binds to human IL-17RA and inhibits its interactions with cytokines IL-17A, IL-17F, IL-17C, IL-17A/F heterodimer, and IL-25. IL-17RA is a protein expressed on the cell surface and is a required component of receptor complexes utilized by multiple IL-17 family cytokines." ([DailyMed: Siliq (brodalumab) prescribing information, Bausch Health US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1a550c33-456a-4833-814e-8591aea7c688), versão de 2026-05-28; acessado em 2026-11-19). Sabe-se que o brodalumabe é um antagonista do receptor IL-17RA, que bloqueia a sinalização de várias isoformas de IL-17 em vez de uma única.
 
 Não foi estabelecida uma ligação mecanística plausível entre esse bloqueio e o tratamento da estrongiloidíase, uma infecção parasitária. A pontuação elevada do TxGNN é uma previsão baseada em padrões computacionais, sem respaldo experimental ou clínico direto. Além disso, a via da IL-17 participa da defesa de mucosas e da resposta antimicrobiana do hospedeiro; seu bloqueio pode, em tese, prejudicar essa defesa. Assim, preocupações de segurança são mais prováveis do que benefício de eficácia.
 
@@ -107,6 +107,19 @@ Como a bula não está disponível nos dados compilados, consulte-a para advert�
 - Dados do mecanismo de ação e justificativa biológica que relacione o bloqueio de IL-17RA à imunidade antiparasitária
 - Estudos pré-clínicos que avaliem o efeito em modelos de infecção por *Strongyloides*
 - Obtenção e análise da bula (advertências e contraindicações), com avaliação específica do risco de infecções em populações expostas a parasitoses
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Siliq (brodalumab) prescribing information, Bausch Health US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1a550c33-456a-4833-814e-8591aea7c688) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

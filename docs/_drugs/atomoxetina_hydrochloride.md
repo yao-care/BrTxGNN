@@ -57,7 +57,7 @@ atualmente sem ensaios clínicos registrados e com **15 publicações** associad
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação compilados para este relatório. Sabe-se, pela literatura, que a atomoxetina é um inibidor seletivo da recaptação de noradrenalina, que aumenta o tônus noradrenérgico em circuitos pré-frontais e, indiretamente, a dopamina pré-frontal. Isso sustenta plausivelmente funções de atenção e função executiva.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Atomoxetina Hydrochloride (tradução não oficial): “O mecanismo exato pelo qual STRATTERA produz seus efeitos terapêuticos no TDAH é desconhecido, mas acredita-se que esteja relacionado à inibição seletiva do transportador pré-sináptico de norepinefrina, conforme determinado em estudos ex vivo de captação e de depleção de neurotransmissores.” Texto original em inglês: "The precise mechanism by which STRATTERA produces its therapeutic effects in ADHD is unknown, but is thought to be related to selective inhibition of the pre-synaptic norepinephrine transporter, as determined in ex vivo uptake and neurotransmitter depletion studies." ([DailyMed: Strattera (atomoxetine hydrochloride) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=309de576-c318-404a-bc15-660c2b1876fb), versão de 2026-06-30; acessado em 2026-11-19). Sabe-se, pela literatura, que a atomoxetina é um inibidor seletivo da recaptação de noradrenalina, que aumenta o tônus noradrenérgico em circuitos pré-frontais e, indiretamente, a dopamina pré-frontal. Isso sustenta plausivelmente funções de atenção e função executiva.
 
 O rótulo "transtorno específico do desenvolvimento" parece funcionar como um substituto amplo para o TDAH e condições do neurodesenvolvimento relacionadas. A literatura reunida trata sobretudo de TDAH (em adultos, em crianças e em autismo), não de transtornos específicos do desenvolvimento (por exemplo, dificuldades de aprendizagem) como alvo independente. Por isso, a previsão se aproxima mais de uma redescoberta de um uso já conhecido do que de um reposicionamento genuíno.
 
@@ -103,6 +103,19 @@ Consulte a bula para informações de segurança.
 - Dados detalhados do mecanismo de ação
 - Informações de segurança da bula aprovada pela ANVISA (advertências e contraindicações)
 - Estudos clínicos que avaliem diretamente a nova indicação
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Strattera (atomoxetine hydrochloride) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=309de576-c318-404a-bc15-660c2b1876fb) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando direta
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação registrados nos dados compilados. Segundo informações conhecidas, a tenecteplase é um ativador do plasminogênio tecidual específico para fibrina, que dissolve trombos coronarianos. Sua eficácia no infarto do miocárdio já é estabelecida, e mecanisticamente pode ser aplicável a subtipos anatômicos dessa doença.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Tenecteplase (tradução não oficial): “Tenecteplase é uma forma modificada do ativador do plasminogênio tecidual humano (tPA) que se liga à fibrina e converte o plasminogênio em plasmina. Na presença de fibrina, estudos in vitro demonstram que a conversão do plasminogênio em plasmina mediada pela tenecteplase é aumentada em relação à sua conversão na ausência de fibrina.” Texto original em inglês: "Tenecteplase is a modified form of human tissue plasminogen activator (tPA) that binds to fibrin and converts plasminogen to plasmin. In the presence of fibrin, in vitro studies demonstrate that tenecteplase-mediated conversion of plasminogen to plasmin is increased relative to its conversion in the absence of fibrin." ([DailyMed: Tnkase (tenecteplase) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e647640d-c395-4b4b-a0be-1162f9c21d84), versão de 2025-12-15; acessado em 2026-11-19). Segundo informações conhecidas, a tenecteplase é um ativador do plasminogênio tecidual específico para fibrina, que dissolve trombos coronarianos. Sua eficácia no infarto do miocárdio já é estabelecida, e mecanisticamente pode ser aplicável a subtipos anatômicos dessa doença.
 
 As previsões para doenças como deleção parcial do braço curto do cromossomo 16, anemias hemolíticas hereditárias e deficiência de piruvato quinase não têm vínculo mecanístico plausível com a fibrinólise. Os scores vêm do modelo TxGNN (deep learning) e podem refletir semelhanças aprendidas entre doenças relacionadas, não evidência biológica.
 
@@ -117,12 +117,13 @@ Nenhuma delas fornece evidência direta de eficácia para o infarto posteroinfer
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “O fármaco não possui registro comercializado no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “(não há registros vigentes)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Tnkase (tenecteplase) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e647640d-c395-4b4b-a0be-1162f9c21d84) |
 
 <!-- review:end log -->
 

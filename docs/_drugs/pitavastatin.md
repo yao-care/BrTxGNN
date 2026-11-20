@@ -57,7 +57,7 @@ O modelo TxGNN prevê, com maior pontuação bruta, **deficiência da proteína 
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, a pitavastatina pertence à classe das estatinas (inibidores da HMG-CoA redutase), com eficácia reconhecida na redução de lipídios, e mecanisticamente pode ser aplicável a populações com risco cardiovascular elevado.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Pitavastatin (tradução não oficial): “A pitavastatina é um inibidor da 3-hidroxi-3-metilglutaril-coenzima A (HMG-CoA) redutase, a enzima que catalisa a conversão da HMG-CoA em mevalonato, uma etapa limitante da velocidade na via biossintética do colesterol. Como resultado, a expressão dos receptores de LDL, seguida da captação do LDL do sangue para o fígado, é acelerada e, então, o CT plasmático diminui.” Texto original em inglês: "Pitavastatin is an inhibitor of 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase, the enzyme that catalyzes the conversion of HMG-CoA to mevalonate, a rate-limiting step in the biosynthetic pathway for cholesterol. As a result, the expression of LDL-receptors followed by the uptake of LDL from blood to liver is accelerated and then the plasma TC decreases." ([DailyMed: Livalo (pitavastatin calcium) prescribing information, Kowa Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=44dcbf97-99ec-427c-ba50-207e0069d6d2), versão de 2026-03-31; acessado em 2026-11-19). Segundo informações conhecidas, a pitavastatina pertence à classe das estatinas (inibidores da HMG-CoA redutase), com eficácia reconhecida na redução de lipídios, e mecanisticamente pode ser aplicável a populações com risco cardiovascular elevado.
 
 Pessoas com HIV têm risco cardiovascular cerca de 50% maior do que pessoas sem HIV, por causa de inflamação crônica, ativação imune e efeitos metabólicos da terapia antirretroviral. As estatinas reduzem o LDL-colesterol e têm efeitos anti-inflamatórios e de estabilização de placas. O subestudo mecanístico do REPRIEVE (JAMA Cardiology, 2024) mostrou efeitos da pitavastatina sobre a doença arterial coronariana e biomarcadores inflamatórios.
 
@@ -118,6 +118,19 @@ Para advertências e contraindicações de bula, consulte a bula aprovada pela A
 - Avaliar o registro de uma indicação específica de prevenção cardiovascular em pessoas com HIV, evitando qualquer sugestão de efeito antiviral.
 - Definir plano de revisão de interações com terapia antirretroviral e monitoramento de segurança muscular e glicêmica.
 - Descartar as previsões de transtorno do neurodesenvolvimento raro e de imunodeficiência felina por falta de evidência ou relevância humana.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Livalo (pitavastatin calcium) prescribing information, Kowa Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=44dcbf97-99ec-427c-ba50-207e0069d6d2) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para a **forma sintomática da síndro
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, o valerato de estradiol é um pró-fármaco do estradiol, o principal estrogênio natural, e foi registrado no Brasil como estrogênio associado a outros fármacos, anticoncepcional e hormônio sexual.
+Segundo a seção “Clinical Pharmacology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Estradiol Valerate (tradução não oficial): “Embora os estrogênios circulantes existam em um equilíbrio dinâmico de interconversões metabólicas, o estradiol é o principal estrogênio intracelular humano e é substancialmente mais potente que seus metabólitos, estrona e estriol, no nível do receptor. A principal fonte de estrogênio em mulheres adultas com ciclos menstruais normais é o folículo ovariano, que secreta de 70 a 500 mcg de estradiol diariamente, dependendo da fase do ciclo menstrual.” Texto original em inglês: "Although circulating estrogens exist in a dynamic equilibrium of metabolic interconversions, estradiol is the principal intracellular human estrogen and is substantially more potent than its metabolites, estrone and estriol, at the receptor level. The primary source of estrogen in normally cycling adult women is the ovarian follicle, which secretes 70 to 500 mcg of estradiol daily, depending on the phase of the menstrual cycle." ([DailyMed: Delestrogen (estradiol valerate) prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e8f94df9-0692-4462-a7f0-fe019a0a3f07), versão de 2026-05-13; acessado em 2026-11-19). Segundo informações conhecidas, o valerato de estradiol é um pró-fármaco do estradiol, o principal estrogênio natural, e foi registrado no Brasil como estrogênio associado a outros fármacos, anticoncepcional e hormônio sexual.
 
 Mulheres portadoras da pré-mutação do gene FMR1 podem desenvolver insuficiência ovariana primária associada ao X frágil (FXPOI). Nesse cenário, a reposição de estrogênio é uma medida de suporte plausível para a deficiência hormonal. A relação, porém, é inferida: ela trataria o componente endócrino, não a síndrome em si.
 
@@ -157,12 +157,13 @@ Para advertências e contraindicações oficiais, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, não há registro válido no Brasil, o que dificulta qualquer avanço regulatório imediato” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “pois não há registros válidos e as formas farmacêuticas não constam nos dados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Delestrogen (estradiol valerate) prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e8f94df9-0692-4462-a7f0-fe019a0a3f07) |
 
 <!-- review:end log -->
 

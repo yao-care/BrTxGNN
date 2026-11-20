@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, o docusato é um surfactante aniônico usado como emoliente fecal, pouco absorvido e de ação local na luz intestinal. Sua eficácia como laxante é a única indicação registrada no Brasil.
+Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Docusate é (tradução não oficial): “Laxante surfactante” Texto original em inglês: "Surfactant laxative" ([ChEMBL CHEMBL1477036 (docusate): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1477036), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações conhecidas, o docusato é um surfactante aniônico usado como emoliente fecal, pouco absorvido e de ação local na luz intestinal. Sua eficácia como laxante é a única indicação registrada no Brasil.
 
 A síndrome de Plummer-Vinson é caracterizada por anemia ferropriva, disfagia e membranas esofágicas. Não foi identificado vínculo mecanístico crível com o docusato: um surfactante poderia, em teoria, alterar a permeabilidade da mucosa, mas isso não trataria a deficiência de ferro nem as membranas esofágicas, e poderia até prejudicar a absorção de nutrientes.
 
@@ -116,13 +116,14 @@ A previsão se apoia apenas no modelo (L5), sem ensaios clínicos nem literatura
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “e o único registro no Brasil está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “dado que não há registro vigente no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Tabela: registro 178170103 (HUMECTOL D) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [ChEMBL CHEMBL1477036 (docusate): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1477036) |
 
 <!-- review:end log -->
 

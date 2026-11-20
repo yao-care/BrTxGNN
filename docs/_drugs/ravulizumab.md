@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para a **neutropenia congênita grave 
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados de mecanismo de ação na base compilada. Segundo informações conhecidas, o ravulizumabe é um anticorpo monoclonal que inibe o componente C5 do complemento, bloqueando a via terminal do complemento. Como o texto do registro brasileiro não traz uma indicação clínica específica, não é possível estabelecer uma relação direta entre a indicação original e a nova.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Ravulizumab (tradução não oficial): “O ravulizumabe-cwvz é um inibidor do complemento terminal que se liga especificamente à proteína do complemento C5 com alta afinidade, inibindo assim sua clivagem em C5a (a anafilatoxina pró-inflamatória) e C5b (a subunidade iniciadora do complexo de ataque à membrana [MAC ou C5b-9]), prevenindo assim a formação do MAC. ULTOMIRIS inibe a hemólise intravascular mediada pelo complemento terminal em pacientes com HPN e a microangiopatia trombótica (MAT) mediada pelo complemento em pacientes com SHUa.” Texto original em inglês: "Ravulizumab-cwvz is a terminal complement inhibitor that specifically binds to the complement protein C5 with high affinity, thereby inhibiting its cleavage to C5a (the proinflammatory anaphylatoxin) and C5b (the initiating subunit of the membrane attack complex [MAC or C5b-9]) thus preventing MAC formation. ULTOMIRIS inhibits terminal complement-mediated intravascular hemolysis in patients with PNH and complement-mediated thrombotic microangiopathy (TMA) in patients with aHUS." ([DailyMed: Ultomiris (ravulizumab) prescribing information, Alexion Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a9a590d9-0217-43c7-908d-e62a71279791), versão de 2026-10-29; acessado em 2026-11-19). Segundo informações conhecidas, o ravulizumabe é um anticorpo monoclonal que inibe o componente C5 do complemento, bloqueando a via terminal do complemento. Como o texto do registro brasileiro não traz uma indicação clínica específica, não é possível estabelecer uma relação direta entre a indicação original e a nova.
 
 Na análise dos dados compilados, **não foi identificada ligação mecanística plausível**. A deficiência de G6PC3 causa apoptose e disfunção de neutrófilos por estresse metabólico (acúmulo de 1,5-anidroglucitol-6-fosfato), um processo que não depende do complemento. A pontuação alta do TxGNN (0,9996) vem do modelo TxGNN (aprendizado profundo) e pode refletir semelhanças aprendidas pelo modelo entre doenças relacionadas, não evidência biológica, sem respaldo de estudos clínicos ou da literatura.
 
@@ -101,11 +101,12 @@ Para advertências e contraindicações oficiais, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “O único registro brasileiro está cancelado, e h” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Ultomiris (ravulizumab) prescribing information, Alexion Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a9a590d9-0217-43c7-908d-e62a71279791) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ atualmente com **13 ensaios clínicos** e **20 publicações** apoiando esta dir
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação na base de dados consultada. Segundo informações conhecidas, o trastuzumabe liga-se ao domínio extracelular do HER2, inibe a sinalização mediada por esse receptor e induz citotoxicidade celular dependente de anticorpo (ADCC).
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Trastuzumab (tradução não oficial): “O proto-oncogene HER2 (ou c-erbB2) codifica uma proteína receptora transmembrana de 185 kDa, estruturalmente relacionada ao receptor do fator de crescimento epidérmico. Os produtos de trastuzumabe demonstraram, tanto em ensaios in vitro quanto em animais, inibir a proliferação de células tumorais humanas que superexpressam HER2.” Texto original em inglês: "The HER2 (or c-erbB2) proto-oncogene encodes a transmembrane receptor protein of 185 kDa, which is structurally related to the epidermal growth factor receptor. Trastuzumab products have been shown, in both in vitro assays and in animals, to inhibit the proliferation of human tumor cells that overexpress HER2." ([DailyMed: Ogivri (trastuzumab-dkst) prescribing information, Biocon Biologics Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b6465b44-a6dd-f99c-d009-6851cf05169c), versão de 2026-06-26; acessado em 2026-11-19). Segundo informações conhecidas, o trastuzumabe liga-se ao domínio extracelular do HER2, inibe a sinalização mediada por esse receptor e induz citotoxicidade celular dependente de anticorpo (ADCC).
 
 Uma fração substancial dos cânceres de mama HER2-positivos também expressa receptor de progesterona (perfil HR+/HER2+, ou "triplo-positivo"). Assim, a nova indicação prevista é, na prática, um subgrupo da indicação original, e não uma indicação totalmente nova. A evidência para pacientes HER2-positivos é sólida. Já o benefício em doença PR-positiva HER2-negativa não é sustentado; as exceções são cenários HER2-low, que usam trastuzumabe deruxtecana, um produto diferente.
 
@@ -118,11 +118,12 @@ Uma fração substancial dos cânceres de mama HER2-positivos também expressa r
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Esclarecer a situação regulatória no Brasil: os dados compilados indicam 0 registros, o que deve ser verificado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Ogivri (trastuzumab-dkst) prescribing information, Biocon Biologics Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b6465b44-a6dd-f99c-d009-6851cf05169c) |
 
 <!-- review:end log -->
 

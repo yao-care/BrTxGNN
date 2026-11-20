@@ -55,7 +55,7 @@ O modelo TxGNN prevê que ela pode ser eficaz para **doença metabólica da biot
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, a cianocobalamina é uma forma de vitamina B12, um precursor de coenzimas que contêm cobalto. Sua eficácia como suplemento vitamínico e antianêmico é estabelecida, e mecanisticamente poderia, em tese, ter alguma relação com vias metabólicas ligadas à biotina.
+Segundo a seção “Clinical Pharmacology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Cyanocobalamin (tradução não oficial): “FARMACOLOGIA CLÍNICA A vitamina B12 é essencial para o crescimento, a reprodução celular, a hematopoese e a síntese de nucleoproteínas e de mielina.” Texto original em inglês: "CLINICAL PHAMRACOLOGY Vitamin B12 is essential to growth, cell reproduction, hematopoiesis, and nucleoprotein and myelin synthesis." ([DailyMed: cyanocobalamin prescribing information, SOLA Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e559c6c8-2973-77fb-e053-2995a90af43d), versão de 2025-12-08; acessado em 2026-11-19). Segundo informações conhecidas, a cianocobalamina é uma forma de vitamina B12, um precursor de coenzimas que contêm cobalto. Sua eficácia como suplemento vitamínico e antianêmico é estabelecida, e mecanisticamente poderia, em tese, ter alguma relação com vias metabólicas ligadas à biotina.
 
 Existe um possível elo indireto: a B12 e a biotina são vitaminas hidrossolúveis do complexo B e participam de vias vizinhas do metabolismo do propionato. A propionil-CoA carboxilase depende de biotina, enquanto a metilmalonil-CoA mutase depende de B12.
 
@@ -145,12 +145,13 @@ A previsão se apoia apenas no modelo (nível L5), sem ensaios clínicos e com u
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Foram encontrados 20 registros válidos no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “já que não há registro válido no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: cyanocobalamin prescribing information, SOLA Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e559c6c8-2973-77fb-e053-2995a90af43d) |
 
 <!-- review:end log -->
 

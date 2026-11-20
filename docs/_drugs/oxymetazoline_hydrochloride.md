@@ -56,7 +56,7 @@ O modelo TxGNN prevê que pode ser útil para **Doença da cavidade nasal (nasal
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo o conhecimento farmacológico geral, a oximetazolina é um agonista alfa-1 de ação direta e agonista alfa-2 parcial, que provoca vasoconstrição dos vasos da mucosa nasal. Isso reduz o fluxo sanguíneo e o edema da mucosa, melhorando a permeabilidade nasal e ajudando no controle de sangramentos.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Oxymetazoline Hydrochloride (tradução não oficial): “A oximetazolina é um agonista do adrenoceptor alfa 1A. A oximetazolina atua como vasoconstritor.” Texto original em inglês: "Oxymetazoline is an alpha 1A adrenoceptor agonist. Oxymetazoline acts as a vasoconstrictor." ([DailyMed: Rhofade (oxymetazoline hydrochloride) prescribing information, Mayne Pharma](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34298db6-647d-480d-88a8-dc53258a5164), versão de 2026-07-13; acessado em 2026-11-19). Segundo o conhecimento farmacológico geral, a oximetazolina é um agonista alfa-1 de ação direta e agonista alfa-2 parcial, que provoca vasoconstrição dos vasos da mucosa nasal. Isso reduz o fluxo sanguíneo e o edema da mucosa, melhorando a permeabilidade nasal e ajudando no controle de sangramentos.
 
 Esse mecanismo é coerente com condições da mucosa nasal, como congestão, rinite, sinusite e lesões vasculares. A pontuação elevada do TxGNN é compatível com essa lógica. No entanto, "doença da cavidade nasal" é uma categoria genérica, e o fármaco já é usado como descongestionante nasal tópico. Por isso, o valor de um eventual reposicionamento estaria em subindicações específicas (por exemplo, epistaxe na telangiectasia hemorrágica hereditária ou adjuvante em sinusite aguda), e não na categoria geral. A previsão pode refletir mais uma lacuna de curadoria de dados do que um sinal realmente novo.
 
@@ -97,6 +97,19 @@ Consulte a bula para informações de segurança.
 - Definir subindicações nasais específicas (por exemplo, epistaxe, adjuvante em sinusite aguda) e buscar estudos que as avaliem diretamente.
 - Obter dados de mecanismo de ação a partir de fonte farmacológica confiável.
 - Obter advertências e contraindicações da bula na ANVISA para a triagem de segurança.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Rhofade (oxymetazoline hydrochloride) prescribing information, Mayne Pharma](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34298db6-647d-480d-88a8-dc53258a5164) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

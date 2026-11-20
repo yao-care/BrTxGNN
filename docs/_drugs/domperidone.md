@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo a farmacologia geral, a domperidona é um antagonista periférico dos receptores de dopamina D2 (e também D3, conforme os dados de farmacologia compilados), usado para dispepsia, azia, dor epigástrica, náuseas e vômitos.
+Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Domperidone é (tradução não oficial): “Antagonista do receptor de dopamina D2” Texto original em inglês: "Dopamine D2 receptor antagonist" ([ChEMBL CHEMBL219916 (domperidone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL219916), CC BY-SA 3.0; acessado em 2026-11-19). Segundo a farmacologia geral, a domperidona é um antagonista periférico dos receptores de dopamina D2 (e também D3, conforme os dados de farmacologia compilados), usado para dispepsia, azia, dor epigástrica, náuseas e vômitos.
 
 A NSIAD é causada por mutações de ganho de função no receptor V2 da vasopressina (AVPR2), que provocam retenção de água e hiponatremia independentemente da vasopressina. Não há um mecanismo plausível pelo qual um antagonista D2 inibiria a sinalização constitutivamente ativa do receptor V2, que ocorre a jusante do receptor.
 
@@ -121,6 +121,19 @@ A única sustentação é a pontuação elevada do TxGNN (0.9908), sem ensaios c
 - Realizar revisão de literatura e estudos pré-clínicos que testem um vínculo mecanístico com o AVPR2 ou a homeostase da água
 - Esclarecer o motivo do cancelamento dos registros no Brasil e a viabilidade regulatória de uma nova indicação
 - Avaliar a compatibilidade de vias de administração e a similaridade com a indicação original (ainda pendentes)
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [ChEMBL CHEMBL219916 (domperidone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL219916) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

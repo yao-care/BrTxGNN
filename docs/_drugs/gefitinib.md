@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o gefitinibe é um inibidor seletivo da tirosina quinase do EGFR, que regula vias de sinalização intracelular ligadas à proliferação e à sobrevivência celular.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Gefitinib (tradução não oficial): “O receptor do fator de crescimento epidérmico (EGFR) é expresso na superfície celular tanto de células normais quanto de células cancerosas e desempenha um papel nos processos de crescimento e proliferação celular. Algumas mutações ativadoras do EGFR (deleção no éxon 19 ou mutação pontual L858R no éxon 21) em células de CPCNP foram identificadas como contribuintes para a promoção do crescimento de células tumorais, o bloqueio da apoptose, o aumento da produção de fatores angiogênicos e a facilitação dos processos de metástase. […] O gefitinibe inibe reversivelmente a atividade quinase do EGFR do tipo selvagem e de certas mutações ativadoras, impedindo a autofosforilação de resíduos de tirosina associados ao receptor, inibindo assim a sinalização adicional a jusante e bloqueando a proliferação dependente de EGFR.” Texto original em inglês: "The epidermal growth factor receptor (EGFR) is expressed on the cell surface of both normal and cancer cells and plays a role in the processes of cell growth and proliferation. Some EGFR activating mutations (exon 19 deletion or exon 21 point mutation L858R) within NSCLC cells have been identified as contributing to the promotion of tumor cell growth, blocking of apoptosis, increasing the production of angiogenic factors and facilitating the processes of metastasis. […] Gefitinib reversibly inhibits the kinase activity of wild-type and certain activating mutations of EGFR, preventing autophosphorylation of tyrosine residues associated with the receptor, thereby inhibiting further downstream signaling and blocking EGFR-dependent proliferation." ([DailyMed: Iressa (gefitinib) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=827d60e8-7e07-41b7-c28b-49ef1c4a5a41), versão de 2023-02-28; acessado em 2026-11-19). Segundo informações conhecidas, o gefitinibe é um inibidor seletivo da tirosina quinase do EGFR, que regula vias de sinalização intracelular ligadas à proliferação e à sobrevivência celular.
 
 Uma hipótese possível, ainda não verificada, é que a sinalização EGFR/ERK participe da proliferação de fibroblastos, o que poderia ter relação com o crescimento excessivo de tecido fibroso na gengiva. Essa ligação é especulativa: não há ensaios clínicos nem publicações nos dados compilados que a sustentem, e a similaridade com a indicação original ainda não foi avaliada.
 
@@ -84,6 +84,19 @@ Consulte a bula para advertências e contraindicações oficiais.
 - Estudos pré-clínicos (por exemplo, em fibroblastos gengivais) e, depois, estudos clínicos exploratórios
 - Advertências e contraindicações extraídas da bula aprovada pela ANVISA
 - Avaliação de risco-benefício específica para uma doença benigna
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Iressa (gefitinib) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=827d60e8-7e07-41b7-c28b-49ef1c4a5a41) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **esclerodermia difusa (diffuse s
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Pelo conhecimento geral, o cloranfenicol é um antibiótico que bloqueia a síntese proteica bacteriana, e não há mecanismo farmacológico estabelecido que o ligue à esclerodermia difusa.
+Segundo as seções “Clinical Pharmacology” e “Microbiology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Chloramphenicol (tradução não oficial): “O cloranfenicol é um antibiótico de amplo espectro originalmente isolado de Streptomyces venezuelae. Ele inibe a síntese proteica bacteriana ao interferir na transferência de aminoácidos ativados do RNA solúvel para os ribossomos.” Texto original em inglês: "Chloramphenicol is a broad-spectrum antibiotic originally isolated from Streptomyces venezuelae. It inhibits bacterial protein synthesis by interfering with the transfer of activated amino acids from soluble RNA to ribosomes." ([DailyMed: chloramphenicol sodium succinate prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=aed29594-211d-49ef-813f-131975a8d0e3), versão de 2024-10-10; acessado em 2026-11-19). Pelo conhecimento geral, o cloranfenicol é um antibiótico que bloqueia a síntese proteica bacteriana, e não há mecanismo farmacológico estabelecido que o ligue à esclerodermia difusa.
 
 As publicações recuperadas tratam da regulação do gene do pró-colágeno α1(I) em fibroblastos de esclerodermia (promotor, Smad3/Sp1/p300, sinalização do TGF-β). Os títulos não mencionam o cloranfenicol. A associação provavelmente é um artefato de ensaios com gene repórter (cloranfenicol acetiltransferase, CAT), e não um efeito farmacológico.
 
@@ -102,6 +102,18 @@ A lista mostra os 5 principais registros; há 8 registros no total, dos quais 7 
 - Evidência pré-clínica que demonstre efeito antifibrótico real do cloranfenicol, independente de ensaios com repórter CAT
 - Advertências e contraindicações extraídas das bulas da ANVISA
 - Avaliação de segurança hematológica caso se considere o uso sistêmico
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: chloramphenicol sodium succinate prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=aed29594-211d-49ef-813f-131975a8d0e3) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

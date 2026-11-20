@@ -58,7 +58,7 @@ Outras previsões do modelo, também sem qualquer evidência: síndrome da pesso
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, a empagliflozina inibe o cotransportador sódio-glicose tipo 2 (SGLT2) nos rins, reduzindo a reabsorção de glicose e a glicemia.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Empagliflozin (tradução não oficial): “A empagliflozina é um inibidor do SGLT2, o transportador predominante responsável pela reabsorção da glicose do filtrado glomerular de volta para a circulação. Ao inibir o SGLT2, a empagliflozina reduz a reabsorção renal da glicose filtrada e diminui o limiar renal para a glicose, aumentando assim a excreção urinária de glicose.” Texto original em inglês: "Empagliflozin is an inhibitor of SGLT2, the predominant transporter responsible for reabsorption of glucose from the glomerular filtrate back into the circulation. By inhibiting SGLT2, empagliflozin reduces renal reabsorption of filtered glucose and lowers the renal threshold for glucose, and thereby increases urinary glucose excretion." ([DailyMed: Jardiance (empagliflozin) prescribing information, Boehringer Ingelheim Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=faf3dd6a-9cd0-39c2-0d2e-232cb3f67565), versão de 2026-11-10; acessado em 2026-11-19). Segundo informações conhecidas, a empagliflozina inibe o cotransportador sódio-glicose tipo 2 (SGLT2) nos rins, reduzindo a reabsorção de glicose e a glicemia.
 
 A análise do mecanismo **não identificou um vínculo biológico crível**. A síndrome do membro rígido focal é um distúrbio neurológico raro, de natureza provavelmente autoimune, associado a prejuízo da inibição GABAérgica (frequentemente com anticorpos anti-GAD65 ou anti-anfifisina). Não se conhece nenhuma via que ligue a inibição do SGLT2 a esse mecanismo.
 
@@ -127,11 +127,12 @@ Para advertências e contraindicações, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Há 8 registros válidos no total; s” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Jardiance (empagliflozin) prescribing information, Boehringer Ingelheim Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=faf3dd6a-9cd0-39c2-0d2e-232cb3f67565) |
 
 <!-- review:end log -->
 

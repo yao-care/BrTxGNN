@@ -54,7 +54,7 @@ A hidrocortisona é um corticosteroide (glicocorticoide) com ação anti-inflama
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Em termos gerais, a hidrocortisona pertence à classe dos glicocorticoides, que reduzem a inflamação e suprimem respostas imunes.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Hydrocortisone (tradução não oficial): “A hidrocortisona é um glicocorticoide. Os glicocorticoides, esteroides adrenocorticais, causam efeitos metabólicos variados. Além disso, modificam as respostas imunológicas do organismo a diversos estímulos..” Texto original em inglês: "Hydrocortisone is a glucocorticoid. Glucocorticoids, adrenocortical steroids, cause varied metabolic effects. In addition, they modify the body's immune responses to diverse stimuli.." ([DailyMed: Alkindi Sprinkle (hydrocortisone) prescribing information, Eton Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=26c13a5f-7119-4c6a-bf10-fda4e07d7682), versão de 2026-04-21; acessado em 2026-11-19). Em termos gerais, a hidrocortisona pertence à classe dos glicocorticoides, que reduzem a inflamação e suprimem respostas imunes.
 
 A alopecia areata é uma doença autoimune mediada por linfócitos T, que atacam o folículo piloso e causam queda de cabelo em placas. Um corticosteroide tópico ou intralesional pode, em tese, reduzir o infiltrado imune ao redor do folículo, e é essa a base mecanística da previsão.
 
@@ -141,6 +141,18 @@ As advertências e contraindicações da bula não constam nos dados compilados.
 - Avaliar o desfecho do ensaio NCT01453686 e a publicação de 2014 (PMID 24226568) quanto à eficácia relativa da hidrocortisona frente aos corticosteroides de maior potência.
 - Definir a via e a forma de administração (tópica ou intralesional) e sua compatibilidade com as apresentações registradas.
 - Planejar um estudo comparativo adicional, se houver interesse em posicionar a hidrocortisona nessa condição.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Alkindi Sprinkle (hydrocortisone) prescribing information, Eton Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=26c13a5f-7119-4c6a-bf10-fda4e07d7682) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

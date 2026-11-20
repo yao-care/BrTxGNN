@@ -56,7 +56,7 @@ mas até o momento há **0 ensaios clínicos** e **1 publicação** (um relato d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o captopril inibe a ECA, reduzindo a formação de angiotensina II (vasoconstritora) e a liberação de aldosterona. Mecanisticamente, isso é biologicamente plausível na hipertensão maligna com acometimento renal, em que a ativação do sistema renina-angiotensina-aldosterona (SRAA) contribui para a lesão vascular.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Captopril (tradução não oficial): “O mecanismo de ação do captopril comprimidos ainda não foi totalmente elucidado. Seus efeitos benéficos na hipertensão e na insuficiência cardíaca parecem resultar principalmente da supressão do sistema renina-angiotensina-aldosterona.” Texto original em inglês: "The mechanism of action of captopril tablets have not yet been fully elucidated. Its beneficial effects in hypertension and heart failure appear to result primarily from suppression of the renin-angiotensin-aldosterone system." ([DailyMed: captopril prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ccbffd30-4b21-4522-bdb8-abba8d592017), versão de 2026-11-11; acessado em 2026-11-19). Segundo informações conhecidas, o captopril inibe a ECA, reduzindo a formação de angiotensina II (vasoconstritora) e a liberação de aldosterona. Mecanisticamente, isso é biologicamente plausível na hipertensão maligna com acometimento renal, em que a ativação do sistema renina-angiotensina-aldosterona (SRAA) contribui para a lesão vascular.
 
 No entanto, a única publicação disponível é um relato de caso sobre renografia com captopril (usada como teste diagnóstico) em um paciente com carcinoma de células renais. Ela não constitui evidência terapêutica para esta doença. A pontuação elevada do TxGNN é apenas uma previsão computacional.
 
@@ -91,6 +91,19 @@ Para advertências detalhadas, consulte a bula.
 - Advertências e contraindicações da bula aprovada pela ANVISA.
 - Revisão da literatura clínica sobre inibidores da ECA em hipertensão maligna com acometimento renal e, se justificado, ensaios clínicos.
 - Avaliação de segurança renal (função renal, potássio) em pacientes com doença renal avançada.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: captopril prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ccbffd30-4b21-4522-bdb8-abba8d592017) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

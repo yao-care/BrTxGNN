@@ -56,7 +56,7 @@ atualmente com **0 ensaios clínicos** e **9 publicações** relacionadas, em su
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o dipropionato de beclometasona é um agonista do receptor de glicocorticoides, com efeitos anti-inflamatórios e imunossupressores. Sua eficácia em asma e em usos de corticosteroide tópico está estabelecida.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Beclomethasone Dipropionate (tradução não oficial): “O dipropionato de beclometasona é um pró-fármaco extensamente convertido no metabólito ativo, o 17-monopropionato de beclometasona. O mecanismo preciso pelo qual o dipropionato de beclometasona afeta os sintomas da rinite é desconhecido.” Texto original em inglês: "Beclomethasone dipropionate is a prodrug that is extensively converted to the active metabolite, beclomethasone-17-monopropionate. The precise mechanism through which beclomethasone dipropionate affects rhinitis symptoms is unknown." ([DailyMed: Qnasl (beclomethasone dipropionate) prescribing information, Teva Respiratory, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4b8d8e84-b5d2-4e56-97ec-4f72971465c5), versão de 2020-02-29; acessado em 2026-11-19). Segundo informações conhecidas, o dipropionato de beclometasona é um agonista do receptor de glicocorticoides, com efeitos anti-inflamatórios e imunossupressores. Sua eficácia em asma e em usos de corticosteroide tópico está estabelecida.
 
 A dermatite atópica é impulsionada por vias inflamatórias que os corticosteroides suprimem: citocinas pró-inflamatórias e atividade de linfócitos T e eosinófilos. Além disso, as indicações originais do fármaco já incluem o uso como corticosteroide tópico. Por isso, a pontuação alta (0,9941) é coerente com a farmacologia conhecida, e a indicação se descreve melhor como uma extensão de formulação ou via dentro da classe dos corticosteroides do que como reposicionamento inovador.
 
@@ -133,12 +133,13 @@ As advertências e contraindicações da bula brasileira não estavam disponíve
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-13 | Registros válidos: 13 → 12 de 13 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-13 | Registros válidos: 13 → 12 de 13 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Qnasl (beclomethasone dipropionate) prescribing information, Teva Respiratory, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4b8d8e84-b5d2-4e56-97ec-4f72971465c5) |
 
 <!-- review:end log -->
 

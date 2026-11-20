@@ -57,7 +57,7 @@ Essa direção é apoiada por **6 ensaios clínicos** (1 de Fase 3 concluído, r
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos registros compilados para este relatório. Pela farmacologia geral, a bupropiona inibe a recaptação de dopamina e noradrenalina. As revisões da literatura sobre o fármaco descrevem esse mesmo mecanismo.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Bupropion Hydrochloride (tradução não oficial): “O mecanismo exato pelo qual os comprimidos de liberação prolongada de cloridrato de bupropiona (SR) aumentam a capacidade dos pacientes de se absterem de fumar não é conhecido, mas presume-se que esteja relacionado a mecanismos noradrenérgicos e/ou dopaminérgicos. A bupropiona é um inibidor relativamente fraco da recaptação neuronal de norepinefrina e dopamina, e não inibe a recaptação de serotonina.” Texto original em inglês: "The exact mechanism by which bupropion hydrochloride extended-release tablets (SR) enhances the ability of patients to abstain from smoking is not known but is presumed to be related to noradrenergic and/or dopaminergic mechanisms. Bupropion is a relatively weak inhibitor of the neuronal reuptake of norepinephrine and dopamine, and does not inhibit the reuptake of serotonin." ([DailyMed: Bupropion Hydrochloride Sr (bupropion hydrochloride) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dfb45438-1116-48f2-9bfe-776ebbf1e119), versão de 2026-11-11; acessado em 2026-11-19). Pela farmacologia geral, a bupropiona inibe a recaptação de dopamina e noradrenalina. As revisões da literatura sobre o fármaco descrevem esse mesmo mecanismo.
 
 Os medicamentos já estabelecidos para o TDAH atuam nessas mesmas vias catecolaminérgicas. Os estimulantes liberam dopamina e noradrenalina no sistema nervoso central. Os não estimulantes também modulam a sinalização noradrenérgica. Por isso, a ligação biológica entre a bupropiona e o TDAH é plausível. Ela vem do conhecimento geral de farmacologia, não de um dado de mecanismo confirmado nos registros.
 
@@ -114,6 +114,19 @@ Consulte a bula para informações de segurança.
 - Baixar e analisar as advertências e contraindicações da bula na ANVISA, para a triagem de segurança.
 - Complementar os dados de mecanismo de ação a partir de fonte farmacológica de referência.
 - Definir o monitoramento de segurança para as populações específicas (adolescentes, adultos e pessoas com uso concomitante de substâncias).
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Bupropion Hydrochloride Sr (bupropion hydrochloride) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dfb45438-1116-48f2-9bfe-776ebbf1e119) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

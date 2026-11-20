@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo conhecimento farmacológico geral, a espironolactona é um antagonista do receptor mineralocorticoide e também tem atividade antiandrogênica (bloqueio do receptor de androgênio e redução da síntese de androgênios). Seu efeito diurético está bem estabelecido, e ela é usada fora da bula em alopecia de padrão feminino.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Spironolactone (tradução não oficial): “Espironolactona e seus metabólitos ativos são antagonistas farmacológicos específicos da aldosterona, atuando principalmente por meio da ligação competitiva aos receptores no sítio de troca sódio-potássio dependente de aldosterona no túbulo contorcido distal renal. Espironolactona provoca o aumento da excreção de sódio e água, enquanto o potássio é retido.” Texto original em inglês: "Spironolactone and its active metabolites are specific pharmacologic antagonists of aldosterone, acting primarily through competitive binding of receptors at the aldosterone-dependent sodium-potassium exchange site in the distal convoluted renal tubule. Spironolactone causes increased amounts of sodium and water to be excreted, while potassium is retained." ([DailyMed: Aldactone (spironolactone) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc), versão de 2025-11-28; acessado em 2026-11-19). Segundo conhecimento farmacológico geral, a espironolactona é um antagonista do receptor mineralocorticoide e também tem atividade antiandrogênica (bloqueio do receptor de androgênio e redução da síntese de androgênios). Seu efeito diurético está bem estabelecido, e ela é usada fora da bula em alopecia de padrão feminino.
 
 A hipotricose simples do couro cabeludo, porém, é uma condição hereditária rara, geralmente associada a variantes em genes como CDSN, APCDD1 ou RPL21, e não é primariamente dependente de androgênios. A relação com a indicação original (diurético) é indireta, e a ligação mecanística é **especulativa**: baseia-se apenas na pontuação elevada do TxGNN, sem estudos que a sustentem.
 
@@ -166,7 +166,7 @@ A previsão tem pontuação alta no modelo TxGNN (deep learning), mas nível de 
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
@@ -175,6 +175,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | 2026-11-12 | Licenças válidas: 8 de 8 → 10 de 29 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Licenças válidas: 8 de 8 → 10 de 29 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Contagem exibida: “Exibidos os 5 primeiros de 8 registros” → “Exibidos os 29 registros” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Aldactone (spironolactone) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc) |
 
 <!-- review:end log -->
 

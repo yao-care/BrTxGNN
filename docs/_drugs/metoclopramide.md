@@ -60,7 +60,7 @@ atualmente com **1 ensaio clínico** (de uso procedimental) e **cerca de 20 publ
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas na literatura recuperada, a metoclopramida é um antagonista dopaminérgico D2 e agonista de 5-HT4, com efeito procinético: acelera o esvaziamento gástrico e estimula a motilidade do trato digestivo superior, além de atuar na zona de gatilho quimiorreceptora para o efeito antiemético.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Metoclopramide (tradução não oficial): “A metoclopramida estimula a motilidade do trato gastrointestinal superior sem estimular as secreções gástricas, biliares ou pancreáticas. O mecanismo de ação exato da metoclopramida no tratamento do refluxo gastroesofágico e da gastroparesia diabética aguda e recorrente não foi totalmente estabelecido.” Texto original em inglês: "Metoclopramide stimulates motility of the upper gastrointestinal tract without stimulating gastric, biliary, or pancreatic secretions. The exact mechanism of action of metoclopramide in the treatment of gastroesophageal reflux and acute and recurrent diabetic gastroparesis has not been fully established." ([DailyMed: Reglan (metoclopramide hydrochloride) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de55c133-eb08-4a35-91a2-5dc093027397), versão de 2026-02-09; acessado em 2026-11-19). Segundo informações conhecidas na literatura recuperada, a metoclopramida é um antagonista dopaminérgico D2 e agonista de 5-HT4, com efeito procinético: acelera o esvaziamento gástrico e estimula a motilidade do trato digestivo superior, além de atuar na zona de gatilho quimiorreceptora para o efeito antiemético.
 
 A relação com a úlcera gástrica é **indireta**. A ação procinética pode aliviar a dispepsia e o esvaziamento gástrico retardado que acompanham algumas úlceras. No entanto, o fármaco **não** possui ação antissecretora, cicatrizante ou de proteção da mucosa, e não substitui o tratamento padrão (inibidores da bomba de prótons e erradicação do *H. pylori*). Um estudo antigo em ratos (PMID 2730234) sugeriu efeito protetor contra úlceras induzidas, mas é pré-clínico e isolado.
 
@@ -172,11 +172,12 @@ As advertências e contraindicações da bula não estavam disponíveis; consult
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “e não há registro válido no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Reglan (metoclopramide hydrochloride) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de55c133-eb08-4a35-91a2-5dc093027397) |
 
 <!-- review:end log -->
 

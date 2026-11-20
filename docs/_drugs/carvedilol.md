@@ -56,7 +56,7 @@ Até o momento há **0 ensaios clínicos** e **0 publicações** que estudem dir
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Pela literatura disponível, o carvedilol bloqueia receptores beta e alfa-1 adrenérgicos e tem atividade antioxidante. Esse conjunto reduz a pressão arterial e a atividade simpática.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Carvedilol (tradução não oficial): “COREG é uma mistura racêmica na qual a atividade bloqueadora não seletiva dos β-adrenorreceptores está presente no enantiômero S(-) e a atividade bloqueadora α1-adrenérgica está presente em ambos os enantiômeros R(+) e S(-), com potência igual. COREG não possui atividade simpatomimética intrínseca.” Texto original em inglês: "COREG is a racemic mixture in which nonselective β-adrenoreceptor blocking activity is present in the S(-) enantiomer and α1-adrenergic blocking activity is present in both R(+) and S(-) enantiomers at equal potency. COREG has no intrinsic sympathomimetic activity." ([DailyMed: Coreg (carvedilol) prescribing information, Waylis Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=07c619c6-4a0c-445e-94fa-664a54f68a39), versão de 2026-07-31; acessado em 2026-11-19). Pela literatura disponível, o carvedilol bloqueia receptores beta e alfa-1 adrenérgicos e tem atividade antioxidante. Esse conjunto reduz a pressão arterial e a atividade simpática.
 
 Do ponto de vista teórico, reduzir a pressão arterial e atenuar o estímulo simpático e do sistema renina-angiotensina poderia limitar a lesão renal causada pela hipertensão maligna. A previsão tem, portanto, alguma plausibilidade fisiológica, pois a nova doença envolve a mesma via de pressão elevada que o fármaco já modula.
 
@@ -99,6 +99,19 @@ Para advertências e contraindicações, consulte a bula.
 - Dados detalhados do mecanismo de ação.
 - Obtenção e análise da bula aprovada no Brasil (advertências e contraindicações) para a avaliação de segurança.
 - Avaliação da compatibilidade da via de administração oral com o cenário clínico agudo.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Coreg (carvedilol) prescribing information, Waylis Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=07c619c6-4a0c-445e-94fa-664a54f68a39) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

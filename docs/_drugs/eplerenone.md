@@ -56,7 +56,7 @@ Os dados compilados para este relatório não incluem ensaios clínicos registra
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Sabe-se que a eplerenona bloqueia seletivamente o receptor mineralocorticoide, que é ativado pela aldosterona e também por glicocorticoides. Essa ativação promove fibrose, inflamação e remodelamento vascular.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Eplerenone (tradução não oficial): “A eplerenona se liga ao receptor de mineralocorticoides e bloqueia a ligação da aldosterona, um componente do sistema renina-angiotensina-aldosterona (SRAA). A síntese de aldosterona, que ocorre principalmente na glândula adrenal, é modulada por múltiplos fatores, incluindo a angiotensina II e mediadores não pertencentes ao SRAA, como o hormônio adrenocorticotrófico (ACTH) e o potássio.” Texto original em inglês: "Eplerenone binds to the mineralocorticoid receptor and blocks the binding of aldosterone, a component of the renin-angiotensin-aldosterone-system (RAAS). Aldosterone synthesis, which occurs primarily in the adrenal gland, is modulated by multiple factors, including angiotensin II and non-RAAS mediators such as adrenocorticotropic hormone (ACTH) and potassium." ([DailyMed: Inspra (eplerenone) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1a52bedc-8e2c-4116-a296-a87770676b4a), versão de 2025-06-23; acessado em 2026-11-19). Sabe-se que a eplerenona bloqueia seletivamente o receptor mineralocorticoide, que é ativado pela aldosterona e também por glicocorticoides. Essa ativação promove fibrose, inflamação e remodelamento vascular.
 
 Estudos pré-clínicos mostram que a hipóxia intermitente crônica (como na apneia obstrutiva do sono) ativa essa via, causando fibrose renal e remodelamento atrial, atenuados pela eplerenona. Trabalhos mecanísticos também ligam a aldosterona ao remodelamento vascular pulmonar e à fibrose induzida pela hipóxia. Em modelos animais de hipertensão arterial pulmonar, a eplerenona atenuou o remodelamento vascular pulmonar.
 
@@ -120,11 +120,12 @@ Consulte a bula para as advertências e contraindicações oficiais.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-11 | Removido: “Há 2 registros de produtos de princípio ativo único, ambos para eplerenona” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Inspra (eplerenone) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1a52bedc-8e2c-4116-a296-a87770676b4a) |
 
 <!-- review:end log -->
 

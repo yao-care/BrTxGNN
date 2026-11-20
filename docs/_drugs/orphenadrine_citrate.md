@@ -57,7 +57,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados registrados sobre o mecanismo de ação. Segundo informações conhecidas, a orfenadrina é um agente anticolinérgico/anti-histamínico, com atividade bloqueadora de canais de NMDA e de canais de sódio, utilizado como relaxante muscular.
+Segundo a seção “Clinical Pharmacology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Orphenadrine Citrate (tradução não oficial): “O modo de ação não foi claramente identificado, mas pode estar relacionado às propriedades analgésicas. O citrato de orfenadrina possui ações anticolinérgicas.” Texto original em inglês: "The mode of action has not been clearly identified but may be related to analgesic properties. Orphenadrine citrate possesses anticholinergic actions." ([DailyMed: orphenadrine citrate prescribing information, Actavis Pharma, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=aec8ad3a-f717-4e74-b7b9-19debdaad79a), versão de 2016-07-20; acessado em 2026-11-19). Segundo informações conhecidas, a orfenadrina é um agente anticolinérgico/anti-histamínico, com atividade bloqueadora de canais de NMDA e de canais de sódio, utilizado como relaxante muscular.
 
 Não foi identificado vínculo mecanístico entre esses efeitos e a distrofia retiniana. Trata-se de uma condição hereditária geneticamente heterogênea, e um fármaco sintomático de ação muscular e anticolinérgica não tem, em princípio, fundamento para modificar a doença de base.
 
@@ -99,6 +99,19 @@ Consulte a bula para informações de segurança.
 - Estudos pré-clínicos que justifiquem a hipótese
 - Informações de segurança da bula da ANVISA (advertências e contraindicações), ainda não analisadas
 - Avaliação da via de administração, já que o uso sistêmico anticolinérgico exigiria análise de risco-benefício em doença retiniana hereditária
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: orphenadrine citrate prescribing information, Actavis Pharma, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=aec8ad3a-f717-4e74-b7b9-19debdaad79a) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

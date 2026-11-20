@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e apenas **1 publicação** (um relat
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a buprenorfina é um agonista parcial do receptor opioide mu e antagonista do receptor kappa, usada para analgesia, e mecanisticamente não há uma ligação clara com a nova indicação.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Buprenorphine (tradução não oficial): “SUBLOCADE Injeção contém buprenorfina. A buprenorfina é um agonista parcial no receptor opioide mu e um antagonista no receptor opioide kappa.” Texto original em inglês: "SUBLOCADE Injection contains buprenorphine. Buprenorphine is a partial agonist at the mu- opioid receptor and an antagonist at the kappa-opioid receptor." ([DailyMed: Sublocade (buprenorphine) prescribing information, Indivior Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6189fb21-9432-45f8-8481-0bfaf3ccde95), versão de 2026-07-27; acessado em 2026-11-19). Segundo informações conhecidas, a buprenorfina é um agonista parcial do receptor opioide mu e antagonista do receptor kappa, usada para analgesia, e mecanisticamente não há uma ligação clara com a nova indicação.
 
 A porfiria aguda intermitente é causada por um defeito na biossíntese do heme. Não se identificou relação mecanística entre a ação opioide da buprenorfina e esse defeito. O único trabalho encontrado descreve o manejo anestésico de uma paciente com porfiria, refletindo considerações de segurança perioperatória e analgesia opioide durante crises, e não modificação da doença.
 
@@ -115,11 +115,12 @@ As advertências e contraindicações da bula da ANVISA não estavam disponívei
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-10-31 | Removido: “(registros cancelados)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Sublocade (buprenorphine) prescribing information, Indivior Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6189fb21-9432-45f8-8481-0bfaf3ccde95) |
 
 <!-- review:end log -->
 

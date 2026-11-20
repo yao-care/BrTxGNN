@@ -59,7 +59,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Acne (acne (disease))**, mas at
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, o óxido de zinco é um agente de uso tópico, com ação protetora e emoliente sobre a pele e as mucosas, além de ação antimicótica em associações. Mecanisticamente, pode ser aplicável à acne.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para miconazole nitrate, zinc oxide, white petrolatum (associação que contém Zinc Oxide) (tradução não oficial): “O mecanismo de ação do petrolato branco e do óxido de zinco no tratamento adjuvante da dermatite das fraldas é desconhecido.” Texto original em inglês: "The mechanism of action of white petrolatum and zinc oxide for the adjunctive treatment of diaper dermatitis is unknown." ([DailyMed: Vusion (miconazole nitrate, zinc oxide, white petrolatum) prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b44b452d-3630-4cb5-8ed1-1f8edac4690c), versão de 2018-08-15; acessado em 2026-11-19). Segundo informações conhecidas, o óxido de zinco é um agente de uso tópico, com ação protetora e emoliente sobre a pele e as mucosas, além de ação antimicótica em associações. Mecanisticamente, pode ser aplicável à acne.
 
 O zinco tem atividade anti-inflamatória e antibacteriana plausível, inclusive contra a *Cutibacterium acnes*, e nanopartículas de óxido de zinco mostram efeito antimicrobiano. A acne é uma doença inflamatória da pele associada a essa bactéria, o que se alinha ao uso dermatológico original do fármaco e à pontuação elevada do modelo.
 
@@ -163,12 +163,13 @@ Consulte a bula para advertências e contraindicações oficiais.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “O medicamento está comercializado no Brasil, com 20 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Além disso, o medicamento está comercializado no Brasil, com 20 registros válidos, e os dados de segurança da bula não estão disponíveis” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Vusion (miconazole nitrate, zinc oxide, white petrolatum) prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b44b452d-3630-4cb5-8ed1-1f8edac4690c) |
 
 <!-- review:end log -->
 

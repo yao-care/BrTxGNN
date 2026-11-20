@@ -61,7 +61,7 @@ O nível L5 se justifica porque nenhum estudo citado examina o darunavir isolada
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o darunavir é um inibidor da protease do HIV-1, e sua relação com o HIV/AIDS está registrada no grafo de conhecimento. Mecanisticamente, a previsão pode ser aplicável ao SIV.
+Segundo as seções “Mechanism of Action” e “Microbiology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Darunavir (tradução não oficial): “O darunavir é um medicamento antiviral contra o HIV-1. […] O darunavir é um inibidor da protease do HIV-1. Ele inibe seletivamente a clivagem das poliproteínas Gag-Pol codificadas pelo HIV-1 em células infectadas, impedindo assim a formação de partículas virais maduras.” Texto original em inglês: "Darunavir is an HIV-1 antiviral drug. […] Darunavir is an inhibitor of the HIV-1 protease. It selectively inhibits the cleavage of HIV-1 encoded Gag-Pol polyproteins in infected cells, thereby preventing the formation of mature virus particles." ([DailyMed: Prezista (darunavir) prescribing information, Janssen Products LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=814301f9-c990-46a5-b481-2879a521a16f), versão de 2025-08-29; acessado em 2026-11-19). Segundo informações conhecidas, o darunavir é um inibidor da protease do HIV-1, e sua relação com o HIV/AIDS está registrada no grafo de conhecimento. Mecanisticamente, a previsão pode ser aplicável ao SIV.
 
 O SIV é um lentivírus intimamente relacionado ao HIV, com protease estruturalmente semelhante. Isso torna plausível a lógica do mecanismo e explica a pontuação alta do modelo.
 
@@ -126,6 +126,19 @@ Para advertências e contraindicações formais, consulte a bula.
 - Bula da ANVISA com advertências e contraindicações formais, ainda não analisada.
 
 **Observação sobre as demais previsões:** infecção por imunodeficiência felina (veterinária, sem estudos), um transtorno do neurodesenvolvimento raro (sem vínculo mecanístico plausível) e hiperlipidemia combinada familiar obsoleta (o darunavir tende a elevar lipídios, e não a reduzi-los) também ficaram em L5 e Hold.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Prezista (darunavir) prescribing information, Janssen Products LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=814301f9-c990-46a5-b481-2879a521a16f) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

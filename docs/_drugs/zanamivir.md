@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Pielonefrite (Pyelonephritis)**
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação compilados para este relatório. Segundo informações conhecidas, o zanamivir é um inibidor da neuraminidase do vírus influenza, e sua eficácia em influenza é o uso original do fármaco.
+Segundo as seções “Mechanism of Action” e “Microbiology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Zanamivir (tradução não oficial): “O zanamivir é um medicamento antiviral com atividade contra o vírus influenza. […] O zanamivir é um inibidor da neuraminidase (NA) do vírus influenza, uma enzima que libera partículas virais da membrana plasmática das células infectadas e promove a disseminação do vírus no trato respiratório. Em ensaios de inibição da neuraminidase, o zanamivir é ativo contra todos os subtipos da enzima NA, de N1 a N9.” Texto original em inglês: "Zanamivir is an antiviral drug with activity against influenza virus. […] Zanamivir is an inhibitor of influenza virus neuraminidase (NA), an enzyme that releases viral particles from the plasma membrane of infected cells and promotes virus spread in the respiratory tract. In neuraminidase inhibition assays, zanamivir is active against all NA enzyme subtypes N1 to N9." ([DailyMed: Relenza (zanamivir) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b4e68930-4e6d-4d27-b1f0-abf60d12e28d), versão de 2026-07-23; acessado em 2026-11-19). Segundo informações conhecidas, o zanamivir é um inibidor da neuraminidase do vírus influenza, e sua eficácia em influenza é o uso original do fármaco.
 
 Não foi identificado vínculo mecanístico plausível com a pielonefrite. Essa doença é tipicamente uma infecção bacteriana do rim, enquanto o alvo do zanamivir (a neuraminidase viral) não é o mecanismo central dessas infecções. A pontuação elevada do TxGNN (0,9984) vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica, sem respaldo em ensaios clínicos ou literatura nos dados compilados. A previsão deve, portanto, ser tratada com cautela e considerada especulativa.
 
@@ -113,12 +113,13 @@ Para as demais informações de segurança, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “O fármaco também não está registrado no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Avaliação regulatória sobre a ausência de registro no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Relenza (zanamivir) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b4e68930-4e6d-4d27-b1f0-abf60d12e28d) |
 
 <!-- review:end log -->
 

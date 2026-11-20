@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Deficiência de Cofator 2 da He
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a edaravona é um removedor de radicais livres (antioxidante), aprovado em algumas regiões para esclerose lateral amiotrófica (ELA) e acidente vascular cerebral isquêmico agudo. Ela pode reduzir a lesão oxidativa do endotélio.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Edaravone (tradução não oficial): “O mecanismo pelo qual a edaravona injetável exerce seu efeito terapêutico em pacientes com ELA é desconhecido.” Texto original em inglês: "The mechanism by which edaravone injection exert its therapeutic effect in patients with ALS is unknown." ([DailyMed: edaravone prescribing information, Piramal Critical Care Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=19862ae9-d6e1-70e6-e063-6394a90ae749), versão de 2025-10-07; acessado em 2026-11-19). Segundo informações conhecidas, a edaravona é um removedor de radicais livres (antioxidante), aprovado em algumas regiões para esclerose lateral amiotrófica (ELA) e acidente vascular cerebral isquêmico agudo. Ela pode reduzir a lesão oxidativa do endotélio.
 
 A deficiência de cofator II da heparina é uma trombofilia hereditária, causada pela redução da inibição da trombina mediada por serpina. A edaravona não atua nessa via, portanto não há justificativa mecanística direta. Qualquer ligação seria indireta, por exemplo pela proteção antioxidante do endotélio vascular em contextos trombóticos.
 
@@ -104,12 +104,13 @@ Consulte a bula para informações de segurança. Não foram encontradas intera�
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “O único registro no Brasil está cancelado, e f” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “já que o registro está cancelado e não há produto comercializado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: edaravone prescribing information, Piramal Critical Care Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=19862ae9-d6e1-70e6-e063-6394a90ae749) |
 
 <!-- review:end log -->
 

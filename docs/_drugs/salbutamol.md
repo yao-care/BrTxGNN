@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Conjuntivite papilar (papillary
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Sabe-se que o salbutamol pertence à classe dos agonistas beta-2 adrenérgicos, que relaxam a musculatura lisa brônquica.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Salbutamol (tradução não oficial): “O sulfato de salbutamol é um agonista beta 2 -adrenérgico. Os efeitos farmacológicos do sulfato de salbutamol são atribuíveis à ativação dos receptores beta 2 -adrenérgicos no músculo liso das vias aéreas. A ativação dos receptores beta 2 -adrenérgicos leva à ativação da adenilciclase e a um aumento da concentração intracelular de 3',5'-monofosfato de adenosina cíclico (AMP cíclico).” Texto original em inglês: "Albuterol sulfate is a beta 2 -adrenergic agonist. The pharmacologic effects of albuterol sulfate are attributable to activation of beta 2 -adrenergic receptors on airway smooth muscle. Activation of beta 2 -adrenergic receptors leads to the activation of adenylcyclase and to an increase in the intracellular concentration of cyclic-3', 5’-adenosine monophosphate (cyclic AMP)." ([DailyMed: Albuterol Sulfate Inhalation (albuterol sulfate) prescribing information, Amneal Pharmaceuticals NY LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2e449282-ee58-4e36-b983-85c4e6f0864d), versão de 2024-12-20; acessado em 2026-11-19). Sabe-se que o salbutamol pertence à classe dos agonistas beta-2 adrenérgicos, que relaxam a musculatura lisa brônquica.
 
 Mecanisticamente, a ativação de receptores beta-2 poderia reduzir a liberação de mediadores por mastócitos e a vasodilatação ocular, o que seria teoricamente relevante para uma condição inflamatória alérgica da conjuntiva. Essa hipótese é, porém, especulativa: não há dados que a sustentem para esta doença específica, e a similaridade com a indicação original ainda não foi avaliada.
 
@@ -90,6 +90,18 @@ Advertências e contraindicações da bula não estavam disponíveis; consulte a
 - Estudos pré-clínicos e, posteriormente, clínicos que avaliem diretamente salbutamol na conjuntivite papilar
 - Avaliação da via de administração (por exemplo, formulação oftálmica), ainda não definida, e de sua segurança ocular
 - Obtenção das advertências e contraindicações da bula na ANVISA para a triagem de segurança
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Albuterol Sulfate Inhalation (albuterol sulfate) prescribing information, Amneal Pharmaceuticals NY LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2e449282-ee58-4e36-b983-85c4e6f0864d) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

@@ -57,7 +57,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Sabe-se, de forma geral, que a amantadina atua como antagonista do receptor NMDA e modula a transmissão dopaminérgica.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Amantadina Hydrochloride (tradução não oficial): “O mecanismo pelo qual a amantadina exerce eficácia no tratamento da discinesia em pacientes com doença de Parkinson ou como tratamento adjuvante à levodopa/carbidopa em pacientes com doença de Parkinson que apresentam episódios 'off' é desconhecido. A amantadina é um antagonista incompetitivo fraco do receptor NMDA.” Texto original em inglês: "The mechanism by which amantadine exerts efficacy in the treatment of dyskinesia in patients with Parkinson's disease or as adjunctive treatment to levodopa/carbidopa in patients with Parkinson's disease experiencing 'off' episodes is unknown. Amantadine is a weak uncompetitive antagonist of the NMDA receptor." ([DailyMed: Gocovri (amantadine) prescribing information, Adamas Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=82ff865f-78f3-4c94-b6a9-727a54944b28), versão de 2026-10-05; acessado em 2026-11-19). Sabe-se, de forma geral, que a amantadina atua como antagonista do receptor NMDA e modula a transmissão dopaminérgica.
 
 A encefalite de Rasmussen é uma doença neuroinflamatória de origem imunomediada, que costuma cursar com crises epilépticas e atrofia progressiva de um hemisfério cerebral. Hipóteses sobre excitotoxicidade mediada por glutamato (por exemplo, envolvendo anticorpos anti-GluR3) sugerem um racional teórico para a modulação de receptores NMDA.
 
@@ -98,13 +98,14 @@ Consulte a bula para informações de segurança.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “A ausência de registros no mercado brasileiro e a falta do DrugBank ID impedem o mapeamento do fármaco na rede de conhecimento TxGNN, inviab” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “A consulta ao banco de dados regulatório brasileiro retornou **0 registros** para o nome "AMANTADINA HYDROCHLORIDE"” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “O fármaco não possui registros no mercado brasileiro e não gerou previsões TxGNN” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Gocovri (amantadine) prescribing information, Adamas Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=82ff865f-78f3-4c94-b6a9-727a54944b28) |
 
 <!-- review:end log -->
 

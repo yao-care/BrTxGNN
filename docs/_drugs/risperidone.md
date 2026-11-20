@@ -56,7 +56,7 @@ Atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta dire�
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nas fontes compiladas. A risperidona é conhecida por antagonizar os receptores de dopamina D2 e de serotonina 5-HT2A. Essa ação sustenta seu uso em esquizofrenia, mania bipolar e irritabilidade associada ao autismo.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Risperidone (tradução não oficial): “O mecanismo de ação da risperidona na esquizofrenia não é claro. A atividade terapêutica do medicamento na esquizofrenia pode ser mediada por uma combinação de antagonismo dos receptores de dopamina tipo 2 (D 2 ) e de serotonina tipo 2 (5HT 2 ).” Texto original em inglês: "The mechanism of action of risperidone in schizophrenia is unclear. The drug's therapeutic activity in schizophrenia could be mediated through a combination of dopamine Type 2 (D 2 ) and serotonin Type 2 (5HT 2 ) receptor antagonism." ([DailyMed: Risperdal (risperidone) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7e117c7e-02fc-4343-92a1-230061dfc5e0), versão de 2026-10-23; acessado em 2026-11-19). A risperidona é conhecida por antagonizar os receptores de dopamina D2 e de serotonina 5-HT2A. Essa ação sustenta seu uso em esquizofrenia, mania bipolar e irritabilidade associada ao autismo.
 
 A nova indicação prevista é uma doença genética rara, relacionada ao gene ROBO3, que afeta a orientação dos axônios no tronco encefálico. Ela causa limitação dos movimentos oculares horizontais e escoliose progressiva. Não há vínculo mecanístico plausível entre o bloqueio D2/5-HT2A e essa patologia.
 
@@ -162,13 +162,14 @@ Se o objetivo é reposicionar a risperidona, essas indicações merecem priorida
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Dos 20 registros localizados, todos estão cancelados. Não há registro vigente de risperidona isolada nem em associação” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “O medicamento é comercializado no Brasil, com 20 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “já que não há registro vigente no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Risperdal (risperidone) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7e117c7e-02fc-4343-92a1-230061dfc5e0) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação compilados para este relatório. Lansoprazol pertence à classe dos antiulcerosos e atua reduzindo a acidez gástrica, mas esse mecanismo não foi confirmado nos dados disponíveis.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Lansoprazole (tradução não oficial): “O lansoprazol pertence a uma classe de compostos antissecretores, os benzimidazóis substituídos, que suprimem a secreção de ácido gástrico pela inibição específica do sistema enzimático (H +, K + )-ATPase na superfície secretora da célula parietal gástrica. Como esse sistema enzimático é considerado a bomba de ácido (prótons) dentro da célula parietal, o lansoprazol foi caracterizado como um inibidor da bomba de ácido gástrico, uma vez que bloqueia a etapa final da produção de ácido.” Texto original em inglês: "Lansoprazole belongs to a class of antisecretory compounds, the substituted benzimidazoles, that suppress gastric acid secretion by specific inhibition of the (H +, K + )-ATPase enzyme system at the secretory surface of the gastric parietal cell. Because this enzyme system is regarded as the acid (proton) pump within the parietal cell, lansoprazole has been characterized as a gastric acid-pump inhibitor, in that it blocks the final step of acid production." ([DailyMed: Prevacid (lansoprazole) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=71ba78cb-7e46-43eb-9425-fa130f537f84), versão de 2025-07-08; acessado em 2026-11-19). Lansoprazol pertence à classe dos antiulcerosos e atua reduzindo a acidez gástrica, mas esse mecanismo não foi confirmado nos dados disponíveis.
 
 A obstrução duodenal é uma condição mecânica (estreitamento ou bloqueio do duodeno). A supressão ácida não tem efeito terapêutico direto plausível sobre ela. A pontuação alta do modelo provavelmente reflete a proximidade com a úlcera duodenal nas relações aprendidas pelo modelo, e não um vínculo mecanístico real.
 
@@ -129,11 +129,12 @@ A tabela mostra até 30 registros (os ativos primeiro). A lista completa está n
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-11 | Removido: “Há 18 registros nos dados compilados, entre produtos isolados e associações (por exemplo, com claritromicina e amoxicilina para erradicação ” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Prevacid (lansoprazole) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=71ba78cb-7e46-43eb-9425-fa130f537f84) |
 
 <!-- review:end log -->
 

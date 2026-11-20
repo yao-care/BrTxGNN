@@ -61,7 +61,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Hipotricose simples do couro ca
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos registros compilados. Segundo informações conhecidas, o diazóxido é um abridor de canais de potássio sensíveis ao ATP (KATP), atuando como vasodilatador e também na redução da secreção de insulina. Sua ação vasodilatadora foi a base do registro original no Brasil.
+Segundo a seção “Clinical Pharmacology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Diazoxide (tradução não oficial): “PROGLYCEM produz um aumento dose-dependente da glicemia, devido principalmente à inibição da liberação de insulina pelo pâncreas e também a um efeito extrapancreático. O efeito hiperglicemiante de PROGLYCEM começa dentro de uma hora e geralmente dura no máximo 8 horas na presença de função renal normal.” Texto original em inglês: "PROGLYCEM produces a dose-related increase in blood glucose, due primarily to an inhibition of insulin release from the pancreas, and also to an extrapancreatic effect. The hyperglycemic effect of PROGLYCEM begins within an hour and generally lasts no more than 8 hours in the presence of normal renal function." ([DailyMed: Proglycem (diazoxide) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b16c7832-2fd9-49af-b923-1dc0d91fd6e2), versão de 2026-10-06; acessado em 2026-11-19). Segundo informações conhecidas, o diazóxido é um abridor de canais de potássio sensíveis ao ATP (KATP), atuando como vasodilatador e também na redução da secreção de insulina. Sua ação vasodilatadora foi a base do registro original no Brasil.
 
 A relação com a nova indicação vem de um efeito adverso bem documentado: a hipertricose (crescimento excessivo de pelos). O minoxidil, outro abridor de canais KATP e vasodilatador, é um estimulante conhecido do crescimento capilar. Por analogia, o diazóxido poderia estimular o folículo piloso. Um estudo antigo em macacos de cauda curta (PMID 2085505) mostrou que o diazóxido tópico estimulou o crescimento folicular no couro cabeludo calvo.
 
@@ -120,12 +120,13 @@ As publicações abaixo referem-se à indicação **Alopecia** (rank 4), a únic
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “(produto TENSURIL, atualmente com registro cancelado)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “o produto não está mais comercializado no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Proglycem (diazoxide) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b16c7832-2fd9-49af-b923-1dc0d91fd6e2) |
 
 <!-- review:end log -->
 

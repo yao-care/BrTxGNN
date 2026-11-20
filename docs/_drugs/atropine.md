@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Transtorno de enxaqueca (migrai
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Pelo que se sabe da classe, a atropina bloqueia de forma não seletiva os receptores muscarínicos da acetilcolina.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Atropine (tradução não oficial): “A atropina bloqueia competitivamente os efeitos da acetilcolina, incluindo o excesso de acetilcolina decorrente de intoxicação por organofosforados, nos receptores colinérgicos muscarínicos do músculo liso, do músculo cardíaco, das células de glândulas secretoras e nos gânglios autonômicos periféricos e no sistema nervoso central.” Texto original em inglês: "Atropine competitively blocks the effects of acetylcholine, including excess acetylcholine due to organophosphorus poisoning, at muscarinic cholinergic receptors on smooth muscle, cardiac muscle, secretory gland cells, and in peripheral autonomic ganglia and the central nervous system." ([DailyMed: Atropen Auto-Injector (atropine) prescribing information, Meridian Medical Technologies LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e2d4307d-da8f-49f5-aac0-02355dd9ffb7), versão de 2022-09-15; acessado em 2026-11-19). Pelo que se sabe da classe, a atropina bloqueia de forma não seletiva os receptores muscarínicos da acetilcolina.
 
 Estudos pré-clínicos sugerem que a sinalização colinérgica em mastócitos meníngeos e em aferentes trigeminais contribui para a inflamação neurogênica e a nocicepção. Além disso, a estimulação parassimpática do gânglio esfenopalatino provoca extravasamento de proteínas plasmáticas na dura-máter de ratos. Por isso, o bloqueio muscarínico é biologicamente plausível na enxaqueca.
 
@@ -142,6 +142,19 @@ Para advertências e contraindicações, consulte a bula; esses dados não estav
 - Complementar os dados de mecanismo de ação a partir do DrugBank.
 - Realizar revisão sistemática da literatura clínica sobre anticolinérgicos na enxaqueca e, se justificável, estudos pré-clínicos e de prova de conceito.
 - Avaliar a compatibilidade de vias de administração e perfil de tolerabilidade anticolinérgica para uso crônico.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Atropen Auto-Injector (atropine) prescribing information, Meridian Medical Technologies LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e2d4307d-da8f-49f5-aac0-02355dd9ffb7) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

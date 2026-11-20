@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e apenas **1 publicação** (um relat
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação da delamanida nos dados compilados para este relatório. Sabe-se que ela pertence ao grupo dos medicamentos antimicobacterianos, mas não há base documentada que a ligue a processos alérgicos ou à via de mediadores da urticária.
+Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Delamanid é (tradução não oficial): “Inibidor de Mycobacterium tuberculosis H37Rv” Texto original em inglês: "Mycobacterium tuberculosis H37Rv inhibitor" ([ChEMBL CHEMBL218650 (delamanid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL218650), CC BY-SA 3.0; acessado em 2026-11-19). Sabe-se que ela pertence ao grupo dos medicamentos antimicobacterianos, mas não há base documentada que a ligue a processos alérgicos ou à via de mediadores da urticária.
 
 A análise do mecanismo feita para esta previsão não identificou nenhum vínculo crível entre a ação antimicobacteriana da delamanida e a urticária alérgica. A única publicação associada trata de urticária e angioedema induzidos por piperacilina-tazobactam, um antibiótico diferente, e não tem relação com a delamanida. A previsão, portanto, provavelmente é um achado espúrio do modelo, apesar da pontuação numericamente alta.
 
@@ -92,6 +92,19 @@ Consulte a bula para informações de segurança.
 - Estudos pré-clínicos ou clínicos que avaliem diretamente a delamanida nesta condição
 - Informações de segurança da bula aprovada pela ANVISA (advertências e contraindicações)
 - Avaliação de compatibilidade de via de administração para a nova indicação
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [ChEMBL CHEMBL218650 (delamanid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL218650) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

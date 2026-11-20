@@ -58,7 +58,7 @@ A direção com mais respaldo nos dados compilados é a de **neoplasia fibroblá
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação neste conjunto de informações. Segundo informações conhecidas, a eribulina é um agente citotóxico que atua nos microtúbulos, e sua eficácia em tumores é reconhecida, inclusive em sarcomas de partes moles como o lipossarcoma.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Eribulin (tradução não oficial): “A eribulina inibe a fase de crescimento dos microtúbulos sem afetar a fase de encurtamento e sequestra a tubulina em agregados não produtivos. A eribulina exerce seus efeitos por meio de um mecanismo antimitótico baseado na tubulina, levando ao bloqueio do ciclo celular em G 2 /M, à desorganização dos fusos mitóticos e, por fim, à morte celular apoptótica após bloqueio mitótico prolongado.” Texto original em inglês: "Eribulin inhibits the growth phase of microtubules without affecting the shortening phase and sequesters tubulin into nonproductive aggregates. Eribulin exerts its effects via a tubulin-based antimitotic mechanism leading to G 2 /M cell-cycle block, disruption of mitotic spindles, and, ultimately, apoptotic cell death after prolonged mitotic blockage." ([DailyMed: Halaven (eribulin mesylate) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=31ce4750-ded5-4a0b-95e9-f229fa6bc822), versão de 2025-11-07; acessado em 2026-11-19). Segundo informações conhecidas, a eribulina é um agente citotóxico que atua nos microtúbulos, e sua eficácia em tumores é reconhecida, inclusive em sarcomas de partes moles como o lipossarcoma.
 
 Para a febre familiar do Mediterrâneo, existe um vínculo conceitual: é uma doença autoinflamatória ligada à desregulação do inflamassoma pirina, e a colchicina, tratamento padrão, também age sobre microtúbulos. Porém, a citotoxicidade e o perfil de toxicidade da eribulina tornam seu uso em uma condição crônica não maligna pouco plausível. A pontuação alta vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica nem clínica.
 
@@ -133,6 +133,19 @@ Informações de advertências e contraindicações da bula não estão disponí
 - Obter os resultados do estudo ERASING (NCT03840772) para avaliar eficácia na neoplasia fibroblástica.
 - Confirmar a situação regulatória: os 3 registros estão válidos e o medicamento é comercializado.
 - Para as demais indicações previstas (mesoteliomas, sarcomas, DFSP), buscar evidências clínicas específicas antes de qualquer avanço.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Halaven (eribulin mesylate) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=31ce4750-ded5-4a0b-95e9-f229fa6bc822) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

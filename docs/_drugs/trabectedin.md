@@ -56,7 +56,7 @@ atualmente com **1 ensaio clínico** (de baixa relevância) e **20 publicações
 
 ## Por que Esta Previsão é Razoável?
 
-Não há dados detalhados do mecanismo de ação nos registros compilados para este relatório. Segundo a literatura, a trabectedina é um agente alquilante que se liga ao sulco menor do DNA, modula a transcrição e atua sobre o microambiente tumoral, reduzindo macrófagos associados ao tumor.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Trabectedin (tradução não oficial): “A trabectedina é um fármaco alquilante que se liga a resíduos de guanina no sulco menor do DNA, formando adutos e resultando em uma curvatura da hélice do DNA em direção ao sulco maior. A formação de adutos desencadeia uma cascata de eventos que pode afetar a atividade subsequente de proteínas de ligação ao DNA, incluindo alguns fatores de transcrição, e as vias de reparo do DNA, resultando em perturbação do ciclo celular e eventual morte celular.” Texto original em inglês: "Trabectedin is an alkylating drug that binds guanine residues in the minor groove of DNA, forming adducts and resulting in a bending of the DNA helix towards the major groove. Adduct formation triggers a cascade of events that can affect the subsequent activity of DNA binding proteins, including some transcription factors, and DNA repair pathways, resulting in perturbation of the cell cycle and eventual cell death." ([DailyMed: Evdi (trabectedin) prescribing information, Apotex Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c1d50f5c-4202-27f3-4798-a9708114ddea), versão de 2026-06-29; acessado em 2026-11-19). Segundo a literatura, a trabectedina é um agente alquilante que se liga ao sulco menor do DNA, modula a transcrição e atua sobre o microambiente tumoral, reduzindo macrófagos associados ao tumor.
 
 Por depender do reparo por excisão de nucleotídeos acoplado à transcrição, a trabectedina é especialmente ativa em células com deficiência de recombinação homóloga, como tumores com deficiência de BRCA1/2. Isso fornece uma base plausível para atividade no câncer de mama, sobretudo nos subtipos associados a BRCA e triplo-negativos. Um estudo pré-clínico recente (PMID 39777457) também sugere sinergia com IL-12 no câncer de mama triplo-negativo.
 
@@ -136,12 +136,13 @@ Para advertências e contraindicações, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “O registro brasileiro está cancelado e a” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “já que o único registro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Evdi (trabectedin) prescribing information, Apotex Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c1d50f5c-4202-27f3-4798-a9708114ddea) |
 
 <!-- review:end log -->
 

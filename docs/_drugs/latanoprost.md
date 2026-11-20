@@ -54,7 +54,7 @@ Latanoprosta é um análogo da prostaglandina F2-alfa, de uso oftálmico tópico
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Como classe, a latanoprosta é um análogo da prostaglandina F2-alfa e atua sobre o receptor dessa via.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Latanoprost (tradução não oficial): “A latanoprosta é um análogo da prostaglandina F 2α que, acredita-se, reduz a pressão intraocular (PIO) ao aumentar o escoamento do humor aquoso. Estudos em animais e em humanos sugerem que o principal mecanismo de ação é o aumento do escoamento uveoescleral.” Texto original em inglês: "Latanoprost is a prostaglandin F 2α analogue that is believed to reduce the intraocular pressure (IOP) by increasing the outflow of aqueous humor. Studies in animals and man suggest that the main mechanism of action is increased uveoscleral outflow." ([DailyMed: Xelpros (latanoprost) prescribing information, Sun Pharmaceutical Industries, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34ad5cf6-4df0-4104-bddd-4c7631133ded), versão de 2025-12-18; acessado em 2026-11-19). Como classe, a latanoprosta é um análogo da prostaglandina F2-alfa e atua sobre o receptor dessa via.
 
 A ligação com a calcifilaxia visceral é frágil. A calcifilaxia envolve calcificação vascular e trombose de pequenos vasos, geralmente em contexto de insuficiência renal. Uma possível ligação seria a vasodilatação mediada por prostaglandinas, mas isso é apenas especulação. A formulação oftálmica tópica quase não tem exposição sistêmica, então não há via óbvia para atingir os vasos acometidos.
 
@@ -87,6 +87,19 @@ Para advertências e contraindicações, consulte a bula.
 - Avaliação de viabilidade de uma formulação e via de administração sistêmicas, já que a forma oftálmica tópica não é adequada.
 - Informações de segurança extraídas da bula na ANVISA (advertências e contraindicações).
 - Revisão da gravidade das interações medicamentosas, hoje sem classificação.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Xelpros (latanoprost) prescribing information, Sun Pharmaceutical Industries, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34ad5cf6-4df0-4104-bddd-4c7631133ded) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

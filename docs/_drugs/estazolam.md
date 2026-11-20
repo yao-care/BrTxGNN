@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **epilepsia visual (visual epilep
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, o estazolam é um benzodiazepínico que atua como modulador alostérico positivo do receptor GABA-A. Isso lhe confere um efeito anticonvulsivante plausível, em nível de classe.
+Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Estazolam é (tradução não oficial): “Receptor GABA-A; modulador alostérico positivo de canal aniônico” Texto original em inglês: "GABA-A receptor; anion channel positive allosteric modulator" ([ChEMBL CHEMBL285674 (estazolam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL285674), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações conhecidas, o estazolam é um benzodiazepínico que atua como modulador alostérico positivo do receptor GABA-A. Isso lhe confere um efeito anticonvulsivante plausível, em nível de classe.
 
 A literatura recuperada consiste em estudos em animais (eletrochoque máximo e ECoG em ratos, testes de benzodiazepínicos relacionados como o brotizolam) e em artigos de química medicinal sobre ligantes do receptor de benzodiazepínicos. Nenhum desses trabalhos examina epilepsia fotossensível ou visual em humanos.
 
@@ -116,6 +116,19 @@ A previsão se apoia apenas no mecanismo de classe dos benzodiazepínicos e em e
 - Complementar os dados de mecanismo de ação (por exemplo, pelo DrugBank)
 - Buscar estudos específicos de estazolam em epilepsias fotossensíveis ou reflexas, em modelos animais e em humanos
 - Comparar com antiepilépticos benzodiazepínicos já estabelecidos, como o clonazepam, antes de qualquer investimento clínico
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [ChEMBL CHEMBL285674 (estazolam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL285674) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

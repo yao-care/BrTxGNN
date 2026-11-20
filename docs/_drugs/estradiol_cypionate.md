@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **forma sintomática da síndrome
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, o cipionato de estradiol é um éster de estradiol de liberação prolongada, que atua como agonista do receptor de estrogênio. Sua eficácia como componente contraceptivo foi a base do registro no Brasil.
+Segundo a seção “Clinical Pharmacology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Estradiol Cypionate (tradução não oficial): “Embora os estrogênios circulantes existam em um equilíbrio dinâmico de interconversões metabólicas, o estradiol é o principal estrogênio intracelular humano e é substancialmente mais potente que seus metabólitos, estrona e estriol, no nível do receptor. A principal fonte de estrogênio em mulheres adultas com ciclos menstruais normais é o folículo ovariano, que secreta de 70 a 500 mcg de estradiol diariamente, dependendo da fase do ciclo menstrual.” Texto original em inglês: "Although circulating estrogens exist in a dynamic equilibrium of metabolic interconversions, estradiol is the principal intracellular human estrogen and is substantially more potent than its metabolites, estrone and estriol, at the receptor level. The primary source of estrogen in normally cycling adult women is the ovarian follicle, which secretes 70 to 500 mcg of estradiol daily, depending on the phase of the menstrual cycle." ([DailyMed: Depo-Estradiol (estradiol cypionate) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9a4229fd-fecd-4ac1-9c4f-6d442533457f), versão de 2024-02-28; acessado em 2026-11-19). Segundo informações conhecidas, o cipionato de estradiol é um éster de estradiol de liberação prolongada, que atua como agonista do receptor de estrogênio. Sua eficácia como componente contraceptivo foi a base do registro no Brasil.
 
 A ligação com a síndrome do X frágil em portadoras é, no máximo, uma hipótese. Mulheres portadoras da pré-mutação do gene FMR1 podem desenvolver insuficiência ovariana primária associada ao X frágil (FXPOI), e a reposição estrogênica poderia, em princípio, aliviar sintomas dessa deficiência hormonal. Isso, porém, é especulativo: não há dados nos materiais compilados que sustentem a hipótese, e a reposição estrogênica não trataria os componentes neurológicos ou cognitivos da condição.
 
@@ -134,7 +134,7 @@ Consulte a bula para advertências, contraindicações e interações medicament
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
@@ -143,6 +143,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | 2026-11-12 | Tabela: registro 110360270 (ACETATO DE MEDROXIPROGESTERONA +CIPIONATO DE ESTRADIOL) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Tabela: registro 110360266 (CYCLOFEMINA) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Tabela: registro 110360267 (LYNDAVELUNO) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Depo-Estradiol (estradiol cypionate) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9a4229fd-fecd-4ac1-9c4f-6d442533457f) |
 
 <!-- review:end log -->
 

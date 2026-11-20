@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Amenorreia (amenorrhea (disease
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação registrados para este fármaco. Segundo informações conhecidas, o etonogestrel é um progestágeno que suprime a ovulação e afina o endométrio.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Etonogestrel (tradução não oficial): “O efeito contraceptivo de NEXPLANON é obtido pela supressão da ovulação, pelo aumento da viscosidade do muco cervical e por alterações no endométrio.” Texto original em inglês: "The contraceptive effect of NEXPLANON is achieved by suppression of ovulation, increased viscosity of the cervical mucus, and alterations in the endometrium." ([DailyMed: Nexplanon (etonogestrel) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=487f8a62-e142-457c-97cc-2e398fde7594), versão de 2026-05-28; acessado em 2026-11-19). Segundo informações conhecidas, o etonogestrel é um progestágeno que suprime a ovulação e afina o endométrio.
 
 A amenorreia é um padrão de sangramento comum e esperado com o uso do implante. Ou seja, trata-se mais de um efeito farmacológico esperado do que de uma indicação terapêutica. Usar o fármaco para tratar amenorreia patológica seria mecanisticamente contraditório, pois a exposição a progestágenos induz a amenorreia, em vez de resolvê-la.
 
@@ -94,6 +94,19 @@ Consulte a bula para informações complementares de segurança.
 - Texto da bula da ANVISA (advertências e contraindicações)
 - Revisão da plausibilidade clínica por especialista em ginecologia/endocrinologia
 - Estudos que avaliem diretamente o etonogestrel em amenorreia, caso a hipótese seja mantida
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Nexplanon (etonogestrel) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=487f8a62-e142-457c-97cc-2e398fde7594) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

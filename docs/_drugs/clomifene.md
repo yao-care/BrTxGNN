@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Distúrbio do desenvolvimento s
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Sabe-se, pela farmacologia geral, que o clomifeno atua sobre o receptor de estrogênio alfa (ESR1). Ao bloquear o *feedback* negativo no hipotálamo, tende a aumentar a liberação de gonadotrofinas (LH e FSH).
+Segundo a seção “Clinical Pharmacology” da bula aprovada pela FDA dos EUA (Prescribing Information) para Clomifene (tradução não oficial): “O citrato de clomifeno é capaz de interagir com tecidos que contêm receptores de estrogênio, incluindo o hipotálamo, a hipófise, o ovário, o endométrio, a vagina e o colo do útero. Ele pode competir com o estrogênio pelos sítios de ligação ao receptor de estrogênio e pode retardar a reposição dos receptores de estrogênio intracelulares.” Texto original em inglês: "Clomiphene citrate is capable of interacting with estrogen-receptor-containing tissues, including the hypothalamus, pituitary, ovary, endometrium, vagina, and cervix. It may compete with estrogen for estrogen-receptor-binding sites and may delay replenishment of intracellular estrogen receptors." ([DailyMed: Milophene (clomiphene citrate) prescribing information, Burel Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b56131e5-efc7-43af-ac13-4a2ae918df4e), versão de 2025-10-07; acessado em 2026-11-19). Sabe-se, pela farmacologia geral, que o clomifeno atua sobre o receptor de estrogênio alfa (ESR1). Ao bloquear o *feedback* negativo no hipotálamo, tende a aumentar a liberação de gonadotrofinas (LH e FSH).
 
 A relação com o defeito da esteroidogênese testicular é frágil. Esse defeito é um problema enzimático primário da gônada, e aumentar as gonadotrofinas dificilmente corrigiria a falha na síntese de esteroides. A pontuação alta (0,9990) reflete apenas a proximidade no modelo computacional, não um mecanismo comprovado. A ligação mecanística é, portanto, especulativa.
 
@@ -106,11 +106,12 @@ Consulte a bula para as advertências e contraindicações oficiais, que não es
 
 ## Registro de verificação
 
-Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-10-31 | Removido: “(registros hoje apenas cancelados) outros” | Não aparece mais após a regeneração do relatório (2026-11-12: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Milophene (clomiphene citrate) prescribing information, Burel Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b56131e5-efc7-43af-ac13-4a2ae918df4e) |
 
 <!-- review:end log -->
 

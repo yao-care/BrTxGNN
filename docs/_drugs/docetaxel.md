@@ -56,7 +56,7 @@ atualmente com **8 ensaios clínicos** e **20 publicações** apoiando esta dire
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação no conjunto de dados compilado para este relatório. Segundo o conhecimento geral, o docetaxel pertence à classe dos taxanos: estabiliza os microtúbulos e impede a divisão celular, o que pode afetar células tumorais de proliferação rápida, como as do sarcoma.
+Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (Prescribing Information) para Docetaxel (tradução não oficial): “O docetaxel é um agente antineoplásico que atua desorganizando a rede microtubular nas células, essencial para as funções celulares mitóticas e da interfase. O docetaxel se liga à tubulina livre e promove a montagem da tubulina em microtúbulos estáveis, inibindo simultaneamente sua desmontagem.” Texto original em inglês: "Docetaxel is an antineoplastic agent that acts by disrupting the microtubular network in cells that is essential for mitotic and interphase cellular functions. Docetaxel binds to free tubulin and promotes the assembly of tubulin into stable microtubules while simultaneously inhibiting their disassembly." ([DailyMed: Beizray (docetaxel) prescribing information, Zydus Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8fb7d980-d6c7-468b-a9f0-adff16101a4b), versão de 2025-12-17; acessado em 2026-11-19). Segundo o conhecimento geral, o docetaxel pertence à classe dos taxanos: estabiliza os microtúbulos e impede a divisão celular, o que pode afetar células tumorais de proliferação rápida, como as do sarcoma.
 
 Os dados clínicos disponíveis vêm principalmente de combinações de gencitabina com docetaxel em sarcomas pediátricos recidivados ou refratários. A contribuição isolada do docetaxel é difícil de separar da combinação, e as taxas de resposta no sarcoma de Ewing foram modestas. Há ainda um estudo de fase II de docetaxel isolado em tumores de Ewing recidivados ou refratários (PMID 18521364) e um estudo com docetaxel e irinotecano (PMID 25164234).
 
@@ -127,6 +127,19 @@ Há um ensaio de fase 2 concluído (NCT00073983, publicado) e outros estudos de 
 - Estudos que separem o efeito do docetaxel do da combinação com gencitabina
 - Plano de monitoramento hematológico, hepático e de neuropatia, especialmente em populações pediátricas
 - Avaliação das interações medicamentosas de maior gravidade (como claritromicina)
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Beizray (docetaxel) prescribing information, Zydus Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8fb7d980-d6c7-468b-a9f0-adff16101a4b) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
