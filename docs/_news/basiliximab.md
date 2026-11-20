@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Basiliximab. 0 indicações previstas."
 permalink: /news/basiliximab/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # Notícias sobre Basiliximab
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Basiliximab?">
-<strong>Basiliximab</strong> tem atualmente <strong>77 notícias</strong> e 0 indicações previstas.
+<strong>Basiliximab</strong> tem atualmente <strong>78 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,21 @@ Esta página combina as indicações previstas por IA para Basiliximab com as no
 <p><a href="{{ '/drugs/basiliximab/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (77)
+## Notícias relacionadas (78)
 
 ### [Teste para rastreamento de câncer de intestino começará em dezembro no SUS; veja quem poderá fazer](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQV1V5RDFicjJPNmZlS1ZqYVRfSGNSOWgyOHdlUGwza2RyeXNmWG1FZE1sSmRMbGd1RlE4eG5NelhUdmdSYzJHWXI4QmxBNkFab0lHRTVrSThlb3VEdFJ4UVZBdDd5VlFhcTBGY2FtZ21udHI1ZGgzUjF3MUt1Tm5hRC1Bb01tSnlMNkdRNUdCUjR3OTlWdG5oVmNjLU9jN0poeGQyNTR5dkVxQzVNdnJxNUpLTEtsNnFucEhFWWV1LWhFdnNEcmZCTEVSZUM0UXRMOEdJSjNhVl85VlJncjFaVXpOcUTSAeoBQVVfeXFMTlhtZVI5X2R1UnVtbGFNZlo4YU1aWmpkaGJhNl9EQW1tdXM3ZFVvczFDaFN4S01ZUDFzZVlVckNoM1JFNjVKMWRva1F6dU9KSmFtbkZsYlQ3LTBFOW1XM2FvWDd1cjIxTk83Q24xMjFya09xcVRfQkJSc0N4bFEyQ1pVclBUUXlXOE9YVlBHS3gzQzhkdjJtWnY0VnRwWTE2NFQ0Wk9ETld1U2UxN3NBYnFvMmdLZjQzdXlRTzZCWllBOFA5U0lnTnY1VlRRV1UyT2VHSlU1T3Z5Rm5Qc204RlFySXpqLW9yODVn?oc=5)
 
 2026-11-19 <span class="news-indication-tag">câncer</span>
 
 Fonte: [Estadão](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQV1V5RDFicjJPNmZlS1ZqYVRfSGNSOWgyOHdlUGwza2RyeXNmWG1FZE1sSmRMbGd1RlE4eG5NelhUdmdSYzJHWXI4QmxBNkFab0lHRTVrSThlb3VEdFJ4UVZBdDd5VlFhcTBGY2FtZ21udHI1ZGgzUjF3MUt1Tm5hRC1Bb01tSnlMNkdRNUdCUjR3OTlWdG5oVmNjLU9jN0poeGQyNTR5dkVxQzVNdnJxNUpLTEtsNnFucEhFWWV1LWhFdnNEcmZCTEVSZUM0UXRMOEdJSjNhVl85VlJncjFaVXpOcUTSAeoBQVVfeXFMTlhtZVI5X2R1UnVtbGFNZlo4YU1aWmpkaGJhNl9EQW1tdXM3ZFVvczFDaFN4S01ZUDFzZVlVckNoM1JFNjVKMWRva1F6dU9KSmFtbkZsYlQ3LTBFOW1XM2FvWDd1cjIxTk83Q24xMjFya09xcVRfQkJSc0N4bFEyQ1pVclBUUXlXOE9YVlBHS3gzQzhkdjJtWnY0VnRwWTE2NFQ0Wk9ETld1U2UxN3NBYnFvMmdLZjQzdXlRTzZCWllBOFA5U0lnTnY1VlRRV1UyT2VHSlU1T3Z5Rm5Qc204RlFySXpqLW9yODVn?oc=5)
+
+---
+
+### [O teste inovador em que paciente engole esponja para detectar câncer](https://news.google.com/rss/articles/CBMivAFBVV95cUxQUmJzWGpjdXk1Z2ZQSUNsejlUV0ZJMzd1ZE92WVMtUzhmVlU0MTYzQkV5SGtRdkx1eGlfNnFWRDdfVVI0Y2tKYnJKaWlBRTd6akpDLVMtc2h2aDNIRXZFNDZYaDBsdE1YcDdGTUwzalQ4TEtQZlF3OU1IbklQcHA0Zl8xRlFyT3VBTnhzdzdzQVl2TlY0TnJLUWZaT29UTENENFBkbVppa3lET0Z1bU1WTnNiSTRkSUZDeWM5aw?oc=5)
+
+2026-11-19 <span class="news-indication-tag">câncer</span>
+
+Fonte: [G1](https://news.google.com/rss/articles/CBMivAFBVV95cUxQUmJzWGpjdXk1Z2ZQSUNsejlUV0ZJMzd1ZE92WVMtUzhmVlU0MTYzQkV5SGtRdkx1eGlfNnFWRDdfVVI0Y2tKYnJKaWlBRTd6akpDLVMtc2h2aDNIRXZFNDZYaDBsdE1YcDdGTUwzalQ4TEtQZlF3OU1IbklQcHA0Zl8xRlFyT3VBTnhzdzdzQVl2TlY0TnJLUWZaT29UTENENFBkbVppa3lET0Z1bU1WTnNiSTRkSUZDeWM5aw?oc=5)
 
 ---
 
