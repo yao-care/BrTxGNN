@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **ceratite de exposição (exposu
 
 ## Por que Esta Previsão é Razoável?
 
-Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Fusidic Acid é (tradução não oficial): “Inibidor do fator de alongamento G” Texto original em inglês: "Elongation factor G inhibitor" ([ChEMBL CHEMBL374975 (fusidic acid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL374975), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações conhecidas, o ácido fusídico inibe a síntese proteica bacteriana ao bloquear o fator de elongação G (EF-G), com atividade principalmente contra bactérias Gram-positivas, como *Staphylococcus*.
+Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Fusidic Acid é (tradução não oficial): “Inibidor do fator de alongamento G”. Texto original em inglês: "Elongation factor G inhibitor" ([ChEMBL CHEMBL374975 (fusidic acid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL374975), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações conhecidas, o ácido fusídico inibe a síntese proteica bacteriana ao bloquear o fator de elongação G (EF-G), com atividade principalmente contra bactérias Gram-positivas, como *Staphylococcus*.
 
 A ceratite de exposição é uma lesão da superfície da córnea causada pelo fechamento incompleto das pálpebras. Uma infecção bacteriana secundária poderia, em tese, ser tratada por um antibacteriano tópico, o que dá alguma plausibilidade biológica à previsão.
 
@@ -119,7 +119,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “já que não há registro vigente” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [ChEMBL CHEMBL374975 (fusidic acid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL374975) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte (revisado em 2026-11-20; versão anterior guardada no registro) | [ChEMBL CHEMBL374975 (fusidic acid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL374975) |
 
 <!-- review:end log -->
 

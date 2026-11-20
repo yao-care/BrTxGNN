@@ -59,7 +59,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Hiperamilasemia (Hyperamylasemi
 
 ## Por que Esta Previsão é Razoável?
 
-Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Relebactam é (tradução não oficial): “Inibidor da beta-lactamase SHV-1; Inibidor da beta-lactamase bacteriana TEM; Inibidor de beta-lactamase; Inibidor da beta-lactamase hidrolisadora de carbapenêmicos KPC” Texto original em inglês: "Beta-lactamase SHV-1 inhibitor; Bacterial beta-lactamase TEM inhibitor; Beta-lactamase inhibitor; Carbapenem-hydrolyzing beta-lactamase KPC inhibitor" ([ChEMBL CHEMBL3301605 (relebactam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3301605), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações conhecidas, o relebactam é um inibidor de beta-lactamase (classe dos diazabiciclooctanos), usado em associação com imipenem/cilastatina para restaurar a atividade contra bactérias Gram-negativas resistentes.
+Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Relebactam é (tradução não oficial): “Inibidor da beta-lactamase SHV-1; Inibidor da beta-lactamase bacteriana TEM; Inibidor de beta-lactamase; Inibidor da beta-lactamase hidrolisadora de carbapenêmicos KPC”. Texto original em inglês: "Beta-lactamase SHV-1 inhibitor; Bacterial beta-lactamase TEM inhibitor; Beta-lactamase inhibitor; Carbapenem-hydrolyzing beta-lactamase KPC inhibitor" ([ChEMBL CHEMBL3301605 (relebactam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3301605), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações conhecidas, o relebactam é um inibidor de beta-lactamase (classe dos diazabiciclooctanos), usado em associação com imipenem/cilastatina para restaurar a atividade contra bactérias Gram-negativas resistentes.
 
 Não foi identificado um vínculo mecanístico claro entre o relebactam e a hiperamilasemia. O fármaco não tem efeito conhecido sobre o metabolismo da amilase nem sobre a regulação de enzimas pancreáticas. Qualquer associação seria especulativa (por exemplo, via comprometimento pancreático ou salivar relacionado a infecções) e não é sustentada pelos dados disponíveis.
 
@@ -104,7 +104,7 @@ Abaixo, o registro de verificação desta página. A frase que dizia não haver 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [ChEMBL CHEMBL3301605 (relebactam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3301605) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte (revisado em 2026-11-20; versão anterior guardada no registro) | [ChEMBL CHEMBL3301605 (relebactam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3301605) |
 
 <!-- review:end log -->
 

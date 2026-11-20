@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **coarctação atípica da aorta 
 
 ## Por que Esta Previsão é Razoável?
 
-Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Lactic Acid é (tradução não oficial): “Agente redutor de pH” Texto original em inglês: "pH lowering agent" ([ChEMBL CHEMBL1200559 (lactic acid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200559), CC BY-SA 3.0; acessado em 2026-11-19). O ácido lático é um metabólito endógeno, e seu uso original (demulcente para a orofaringe) é de ação local e sintomática.
+Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Lactic Acid é (tradução não oficial): “Agente redutor de pH”. Texto original em inglês: "pH lowering agent" ([ChEMBL CHEMBL1200559 (lactic acid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200559), CC BY-SA 3.0; acessado em 2026-11-19). O ácido lático é um metabólito endógeno, e seu uso original (demulcente para a orofaringe) é de ação local e sintomática.
 
 Os dados compilados para este relatório não sustentam um vínculo mecanístico. A coarctação da aorta é um defeito vascular estrutural congênito, e o ácido lático não tem papel conhecido na sua patogênese ou tratamento. A pontuação alta do TxGNN (0,9959) reflete uma previsão do modelo TxGNN (aprendizado profundo), sem validação experimental ou clínica. A indicação original e a nova indicação não guardam relação entre si.
 
@@ -138,7 +138,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, o único registro no Brasil está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Tabela: registro 101430024 (MALVATRICIN) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [ChEMBL CHEMBL1200559 (lactic acid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200559) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte (revisado em 2026-11-20; versão anterior guardada no registro) | [ChEMBL CHEMBL1200559 (lactic acid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200559) |
 
 <!-- review:end log -->
 

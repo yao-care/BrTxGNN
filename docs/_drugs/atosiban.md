@@ -59,7 +59,7 @@ O modelo TxGNN prevê que pode ser eficaz para **glaucoma hereditário primário
 
 ## Por que Esta Previsão é Razoável?
 
-Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Atosiban é (tradução não oficial): “Antagonista do receptor de ocitocina” Texto original em inglês: "Oxytocin receptor antagonist" ([ChEMBL CHEMBL382301 (atosiban): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL382301), CC BY-SA 3.0; acessado em 2026-11-19). Segundo as informações farmacológicas disponíveis, o atosibana é um peptídeo que atua sobre os receptores de ocitocina (OXTR) e de vasopressina (V1A, V1B e V2). Na prática clínica, é usado como tocolítico em mulheres grávidas entre 24 e 33 semanas com sinais de trabalho de parto prematuro (aprovado pela EMA e por outras agências nacionais, mas não pelo FDA).
+Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Atosiban é (tradução não oficial): “Antagonista do receptor de ocitocina”. Texto original em inglês: "Oxytocin receptor antagonist" ([ChEMBL CHEMBL382301 (atosiban): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL382301), CC BY-SA 3.0; acessado em 2026-11-19). Segundo as informações farmacológicas disponíveis, o atosibana é um peptídeo que atua sobre os receptores de ocitocina (OXTR) e de vasopressina (V1A, V1B e V2). Na prática clínica, é usado como tocolítico em mulheres grávidas entre 24 e 33 semanas com sinais de trabalho de parto prematuro (aprovado pela EMA e por outras agências nacionais, mas não pelo FDA).
 
 **Não há vínculo mecanístico sustentado pelos dados** entre essa atividade e o glaucoma hereditário primário. A pontuação alta (0,9992) é apenas uma saída do modelo. Uma hipótese especulativa seria a sinalização de ocitocina/vasopressina no tecido ocular (dinâmica do humor aquoso e pressão intraocular), mas ela não tem respaldo nos dados disponíveis. A similaridade entre a indicação original e a nova indicação não foi avaliada.
 
@@ -126,7 +126,7 @@ Abaixo, o registro de verificação desta página. A frase que dizia não haver 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [ChEMBL CHEMBL382301 (atosiban): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL382301) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte (revisado em 2026-11-20; versão anterior guardada no registro) | [ChEMBL CHEMBL382301 (atosiban): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL382301) |
 
 <!-- review:end log -->
 

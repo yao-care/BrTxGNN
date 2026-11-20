@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **infecção pelo vírus da imuno
 
 ## Por que Esta Previsão é Razoável?
 
-Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Lopinavir é (tradução não oficial): “Inibidor da protease do vírus da imunodeficiência humana tipo 1” Texto original em inglês: "Human immunodeficiency virus type 1 protease inhibitor" ([ChEMBL CHEMBL729 (lopinavir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL729), CC BY-SA 3.0; acessado em 2026-11-19). Segundo o conhecimento farmacológico geral, o lopinavir é um inibidor da protease do HIV-1, enzima necessária para a maturação das partículas virais. A predição para este medicamento vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica.
+Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Lopinavir é (tradução não oficial): “Inibidor da protease do vírus da imunodeficiência humana tipo 1”. Texto original em inglês: "Human immunodeficiency virus type 1 protease inhibitor" ([ChEMBL CHEMBL729 (lopinavir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL729), CC BY-SA 3.0; acessado em 2026-11-19). Segundo o conhecimento farmacológico geral, o lopinavir é um inibidor da protease do HIV-1, enzima necessária para a maturação das partículas virais. A predição para este medicamento vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica.
 
 O vírus da imunodeficiência símia (SIV) é um lentivírus muito próximo do HIV, com protease homóloga. Por isso, é biologicamente plausível que a inibição da maturação viral também funcione nesse vírus. Os três estudos encontrados usam regimes antirretrovirais contendo lopinavir em macacos, ou modelos de SHIV com protease derivada do HIV-1.
 
@@ -111,7 +111,7 @@ Abaixo, o registro de verificação desta página. A frase que dizia não haver 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [ChEMBL CHEMBL729 (lopinavir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL729) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte (revisado em 2026-11-20; versão anterior guardada no registro) | [ChEMBL CHEMBL729 (lopinavir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL729) |
 
 <!-- review:end log -->
 

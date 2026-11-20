@@ -54,7 +54,7 @@ Tioconazol é um antifúngico imidazólico de uso tópico. O modelo TxGNN prevê
 
 ## Por que Esta Previsão é Razoável?
 
-Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Tioconazole é (tradução não oficial): “Inibidor do citocromo P450 51” Texto original em inglês: "Cytochrome P450 51 inhibitor" ([ChEMBL CHEMBL1200438 (tioconazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200438), CC BY-SA 3.0; acessado em 2026-11-19). Segundo os dados farmacológicos disponíveis, o tioconazol inibe a enzima fúngica lanosterol 14-α-desmetilase (CYP51/ERG11), essencial para a síntese de ergosterol, componente da membrana celular de fungos e leveduras. Sem ergosterol, o microrganismo não sobrevive. Também há registro de inibição da enzima humana CYP8B1, ligada à síntese de ácidos biliares.
+Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Tioconazole é (tradução não oficial): “Inibidor do citocromo P450 51”. Texto original em inglês: "Cytochrome P450 51 inhibitor" ([ChEMBL CHEMBL1200438 (tioconazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200438), CC BY-SA 3.0; acessado em 2026-11-19). Segundo os dados farmacológicos disponíveis, o tioconazol inibe a enzima fúngica lanosterol 14-α-desmetilase (CYP51/ERG11), essencial para a síntese de ergosterol, componente da membrana celular de fungos e leveduras. Sem ergosterol, o microrganismo não sobrevive. Também há registro de inibição da enzima humana CYP8B1, ligada à síntese de ácidos biliares.
 
 A vulvite de origem infecciosa é frequentemente associada à infecção por *Candida*, muitas vezes junto com vaginite. Nesse cenário, a ação antifúngica é plausível. Já nas vulvites não infecciosas (irritativas, alérgicas, dermatológicas), o mecanismo antifúngico não se aplicaria.
 
@@ -143,7 +143,7 @@ Abaixo, o registro de verificação desta página. A frase que dizia não haver 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [ChEMBL CHEMBL1200438 (tioconazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200438) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte (revisado em 2026-11-20; versão anterior guardada no registro) | [ChEMBL CHEMBL1200438 (tioconazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200438) |
 
 <!-- review:end log -->
 

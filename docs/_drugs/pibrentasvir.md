@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **infecção pelo vírus da hepat
 
 ## Por que Esta Previsão é Razoável?
 
-Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Pibrentasvir é (tradução não oficial): “Inibidor da proteína não estrutural 5A” Texto original em inglês: "Nonstructural protein 5A inhibitor" ([ChEMBL CHEMBL3545123 (pibrentasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3545123), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações conhecidas, o pibrentasvir é um inibidor de NS5A, usado em combinação com o glecaprevir (inibidor da protease NS3/4A), e sua eficácia na hepatite C está bem estabelecida.
+Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Pibrentasvir é (tradução não oficial): “Inibidor da proteína não estrutural 5A”. Texto original em inglês: "Nonstructural protein 5A inhibitor" ([ChEMBL CHEMBL3545123 (pibrentasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3545123), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações conhecidas, o pibrentasvir é um inibidor de NS5A, usado em combinação com o glecaprevir (inibidor da protease NS3/4A), e sua eficácia na hepatite C está bem estabelecida.
 
 A hepatite B e a hepatite C são doenças virais que afetam o fígado, o que explica a proximidade entre elas na rede de conhecimento usada pelo TxGNN. Contudo, essa proximidade é de natureza clínica e semântica, não de alvo molecular. A NS5A é específica do VHC (família Flaviviridae) e não tem homólogo no VHB (família Hepadnaviridae), que se replica por transcrição reversa do RNA pré-genômico e via cccDNA. Portanto, a pontuação alta (0,998) provavelmente reflete a proximidade entre termos de hepatite viral, e não um alvo compartilhado.
 
@@ -112,7 +112,7 @@ Abaixo, o registro de verificação desta página. A frase que dizia não haver 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [ChEMBL CHEMBL3545123 (pibrentasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3545123) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte (revisado em 2026-11-20; versão anterior guardada no registro) | [ChEMBL CHEMBL3545123 (pibrentasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3545123) |
 
 <!-- review:end log -->
 

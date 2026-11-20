@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Amenorreia (amenorrhea)**, atua
 
 ## Por que Esta Previsão é Razoável?
 
-Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Desogestrel é (tradução não oficial): “Agonista do receptor de progesterona” Texto original em inglês: "Progesterone receptor agonist" ([ChEMBL CHEMBL1533 (desogestrel): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1533), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações conhecidas, o desogestrel é um progestágeno que suprime as gonadotrofinas e é usado em combinação com etinilestradiol em contraceptivos orais. Ele é um pró-fármaco, metabolizado em sua forma ativa.
+Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Desogestrel é (tradução não oficial): “Agonista do receptor de progesterona”. Texto original em inglês: "Progesterone receptor agonist" ([ChEMBL CHEMBL1533 (desogestrel): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1533), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações conhecidas, o desogestrel é um progestágeno que suprime as gonadotrofinas e é usado em combinação com etinilestradiol em contraceptivos orais. Ele é um pró-fármaco, metabolizado em sua forma ativa.
 
 Na oligoamenorreia hipotalâmica, a terapia estrogênio-progestágeno pode restaurar o sangramento por privação e apoiar a saúde óssea. Há um estudo de coorte sobre densidade mineral óssea em mulheres jovens com oligoamenorreia hipotalâmica tratadas com contraceptivos orais (PMID 11725730).
 
@@ -138,7 +138,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, o fármaco não tem registro ativo no Brasil e faltam dados de bula e de mecanismo, o que impede avançar na triagem de segurança” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “(ausência de registros)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [ChEMBL CHEMBL1533 (desogestrel): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1533) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte (revisado em 2026-11-20; versão anterior guardada no registro) | [ChEMBL CHEMBL1533 (desogestrel): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1533) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Hipouricemia Renal (Hypouricemi
 
 ## Por que Esta Previsão é Razoável?
 
-Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Benzbromarone é (tradução não oficial): “Inibidor do membro 12 da família 22 de carreadores de solutos” Texto original em inglês: "Solute carrier family 22 member 12 inhibitor" ([ChEMBL CHEMBL388590 (benzbromarone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL388590), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações conhecidas, a benzbromarona é um agente uricosúrico que inibe o URAT1 (SLC22A12), transportador responsável pela reabsorção renal de urato, reduzindo assim o ácido úrico sérico. Sua eficácia como antigotoso é a base de sua indicação original.
+Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Benzbromarone é (tradução não oficial): “Inibidor do membro 12 da família 22 de carreadores de solutos”. Texto original em inglês: "Solute carrier family 22 member 12 inhibitor" ([ChEMBL CHEMBL388590 (benzbromarone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL388590), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações conhecidas, a benzbromarona é um agente uricosúrico que inibe o URAT1 (SLC22A12), transportador responsável pela reabsorção renal de urato, reduzindo assim o ácido úrico sérico. Sua eficácia como antigotoso é a base de sua indicação original.
 
 A hipouricemia renal, por sua vez, é causada por variantes de perda de função no URAT1 (SLC22A12) ou no GLUT9 (SLC2A9), que resultam em excreção urinária excessiva de urato e baixa concentração sérica. O mecanismo da benzbromarona **agravaria**, e não trataria, a doença, pois mimetiza farmacologicamente o defeito de base.
 
@@ -124,7 +124,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “e o único registro brasileiro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [ChEMBL CHEMBL388590 (benzbromarone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL388590) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte (revisado em 2026-11-20; versão anterior guardada no registro) | [ChEMBL CHEMBL388590 (benzbromarone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL388590) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ Atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta dire�
 
 ## Por que Esta Previsão é Razoável?
 
-Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Cholecalciferol é (tradução não oficial): “Agonista do receptor de vitamina D” Texto original em inglês: "Vitamin D receptor agonist" ([ChEMBL CHEMBL1042 (cholecalciferol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1042), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações conhecidas, o colecalciferol é um pró-hormônio. Ele é convertido em formas ativas de vitamina D, que atuam via receptor de vitamina D e regulam a homeostase de cálcio e fósforo. Seu uso está consolidado na reposição de vitamina D e na saúde óssea.
+Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Cholecalciferol é (tradução não oficial): “Agonista do receptor de vitamina D”. Texto original em inglês: "Vitamin D receptor agonist" ([ChEMBL CHEMBL1042 (cholecalciferol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1042), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações conhecidas, o colecalciferol é um pró-hormônio. Ele é convertido em formas ativas de vitamina D, que atuam via receptor de vitamina D e regulam a homeostase de cálcio e fósforo. Seu uso está consolidado na reposição de vitamina D e na saúde óssea.
 
 A displasia acromesomélica é uma doença genética rara do esqueleto. Em geral, está associada a alterações em vias de sinalização da placa de crescimento, como a via do peptídeo natriurético CNP/NPR-B. Essa via não é abordada pela vitamina D. **Não foi identificado vínculo mecanístico plausível** entre o colecalciferol e esta doença.
 
@@ -139,7 +139,7 @@ Abaixo, o registro de verificação desta página. A frase que dizia não haver 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [ChEMBL CHEMBL1042 (cholecalciferol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1042) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte (revisado em 2026-11-20; versão anterior guardada no registro) | [ChEMBL CHEMBL1042 (cholecalciferol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1042) |
 
 <!-- review:end log -->
 

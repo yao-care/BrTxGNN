@@ -55,7 +55,7 @@ Tiabendazol é um anti-helmíntico da classe dos benzimidazóis. O modelo TxGNN 
 
 ## Por que Esta Previsão é Razoável?
 
-Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Tiabendazol é (tradução não oficial): “Inibidor da tubulina” Texto original em inglês: "Tubulin inhibitor" ([ChEMBL CHEMBL625 (thiabendazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL625), CC BY-SA 3.0; acessado em 2026-11-19). Pelo conhecimento geral da classe, os benzimidazóis atuam sobre a tubulina do parasita e sobre o metabolismo energético (inibição da fumarato redutase), o que é plausível contra larvas de cestódeos como o *Echinococcus granulosus*.
+Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Tiabendazol é (tradução não oficial): “Inibidor da tubulina”. Texto original em inglês: "Tubulin inhibitor" ([ChEMBL CHEMBL625 (thiabendazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL625), CC BY-SA 3.0; acessado em 2026-11-19). Pelo conhecimento geral da classe, os benzimidazóis atuam sobre a tubulina do parasita e sobre o metabolismo energético (inibição da fumarato redutase), o que é plausível contra larvas de cestódeos como o *Echinococcus granulosus*.
 
 Esse raciocínio é apenas por classe: albendazol e mebendazol, outros benzimidazóis, são as opções medicamentosas estabelecidas para equinococoses. Não há, porém, estudo recuperado que avalie o tiabendazol especificamente nesta doença.
 
@@ -86,7 +86,7 @@ Abaixo, o registro de verificação desta página. A frase que dizia não haver 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [ChEMBL CHEMBL625 (thiabendazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL625) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte (revisado em 2026-11-20; versão anterior guardada no registro) | [ChEMBL CHEMBL625 (thiabendazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL625) |
 
 <!-- review:end log -->
 

@@ -58,7 +58,7 @@ Atenção: as duas primeiras previsões do modelo (síndromes congênitas raras)
 
 ## Por que Esta Previsão é Razoável?
 
-Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Azathioprine é (tradução não oficial): “Inibidor da amidofosforribosiltransferase; inibidor do DNA” Texto original em inglês: "Amidophosphoribosyltransferase inhibitor; DNA inhibitor" ([ChEMBL CHEMBL1542 (azathioprine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1542), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações conhecidas, a azatioprina é um pró-fármaco da 6-mercaptopurina. Seus metabólitos nucleotídicos (6-TGN) inibem a síntese de purinas e induzem apoptose de linfócitos T ativados (via inibição de Rac1), o que reduz a resposta imune da mucosa intestinal.
+Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Azathioprine é (tradução não oficial): “Inibidor da amidofosforribosiltransferase; inibidor do DNA”. Texto original em inglês: "Amidophosphoribosyltransferase inhibitor; DNA inhibitor" ([ChEMBL CHEMBL1542 (azathioprine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1542), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações conhecidas, a azatioprina é um pró-fármaco da 6-mercaptopurina. Seus metabólitos nucleotídicos (6-TGN) inibem a síntese de purinas e induzem apoptose de linfócitos T ativados (via inibição de Rac1), o que reduz a resposta imune da mucosa intestinal.
 
 A indicação original (imunossupressão e antimetabólito análogo da purina) se relaciona diretamente com a DII, uma doença inflamatória crônica mediada por mecanismos imunes. A azatioprina é um imunomodulador consolidado para manutenção da remissão na doença de Crohn e na colite ulcerativa, com revisões Cochrane que sustentam o uso na colite ulcerativa.
 
@@ -151,7 +151,7 @@ Abaixo, o registro de verificação desta página. A frase que dizia não haver 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [ChEMBL CHEMBL1542 (azathioprine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1542) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte (revisado em 2026-11-20; versão anterior guardada no registro) | [ChEMBL CHEMBL1542 (azathioprine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1542) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **enxaqueca (migraine disorder)**
 
 ## Por que Esta Previsão é Razoável?
 
-Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Bromazepam é (tradução não oficial): “Modulador alostérico positivo da subunidade alfa-2 do receptor GABA” Texto original em inglês: "GABA receptor alpha-2 subunit positive allosteric modulator" ([ChEMBL CHEMBL277062 (bromazepam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL277062), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações conhecidas, o bromazepam é um benzodiazepínico que atua como modulador alostérico positivo dos receptores GABA-A, reforçando a neurotransmissão inibitória.
+Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Bromazepam é (tradução não oficial): “Modulador alostérico positivo da subunidade alfa-2 do receptor GABA”. Texto original em inglês: "GABA receptor alpha-2 subunit positive allosteric modulator" ([ChEMBL CHEMBL277062 (bromazepam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL277062), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações conhecidas, o bromazepam é um benzodiazepínico que atua como modulador alostérico positivo dos receptores GABA-A, reforçando a neurotransmissão inibitória.
 
 Mecanisticamente, isso poderia reduzir a hiperexcitabilidade cortical e trigeminovascular associada à enxaqueca. Também poderia aliviar a ansiedade e a tensão muscular, que podem coexistir com as crises ou desencadeá-las.
 
@@ -94,7 +94,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “O fármaco não tem registro ativo no Brasil e o perfil de risco dos benzodiazepínicos pesa contra o uso na enxaqueca” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [ChEMBL CHEMBL277062 (bromazepam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL277062) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte (revisado em 2026-11-20; versão anterior guardada no registro) | [ChEMBL CHEMBL277062 (bromazepam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL277062) |
 
 <!-- review:end log -->
 

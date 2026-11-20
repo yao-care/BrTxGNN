@@ -55,7 +55,7 @@ O modelo TxGNN prevê que ela possa ser eficaz para **opsismodisplasia (opsismod
 
 ## Por que Esta Previsão é Razoável?
 
-Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Evogliptin é (tradução não oficial): “Inibidor da dipeptidil peptidase IV” Texto original em inglês: "Dipeptidyl peptidase IV inhibitor" ([ChEMBL CHEMBL1779710 (evogliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1779710), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações conhecidas, a evogliptina é um inibidor da dipeptidil peptidase-4 (DPP-4), classe usada no controle glicêmico do diabetes tipo 2.
+Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Evogliptin é (tradução não oficial): “Inibidor da dipeptidil peptidase IV”. Texto original em inglês: "Dipeptidyl peptidase IV inhibitor" ([ChEMBL CHEMBL1779710 (evogliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1779710), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações conhecidas, a evogliptina é um inibidor da dipeptidil peptidase-4 (DPP-4), classe usada no controle glicêmico do diabetes tipo 2.
 
 A opsismodisplasia é uma displasia esquelética rara, causada por mutações de perda de função no gene INPPL1 (SHIP2), que afetam a via PI3K/AKT e a ossificação endocondral. Não se conhece nenhuma via que ligue a inibição da DPP-4 à deficiência de SHIP2. Portanto, **não há vínculo mecanístico estabelecido**: a pontuação elevada (0,9935) reflete apenas uma previsão do modelo, sem respaldo em ensaios ou publicações.
 
@@ -123,7 +123,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 |------|------|------|------|
 | 2026-10-31 | Removido: “(registros cancelados)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Além disso, os dois registros no Brasil estão cancelados e faltam dados de segurança da bula, o que impede avançar para a triagem de seguran” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [ChEMBL CHEMBL1779710 (evogliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1779710) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte (revisado em 2026-11-20; versão anterior guardada no registro) | [ChEMBL CHEMBL1779710 (evogliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1779710) |
 
 <!-- review:end log -->
 

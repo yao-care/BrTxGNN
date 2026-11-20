@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Alfacalcidol é (tradução não oficial): “Agonista do receptor de vitamina D” Texto original em inglês: "Vitamin D receptor agonist" ([ChEMBL CHEMBL1601669 (alfacalcidol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1601669), CC BY-SA 3.0; acessado em 2026-11-19). Sabe-se que o alfacalcidol é um análogo da vitamina D com hidroxilação 1-alfa, convertido no fígado em calcitriol, a forma ativa da vitamina D. Seu papel é atuar sobre a homeostase do cálcio e do fosfato e sobre a mineralização óssea.
+Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Alfacalcidol é (tradução não oficial): “Agonista do receptor de vitamina D”. Texto original em inglês: "Vitamin D receptor agonist" ([ChEMBL CHEMBL1601669 (alfacalcidol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1601669), CC BY-SA 3.0; acessado em 2026-11-19). Sabe-se que o alfacalcidol é um análogo da vitamina D com hidroxilação 1-alfa, convertido no fígado em calcitriol, a forma ativa da vitamina D. Seu papel é atuar sobre a homeostase do cálcio e do fosfato e sobre a mineralização óssea.
 
 A displasia conodisplásica craniofacial é um distúrbio esquelético. Um vínculo com um fármaco que age no metabolismo mineral ósseo é plausível apenas em um sentido muito geral, e nenhuma via específica foi estabelecida. A pontuação alta do TxGNN reflete uma previsão computacional baseada em rede, não uma demonstração biológica ou clínica.
 
@@ -97,7 +97,7 @@ Abaixo, o registro de verificação desta página. A frase que dizia não haver 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [ChEMBL CHEMBL1601669 (alfacalcidol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1601669) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte (revisado em 2026-11-20; versão anterior guardada no registro) | [ChEMBL CHEMBL1601669 (alfacalcidol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1601669) |
 
 <!-- review:end log -->
 

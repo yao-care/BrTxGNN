@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Esclerodermia difusa (diffuse s
 
 ## Por que Esta Previsão é Razoável?
 
-Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Imipenem é (tradução não oficial): “Inibidor da proteína de ligação à penicilina bacteriana” Texto original em inglês: "Bacterial penicillin-binding protein inhibitor" ([ChEMBL CHEMBL43708 (imipenem): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL43708), CC BY-SA 3.0; acessado em 2026-11-19). Pelo que se conhece da classe, o imipenem é um carbapenêmico que se liga às proteínas ligadoras de penicilina (PBPs) e bloqueia a síntese da parede celular bacteriana. Por isso, sua ação é dirigida a bactérias.
+Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Imipenem é (tradução não oficial): “Inibidor da proteína de ligação à penicilina bacteriana”. Texto original em inglês: "Bacterial penicillin-binding protein inhibitor" ([ChEMBL CHEMBL43708 (imipenem): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL43708), CC BY-SA 3.0; acessado em 2026-11-19). Pelo que se conhece da classe, o imipenem é um carbapenêmico que se liga às proteínas ligadoras de penicilina (PBPs) e bloqueia a síntese da parede celular bacteriana. Por isso, sua ação é dirigida a bactérias.
 
 A esclerodermia difusa é uma doença autoimune e fibrosante, sem causa bacteriana conhecida. Não há ligação mecanística plausível entre a ação antibacteriana do imipenem e os processos de fibrose e autoimunidade dessa doença. A pontuação alta do TxGNN (0,9999) é apenas uma previsão computacional e não é sustentada por ensaios clínicos nem por publicações. Por isso, o nível de evidência é L5.
 
@@ -117,7 +117,7 @@ Abaixo, o registro de verificação desta página. A frase que dizia não haver 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [ChEMBL CHEMBL43708 (imipenem): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL43708) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte (revisado em 2026-11-20; versão anterior guardada no registro) | [ChEMBL CHEMBL43708 (imipenem): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL43708) |
 
 <!-- review:end log -->
 

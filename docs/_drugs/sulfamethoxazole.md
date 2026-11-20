@@ -56,7 +56,7 @@ atualmente com **0 ensaios clínicos** e **1 publicação** indireta apoiando es
 
 ## Por que Esta Previsão é Razoável?
 
-Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Sulfamethoxazole é (tradução não oficial): “Inibidor da di-hidropteroato sintase bacteriana” Texto original em inglês: "Bacterial dihydropteroate synthase inhibitor" ([ChEMBL CHEMBL443 (sulfamethoxazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL443), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações conhecidas, o sulfametoxazol é utilizado em associação com a trimetoprima e inibe sequencialmente a síntese de folato bacteriano, o que lhe confere atividade antibacteriana ampla. Sua eficácia em infecções bacterianas está estabelecida, e mecanisticamente pode ser aplicável a infecções oculares bacterianas.
+Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Sulfamethoxazole é (tradução não oficial): “Inibidor da di-hidropteroato sintase bacteriana”. Texto original em inglês: "Bacterial dihydropteroate synthase inhibitor" ([ChEMBL CHEMBL443 (sulfamethoxazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL443), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações conhecidas, o sulfametoxazol é utilizado em associação com a trimetoprima e inibe sequencialmente a síntese de folato bacteriano, o que lhe confere atividade antibacteriana ampla. Sua eficácia em infecções bacterianas está estabelecida, e mecanisticamente pode ser aplicável a infecções oculares bacterianas.
 
 A conjuntivite bacteriana aguda é uma infecção altamente contagiosa, comum em crianças e tratada geralmente de forma empírica com antibióticos de amplo espectro. Há, portanto, plausibilidade biológica na relação entre a indicação original (infecções bacterianas) e a nova indicação prevista.
 
@@ -149,7 +149,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, o medicamento é comercializado no Brasil, com 20 registros válidos, e não existe formulação ocular” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Registros válidos: “todos os 20” → 23 de 112 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [ChEMBL CHEMBL443 (sulfamethoxazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL443) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte (revisado em 2026-11-20; versão anterior guardada no registro) | [ChEMBL CHEMBL443 (sulfamethoxazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL443) |
 
 <!-- review:end log -->
 

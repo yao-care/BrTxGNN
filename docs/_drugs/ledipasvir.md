@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **infecção pelo vírus da hepat
 
 ## Por que Esta Previsão é Razoável?
 
-Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Ledipasvir é (tradução não oficial): “Inibidor da proteína não estrutural 5A” Texto original em inglês: "Nonstructural protein 5A inhibitor" ([ChEMBL CHEMBL2374220 (ledipasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2374220), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações conhecidas, o ledipasvir inibe a proteína NS5A do HCV e é usado em combinação com sofosbuvir (inibidor da polimerase NS5B) no tratamento da hepatite C.
+Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Ledipasvir é (tradução não oficial): “Inibidor da proteína não estrutural 5A”. Texto original em inglês: "Nonstructural protein 5A inhibitor" ([ChEMBL CHEMBL2374220 (ledipasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2374220), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações conhecidas, o ledipasvir inibe a proteína NS5A do HCV e é usado em combinação com sofosbuvir (inibidor da polimerase NS5B) no tratamento da hepatite C.
 
 A relação entre as duas indicações reflete, sobretudo, semelhanças que o modelo TxGNN (deep learning) aprendeu entre doenças relacionadas: ambas são hepatites virais crônicas. Do ponto de vista mecanístico, a previsão é frágil. O HBV não possui homólogo conhecido da NS5A e se replica por transcrição reversa/polimerase e cccDNA, de modo que não se espera atividade antiviral direta do ledipasvir contra ele. A pontuação alta vem do modelo TxGNN (deep learning) e pode refletir semelhanças aprendidas entre doenças relacionadas, como as "hepatites virais", e não evidência biológica nem uma ligação real de alvo.
 
@@ -120,7 +120,7 @@ Abaixo, o registro de verificação desta página. A frase que dizia não haver 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [ChEMBL CHEMBL2374220 (ledipasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2374220) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte (revisado em 2026-11-20; versão anterior guardada no registro) | [ChEMBL CHEMBL2374220 (ledipasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2374220) |
 
 <!-- review:end log -->
 

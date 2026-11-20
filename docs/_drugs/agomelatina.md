@@ -57,7 +57,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Agomelatina atua como agonista dos receptores de melatonina MT1/MT2 e antagonista do receptor serotoninérgico 5-HT2C. Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Agomelatina é (tradução não oficial): “Agonista dos receptores de melatonina; antagonista do receptor de serotonina 2c (5-HT2c)” Texto original em inglês: "Melatonin receptor agonist; Serotonin 2c (5-HT2c) receptor antagonist" ([ChEMBL CHEMBL10878 (agomelatine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL10878), CC BY-SA 3.0; acessado em 2026-11-19).
+Agomelatina atua como agonista dos receptores de melatonina MT1/MT2 e antagonista do receptor serotoninérgico 5-HT2C. Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Agomelatina é (tradução não oficial): “Agonista dos receptores de melatonina; antagonista do receptor de serotonina 2c (5-HT2c)”. Texto original em inglês: "Melatonin receptor agonist; Serotonin 2c (5-HT2c) receptor antagonist" ([ChEMBL CHEMBL10878 (agomelatine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL10878), CC BY-SA 3.0; acessado em 2026-11-19).
 
 O paroxismo tortícolo benigno da infância é um distúrbio neurológico paroxístico da primeira infância, considerado um equivalente migranoso. Um vínculo com a farmacologia da agomelatina é possível em tese (modulação serotoninérgica e do ritmo circadiano), mas é especulativo: nenhum estudo clínico ou publicação sustenta essa relação.
 
@@ -102,7 +102,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 |------|------|------|------|
 | 2026-11-06 | Removido: “Agomelatina é um fármaco psicotrópico comercializado no Brasil com **7 registros ativos** na ANVISA” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Verificar a fonte dos dados regulatórios: o `query_log` indica fonte `tfda` (Taiwan FDA) — confirmar se os registros correspondem efetivamen” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [ChEMBL CHEMBL10878 (agomelatine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL10878) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte (revisado em 2026-11-20; versão anterior guardada no registro) | [ChEMBL CHEMBL10878 (agomelatine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL10878) |
 
 <!-- review:end log -->
 

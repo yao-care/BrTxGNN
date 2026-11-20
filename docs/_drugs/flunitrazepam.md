@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Flunitrazepam é (tradução não oficial): “Receptor GABA-A; modulador alostérico positivo de canal aniônico” Texto original em inglês: "GABA-A receptor; anion channel positive allosteric modulator" ([ChEMBL CHEMBL13280 (flunitrazepam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL13280), CC BY-SA 3.0; acessado em 2026-11-19). Segundo as informações farmacológicas disponíveis, o flunitrazepam liga-se às subunidades α1, α2, α3 e α5 do receptor GABA-A, o que é compatível com a ação de um benzodiazepínico (sedação, hipnose e ansiólise).
+Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Flunitrazepam é (tradução não oficial): “Receptor GABA-A; modulador alostérico positivo de canal aniônico”. Texto original em inglês: "GABA-A receptor; anion channel positive allosteric modulator" ([ChEMBL CHEMBL13280 (flunitrazepam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL13280), CC BY-SA 3.0; acessado em 2026-11-19). Segundo as informações farmacológicas disponíveis, o flunitrazepam liga-se às subunidades α1, α2, α3 e α5 do receptor GABA-A, o que é compatível com a ação de um benzodiazepínico (sedação, hipnose e ansiólise).
 
 A relação com a enxaqueca é especulativa. Uma modulação GABAérgica poderia, em tese, influenciar a excitabilidade neuronal envolvida na enxaqueca, mas não há estudo que sustente essa ligação para este fármaco. A única base da previsão é a pontuação elevada do modelo.
 
@@ -109,7 +109,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “O fármaco consta como comercializado no Brasil, com 6 registros no total: 3 válidos e 3 cancelados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [ChEMBL CHEMBL13280 (flunitrazepam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL13280) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte (revisado em 2026-11-20; versão anterior guardada no registro) | [ChEMBL CHEMBL13280 (flunitrazepam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL13280) |
 
 <!-- review:end log -->
 

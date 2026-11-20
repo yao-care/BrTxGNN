@@ -60,7 +60,7 @@ O modelo TxGNN atribuiu a maior pontuação a **angioedema adquirido (acquired a
 
 ## Por que Esta Previsão é Razoável?
 
-Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Artemether é (tradução não oficial): “Inibidor da ferriprotoporfirina IX” Texto original em inglês: "Ferriprotoporphyrin IX inhibitor" ([ChEMBL CHEMBL566534 (artemether): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL566534), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações conhecidas, o artemeter é um derivado da artemisinina. Sua ponte endoperóxido é ativada pelo ferro do heme no parasita, gerando radicais livres que alquilam proteínas do *Plasmodium*. Costuma ser usado em combinação fixa com lumefantrina como tratamento de primeira linha da malária não complicada por *P. falciparum*.
+Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Artemether é (tradução não oficial): “Inibidor da ferriprotoporfirina IX”. Texto original em inglês: "Ferriprotoporphyrin IX inhibitor" ([ChEMBL CHEMBL566534 (artemether): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL566534), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações conhecidas, o artemeter é um derivado da artemisinina. Sua ponte endoperóxido é ativada pelo ferro do heme no parasita, gerando radicais livres que alquilam proteínas do *Plasmodium*. Costuma ser usado em combinação fixa com lumefantrina como tratamento de primeira linha da malária não complicada por *P. falciparum*.
 
 **Angioedema adquirido (previsão nº 1):** não há vínculo mecanístico plausível. O angioedema envolve a via da bradicinina e do inibidor de C1 do complemento, sobre as quais o artemeter não tem ação conhecida. A pontuação alta (0,9990) vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica. Não há ensaios clínicos nem literatura. As previsões para angioedema (geral, hereditário e induzido por bloqueadores do sistema renina-angiotensina-aldosterona) seguem o mesmo padrão.
 
@@ -167,7 +167,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, o único registro brasileiro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Esclarecer a situação regulatória: o registro COARTEM está cancelado, sem registro válido de monoterapia ou combinação” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [ChEMBL CHEMBL566534 (artemether): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL566534) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte (revisado em 2026-11-20; versão anterior guardada no registro) | [ChEMBL CHEMBL566534 (artemether): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL566534) |
 
 <!-- review:end log -->
 

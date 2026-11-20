@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **infecção pelo vírus da hepat
 
 ## Por que Esta Previsão é Razoável?
 
-Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Velpatasvir é (tradução não oficial): “Inibidor da proteína não estrutural 5A” Texto original em inglês: "Nonstructural protein 5A inhibitor" ([ChEMBL CHEMBL3545062 (velpatasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3545062), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações conhecidas, o velpatasvir é um inibidor da NS5A do HCV, usado em combinação com sofosbuvir (inibidor da polimerase NS5B), e sua eficácia na hepatite C crônica está bem estabelecida.
+Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Velpatasvir é (tradução não oficial): “Inibidor da proteína não estrutural 5A”. Texto original em inglês: "Nonstructural protein 5A inhibitor" ([ChEMBL CHEMBL3545062 (velpatasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3545062), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações conhecidas, o velpatasvir é um inibidor da NS5A do HCV, usado em combinação com sofosbuvir (inibidor da polimerase NS5B), e sua eficácia na hepatite C crônica está bem estabelecida.
 
 A pontuação do TxGNN (modelo de aprendizado profundo) vem do próprio modelo e pode refletir semelhanças que ele aprendeu entre doenças relacionadas, como os vírus hepatotrópicos, e não evidência biológica. Mecanisticamente, a plausibilidade é baixa: o HBV não possui um homólogo da NS5A, e não há atividade anti-HBV estabelecida para o velpatasvir. A pontuação alta deve ser interpretada como uma hipótese computacional.
 
@@ -118,7 +118,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “já que não há registro vigente” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [ChEMBL CHEMBL3545062 (velpatasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3545062) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte (revisado em 2026-11-20; versão anterior guardada no registro) | [ChEMBL CHEMBL3545062 (velpatasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3545062) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Enflurane é (tradução não oficial): “Modulador positivo do receptor de glicina (alfa-1/beta); receptor GABA-A; modulador positivo de canal aniônico; abridor do membro 10 da subfamília K de canais de potássio; abridor do membro 18 da subfamília K de canais de potássio” Texto original em inglês: "Glycine receptor (alpha-1/beta) positive modulator; GABA-A receptor; anion channel positive modulator; Potassium channel subfamily K member 10 opener; Potassium channel subfamily K member 18 opener" ([ChEMBL CHEMBL1257 (enflurane): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1257), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações conhecidas, o enflurano é um anestésico inalatório halogenado que potencializa os receptores GABA-A e modula a atividade de canais de glicina, NMDA e potássio.
+Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Enflurane é (tradução não oficial): “Modulador positivo do receptor de glicina (alfa-1/beta); receptor GABA-A; modulador positivo de canal aniônico; abridor do membro 10 da subfamília K de canais de potássio; abridor do membro 18 da subfamília K de canais de potássio”. Texto original em inglês: "Glycine receptor (alpha-1/beta) positive modulator; GABA-A receptor; anion channel positive modulator; Potassium channel subfamily K member 10 opener; Potassium channel subfamily K member 18 opener" ([ChEMBL CHEMBL1257 (enflurane): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1257), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações conhecidas, o enflurano é um anestésico inalatório halogenado que potencializa os receptores GABA-A e modula a atividade de canais de glicina, NMDA e potássio.
 
 A ligação com o transtorno bipolar é especulativa: a modulação gabaérgica e glutamatérgica poderia, em tese, relacionar-se à estabilização do humor. No entanto, não há ensaios clínicos nem literatura que sustentem essa indicação, e a pontuação alta do TxGNN (0,9969) é apenas uma previsão computacional.
 
@@ -129,7 +129,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “e seu registro no Brasil está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [ChEMBL CHEMBL1257 (enflurane): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1257) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte (revisado em 2026-11-20; versão anterior guardada no registro) | [ChEMBL CHEMBL1257 (enflurane): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1257) |
 
 <!-- review:end log -->
 

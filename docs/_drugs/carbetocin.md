@@ -55,7 +55,7 @@ O modelo TxGNN prevê que ela possa ser eficaz para a **síndrome semelhante à 
 
 ## Por que Esta Previsão é Razoável?
 
-Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Carbetocin é (tradução não oficial): “Agonista do receptor de ocitocina” Texto original em inglês: "Oxytocin receptor agonist" ([ChEMBL CHEMBL3301668 (carbetocin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3301668), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações farmacológicas gerais, a carbetocina é um agonista do receptor de oxitocina (OXTR), usado para prevenir hemorragia pós-parto por atonia uterina. Uma formulação intranasal (LV-101) foi desenvolvida para a síndrome de Prader-Willi, com o objetivo de reduzir a fome extrema.
+Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Carbetocin é (tradução não oficial): “Agonista do receptor de ocitocina”. Texto original em inglês: "Oxytocin receptor agonist" ([ChEMBL CHEMBL3301668 (carbetocin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3301668), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações farmacológicas gerais, a carbetocina é um agonista do receptor de oxitocina (OXTR), usado para prevenir hemorragia pós-parto por atonia uterina. Uma formulação intranasal (LV-101) foi desenvolvida para a síndrome de Prader-Willi, com o objetivo de reduzir a fome extrema.
 
 **Os dados compilados não sustentam um vínculo mecanístico plausível.** A síndrome semelhante à isotretinoína (embriopatia por ácido retinoico) é uma malformação teratogênica causada pela perturbação da sinalização de retinoides durante o desenvolvimento embrionário. Trata-se de uma condição congênita e irreversível, sem alvo farmacológico plausível para um agonista do receptor de oxitocina.
 
@@ -113,7 +113,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, os dois registros brasileiros estão cancelados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “dado que não há registro vigente no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [ChEMBL CHEMBL3301668 (carbetocin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3301668) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte (revisado em 2026-11-20; versão anterior guardada no registro) | [ChEMBL CHEMBL3301668 (carbetocin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3301668) |
 
 <!-- review:end log -->
 

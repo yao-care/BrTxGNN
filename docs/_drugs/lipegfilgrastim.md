@@ -55,7 +55,7 @@ O modelo TxGNN prevê que pode ser eficaz para **distúrbio primário de libera�
 
 ## Por que Esta Previsão é Razoável?
 
-Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Lipegfilgrastim é (tradução não oficial): “Agonista do receptor do fator estimulador de colônias de granulócitos” Texto original em inglês: "Granulocyte colony stimulating factor receptor agonist" ([ChEMBL CHEMBL4594230 (lipegfilgrastim): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL4594230), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações conhecidas, lipegfilgrastim é um fator estimulador de colônias de granulócitos peguilado, que age sobre o receptor de G-CSF em progenitores de neutrófilos. Não há indicação original registrada no Brasil para estabelecer uma relação direta com a nova indicação.
+Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Lipegfilgrastim é (tradução não oficial): “Agonista do receptor do fator estimulador de colônias de granulócitos”. Texto original em inglês: "Granulocyte colony stimulating factor receptor agonist" ([ChEMBL CHEMBL4594230 (lipegfilgrastim): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL4594230), CC BY-SA 3.0; acessado em 2026-11-19). Segundo informações conhecidas, lipegfilgrastim é um fator estimulador de colônias de granulócitos peguilado, que age sobre o receptor de G-CSF em progenitores de neutrófilos. Não há indicação original registrada no Brasil para estabelecer uma relação direta com a nova indicação.
 
 Na prática, **a previsão não tem respaldo mecanístico**. O distúrbio de liberação plaquetária envolve a função das plaquetas (liberação de grânulos), e o lipegfilgrastim, um fator de crescimento da linhagem de neutrófilos, não tem efeito direto conhecido sobre essa via. A pontuação alta do TxGNN reflete apenas associações na rede de conhecimento, sem estudos que a sustentem.
 
@@ -94,7 +94,7 @@ Abaixo, o registro de verificação desta página. A frase que dizia não haver 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [ChEMBL CHEMBL4594230 (lipegfilgrastim): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL4594230) |
+| 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte (revisado em 2026-11-20; versão anterior guardada no registro) | [ChEMBL CHEMBL4594230 (lipegfilgrastim): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL4594230) |
 
 <!-- review:end log -->
 
