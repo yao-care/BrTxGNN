@@ -1,10 +1,82 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-11-20T06:11:48.786575+00:00",
-  "total_fetched": 87,
-  "unique_count": 86,
-  "health_related_count": 28,
+  "fetched_at": "2026-11-20T19:42:47.292392+00:00",
+  "total_fetched": 99,
+  "unique_count": 98,
+  "health_related_count": 37,
   "news": [
+    {
+      "id": "32446d8a2b78",
+      "title": "Pesquisador anuncia que IA resolveu Hipótese de Riemann, maior problema da matemática - UOL",
+      "published": "2026-11-20T17:50:28+00:00",
+      "summary": "Pesquisador anuncia que IA resolveu Hipótese de Riemann, maior problema da matemática&nbsp;&nbsp;UOL",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQndidlV2cVN5TEQ2N3BtZVFOdWI0ZWYxSUJrb3N1WEFOR2l1YUttN0Q0UUJFUEpBUVIzZjBLZjNpZlc5U0FlcmF0UlcwNGpZYy1PSTR5VUVDcURfU3BjS1NTRTVoalYyQkFBVFhvNW15X0lzbHROR1EwNnlybjZ1bnJ4RVpiVExsdnczdG1MNEhfV3V4QVpZczc5bDhUZ0YwaE1nS1k0QnE2dTVGZUdhNmxzYnhveHJ1OS1mQ09UaGl6RDZqMW9GLXJ4MGwwZjBKUG5r?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c154d47666a8",
+      "title": "Como comprimido diário é a grande esperança contra um dos cânceres mais letais - G1",
+      "published": "2026-11-20T15:48:25+00:00",
+      "summary": "Como comprimido diário é a grande esperança contra um dos cânceres mais letais&nbsp;&nbsp;G1Câncer de pâncreas: estratégia com remédio inovador controla doença por mais de 1 ano&nbsp;&nbsp;VEJAMundo Melhor: Comissão Europeia autoriza novo tratamento para cancro do pâncreas&nbsp;&nbsp;R7Cancro do pâncreas: comprimido diário torna tumores indetetáveis em alguns doentes e trava progressão da doença&nbsp;&nbsp;RenascençaHá uma nova esperança no tratamento do cancro do pâncreas&nbsp;&nbsp;Correio da ",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbkN6ckNVMVB3NlV4WG5pZ3ZqQmhWR2JtOU1yV1k2UTQtanNqS2k1S0VxTGFtZW1vUlNZT1Q0NzVHRE0xaUdQN3E3MnRPeDR3d04wWlc0WXpKaXZ6MFZZN05VbVNaREZBeXQyOGhfZjc3N0hKaVhZUzZzOTR2N3J4Xzl4NWVQUzR3N09RbG1ZS1AtN0NyOE4xOHBfNG52OGhhLVNDeW56VW9rNUg4Zzk3LTVaSDFrWmdRd3B3QktpbzlqaHdKN0xRR0Rn0gHYAUFVX3lxTE9paWttSV94TTVYVTNwWXBvaVRlOUtyb1ZjdExRZ2IxWWpGUXI4ZjJWajNWRHJlNFJrNVZoUVV3Zmw5SlYwVXlJVXhYWUJXd2JmNHBPY19lSGZMVWUxd0VDeFRyNjZmWFhRdVU2bzhyc05LMHhyU2c4eWNYTEVYc0NrOEd0R253VEk0Uk04MnFDdU5NZkRhempoSFh5TVdSREI4R05TSVRWZkk0QWMzZzFDd29mMFB3WTlKWnlhTWIwS3JKcHBFNl84Xy00ZzJGaHRkYTVJcmxZdQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0b51b1280787",
+      "title": "Mpox: casos dobram no Ceará em menos de uma semana - O POVO",
+      "published": "2026-11-20T11:00:00+00:00",
+      "summary": "Mpox: casos dobram no Ceará em menos de uma semana&nbsp;&nbsp;O POVOCearense é diagnosticado com mpox e grava vídeo para alertar sobre doença em meio a aumento dos casos no estado&nbsp;&nbsp;G1Casos de Mpox dobram no Ceará em menos de uma semana e chegam a 175 registros&nbsp;&nbsp;Diário do NordesteQuixeramobim registra dois casos suspeitos de Mpox&nbsp;&nbsp;Quixeramobim AgoraJuazeiro do Norte confirma dois casos de Mpox; Ceará chega a 85 registros da doença&nbsp;&nbsp;Ceará Agora",
+      "sources": [
+        {
+          "name": "O POVO",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUFVGSTFiVWp2bmxGaGNEbGdwY095SFhKNFRYRG1Ic0YtZERBQkgzS1RPaC1HRklROFZPT0gyelZaZWEtbVBYX0RXT284UXlfOFZBa1lsaWp1a3JlVEJMOVlEV2FDQkZJMVg3X2doU1dEdVZnUF9Sek55a2x1anUxYWRxTDlQSWxwRFVveW9kSGEtZG5uMGZjUy1Lb3Ixd1p1cWtXUWN3XzE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "216507c5c24d",
+      "title": "Suplemento de creatina pode deixar o cérebro mais forte? - Estadão",
+      "published": "2026-11-20T08:30:00+00:00",
+      "summary": "Suplemento de creatina pode deixar o cérebro mais forte?&nbsp;&nbsp;EstadãoCreatina após os 50 anos: o suplemento serve apenas para quem pratica musculação?&nbsp;&nbsp;GZHPor que a creatina se tornou a nova aliada da saúde feminina após os 40 anos?&nbsp;&nbsp;Rádio ItatiaiaEntenda os efeitos que a suplementação de creatina tem no corpo humano&nbsp;&nbsp;R7O suplemento que ajuda a ganhar força e massa muscular com o treino, inclusive em idosos&nbsp;&nbsp;Tua Saúde",
+      "sources": [
+        {
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON3N1WHFEMmUya1R5aGVkSXdHeEE3b3lDcUpTcWp5TVRUSS1DcmlXYmFoSkpGWnB5cG5WdXUyZFF1SG5pWi1xN3kyNFV6bl8zVHJWcHpwcTZ6ZkpyVjVPN1piMmx1OFpra0RFdnN4eW8xV1ZJOVNMV1Bnb205b3ZjN3BxZ0todnZzVWNCRlJleEtFaDdZekhGVnEyX0VIVG8ta1k0bDY2VjfSAa4BQVVfeXFMUHFwNjAtUFI2VVFMQXhfUG1uUHYzd1haU245c0QyeXFCS0RQb0pZT3E0SmdmVEpjR3U0ZUVabFpKYmgxTWFRT2hZcEFuN0N1a3JtQS1hSG5mU0wtNjRjS2RQbDcxV3FXUG1Sb3c2Ykl1a3p6TldCTHl5c1JsVnNkZlZRNi1vVFhsUjdkZDRISDg5RmZvRHg1SjNGelk2OEhzQlV0YnBVdkEzajRYN1BR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d8efd94227a5",
+      "title": "Robert Pattinson: o ingrediente que o novo 007 consome no café da manhã para controlar a fome - O GLOBO",
+      "published": "2026-11-20T07:30:01+00:00",
+      "summary": "Robert Pattinson: o ingrediente que o novo 007 consome no café da manhã para controlar a fome&nbsp;&nbsp;O GLOBOUm oncologista recomenda um alimento barato para o café da manhã que você deve consumir frequentemente devido aos seus inúmeros benefícios&nbsp;&nbsp;TudoGostosoAveia no café da manhã ajuda a controlar a fome&nbsp;&nbsp;Correio do Povo PenedoSó comia batatas e odiava despir-se em cena. A doença que marcou a vida de Robert Pattinson&nbsp;&nbsp;NiT New in TownRobert Pattinson revela seus",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSTNBb1BkQmk5MDJOeTFIOWotdlFZVnhfNjFzenhTeEtvaGREb3FuRHg5eGc5dUVLeW9sR01zMGNyc2NHaXRWZlRZTDF3Wjlob1BDaU9TV0t3UWJnMXg0bDdfd1RiQkgtQ3ZYaTNxSWtoUWFDSTl2dkxOYXplaEdMZFRDdW1Ca3hRSkJlQ216VTQyUHp6MlhTSXZmNUNtRjlDdmM4VWVzMEc0TFVuRTNqMEktM2M0bU53NEJVankxZ2E4TnhSck1nT25pQS1sSlhSN01hNDBWTU9aRFNVTEQyNDVR0gHwAUFVX3lxTE42bk1pSDJxQ0w2Rkg3bGMtY0o2S0pwYjBkNlA5WXViU1RyTVAxVHQxcGYwQzRndjFGdHdzdjZrb0RBTDNXNkFVUC1Fbkw2RGdudEdqa2cwOUctbk1ROVRzUDZTM0R5Yk1jNFZrTFYwRzkwdG5DQnFWSDREZDNkUVNzOXpUNjlMdEhiTHRFVl9zVk95VDJWMmphbUx0ZElTbFpoeWN1R2xUX2pweHJqZi05Uk1iS3p6Q2ltS29QaXVlS0FlMW02V1dManpmUTdHT0JWY01aTlVSVEtFVVJYbUxaMnhXNE9ZaDV6VVVfTmg2aw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9038bcea1e43",
+      "title": "Primeiro satélite brasileiro é o mais antigo do mundo em operação - A Tribuna",
+      "published": "2026-11-20T00:39:00+00:00",
+      "summary": "Primeiro satélite brasileiro é o mais antigo do mundo em operação&nbsp;&nbsp;A Tribuna",
+      "sources": [
+        {
+          "name": "A Tribuna",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQUxWeDVJWXBTNW9XM0syRndGOHBpVEZjUTV1c2Z5SExUZEFvMUpYakdKTURyaFZudUVXYWZUNktwVG9PTVNIYXdCTEoxWGg4NVVCTWtQc2JGa1dGdjI1QmNSMXRtM1lWWmItdVQxMnkyOVF0dW1UdEp3UGdvSzA0Y3ItNldMUG9XM1BsSjJheVJuNmJGU3ZyYUx0TlFtMHFuSnRyX0t2aVlwNGlNX19jNmE3MVNiY25aaXFLTUh3QUJMQQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "c6e1a6f230b2",
       "title": "Opinião - Andanças na metrópole: Landell de Moura, inventor do wireless, fez experimentos decisivos em São Paulo - Folha de S.Paulo",
@@ -21,7 +93,7 @@
       "id": "77d217ea659b",
       "title": "Alimentação: cinco formas surpreendentes de aumentar seus níveis de ferro sem depender da carne - BBC",
       "published": "2026-11-19T21:29:28+00:00",
-      "summary": "Alimentação: cinco formas surpreendentes de aumentar seus níveis de ferro sem depender da carne&nbsp;&nbsp;BBCDeficiência de ferro, a carência nutricional mais comum, passa despercebida em pessoas saudáveis&nbsp;&nbsp;Euronews.comOlheiras, queda de cabelo e cansaço: o que esses sinais podem revelar sobre sua saúde&nbsp;&nbsp;O GLOBOCansaço mesmo após dormir bem? 5 bebidas que ajudam a aumentar o ferro&nbsp;&nbsp;portalsbn.com.brAbsorção de ferro vegetal: saiba como potencializar o nutriente&nbsp",
+      "summary": "Alimentação: cinco formas surpreendentes de aumentar seus níveis de ferro sem depender da carne&nbsp;&nbsp;BBCAbsorção de ferro vegetal: saiba como potencializar o nutriente&nbsp;&nbsp;jornaluniao.com.brOlheiras, queda de cabelo e cansaço: o que esses sinais podem revelar sobre sua saúde&nbsp;&nbsp;O GLOBODeficiência de ferro, a carência nutricional mais comum, passa despercebida em pessoas saudáveis&nbsp;&nbsp;Euronews.comCansaço mesmo após dormir bem? 5 bebidas que ajudam a aumentar o ferro&nb",
       "sources": [
         {
           "name": "BBC",
@@ -30,26 +102,86 @@
       ]
     },
     {
-      "id": "24a874f47ea2",
-      "title": "São Paulo recebe mil doses da vacina contra a mpox; veja quem pode tomar - UOL Notícias",
-      "published": "2026-11-19T19:18:00+00:00",
-      "summary": "São Paulo recebe mil doses da vacina contra a mpox; veja quem pode tomar&nbsp;&nbsp;UOL NotíciasVeja mais manchetes e perspectivas no Google Notícias",
+      "id": "25cdea248f11",
+      "title": "Exame para rastreamento do câncer colorretal chega ao SUS em dezembro - Folha de S.Paulo",
+      "published": "2026-11-19T20:42:00+00:00",
+      "summary": "Exame para rastreamento do câncer colorretal chega ao SUS em dezembro&nbsp;&nbsp;Folha de S.PauloTeste para rastreamento de câncer de intestino começará em dezembro no SUS; veja quem poderá fazer&nbsp;&nbsp;EstadãoSaúde inicia envio de 400 mil testes de câncer de intestino ao SUS&nbsp;&nbsp;Poder360Câncer de intestino avança entre jovens e intriga pesquisadores&nbsp;&nbsp;Gente SeguradoraCom crescimento entre jovens, câncer colorretal tem avanços no rastreamento e desafios para o acesso&nbsp;&nb",
       "sources": [
         {
-          "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdmZMYnNEUER4ZHpPaDVEV28zNDlnSi10UXBmRDZXYVBLcExRTXlqaDI2R0FSQTRtR1FoRE9vVjhVTUtIRlFNdU11U3dVRWk0enExWE1xV295OTBLcWthNjNONmg5aHZ2X2o3TDA1N3BmajRmOWlDWFV3YmJGSkRjZ3llTGhwenZLeUE5cHNaMm00RGEwNXRYWDhXSjNKSHNZdUFpdW53QlgyS2ZaRF9CTXRaeEY4eFBzbWduNTgzUUVJeDM5RjBMQmx2U2JNWWNxMWJwT3o5Tll5OFU0RlNF?oc=5"
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdFVmVGtwVzBJMmFzczhKUGpYdzhzNTFJUURpR1NYZjhiTHh6SU1CTEdEaTU3SHVtVEJSMW9zYUtsV2ZVbFNldVBwa2VuNWJneUJ2aEtPZVVSSU9WLTRCaGtzYnoyaXp2aUZjY0FMblhTSll6dHlBOGhRcVdmcUNyVy1JeEFCRmJ3Q2tYWmk1VmJiRlpIWlRLbHhhQ2YwLXhlZHV2NG5tNC1maTFHYWtYb2FNYURqMDhSRzVSdUNaQWI?oc=5"
         }
       ]
     },
     {
-      "id": "49a3e794dab1",
-      "title": "Casos de Mpox dobram no Ceará em menos de uma semana e chegam a 175 registros - Diário do Nordeste",
-      "published": "2026-11-19T19:10:00+00:00",
-      "summary": "Casos de Mpox dobram no Ceará em menos de uma semana e chegam a 175 registros&nbsp;&nbsp;Diário do NordesteSobe para 175 o número de casos confirmados de MPOX no Ceará&nbsp;&nbsp;G1Quixeramobim registra dois casos suspeitos de Mpox&nbsp;&nbsp;Quixeramobim AgoraJuazeiro do Norte confirma dois casos de Mpox; Ceará chega a 85 registros da doença&nbsp;&nbsp;Ceará AgoraCeará chega a 85 casos confirmados de mpox em 2026; veja cidades&nbsp;&nbsp;O POVO",
+      "id": "ff2471ccb062",
+      "title": "Astrônomos veem estrela engolir sua companheira pela primeira vez - Olhar Digital",
+      "published": "2026-11-19T18:10:00+00:00",
+      "summary": "Astrônomos veem estrela engolir sua companheira pela primeira vez&nbsp;&nbsp;Olhar Digital",
       "sources": [
         {
-          "name": "Diário do Nordeste",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPemtwTFZfWTJSaExxTTJJMk9seUJCV3FLREJjdGl2Rko4OWg3WURGRGJuWVVRV3AwRlp6VjdJRHEydHhlUlQ4UXNwWHJGUlBncUR2MzVpY3phaG5LMHpBeTU2VkFrVExya2JGRmJLX1dMVnFjNWhQczFLZ2NybEVzbmJVNkZkSF9DaWY0VGNwYVI5UlFmZVFiZjRPUFlBc3VEZUdhYzJUYnJVemVPZlgwZjUyNm0wVkJYajVpNXBpRGhjdjFwbXhMTVM0NUt0ckNTUGdZ?oc=5"
+          "name": "Olhar Digital",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeElYVG1qeGxxWnR1bXUwaThhMEZQWkR4Q0gzV3o2MDJsM0lpVVNRZk5DOWNMMmJ0dW90aVI0RTk2Z0w1ZGVjelE1am15b2YzNU5mdE90SVIySHl6YkFtNF9BTm5ETFl6ZkRlSVk1Q1pCbHZJSGZsZnBTYmo4SUhoYWN0MUprZDdNZnRmb1JUbXMtdlB0Rlc5LUw2OGg3Z0poZVZJdmN3OWpGOGR4aDN0MTV0RmFURnc2UXVkS3NYdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "58577269b1c0",
+      "title": "Pequenos Cientistas, Grandes Descobertas: Embaixadores do Projeto \"Caçadores de Asteroides CBNB\" Detectam Possível Novo Asteroide - Força Aérea Brasileira",
+      "published": "2026-11-19T17:33:46+00:00",
+      "summary": "Pequenos Cientistas, Grandes Descobertas: Embaixadores do Projeto \"Caçadores de Asteroides CBNB\" Detectam Possível Novo Asteroide&nbsp;&nbsp;Força Aérea Brasileira",
+      "sources": [
+        {
+          "name": "Força Aérea Brasileira",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxObExHV0czNXBDdEZOS0ZqOXRNOUtnMm9yMnkxY1dYZFpJWTZzbGR5T2U3TlZzOTdhbW1qRjMtOTNub3Q1b0FkT3VTaHpfbG5GTi1ibTFOQ1hJNEhjTk9uNXFwTTAtcnB2aDRDVjZZRFNjVDlHWXJGcjBWbkw0VmxtTWlXelNmV1BHN3VNbllCUFRNNHRKbFBGc2VWUFJWUFAzSkVYUlNlYm4yTUxUZkhXbWpfVXdkZDZYc1BpZTlHak1LcmRUTGFldmhFVU43dFp2ZV8yWDBfakVPdU1EeVJwYWZKaE5RN1FEVXJVbFBFLW9hU2VzbmVUN3VRaGlVVXIzRktCNVJaZ1N0QTEz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c185d2626223",
+      "title": "Mpox Avança em São Paulo e Estado Recebe Novas Doses de Vacina; Veja os Grupos Prioritários - Forbes Brasil",
+      "published": "2026-11-19T16:46:49+00:00",
+      "summary": "Mpox Avança em São Paulo e Estado Recebe Novas Doses de Vacina; Veja os Grupos Prioritários&nbsp;&nbsp;Forbes BrasilBH amplia vacinação contra a mpox&nbsp;&nbsp;G1São Paulo recebe mil doses da vacina contra a mpox; veja quem pode tomar&nbsp;&nbsp;EstadãoBH inicia vacinação contra mpox para conter alta de casos&nbsp;&nbsp;SouBHPBH inicia vacinação contra mpox para grupos prioritários e imunização será ampliada nesta quinta-feira (19)&nbsp;&nbsp;Prefeitura de Belo Horizonte",
+      "sources": [
+        {
+          "name": "Forbes Brasil",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRmRUemF4aUp6SlRDMFVaT2U2S215dDNJbXhZcWgyek5hZk8wdkplTXdlaHBJYzJySERMZEJXVEFVdUxOZUc0aWFaMXI2TGtxVGxrNzloWnNYc0tISXh2WmxKZlVlMk01OTUtenNNVEdWNTZUbEotVGNfQnR1LVJZR09KUDJKT2ZMTDVuenl1cTBtb0NkcVFkMlBETkVKbklRazNNQWFFSWdPVDVJcjVpeE5yTk8xUkNCZ3N4Uk9MT1AtUk41N3A1a1UwcWNwV1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7ce094c5f0d9",
+      "title": "Viagra para Alzheimer? Remédio para disfunção erétil pode reduzir declínio em mais de 30% - Exame",
+      "published": "2026-11-19T16:16:36+00:00",
+      "summary": "Viagra para Alzheimer? Remédio para disfunção erétil pode reduzir declínio em mais de 30%&nbsp;&nbsp;Exame",
+      "sources": [
+        {
+          "name": "Exame",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV2NoYjFrTUZYQTFQVHJONWZ3ZjlkWm10VFFhTG16aGV6Zy1LWGFIN1dCSkFKaWt2YkFwS0Fwc2FfUC1PZVhqOVdpc0Utdmh2NDV4S21mQlh0Y1d6bk1FUVVDaUk2STN2SnZRc29FdnRkajlCOVFpM1lCa1NLb05EVHk0cTA4VW9NSjVaXzR6alRRckVXdE1sWGdLSUttNjhUVFZubnoyYVBjNE8tOXVZVkpXZmU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "706d5c770207",
+      "title": "Soluções Baseadas na Natureza ajudam a combater o calor extremo e os riscos climáticos nas cidades - Rádio Itatiaia",
+      "published": "2026-11-19T15:46:52+00:00",
+      "summary": "Soluções Baseadas na Natureza ajudam a combater o calor extremo e os riscos climáticos nas cidades&nbsp;&nbsp;Rádio Itatiaia",
+      "sources": [
+        {
+          "name": "Rádio Itatiaia",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPVzNkRWFWVTQ1SWljMnBQX2ZYcUlLaTRrSmg5RUE1eWZhUEd2d0pZN0hvSlZ1T3dTN1hPbTJyckIwTmk2b0NlZF9iYW4yX1FXeXBsZDYyOFQyUW1zby1NbE9ieEF4ZUlBMmlUQ3FRajRXRFZmSEd3QXd5TnVVUHFVOEFuOFR0dkEtNksyMXNpbjFsaTB5azAyWHZnUHBnWlpoZXR5aEpvTlotSTJ6Nk45ZDF1WGY3RTBkWFUzZWt5MmpkdVZESGhLQ2plbXdzcGg4cURGdXNHOVowYkpjeERONnBUZG4zbXRHWHNxd0dUU1N0WXpTTm9lQzdXYkJJa3hoMWh1UW93UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cb8aadc737dd",
+      "title": "Fungos zumbis são vegetarianos? Estudo na amazônia revela relação inesperada com plantas - Folha de S.Paulo",
+      "published": "2026-11-19T15:00:00+00:00",
+      "summary": "Fungos zumbis são vegetarianos? Estudo na amazônia revela relação inesperada com plantas&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ05qWG1BNGx0Rk1fam5ENGc3S0tRMG9qbThZRmgwd0VGX0NieGk1WHl5MV9UblZDQzZ0UnNadEdEd3kxc2plYzV0eC1ETkVJeHc0dGNKUDM5ZnBMTDZuOGJ0Um9CbkRVR24zTkJYbFdZRnJNWVJKMkkzRGFDeG52clFOQjIwcVVlMTlKOHgyRmFZcFdhcHZiYUQyMTltX0tlanEwa2J1RTNpYTdpQzRZeFlVaGdJaW1lWlZzODNBcVljYTlHdVNndnMxT05JUVpiVVR5YllB?oc=5"
         }
       ]
     },
@@ -69,7 +201,7 @@
       "id": "ee0a04a4f7bf",
       "title": "Pacientes com Mpox em Juiz de Fora têm histórico de viagens; um deles segue em isolamento - G1",
       "published": "2026-11-19T13:15:12+00:00",
-      "summary": "Pacientes com Mpox em Juiz de Fora têm histórico de viagens; um deles segue em isolamento&nbsp;&nbsp;G1Prefeitura de Montes Claros confirma primeiro caso de Mpox&nbsp;&nbsp;G1Divinópolis confirma dois casos de mpox e investiga outras duas suspeitas em 2026&nbsp;&nbsp;Portal UAIUPA revela detalhes do primeiro atendimento a paciente com mpox em Divinópolis&nbsp;&nbsp;DiviNews[RÁDIO] Mpox: Secretaria de Saúde intensifica monitoramento com foco na prevenção de casos da doença&nbsp;&nbsp;Agência Mina",
+      "summary": "Pacientes com Mpox em Juiz de Fora têm histórico de viagens; um deles segue em isolamento&nbsp;&nbsp;G1Paciente com Mpox em Juiz de Fora relata sintomas e isolamento: 'Achei que era dengue'&nbsp;&nbsp;G1Prefeitura de Unaí confirma caso de Mpox em jovem de 20 anos&nbsp;&nbsp;G1Divinópolis confirma dois casos de mpox e investiga outras duas suspeitas em 2026&nbsp;&nbsp;Portal UAIUPA revela detalhes do primeiro atendimento a paciente com mpox em Divinópolis&nbsp;&nbsp;DiviNews",
       "sources": [
         {
           "name": "G1",
@@ -78,10 +210,22 @@
       ]
     },
     {
+      "id": "7ff59cb4980d",
+      "title": "O teste inovador em que paciente engole esponja para detectar câncer - Folha de S.Paulo",
+      "published": "2026-11-19T13:13:00+00:00",
+      "summary": "O teste inovador em que paciente engole esponja para detectar câncer&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOG1PLTQ2TFFvdTBfU0Y0QVpEdzlkMlpUT2ZNSUJxTWt2RkQwRExyZHVrR3ZTZUd4eHBISVRaWXhxZzF2NUtMODFVMGZnOXBONXdRaTJZaVlFWlZGM2hKbVUzVHhzXy0zRVZDWTlXcllwRHY1UGZKZlNMRzd2U1RCLXhwNzJxbTR3bGRNSVh3SmI5T1RranpFRUtWWUh2YmhVVFZobll0eDNQOW1sQkdXODlLWWp5TlRxOG5IeFE2M2VCVnFsVE1ILQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "826d98ba7e78",
       "title": "Niterói registra 25 casos confirmados de mpox - A Tribuna RJ",
       "published": "2026-11-19T13:12:00+00:00",
-      "summary": "Niterói registra 25 casos confirmados de mpox&nbsp;&nbsp;A Tribuna RJMinistério da Saúde envia ao município do Rio mais mil frascos de vacina contra mpox&nbsp;&nbsp;GOV.BRVÍDEOS: DF1 de quarta-feira, 18 de novembro de 2026&nbsp;&nbsp;G1Vacinação conta Mpox é retomada no Rio. Veja quem pode vacinar&nbsp;&nbsp;VEJA RIOPalmas mantém vigilância e orienta população sobre a mpox&nbsp;&nbsp;Prefeitura de Palmas",
+      "summary": "Niterói registra 25 casos confirmados de mpox&nbsp;&nbsp;A Tribuna RJMinistério da Saúde envia ao município do Rio mais mil frascos de vacina contra mpox&nbsp;&nbsp;Governo FederalInfectologista fala sobre Mpox&nbsp;&nbsp;G1Vacinação conta Mpox é retomada no Rio. Veja quem pode vacinar&nbsp;&nbsp;VEJA RIOPalmas mantém vigilância e orienta população sobre a mpox&nbsp;&nbsp;Prefeitura de Palmas",
       "sources": [
         {
           "name": "A Tribuna RJ",
@@ -90,26 +234,14 @@
       ]
     },
     {
-      "id": "9bc39c9fa593",
-      "title": "Teste para rastreamento de câncer de intestino começará em dezembro no SUS; veja quem poderá fazer - Estadão",
-      "published": "2026-11-19T08:30:00+00:00",
-      "summary": "Teste para rastreamento de câncer de intestino começará em dezembro no SUS; veja quem poderá fazer&nbsp;&nbsp;EstadãoExame para rastreamento do câncer colorretal chega ao SUS em dezembro&nbsp;&nbsp;Folha de S.PauloCâncer de intestino avança entre jovens e intriga pesquisadores&nbsp;&nbsp;Gente SeguradoraSalvador está entre as capitais que receberão testes do SUS para rastreamento do câncer de intestino&nbsp;&nbsp;Rádio MetrópoleCom crescimento entre jovens, câncer colorretal tem avanços no rastr",
+      "id": "d8d52df6d18f",
+      "title": "UFPR tem 29 pesquisadores entre os 2% com maior impacto científico no mundo – Universidade Federal do Paraná - Universidade Federal do Paraná",
+      "published": "2026-11-19T10:55:00+00:00",
+      "summary": "UFPR tem 29 pesquisadores entre os 2% com maior impacto científico no mundo – Universidade Federal do Paraná&nbsp;&nbsp;Universidade Federal do Paraná",
       "sources": [
         {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQV1V5RDFicjJPNmZlS1ZqYVRfSGNSOWgyOHdlUGwza2RyeXNmWG1FZE1sSmRMbGd1RlE4eG5NelhUdmdSYzJHWXI4QmxBNkFab0lHRTVrSThlb3VEdFJ4UVZBdDd5VlFhcTBGY2FtZ21udHI1ZGgzUjF3MUt1Tm5hRC1Bb01tSnlMNkdRNUdCUjR3OTlWdG5oVmNjLU9jN0poeGQyNTR5dkVxQzVNdnJxNUpLTEtsNnFucEhFWWV1LWhFdnNEcmZCTEVSZUM0UXRMOEdJSjNhVl85VlJncjFaVXpOcUTSAeoBQVVfeXFMTlhtZVI5X2R1UnVtbGFNZlo4YU1aWmpkaGJhNl9EQW1tdXM3ZFVvczFDaFN4S01ZUDFzZVlVckNoM1JFNjVKMWRva1F6dU9KSmFtbkZsYlQ3LTBFOW1XM2FvWDd1cjIxTk83Q24xMjFya09xcVRfQkJSc0N4bFEyQ1pVclBUUXlXOE9YVlBHS3gzQzhkdjJtWnY0VnRwWTE2NFQ0Wk9ETld1U2UxN3NBYnFvMmdLZjQzdXlRTzZCWllBOFA5U0lnTnY1VlRRV1UyT2VHSlU1T3Z5Rm5Qc204RlFySXpqLW9yODVn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e463a4013c01",
-      "title": "O teste inovador em que paciente engole esponja para detectar câncer - G1",
-      "published": "2026-11-19T08:00:00+00:00",
-      "summary": "O teste inovador em que paciente engole esponja para detectar câncer&nbsp;&nbsp;G1Teste com esponja pode ajudar a diagnosticar câncer sem endoscopia&nbsp;&nbsp;R7NICE propõe ampliar teste com esponja para prevenir câncer de esôfago&nbsp;&nbsp;Afya | HomeNova cápsula identifica câncer de esôfago sem necessidade de endoscopia&nbsp;&nbsp;n3news.com.brTeste com esponja pode ajudar a detectar câncer de esôfago no Reino Unido&nbsp;&nbsp;Diário do Centro do Mundo",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUmJzWGpjdXk1Z2ZQSUNsejlUV0ZJMzd1ZE92WVMtUzhmVlU0MTYzQkV5SGtRdkx1eGlfNnFWRDdfVVI0Y2tKYnJKaWlBRTd6akpDLVMtc2h2aDNIRXZFNDZYaDBsdE1YcDdGTUwzalQ4TEtQZlF3OU1IbklQcHA0Zl8xRlFyT3VBTnhzdzdzQVl2TlY0TnJLUWZaT29UTENENFBkbVppa3lET0Z1bU1WTnNiSTRkSUZDeWM5aw?oc=5"
+          "name": "Universidade Federal do Paraná",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOS2dRZHpvdGZhNzFCcFJnWVBCdWxoLTB6dGZoT2lXaEhkNWxrdFZ6MFluVmxYeXhHdFBMdzFxaEdXMXZyMkNvSGtxWnJsemVVYkhOTllZa1FLT3I0VlBSU3MybkVZWkxhbEpGSjVtR3VEeHBBS213Z05sNE43ZTRmc3JTTzh6Qk53eTV5bGU2R2UtNE10T2c?oc=5"
         }
       ]
     },
@@ -129,7 +261,7 @@
       "id": "2225bea285aa",
       "title": "Saiba por que o câncer de pâncreas é tão letal e quais são os fatores de risco - Folha de S.Paulo",
       "published": "2026-11-19T07:00:00+00:00",
-      "summary": "Saiba por que o câncer de pâncreas é tão letal e quais são os fatores de risco&nbsp;&nbsp;Folha de S.PauloCâncer de pâncreas: a dificuldade do diagnóstico&nbsp;&nbsp;G1O que torna o cancro do pâncreas tão mortal?&nbsp;&nbsp;Correio da ManhãConheça os sintomas do câncer de pâncreas e o que é mito ou verdade&nbsp;&nbsp;viva.com.brFatores de risco que levam ao aumento do cancro do pâncreas&nbsp;&nbsp;Rádio Comercial",
+      "summary": "Saiba por que o câncer de pâncreas é tão letal e quais são os fatores de risco&nbsp;&nbsp;Folha de S.PauloCâncer de pâncreas: a dificuldade do diagnóstico&nbsp;&nbsp;G1Conheça os sintomas do câncer de pâncreas e o que é mito ou verdade&nbsp;&nbsp;viva.com.brSul tem as maiores taxas de câncer de pâncreas do país | SEGS Portal Nacional de Seguros, Saúde, Info,...&nbsp;&nbsp;SEGS Portal NacionalServiço de Gastrenterologia da ULS de Castelo Branco reforça o seu contributo no diagnóstico e tratamento",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -153,7 +285,7 @@
       "id": "6cba23988897",
       "title": "DPOC afeta 14 milhões de brasileiros e é a 5ª maior causa de morte no país - CNN Brasil",
       "published": "2026-11-19T00:01:03+00:00",
-      "summary": "DPOC afeta 14 milhões de brasileiros e é a 5ª maior causa de morte no país&nbsp;&nbsp;CNN BrasilTratamento de doença pulmonar crônica não chega à maioria dos acometidos&nbsp;&nbsp;Portal da Assembleia Legislativa de Minas GeraisDPOC: terapias triplas chegam ao SUS, mas acesso ainda é desigual&nbsp;&nbsp;Assine AbrilPrevenção e diagnóstico precoce&nbsp;&nbsp;O Xadrez da PolíticaFalta de ar e tosse persistente podem indicar doença pulmonar crônica&nbsp;&nbsp;Agência Brasília",
+      "summary": "DPOC afeta 14 milhões de brasileiros e é a 5ª maior causa de morte no país&nbsp;&nbsp;CNN BrasilTratamento de doença pulmonar crônica não chega à maioria dos acometidos&nbsp;&nbsp;Portal da Assembleia Legislativa de Minas GeraisDPOC: terapias triplas chegam ao SUS, mas acesso ainda é desigual&nbsp;&nbsp;Assine AbrilDoença Pulmonar Obstrutiva Crônica é a terceira principal causa de morte no mundo&nbsp;&nbsp;www.gov.brDoenças respiratórias crónicas: o impacto do inverno na DPOC&nbsp;&nbsp;Diário d",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -162,26 +294,14 @@
       ]
     },
     {
-      "id": "47a47c53cd52",
-      "title": "UFC tem 21 pesquisadores entre os cientistas mais influentes do mundo; veja quem são - O POVO",
-      "published": "2026-11-18T21:38:00+00:00",
-      "summary": "UFC tem 21 pesquisadores entre os cientistas mais influentes do mundo; veja quem são&nbsp;&nbsp;O POVO",
-      "sources": [
-        {
-          "name": "O POVO",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOEJpaVA1VDVPdzlBMndnNG04YkhOTjlqSjFyUU1OU2IxUnVaQ0htbEhJUV9wbnBxT3M4Q2FKZG1wdEdLQVRQVDlvVE1RV3Yycm50ZktfWmJXTW5MRkJrTWx6bzdXbkNoSzJlZUluYWVZVTJGZDhVSWdLNVVrRTJ4VG5hWmNDWHZseEt4d3ZjT0ZUSm1fX1lDcVFfUmp3OFMtcjhLS3VYR3FfWWNfV0w4V0tITHJQRTdXdDhYYm1Td2FXQ2NIZVg1eA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cb311069121a",
+      "id": "b3d7311e4e27",
       "title": "Catapora ou Mpox? Médica explica diferença após casos suspeitos em Lagoa do PI - CidadeVerde.com",
       "published": "2026-11-18T21:00:00+00:00",
-      "summary": "Catapora ou Mpox? Médica explica diferença após casos suspeitos em Lagoa do PI&nbsp;&nbsp;CidadeVerde.comCatapora em Lagoa do Piauí: exame confirma que adolescente está com varicela&nbsp;&nbsp;G1Prefeitura de Lagoa do Piauí confirma caso de varicela e reforça medidas preventivas&nbsp;&nbsp;180grausApós surto de catapora no Piauí, Teresina convoca público para vacinação infantil&nbsp;&nbsp;Portal O DiaEscola suspende aulas após cinco alunos apresentarem sintomas suspeitos de catapora no Piauí&nbs",
+      "summary": "Catapora ou Mpox? Médica explica diferença após casos suspeitos em Lagoa do PI&nbsp;&nbsp;CidadeVerde.comSuspeita de Mpox foi descartada: catapora é confirmada em estudante de Lagoa do Piauí&nbsp;&nbsp;G1Catapora: FMS reforça a importância da vacina após confirmação de casos no PI&nbsp;&nbsp;CidadeVerde.comPrefeitura de Lagoa do Piauí confirma caso de varicela e reforça medidas preventivas&nbsp;&nbsp;180grausEscola fecha e suspende as aulas após surgimento de casos suspeitos de Mpox e Catapora&n",
       "sources": [
         {
           "name": "CidadeVerde.com",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMDR0VGhyb2RKeEp1M1k5S0xUOEdZTU1WWWsweFFvdWQwU3RPTnB5WGkzSGd1RnlXaDQ0Q3hIejZZSDEyRTgxaTgydmk3QlN2SHRoMnhCb0VfalV0QTIzXzRjN0lJaTlocUlGTnM0SUs2ZTcxUHh1WGpSeHJSNDg0cm55SFRRNktLVEhQaHd2b0o4ZGdXRzV4eXdMa1BtdEFYU0IxQ1RENW1xWi1kZFdCYjFYTW0?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcVlZN0pMVkFZdGlPQjZJaGZZV2dncEwxQll3VFllNlVHQVFrd2dhcVUwMGlvNDFaSUxqQ3ZWRGVzSFdNaGJNdTl6eEZZb1ZxQWFwTFFsTXEzZzZueU5teHc3VWxJbGR1LWFPWnlMbS1KcTZ1eFE3V1JkajJYczlkdU5QYlNMaUhjeF9ZekZlTFpWX3R4U25GdWpoSnIzUk0zcGRob0U3dm5BVEp5bFdRM2FTV1NTRDg?oc=5"
         }
       ]
     },
@@ -198,34 +318,10 @@
       ]
     },
     {
-      "id": "42305e52f5ad",
-      "title": "Fungos zumbis são vegetarianos? Estudo na Amazônia revela relação inesperada com plantas - BBC",
-      "published": "2026-11-18T19:48:38+00:00",
-      "summary": "Fungos zumbis são vegetarianos? Estudo na Amazônia revela relação inesperada com plantas&nbsp;&nbsp;BBC",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9uY3BPcWVRVnM1Zm5wclBobXZMQWRYbkVMN0t2ZkJtb1MybExVNFR4NDFFQ2FVVEJvUkp0WHFnYXJ0UkVOX3VZVDJVcnFlb3RSeEJDRlVnaEl0a1ozbDBGYUh1VdIBaEFVX3lxTE5nNGpkQ012dElMUnZmX0N3aEVBUy1jUjExVkFILWJnYWltQ2xTalQzZmd5MjlFbTRxZEpwTzh0SThFUjRXTkpidnd5ZEphbzNndVM4MlBWa0ZDQjY2bWwybjFMTl9seU1B?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "72ba2befa405",
-      "title": "Inglesa faz quimioterapia por 11 anos após diagnóstico errado de câncer - UOL Notícias",
-      "published": "2026-11-18T18:54:30+00:00",
-      "summary": "Inglesa faz quimioterapia por 11 anos após diagnóstico errado de câncer&nbsp;&nbsp;UOL NotíciasMulher passa 11 anos fazendo quimioterapia após médico errar diagnóstico de câncer cerebral&nbsp;&nbsp;Misturebas NewsInglesa faz quimioterapia por 11 anos após diagnóstico errado de câncer cerebral&nbsp;&nbsp;Diário do Centro do MundoMulher recebe diagnóstico errado de câncer cerebral e faz quimioterapia por 11 anos&nbsp;&nbsp;NSC TotalPacientes recebem quimioterapia indevida por anos em hospital brit",
-      "sources": [
-        {
-          "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZ1BKM1o5MXNCRDRJa2VrR2hNalowRm9FZzg5MUlDM3N4cU9qNm9MQVJELUotNnFlUmpJdEZ6Zk9NSXJwMm1JQXJSV3hLNGNiQnpiX1ltYTZuXzN3enR2TnB0OFBGdHFvTWhNT0l1R2V3VERXdzZNWnJlTm5fMHYzSUl3LVZVNU1ZTVhaVWI1b2htSUFYai0yaEt6OUtFX25Icy1rejl4a0xaYzFjSGE3QXgyXzZyUDc4YmdEZjFQQ0xtQ0FLWWNfZTBSNlQyMVpK?oc=5"
-        }
-      ]
-    },
-    {
       "id": "dbef3a0b1f02",
       "title": "Nova alta de Covid-19 no Brasil muda perfil de sintomas e infectologista orienta sobre quando testar e como agir - CBDL",
       "published": "2026-11-18T18:51:51+00:00",
-      "summary": "Nova alta de Covid-19 no Brasil muda perfil de sintomas e infectologista orienta sobre quando testar e como agir&nbsp;&nbsp;CBDLAumento de casos de Covid faz soar alerta sobre necessidade de vacinação&nbsp;&nbsp;O GLOBOA covid no Brasil em 2026, segundo uma infectologista&nbsp;&nbsp;Nexo JornalCasos de Covid-19: saiba quais são os riscos e como se prevenir&nbsp;&nbsp;Notícias - Canção NovaCovid-19: casos graves voltam a subir no Brasil; veja onde estão em alta&nbsp;&nbsp;Exame",
+      "summary": "Nova alta de Covid-19 no Brasil muda perfil de sintomas e infectologista orienta sobre quando testar e como agir&nbsp;&nbsp;CBDLCasos de covid crescem no Brasil mesmo com vacina sobrando&nbsp;&nbsp;DW.comFiocruz alerta para aumento de casos graves de síndrome respiratória em Mato Grosso&nbsp;&nbsp;G1A covid no Brasil em 2026, segundo uma infectologista&nbsp;&nbsp;Nexo JornalAumento dos casos de covid-19: o que é preciso saber&nbsp;&nbsp;Notícias - Canção Nova",
       "sources": [
         {
           "name": "CBDL",
@@ -234,22 +330,10 @@
       ]
     },
     {
-      "id": "6e3335cc14e6",
-      "title": "Caso de mpox é confirmado em paciente atendido em Cabo Frio - G1",
-      "published": "2026-11-18T16:57:19+00:00",
-      "summary": "Caso de mpox é confirmado em paciente atendido em Cabo Frio&nbsp;&nbsp;G1TCE-RJ rejeita contas de Francimara e suas Implicações&nbsp;&nbsp;Diário da GuanabaraPrefeitura de Cabo Frio confirma atendimento a paciente com Mpox; caso é de morador de outra cidade&nbsp;&nbsp;O Diário 24HCampos confirma caso de mpox. Conheça os sintomas, como ocorre a transmissão e onde procurar atendimento médico no município.&nbsp;&nbsp;www.portalviu.com.brBúzios não registrou nenhum caso confirmado de Mpox; município",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb01SQkl4RnNJejhsTDI5T0pLN0drdDhGOUwtVXlJeFVrWWItV2FjYXRSZTAxbWxiZHNKYWFiWW5wc1g2emNQcHdYV1d4b05ScFdOSjNVZDdTQmpMYVFuWUoybms5ZjRsNkpwNVZEbkgzQ3pQc1JvcjZLRUtOZGhvWUlNaVluMlM1V096UEhmNEZSX3lnOHBaT1NGNHhlSVNqeUlGMUhTdWRvVVJUREJSbzJVWUZ6U2daN29yTV9wRERzWEXSAdIBQVVfeXFMTThfZHNYai1fOWJITjMyR3RmRm1MSU44MEs1YmF5dkowbHBReExFcDlMTC1Sa2M5MVpCc0ZBTFhRSXk3Y3dsbjdFQkJCYU11a1VJVkd5cENVV19QVjhrdEdvV0dLbkQ5ZnN0MXJSOUEwcF81OVFrelA0SHJab3h2X3hrbU1reHh2R1o1UFpJWmlobHhKTEh5SEd0VVlfSjlqM0ZqTWVLc2o2YVlVUzZURDlHNERqMjdheFVGclhHb3lwdVdfcFJ3TTcyT3NNdmZ5NS1R?oc=5"
-        }
-      ]
-    },
-    {
       "id": "20462109d0ad",
       "title": "Neurocirurgião alerta para 3 sintomas que antecedem um AVC que podem ser sinais de alerta: 'as tonturas não são normais' - O GLOBO",
       "published": "2026-11-18T13:56:08+00:00",
-      "summary": "Neurocirurgião alerta para 3 sintomas que antecedem um AVC que podem ser sinais de alerta: 'as tonturas não são normais'&nbsp;&nbsp;O GLOBOCada minuto conta: Unimed Araraquara promove ação de conscientização e prevenção ao AVC neste domingo&nbsp;&nbsp;Araraquara NewsIctus antes dos 50 anos: por que preocupa o aumento na Espanha e quais são os sinais de alerta que você não deve ignorar&nbsp;&nbsp;DemócrataAVC exige ação imediata para salvar vidas e reduzir incapacidade&nbsp;&nbsp;Biored BrasilSof",
+      "summary": "Neurocirurgião alerta para 3 sintomas que antecedem um AVC que podem ser sinais de alerta: 'as tonturas não são normais'&nbsp;&nbsp;O GLOBOInfarto, AVC e aneurisma: saiba identificar os sinais&nbsp;&nbsp;Imagem da IlhaIctus antes dos 50 anos: por que preocupa o aumento na Espanha e quais são os sinais de alerta que você não deve ignorar&nbsp;&nbsp;DemócrataInfarto e AVC avançam entre adultos jovens e acende alerta para fatores de risco silenciosos | SEGS...&nbsp;&nbsp;SEGS Portal NacionalAVC exi",
       "sources": [
         {
           "name": "O GLOBO",
@@ -270,14 +354,14 @@
       ]
     },
     {
-      "id": "17723d5f90da",
-      "title": "Carlos Madeiro: País recebe seus primeiros computadores quânticos na PB; para que servem? - UOL Notícias",
-      "published": "2026-11-18T08:30:00+00:00",
-      "summary": "Carlos Madeiro: País recebe seus primeiros computadores quânticos na PB; para que servem?&nbsp;&nbsp;UOL Notícias",
+      "id": "ce17e02b29bd",
+      "title": "Médicos compartilham experiências com agonistas do GLP-1 no transtorno por uso de álcool - Medscape",
+      "published": "2026-11-18T11:21:16+00:00",
+      "summary": "Médicos compartilham experiências com agonistas do GLP-1 no transtorno por uso de álcool&nbsp;&nbsp;Medscape",
       "sources": [
         {
-          "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQ0VzSlBETWxpVjlEcE1IZmNPVW1nSmFqOGthdktHLVlwWmdRZUlEX1FxY3AwdmFtbXJCVkRKS0NYb2ZKQ2FIU290WlNCdmxsVmdWNGFXRDVYN1pySk5HaTNCbzZlMkZPbm9uYWI2NzR4cE14TUxfR3g4Z2RoTWNUV1RYQzFULU1WX3JPYjRCRWZhQ1pMRnRhZnM3WElRWWk4UTdHeDFoQWxHTWtDME5HN25TUzdGNFV4VGo5NUpLdU9rYnVJd3JxdllwSXZzRnk1X01kSENB?oc=5"
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZllJN25DU204c3AtY21hQ1FWM0xkcGRmZ2VmYm9VVTJlX3FRNEhfYmp3N1F5dXpxclFSeWJMUXdUcm5FTHhyNnEtNktmZERmbzdoUXhpWmZfYlk0Vl9OQ1hkSlFxQm9pSG1pU1UtWjRTOUZwZGJVYmtOU1M5TWlPeExVNmZaMjFoR2ZVYU1ObU1ZQ05vWDU2Uk81MzcxY000OGRRZHA1b0otczNxRkU5eFdpd0NUWGs?oc=5"
         }
       ]
     },
@@ -285,11 +369,23 @@
       "id": "64519b95d9f5",
       "title": "Toque retal ainda é opção para detectar câncer de próstata, mas nova diretriz dá prioridade ao PSA e à ressonância - G1",
       "published": "2026-11-18T06:00:00+00:00",
-      "summary": "Toque retal ainda é opção para detectar câncer de próstata, mas nova diretriz dá prioridade ao PSA e à ressonância&nbsp;&nbsp;G1Primeira diretriz conjunta sobre câncer de próstata orienta rastreamento aos 50 anos&nbsp;&nbsp;Folha de S.PauloDo acompanhamento sem cirurgia à pesquisa clínica: as decisões no câncer de próstata&nbsp;&nbsp;EstadãoPSA alto nem sempre significa câncer de próstata: entenda o que pode alterar o exame&nbsp;&nbsp;SuperinteressantePrefeitura de Manaus promove palestra e refo",
+      "summary": "Toque retal ainda é opção para detectar câncer de próstata, mas nova diretriz dá prioridade ao PSA e à ressonância&nbsp;&nbsp;G1Do acompanhamento sem cirurgia à pesquisa clínica: as decisões no câncer de próstata&nbsp;&nbsp;EstadãoPrimeira diretriz conjunta sobre câncer de próstata orienta rastreamento aos 50 anos&nbsp;&nbsp;Folha de S.PauloPSA alto nem sempre significa câncer de próstata: entenda o que pode alterar o exame&nbsp;&nbsp;SuperinteressanteUso da genética para o diagnóstico precoce d",
       "sources": [
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVHZPUTFhTXVSU3g4dUt0NmlvSW9NQ1hsbVM1SXRpQWwzdUFqSlZzWHNnNzdyM0h6UnR0bnA4dkpiYVdnRm5aMHhRaFdCV1paSENNak1OcmVUV3ZON2JocGdNaWh2NWhaTTQ2X2k5ZC1TU2RFUmU5dWZ3dC0wMFV5UmFDQ25uN0VlTndXMEgxZWNUY1JNV2ZWeWhrUXFfN3Q5TFJKVW51UmVOZGxnZEREVzBLdEdxcm9VUWhOSmJnUnBEemtUQldIazdvY0RoQk5JY3pQMGNsUUpQdUJEY3EzVTBqR2FJVElQNTBheG90WnBPdFRnSU5kbdIBhwJBVV95cUxPcnF0UGJMLW5FTmhhVlVtWHhWczBweDNManVicUdLazk3aWZLYXRTZ25naGcwLXQtZG9NTVpaV1NsZ1pTRkRXeDQ5Q0luUUxQX3J3a0VjcmxRWG5wbFVycFJIVFRkOURyWlFnQlg4Y3JBaTNDUU9xMlYwSjhGWlRZdjZvS0otaXVuV0o2aF9TckczaG5JTHFabDVkNmhNbnZYZzgxTUk2ajNwVWgyV242Ym9qUDBzbFNoRFN5Y0djNUFKUnZyRXp2cGdfeFZUSk5zUkpWamR0V2gzWXhjWDVUZnpqWmpqbXRlMEZsTEJTWWJPbXlQZnM0RVUxUzRhcVg1WjY4bUN5dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a4299758630f",
+      "title": "Estudo identifica padrões de linguagem ligados a traços de psicopatia - CNN Brasil",
+      "published": "2026-11-18T00:58:11+00:00",
+      "summary": "Estudo identifica padrões de linguagem ligados a traços de psicopatia&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM29HNmhqSEwxcS04NzAwcVFFalVJbDVpZlNZb2dMdzJoYTZxdUV3MUZVdWpwa0ZtWUxad0htV2d3NUZJa2NkdXdwTzM2T0xwT2kxMzNGLUI2RXBFVXRKWGVkOUNZa3JPQWR0RjVzQjUtUGZaczJ5NHE0MWs5SmZVdFlWNjBkU3REUnRjejhUNW5Yb2swNWY3WmtHbjE2S1k1cURzNUtuVUc?oc=5"
         }
       ]
     },
@@ -321,7 +417,7 @@
       "id": "88916a96241f",
       "title": "EUA perdem status de país livre do sarampo após 26 anos; entenda o que significa e como o país chegou até aqui - G1",
       "published": "2026-11-17T10:39:51+00:00",
-      "summary": "EUA perdem status de país livre do sarampo após 26 anos; entenda o que significa e como o país chegou até aqui&nbsp;&nbsp;G1Como o vírus do sarampo apaga a imunidade contra outras doenças&nbsp;&nbsp;Folha de S.PauloSarampo: EUA confirmam 10º morte e mais de 5,7 mil infectados no pior surto da doença em três décadas&nbsp;&nbsp;O GLOBOBrasil mantém status de país livre da circulação do sarampo pela OPAS&nbsp;&nbsp;Agência BrasilEspecialistas discutem barreira vacinal após avanço do sarampo nas Amé",
+      "summary": "EUA perdem status de país livre do sarampo após 26 anos; entenda o que significa e como o país chegou até aqui&nbsp;&nbsp;G1Estados Unidos perdem certificado de eliminação do sarampo: um retrocesso histórico&nbsp;&nbsp;O GLOBOCasos de sarampo nos EUA se aproximam da marca de 6 mil&nbsp;&nbsp;Agência BrasilSarampo bate recorde na Geórgia, nos EUA, e já registra o triplo de casos de 2025&nbsp;&nbsp;UOL NotíciasEspecialistas discutem barreira vacinal após avanço do sarampo nas Américas&nbsp;&nbsp;E",
       "sources": [
         {
           "name": "G1",
@@ -333,11 +429,23 @@
       "id": "878d36cc4c73",
       "title": "Calvície: cientistas criam pente elétrico para fazer o cabelo crescer - O GLOBO",
       "published": "2026-11-16T11:30:49+00:00",
-      "summary": "Calvície: cientistas criam pente elétrico para fazer o cabelo crescer&nbsp;&nbsp;O GLOBOFim da calvície? Pente elétrico criado na China promete estimular crescimento capilar, mas dermatologista recomenda cautela&nbsp;&nbsp;Jornal OpçãoCientistas criam pente que combate a calvície e ajuda cabelo a crescer&nbsp;&nbsp;Notícias ao MinutoCientistas desenvolvem pente elétrico experimental que estimula o crescimento capilar&nbsp;&nbsp;Rede AtlântidaCientistas desenvolvem pente elétrico contra calvície ",
+      "summary": "Calvície: cientistas criam pente elétrico para fazer o cabelo crescer&nbsp;&nbsp;O GLOBOCientistas desenvolvem pente elétrico experimental que estimula o crescimento capilar&nbsp;&nbsp;Rede AtlântidaCientistas criam pente que combate a calvície e ajuda cabelo a crescer&nbsp;&nbsp;Notícias ao MinutoAdeus à calvície? Cientistas criam pente elétrico que promete recuperar quase 100% do cabelo&nbsp;&nbsp;Men's HealthCientistas desenvolvem pente elétrico contra calvície melhor que minoxidil&nbsp;&nbsp",
       "sources": [
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRUZsakRxQk11aXhnQ0ZwSXRXNnplbEp3YXMtT051Ul81OEJfS2luVHR5N0stNWM4QmtWczJUWW9faFNCWWtzckl1MUdmLUtyRnNlTzV4WW80eUFoc1BtMi1LbWItcGo5TllMNTNNWlpXTGRaWExKZ0h1aVVjdnRuN0FqOG9tWC1mRjFSOEluWkdQQV9SamJxaF9nY1NFeks1cGYtTUhHaWRGOHJlQ0lOUk1pV1ZxUzZrYVdYYng5UE1oQdIB0AFBVV95cUxNdUhPRUNFVzhseFpoZnQyTjJYOTBFdFlJZmczdU1tcnVPVDNSOHZMQk81UTZfNEp3OHUzN0xPT0ZkaFFnUV9PODdnWjdDWUhzM0RKTktBTC1hTWtMcGZ6dnk1OG5Kclp3SkpQWElhSTREeGF5OGRUajdaSkJuMFZLOVV1elBrTmR0MmdMc2dOMVZEVkRuUnVybS03WE5oaEIyeXhZb3pYdXVVV04yaUdoSC1jVnRfUFZWZVFwUl96RVBWQW1COU8zWnFBT1BfUzl2?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b637051a7f3d",
+      "title": "Beber café regularmente pode alterar o funcionamento do sistema digestivo; entenda - O GLOBO",
+      "published": "2026-11-16T07:30:00+00:00",
+      "summary": "Beber café regularmente pode alterar o funcionamento do sistema digestivo; entenda&nbsp;&nbsp;O GLOBOTomar café todos os dias pode mudar o seu intestino, aponta a ciência; entenda como&nbsp;&nbsp;Rádio ItatiaiaQuem toma café tem até 8 vezes mais de uma bactéria intestinal específica, aponta estudo&nbsp;&nbsp;Correio BrazilienseVocê bebe muito café? Consumo da bebida queridinha dos brasileiros pode provocar mudanças impressionantes no…&nbsp;&nbsp;Bnews61 voluntários, 9 dias e cápsulas eletrônicas",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNamVLS1dkTjdzRmtjQnY1MVpFWmRROUN5UURzVVlvRE5tdlVuZzdhUzhfbHA1UWttUEYyeHpOVWZnU2FtUV92TzF0RXJuUmVlVHlTOGdYMEVHLTAzWENsYTJ4a25iMkN4NVJ2VnI3NFBTeVRyN1ZyZVBiQW5NVU5nSHpRNjdWZHBaMHRfcWtMNlFPSVVTU1dRVVR5eG12bVZFd05lSnl4QnNkN2lac093RmsxY2d3WFBUb3ZEWVkzWWdldGRlMF93endqamxSdVkySHBv0gHiAUFVX3lxTE4yeHpudjR1b1VrVXRSZjlMaGlJdUFlTWhTd0VEUDJQREVzRXR2ODd0TnN3Z0wxSWtCTVp1Z3VPMENNWUhyOVQxcTVQTmlkbnpBLWRhYWlzb0tKdy1fMFhWSE9QWW9JZEszUzZEdC1HaGJxTUNKSUFDWE92LVM0MklHYlk1aF9leEdwMTJkSFRjQXNRbW1yNWNUOGs4cmxmX21PR3pfeVZrSWtQV3lCdWRxU1d3WUhlMk93N1ZuYktNQnpVd2FUMm5jNF82RTg0ZVNTMlRCRWkwX0xRNFBlemNjWEE?oc=5"
         }
       ]
     }

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Vancomycin?">
-<strong>Vancomycin</strong> tem atualmente <strong>78 notícias</strong> e 10 indicações previstas.
+<strong>Vancomycin</strong> tem atualmente <strong>80 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ Esta página combina as indicações previstas por IA para Vancomycin com as not
 <p><a href="{{ '/drugs/vancomycin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (78)
+## Notícias relacionadas (80)
+
+### [Exame para rastreamento do câncer colorretal chega ao SUS em dezembro - Folha de S.Paulo](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdFVmVGtwVzBJMmFzczhKUGpYdzhzNTFJUURpR1NYZjhiTHh6SU1CTEdEaTU3SHVtVEJSMW9zYUtsV2ZVbFNldVBwa2VuNWJneUJ2aEtPZVVSSU9WLTRCaGtzYnoyaXp2aUZjY0FMblhTSll6dHlBOGhRcVdmcUNyVy1JeEFCRmJ3Q2tYWmk1VmJiRlpIWlRLbHhhQ2YwLXhlZHV2NG5tNC1maTFHYWtYb2FNYURqMDhSRzVSdUNaQWI?oc=5)
+
+2026-11-19 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Folha de S.Paulo](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdFVmVGtwVzBJMmFzczhKUGpYdzhzNTFJUURpR1NYZjhiTHh6SU1CTEdEaTU3SHVtVEJSMW9zYUtsV2ZVbFNldVBwa2VuNWJneUJ2aEtPZVVSSU9WLTRCaGtzYnoyaXp2aUZjY0FMblhTSll6dHlBOGhRcVdmcUNyVy1JeEFCRmJ3Q2tYWmk1VmJiRlpIWlRLbHhhQ2YwLXhlZHV2NG5tNC1maTFHYWtYb2FNYURqMDhSRzVSdUNaQWI?oc=5)
+
+---
+
+### [O teste inovador em que paciente engole esponja para detectar câncer - Folha de S.Paulo](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOG1PLTQ2TFFvdTBfU0Y0QVpEdzlkMlpUT2ZNSUJxTWt2RkQwRExyZHVrR3ZTZUd4eHBISVRaWXhxZzF2NUtMODFVMGZnOXBONXdRaTJZaVlFWlZGM2hKbVUzVHhzXy0zRVZDWTlXcllwRHY1UGZKZlNMRzd2U1RCLXhwNzJxbTR3bGRNSVh3SmI5T1RranpFRUtWWUh2YmhVVFZobll0eDNQOW1sQkdXODlLWWp5TlRxOG5IeFE2M2VCVnFsVE1ILQ?oc=5)
+
+2026-11-19 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Folha de S.Paulo](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOG1PLTQ2TFFvdTBfU0Y0QVpEdzlkMlpUT2ZNSUJxTWt2RkQwRExyZHVrR3ZTZUd4eHBISVRaWXhxZzF2NUtMODFVMGZnOXBONXdRaTJZaVlFWlZGM2hKbVUzVHhzXy0zRVZDWTlXcllwRHY1UGZKZlNMRzd2U1RCLXhwNzJxbTR3bGRNSVh3SmI5T1RranpFRUtWWUh2YmhVVFZobll0eDNQOW1sQkdXODlLWWp5TlRxOG5IeFE2M2VCVnFsVE1ILQ?oc=5)
+
+---
 
 ### [Teste para rastreamento de câncer de intestino começará em dezembro no SUS; veja quem poderá fazer](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQV1V5RDFicjJPNmZlS1ZqYVRfSGNSOWgyOHdlUGwza2RyeXNmWG1FZE1sSmRMbGd1RlE4eG5NelhUdmdSYzJHWXI4QmxBNkFab0lHRTVrSThlb3VEdFJ4UVZBdDd5VlFhcTBGY2FtZ21udHI1ZGgzUjF3MUt1Tm5hRC1Bb01tSnlMNkdRNUdCUjR3OTlWdG5oVmNjLU9jN0poeGQyNTR5dkVxQzVNdnJxNUpLTEtsNnFucEhFWWV1LWhFdnNEcmZCTEVSZUM0UXRMOEdJSjNhVl85VlJncjFaVXpOcUTSAeoBQVVfeXFMTlhtZVI5X2R1UnVtbGFNZlo4YU1aWmpkaGJhNl9EQW1tdXM3ZFVvczFDaFN4S01ZUDFzZVlVckNoM1JFNjVKMWRva1F6dU9KSmFtbkZsYlQ3LTBFOW1XM2FvWDd1cjIxTk83Q24xMjFya09xcVRfQkJSc0N4bFEyQ1pVclBUUXlXOE9YVlBHS3gzQzhkdjJtWnY0VnRwWTE2NFQ0Wk9ETld1U2UxN3NBYnFvMmdLZjQzdXlRTzZCWllBOFA5U0lnTnY1VlRRV1UyT2VHSlU1T3Z5Rm5Qc204RlFySXpqLW9yODVn?oc=5)
 

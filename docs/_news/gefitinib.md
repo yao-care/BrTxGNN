@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Gefitinib?">
-<strong>Gefitinib</strong> tem atualmente <strong>96 notícias</strong> e 9 indicações previstas.
+<strong>Gefitinib</strong> tem atualmente <strong>98 notícias</strong> e 9 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,29 @@ Esta página combina as indicações previstas por IA para Gefitinib com as not�
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (96)
+## Notícias relacionadas (98)
+
+### [Exame para rastreamento do câncer colorretal chega ao SUS em dezembro - Folha de S.Paulo](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdFVmVGtwVzBJMmFzczhKUGpYdzhzNTFJUURpR1NYZjhiTHh6SU1CTEdEaTU3SHVtVEJSMW9zYUtsV2ZVbFNldVBwa2VuNWJneUJ2aEtPZVVSSU9WLTRCaGtzYnoyaXp2aUZjY0FMblhTSll6dHlBOGhRcVdmcUNyVy1JeEFCRmJ3Q2tYWmk1VmJiRlpIWlRLbHhhQ2YwLXhlZHV2NG5tNC1maTFHYWtYb2FNYURqMDhSRzVSdUNaQWI?oc=5)
+
+2026-11-19 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Folha de S.Paulo](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdFVmVGtwVzBJMmFzczhKUGpYdzhzNTFJUURpR1NYZjhiTHh6SU1CTEdEaTU3SHVtVEJSMW9zYUtsV2ZVbFNldVBwa2VuNWJneUJ2aEtPZVVSSU9WLTRCaGtzYnoyaXp2aUZjY0FMblhTSll6dHlBOGhRcVdmcUNyVy1JeEFCRmJ3Q2tYWmk1VmJiRlpIWlRLbHhhQ2YwLXhlZHV2NG5tNC1maTFHYWtYb2FNYURqMDhSRzVSdUNaQWI?oc=5)
+
+---
 
 ### [Infecções por herpes são ligadas a um risco quase 50% maior de Alzheimer ou demência, aponta estudo; entenda - O GLOBO](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNM0dBMGVoLUtRTzlmNjRoMzN0cUlXQkVDRlgwVVdZWUxzU0k4TlBEZXBweExtNE5CS1lReVJzNTVoYzJ6SmVGbGVoNlFaX3RwbkwzdWlQZ3kwcHBJakRzeTFtdnB6X2gtck50YXc0aUpwY1F1MnVBbmlrd3dOU3AxNHhWczlBT205Q0VlOEJETU1reVFBWG04dkpkSGR6MVN0VUdNVmg4T1pORkVjc1pzTjcxM3JhWjdYcU5KT2x5ZTZYNGpOTTNPS3ZRWGxJbnE0OC05bnhyZEtKWFNncFBwcEFwR01oekUxTzhYb0hQMHVoeGtlU2xCQnA4UWXSAYsCQVVfeXFMT3hXQ2xtUGZDdUFpUGpvc1pCNG8tQmJDQS1xYVo1SUZEb1J3dGl2S3dHb0pVSUZIYVdhVU9Hb1lYYk1OTV9BZTN0RFdSYlVhbWhXaWVUcENzRnZ0MFVudUVCWkF5WVdtT0JtZk5iR1NUM1FBMFhHeTJEczY5bWgyQ2xnNFVCbnJWRWZGUVdSUmp6eDVmU2lkRDktYW5OZVFnMXkxYllOYjFnaVg3bkZySVJVV3FiajByWThxYUpRRXNtWm5LeC1yNnRlY01FWjNIUXVXY0o0dE1VUWRZQk5iV0x0dlJJMGxGaXBTMEZ4WDkwdmhIcmJOdXBwMTlZY3R5TkdSVFgzSDRUSktj?oc=5)
 
 2026-11-19 <span class="news-indication-tag">demência</span>
 
 Fonte: [O GLOBO](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNM0dBMGVoLUtRTzlmNjRoMzN0cUlXQkVDRlgwVVdZWUxzU0k4TlBEZXBweExtNE5CS1lReVJzNTVoYzJ6SmVGbGVoNlFaX3RwbkwzdWlQZ3kwcHBJakRzeTFtdnB6X2gtck50YXc0aUpwY1F1MnVBbmlrd3dOU3AxNHhWczlBT205Q0VlOEJETU1reVFBWG04dkpkSGR6MVN0VUdNVmg4T1pORkVjc1pzTjcxM3JhWjdYcU5KT2x5ZTZYNGpOTTNPS3ZRWGxJbnE0OC05bnhyZEtKWFNncFBwcEFwR01oekUxTzhYb0hQMHVoeGtlU2xCQnA4UWXSAYsCQVVfeXFMT3hXQ2xtUGZDdUFpUGpvc1pCNG8tQmJDQS1xYVo1SUZEb1J3dGl2S3dHb0pVSUZIYVdhVU9Hb1lYYk1OTV9BZTN0RFdSYlVhbWhXaWVUcENzRnZ0MFVudUVCWkF5WVdtT0JtZk5iR1NUM1FBMFhHeTJEczY5bWgyQ2xnNFVCbnJWRWZGUVdSUmp6eDVmU2lkRDktYW5OZVFnMXkxYllOYjFnaVg3bkZySVJVV3FiajByWThxYUpRRXNtWm5LeC1yNnRlY01FWjNIUXVXY0o0dE1VUWRZQk5iV0x0dlJJMGxGaXBTMEZ4WDkwdmhIcmJOdXBwMTlZY3R5TkdSVFgzSDRUSktj?oc=5)
+
+---
+
+### [O teste inovador em que paciente engole esponja para detectar câncer - Folha de S.Paulo](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOG1PLTQ2TFFvdTBfU0Y0QVpEdzlkMlpUT2ZNSUJxTWt2RkQwRExyZHVrR3ZTZUd4eHBISVRaWXhxZzF2NUtMODFVMGZnOXBONXdRaTJZaVlFWlZGM2hKbVUzVHhzXy0zRVZDWTlXcllwRHY1UGZKZlNMRzd2U1RCLXhwNzJxbTR3bGRNSVh3SmI5T1RranpFRUtWWUh2YmhVVFZobll0eDNQOW1sQkdXODlLWWp5TlRxOG5IeFE2M2VCVnFsVE1ILQ?oc=5)
+
+2026-11-19 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Folha de S.Paulo](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOG1PLTQ2TFFvdTBfU0Y0QVpEdzlkMlpUT2ZNSUJxTWt2RkQwRExyZHVrR3ZTZUd4eHBISVRaWXhxZzF2NUtMODFVMGZnOXBONXdRaTJZaVlFWlZGM2hKbVUzVHhzXy0zRVZDWTlXcllwRHY1UGZKZlNMRzd2U1RCLXhwNzJxbTR3bGRNSVh3SmI5T1RranpFRUtWWUh2YmhVVFZobll0eDNQOW1sQkdXODlLWWp5TlRxOG5IeFE2M2VCVnFsVE1ILQ?oc=5)
 
 ---
 
