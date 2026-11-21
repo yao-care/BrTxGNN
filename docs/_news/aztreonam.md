@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Aztreonam. 10 indicações previstas."
 permalink: /news/aztreonam/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-21
 ---
 
 # Notícias sobre Aztreonam
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Aztreonam?">
-<strong>Aztreonam</strong> tem atualmente <strong>77 notícias</strong> e 10 indicações previstas.
+<strong>Aztreonam</strong> tem atualmente <strong>81 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,45 @@ Esta página combina as indicações previstas por IA para Aztreonam com as not�
 <p><a href="{{ '/drugs/aztreonam/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (77)
+## Notícias relacionadas (81)
+
+### [Novembro Azul: novo protocolo muda orientação para diagnóstico precoce do câncer de próstata](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQk91d1lvYnoyQUlFRl9RTWwyX0hKOTBzSzVScVVLa2w5dUI4Y1FfMkVXSzJaTXI5OVBNZmRRQWduNXRTYW5UNUZPRWtPcUpZM1d1N2NpczM0YkhDRzJsM0szaUpkZ3JyZF9uNi04NFVneWhiWllPTEZfck1aemlBMW1xMHF3ZlBKaXpVaUoyakVkMWNTeWJSeGtsaU15YlE4V25INy1yX1I0akdXSFpTQWdsVHJHZHRodHBEQzE3ZWxtdGlYcDJYVllXOHdlUGZmM2ZSbE1YUUhBOXMtdENLRnNja09IdXVF0gH3AUFVX3lxTFBvNV9WVnVkOEpHN00wbXk4V0NBOGRNLVpXckVMZFdBWG5Cb29XX0I5UWRRN2dPYzE4RnVwWWxfUTJqM1RPQVVGZGpzNlNKWWw5cTkxQ2hvYk5YZm5iYjg4Ylh3eVpra2daOTJZTnJNa1Zoa2xpZ0hYelB0Mngyc3VEYmpDSEdwQjdoeGZWbUpudF9vVFRxZ0hRdkQza0VTVVdkYVVFWTRzOGluLXUtSjFIOE42djFILUlILVBMM0UyRkFBNFh1VldRZlFzcG5JbnpUbXR2SzZRNFpnT2Zkb3RpVXZrdC1McjZpOVo1SDRkSWJXWnN4LVk?oc=5)
+
+2026-11-21 <span class="news-indication-tag">câncer</span>
+
+Fonte: [G1](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQk91d1lvYnoyQUlFRl9RTWwyX0hKOTBzSzVScVVLa2w5dUI4Y1FfMkVXSzJaTXI5OVBNZmRRQWduNXRTYW5UNUZPRWtPcUpZM1d1N2NpczM0YkhDRzJsM0szaUpkZ3JyZF9uNi04NFVneWhiWllPTEZfck1aemlBMW1xMHF3ZlBKaXpVaUoyakVkMWNTeWJSeGtsaU15YlE4V25INy1yX1I0akdXSFpTQWdsVHJHZHRodHBEQzE3ZWxtdGlYcDJYVllXOHdlUGZmM2ZSbE1YUUhBOXMtdENLRnNja09IdXVF0gH3AUFVX3lxTFBvNV9WVnVkOEpHN00wbXk4V0NBOGRNLVpXckVMZFdBWG5Cb29XX0I5UWRRN2dPYzE4RnVwWWxfUTJqM1RPQVVGZGpzNlNKWWw5cTkxQ2hvYk5YZm5iYjg4Ylh3eVpra2daOTJZTnJNa1Zoa2xpZ0hYelB0Mngyc3VEYmpDSEdwQjdoeGZWbUpudF9vVFRxZ0hRdkQza0VTVVdkYVVFWTRzOGluLXUtSjFIOE42djFILUlILVBMM0UyRkFBNFh1VldRZlFzcG5JbnpUbXR2SzZRNFpnT2Zkb3RpVXZrdC1McjZpOVo1SDRkSWJXWnN4LVk?oc=5)
+
+---
+
+### [Exame para rastreamento do câncer colorretal chega ao SUS em dezembro - Folha de S.Paulo](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdFVmVGtwVzBJMmFzczhKUGpYdzhzNTFJUURpR1NYZjhiTHh6SU1CTEdEaTU3SHVtVEJSMW9zYUtsV2ZVbFNldVBwa2VuNWJneUJ2aEtPZVVSSU9WLTRCaGtzYnoyaXp2aUZjY0FMblhTSll6dHlBOGhRcVdmcUNyVy1JeEFCRmJ3Q2tYWmk1VmJiRlpIWlRLbHhhQ2YwLXhlZHV2NG5tNC1maTFHYWtYb2FNYURqMDhSRzVSdUNaQWI?oc=5)
+
+2026-11-19 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Folha de S.Paulo](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdFVmVGtwVzBJMmFzczhKUGpYdzhzNTFJUURpR1NYZjhiTHh6SU1CTEdEaTU3SHVtVEJSMW9zYUtsV2ZVbFNldVBwa2VuNWJneUJ2aEtPZVVSSU9WLTRCaGtzYnoyaXp2aUZjY0FMblhTSll6dHlBOGhRcVdmcUNyVy1JeEFCRmJ3Q2tYWmk1VmJiRlpIWlRLbHhhQ2YwLXhlZHV2NG5tNC1maTFHYWtYb2FNYURqMDhSRzVSdUNaQWI?oc=5)
+
+---
+
+### [O teste inovador em que paciente engole esponja para detectar câncer - Folha de S.Paulo](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOG1PLTQ2TFFvdTBfU0Y0QVpEdzlkMlpUT2ZNSUJxTWt2RkQwRExyZHVrR3ZTZUd4eHBISVRaWXhxZzF2NUtMODFVMGZnOXBONXdRaTJZaVlFWlZGM2hKbVUzVHhzXy0zRVZDWTlXcllwRHY1UGZKZlNMRzd2U1RCLXhwNzJxbTR3bGRNSVh3SmI5T1RranpFRUtWWUh2YmhVVFZobll0eDNQOW1sQkdXODlLWWp5TlRxOG5IeFE2M2VCVnFsVE1ILQ?oc=5)
+
+2026-11-19 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Folha de S.Paulo](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOG1PLTQ2TFFvdTBfU0Y0QVpEdzlkMlpUT2ZNSUJxTWt2RkQwRExyZHVrR3ZTZUd4eHBISVRaWXhxZzF2NUtMODFVMGZnOXBONXdRaTJZaVlFWlZGM2hKbVUzVHhzXy0zRVZDWTlXcllwRHY1UGZKZlNMRzd2U1RCLXhwNzJxbTR3bGRNSVh3SmI5T1RranpFRUtWWUh2YmhVVFZobll0eDNQOW1sQkdXODlLWWp5TlRxOG5IeFE2M2VCVnFsVE1ILQ?oc=5)
+
+---
 
 ### [Teste para rastreamento de câncer de intestino começará em dezembro no SUS; veja quem poderá fazer](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQV1V5RDFicjJPNmZlS1ZqYVRfSGNSOWgyOHdlUGwza2RyeXNmWG1FZE1sSmRMbGd1RlE4eG5NelhUdmdSYzJHWXI4QmxBNkFab0lHRTVrSThlb3VEdFJ4UVZBdDd5VlFhcTBGY2FtZ21udHI1ZGgzUjF3MUt1Tm5hRC1Bb01tSnlMNkdRNUdCUjR3OTlWdG5oVmNjLU9jN0poeGQyNTR5dkVxQzVNdnJxNUpLTEtsNnFucEhFWWV1LWhFdnNEcmZCTEVSZUM0UXRMOEdJSjNhVl85VlJncjFaVXpOcUTSAeoBQVVfeXFMTlhtZVI5X2R1UnVtbGFNZlo4YU1aWmpkaGJhNl9EQW1tdXM3ZFVvczFDaFN4S01ZUDFzZVlVckNoM1JFNjVKMWRva1F6dU9KSmFtbkZsYlQ3LTBFOW1XM2FvWDd1cjIxTk83Q24xMjFya09xcVRfQkJSc0N4bFEyQ1pVclBUUXlXOE9YVlBHS3gzQzhkdjJtWnY0VnRwWTE2NFQ0Wk9ETld1U2UxN3NBYnFvMmdLZjQzdXlRTzZCWllBOFA5U0lnTnY1VlRRV1UyT2VHSlU1T3Z5Rm5Qc204RlFySXpqLW9yODVn?oc=5)
 
 2026-11-19 <span class="news-indication-tag">câncer</span>
 
 Fonte: [Estadão](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQV1V5RDFicjJPNmZlS1ZqYVRfSGNSOWgyOHdlUGwza2RyeXNmWG1FZE1sSmRMbGd1RlE4eG5NelhUdmdSYzJHWXI4QmxBNkFab0lHRTVrSThlb3VEdFJ4UVZBdDd5VlFhcTBGY2FtZ21udHI1ZGgzUjF3MUt1Tm5hRC1Bb01tSnlMNkdRNUdCUjR3OTlWdG5oVmNjLU9jN0poeGQyNTR5dkVxQzVNdnJxNUpLTEtsNnFucEhFWWV1LWhFdnNEcmZCTEVSZUM0UXRMOEdJSjNhVl85VlJncjFaVXpOcUTSAeoBQVVfeXFMTlhtZVI5X2R1UnVtbGFNZlo4YU1aWmpkaGJhNl9EQW1tdXM3ZFVvczFDaFN4S01ZUDFzZVlVckNoM1JFNjVKMWRva1F6dU9KSmFtbkZsYlQ3LTBFOW1XM2FvWDd1cjIxTk83Q24xMjFya09xcVRfQkJSc0N4bFEyQ1pVclBUUXlXOE9YVlBHS3gzQzhkdjJtWnY0VnRwWTE2NFQ0Wk9ETld1U2UxN3NBYnFvMmdLZjQzdXlRTzZCWllBOFA5U0lnTnY1VlRRV1UyT2VHSlU1T3Z5Rm5Qc204RlFySXpqLW9yODVn?oc=5)
+
+---
+
+### [O teste inovador em que paciente engole esponja para detectar câncer](https://news.google.com/rss/articles/CBMivAFBVV95cUxQUmJzWGpjdXk1Z2ZQSUNsejlUV0ZJMzd1ZE92WVMtUzhmVlU0MTYzQkV5SGtRdkx1eGlfNnFWRDdfVVI0Y2tKYnJKaWlBRTd6akpDLVMtc2h2aDNIRXZFNDZYaDBsdE1YcDdGTUwzalQ4TEtQZlF3OU1IbklQcHA0Zl8xRlFyT3VBTnhzdzdzQVl2TlY0TnJLUWZaT29UTENENFBkbVppa3lET0Z1bU1WTnNiSTRkSUZDeWM5aw?oc=5)
+
+2026-11-19 <span class="news-indication-tag">câncer</span>
+
+Fonte: [G1](https://news.google.com/rss/articles/CBMivAFBVV95cUxQUmJzWGpjdXk1Z2ZQSUNsejlUV0ZJMzd1ZE92WVMtUzhmVlU0MTYzQkV5SGtRdkx1eGlfNnFWRDdfVVI0Y2tKYnJKaWlBRTd6akpDLVMtc2h2aDNIRXZFNDZYaDBsdE1YcDdGTUwzalQ4TEtQZlF3OU1IbklQcHA0Zl8xRlFyT3VBTnhzdzdzQVl2TlY0TnJLUWZaT29UTENENFBkbVppa3lET0Z1bU1WTnNiSTRkSUZDeWM5aw?oc=5)
 
 ---
 

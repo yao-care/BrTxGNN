@@ -3,9 +3,9 @@ layout: default
 title: "Notícias sobre demência (dementia)"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre demência (dementia). 17 notícias, 4 medicamentos relacionados."
+description: "Notícias de saúde sobre demência (dementia). 18 notícias, 4 medicamentos relacionados."
 permalink: /news/dementia/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-20
 ---
 
 # Notícias sobre demência (dementia)
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre demência (dementia)?">
-<strong>demência (dementia)</strong> tem atualmente <strong>17 notícias</strong> e 4 medicamentos relacionados.
+<strong>demência (dementia)</strong> tem atualmente <strong>18 notícias</strong> e 4 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ Esta página reúne as notícias de saúde mais recentes sobre «demência» e l
 </ul>
 </div>
 
-## Notícias relacionadas (17)
+## Notícias relacionadas (18)
+
+### [Infecções por herpes são ligadas a um risco quase 50% maior de Alzheimer ou demência, aponta estudo; entenda - O GLOBO](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNM0dBMGVoLUtRTzlmNjRoMzN0cUlXQkVDRlgwVVdZWUxzU0k4TlBEZXBweExtNE5CS1lReVJzNTVoYzJ6SmVGbGVoNlFaX3RwbkwzdWlQZ3kwcHBJakRzeTFtdnB6X2gtck50YXc0aUpwY1F1MnVBbmlrd3dOU3AxNHhWczlBT205Q0VlOEJETU1reVFBWG04dkpkSGR6MVN0VUdNVmg4T1pORkVjc1pzTjcxM3JhWjdYcU5KT2x5ZTZYNGpOTTNPS3ZRWGxJbnE0OC05bnhyZEtKWFNncFBwcEFwR01oekUxTzhYb0hQMHVoeGtlU2xCQnA4UWXSAYsCQVVfeXFMT3hXQ2xtUGZDdUFpUGpvc1pCNG8tQmJDQS1xYVo1SUZEb1J3dGl2S3dHb0pVSUZIYVdhVU9Hb1lYYk1OTV9BZTN0RFdSYlVhbWhXaWVUcENzRnZ0MFVudUVCWkF5WVdtT0JtZk5iR1NUM1FBMFhHeTJEczY5bWgyQ2xnNFVCbnJWRWZGUVdSUmp6eDVmU2lkRDktYW5OZVFnMXkxYllOYjFnaVg3bkZySVJVV3FiajByWThxYUpRRXNtWm5LeC1yNnRlY01FWjNIUXVXY0o0dE1VUWRZQk5iV0x0dlJJMGxGaXBTMEZ4WDkwdmhIcmJOdXBwMTlZY3R5TkdSVFgzSDRUSktj?oc=5)
+
+2026-11-19
+
+Fonte: [O GLOBO](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNM0dBMGVoLUtRTzlmNjRoMzN0cUlXQkVDRlgwVVdZWUxzU0k4TlBEZXBweExtNE5CS1lReVJzNTVoYzJ6SmVGbGVoNlFaX3RwbkwzdWlQZ3kwcHBJakRzeTFtdnB6X2gtck50YXc0aUpwY1F1MnVBbmlrd3dOU3AxNHhWczlBT205Q0VlOEJETU1reVFBWG04dkpkSGR6MVN0VUdNVmg4T1pORkVjc1pzTjcxM3JhWjdYcU5KT2x5ZTZYNGpOTTNPS3ZRWGxJbnE0OC05bnhyZEtKWFNncFBwcEFwR01oekUxTzhYb0hQMHVoeGtlU2xCQnA4UWXSAYsCQVVfeXFMT3hXQ2xtUGZDdUFpUGpvc1pCNG8tQmJDQS1xYVo1SUZEb1J3dGl2S3dHb0pVSUZIYVdhVU9Hb1lYYk1OTV9BZTN0RFdSYlVhbWhXaWVUcENzRnZ0MFVudUVCWkF5WVdtT0JtZk5iR1NUM1FBMFhHeTJEczY5bWgyQ2xnNFVCbnJWRWZGUVdSUmp6eDVmU2lkRDktYW5OZVFnMXkxYllOYjFnaVg3bkZySVJVV3FiajByWThxYUpRRXNtWm5LeC1yNnRlY01FWjNIUXVXY0o0dE1VUWRZQk5iV0x0dlJJMGxGaXBTMEZ4WDkwdmhIcmJOdXBwMTlZY3R5TkdSVFgzSDRUSktj?oc=5)
+
+---
 
 ### [Mudanças sutis na fala podem ajudar a prever o risco de demência](https://news.google.com/rss/articles/CBMitAFBVV95cUxOaWZLUzYxZWR4aHZEVzVBZmhhaXRhN0h6WTd0SEh2aG5rcXcwbHJ6VHdwalI5Ui1UMlBoTEJTYXJzbUttRGI4ckp4bEdRRzJiTUhyRGZJY1hhSzFQS2Q2MEM3eUphVTIybVRrUVFIVkFQVV9YS2pnZ3paRkNvSnAxQzJjbWNCUmUzS3RQMlYyc01ad3M4S3ZmWHVWbm5SN0VDZHRoT3BMQ3ZoYWEwZHltOFNQOTA?oc=5)
 

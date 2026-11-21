@@ -3,9 +3,9 @@ layout: default
 title: "Notícias sobre menopausa (menopause)"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre menopausa (menopause). 6 notícias, 14 medicamentos relacionados."
+description: "Notícias de saúde sobre menopausa (menopause). 8 notícias, 14 medicamentos relacionados."
 permalink: /news/menopause/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-21
 ---
 
 # Notícias sobre menopausa (menopause)
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre menopausa (menopause)?">
-<strong>menopausa (menopause)</strong> tem atualmente <strong>6 notícias</strong> e 14 medicamentos relacionados.
+<strong>menopausa (menopause)</strong> tem atualmente <strong>8 notícias</strong> e 14 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ Esta página reúne as notícias de saúde mais recentes sobre «menopausa» e l
 </ul>
 </div>
 
-## Notícias relacionadas (6)
+## Notícias relacionadas (8)
+
+### [Menopausa masculina existe? O que é a andropausa e quando tratar](https://news.google.com/rss/articles/CBMilAFBVV95cUxNUXAyV2ZPcWRpcGdSXzVwbkZVc01hcWppR2UweW93TjFDemlwbE9mZjUydUI1MVoxWERJSEFRRkY1Smd5QmxpSGFrYWszMjU1VFFRYjVrX0Q2RzNsYWE5MGlKMXBNY0pPVlVFbjl0WkNmMi1oakd3d3hzQUpNWlZia2VjSWZGRDE1QzJZR1Rub00xbExD?oc=5)
+
+2026-11-20
+
+Fonte: [Exame](https://news.google.com/rss/articles/CBMilAFBVV95cUxNUXAyV2ZPcWRpcGdSXzVwbkZVc01hcWppR2UweW93TjFDemlwbE9mZjUydUI1MVoxWERJSEFRRkY1Smd5QmxpSGFrYWszMjU1VFFRYjVrX0Q2RzNsYWE5MGlKMXBNY0pPVlVFbjl0WkNmMi1oakd3d3hzQUpNWlZia2VjSWZGRDE1QzJZR1Rub00xbExD?oc=5)
+
+---
+
+### [Desigualdade racial pode agravar sintomas da menopausa em mulheres negras - Folha de S.Paulo](https://news.google.com/rss/articles/CBMizwFBVV95cUxPZTNMRmVCbWlkd1U2ckZic05qR29YZFJKQVBnaEo4NUd6MlBBTjhBMng5bXdLQlUwM3lXU3lDUVlKb09zRkU2U2FlTHliSGpDODd3TmUxSlE2bVV0cjRWS1VYRmVoWWY1ZU5OQ2txR1IwY0FCS0phSG9Xd1BPX0NNdk8wbFAyM2hUZGhjR0k2bW15dkRRbnFGdUdDa3hCQ2JEd3JKSWQ1Xy1LRkdycEpFWHpBZG9vclo5R1NyV2p5UkoxRDhvNXZnVU1Ud2V2Uk0?oc=5)
+
+2026-11-20
+
+Fonte: [Folha de S.Paulo](https://news.google.com/rss/articles/CBMizwFBVV95cUxPZTNMRmVCbWlkd1U2ckZic05qR29YZFJKQVBnaEo4NUd6MlBBTjhBMng5bXdLQlUwM3lXU3lDUVlKb09zRkU2U2FlTHliSGpDODd3TmUxSlE2bVV0cjRWS1VYRmVoWWY1ZU5OQ2txR1IwY0FCS0phSG9Xd1BPX0NNdk8wbFAyM2hUZGhjR0k2bW15dkRRbnFGdUdDa3hCQ2JEd3JKSWQ1Xy1LRkdycEpFWHpBZG9vclo5R1NyV2p5UkoxRDhvNXZnVU1Ud2V2Uk0?oc=5)
+
+---
 
 ### ['Dois terços dos casos de Alzheimer são em mulheres', alerta neurocientista](https://news.google.com/rss/articles/CBMiugFBVV95cUxPaTdhUFViazlydVhtdmZ5WUp1TktwOGgxWGdTX3FqNUZ0Qmtlck5IdjlBbkt4OUdVQUtiVHJMTnR6V3J0Mi1DOE9YMUxMNTc3OVlaczA0RW82VEpxOXN3elRGUm83X0otWC1VRWJiMWg4Sk43cTRfZWJJQVBVc1h1bUV0aHdxb1QzMU9DekNrY0ZKVGphbVJkY25NU3p0blludm9QMmh1akZLTk9FZ29teENidDN0SHg3Snc?oc=5)
 
