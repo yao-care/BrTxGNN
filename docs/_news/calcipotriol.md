@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com CALCIPOTRIOL. 10 indicações previstas."
 permalink: /news/calcipotriol/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-21
 ---
 
 # Notícias sobre CALCIPOTRIOL
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre CALCIPOTRIOL?">
-<strong>CALCIPOTRIOL</strong> tem atualmente <strong>86 notícias</strong> e 10 indicações previstas.
+<strong>CALCIPOTRIOL</strong> tem atualmente <strong>89 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,31 @@ Esta página combina as indicações previstas por IA para CALCIPOTRIOL com as n
 <p><a href="{{ '/drugs/calcipotriol/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (86)
+## Notícias relacionadas (89)
+
+### [Novembro Azul: novo protocolo muda orientação para diagnóstico precoce do câncer de próstata](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQk91d1lvYnoyQUlFRl9RTWwyX0hKOTBzSzVScVVLa2w5dUI4Y1FfMkVXSzJaTXI5OVBNZmRRQWduNXRTYW5UNUZPRWtPcUpZM1d1N2NpczM0YkhDRzJsM0szaUpkZ3JyZF9uNi04NFVneWhiWllPTEZfck1aemlBMW1xMHF3ZlBKaXpVaUoyakVkMWNTeWJSeGtsaU15YlE4V25INy1yX1I0akdXSFpTQWdsVHJHZHRodHBEQzE3ZWxtdGlYcDJYVllXOHdlUGZmM2ZSbE1YUUhBOXMtdENLRnNja09IdXVF0gH3AUFVX3lxTFBvNV9WVnVkOEpHN00wbXk4V0NBOGRNLVpXckVMZFdBWG5Cb29XX0I5UWRRN2dPYzE4RnVwWWxfUTJqM1RPQVVGZGpzNlNKWWw5cTkxQ2hvYk5YZm5iYjg4Ylh3eVpra2daOTJZTnJNa1Zoa2xpZ0hYelB0Mngyc3VEYmpDSEdwQjdoeGZWbUpudF9vVFRxZ0hRdkQza0VTVVdkYVVFWTRzOGluLXUtSjFIOE42djFILUlILVBMM0UyRkFBNFh1VldRZlFzcG5JbnpUbXR2SzZRNFpnT2Zkb3RpVXZrdC1McjZpOVo1SDRkSWJXWnN4LVk?oc=5)
+
+2026-11-21 <span class="news-indication-tag">câncer</span>
+
+Fonte: [G1](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQk91d1lvYnoyQUlFRl9RTWwyX0hKOTBzSzVScVVLa2w5dUI4Y1FfMkVXSzJaTXI5OVBNZmRRQWduNXRTYW5UNUZPRWtPcUpZM1d1N2NpczM0YkhDRzJsM0szaUpkZ3JyZF9uNi04NFVneWhiWllPTEZfck1aemlBMW1xMHF3ZlBKaXpVaUoyakVkMWNTeWJSeGtsaU15YlE4V25INy1yX1I0akdXSFpTQWdsVHJHZHRodHBEQzE3ZWxtdGlYcDJYVllXOHdlUGZmM2ZSbE1YUUhBOXMtdENLRnNja09IdXVF0gH3AUFVX3lxTFBvNV9WVnVkOEpHN00wbXk4V0NBOGRNLVpXckVMZFdBWG5Cb29XX0I5UWRRN2dPYzE4RnVwWWxfUTJqM1RPQVVGZGpzNlNKWWw5cTkxQ2hvYk5YZm5iYjg4Ylh3eVpra2daOTJZTnJNa1Zoa2xpZ0hYelB0Mngyc3VEYmpDSEdwQjdoeGZWbUpudF9vVFRxZ0hRdkQza0VTVVdkYVVFWTRzOGluLXUtSjFIOE42djFILUlILVBMM0UyRkFBNFh1VldRZlFzcG5JbnpUbXR2SzZRNFpnT2Zkb3RpVXZrdC1McjZpOVo1SDRkSWJXWnN4LVk?oc=5)
+
+---
+
+### [Menopausa masculina existe? O que é a andropausa e quando tratar](https://news.google.com/rss/articles/CBMilAFBVV95cUxNUXAyV2ZPcWRpcGdSXzVwbkZVc01hcWppR2UweW93TjFDemlwbE9mZjUydUI1MVoxWERJSEFRRkY1Smd5QmxpSGFrYWszMjU1VFFRYjVrX0Q2RzNsYWE5MGlKMXBNY0pPVlVFbjl0WkNmMi1oakd3d3hzQUpNWlZia2VjSWZGRDE1QzJZR1Rub00xbExD?oc=5)
+
+2026-11-20 <span class="news-indication-tag">menopausa</span>
+
+Fonte: [Exame](https://news.google.com/rss/articles/CBMilAFBVV95cUxNUXAyV2ZPcWRpcGdSXzVwbkZVc01hcWppR2UweW93TjFDemlwbE9mZjUydUI1MVoxWERJSEFRRkY1Smd5QmxpSGFrYWszMjU1VFFRYjVrX0Q2RzNsYWE5MGlKMXBNY0pPVlVFbjl0WkNmMi1oakd3d3hzQUpNWlZia2VjSWZGRDE1QzJZR1Rub00xbExD?oc=5)
+
+---
+
+### [Desigualdade racial pode agravar sintomas da menopausa em mulheres negras - Folha de S.Paulo](https://news.google.com/rss/articles/CBMizwFBVV95cUxPZTNMRmVCbWlkd1U2ckZic05qR29YZFJKQVBnaEo4NUd6MlBBTjhBMng5bXdLQlUwM3lXU3lDUVlKb09zRkU2U2FlTHliSGpDODd3TmUxSlE2bVV0cjRWS1VYRmVoWWY1ZU5OQ2txR1IwY0FCS0phSG9Xd1BPX0NNdk8wbFAyM2hUZGhjR0k2bW15dkRRbnFGdUdDa3hCQ2JEd3JKSWQ1Xy1LRkdycEpFWHpBZG9vclo5R1NyV2p5UkoxRDhvNXZnVU1Ud2V2Uk0?oc=5)
+
+2026-11-20 <span class="news-indication-tag">menopausa</span>
+
+Fonte: [Folha de S.Paulo](https://news.google.com/rss/articles/CBMizwFBVV95cUxPZTNMRmVCbWlkd1U2ckZic05qR29YZFJKQVBnaEo4NUd6MlBBTjhBMng5bXdLQlUwM3lXU3lDUVlKb09zRkU2U2FlTHliSGpDODd3TmUxSlE2bVV0cjRWS1VYRmVoWWY1ZU5OQ2txR1IwY0FCS0phSG9Xd1BPX0NNdk8wbFAyM2hUZGhjR0k2bW15dkRRbnFGdUdDa3hCQ2JEd3JKSWQ1Xy1LRkdycEpFWHpBZG9vclo5R1NyV2p5UkoxRDhvNXZnVU1Ud2V2Uk0?oc=5)
+
+---
 
 ### [Exame para rastreamento do câncer colorretal chega ao SUS em dezembro - Folha de S.Paulo](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdFVmVGtwVzBJMmFzczhKUGpYdzhzNTFJUURpR1NYZjhiTHh6SU1CTEdEaTU3SHVtVEJSMW9zYUtsV2ZVbFNldVBwa2VuNWJneUJ2aEtPZVVSSU9WLTRCaGtzYnoyaXp2aUZjY0FMblhTSll6dHlBOGhRcVdmcUNyVy1JeEFCRmJ3Q2tYWmk1VmJiRlpIWlRLbHhhQ2YwLXhlZHV2NG5tNC1maTFHYWtYb2FNYURqMDhSRzVSdUNaQWI?oc=5)
 
