@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Doxorubicin?">
-<strong>Doxorubicin</strong> tem atualmente <strong>81 notícias</strong> e 8 indicações previstas.
+<strong>Doxorubicin</strong> tem atualmente <strong>82 notícias</strong> e 8 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ Esta página combina as indicações previstas por IA para Doxorubicin com as no
 <p><a href="{{ '/drugs/doxorubicin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (81)
+## Notícias relacionadas (82)
+
+### [“Um susto enorme”: aos 63, homem sem sintomas descobre câncer de próstata](https://news.google.com/rss/articles/CBMipAFBVV95cUxON3NDT0dhOGdBc19NUDBndkVFdHNRcmxBWUJhekg0NjlqOXplRVpyOU9JcXpKSF9DQlBwWEYxVnhTWmJTQWpMNVp3RFFqYVBrdTZQTlhvWFhpUnU1dWJPV3FIdDdlMWVYM05paktxMnQ5OEZ0UVdHWHhnYktRTHdoa0RFNllKVFM3QjFMRVRHMDljbzFRVGs0WXFBblByV0ZhOGdFbQ?oc=5)
+
+2026-11-21 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Metrópoles](https://news.google.com/rss/articles/CBMipAFBVV95cUxON3NDT0dhOGdBc19NUDBndkVFdHNRcmxBWUJhekg0NjlqOXplRVpyOU9JcXpKSF9DQlBwWEYxVnhTWmJTQWpMNVp3RFFqYVBrdTZQTlhvWFhpUnU1dWJPV3FIdDdlMWVYM05paktxMnQ5OEZ0UVdHWHhnYktRTHdoa0RFNllKVFM3QjFMRVRHMDljbzFRVGs0WXFBblByV0ZhOGdFbQ?oc=5)
+
+---
 
 ### [Novembro Azul: novo protocolo muda orientação para diagnóstico precoce do câncer de próstata](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQk91d1lvYnoyQUlFRl9RTWwyX0hKOTBzSzVScVVLa2w5dUI4Y1FfMkVXSzJaTXI5OVBNZmRRQWduNXRTYW5UNUZPRWtPcUpZM1d1N2NpczM0YkhDRzJsM0szaUpkZ3JyZF9uNi04NFVneWhiWllPTEZfck1aemlBMW1xMHF3ZlBKaXpVaUoyakVkMWNTeWJSeGtsaU15YlE4V25INy1yX1I0akdXSFpTQWdsVHJHZHRodHBEQzE3ZWxtdGlYcDJYVllXOHdlUGZmM2ZSbE1YUUhBOXMtdENLRnNja09IdXVF0gH3AUFVX3lxTFBvNV9WVnVkOEpHN00wbXk4V0NBOGRNLVpXckVMZFdBWG5Cb29XX0I5UWRRN2dPYzE4RnVwWWxfUTJqM1RPQVVGZGpzNlNKWWw5cTkxQ2hvYk5YZm5iYjg4Ylh3eVpra2daOTJZTnJNa1Zoa2xpZ0hYelB0Mngyc3VEYmpDSEdwQjdoeGZWbUpudF9vVFRxZ0hRdkQza0VTVVdkYVVFWTRzOGluLXUtSjFIOE42djFILUlILVBMM0UyRkFBNFh1VldRZlFzcG5JbnpUbXR2SzZRNFpnT2Zkb3RpVXZrdC1McjZpOVo1SDRkSWJXWnN4LVk?oc=5)
 
