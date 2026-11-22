@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre câncer (generic_cancer)"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre câncer (generic_cancer). 85 notícias, 93 medicamentos relacionados."
+description: "Notícias de saúde sobre câncer (generic_cancer). 86 notícias, 93 medicamentos relacionados."
 permalink: /news/generic-cancer/
 last_modified_at: 2026-11-22
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre câncer (generic_cancer)?">
-<strong>câncer (generic_cancer)</strong> tem atualmente <strong>85 notícias</strong> e 93 medicamentos relacionados.
+<strong>câncer (generic_cancer)</strong> tem atualmente <strong>86 notícias</strong> e 93 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
@@ -119,7 +119,15 @@ Esta página reúne as notícias de saúde mais recentes sobre «câncer» e lis
 </ul>
 </div>
 
-## Notícias relacionadas (85)
+## Notícias relacionadas (86)
+
+### [“Câncer de próstata não dá sintomas no início; vá ao médico”](https://news.google.com/rss/articles/CBMipgFBVV95cUxPa2lYWUVJRVZkSHk1bGJRWW5UQlJNazdtV2FmblpzX1dmVXNqY0xCR0lqUlAxWjBnRzVCaGNrSUhicnByMFZZLUc5Z3FNRkhlVHRORGtnRFQzeURSa2lZcEUzNVhoT3N5WlNPMWUzV1pKQ2xUTlUwTFZGQ0ZGSWJrMmFHLUNxSTlmREVibnB3QVo4bzcxQWc4LUtxQVQzNDl1Wk5qTlhR?oc=5)
+
+2026-11-22
+
+Fonte: [MidiaNews](https://news.google.com/rss/articles/CBMipgFBVV95cUxPa2lYWUVJRVZkSHk1bGJRWW5UQlJNazdtV2FmblpzX1dmVXNqY0xCR0lqUlAxWjBnRzVCaGNrSUhicnByMFZZLUc5Z3FNRkhlVHRORGtnRFQzeURSa2lZcEUzNVhoT3N5WlNPMWUzV1pKQ2xUTlUwTFZGQ0ZGSWJrMmFHLUNxSTlmREVibnB3QVo4bzcxQWc4LUtxQVQzNDl1Wk5qTlhR?oc=5)
+
+---
 
 ### [Atriz conta como descobriu câncer causado pelo silicone em evento do UOL](https://news.google.com/rss/articles/CBMizwFBVV95cUxOZGtUMmxmczJRZzFHS3ZvUUM4NUc0RjByaWxpWFFfM0RsRVNPWFVCVEhJSkJLOWNCeDlyQ3Y0NnB1Qld6ckRKaFBTdWFZMlJaeVdDZ25VS3hDd212VXFQNTVLaV9zVGhsNm8zelFYZ2pUb0NWMmRRXzZQTGxZS2VkbUNHUW5oVEozNkNDOGVlazBDalpHdElqRXVrbDBnbjY1VWR0cmUySjRTazBNMUhxVm8tSUNtQVN5WTdzVmdNMDJ1OFo0THRVdktna0hTTDA?oc=5)
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Doxorubicin?">
-<strong>Doxorubicin</strong> tem atualmente <strong>85 notícias</strong> e 8 indicações previstas.
+<strong>Doxorubicin</strong> tem atualmente <strong>86 notícias</strong> e 8 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ Esta página combina as indicações previstas por IA para Doxorubicin com as no
 <p><a href="{{ '/drugs/doxorubicin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (85)
+## Notícias relacionadas (86)
+
+### [“Câncer de próstata não dá sintomas no início; vá ao médico”](https://news.google.com/rss/articles/CBMipgFBVV95cUxPa2lYWUVJRVZkSHk1bGJRWW5UQlJNazdtV2FmblpzX1dmVXNqY0xCR0lqUlAxWjBnRzVCaGNrSUhicnByMFZZLUc5Z3FNRkhlVHRORGtnRFQzeURSa2lZcEUzNVhoT3N5WlNPMWUzV1pKQ2xUTlUwTFZGQ0ZGSWJrMmFHLUNxSTlmREVibnB3QVo4bzcxQWc4LUtxQVQzNDl1Wk5qTlhR?oc=5)
+
+2026-11-22 <span class="news-indication-tag">câncer</span>
+
+Fonte: [MidiaNews](https://news.google.com/rss/articles/CBMipgFBVV95cUxPa2lYWUVJRVZkSHk1bGJRWW5UQlJNazdtV2FmblpzX1dmVXNqY0xCR0lqUlAxWjBnRzVCaGNrSUhicnByMFZZLUc5Z3FNRkhlVHRORGtnRFQzeURSa2lZcEUzNVhoT3N5WlNPMWUzV1pKQ2xUTlUwTFZGQ0ZGSWJrMmFHLUNxSTlmREVibnB3QVo4bzcxQWc4LUtxQVQzNDl1Wk5qTlhR?oc=5)
+
+---
 
 ### [Atriz conta como descobriu câncer causado pelo silicone em evento do UOL](https://news.google.com/rss/articles/CBMizwFBVV95cUxOZGtUMmxmczJRZzFHS3ZvUUM4NUc0RjByaWxpWFFfM0RsRVNPWFVCVEhJSkJLOWNCeDlyQ3Y0NnB1Qld6ckRKaFBTdWFZMlJaeVdDZ25VS3hDd212VXFQNTVLaV9zVGhsNm8zelFYZ2pUb0NWMmRRXzZQTGxZS2VkbUNHUW5oVEozNkNDOGVlazBDalpHdElqRXVrbDBnbjY1VWR0cmUySjRTazBNMUhxVm8tSUNtQVN5WTdzVmdNMDJ1OFo0THRVdktna0hTTDA?oc=5)
 
