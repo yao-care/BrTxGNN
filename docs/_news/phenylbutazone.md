@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Phenylbutazone. 3 indicações previstas."
 permalink: /news/phenylbutazone/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-21
 ---
 
 # Notícias sobre Phenylbutazone
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Phenylbutazone?">
-<strong>Phenylbutazone</strong> tem atualmente <strong>2 notícias</strong> e 3 indicações previstas.
+<strong>Phenylbutazone</strong> tem atualmente <strong>3 notícias</strong> e 3 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ Esta página combina as indicações previstas por IA para Phenylbutazone com as
 <p><a href="{{ '/drugs/phenylbutazone/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (2)
+## Notícias relacionadas (3)
+
+### ['É a reta?' Como caneta emagrecedora virou 'queridinha' se ainda nem existe](https://news.google.com/rss/articles/CBMizwFBVV95cUxNV1dhZkJ3dXdMTlM2SktrZmlyWVNVRFUwZUhfYWZrQlJOUDBwSmZIeG9mbXR3ZGNhcmw0Q2Z5aFNTNE9PbHBJNVBTLU0xSkp5NTZjNnJwVXFSVnFqV3VEUmlWeDMwZUhjYTM3cUdYS1RIYm9jbGZrMk1QNm56czBpYU11U2pmWUlkdHBZaDdNajNGclgzSmstNmpEeDBZTHFHUnNKSVJiSnA0Zm0tN2xIbnNDbjd0QkJRclo5WGdVQUdmQ3BxdUZ3SzF0R0VyOVk?oc=5)
+
+2026-11-21 <span class="news-drug-tag">TIRZEPATIDA</span> <span class="news-indication-tag">osteoartrite</span>
+
+Fonte: [UOL](https://news.google.com/rss/articles/CBMizwFBVV95cUxNV1dhZkJ3dXdMTlM2SktrZmlyWVNVRFUwZUhfYWZrQlJOUDBwSmZIeG9mbXR3ZGNhcmw0Q2Z5aFNTNE9PbHBJNVBTLU0xSkp5NTZjNnJwVXFSVnFqV3VEUmlWeDMwZUhjYTM3cUdYS1RIYm9jbGZrMk1QNm56czBpYU11U2pmWUlkdHBZaDdNajNGclgzSmstNmpEeDBZTHFHUnNKSVJiSnA0Zm0tN2xIbnNDbjd0QkJRclo5WGdVQUdmQ3BxdUZ3SzF0R0VyOVk?oc=5)
+
+---
 
 ### [Além da dor: avanços no tratamento da artrite reumatoide ajudam milhões de brasileiros a recuperar qualidade de vida - Diário PcD](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOUdCT2JNeVpuUGFZa1pTa0JZZTlWWEFLWVZEUTA0Rnl1Qy1UZDhzZ0EyMG5NZlRJNEVzUzFHdjF1RVJHSDkwU1c0cUgwakFUWlI0VVl6M1FpLS1sdTJ3dFN6djVnRE5BOUdhTDlkbnNhY1V6Z2xxQ0pTUlEwVHlqTk5CRVlDZmpKR0ZBbUl1bnk0S1IzZHk5Z2g4SG1kYlNCdG03ZkJTajFvUTUxNFgtMUdUVUNxLTZacUh3UHFiNzk5anppb2FXeC05eUl3RkhTbkZCQllPSmE?oc=5)
 

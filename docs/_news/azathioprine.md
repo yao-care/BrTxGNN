@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com AZATHIOPRINE. 7 indicações previstas."
 permalink: /news/azathioprine/
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-21
 ---
 
 # Notícias sobre AZATHIOPRINE
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre AZATHIOPRINE?">
-<strong>AZATHIOPRINE</strong> tem atualmente <strong>1 notícias</strong> e 7 indicações previstas.
+<strong>AZATHIOPRINE</strong> tem atualmente <strong>2 notícias</strong> e 7 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,15 @@ Esta página combina as indicações previstas por IA para AZATHIOPRINE com as n
 <p><a href="{{ '/drugs/azathioprine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (1)
+## Notícias relacionadas (2)
+
+### ['É a reta?' Como caneta emagrecedora virou 'queridinha' se ainda nem existe](https://news.google.com/rss/articles/CBMizwFBVV95cUxNV1dhZkJ3dXdMTlM2SktrZmlyWVNVRFUwZUhfYWZrQlJOUDBwSmZIeG9mbXR3ZGNhcmw0Q2Z5aFNTNE9PbHBJNVBTLU0xSkp5NTZjNnJwVXFSVnFqV3VEUmlWeDMwZUhjYTM3cUdYS1RIYm9jbGZrMk1QNm56czBpYU11U2pmWUlkdHBZaDdNajNGclgzSmstNmpEeDBZTHFHUnNKSVJiSnA0Zm0tN2xIbnNDbjd0QkJRclo5WGdVQUdmQ3BxdUZ3SzF0R0VyOVk?oc=5)
+
+2026-11-21 <span class="news-drug-tag">TIRZEPATIDA</span> <span class="news-indication-tag">osteoartrite</span>
+
+Fonte: [UOL](https://news.google.com/rss/articles/CBMizwFBVV95cUxNV1dhZkJ3dXdMTlM2SktrZmlyWVNVRFUwZUhfYWZrQlJOUDBwSmZIeG9mbXR3ZGNhcmw0Q2Z5aFNTNE9PbHBJNVBTLU0xSkp5NTZjNnJwVXFSVnFqV3VEUmlWeDMwZUhjYTM3cUdYS1RIYm9jbGZrMk1QNm56czBpYU11U2pmWUlkdHBZaDdNajNGclgzSmstNmpEeDBZTHFHUnNKSVJiSnA0Zm0tN2xIbnNDbjd0QkJRclo5WGdVQUdmQ3BxdUZ3SzF0R0VyOVk?oc=5)
+
+---
 
 ### [Retatrutida reduz dores no joelho em pelo menos 50%, mostra estudo - CNN Brasil](https://news.google.com/rss/articles/CBMiogFBVV95cUxQRnN5YW5PNm9NNGVaZzhsMG1MWTZiTkhRb2EyOFZXTVhfYTc3V1FtLTF0ZXRHcEVSRzAxc01tTU1oM2ZIWjgyQjZDZERyUS0wdnhrQjZWNTNodXlfSDlmOGdVZVZzS0tsYk5velhMZEpqYzNyV25RZVZpWjhyZmZPYjRUZllkT0xNMFVFOURlV256dktNWFhRQkFBaXNoQWN5X0E?oc=5)
 
