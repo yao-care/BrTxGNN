@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Azithromycin. 10 indicações previstas."
 permalink: /news/azithromycin/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-22
 ---
 
 # Notícias sobre Azithromycin
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Azithromycin?">
-<strong>Azithromycin</strong> tem atualmente <strong>82 notícias</strong> e 10 indicações previstas.
+<strong>Azithromycin</strong> tem atualmente <strong>83 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ Esta página combina as indicações previstas por IA para Azithromycin com as n
 <p><a href="{{ '/drugs/azithromycin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (82)
+## Notícias relacionadas (83)
+
+### [Atriz conta como descobriu câncer causado pelo silicone em evento do UOL](https://news.google.com/rss/articles/CBMizwFBVV95cUxOZGtUMmxmczJRZzFHS3ZvUUM4NUc0RjByaWxpWFFfM0RsRVNPWFVCVEhJSkJLOWNCeDlyQ3Y0NnB1Qld6ckRKaFBTdWFZMlJaeVdDZ25VS3hDd212VXFQNTVLaV9zVGhsNm8zelFYZ2pUb0NWMmRRXzZQTGxZS2VkbUNHUW5oVEozNkNDOGVlazBDalpHdElqRXVrbDBnbjY1VWR0cmUySjRTazBNMUhxVm8tSUNtQVN5WTdzVmdNMDJ1OFo0THRVdktna0hTTDA?oc=5)
+
+2026-11-21 <span class="news-indication-tag">câncer</span>
+
+Fonte: [UOL](https://news.google.com/rss/articles/CBMizwFBVV95cUxOZGtUMmxmczJRZzFHS3ZvUUM4NUc0RjByaWxpWFFfM0RsRVNPWFVCVEhJSkJLOWNCeDlyQ3Y0NnB1Qld6ckRKaFBTdWFZMlJaeVdDZ25VS3hDd212VXFQNTVLaV9zVGhsNm8zelFYZ2pUb0NWMmRRXzZQTGxZS2VkbUNHUW5oVEozNkNDOGVlazBDalpHdElqRXVrbDBnbjY1VWR0cmUySjRTazBNMUhxVm8tSUNtQVN5WTdzVmdNMDJ1OFo0THRVdktna0hTTDA?oc=5)
+
+---
 
 ### [“Um susto enorme”: aos 63, homem sem sintomas descobre câncer de próstata](https://news.google.com/rss/articles/CBMipAFBVV95cUxON3NDT0dhOGdBc19NUDBndkVFdHNRcmxBWUJhekg0NjlqOXplRVpyOU9JcXpKSF9DQlBwWEYxVnhTWmJTQWpMNVp3RFFqYVBrdTZQTlhvWFhpUnU1dWJPV3FIdDdlMWVYM05paktxMnQ5OEZ0UVdHWHhnYktRTHdoa0RFNllKVFM3QjFMRVRHMDljbzFRVGs0WXFBblByV0ZhOGdFbQ?oc=5)
 
