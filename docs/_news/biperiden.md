@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Biperiden. 10 indicações previstas."
 permalink: /news/biperiden/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-22
 ---
 
 # Notícias sobre Biperiden
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Biperiden?">
-<strong>Biperiden</strong> tem atualmente <strong>18 notícias</strong> e 10 indicações previstas.
+<strong>Biperiden</strong> tem atualmente <strong>20 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ Esta página combina as indicações previstas por IA para Biperiden com as not�
 <p><a href="{{ '/drugs/biperiden/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (18)
+## Notícias relacionadas (20)
+
+### [Além das horas dormidas, outro fator do sono pode afetar a saúde do coração; saiba qual - O GLOBO](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTVZRMHpaWEtfNTJ5Y1ZSa2U3dlo1RW85bnJ1NlI2UEFKVjRlSlBqaEdsYXRZUlgyMG5OUXY5dGNvUkFLY244azBGcG43bTRjbVZfaUxZZUc2TlphWXdIcWp3R1JNa1p3WDlOTGRJcEgwRFVTX2x0QlJ3WXJyYjY4cDA2WE9GaU9BQWx2cGZyNHk2a3BQbWplSE1tOXlLYzVJTzZ6RjdoQkRadmpLbWprOTFhTlRmTTNoQ0dJWmJsMDRvRUZiTmlrNmJjT2lDYTB3dUZqUl9IUkbSAecBQVVfeXFMTzFNdkhlS0NLa0VTa1Z4X0JjWWtyU3h6T3pnZ3JFeG9LMmV4ZV9YM1VHaXpUNW9lYlhsbFItZml0aXdZUmxXam9IbEdnLUUyeXhrVTVScUVqSkRST0JHR3k4UTl2U19PRjRhemx2ZTBSNzdhaG5IajFpaHpXbVNkN0I5ZzBseFpQVUItQVpFRHowX2ZSVGpvaUg2TENHRHh4RjhrWTc5eTlZMDZHM25Cam1McTJqSDFjYVlJWWdaOW5lb1N6LVZNUlA2RUtHMlVrbXdCaUlfUlc4bFJtYmJ4d29Ub2QzM19R?oc=5)
+
+2026-11-22 <span class="news-indication-tag">demência</span>
+
+Fonte: [O GLOBO](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTVZRMHpaWEtfNTJ5Y1ZSa2U3dlo1RW85bnJ1NlI2UEFKVjRlSlBqaEdsYXRZUlgyMG5OUXY5dGNvUkFLY244azBGcG43bTRjbVZfaUxZZUc2TlphWXdIcWp3R1JNa1p3WDlOTGRJcEgwRFVTX2x0QlJ3WXJyYjY4cDA2WE9GaU9BQWx2cGZyNHk2a3BQbWplSE1tOXlLYzVJTzZ6RjdoQkRadmpLbWprOTFhTlRmTTNoQ0dJWmJsMDRvRUZiTmlrNmJjT2lDYTB3dUZqUl9IUkbSAecBQVVfeXFMTzFNdkhlS0NLa0VTa1Z4X0JjWWtyU3h6T3pnZ3JFeG9LMmV4ZV9YM1VHaXpUNW9lYlhsbFItZml0aXdZUmxXam9IbEdnLUUyeXhrVTVScUVqSkRST0JHR3k4UTl2U19PRjRhemx2ZTBSNzdhaG5IajFpaHpXbVNkN0I5ZzBseFpQVUItQVpFRHowX2ZSVGpvaUg2TENHRHh4RjhrWTc5eTlZMDZHM25Cam1McTJqSDFjYVlJWWdaOW5lb1N6LVZNUlA2RUtHMlVrbXdCaUlfUlc4bFJtYmJ4d29Ub2QzM19R?oc=5)
+
+---
+
+### [5 hábitos recomendados para proteger o cérebro e reduzir a deterioração cognitiva - Rádio Itatiaia](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQkJOWl92R2VfOGpRUTNXdHp3NjdKcVdGLW5kWm1hMEU2N1VvNF9kd3BPd1J0LWRSbHhqajBDRU1tcXFLMWJRODMtLWUzUHgtbjQwbUotVmIwcjNsWUQ4UEpJS0dfa0RTYW14RVVSbl8tVmRXTGhjVG9rSGNXdmc2QkRHeGlTWjF5dFRqcjlycG1tcGxCVFNZN1B2dXYtbFVqR1h4dkxkdHdRNUFzc3k0YXBPckI1dnRw?oc=5)
+
+2026-11-19 <span class="news-indication-tag">demência</span>
+
+Fonte: [Rádio Itatiaia](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQkJOWl92R2VfOGpRUTNXdHp3NjdKcVdGLW5kWm1hMEU2N1VvNF9kd3BPd1J0LWRSbHhqajBDRU1tcXFLMWJRODMtLWUzUHgtbjQwbUotVmIwcjNsWUQ4UEpJS0dfa0RTYW14RVVSbl8tVmRXTGhjVG9rSGNXdmc2QkRHeGlTWjF5dFRqcjlycG1tcGxCVFNZN1B2dXYtbFVqR1h4dkxkdHdRNUFzc3k0YXBPckI1dnRw?oc=5)
+
+---
 
 ### [Infecções por herpes são ligadas a um risco quase 50% maior de Alzheimer ou demência, aponta estudo; entenda - O GLOBO](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNM0dBMGVoLUtRTzlmNjRoMzN0cUlXQkVDRlgwVVdZWUxzU0k4TlBEZXBweExtNE5CS1lReVJzNTVoYzJ6SmVGbGVoNlFaX3RwbkwzdWlQZ3kwcHBJakRzeTFtdnB6X2gtck50YXc0aUpwY1F1MnVBbmlrd3dOU3AxNHhWczlBT205Q0VlOEJETU1reVFBWG04dkpkSGR6MVN0VUdNVmg4T1pORkVjc1pzTjcxM3JhWjdYcU5KT2x5ZTZYNGpOTTNPS3ZRWGxJbnE0OC05bnhyZEtKWFNncFBwcEFwR01oekUxTzhYb0hQMHVoeGtlU2xCQnA4UWXSAYsCQVVfeXFMT3hXQ2xtUGZDdUFpUGpvc1pCNG8tQmJDQS1xYVo1SUZEb1J3dGl2S3dHb0pVSUZIYVdhVU9Hb1lYYk1OTV9BZTN0RFdSYlVhbWhXaWVUcENzRnZ0MFVudUVCWkF5WVdtT0JtZk5iR1NUM1FBMFhHeTJEczY5bWgyQ2xnNFVCbnJWRWZGUVdSUmp6eDVmU2lkRDktYW5OZVFnMXkxYllOYjFnaVg3bkZySVJVV3FiajByWThxYUpRRXNtWm5LeC1yNnRlY01FWjNIUXVXY0o0dE1VUWRZQk5iV0x0dlJJMGxGaXBTMEZ4WDkwdmhIcmJOdXBwMTlZY3R5TkdSVFgzSDRUSktj?oc=5)
 

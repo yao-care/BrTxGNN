@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Albendazole?">
-<strong>Albendazole</strong> tem atualmente <strong>101 notícias</strong> e 1 indicações previstas.
+<strong>Albendazole</strong> tem atualmente <strong>105 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ Esta página combina as indicações previstas por IA para Albendazole com as no
 <p><a href="{{ '/drugs/albendazole/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (101)
+## Notícias relacionadas (105)
+
+### [Além das horas dormidas, outro fator do sono pode afetar a saúde do coração; saiba qual - O GLOBO](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTVZRMHpaWEtfNTJ5Y1ZSa2U3dlo1RW85bnJ1NlI2UEFKVjRlSlBqaEdsYXRZUlgyMG5OUXY5dGNvUkFLY244azBGcG43bTRjbVZfaUxZZUc2TlphWXdIcWp3R1JNa1p3WDlOTGRJcEgwRFVTX2x0QlJ3WXJyYjY4cDA2WE9GaU9BQWx2cGZyNHk2a3BQbWplSE1tOXlLYzVJTzZ6RjdoQkRadmpLbWprOTFhTlRmTTNoQ0dJWmJsMDRvRUZiTmlrNmJjT2lDYTB3dUZqUl9IUkbSAecBQVVfeXFMTzFNdkhlS0NLa0VTa1Z4X0JjWWtyU3h6T3pnZ3JFeG9LMmV4ZV9YM1VHaXpUNW9lYlhsbFItZml0aXdZUmxXam9IbEdnLUUyeXhrVTVScUVqSkRST0JHR3k4UTl2U19PRjRhemx2ZTBSNzdhaG5IajFpaHpXbVNkN0I5ZzBseFpQVUItQVpFRHowX2ZSVGpvaUg2TENHRHh4RjhrWTc5eTlZMDZHM25Cam1McTJqSDFjYVlJWWdaOW5lb1N6LVZNUlA2RUtHMlVrbXdCaUlfUlc4bFJtYmJ4d29Ub2QzM19R?oc=5)
+
+2026-11-22 <span class="news-indication-tag">demência</span>
+
+Fonte: [O GLOBO](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTVZRMHpaWEtfNTJ5Y1ZSa2U3dlo1RW85bnJ1NlI2UEFKVjRlSlBqaEdsYXRZUlgyMG5OUXY5dGNvUkFLY244azBGcG43bTRjbVZfaUxZZUc2TlphWXdIcWp3R1JNa1p3WDlOTGRJcEgwRFVTX2x0QlJ3WXJyYjY4cDA2WE9GaU9BQWx2cGZyNHk2a3BQbWplSE1tOXlLYzVJTzZ6RjdoQkRadmpLbWprOTFhTlRmTTNoQ0dJWmJsMDRvRUZiTmlrNmJjT2lDYTB3dUZqUl9IUkbSAecBQVVfeXFMTzFNdkhlS0NLa0VTa1Z4X0JjWWtyU3h6T3pnZ3JFeG9LMmV4ZV9YM1VHaXpUNW9lYlhsbFItZml0aXdZUmxXam9IbEdnLUUyeXhrVTVScUVqSkRST0JHR3k4UTl2U19PRjRhemx2ZTBSNzdhaG5IajFpaHpXbVNkN0I5ZzBseFpQVUItQVpFRHowX2ZSVGpvaUg2TENHRHh4RjhrWTc5eTlZMDZHM25Cam1McTJqSDFjYVlJWWdaOW5lb1N6LVZNUlA2RUtHMlVrbXdCaUlfUlc4bFJtYmJ4d29Ub2QzM19R?oc=5)
+
+---
 
 ### [Atriz conta como descobriu câncer causado pelo silicone em evento do UOL](https://news.google.com/rss/articles/CBMizwFBVV95cUxOZGtUMmxmczJRZzFHS3ZvUUM4NUc0RjByaWxpWFFfM0RsRVNPWFVCVEhJSkJLOWNCeDlyQ3Y0NnB1Qld6ckRKaFBTdWFZMlJaeVdDZ25VS3hDd212VXFQNTVLaV9zVGhsNm8zelFYZ2pUb0NWMmRRXzZQTGxZS2VkbUNHUW5oVEozNkNDOGVlazBDalpHdElqRXVrbDBnbjY1VWR0cmUySjRTazBNMUhxVm8tSUNtQVN5WTdzVmdNMDJ1OFo0THRVdktna0hTTDA?oc=5)
 
@@ -56,6 +64,30 @@ Fonte: [Metrópoles](https://news.google.com/rss/articles/CBMipAFBVV95cUxON3NDT0
 2026-11-21 <span class="news-indication-tag">câncer</span>
 
 Fonte: [G1](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQk91d1lvYnoyQUlFRl9RTWwyX0hKOTBzSzVScVVLa2w5dUI4Y1FfMkVXSzJaTXI5OVBNZmRRQWduNXRTYW5UNUZPRWtPcUpZM1d1N2NpczM0YkhDRzJsM0szaUpkZ3JyZF9uNi04NFVneWhiWllPTEZfck1aemlBMW1xMHF3ZlBKaXpVaUoyakVkMWNTeWJSeGtsaU15YlE4V25INy1yX1I0akdXSFpTQWdsVHJHZHRodHBEQzE3ZWxtdGlYcDJYVllXOHdlUGZmM2ZSbE1YUUhBOXMtdENLRnNja09IdXVF0gH3AUFVX3lxTFBvNV9WVnVkOEpHN00wbXk4V0NBOGRNLVpXckVMZFdBWG5Cb29XX0I5UWRRN2dPYzE4RnVwWWxfUTJqM1RPQVVGZGpzNlNKWWw5cTkxQ2hvYk5YZm5iYjg4Ylh3eVpra2daOTJZTnJNa1Zoa2xpZ0hYelB0Mngyc3VEYmpDSEdwQjdoeGZWbUpudF9vVFRxZ0hRdkQza0VTVVdkYVVFWTRzOGluLXUtSjFIOE42djFILUlILVBMM0UyRkFBNFh1VldRZlFzcG5JbnpUbXR2SzZRNFpnT2Zkb3RpVXZrdC1McjZpOVo1SDRkSWJXWnN4LVk?oc=5)
+
+---
+
+### [Como comprimido diário é a grande esperança contra um dos cânceres mais letais](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QSjlnVmRodTl3MnN5cVNSTnJnSUx6cl9BQTJZd01wUDlrMkw5Zk53MjdpQ1pjbHpaVF9tNmF0X2NkYkFUT0gtT3lLTDJaTkhFZ0V6NGZoMVItdnVJcG1aRWZJRdIBaEFVX3lxTE9xd0tjYVZ4a1RwTU1MU2VJMmNyMks2cHpKUW4xbUl4LS11X0NEZ0N3akxpbDEzSkZZdGE5dVpvVjZ3NnRPcnQzV2JncmU2RlJuZmo5TGVvbmk1SWdvNUVxV2JwdUdSTlNJ?oc=5)
+
+2026-11-20 <span class="news-indication-tag">câncer</span>
+
+Fonte: [BBC](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QSjlnVmRodTl3MnN5cVNSTnJnSUx6cl9BQTJZd01wUDlrMkw5Zk53MjdpQ1pjbHpaVF9tNmF0X2NkYkFUT0gtT3lLTDJaTkhFZ0V6NGZoMVItdnVJcG1aRWZJRdIBaEFVX3lxTE9xd0tjYVZ4a1RwTU1MU2VJMmNyMks2cHpKUW4xbUl4LS11X0NEZ0N3akxpbDEzSkZZdGE5dVpvVjZ3NnRPcnQzV2JncmU2RlJuZmo5TGVvbmk1SWdvNUVxV2JwdUdSTlNJ?oc=5)
+
+---
+
+### [Câncer: A Vida Não Para:](https://news.google.com/rss/articles/CBMieEFVX3lxTFAtNXFVWFhzako3WXdTb1RvQlQ1OC1rbFd1cVdmWnBFWTZuQTFyVk5XNFFNSklZOC02cjk0c1dBdGR5ZTctTHo2TURvMC1leFlvN3RJbkdzNUxza3J2bThNQWdJV0dUVFZQMlJFQjV6aTVXYmJKVVVEdA?oc=5)
+
+2026-11-20 <span class="news-indication-tag">câncer</span>
+
+Fonte: [UOL](https://news.google.com/rss/articles/CBMieEFVX3lxTFAtNXFVWFhzako3WXdTb1RvQlQ1OC1rbFd1cVdmWnBFWTZuQTFyVk5XNFFNSklZOC02cjk0c1dBdGR5ZTctTHo2TURvMC1leFlvN3RJbkdzNUxza3J2bThNQWdJV0dUVFZQMlJFQjV6aTVXYmJKVVVEdA?oc=5)
+
+---
+
+### [5 hábitos recomendados para proteger o cérebro e reduzir a deterioração cognitiva - Rádio Itatiaia](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQkJOWl92R2VfOGpRUTNXdHp3NjdKcVdGLW5kWm1hMEU2N1VvNF9kd3BPd1J0LWRSbHhqajBDRU1tcXFLMWJRODMtLWUzUHgtbjQwbUotVmIwcjNsWUQ4UEpJS0dfa0RTYW14RVVSbl8tVmRXTGhjVG9rSGNXdmc2QkRHeGlTWjF5dFRqcjlycG1tcGxCVFNZN1B2dXYtbFVqR1h4dkxkdHdRNUFzc3k0YXBPckI1dnRw?oc=5)
+
+2026-11-19 <span class="news-indication-tag">demência</span>
+
+Fonte: [Rádio Itatiaia](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQkJOWl92R2VfOGpRUTNXdHp3NjdKcVdGLW5kWm1hMEU2N1VvNF9kd3BPd1J0LWRSbHhqajBDRU1tcXFLMWJRODMtLWUzUHgtbjQwbUotVmIwcjNsWUQ4UEpJS0dfa0RTYW14RVVSbl8tVmRXTGhjVG9rSGNXdmc2QkRHeGlTWjF5dFRqcjlycG1tcGxCVFNZN1B2dXYtbFVqR1h4dkxkdHdRNUFzc3k0YXBPckI1dnRw?oc=5)
 
 ---
 
