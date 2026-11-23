@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Docetaxel. 7 indicações previstas."
 permalink: /news/docetaxel/
-last_modified_at: 2026-11-22
+last_modified_at: 2026-11-23
 ---
 
 # Notícias sobre Docetaxel
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Docetaxel?">
-<strong>Docetaxel</strong> tem atualmente <strong>86 notícias</strong> e 7 indicações previstas.
+<strong>Docetaxel</strong> tem atualmente <strong>89 notícias</strong> e 7 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,31 @@ Esta página combina as indicações previstas por IA para Docetaxel com as not�
 <p><a href="{{ '/drugs/docetaxel/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (86)
+## Notícias relacionadas (89)
+
+### [Anvisa aprova novo medicamento para tratar câncer de mama - Agência Brasil](https://news.google.com/rss/articles/CBMisgFBVV95cUxQNTc5TE5ocGdjUkV3R25PNlZKX3c0UE5vbVlZdlR1MFZualdjbm1wLU1YWTNxQXp4WjIzbFh5Zy1uaVNzNlBpbUlLcjE4VHVKdUtBcWNrbTBWU1FXUkdQVUtOTkJFdFFBWDhGNWU2cUxtTFhaQ2s0S2JtMm9FWHNnSXdWdGRmeEszU25VTG9zZkZvT1JGM2x0QTdSUmJ6SDBlUmluczV2Q3RUVnZZcmVXWldB?oc=5)
+
+2026-11-23 <span class="news-indication-tag">câncer</span> <span class="news-indication-tag">câncer de mama</span>
+
+Fonte: [Agência Brasil](https://news.google.com/rss/articles/CBMisgFBVV95cUxQNTc5TE5ocGdjUkV3R25PNlZKX3c0UE5vbVlZdlR1MFZualdjbm1wLU1YWTNxQXp4WjIzbFh5Zy1uaVNzNlBpbUlLcjE4VHVKdUtBcWNrbTBWU1FXUkdQVUtOTkJFdFFBWDhGNWU2cUxtTFhaQ2s0S2JtMm9FWHNnSXdWdGRmeEszU25VTG9zZkZvT1JGM2x0QTdSUmJ6SDBlUmluczV2Q3RUVnZZcmVXWldB?oc=5)
+
+---
+
+### [Com exame alterado, homem busca 2ª opinião e descobre câncer de próstata](https://news.google.com/rss/articles/CBMipwFBVV95cUxQd3hwT0FPdmMxZzl3TEpwcGVUUlpubHAyWFFZYzBWQkh0S1I5SXhVLVNZRVk0bHNlUUdWZlczNEN3NVVCaDhNaldPbC1ZUGtQVTA4TWVRMXN4VkUtTnRtbHlwUUxFOG8ySTlabUtuUTVIT0U1aFBtSk5kTzlxZkN3NW1PWGtsRkhKWnRrdWE0QmVGLU1qTnZqS2lnTzQyVHRpdFlseVdJaw?oc=5)
+
+2026-11-23 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Metrópoles](https://news.google.com/rss/articles/CBMipwFBVV95cUxQd3hwT0FPdmMxZzl3TEpwcGVUUlpubHAyWFFZYzBWQkh0S1I5SXhVLVNZRVk0bHNlUUdWZlczNEN3NVVCaDhNaldPbC1ZUGtQVTA4TWVRMXN4VkUtTnRtbHlwUUxFOG8ySTlabUtuUTVIT0U1aFBtSk5kTzlxZkN3NW1PWGtsRkhKWnRrdWE0QmVGLU1qTnZqS2lnTzQyVHRpdFlseVdJaw?oc=5)
+
+---
+
+### [Diabetes tipo 2 está ligada a maior risco de câncer em homens e mulheres](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVnNyWndLZXRzRWlRenk3VUdaX0NPT1Rla1RRVHVlbnU3eWFtYy1XZHRFcGtWNFNfY3puVlQ4cFpDZlRwdWpxd250VEd1eHFCMFNDTENTLTNqZ3ZBci1ia0NfYk5VRlVfUm0wSTBLRUlVVGpiQWhqRWhNVVNxanJuWDZDUzBmNjduSzczOFYxUHN1RWo3Y1FPQ0JIX1M0ODdaWUdjTUFWcEE?oc=5)
+
+2026-11-22 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Metrópoles](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVnNyWndLZXRzRWlRenk3VUdaX0NPT1Rla1RRVHVlbnU3eWFtYy1XZHRFcGtWNFNfY3puVlQ4cFpDZlRwdWpxd250VEd1eHFCMFNDTENTLTNqZ3ZBci1ia0NfYk5VRlVfUm0wSTBLRUlVVGpiQWhqRWhNVVNxanJuWDZDUzBmNjduSzczOFYxUHN1RWo3Y1FPQ0JIX1M0ODdaWUdjTUFWcEE?oc=5)
+
+---
 
 ### [“Câncer de próstata não dá sintomas no início; vá ao médico”](https://news.google.com/rss/articles/CBMipgFBVV95cUxPa2lYWUVJRVZkSHk1bGJRWW5UQlJNazdtV2FmblpzX1dmVXNqY0xCR0lqUlAxWjBnRzVCaGNrSUhicnByMFZZLUc5Z3FNRkhlVHRORGtnRFQzeURSa2lZcEUzNVhoT3N5WlNPMWUzV1pKQ2xUTlUwTFZGQ0ZGSWJrMmFHLUNxSTlmREVibnB3QVo4bzcxQWc4LUtxQVQzNDl1Wk5qTlhR?oc=5)
 

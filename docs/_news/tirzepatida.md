@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com TIRZEPATIDA. 0 indicações previstas."
 permalink: /news/tirzepatida/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-23
 ---
 
 # Notícias sobre TIRZEPATIDA
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre TIRZEPATIDA?">
-<strong>TIRZEPATIDA</strong> tem atualmente <strong>5 notícias</strong> e 0 indicações previstas.
+<strong>TIRZEPATIDA</strong> tem atualmente <strong>6 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ Esta página combina as indicações previstas por IA para TIRZEPATIDA com as no
 
 </div>
 
-## Notícias relacionadas (5)
+## Notícias relacionadas (6)
+
+### ['Bumbum de Mounjaro' é um efeito real? Especialista explica como emagrecer rápido pode afetar os glúteos](https://news.google.com/rss/articles/CBMinAJBVV95cUxPd3JaWnYtVWtMNnNlZlhxWGxBM1E1TjVGZTNrX2VSd3lWV3MyS19VMGdnQWtibVM3UVBpeWhaWHJGeDlObHB4aUw3SjRIT1hBOWhyWkFDbXdRT3BFNEFpbHZNZzJvSXhNU05CeVlVNGlUUFNMbjN6NmNsSWFtVC03LUljLVExNDRQemZKQTZyTDV0QkUwMTFFTlIza0Y4dzh3cE1ZdnczNUllNTVPZ203MTFXOTZOVFY0TjJkaV9HTUp3ck0zREFuVnV3Sng2WjFFY2E5WnRFekI1VVkwN1E1Yi1obzViSEUtNUdFc3pVMVlhSXFoQmEzdTNpdzVoVUNsdm9oWDZvcDEwS1ZHWTBZcUtpTUVfTjBhQzFSTQ?oc=5)
+
+2026-11-23 <span class="news-drug-tag">TIRZEPATIDA</span>
+
+Fonte: [Terra](https://news.google.com/rss/articles/CBMinAJBVV95cUxPd3JaWnYtVWtMNnNlZlhxWGxBM1E1TjVGZTNrX2VSd3lWV3MyS19VMGdnQWtibVM3UVBpeWhaWHJGeDlObHB4aUw3SjRIT1hBOWhyWkFDbXdRT3BFNEFpbHZNZzJvSXhNU05CeVlVNGlUUFNMbjN6NmNsSWFtVC03LUljLVExNDRQemZKQTZyTDV0QkUwMTFFTlIza0Y4dzh3cE1ZdnczNUllNTVPZ203MTFXOTZOVFY0TjJkaV9HTUp3ck0zREFuVnV3Sng2WjFFY2E5WnRFekI1VVkwN1E1Yi1obzViSEUtNUdFc3pVMVlhSXFoQmEzdTNpdzVoVUNsdm9oWDZvcDEwS1ZHWTBZcUtpTUVfTjBhQzFSTQ?oc=5)
+
+---
 
 ### ['É a reta?' Como caneta emagrecedora virou 'queridinha' se ainda nem existe](https://news.google.com/rss/articles/CBMizwFBVV95cUxNV1dhZkJ3dXdMTlM2SktrZmlyWVNVRFUwZUhfYWZrQlJOUDBwSmZIeG9mbXR3ZGNhcmw0Q2Z5aFNTNE9PbHBJNVBTLU0xSkp5NTZjNnJwVXFSVnFqV3VEUmlWeDMwZUhjYTM3cUdYS1RIYm9jbGZrMk1QNm56czBpYU11U2pmWUlkdHBZaDdNajNGclgzSmstNmpEeDBZTHFHUnNKSVJiSnA0Zm0tN2xIbnNDbjd0QkJRclo5WGdVQUdmQ3BxdUZ3SzF0R0VyOVk?oc=5)
 
