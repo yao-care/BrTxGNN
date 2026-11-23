@@ -1,9 +1,9 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-11-22T23:21:28.130026+00:00",
-  "total_fetched": 85,
-  "unique_count": 82,
-  "health_related_count": 32,
+  "fetched_at": "2026-11-23T06:20:47.753557+00:00",
+  "total_fetched": 84,
+  "unique_count": 81,
+  "health_related_count": 30,
   "news": [
     {
       "id": "29d6d9952e3c",
@@ -18,14 +18,14 @@
       ]
     },
     {
-      "id": "adafbce6dbc3",
+      "id": "543a1effb3ce",
       "title": "Pesquisa da Uespi sobre plantas da Serra da Capivara vira destaque internacional - CidadeVerde.com",
       "published": "2026-11-22T13:50:00+00:00",
       "summary": "Pesquisa da Uespi sobre plantas da Serra da Capivara vira destaque internacional&nbsp;&nbsp;CidadeVerde.com",
       "sources": [
         {
           "name": "CidadeVerde.com",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWU94LXVlZXlxNFVMR1E3NGdmTHpUWW9mdVljbTRETTJ4OWN6LU5vTFI4T296czR3Mno3ajgyUDJ3TkdvaUJDaC1hNmJ5bjNrTHF6UzI4X3ItOUE4dFg0ZVVBNXkzQmdQWTRNMG1HNndFVmpTZWpiQXlJZTBWNGNoOVdUS3VGeGxGVnpBMldfTFRGWU5SRFNTbkhZc3lrUHRtM2l2azIxQXE5eEVPQjFrNEM4WFBZenhKSm93?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMkJTTjJyOENMaHhKTm1qSk1lUTViMERfYkxrM2c5dTJ1cEI1TjBLbmNBNlhEZzBlRkpHTGliRHNoQU8tdU0yeHFha2o1VlFQNGJrYnp6OU9EcjZyLXZpMU85UDM3QnBicEpiU3JHd3lUTjlVVmpmazRGQkxtSXUwSC1NVzBySS14eGdrZVRyZ25lQlQwRW1YTTBBT1EwVEQxYkFDckZNYmkxRWJrTU0tQndheWdPY0VoNVc4?oc=5"
         }
       ]
     },
@@ -45,11 +45,23 @@
       "id": "4dad18caace6",
       "title": "“Câncer de próstata não dá sintomas no início; vá ao médico” - MidiaNews",
       "published": "2026-11-22T12:00:00+00:00",
-      "summary": "“Câncer de próstata não dá sintomas no início; vá ao médico”&nbsp;&nbsp;MidiaNewsEspecialista alerta para a prevenção do câncer de próstata&nbsp;&nbsp;G1#OHospitalResponde - Câncer de próstata | #DomingoEspetacular #shorts&nbsp;&nbsp;R7Câncer de próstata: vigilância e terapia liberada neste ano integram nova diretriz contra doença&nbsp;&nbsp;VEJACâncer de próstata é tema, às 8h30m de hoje, na TV Pajuçara&nbsp;&nbsp;TNH1",
+      "summary": "“Câncer de próstata não dá sintomas no início; vá ao médico”&nbsp;&nbsp;MidiaNewsEspecialista alerta para a prevenção do câncer de próstata&nbsp;&nbsp;G1#OHospitalResponde - Câncer de próstata | #DomingoEspetacular #shorts&nbsp;&nbsp;R7Câncer de próstata: vigilância e terapia liberada neste ano integram nova diretriz contra doença&nbsp;&nbsp;VEJANovembro Azul: prevenção e atenção à saúde do homem&nbsp;&nbsp;Portal A12",
       "sources": [
         {
           "name": "MidiaNews",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa2lYWUVJRVZkSHk1bGJRWW5UQlJNazdtV2FmblpzX1dmVXNqY0xCR0lqUlAxWjBnRzVCaGNrSUhicnByMFZZLUc5Z3FNRkhlVHRORGtnRFQzeURSa2lZcEUzNVhoT3N5WlNPMWUzV1pKQ2xUTlUwTFZGQ0ZGSWJrMmFHLUNxSTlmREVibnB3QVo4bzcxQWc4LUtxQVQzNDl1Wk5qTlhR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0d027ad0108a",
+      "title": "Mosquito com bactéria reduziu em 68% infecções por dengue em Belo Horizonte - CNN Brasil",
+      "published": "2026-11-22T09:57:51+00:00",
+      "summary": "Mosquito com bactéria reduziu em 68% infecções por dengue em Belo Horizonte&nbsp;&nbsp;CNN BrasilPesquisa com mais de 5.700 crianças mostra que mosquitos geneticamente modificados ajudam a combater a dengue&nbsp;&nbsp;G1Aedes com bactéria Wolbachia reduz em 68,5% infecções por dengue em BH&nbsp;&nbsp;MetrópolesEstudo atesta eficácia de bactéria contra dengue, zika e chikungunya&nbsp;&nbsp;Diário da RegiãoEmpresa de Curitiba recebe autorização para comercialização direta do Método Wolbachia&nbsp;",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV2pkNHJxTzJjbkRtcm5WUVdOUXJNeDNQRnktN3NZOHNEX01nNDhwQlFQXzRkV1dyLUE4eWk0ajhQaDdnZGhndi1yUzZ5bmpWVFlpeFY0UFlFMWp3LWZRaGRPU3ctcmFIRXFydC03eXY1aE44b2F2cU1DMFVYU3c0Q1dCYnJVZkhCdFNkS1JxWHl2blFtdjl6WUZwdzJsSzF4bVJhUnN0VmtUWDRFXzdv?oc=5"
         }
       ]
     },
@@ -102,14 +114,38 @@
       ]
     },
     {
-      "id": "483a2e92b67a",
-      "title": "Pesquisa com mais de 5.700 crianças mostra que mosquitos geneticamente modificados ajudam a combater a dengue - G1",
-      "published": "2026-11-21T18:46:42+00:00",
-      "summary": "Pesquisa com mais de 5.700 crianças mostra que mosquitos geneticamente modificados ajudam a combater a dengue&nbsp;&nbsp;G1Mosquito com bactéria reduziu em 68% infecções por dengue em Belo Horizonte&nbsp;&nbsp;CNN BrasilAedes com bactéria Wolbachia reduz em 68,5% infecções por dengue em BH&nbsp;&nbsp;MetrópolesEstudo atesta eficácia de bactéria contra dengue, zika e chikungunya&nbsp;&nbsp;Diário da RegiãoAnvisa autoriza comercialização do Método Wolbachia&nbsp;&nbsp;TV Brusque",
+      "id": "055bc5a40ff4",
+      "title": "Criança com constipação crônica tem quadro resolvido com cirurgia na coluna - Metrópoles",
+      "published": "2026-11-22T05:00:00+00:00",
+      "summary": "Criança com constipação crônica tem quadro resolvido com cirurgia na coluna&nbsp;&nbsp;Metrópoles",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZktKNkFBMzlfanBKS2hoZTBiZ0VmUHZXdzF6THpRVHpzOWtXVHBmendxZ09uUHVDNXI5S0l6cm5mTXRPNzZpaWw1YTd4MFQ5V3F5eHBHVTlmZkVsTEZ6OEkxczBoN0d1aXNOVFBxcTJEYmNWcWpET2ZTX1RGcWJrMzFfVm1NRE9RV0NJYm53VXJmTVE5RGpvR19lSlBHeUs0UTBEYkpGUEtXRzVVQkdicU5lTkd2cHpWb0tYMXcxdnBCelk0MWhoT0RFU2ZvY2VFbDlnMTcxMWlPbDF3dG1IRmZOc2g3QdIB9AFBVV95cUxQYkZQNHhyLTVXN2Rua2hmeFFCbXZMeUNmUm1YdUFsejNJbDFMQ3NidExXOFJzekhBeGF3Q2FwU1Nqb1JkVTJPT1ZyYndhbnd4eHdGN0NyTGNibFVIanZmOFdKZkVMMFpycUdRNl9zZ29GcUw0aXpkdGxUbktIT1JBR1Q4X2FocDFxZEZiZ1pncjhkMU5MQTNEV01yRGxQZFFwQUprZEo1MllRUEtwMFFtbEVoSEdnZ0pKMjhuNzdNTmdwMk5nOVZiZjJRRS15U2NUalVYOGU1bzRoREFRX0JDZjVKWFN5aDRqTk9rbXdSdzJMTERF?oc=5"
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdU9ERUF4NWMyMk8yWFBKRDhvRVFtSXJVSVNBeUZqLTRRV1Zha0sxREtkcjNCLXBXWjYwV0Npb2Fuc05RNkIwMzdpb295WUpXOVZuY3Nuc0tzdURrcVNjaHdnd1JZWHJpQ2NEYkNxS1A3ckpFLW1xbW5PLTMzczdDei1IR01FWnhuNXFpWjdLNTFPd3ZoVHVFVEcwYTJrVENiX2RGbzY3cUVwV1B0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6a27be9f2cdd",
+      "title": "Opinião - Becky S. Korich: Primeiro o tomate orgânico, agora a pessoa orgânica - Folha de S.Paulo",
+      "published": "2026-11-22T02:00:00+00:00",
+      "summary": "Opinião - Becky S. Korich: Primeiro o tomate orgânico, agora a pessoa orgânica&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbEJHWmVteE5yTno5UjBJcXd1SnEyU3BRVTVvVk5HOWFMVmRnU3YzdGlBZi16TkY5RE9ZWDJpVEhvb281VEo4cWtPWFFwaFoxdUt2bXF0SEV5QlV1YVFac0pyQ0NrM0V0VXFCX0J6TEN0a2RCSlo2M3dVOFdJUWU3OHdKandxSjJERjZzZmo4VXI5eUdoVU53MzB5QTF5MFZtbHRIWERONEdaXzdpNnpRSVRablMtQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5f5623c2171e",
+      "title": "Astrônomos registram pela primeira vez uma estrela gigante engolindo sua companheira em tempo real - Globo",
+      "published": "2026-11-21T19:00:00+00:00",
+      "summary": "Astrônomos registram pela primeira vez uma estrela gigante engolindo sua companheira em tempo real&nbsp;&nbsp;Globo",
+      "sources": [
+        {
+          "name": "Globo",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOTVpQcXRZTVQ5RkphS2ZybmNGTkxVNE9iOEtkeFExUDhqcHFLRXJNUWJ0MVI4M0hFQ0FnNkhodXA1V01aNWVYTzVFYTlFVkFSdHBuWTIwTzNGT2lkTzVPN1pLVS1ib1Vzd3RWYkFkN1ljeFYxZ3hvMlJiTzU3YWM4b2p1UjloWWJnVUJBcjk1OFQxWG1uVnM1Q1VWSHlBVmtIUXRJdDFsNDNXbUhaaWRIZ3NfUnpWblA2SnZld2tUVnpmWFV5eGl1dk9HY2tJenRkbkJ6U0NTeWJRaTBXWUp6Z245S3hwb0hjRGpkR285WUM2VDdGQUZ3RmFNSm3SAYsCQVVfeXFMUE1ySnl1V18zdmY1bzNVZm02M1ROUDlrQTlfTk4taUxUQ0w0MENkMXlBbWdkYVRFdUs0UlV3MVJfSWx3cVp3aW1vLUxvbERtaHZlLVJqQldMclY1Y29TWGNpOXNsenlMRjM2SW1CS21fQkhTV21XNHVoQm9KcHp2RmI0Nm9MLTR2NFdGbklHcTJQYkhWOUNBdlFzTHZTZjdBd2JSdnQzbS1DcVFDSFJGOU9jWHFKT0Qxbl9QUkw4bjNUOXlBSEw0MDFpWGt1MHdhLVJaTzJZMlEtQ3liMWd1VzZ4QkJON0JrYW5KTk1IT2xELWdqdjhGaFBxeVl0Ym52bURsVnQyTXgzbjNR?oc=5"
         }
       ]
     },
@@ -146,30 +182,6 @@
         {
           "name": "Diário do Nordeste",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbnN5dDVoeS1PSWVNeG9keUtabXZkVVlEMFlYWUZhVXhReHVyZTgzbGpXODVSYnpMeDFPTS1yc1BHLVlkcWM5WDZZcWhtaHdOcDdiUGpZTTRfWUtGZW55YUViTXNLcUNxcktqZ1FuUGNkcGZfbjVYOFEtRllGdk13cjI1ZzVQWnpaYjNxbktmVzhfcjVvTWlubjFteUZ4eVkzOWFKTU5oTjJqYmlYOGk2SnVQUVEySVctV0lNbzRuSnl0c1NGT2lZUW1YZmU3c00?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "329e1c68f61c",
-      "title": "Ozempic infantil? Semaglutida reduz IMC em crianças de 6 a 11 anos com obesidade grave - UOL",
-      "published": "2026-11-21T13:29:53+00:00",
-      "summary": "Ozempic infantil? Semaglutida reduz IMC em crianças de 6 a 11 anos com obesidade grave&nbsp;&nbsp;UOLResultados de canetas emagrecedoras em crianças pequenas dividem médicos sobre riscos&nbsp;&nbsp;Folha de S.PauloCaneta para crianças? Estudo mostra efeito da semaglutida entre pequenos de 6 a 11 anos&nbsp;&nbsp;VEJARemédio contra obesidade reduz peso de crianças em 16,2% a mais que placebo, aponta estudo&nbsp;&nbsp;bra1.com.brEstudo aponta eficácia de medicamentos para emagrecer em crianças a pa",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeWk2WXVnS2IzWlRSYy1KWC05OFFrR3VMVHZPSjVQeGQ3bjA0UG1lUTVxWi1JRThYUG55MThIYk1MYm1zZUlES2tWaVczMmN3a0phXzNnUkV0N0l2dGJqdlJYNk1kcVhLVnJ2TTcwNGd0TnBYeDQ5WUl6aTNsOVNBLXZjc2NBSWw3TVdsbmxDSENmME9hYU1jM2pYYzVXNzlZb3BwQ1Z5ckhUQnE1R1VDN1hyUTVHdWpneEF2NjVxeTlxOHpYby14STExd2IxODNRbVJkRg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "574caac08077",
-      "title": "RPT confirma 12 casos de mpox; Saúde reforça medidas de prevenção - O Liberal",
-      "published": "2026-11-21T11:22:00+00:00",
-      "summary": "RPT confirma 12 casos de mpox; Saúde reforça medidas de prevenção&nbsp;&nbsp;O Liberal",
-      "sources": [
-        {
-          "name": "O Liberal",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLWZ2S0hBODk2dTE0Q1BsVnpRV3JXT191V3JTN3BUei02dzNTcWVXVEZ2YnJBYzA4aDFRcnMxWm9PaXd6TXBkbDR6b0l6M1VwTElLV1AyY1pfcXFJSXozNkhjblJnalhab0V2YzZQWE1jcHZIYlAyc19taVJoMEc4NTRRdlRSSlNPQTYwSnV1XzBHZWNSeFQxZW1BblRveHJncHJnSg?oc=5"
         }
       ]
     },
@@ -213,35 +225,11 @@
       "id": "c066bc2aa296",
       "title": "O jeito de preparar o ovo pode fazer diferença para o colesterol; veja recomendações - O GLOBO",
       "published": "2026-11-21T06:30:00+00:00",
-      "summary": "O jeito de preparar o ovo pode fazer diferença para o colesterol; veja recomendações&nbsp;&nbsp;O GLOBOO ovo é saudável? Conheça seus benefícios e cuidados no consumo&nbsp;&nbsp;Folha de S.PauloNão jogue mais a gema fora: pesquisas mostram que o consumo moderado de ovos reduz a mortalidade por doenças cardiovasculares em 29%&nbsp;&nbsp;TudoGostosoComer ovos todos os dias faz mal à saúde?&nbsp;&nbsp;24 NotíciasTrês no máximo? Entenda o que a nutricionistas dizem sobre o consumo semanal de ovos&nb",
+      "summary": "O jeito de preparar o ovo pode fazer diferença para o colesterol; veja recomendações&nbsp;&nbsp;O GLOBONão jogue mais a gema fora: pesquisas mostram que o consumo moderado de ovos reduz a mortalidade por doenças cardiovasculares em 29%&nbsp;&nbsp;TudoGostosoComer ovos todos os dias faz mal à saúde?&nbsp;&nbsp;24 NotíciasTrês no máximo? Entenda o que a nutricionistas dizem sobre o consumo semanal de ovos&nbsp;&nbsp;Rádio PampaSaiba sobre os benefícios do consumo diário do ovo&nbsp;&nbsp;G1",
       "sources": [
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQR1NUNmJTdi1YdEUzdXhzRWRqR3ZUc3pEX3Jab3ExN2RiVFJDdnN1eThpUUZzUWg4VWItU1c0U25SeUFJOEZSSWx6RS0wZ2tIZ2c1LTFwTUpiMjlia0NFWHdUcmwtQ3F5ZHZjUWlua016TlA5c3loN1hMNlFfVEhfRWhhdXo2WHNiYU5HZDBiYzNMOXJEQVFfM25ZbFcxdlFQdkhRdlpJMm8wWGlUbmQxUWh0dlg3WHYtZ3Y1UEM0UmJOZDFOWlo0dVNuaG1OU3ZZX0ZtU19B0gHkAUFVX3lxTE9hX1g5ZWNKU0VYTW5RZ0cteEotWXJGcW5iMVhJVEtQbExNcXdHeUFBcklJd2sycVRDWnc2ejFDLW9YNC1xVXpUbmZlb1E4aURlV0ZLSzhtaDlzV05PSlRfdXAzVmd1ajBEalozRERPMEpuQ1JXa0lUWDlPeVU5V3d0WkNvdnpjTmtDSVdDakRTcVdxYTlvY0Q1QVZUTGhUYjNySWhTMmV4QzFCM19jTUhGNnYwLUpoMFRjaTI0MmpsaFFCenFoRFh2V1JmdVF1c0szR3JZUTNtV3c5b3NiMmJqUmhyWQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "522ca16e1aa8",
-      "title": "Maceió está perdendo sua sombra: a destruição de um patrimônio ambiental - 082noticias.com",
-      "published": "2026-11-21T06:09:07+00:00",
-      "summary": "Maceió está perdendo sua sombra: a destruição de um patrimônio ambiental&nbsp;&nbsp;082noticias.com",
-      "sources": [
-        {
-          "name": "082noticias.com",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSGQxU2trSjFlZlltSUhMM1hxWFZNWHY1WFNUU3lxUy1sYW5vbGtmMzF1VnhiZ3dZYjNxQWpqdEhlYkphQnJoRDhnWXNxQ3ZENGR0MGVKQW9pRDhFSkRKYzdWcUFlLUt0RXNhZjFvRkVINFRvTkF1aWhkMkFobDh5SDJBTnZ4X1R3NjlQTnNzN0EzOC15VEozakVQQVU0OUhwRDBPTWU2Yw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3b96069ffe73",
-      "title": "“Um susto enorme”: aos 63, homem sem sintomas descobre câncer de próstata - Metrópoles",
-      "published": "2026-11-21T05:00:00+00:00",
-      "summary": "“Um susto enorme”: aos 63, homem sem sintomas descobre câncer de próstata&nbsp;&nbsp;MetrópolesNovembro Azul: entre a fé e a esperança, aposentado de Umuarama relata luta contra o câncer de próstata&nbsp;&nbsp;OBemdito",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON3NDT0dhOGdBc19NUDBndkVFdHNRcmxBWUJhekg0NjlqOXplRVpyOU9JcXpKSF9DQlBwWEYxVnhTWmJTQWpMNVp3RFFqYVBrdTZQTlhvWFhpUnU1dWJPV3FIdDdlMWVYM05paktxMnQ5OEZ0UVdHWHhnYktRTHdoa0RFNllKVFM3QjFMRVRHMDljbzFRVGs0WXFBblByV0ZhOGdFbQ?oc=5"
         }
       ]
     },
@@ -261,7 +249,7 @@
       "id": "c85736850db3",
       "title": "Fadiga ocular: conheça as causas, os sintomas e como evitar - Portal Drauzio Varella",
       "published": "2026-11-20T19:05:28+00:00",
-      "summary": "Fadiga ocular: conheça as causas, os sintomas e como evitar&nbsp;&nbsp;Portal Drauzio VarellaUso prolongado de telas pode causar olho seco e afetar a concentração&nbsp;&nbsp;D24AMMenopausa pode afetar a saúde dos olhos; veja os sinais de alerta&nbsp;&nbsp;iG SaúdeMiopia: a epidemia silenciosa da infância&nbsp;&nbsp;Dhoje InteriorHora a mais de tela está associada a mais chances de miopia em crianças&nbsp;&nbsp;Cenário Minas",
+      "summary": "Fadiga ocular: conheça as causas, os sintomas e como evitar&nbsp;&nbsp;Portal Drauzio VarellaUso prolongado de telas pode causar olho seco e afetar a concentração&nbsp;&nbsp;D24AMMiopia: a epidemia silenciosa da infância&nbsp;&nbsp;Dhoje InteriorAumento alarmante de doenças oculares entre os jovens.&nbsp;&nbsp;Vietnam.vnHOYA Vision Care promove campanha para ampliar a conscientização sobre a miopia infantil&nbsp;&nbsp;Portal da Propaganda",
       "sources": [
         {
           "name": "Portal Drauzio Varella",
@@ -270,22 +258,10 @@
       ]
     },
     {
-      "id": "fe8fc07327ff",
-      "title": "Paciente com Mpox em Juiz de Fora relata sintomas e isolamento: 'Achei que era dengue' - G1",
-      "published": "2026-11-20T15:37:20+00:00",
-      "summary": "Paciente com Mpox em Juiz de Fora relata sintomas e isolamento: 'Achei que era dengue'&nbsp;&nbsp;G1Primeiro caso de Mpox em Montes Claros, prisão de homem que confessou dois assassinatos e acidente em córrego; veja as notícias mais lidas da semana&nbsp;&nbsp;G1Divinópolis confirma dois casos de Mpox e investiga outros três&nbsp;&nbsp;Portal ArcosJuiz de Fora é a segunda cidade de Minas com mais casos confirmados de Mpox em 2026&nbsp;&nbsp;Acessa.comUPA revela detalhes do primeiro atendimento a ",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMjNmNGFXOGJXSGJMUkNvanFsblZ2TUk2QzloMklvMlF1QmppTE15ODRRUVJQWEJvRVoydHF6czFINjF0UmFYdW1jbmYyU3hWSWM1WnJwN2hiSlUzTVVnUF9CSkdNWDJ3Z2JVeFpOOXJPdWJNUDhYNnF3S2t4RUhUXy1xSWJMbjFsVURNQjd2aHlMWEF5UnI4cVV3M3FORnVhNkM5eEc0M3JvSDBrZU0yUzRGLVlEVks4SS1KYWRncjRjdlM1SWhJMkEzNmpjMm96Nk56TElpcEVLTWtUTEHSAewBQVVfeXFMT1hXOHlWRkNGWENiLVkxeGtQRFBEQ2dDY002U29Eb2RtN2EyN0RUMXkzanFMV2VmcC03djIwd0NjdFp1WGdnWmstdEV2MGs0ZTd2a25Gcnd3V3dDcFpFdE95ZTNud0FKVmF5LWtDRlk5YmtvRmxOSlhCUllCaHhlODYtcFkwNnUxUG9XQUJuMDROUWl1aWhFaU5MRkhSSlM5RUZmY2t1elNFdzV3QXVoYmVRTllkQjk5OHhuQWxyZHdyYUp1dUdqMldOdzNyWDJ3cUYzM2dfb2ptRXVnbVAzUEo0MTF1UllEblFYSTk?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a92daf162813",
       "title": "Como comprimido diário é a grande esperança contra um dos cânceres mais letais - BBC",
       "published": "2026-11-20T15:21:44+00:00",
-      "summary": "Como comprimido diário é a grande esperança contra um dos cânceres mais letais&nbsp;&nbsp;BBCCâncer de pâncreas: estratégia com remédio inovador controla doença por mais de 1 ano&nbsp;&nbsp;VEJATratamento promissor contra câncer de pâncreas recebe aval da Agência Europeia de Medicamentos&nbsp;&nbsp;UOL NotíciasNovo tratamento contra câncer de pâncreas faz tumores desaparecerem; médicos comemoram&nbsp;&nbsp;Só Notícia Boa\"É o maior avanço que vimos em décadas\": medicamento para tratar cancro do p",
+      "summary": "Como comprimido diário é a grande esperança contra um dos cânceres mais letais&nbsp;&nbsp;BBCCâncer de pâncreas: estratégia com remédio inovador controla doença por mais de 1 ano&nbsp;&nbsp;VEJATratamento promissor contra câncer de pâncreas recebe aval da Agência Europeia de Medicamentos&nbsp;&nbsp;UOL NotíciasNovo tratamento contra câncer de pâncreas faz tumores desaparecerem; médicos comemoram&nbsp;&nbsp;Só Notícia BoaEsperança renasce: Novo tratamento para cancro do pâncreas aprovado pela UE&",
       "sources": [
         {
           "name": "BBC",
@@ -321,7 +297,7 @@
       "id": "c185d2626223",
       "title": "Mpox Avança em São Paulo e Estado Recebe Novas Doses de Vacina; Veja os Grupos Prioritários - Forbes Brasil",
       "published": "2026-11-19T16:46:49+00:00",
-      "summary": "Mpox Avança em São Paulo e Estado Recebe Novas Doses de Vacina; Veja os Grupos Prioritários&nbsp;&nbsp;Forbes BrasilMpox na mira: Ministério da Saúde anuncia aquisição de 25 mil doses de vacina&nbsp;&nbsp;VEJASP ganha novas doses da vacina contra a mpox; saiba quem pode receber&nbsp;&nbsp;Agência BrasilApós alta de casos, Estado de SP recebe mais mil doses de vacina contra Mpox | Brasil&nbsp;&nbsp;Valor EconômicoSão Paulo recebe mil doses da vacina contra a mpox; veja quem pode tomar&nbsp;&nbsp;",
+      "summary": "Mpox Avança em São Paulo e Estado Recebe Novas Doses de Vacina; Veja os Grupos Prioritários&nbsp;&nbsp;Forbes BrasilMpox na mira: Ministério da Saúde anuncia aquisição de 25 mil doses de vacina&nbsp;&nbsp;VEJAVacina contra mpox está disponível para grupos prioritários no Piauí; veja quem pode receber&nbsp;&nbsp;G1Vacinação contra mpox é ampliada em BH para mais grupos prioritários&nbsp;&nbsp;Portal do HolandaApós 433 casos de Mpox, SP recebe mil novas doses de vacina&nbsp;&nbsp;CNN Brasil",
       "sources": [
         {
           "name": "Forbes Brasil",
@@ -381,7 +357,7 @@
       "id": "878d36cc4c73",
       "title": "Calvície: cientistas criam pente elétrico para fazer o cabelo crescer - O GLOBO",
       "published": "2026-11-16T11:30:49+00:00",
-      "summary": "Calvície: cientistas criam pente elétrico para fazer o cabelo crescer&nbsp;&nbsp;O GLOBOPente experimental estimula crescimento capilar e supera tratamentos convencionais em ratos&nbsp;&nbsp;UOL NotíciasCientistas desenvolvem pente elétrico contra calvície melhor que minoxidil&nbsp;&nbsp;Agencia PressAdeus à calvície? Cientistas criam pente elétrico que promete recuperar quase 100% do cabelo&nbsp;&nbsp;Men's HealthFim da calvície? Pente elétrico recupera quase 100% dos pelos em teste com animais",
+      "summary": "Calvície: cientistas criam pente elétrico para fazer o cabelo crescer&nbsp;&nbsp;O GLOBOPente experimental supera tratamentos contra calvície em testes com ratos&nbsp;&nbsp;DW.comFim da calvície? Pente elétrico criado na China promete estimular crescimento capilar, mas dermatologista recomenda cautela&nbsp;&nbsp;Jornal OpçãoCientistas desenvolvem pente elétrico contra calvície melhor que minoxidil&nbsp;&nbsp;Agencia PressFim da calvície? Pente elétrico recupera quase 100% dos pelos em teste com ",
       "sources": [
         {
           "name": "O GLOBO",
