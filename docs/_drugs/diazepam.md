@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "Diazepam"
 predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "sleep disorder, initiating and maintaining sleep", "attention deficit hyperactivity disorder, inattentive type", "hallucinogen abuse", "antidepressant type abuse", "barbiturate abuse", "specific developmental disorder", "attention deficit-hyperactivity disorder", "obsolete neurogenic bladder (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Diazepam: nova indicação prevista, Insônia (insomnia (disease)) (nível de evidência L2). No Brasil, registros na ANVISA: 53 (ativos: 18)"
 ---
 
@@ -81,7 +81,52 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Segundo os dados regulatórios compilados, o diazepam está **comercializado** no Brasil. Constam 53 registros no total, dos quais 18 estão válidos e 35 cancelados. Os dados disponíveis não trazem o detalhamento individual dos registros (nome comercial, forma farmacêutica), por isso não é possível apresentá-lo aqui.
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100630313 | DIAZEPAM | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 101860019 | SANTIAZEPAM | SANTISA LABORATÓRIO FARMACÊUTICO S/A | Ativo |
+| 101860030 | DIAZEPAM | SANTISA LABORATÓRIO FARMACÊUTICO S/A | Ativo |
+| 101860037 | SANTIAZEPAM | SANTISA LABORATÓRIO FARMACÊUTICO S/A | Ativo |
+| 102980008 | COMPAZ | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103700511 | DIAZEPAM | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 104970147 | UNI-DIAZEPAX | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971390 | DIAZEPAM | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 107150030 | RELAPAX | CAZI QUIMICA FARMACEUTICA INDUSTRIA E COMERCIO LTD | Ativo |
+| 110390163 | FURP-DIAZEPAM | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Ativo |
+| 110390165 | DIAZEPAM | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Ativo |
+| 110630065 | FAR MANGUINHOS-DIAZEPAM | FUNDAÇÃO OSWALDO CRUZ | Ativo |
+| 113430152 | DIAZEPAM | HIPOLABOR FARMACEUTICA LTDA | Ativo |
+| 135690595 | DIAZEPAM NQ | EMS SIGMA PHARMA LTDA | Ativo |
+| 141070086 | DIAZEPAM | PHARLAB INDÚSTRIA FARMACÊUTICA S.A. | Ativo |
+| 155840121 | DIAZEPAM | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 164250014 | VALIUM | MOKSHA8 BRASIL INDUSTRIA E COMERCIO DE MEDICAMENTO | Ativo |
+| 167730219 | DIAZEPAM | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100330002 | ANSILIVE | LIBBS FARMACÊUTICA LTDA | Cancelado |
+| 100630283 | DIAZEPAM | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101000091 | VALIUM | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Cancelado |
+| 101810282 | CALMOCITENO | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 102350500 | DIAZEPAM | EMS S/A | Cancelado |
+| 102350899 | DISTONIL GI | EMS S/A | Cancelado |
+| 102980367 | COMPAZ RETARD | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Cancelado |
+| 103411050 | VERAPAN | TRB PHARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA LTDA | Cancelado |
+| 104070007 | DIAZEPAM (PORT. 344/98 LISTA B 1) | INSTITUTO VITAL BRAZIL S/A | Cancelado |
+| 104440041 | KIATRIUM | LABORATÓRIO GROSS S. A. | Cancelado |
+| 104650472 | DIENZEPAX | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 104650510 | DIAZEPAM (PORT. 344/98 - LISTA B1) | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 53 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
+
+Segundo os dados regulatórios compilados, o diazepam está **comercializado** no Brasil. Constam 53 registros no total, dos quais 18 estão válidos e 35 cancelados.
+
+<!-- review:begin br-lic-20261124c-diazepam-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Os dados disponíveis não trazem o detalhamento individual dos registros (nome comercial, forma farmacêutica), por isso não é possível apresentá-lo aqui.” Removido: a frase dizia que a lista de registros não estava disponível ou não seria apresentada; esta seção agora traz a tabela de registros gerada por programa a partir dos dados abertos de medicamentos da ANVISA, com todos os registros do medicamento nos dados (os números atualizados estão no resumo rápido e na tabela). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124c-diazepam-1 -->
 
 ## Considerações de Segurança
 
@@ -111,11 +156,12 @@ Consulte a bula para advertências e contraindicações formais.
 
 ## Registro de verificação
 
-Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Valium (diazepam) prescribing information, Waylis Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=260e2041-2bb3-482f-850e-b5d47a7bdbe6) |
+| 2026-11-24 | Removido: “Os dados disponíveis não trazem o detalhamento individual dos registros (nome comercial, forma farmacêutica), por isso não é possível apresentá-lo aqui.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

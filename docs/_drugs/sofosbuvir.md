@@ -93,6 +93,24 @@ Os ensaios mais relevantes entre os recuperados:
 | [26904396](https://pubmed.ncbi.nlm.nih.gov/26904396/) | 2016 | Revisão | Acta Pharm Sin B | Antivirais de ação direta contra o HCV, que é curável, ao contrário de HIV e HBV |
 | [39914746](https://pubmed.ncbi.nlm.nih.gov/39914746/) | 2025 | Análise epidemiológica | J Hepatol | Pessoas tratadas para HCV em 2014-2023 e lições para novas terapias de HBV e HDV |
 
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 102351359 | SOFOSBUVIR | EMS S/A | Ativo |
+| 109290001 | SOVALDI | GILEAD SCIENCES FARMACEUTICA DO BRASIL LTDA | Ativo |
+| 109290003 | EPCLUSA | GILEAD SCIENCES FARMACEUTICA DO BRASIL LTDA | Ativo |
+| 109290010 | VOSEVI | GILEAD SCIENCES FARMACEUTICA DO BRASIL LTDA | Ativo |
+| 110390232 | SOFOSBUVIR | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Ativo |
+| 110630149 | SOFOSBUVIR | FUNDAÇÃO OSWALDO CRUZ | Ativo |
+| 115240005 | SOFOSBUVIR | BLANVER FARMOQUIMICA E FARMACEUTICA S.A. | Ativo |
+| 109290002 | HARVONI | GILEAD SCIENCES FARMACEUTICA DO BRASIL LTDA | Cancelado |
+| 115240007 | SOPHIR | BLANVER FARMOQUIMICA E FARMACEUTICA S.A. | Cancelado |
+
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 - **Interações medicamentosas** (8 registradas):
@@ -119,8 +137,14 @@ Para advertências e contraindicações, consulte a bula.
 **Para prosseguir, é necessário:**
 - Resultados completos do ensaio de fase 2 NCT03312023 (PMID 36045503), com análise dos desfechos HBsAg e HBV DNA.
 - Dados de bula da ANVISA (advertências e contraindicações) e dados de mecanismo de ação, hoje ausentes.
-- Verificar a situação regulatória do sofosbuvir no Brasil, pois os registros compilados indicam zero licenças.
+- Verificar a situação regulatória do sofosbuvir no Brasil.
 - Se houver interesse em reposicionamento viral, considerar indicações com maior plausibilidade mecanística, como a infecção pelo vírus da hepatite E (rank 2), que tem um piloto de fase 2 (NCT03282474, n=10) e dados in vitro. O piloto não mostrou resposta virológica sustentada, portanto também exige cautela.
+
+<!-- review:begin br-lic-20261124c-sofosbuvir-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “do sofosbuvir no Brasil, pois os registros compilados indicam zero licenças.” Corrigido conforme os dados abertos de medicamentos da ANVISA: o medicamento tem registros no Brasil (válidos e cancelados), listados na tabela da seção de informações de comercialização; os números atualizados estão no resumo rápido. Só foi retirada a premissa errada; o restante do texto não foi alterado. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124c-sofosbuvir-1 -->
 
 <!-- review:begin log -->
 
@@ -132,6 +156,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 |------|------|------|------|
 | 2026-11-06 | Removido: “O fármaco também não tem registro ativo no Brasil, segundo os dados compilados” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Sovaldi (sofosbuvir) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=80beab2c-396e-4a37-a4dc-40fdb62859cf) |
+| 2026-11-24 | “do sofosbuvir no Brasil, pois os registros compilados indicam zero licenças.” → “do sofosbuvir no Brasil.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

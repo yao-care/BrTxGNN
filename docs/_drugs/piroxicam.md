@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 529
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Piroxicam"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "WHIM syndrome", "rheumatoid nodulosis", "juvenile idiopathic arthritis"]
 description: "Piroxicam: nova indicação prevista, Colobomatous microphthalmia-rhizomelic dysplasia syndrome (nível de evidência L5). No Brasil, registros na ANVISA: 70 (ativos: 10)"
@@ -90,6 +90,45 @@ Outras revisões (nabumetona, oxaprozina, pirprofeno e sistemas de liberação d
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100580097 | CICLADOL | CHIESI FARMACÊUTICA LTDA | Ativo |
+| 102350468 | PIROXICAM | EMS S/A | Ativo |
+| 105830868 | PIROXICAM | GERMED FARMACEUTICA LTDA | Ativo |
+| 121100386 | FELDENE | PFIZER BRASIL LTDA | Ativo |
+| 125680155 | PIROXICAM | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 141070043 | FARMOXICAM | PHARLAB INDÚSTRIA FARMACÊUTICA S.A. | Ativo |
+| 141070106 | PIROXICAM | PHARLAB INDÚSTRIA FARMACÊUTICA S.A. | Ativo |
+| 154230079 | PIROXICAM | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 155840093 | PIROXICAM | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 155840489 | FLOXICAM | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 100380090 | FELROXIDENE | BRASTERAPICA PHARMACEUTICA LTDA. | Cancelado |
+| 100470193 | ANARTRIT | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100470322 | PIROXICAM | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100580019 | INFLAMENE | CHIESI FARMACÊUTICA LTDA | Cancelado |
+| 100810040 | LISEDEMA | LABORATORIO CLIMAX SA | Cancelado |
+| 100820032 | PIROXENE | ABBOTT PRODUTOS PARA SAÚDE LTDA. | Cancelado |
+| 100890264 | PIROXICAM | MERCK S/A | Cancelado |
+| 101550013 | INFLANAN | MARJAN INDÚSTRIA E COMÉRCIO LTDA | Cancelado |
+| 101810449 | PIROXICAM | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 102160013 | FELDENE | LABORATÓRIOS PFIZER LTDA | Cancelado |
+| 102350760 | PIROXICAM | EMS S/A | Cancelado |
+| 102350915 | FELPIRAN | EMS S/A | Cancelado |
+| 102350939 | PIROXICAM | EMS S/A | Cancelado |
+| 102351207 | PIRFEL | EMS S/A | Cancelado |
+| 102690052 | FELDEXICAM | INSTITUTO NACIONAL QUIMIOTERAPIA | Cancelado |
+| 102940124 | PIROXINID | NEOLATINA COMÉRCIO E INDÚSTRIA FARMACEUTICA S.A | Cancelado |
+| 103700059 | ANFLENE | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
+| 103850058 | PIROXIFAR | LABORATÓRIO FARMACÊUTICO ELOFAR LTDA | Cancelado |
+| 103900178 | INFLANOX | FARMOQUÍMICA S/A | Cancelado |
+| 103920112 | FELDRAN | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 70 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 - **Contraindicações (grafo de conhecimento, não texto de bula):** hipertensão, doença renal, doença hepática (incluindo insuficiência hepática aguda, hepatite e lesão hepática induzida por fármacos), doença da vesícula biliar, insuficiência cardíaca congestiva, doenças cardiovasculares (infarto do miocárdio, trombose coronariana, AVC, infarto cerebral, doença cerebrovascular), distúrbios da coagulação, doença trombótica, úlcera péptica ativa, anemias e hemoglobinopatias, abuso/dependência de substâncias e distúrbios visuais.
@@ -106,7 +145,12 @@ As advertências e contraindicações da bula da ANVISA não estão disponíveis
 
 **Justificativa:**
 - A artrite idiopática juvenil tem estudos com piroxicam e meta-análises de AINEs, porém antigos, pequenos e sem ensaios registrados. Por isso o nível é L3, e não L1/L2.
-- Não há registro no Brasil, o que também dificulta qualquer avanço regulatório.
+
+<!-- review:begin br-lic-20261124c-piroxicam-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Não há registro no Brasil, o que também dificulta qualquer avanço regulatório.” Corrigido conforme os dados abertos de medicamentos da ANVISA: o medicamento tem registros no Brasil (válidos e cancelados), listados na tabela da seção de informações de comercialização; os números atualizados estão no resumo rápido. Só foi retirada a premissa errada; o restante do texto não foi alterado. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124c-piroxicam-1 -->
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), lacuna de dados bloqueante para a triagem de segurança.
@@ -119,11 +163,12 @@ As advertências e contraindicações da bula da ANVISA não estão disponíveis
 
 ## Registro de verificação
 
-Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: piroxicam prescribing information, Sportpharm LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41425352-2a59-43ef-bccc-f8cc69e72be4) |
+| 2026-11-24 | Removido: “- Não há registro no Brasil, o que também dificulta qualquer avanço regulatório.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

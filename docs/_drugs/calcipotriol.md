@@ -70,6 +70,19 @@ A base de evidências é, porém, fraca: consiste em pequenas séries clínicas 
 | [15577148](https://pubmed.ncbi.nlm.nih.gov/15577148/) | 2004 | Relato clínico | Clin Calcium | Tratamento de verrugas senis (queratose seborreica) com formas ativas de vitamina D3 tópica |
 | [10721662](https://pubmed.ncbi.nlm.nih.gov/10721662/) | 2000 | Relato de caso | J Dermatol | Resposta marcante à pomada de calcipotriol em queratose liquenoide crônica (distúrbio queratótico relacionado) |
 
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 185690003 | DAIVONEX | LEO PHARMA LTDA | Ativo |
+| 185690004 | DAIVOBET | LEO PHARMA LTDA | Ativo |
+| 101000584 | DAIVONEX | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Cancelado |
+| 101000608 | DAIVOBET | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Cancelado |
+
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 - **Contraindicações (segundo o grafo de conhecimento TxGNN, não o texto da bula):** insuficiência adrenocortical e doença de Addison; hipercalcemia e outros distúrbios do metabolismo do cálcio e do fósforo; nefrocalcinose; calcinose e calcifilaxia; hipervitaminose; atrofia cutânea; telangiectasia e doenças vasculares periféricas; ictioses; doença de Darier; pseudoxantoma elástico; psoríase gutata.

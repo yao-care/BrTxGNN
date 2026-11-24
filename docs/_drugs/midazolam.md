@@ -85,6 +85,47 @@ Nenhum dos ensaios avalia diretamente a eficácia do midazolam na insônia.
 
 Os demais resultados recuperados (zolpidem em modelo pré-clínico, relatos de caso de COVID-19 em fim de vida e síndrome de Satoyoshi) têm relevância muito limitada e não foram listados.
 
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100850150 | PRONTOMID | LABORATORIOS B. BRAUN S/A | Ativo |
+| 102980143 | DORMIRE | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103700636 | MIDAZOLAM | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700750 | TELOZAM | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103870083 | HYPOZAM | HYPOFARMA - INSTITUTO DE HYPODERMIA E FARMÁCIA LTD | Ativo |
+| 103900204 | DORMONID | FARMOQUÍMICA S/A | Ativo |
+| 104970204 | DORMIUM | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971222 | MIDAZOLAM | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 110110047 | CLORIDRATO DE MIDAZOLAM | NEWCOM FARMACEUTICA LTDA. | Ativo |
+| 113430143 | MIDAZOLAM | HIPOLABOR FARMACEUTICA LTDA | Ativo |
+| 183260067 | MALEATO DE MIDAZOLAM | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+| 100410212 | CLORIDRATO DE MIDAZOLAM | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100430791 | MIDAZOLAM | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100430903 | MALEATO DE MIDAZOLAM - PORT 344/98 - LISTA B1 | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100630203 | MIDADORM | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101000135 | DORMONID | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Cancelado |
+| 101810575 | ZODEL | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101810577 | MALEATO DE MIDAZOLAM | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 103940504 | MALEATO DE MIDAZOLAM (PORT 344/98 LISTA B1) | LABORATÓRIO AMERICANO DE FARMACOTERAPIA S/A | Cancelado |
+| 104650433 | DORMANT | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 105830273 | HIPNAZOLAM | GERMED FARMACEUTICA LTDA | Cancelado |
+| 109740070 | SONOLAM | BIOLAB SANUS FARMACÊUTICA LTDA | Cancelado |
+| 112130213 | MILLAR | BIOSINTÉTICA FARMACÊUTICA LTDA | Cancelado |
+| 113430109 | FENELOM | HIPOLABOR FARMACEUTICA LTDA | Cancelado |
+| 114020091 | CLORIDRATO DE MIDAZOLAM | NOVAFARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 121100331 | MIDAZOLAM | PFIZER BRASIL LTDA | Cancelado |
+| 121100374 | TRACTERA | PFIZER BRASIL LTDA | Cancelado |
+| 123520108 | MALEATO DE MIDAZOLAM | RANBAXY FARMACÊUTICA LTDA | Cancelado |
+| 123610036 | ZOLIDAM | UCB BIOPHARMA LTDA. | Cancelado |
+| 126750058 | MALEATO DE MIDAZOLAM | NOVA QUIMICA FARMACÊUTICA S/A | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 32 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 - **Contraindicações segundo o grafo de conhecimento (não é texto de bula)**: doença pulmonar obstrutiva crônica (incluindo forma grave de início precoce), cirrose hepática, glaucoma de ângulo fechado e doença renal crônica (incluindo insuficiência renal crônica e doença renal terminal).

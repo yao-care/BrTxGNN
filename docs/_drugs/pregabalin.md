@@ -76,6 +76,47 @@ Atualmente não há ensaios clínicos relacionados registrados para a tendinite.
 | [37051935](https://pubmed.ncbi.nlm.nih.gov/37051935/) | 2023 | Relato de caso | Pain Pract | Lesão do nervo cutâneo femoral posterior após maratona, associada a tendinite dos isquiotibiais |
 | [39703364](https://pubmed.ncbi.nlm.nih.gov/39703364/) | 2024 | Pré-clínico (animal) | Adv Pharmacol Pharm Sci | Extrato de *Cissus quadrangularis* na neuropatia induzida por vincristina em ratos; sem relação direta com a pregabalina |
 
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100330222 | JOLIK | LIBBS FARMACÊUTICA LTDA | Ativo |
+| 100431306 | PREGABALINA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431318 | LIMIAR | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431412 | MOBALE | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100470664 | PREGABALINA | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100630300 | PREGABALINA | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 101180619 | INSIT | APSEN FARMACEUTICA S/A | Ativo |
+| 101180629 | INSIT® | APSEN FARMACEUTICA S/A | Ativo |
+| 101180671 | PREGABALINA | APSEN FARMACEUTICA S/A | Ativo |
+| 101180672 | INSIT | APSEN FARMACEUTICA S/A | Ativo |
+| 102351332 | KONDUZ | EMS S/A | Ativo |
+| 102351345 | PREGABALINA | EMS S/A | Ativo |
+| 102351354 | KONDUZ | EMS S/A | Ativo |
+| 102980525 | GLYA | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980551 | PREGABALINA | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103700589 | PREGABALINA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700807 | LYRIPATI | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103720298 | ÁPICE | SUPERA FARMA LABORATÓRIOS S.A | Ativo |
+| 103900236 | PREFISS | FARMOQUÍMICA S/A | Ativo |
+| 104971562 | COMOV | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 105250077 | PREGABALINA | TORRENT DO BRASIL LTDA | Ativo |
+| 105250084 | PREGALPHA | TORRENT DO BRASIL LTDA | Ativo |
+| 105350244 | PREGABALINA | LABORATÓRIO GLOBO SA | Ativo |
+| 105530388 | ZEROPIN | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Ativo |
+| 105730070 | INFOC | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730071 | INFOC | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730109 | PREGABALINA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730457 | DORENE | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730464 | DORENE TABS | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730716 | PREGABALINA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 86 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 - **Contraindicações segundo o grafo de conhecimento (não é texto de bula):** transtorno de ansiedade, transtorno neurótico, transtorno distímico, trombocitopenia, angioedema (incluindo as formas adquirida, hereditária, não histaminérgica e induzida por bloqueadores do sistema renina-angiotensina-aldosterona), miopatia, doença muscular, doença do músculo esquelético, paralisia periódica familiar, rabdomiólise, fasciite nodular, insuficiência renal e bloqueio atrioventricular.

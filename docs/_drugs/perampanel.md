@@ -83,6 +83,17 @@ Para epilepsia visual, a literatura recuperada é geral (revisões, diretrizes e
 | [29663350](https://pubmed.ncbi.nlm.nih.gov/29663350/) | 2018 | Revisão | Epilepsia | Papel dos receptores AMPA e seus antagonistas no estado de mal |
 | [32915470](https://pubmed.ncbi.nlm.nih.gov/32915470/) | 2020 | Estudo animal | Ann N Y Acad Sci | Perampanel e alopregnanolona como adjuvantes do midazolam em estado de mal induzido por DFP em ratos |
 
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 125760029 | FYCOMPA | UNITED MEDICAL LTDA | Ativo |
+| 173100002 | FYCOMPA | EISAI LABORATÓRIOS LTDA | Cancelado |
+
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 - **Interações Medicamentosas**: foram identificadas 56 interações. Entre as listadas, a maioria é de gravidade moderada, incluindo morfina, codeína, hidrocodona, dexametasona, difenoxina, difenoxilato, dronabinol, nabilona, metoclopramida, ópio, sibutramina, etanol, prometazina, cloroquina, hidroxicloroquina, clorfeniramina, azelastina nasal e dextrometorfano. A claritromicina tem interação leve.

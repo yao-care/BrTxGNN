@@ -63,6 +63,16 @@ Não foram encontrados ensaios clínicos nem publicações sobre letermovir ness
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 101710223 | PRIVYMTRA | MERCK SHARP & DOHME FARMACEUTICA LTDA. | Ativo |
+| 101710233 | PRIVYMTRA | MERCK SHARP & DOHME FARMACEUTICA LTDA. | Ativo |
+| 100290204 | PRIVYMTRA | ORGANON FARMACÊUTICA LTDA. | Cancelado |
+
+<!-- licenses:end -->
+
 Segundo os dados locais, o fármaco consta como comercializado, com registros válidos e cancelados (números atualizados no resumo rápido).
 
 <!-- review:begin br-lic-20261106-letermovir-1 -->

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 653
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Travoprost"
 predicted_indications: ["visceral calciphylaxis", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "vascular disease", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis", "idiopathic spontaneous coronary artery dissection", "hemangioendothelioma"]
 description: "Travoprost: nova indicação prevista, Calcifilaxia visceral (visceral calciphylaxis) (nível de evidência L5). No Brasil, registros na ANVISA: 29 (ativos: 10)"
@@ -78,6 +78,44 @@ Atualmente não há ensaios clínicos relacionados registrados para calcifilaxia
 Atualmente não há literatura relacionada para calcifilaxia visceral.
 
 ---
+
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100681109 | TRAVATAN | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 102351004 | TRAVOPROSTA | EMS S/A | Ativo |
+| 103700632 | TRAVOPROSTA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 105830867 | TRAVAMED | GERMED FARMACEUTICA LTDA | Ativo |
+| 105830997 | TRAVAMED MT | GERMED FARMACEUTICA LTDA | Ativo |
+| 105831052 | TRAVAMED BAK FREE | GERMED FARMACEUTICA LTDA | Ativo |
+| 118190325 | TRAVOPROSTA | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 154230209 | TRAVOPROSTA | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 154230213 | TRAVOPTIC | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 183260249 | TRAVOPROSTA | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+| 100230244 | TRAVATAN | ALCON LABORATÓRIOS DO BRASIL LTDA. | Cancelado |
+| 100230266 | DUO-TRAVATAN | ALCON LABORATÓRIOS DO BRASIL LTDA. | Cancelado |
+| 100681104 | DUO-TRAVATAN | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 101810640 | TEGASER | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101810641 | TRAVOPROSTA | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 102351029 | TRAVOP | EMS S/A | Cancelado |
+| 102980463 | AITRAVIC | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Cancelado |
+| 103700666 | TRAVOFTAL | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
+| 105830722 | TRAVOPROSTA | GERMED FARMACEUTICA LTDA | Cancelado |
+| 105830723 | TRAVAMED | GERMED FARMACEUTICA LTDA | Cancelado |
+| 105830866 | TRAVOPROSTA | GERMED FARMACEUTICA LTDA | Cancelado |
+| 113001141 | TRAVOPROSTA | SANOFI-AVENTIS FARMACÊUTICA LTDA | Cancelado |
+| 113001142 | GLAUSTAR | SANOFI-AVENTIS FARMACÊUTICA LTDA | Cancelado |
+| 126750144 | TRAVOPROSTA | NOVA QUIMICA FARMACÊUTICA S/A | Cancelado |
+| 126750261 | TRAVOPROSTA | NOVA QUIMICA FARMACÊUTICA S/A | Cancelado |
+| 135690638 | ANTIGLAU | EMS SIGMA PHARMA LTDA | Cancelado |
+| 167730330 | TRAVAPRESS | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 167730331 | TRAVOPROSTA | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 183260250 | TEGASER | SANOFI MEDLEY FARMACÊUTICA LTDA. | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

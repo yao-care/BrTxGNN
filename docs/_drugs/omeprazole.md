@@ -86,6 +86,47 @@ Além disso, estudos em ratos sugerem que o bloqueio ácido na presença de refl
 
 Não aplicável: omeprazol não é antineoplásico, portanto esta seção foi omitida.
 
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100430730 | OMEPRAZOL SÓDICO | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100630259 | OMEPRAZOL | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 102350616 | OMEPRAZOL | EMS S/A | Ativo |
+| 102980327 | OMEPRAZOL SÓDICO | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980354 | OMEPRAZOL | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103700357 | OMEPRAZOL | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700675 | TEUTOZOL | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700771 | OMEPRAZOL SÓDICO | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 104810140 | OMEPRAZOL | 1FARMA INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 104810141 | NEPRAZOL GASTRO | 1FARMA INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 104971196 | UNIPRAZOL | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 105350172 | OMEPRAZOL | LABORATÓRIO GLOBO SA | Ativo |
+| 105350178 | NOVOPRAZOL | LABORATÓRIO GLOBO SA | Ativo |
+| 105710083 | OMOPREL | BELFAR LTDA | Ativo |
+| 105730216 | GASTRIUM | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730282 | OMEPRAMIX | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730544 | OMEPRAZOL | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105830969 | OMEPRAZOL | GERMED FARMACEUTICA LTDA | Ativo |
+| 113430173 | OMEPRAZOL | HIPOLABOR FARMACEUTICA LTDA | Ativo |
+| 115600174 | EUPEPT | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
+| 115600184 | OMEPRAZOL | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
+| 116370096 | OPRAZON | BLAU FARMACÊUTICA S.A. | Ativo |
+| 116370165 | OMEPRAZOL SÓDICO | BLAU FARMACÊUTICA S.A. | Ativo |
+| 118190233 | LOZEPREL | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 118190267 | OMEPRAZOL | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 118190417 | OMEPRAZOL | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 125680337 | PRATIPRAZOL | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 125680345 | OMEPRAZOL | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 141070007 | ELPRAZOL | PHARLAB INDÚSTRIA FARMACÊUTICA S.A. | Ativo |
+| 141070618 | OMEPRAZOL | PHARLAB INDÚSTRIA FARMACÊUTICA S.A. | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 128 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 - **Contraindicações segundo o grafo de conhecimento (não é texto de bula)**: insuficiência hepática, doença hepática, doença da vesícula biliar, insuficiência cardíaca congestiva, osteoporose, osteoporose pós-menopausa, fratura óssea e gastrite atrófica crônica.

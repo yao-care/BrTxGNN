@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "LATANOPROST"
 predicted_indications: ["visceral calciphylaxis", "hypotrichosis simplex of the scalp", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "congenital hypotrichosis milia", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Latanoprost: nova indicação prevista, Calcifilaxia visceral (visceral calciphylaxis) (nível de evidência L5). No Brasil, registros na ANVISA: 50 (ativos: 20)"
 ---
 
@@ -67,6 +67,47 @@ Atualmente não há ensaios clínicos relacionados registrados.
 ## Evidências da Literatura
 
 Atualmente não há literatura relacionada.
+
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 102350975 | LATANOPROSTA + MALEATO DE TIMOLOL | EMS S/A | Ativo |
+| 102351162 | LATONAN | EMS S/A | Ativo |
+| 102351185 | LATANOPROSTA | EMS S/A | Ativo |
+| 102980604 | VOLATA | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980615 | VOLATA MT | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 104971538 | MONOLATAN | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 105730166 | TIVECOM | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730175 | TIVEFREE | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105830654 | DRENATAN | GERMED FARMACEUTICA LTDA | Ativo |
+| 105830873 | LATANOPROSTA + MALEATO DE TIMOLOL | GERMED FARMACEUTICA LTDA | Ativo |
+| 119610018 | ARULATAN | BL INDÚSTRIA OTICA LTDA | Ativo |
+| 119610030 | LATANOPROSTA | BL INDÚSTRIA OTICA LTDA | Ativo |
+| 123520286 | LATANOPROSTA + MALEATO DE TIMOLOL | RANBAXY FARMACÊUTICA LTDA | Ativo |
+| 146820104 | TILUMUS | SUN FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 154230194 | LATANOPROSTA | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 154230195 | XALOFTAL | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 154230197 | LATANOPROSTA + MALEATO DE TIMOLOL | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 154230198 | XALANOFT | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 188300103 | XALACOM | VIATRIS FARMACEUTICA DO BRASIL LTDA | Ativo |
+| 188300105 | XALATAN | VIATRIS FARMACEUTICA DO BRASIL LTDA | Ativo |
+| 102160129 | XALATAN | LABORATÓRIOS PFIZER LTDA | Cancelado |
+| 102160149 | XALACOM | LABORATÓRIOS PFIZER LTDA | Cancelado |
+| 102160274 | XALACOM | LABORATÓRIOS PFIZER LTDA | Cancelado |
+| 102160275 | XALATAN | LABORATÓRIOS PFIZER LTDA | Cancelado |
+| 102350943 | LATANOPROSTA | EMS S/A | Cancelado |
+| 105830640 | LATANOPROSTA | GERMED FARMACEUTICA LTDA | Cancelado |
+| 105830673 | LATANOPROSTA + MALEATO DE TIMOLOL | GERMED FARMACEUTICA LTDA | Cancelado |
+| 105830859 | LATANOPROSTA | GERMED FARMACEUTICA LTDA | Cancelado |
+| 115350001 | XALATAN | UPJOHN BRASIL IMPORTADORA E DISTRIBUIDORA DE MEDIC | Cancelado |
+| 115350002 | XALACOM | UPJOHN BRASIL IMPORTADORA E DISTRIBUIDORA DE MEDIC | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 50 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

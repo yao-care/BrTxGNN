@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 485
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Olmesartan: nova indicação prevista, Angina de Prinzmetal (Prinzmetal angina) (nível de evidência L5). Indicação original: Não disponível nos dados compilados"
 monitor_inn: "Olmesartan"
 predicted_indications: ["Prinzmetal angina", "hypotrichosis simplex of the scalp", "migraine disorder", "alopecia", "pulmonary hypertension", "congenital hypotrichosis milia", "diffuse alopecia areata", "migraine with brainstem aura", "kyphoscoliotic heart disease", "open-angle glaucoma"]
@@ -41,7 +41,13 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 Olmesartana é um bloqueador do receptor de angiotensina II (AT1), classe usada classicamente no tratamento da hipertensão arterial. Não há registro de indicação original no Brasil nos dados compiladros para este relatório.
 O modelo TxGNN prevê que pode ser eficaz para **Angina de Prinzmetal (Prinzmetal angina)**, porém atualmente com **0 ensaios clínicos** e **0 publicações** apoiando esta direção específica (apenas previsão do modelo).
 
-> Observação: a indicação original não consta nos dados compilados (nenhum registro na ANVISA). A menção à hipertensão baseia-se no conhecimento geral sobre a classe do fármaco.
+> Observação: a indicação original não consta nos dados compilados. A menção à hipertensão baseia-se no conhecimento geral sobre a classe do fármaco.
+
+<!-- review:begin br-lic-20261124c-olmesartan-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “a indicação original não consta nos dados compilados (nenhum registro na ANVISA).” Corrigido conforme os dados abertos de medicamentos da ANVISA: o medicamento tem registros no Brasil (válidos e cancelados), listados na tabela da seção de informações de comercialização; os números atualizados estão no resumo rápido. Só foi retirada a premissa errada; o restante do texto não foi alterado. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124c-olmesartan-1 -->
 
 ---
 
@@ -80,6 +86,37 @@ Atualmente não há ensaios clínicos relacionados registrados.
 Atualmente não há literatura relacionada.
 
 ---
+
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431290 | OLMESARTANA MEDOXOMILA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431297 | HOLMES | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431367 | OLSAR | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 102351350 | OLMEDIX HCT | EMS S/A | Ativo |
+| 104540175 | BENICARANLO | DAIICHI SANKYO BRASIL FARMACÊUTICA LTDA | Ativo |
+| 105250058 | OLMECOR | TORRENT DO BRASIL LTDA | Ativo |
+| 118190441 | HIPOXOMIL HCT | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 118190452 | OLMESARTANA MEDOXOMILA+HIDROCLOROTIAZIDA | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 125680349 | OLMESARTANA MEDOXOMILA | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 155370100 | OLMESARTANA MEDOXOMILA | ACCORD FARMACÊUTICA LTDA | Ativo |
+| 167730648 | OLMEGRAN HCT | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 102160169 | OLMETEC HCT | LABORATÓRIOS PFIZER LTDA | Cancelado |
+| 102160222 | OLMETECANLO | LABORATÓRIOS PFIZER LTDA | Cancelado |
+| 121100358 | OLMETEC HCT | PFIZER BRASIL LTDA | Cancelado |
+| 126750291 | OLMESIP | NOVA QUIMICA FARMACÊUTICA S/A | Cancelado |
+| 137640144 | OLMETRAT | ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 137640145 | OLMESARTANA MEDOXOMILA | ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 167730422 | OLMESARTANA MEDOXOMILA+BESILATO DE ANLODIPINO | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 183260279 | FLUXOCOR ANLO | SANOFI MEDLEY FARMACÊUTICA LTDA. | Cancelado |
+| 194270030 | OLTANA H | MOMENTA FARMACÊUTICA LTDA. | Cancelado |
+
+Os dados contêm apenas parte dos registros; a lista pode estar incompleta.
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 
@@ -125,6 +162,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, o fármaco não possui registro no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “a indicação original não consta nos dados compilados (nenhum registro na ANVISA).” → “a indicação original não consta nos dados compilados.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

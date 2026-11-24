@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "CAPTOPRIL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Captopril: nova indicação prevista, doença renal hipertensiva maligna (malignant hypertensive renal disease) (nível de evidência L5). No Brasil, registros na ANVISA: 134 (ativos: 32)"
 ---
 
@@ -71,6 +71,47 @@ Atualmente não há ensaios clínicos relacionados registrados.
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
 | [28902735](https://pubmed.ncbi.nlm.nih.gov/28902735/) | 2017 | Relato de caso | Clinical Nuclear Medicine | Renografia com captopril positiva sem estenose de artéria renal; a causa foi um grande carcinoma renal cromófobo, e a hipertensão renina-dependente regrediu após a nefrectomia. Uso diagnóstico, não terapêutico. |
+
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100380098 | CAPTOPRIL | BRASTERAPICA PHARMACEUTICA LTDA. | Ativo |
+| 100630288 | CAPTOPRIL | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 101790003 | LAFESC-CAPTOPRIL | SECRETARIA DE ESTADO DA SAÚDE | Ativo |
+| 102350454 | CAPTOPRIL | EMS S/A | Ativo |
+| 102980314 | CAPTOPRIL | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103700452 | CAPTOPRIL | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103920161 | CAPTOPRIL | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 105350104 | CAPTOCORD | LABORATÓRIO GLOBO SA | Ativo |
+| 105350181 | CAPTOPRIL | LABORATÓRIO GLOBO SA | Ativo |
+| 105710115 | CAPTOMIDO | BELFAR LTDA | Ativo |
+| 105710156 | CAPTOPRIL | BELFAR LTDA | Ativo |
+| 105830827 | CAPTOPRIL | GERMED FARMACEUTICA LTDA | Ativo |
+| 107150018 | DIUREZIN | CAZI QUIMICA FARMACEUTICA INDUSTRIA E COMERCIO LTD | Ativo |
+| 108840294 | IQUEGO-CAPTOPRIL | INDÚSTRIA QUÍMICA DO ESTADO DE GOIÁS S/A - IQUEGO | Ativo |
+| 110390137 | FURP-CAPTOPRIL | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Ativo |
+| 110390202 | CAPTOPRIL | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Ativo |
+| 112090093 | FUNED-CAPTOPRIL | FUNDAÇÃO EZEQUIEL DIAS - FUNED | Ativo |
+| 112330038 | LAQFA CAPTOPRIL | LABORATORIO QUIMICO FARMACEUTICO DA AERONAUTICA | Ativo |
+| 113430207 | CAPTOPRIL | HIPOLABOR FARMACEUTICA LTDA | Ativo |
+| 118190205 | CAPTOLAB | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 118190208 | CAPTOPRIL | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 125680153 | CAPTOPRIL | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 141070025 | CAPTOSEN | PHARLAB INDÚSTRIA FARMACÊUTICA S.A. | Ativo |
+| 141070100 | CAPTOPRIL | PHARLAB INDÚSTRIA FARMACÊUTICA S.A. | Ativo |
+| 143810013 | CAPTOMED | CIMED INDUSTRIA S.A | Ativo |
+| 143810235 | CAPTOPRIL | CIMED INDUSTRIA S.A | Ativo |
+| 144930064 | CAPTOPRIL | AIRELA INDÚSTRIA FARMACÊUTICA LTDA. | Ativo |
+| 151670036 | CAPTOPRIL | AUROBINDO PHARMA INDÚSTRIA FARMACÊUTICA LIMITADA | Ativo |
+| 154230001 | CAPOX | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 154230282 | CAPTOPRIL | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 134 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

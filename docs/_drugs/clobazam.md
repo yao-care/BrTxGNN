@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Clobazam"
 predicted_indications: ["febrile infection-related epilepsy syndrome", "perioral myoclonia with absences", "atypical childhood epilepsy with centrotemporal spikes", "photosensitive occipital lobe epilepsy", "cryptogenic late-onset epileptic spasms", "childhood onset epileptic encephalopathy", "benign occipital epilepsy", "early-onset epileptic encephalopathy and intellectual disability due to GRIN2A mutation", "restless legs syndrome", "polymicrogyria with optic nerve hypoplasia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clobazam: nova indicação prevista, síndrome epiléptica relacionada à infecção febril (febrile infection-related epilepsy syndrome) (nível de evidência L5). Indicação original: Não consta nos dados lo…"
 ---
 
@@ -72,6 +72,23 @@ Atualmente não há ensaios clínicos relacionados registrados.
 |------|-----|------|------|---------|
 | [35770765](https://pubmed.ncbi.nlm.nih.gov/35770765/) | 2022 | Série de casos | Epileptic Disorders | Lorazepam enteral como estratégia eficaz de retirada gradual em pacientes dependentes de midazolam |
 | [39958143](https://pubmed.ncbi.nlm.nih.gov/39958143/) | 2025 | Relato de caso | Cureus | Perampanel com potencial para reduzir a dependência de barbitúricos em um menino de 13 anos |
+
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 104400237 | FRISIUM | CELLERA FARMACEUTICA S.A. | Ativo |
+| 104400239 | URBANIL | CELLERA FARMACEUTICA S.A. | Ativo |
+| 113000042 | FRISIUM | SANOFI-AVENTIS FARMACÊUTICA LTDA | Cancelado |
+| 113000236 | URBANIL | SANOFI-AVENTIS FARMACÊUTICA LTDA | Cancelado |
+| 141070659 | URBANIL | PHARLAB INDÚSTRIA FARMACÊUTICA S.A. | Cancelado |
+| 141070660 | FRISIUM | PHARLAB INDÚSTRIA FARMACÊUTICA S.A. | Cancelado |
+| 183260306 | URBANIL | SANOFI MEDLEY FARMACÊUTICA LTDA. | Cancelado |
+| 183260324 | FRISIUM | SANOFI MEDLEY FARMACÊUTICA LTDA. | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

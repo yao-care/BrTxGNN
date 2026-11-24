@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 581
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 monitor_inn: "Selenium"
 predicted_indications: ["sclerosing cholangitis"]
 description: "Selenium: nova indicação prevista, Colangite Esclerosante (sclerosing cholangitis) (nível de evidência L4). No Brasil, registros na ANVISA: 4 (ativos: 0)"
@@ -65,7 +65,6 @@ A pontuação alta do TxGNN (0,9904) é uma previsão computacional, sem respald
 
 Atualmente não há ensaios clínicos relacionados registrados para colangite esclerosante.
 
-
 | Número do Ensaio | Fase | Status | Participantes | Principais Achados |
 |---------|------|------|------|---------|
 | [NCT07543562](https://clinicaltrials.gov/study/NCT07543562) | Phase 3 | Recrutando | 4.326 | Ensaio randomizado baseado em registro, de selênio em insuficiência cardíaca; sem resultados ainda |
@@ -93,6 +92,19 @@ Para a insuficiência cardíaca (literatura de maior relevância):
 | [33835398](https://pubmed.ncbi.nlm.nih.gov/33835398/) | 2021 | Revisão | Curr Heart Fail Rep | Selênio, selenoproteínas e insuficiência cardíaca |
 | [40668353](https://pubmed.ncbi.nlm.nih.gov/40668353/) | 2025 | Estudo + meta-análise | Cardiovasc Toxicol | Níveis de selênio em 191 pacientes com ICC e metanálise de suplementação |
 | [40884837](https://pubmed.ncbi.nlm.nih.gov/40884837/) | 2025 | Transversal (NHANES) | J Int Med Res | Associação em U entre selênio sérico e risco de insuficiência cardíaca |
+
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 102470063 | CALVIPAR | HOMEOPATIA WALDEMIRO PEREIRA LABORATORIO INDUSTRIA | Cancelado |
+| 128420019 | CUTIS COMPOSITUM | PROBIOS COMÉRCIO IMPORTAÇÃO E EXPORTAÇÃO LTDA | Cancelado |
+| 128420025 | TESTIS COMPOSITUM | PROBIOS COMÉRCIO IMPORTAÇÃO E EXPORTAÇÃO LTDA | Cancelado |
+| 128420037 | SELENIUM HOMACCORD | PROBIOS COMÉRCIO IMPORTAÇÃO E EXPORTAÇÃO LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

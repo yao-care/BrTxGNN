@@ -88,6 +88,47 @@ Todas as publicações abaixo são estudos pré-clínicos em animais, sem ensaio
 | [25307428](https://pubmed.ncbi.nlm.nih.gov/25307428/) | 2014 | Pré-clínico (animal) | J Stroke Cerebrovasc Dis | Melhora de moléculas relacionadas à síndrome metabólica a longo prazo (IR, PPAR-γ, AT1R) |
 | [20498620](https://pubmed.ncbi.nlm.nih.gov/20498620/) | 2010 | Pré-clínico (animal) | J Hypertens | Dose baixa de telmisartana preveniu dano cerebral isquêmico com ativação de PPARγ em camundongos diabéticos |
 
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431544 | TELMISARTANA + HIDROCLOROTIAZIDA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 102351074 | TELMISARTANA | EMS S/A | Ativo |
+| 102351220 | TELMISART | EMS S/A | Ativo |
+| 102351228 | TELMISARTANA+HIDROCLOROTIAZIDA | EMS S/A | Ativo |
+| 103670110 | MICARDIS | BOEHRINGER INGELHEIM DO BRASIL QUÍMICA E FARMACÊUT | Ativo |
+| 103670134 | MICARDIS HCT | BOEHRINGER INGELHEIM DO BRASIL QUÍMICA E FARMACÊUT | Ativo |
+| 103670166 | MICARDIS ANLO | BOEHRINGER INGELHEIM DO BRASIL QUÍMICA E FARMACÊUT | Ativo |
+| 103700794 | TELMISARTANA + HIDROCLOROTIAZIDA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 105250099 | TELMISARTANA + HIDROCLOROTIAZIDA | TORRENT DO BRASIL LTDA | Ativo |
+| 105250101 | TELD HCT | TORRENT DO BRASIL LTDA | Ativo |
+| 105730162 | BRATELM HCT | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105830912 | TELMISARTANA+HIDROCLOROTIAZIDA | GERMED FARMACEUTICA LTDA | Ativo |
+| 105831029 | TELMISARTANA | GERMED FARMACEUTICA LTDA | Ativo |
+| 118190352 | MISACOR HCT | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 118190456 | TELMISARTANA+HIDROCLOROTIAZIDA | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 123520224 | TELMISARTANA | RANBAXY FARMACÊUTICA LTDA | Ativo |
+| 125680323 | TELMISARTANA | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 135170053 | TELMISARTANA | ALTHAIA S.A. INDUSTRIA FARMACEUTICA | Ativo |
+| 135690706 | BRAMICAR | EMS SIGMA PHARMA LTDA | Ativo |
+| 135690729 | BRAMICAR HCT | EMS SIGMA PHARMA LTDA | Ativo |
+| 155370096 | TELMISARTANA + HIDROCLOROTIAZIDA | ACCORD FARMACÊUTICA LTDA | Ativo |
+| 155840668 | TELMISARTANA + HIDROCLOROTIAZIDA | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 167730566 | TELMISARTANA+HIDROCLOROTIAZIDA | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 167730581 | TELMIGRAN HCT | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100250101 | PRITOR | GLAXO WELLCOME S/A | Cancelado |
+| 100250114 | PRITOR HCT | GLAXO WELLCOME S/A | Cancelado |
+| 101070180 | PRITOR HCT | GLAXOSMITHKLINE BRASIL LTDA | Cancelado |
+| 101070184 | PRITOR | GLAXOSMITHKLINE BRASIL LTDA | Cancelado |
+| 102351090 | TELMISART | EMS S/A | Cancelado |
+| 104920236 | TELMISARTANA + HIDROCLOROTIAZIDA | BIOLAB FARMA GENERICOS LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 49 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 Não há dados de advertências e contraindicações da bula nos dados compilados; consulte a bula para essas informações.

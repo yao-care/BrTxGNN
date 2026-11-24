@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 404
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 monitor_inn: "LEVETIRACETAM"
 predicted_indications: ["beta-ketothiolase deficiency"]
 description: "Levetiracetam: nova indicação prevista, Beta-ketothiolase deficiency (nível de evidência L5). No Brasil, registros na ANVISA: 54 (ativos: 49)"
@@ -55,7 +55,6 @@ O modelo TxGNN prevê que pode ser eficaz para **epilepsia visual (visual epilep
 | Número de Registros | 54 (ativos: 49) |
 | Decisão Recomendada | Hold (indicação principal); Proceed with Guardrails (estado de mal epiléptico) |
 
-
 ---
 
 ## Por que Esta Previsão é Razoável?
@@ -71,7 +70,6 @@ O mesmo raciocínio vale para outras crises reflexas previstas (induzidas por mi
 ## Evidências de Ensaios Clínicos
 
 Para a indicação principal (epilepsia visual), atualmente não há ensaios clínicos relacionados registrados.
-
 
 | Número do Ensaio | Fase | Status | Participantes | Principais Achados |
 |---------|------|------|------|---------|
@@ -107,6 +105,47 @@ Para a epilepsia visual, a literatura recuperada é apenas indireta (crises neon
 
 ---
 
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100330237 | VETYR XR | LIBBS FARMACÊUTICA LTDA | Ativo |
+| 100431270 | LEVETIRACETAM | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431279 | ANTARA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431383 | SPARK | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431467 | LEVETIRACETAM | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431470 | ANTARA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431478 | SPARK | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431481 | ANTARA IV | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431490 | LEVETIRACETAM | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431500 | SPARK XR | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431507 | ANTARA XR | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100470647 | LEVETIRACETAM | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 101180660 | LEVETIRACETAM | APSEN FARMACEUTICA S/A | Ativo |
+| 101180662 | LECZA XR | APSEN FARMACEUTICA S/A | Ativo |
+| 102351429 | LEVETIRACETAM | EMS S/A | Ativo |
+| 102351430 | LEVETIRACETAM | EMS S/A | Ativo |
+| 102351431 | LEVETIRACETAM | EMS S/A | Ativo |
+| 103700806 | VETYPA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700810 | LEVETIRACETAM | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103720289 | TAM | SUPERA FARMA LABORATÓRIOS S.A | Ativo |
+| 103720310 | TAM | SUPERA FARMA LABORATÓRIOS S.A | Ativo |
+| 103720314 | TAM XR | SUPERA FARMA LABORATÓRIOS S.A | Ativo |
+| 105250089 | LEVETIRACETAM | TORRENT DO BRASIL LTDA | Ativo |
+| 105250091 | VEEPI | TORRENT DO BRASIL LTDA | Ativo |
+| 105250105 | VEEPI | TORRENT DO BRASIL LTDA | Ativo |
+| 105250106 | LEVETIRACETAM | TORRENT DO BRASIL LTDA | Ativo |
+| 105730056 | FRONTLEV | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730060 | ETIRA INJETÁVEL | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730064 | FRONTLEV | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730111 | LEVETIRACETAM | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 54 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 - **Contraindicações (relações do grafo de conhecimento, não texto de bula):** transtornos de ansiedade, transtornos neuróticos, distimia, transtornos psicóticos e esquizoafetivos, transtornos mentais em geral, despersonalização, doença renal, doença hepática, doença da vesícula biliar, neutropenia, agranulocitose, leucopenia e pancitopenia.
@@ -127,10 +166,29 @@ Consulte a bula para informações complementares de segurança.
 - O estado de mal epiléptico tem evidência de nível L1 (ensaios de Fase 3, como o ESETT). Porém, o ESETT não mostrou diferença significativa de eficácia entre os três fármacos, de modo que o levetiracetam é uma opção de segunda linha eficaz, não superior. Observe também que se trata de uma indicação já clinicamente consolidada. As indicações por sobressalto e audiogênica (L3) são hipóteses de pesquisa, com evidência pequena, não controlada ou veterinária.
 
 **Para prosseguir, é necessário:**
-- Obter e analisar a bula da ANVISA (advertências e contraindicações), pois a ausência desses dados impede a triagem de segurança. Não há registros do medicamento no Brasil nos dados compilados, e a situação regulatória deve ser confirmada.
+- Obter e analisar a bula da ANVISA (advertências e contraindicações), pois a ausência desses dados impede a triagem de segurança. A situação regulatória deve ser confirmada.
 - Complementar os dados do mecanismo de ação (ex.: consulta ao DrugBank).
 - Para epilepsia visual e demais crises reflexas: estudos clínicos específicos (ex.: ensaio de fotossensibilidade com estimulação fótica intermitente).
 - Para o estado de mal epiléptico: dosagem adequada à idade, monitoramento de efeitos adversos comportamentais, ajuste de dose na insuficiência renal e alinhamento com as diretrizes locais.
+
+<!-- review:begin br-lic-20261124c-levetiracetam-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Não há registros do medicamento no Brasil nos dados compilados, e a situação regulatória deve ser confirmada.” Corrigido conforme os dados abertos de medicamentos da ANVISA: o medicamento tem registros no Brasil (válidos e cancelados), listados na tabela da seção de informações de comercialização; os números atualizados estão no resumo rápido. Só foi retirada a premissa errada; o restante do texto não foi alterado. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124c-levetiracetam-1 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-24 | “Não há registros do medicamento no Brasil nos dados compilados, e a situação regulatória deve ser confirmada.” → “A situação regulatória deve ser confirmada.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

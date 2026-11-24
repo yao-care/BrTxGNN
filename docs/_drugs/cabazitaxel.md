@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Cabazitaxel"
 predicted_indications: ["female breast carcinoma", "sickle cell-beta-thalassemia disease syndrome", "sickle cell-hemoglobin c disease syndrome", "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome", "sickle cell-hemoglobin d disease syndrome", "sickle cell-hemoglobin E disease syndrome", "HIV infectious disease", "hyperthyroidism", "neuroblastoma", "rheumatoid arthritis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cabazitaxel: nova indicação prevista, Carcinoma de mama feminino (female breast carcinoma) (nível de evidência L5). No Brasil, registros na ANVISA: 8 (ativos: 7)"
 ---
 
@@ -83,7 +83,28 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Os dados compilados indicam situação de comercialização "Comercializado", com 7 registros válidos e 1 cancelado. Os detalhes de cada registro (número, nome comercial e forma farmacêutica) não constam nos dados compilados para este relatório.
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431196 | CABAZITAXEL | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431198 | PROAZITAX | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 151430019 | CABAZITAXEL | DR. REDDYS FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 151430020 | CABAZRED | DR. REDDYS FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 155370053 | CABAZITAXEL | ACCORD FARMACÊUTICA LTDA | Ativo |
+| 155370059 | CAAB | ACCORD FARMACÊUTICA LTDA | Ativo |
+| 183260312 | JEVTANA | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+| 113001098 | JEVTANA | SANOFI-AVENTIS FARMACÊUTICA LTDA | Cancelado |
+
+<!-- licenses:end -->
+
+Os dados compilados indicam situação de comercialização "Comercializado", com 7 registros válidos e 1 cancelado.
+
+<!-- review:begin br-lic-20261124c-cabazitaxel-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Os detalhes de cada registro (número, nome comercial e forma farmacêutica) não constam nos dados compilados para este relatório.” Removido: a frase dizia que a lista de registros não estava disponível ou não seria apresentada; esta seção agora traz a tabela de registros gerada por programa a partir dos dados abertos de medicamentos da ANVISA, com todos os registros do medicamento nos dados (os números atualizados estão no resumo rápido e na tabela). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124c-cabazitaxel-1 -->
 
 ## Citotoxicidade
 
@@ -119,11 +140,12 @@ Para advertências e contraindicações formais, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Jevtana (cabazitaxel) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de3d9c26-572b-4ea4-9b2d-dd58a2b3e8fa) |
+| 2026-11-24 | Removido: “Os detalhes de cada registro (número, nome comercial e forma farmacêutica) não constam nos dados compilados para este relatório.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

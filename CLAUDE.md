@@ -597,3 +597,14 @@ arginine 的許可證表照 br_rebuild_by_ingredient --tables 重排、狀態列
 - 舊錯句：112 筆新紀錄 `br-lic-20261124b-*`（102 頁；表格說明 55、張數或全部有效 21、partial 15、前提 9、現行品項被寫成註銷 7、單方／範圍 5），逐句對照證據包 tfda.records 與快照事實層（data-20261123-132649）：表格說明句（「a tabela mostra os 5 primeiros」「Os cinco principais:」「Há mais 4 registros além dos cinco listados」等，程式表最多 30 列）刪掉；「Todos os N registros … válidos」而事實不是全部有效的、張數不符的改成不寫數字；「lista parcial／pelo menos 20」而事實層不是 partial 的刪掉；說「另有 N 張已註銷（品名…）」而其中有現行 Ativo 的 7 句刪掉（loperamide 100470525 等 3 張、oxcarbazepine 3 張、ropivacaine NAROPIN／HYROVI／ROPI、topiramate Toduze／Têmpora／Vidmax、hydroquinone Suavicid／Hormoskin、insulin_human Afrezza／Novolin N／Humulin N、perindopril TRIPLIXAM 都是 Ativo）；說「表上只列單方」而程式表也列複方的改寫；結論／下一步的錯誤前提只拿掉前提（doxorubicin「já que não há registro vigente」、olanzapine「20 registros vigentes」、azacitidina「11 registros」等），建議內容不動。
 - 待查清單 11 句（premise 9、ambiguous 2）全部寫紀錄，標 resolved（附 record_ids）。劑型說法（「apenas injetável」等）掃到 3 句，對照證據包都成立，不改。
 - 驗證：第一輪同一支寬偵測 73 句→1 句（benralizumab 的「IL-5Rα」誤中）；市場段落含張數／列表字樣的行另掃 212 行→108 行，剩下的都是跟事實層一致、由 count_prose 維護的張數句或 partial 頁的保留語；checker 全量前後 0；gate exit 0；`rewrite_license_counts.py` 再跑 0 頁。last_modified_at：368 頁正文（含查核框說明）有變，改 2026-11-24。
+
+## 缺市場段落／段落沒有表的公開頁補程式表（2026-11-24 第三輪）
+
+用戶 2026-11-24 決定（比照 JpTxGNN 第二輪 `add_section`）：公開頁（非 noindex、非轉址）證據包有紀錄，卻整頁沒有「## Informações de Comercialização no Brasil」、或段落在而表不在的，由 `scripts/sync_license_tables.py` 補程式表：
+整頁沒有段落的，`add_section` 在「## Considerações de Segurança」之前（沒有就結論、查核紀錄、免責聲明段之前）補段落；段落沒有表的，程式區塊放在段落開頭。noindex 頁、證據包沒有紀錄的頁照舊不補。
+gate（`src/brtxgnn/regulatory/licenses.py` 第 5 項）擋「公開頁快照有程式表列，卻沒有市場段落或段落沒有程式表」；`license_adapter.PAGE_NOTE` 放行新標題行。
+- 2026-11-24 全量量測：整頁沒有段落 84 頁、段落沒有表 49 頁（第二輪回報的 49 頁），共 133 頁補上（last_modified_at 改 2026-11-24）。
+- 正文跟新表矛盾的句子以 49 筆 `br-lic-20261124c-*` 更正：段落裡「A lista detalhada de registros não está disponível」「por isso a tabela não é apresentada」「Os detalhes dos registros serão adicionados pelo programa」等 33 句刪除或改寫（資料確實沒有的劑型、適應症文字照實保留），
+  非 partial 頁的「a lista pode estar incompleta／parcial」一併刪；tamoxifen 10 月刪句後留下的殘句「Essa informação diverge…」刪；新補段落頁以「não há registros／nenhum registro na ANVISA／zero licenças／ausência de registros ativos／não está registrado nem comercializado」或「lista parcial」為前提的句子 14 句（多是下一步待辦）只拿掉錯的前提。
+  錨在被刪句上的 16 筆 11-06 紀錄改錨到程式表下方（前版存 history，reanchored）。
+- 驗證：checker 全量前後都是 0、gate exit 0；另寫的寬偵測（否定＋註冊／清單字樣）掃 133 頁，剩下的都是 partial 頁的保留語、不講註冊的句子、或成立的（nitrogen、selenium 確實沒有有效登記）。

@@ -72,13 +72,54 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-A lista de registros pode estar incompleta.
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 102980020 | HALO | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980240 | HALO DECANOATO | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103700390 | HALOPERIDOL | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103870085 | HYPORIDROL | HYPOFARMA - INSTITUTO DE HYPODERMIA E FARMÁCIA LTD | Ativo |
+| 104970191 | UNI HALOPER | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971133 | DECAN HALOPER | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971208 | HALOPERIDOL | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971489 | UNI HALOPER | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 110110005 | HALOPERIDOL | NEWCOM FARMACEUTICA LTDA. | Ativo |
+| 125680228 | HALOPERIDOL | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 164250008 | HALDOL DECANOATO | MOKSHA8 BRASIL INDUSTRIA E COMERCIO DE MEDICAMENTO | Ativo |
+| 164250009 | HALDOL | MOKSHA8 BRASIL INDUSTRIA E COMERCIO DE MEDICAMENTO | Ativo |
+| 100410223 | HALOPERIDOL | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100630303 | HALOPERIDOL | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101810193 | PERLADOL | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 102350765 | HALOPERIDOL | EMS S/A | Cancelado |
+| 103700126 | HALOPER | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
+| 103870061 | HALOPERIDOL | HYPOFARMA - INSTITUTO DE HYPODERMIA E FARMÁCIA LTD | Cancelado |
+| 104650173 | NEO HALOP | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 105500158 | HALOPSITOL | UCI - FARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 105830438 | HALOPERIDOL | GERMED FARMACEUTICA LTDA | Cancelado |
+| 110390039 | FURP-HALOPERIDOL | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Cancelado |
+| 110630077 | FARMANGUINHOS - HALOPERIDOL | FUNDAÇÃO OSWALDO CRUZ | Cancelado |
+| 112090098 | FUNED HALOPERIDOL | FUNDAÇÃO EZEQUIEL DIAS - FUNED | Cancelado |
+| 112100014 | HALOPERIDOL | FUNDAÇÃO ESTADUAL DE PRODUÇÃO E PESQUISA EM SAÚDE  | Cancelado |
+| 112330007 | LAQFA-HALOPERIDOL | LABORATORIO QUIMICO FARMACEUTICO DA AERONAUTICA | Cancelado |
+| 112360011 | HALDOL | JANSSEN-CILAG FARMACÊUTICA LTDA | Cancelado |
+| 112360012 | HALDOL DECANOATO | JANSSEN-CILAG FARMACÊUTICA LTDA | Cancelado |
+| 135690302 | HALOPERIDOL | EMS SIGMA PHARMA LTDA | Cancelado |
+| 170420016 | HALOPERIDOL | MCG INDUSTRIA FARMACEUTICA E IMPORTAÇAO LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 <!-- review:begin br-lic-20261106-haloperidol-1 -->
 
 > **Correção de verificação (2026-11-06)**: Texto original: “Os dados compilados indicam 5 registros válidos e 15 cancelados, e a lista de registros pode estar incompleta. Os detalhes de cada registro não estão disponíveis nos dados compilados.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-haloperidol-1 -->
+
+<!-- review:begin br-lic-20261124c-haloperidol-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “A lista de registros pode estar incompleta.” Removido: a frase dizia que a lista de registros seria parcial ou não estaria disponível; os dados abertos de medicamentos da ANVISA usados nesta página trazem todos os registros do medicamento, que estão na tabela desta seção gerada por programa (os números atualizados estão no resumo rápido e na tabela). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124c-haloperidol-1 -->
 
 ## Considerações de Segurança
 
@@ -109,6 +150,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 |------|------|------|------|
 | 2026-11-06 | Removido: “Os dados compilados indicam 5 registros válidos e 15 cancelados, e a Os detalhes de cada registro não estão disponíveis nos dados compilados” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: haloperidol decanoate prescribing information, BluePoint Laboratories](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3d011250-a517-4c27-8ce3-d59d441ea61c) |
+| 2026-11-24 | Removido: “A lista de registros pode estar incompleta.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

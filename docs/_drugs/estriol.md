@@ -73,6 +73,30 @@ O mecanismo é plausível e tem respaldo em dados fisiológicos humanos pequenos
 | [13931724](https://pubmed.ncbi.nlm.nih.gov/13931724/) | 1963 | Revisão | J Clin Endocrinol Metab | Mecanismos de compostos anti-ovulatórios; apenas contexto |
 | [979592](https://pubmed.ncbi.nlm.nih.gov/979592/) | 1976 | Metodologia/Revisão | Die Medizinische Welt | Radioimunoensaio de LH, FSH, progesterona e estrogênios; não constitui evidência terapêutica |
 
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 109740237 | STELE | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 109740254 | ESTRIOL | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 113430204 | ESTRIONIL | HIPOLABOR FARMACEUTICA LTDA | Ativo |
+| 101710030 | OVESTRION | MERCK SHARP & DOHME FARMACEUTICA LTDA. | Cancelado |
+| 102980196 | VAGESTRIL | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Cancelado |
+| 103970017 | HORMOCERVIX | PRODUTOS FARMACÊUTICOS MILLET ROUX | Cancelado |
+| 104650148 | ESTRIOPAX | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 104650469 | ESTRIOL | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 104970182 | STELE | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Cancelado |
+| 107140216 | ESTRIONIL | SANVAL COMERCIO E INDUSTRIA LTDA | Cancelado |
+| 108580196 | ESTRIL | PRODOTTI LABORATÓRIO FARMACÊUTICO LTDA. | Cancelado |
+| 155840219 | ESTRIOL | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Cancelado |
+| 155840239 | ESTRIOPAX | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Cancelado |
+| 172870169 | ESTRIOL | HYPERA S.A. | Cancelado |
+| 172870307 | ESTRIOPAX | HYPERA S.A. | Cancelado |
+
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 - **Interações farmacológicas**: o estriol atua como ligante dos receptores de estrogênio alfa (ESR1) e beta (ESR2). Não há interações medicamentosas clínicas classificadas por nível de gravidade nos dados compilados.

@@ -73,7 +73,46 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Os dados locais indicam que há registros válidos para hesperidina no Brasil (números atualizados no resumo rápido). Não há detalhes de registros individuais disponíveis nos dados compilados para este relatório.
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431096 | PERIVASC | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431376 | DIEVARI | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 102351344 | DIOVASES | EMS S/A | Ativo |
+| 102351353 | PASSARE | EMS S/A | Ativo |
+| 102980608 | CONVIVANCE | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103700267 | VENAFLON | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103720299 | DHIVAS | SUPERA FARMA LABORATÓRIOS S.A | Ativo |
+| 103850117 | DIVEINS | LABORATÓRIO FARMACÊUTICO ELOFAR LTDA | Ativo |
+| 103920203 | BIOVARIXON | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 103920209 | BIOVARIXON | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 103920232 | DUOVAZI | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 103920235 | DUOVAZI | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 104971523 | DVARIZ | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971524 | VARYLIFT | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 105350208 | DIOHESP | LABORATÓRIO GLOBO SA | Ativo |
+| 105730038 | VENOXIDE | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730154 | DISP H | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730159 | DISP H | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730248 | DIOSMIN | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730383 | DIOSMIN SDU | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 106890206 | DIOPLEX DH | KLEY HERTZ FARMACEUTICA S.A | Ativo |
+| 109740124 | FLAVENOS | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 109740250 | DIOEH | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 112780003 | DAFLON | LABORATÓRIOS SERVIER DO BRASIL LTDA | Ativo |
+| 115600191 | VARIFLUX | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
+| 115600283 | CONDUVAZ | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
+| 118190223 | VEVASO | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 123520274 | VEERE | RANBAXY FARMACÊUTICA LTDA | Ativo |
+| 125680341 | HISMERID | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 138450006 | VANNOFLEIVO | SANUSPHAR PESQUISA E DESENVOVIMENTO LTDA | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 51 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
+
+Os dados locais indicam que há registros válidos para hesperidina no Brasil (números atualizados no resumo rápido).
 
 <!-- review:begin br-lic-20261112-hesperidin-1 -->
 
@@ -86,6 +125,12 @@ Os dados locais indicam que há registros válidos para hesperidina no Brasil (n
 > **Correção de verificação (2026-11-24)**: Texto original: “, e a lista pode estar incompleta” Removido: a afirmação de que a lista de registros seria parcial ou limitada a 20 não corresponde mais aos dados; a tabela desta seção é gerada por programa a partir dos dados abertos de medicamentos da ANVISA, e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261124b-hesperidin-1 -->
+
+<!-- review:begin br-lic-20261124c-hesperidin-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Não há detalhes de registros individuais disponíveis nos dados compilados para este relatório.” Removido: a frase dizia que a lista de registros não estava disponível ou não seria apresentada; esta seção agora traz a tabela de registros gerada por programa a partir dos dados abertos de medicamentos da ANVISA, com todos os registros do medicamento nos dados (os números atualizados estão no resumo rápido e na tabela). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124c-hesperidin-1 -->
 
 ## Considerações de Segurança
 
@@ -114,6 +159,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 |------|------|------|------|
 | 2026-11-24 | “(15 válidos e 5 cancelados)” → “(números atualizados no resumo rápido)” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-24 | Removido: “, e a lista pode estar incompleta” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | Removido: “Não há detalhes de registros individuais disponíveis nos dados compilados para este relatório.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

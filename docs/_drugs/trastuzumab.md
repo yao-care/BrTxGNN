@@ -90,6 +90,30 @@ Uma fração substancial dos cânceres de mama HER2-positivos também expressa r
 | [21151204](https://pubmed.ncbi.nlm.nih.gov/21151204/) | 2011 | Revisão | Nat Rev Clin Oncol | Bloqueio do alvo correto em câncer HER2+ e receptor hormonal positivo |
 | [35640077](https://pubmed.ncbi.nlm.nih.gov/35640077/) | 2022 | Diretriz | J Clin Oncol | Atualização da diretriz ASCO sobre terapia sistêmica em câncer de mama HER2+ avançado |
 
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100330199 | ZEDORA | LIBBS FARMACÊUTICA LTDA | Ativo |
+| 100431494 | HERMAB | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 101000552 | HERCEPTIN | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Ativo |
+| 101000659 | KADCYLA | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Ativo |
+| 101000672 | PHESGO | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Ativo |
+| 102440016 | KANJINTI | AMGEN BIOTECNOLOGIA DO BRASIL LTDA. | Ativo |
+| 104540191 | ENHERTU | DAIICHI SANKYO BRASIL FARMACÊUTICA LTDA | Ativo |
+| 105530398 | BISINTEX | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Ativo |
+| 109600002 | TECPAR TRASTUZUMABE | INSTITUTO DE TECNOLOGIA DO PARANA | Ativo |
+| 110630154 | BIO-MANGUINHOS TRASTUZUMABE | FUNDAÇÃO OSWALDO CRUZ | Ativo |
+| 121100473 | TRAZIMERA | PFIZER BRASIL LTDA | Ativo |
+| 151430108 | TUZNUE | DR. REDDYS FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 159210003 | ONTRUZANT | SAMSUNG BIOEPIS BR PHARMACEUTICAL LTDA. | Ativo |
+| 192160002 | HERZUMA | CELLTRION HEALTHCARE DISTRIBUICAO DE PRODUTOS FARM | Ativo |
+| 101000658 | PERJETA HER | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Cancelado |
+
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 - **Interações Medicamentosas**: foram identificadas 94 interações. Entre as de gravidade **maior**: deferiprona, samário (153Sm) lexidronam, adalimumabe e baricitinibe. Entre as de gravidade **moderada**: paclitaxel, varfarina, dicumarol, zidovudina, cloranfenicol, alentuzumabe, azatioprina, anakinra, canaquinumabe, roflumilaste, palifermina, cloreto de estrôncio Sr-89 e algumas vacinas (toxoide tetânico, antraz).

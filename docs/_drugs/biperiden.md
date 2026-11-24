@@ -63,7 +63,30 @@ A pontuação do modelo é muito alta (0,9994), mas não é acompanhada por nenh
 
 ## Informações de Comercialização no Brasil
 
-O medicamento consta como comercializado no Brasil, com 5 registros válidos e 5 cancelados, totalizando 10. Os dados compilados para este relatório não trazem o detalhamento dos registros (nome comercial, forma farmacêutica), por isso não é apresentada tabela.
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 102980096 | CINETOL | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980599 | CINETOL | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 104970190 | PROPARK | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971441 | CLORIDRATO DE BIPERIDENO | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 156260027 | AKINETON | LABORATÓRIOS BAGÓ DO BRASIL S/A | Ativo |
+| 101160001 | AKINETON | KNOLL PRODS QUIMS FARMACEUTICOS LTDA. | Cancelado |
+| 102350380 | BIPERIN | EMS S/A | Cancelado |
+| 103700226 | PARKINSOL | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
+| 104650193 | BIPEDEN | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 105530334 | AKINETON | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Cancelado |
+
+<!-- licenses:end -->
+
+O medicamento consta como comercializado no Brasil, com 5 registros válidos e 5 cancelados, totalizando 10.
+
+<!-- review:begin br-lic-20261124c-biperiden-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Os dados compilados para este relatório não trazem o detalhamento dos registros (nome comercial, forma farmacêutica), por isso não é apresentada tabela.” Removido: a frase dizia que a lista de registros não estava disponível ou não seria apresentada; esta seção agora traz a tabela de registros gerada por programa a partir dos dados abertos de medicamentos da ANVISA, com todos os registros do medicamento nos dados (os números atualizados estão no resumo rápido e na tabela). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124c-biperiden-1 -->
 
 ## Considerações de Segurança
 
@@ -86,6 +109,19 @@ As advertências e contraindicações da bula não estavam disponíveis; consult
 - Levantar dados de mecanismo de ação do biperideno.
 - Realizar revisão da literatura e estudos pré-clínicos que avaliem o papel da sinalização colinérgica na encefalite de Rasmussen.
 - Verificar a compatibilidade de vias de administração e a similaridade com a indicação original.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-24 | Removido: “Os dados compilados para este relatório não trazem o detalhamento dos registros (nome comercial, forma farmacêutica), por isso não é apresentada tabela.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

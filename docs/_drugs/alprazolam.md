@@ -81,6 +81,47 @@ Foram selecionadas as publicações mais relevantes entre as disponíveis (nenhu
 | [37801512](https://pubmed.ncbi.nlm.nih.gov/37801512/) | 2023 | Estudo pré-clínico (camundongos) | Aging | Administração repetida de alprazolam causou disfunção mitocondrial e prejuízo da memória dependente do hipocampo |
 | [15341891](https://pubmed.ncbi.nlm.nih.gov/15341891/) | 2004 | Estudo de padrões de prescrição | Sleep Medicine | Características das prescrições para insônia em população de plano de saúde |
 
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431451 | ALPRAZOLAM | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 102350663 | ALPRAZOLAM | EMS S/A | Ativo |
+| 103700545 | ALPRAZOLAM | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 105730551 | ALPRAZOLAM | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105830854 | ALPRAZOLAM | GERMED FARMACEUTICA LTDA | Ativo |
+| 118190290 | ALPRAZOLAM | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 151670059 | ALPRAZOLAM | AUROBINDO PHARMA INDÚSTRIA FARMACÊUTICA LIMITADA | Ativo |
+| 155840560 | ALPRAZOLAM | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 155840711 | ALPRAZOLAM | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 156260019 | TRANQUINAL SLG | LABORATÓRIOS BAGÓ DO BRASIL S/A | Ativo |
+| 156260021 | TRANQUINAL | LABORATÓRIOS BAGÓ DO BRASIL S/A | Ativo |
+| 156510023 | ZOLDAC | ZYDUS NIKKHO FARMACÊUTICA LTDA | Ativo |
+| 156510024 | ALPRAZOLAM | ZYDUS NIKKHO FARMACÊUTICA LTDA | Ativo |
+| 167730496 | ALPRAZOLAM | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 178170867 | APRAZ | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Ativo |
+| 183260059 | ALPRAZOLAM | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+| 188300091 | FRONTAL | VIATRIS FARMACEUTICA DO BRASIL LTDA | Ativo |
+| 100430041 | ALPRAZOLAM | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100470403 | ALPRAZOLAM | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100680911 | ALPRAZOLAM | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 100890230 | TRANQUINAL | MERCK S/A | Cancelado |
+| 100930202 | APRAZ | MANTECORP INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A. | Cancelado |
+| 101810531 | ALPRAZOLAM | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101810562 | FRONTINOX | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 102160131 | FRONTAL | LABORATÓRIOS PFIZER LTDA | Cancelado |
+| 102160272 | FRONTAL | LABORATÓRIOS PFIZER LTDA | Cancelado |
+| 103700544 | TEUFRON | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
+| 103700659 | TEUFRON | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
+| 104650296 | NEOZOLAM | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 104920141 | ARROPLAM | BIOLAB FARMA GENERICOS LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 52 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 - **Contraindicações no grafo de conhecimento (não extraídas da bula)**: doença renal, doença hepática, doença da vesícula biliar, glaucoma de ângulo aberto e de ângulo fechado, síndrome da apneia do sono (incluindo apneia obstrutiva e síndrome de hipoventilação central congênita), obesidade, transtorno relacionado a substâncias/dependência.

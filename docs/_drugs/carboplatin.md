@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Carboplatin"
 predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "adult germ cell tumor", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "endometrial mucinous adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mixed adenocarcinoma", "extrahepatic bile duct mucinous adenocarcinoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Carboplatin: nova indicação prevista, adenocarcinoma mucinoso do reto (rectum mucinous adenocarcinoma) (nível de evidência L5). No Brasil, registros na ANVISA: 35 (ativos: 8)"
 ---
 
@@ -78,6 +78,47 @@ Atualmente não há literatura relacionada.
 | Classificação de Emetogenicidade | Média a alta |
 | Itens de Monitoramento | Hemograma completo com diferencial, função renal e hepática, eletrólitos, avaliação de neuropatia periférica e audição |
 | Proteção no Manuseio | Necessário seguir os regulamentos de manuseio de citotóxicos |
+
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100330133 | FAULDCARBO | LIBBS FARMACÊUTICA LTDA | Ativo |
+| 100431534 | CARBOPLATINA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431543 | KARBO | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 116370014 | B -PLATIN | BLAU FARMACÊUTICA S.A. | Ativo |
+| 116880026 | EVOCARB | FARMARIN INDUSTRIA E COMERCIO LTDA | Ativo |
+| 155370003 | CARBOPLATINA | ACCORD FARMACÊUTICA LTDA | Ativo |
+| 155730008 | TEVACARBO | TEVA FARMACÊUTICA LTDA. | Ativo |
+| 165070031 | HETROCAR | CAMBER FARMACEUTICA LTDA | Ativo |
+| 100330122 | CARBOLIBBS | LIBBS FARMACÊUTICA LTDA | Cancelado |
+| 100410140 | DISPLATA | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100430775 | CARBOPLATINA | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100630195 | KEMOCARB | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101620231 | VANCEL | LABORATÓRIOS PIERRE FABRE DO BRASIL LTDA | Cancelado |
+| 101800115 | PARAPLATIN | BRISTOL-MYERS SQUIBB FARMACÊUTICA LTDA | Cancelado |
+| 102160197 | PLATAMINE CS | LABORATÓRIOS PFIZER LTDA | Cancelado |
+| 104450134 | EVOCARB | EVOLABIS PRODUTOS FARMACÊUTICOS LTDA | Cancelado |
+| 106460158 | ONCOPLATIN | LABORATORIO QUIMICO FARMACEUTICO BERGAMO LTDA | Cancelado |
+| 110130239 | CARBOPLATINA | GLENMARK FARMACÊUTICA LTDA | Cancelado |
+| 110130240 | CARBOPLATINA | GLENMARK FARMACÊUTICA LTDA | Cancelado |
+| 112130081 | BIOCARBO | BIOSINTÉTICA FARMACÊUTICA LTDA | Cancelado |
+| 115410001 | CITOPLATINA | CIPLA BRASIL IMPORTADORA E DISTRIBUIDORA DE MEDICA | Cancelado |
+| 120000009 | NEOPLATINE | QUIRAL QUÍMICA DO BRASIL S/A | Cancelado |
+| 120690007 | LIPLATIN | LABORATÓRIOS LIBRA DO BRASIL LTDA | Cancelado |
+| 121100376 | PLATAMINE CS | PFIZER BRASIL LTDA | Cancelado |
+| 121100388 | EVOCARB | PFIZER BRASIL LTDA | Cancelado |
+| 121170097 | ONCOCARB | ASTA MÉDICA LTDA | Cancelado |
+| 122050006 | BLASTOCARB | LABORATORIO ENILA IND. E COM. DE PROD. QUIM. E FAR | Cancelado |
+| 122140019 | TECNOCARB | ADIUM S.A. | Cancelado |
+| 123610060 | CITOPLATINA | UCB BIOPHARMA LTDA. | Cancelado |
+| 123890047 | PLATAMINE CS | PHARMACIA BRASIL LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 35 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

@@ -62,6 +62,18 @@ A pontuação alta do modelo provavelmente reflete uma confusão com açúcares 
 
 A previsão para varizes esofágicas sem sangramento tem pontuação idêntica, o que reforça a suspeita de artefato. As demais previsões de maior pontuação (varizes em geral, síndrome de Steel, cistinose, hipofosfatasia, entre outras) também não têm vínculo mecanístico identificado, nem ensaios ou literatura de apoio.
 
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100890202 | EUTHYROX | MERCK S/A | Ativo |
+| 104540043 | LACTULONA | DAIICHI SANKYO BRASIL FARMACÊUTICA LTDA | Ativo |
+| 105710121 | PIROFLAM | BELFAR LTDA | Cancelado |
+
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 Consulte a bula para informações de segurança.

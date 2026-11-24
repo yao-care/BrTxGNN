@@ -97,6 +97,16 @@ Não aplicável: voxilaprevir é um antiviral, não um antineoplásico.
 
 ---
 
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 109290010 | VOSEVI | GILEAD SCIENCES FARMACEUTICA DO BRASIL LTDA | Ativo |
+
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 - **Interações medicamentosas**: foram identificadas 19 interações. As de gravidade **maior** são com **rosuvastatina**, **edoxabana** e **ciclosporina**. As demais são de gravidade moderada: eluxadolina, ácido obeticólico, cobicistate, apixabana, eltrombopague, artesunato, afatinibe, bosutinibe, cobimetinibe, etinilestradiol, idelalisibe, lapatinibe, lenvatinibe, olaparibe, pazopanibe e teriflunomida.

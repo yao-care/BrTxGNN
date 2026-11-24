@@ -64,13 +64,56 @@ A pontuação alta do TxGNN reflete apenas um padrão de previsão do modelo, se
 
 ## Informações de Comercialização no Brasil
 
-A lista de registros pode estar incompleta, e por isso os registros individuais não são detalhados aqui.
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431230 | CARISOPRODOL + DICLOFENACO DE SÓDIO + PARACETAMOL+ CAFEÍNA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431241 | TRIMUSK | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100470267 | TRILAX | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100470348 | DICLAC | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100680038 | CATAFLAM | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 100680060 | VOLTAREN | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 100680102 | FLOTAC | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 101430072 | BESEROL | MEGALABS FARMACEUTICA S.A. | Ativo |
+| 101470090 | STILL | ALLERGAN PRODUTOS FARMACÊUTICOS LTDA | Ativo |
+| 102350507 | DICLOFENACO POTÁSSICO | EMS S/A | Ativo |
+| 102350551 | INFRALAX | EMS S/A | Ativo |
+| 102350581 | DICLOFENACO DIETILAMÔNIO | EMS S/A | Ativo |
+| 102350682 | DICLOFENACO RESINATO | EMS S/A | Ativo |
+| 102350695 | DICLOFENACO COLESTIRAMINA | EMS S/A | Ativo |
+| 102350785 | DICLOFENACO SÓDICO | EMS S/A | Ativo |
+| 102350929 | DICLOFENACO SÓDICO | EMS S/A | Ativo |
+| 102351032 | BIOFLADEX | EMS S/A | Ativo |
+| 102351113 | DICLOFENACO SODICO | EMS S/A | Ativo |
+| 102351304 | BEXAI | EMS S/A | Ativo |
+| 102351444 | BENGPRO | EMS S/A | Ativo |
+| 102351445 | BENGPRO | EMS S/A | Ativo |
+| 102980485 | MAXILERG | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103110142 | DICLOFENACO SÓDICO | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Ativo |
+| 103700080 | FENAFLAN | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700306 | DICLOFENACO SÓDICO | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700314 | DICLOFENACO POTÁSSICO | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700344 | DICLOFENACO DIETILAMONIO | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700346 | DICLOFENACO RESINATO | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700387 | DICLOFENACO | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700651 | FENAFLAN | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 397 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 <!-- review:begin br-lic-20261106-diclofenac-1 -->
 
 > **Correção de verificação (2026-11-06)**: Texto original: “Segundo os dados de registro compilados, o diclofenaco consta como **comercializado** no Brasil, com 6 registros válidos e 14 cancelados. A lista de registros pode estar incompleta, e por isso os registros individuais não são detalhados aqui.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-diclofenac-1 -->
+
+<!-- review:begin br-lic-20261124c-diclofenac-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “A lista de registros pode estar incompleta, e por isso os registros individuais não são detalhados aqui.” Removido: a frase dizia que a lista de registros seria parcial ou não estaria disponível; os dados abertos de medicamentos da ANVISA usados nesta página trazem todos os registros do medicamento, que estão na tabela desta seção gerada por programa (os números atualizados estão no resumo rápido e na tabela). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124c-diclofenac-1 -->
 
 ## Considerações de Segurança
 
@@ -103,6 +146,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 |------|------|------|------|
 | 2026-11-06 | Removido: “Segundo os dados de registro compilados, o diclofenaco consta como **comercializado** no Brasil, com 6 registros válidos e 14 cancelados” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Diclofenac Sodium Delayed Release (diclofenac sodium) prescribing information, Preferred Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bc99e6af-7050-4653-a681-5b252305a970) |
+| 2026-11-24 | Removido: “A lista de registros pode estar incompleta, e por isso os registros individuais não são detalhados aqui.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

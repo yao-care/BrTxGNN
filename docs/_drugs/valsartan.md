@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 664
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "VALSARTAN"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease", "Prinzmetal angina"]
 description: "Valsartan: nova indicação prevista, Doença renal hipertensiva maligna (malignant hypertensive renal disease) (nível de evidência L5). No Brasil, registros na ANVISA: 144 (ativos: 44)"
@@ -71,6 +71,47 @@ Atualmente não há ensaios clínicos relacionados registrados.
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
 | [24368192](https://pubmed.ncbi.nlm.nih.gov/24368192/) | 2014 | Pré-clínico (outro fármaco: avosentan) | Pharmacological Research | Em ratos transgênicos que superexpressam renina e angiotensinogênio humanos, o avosentan (antagonista de endotelina) protegeu contra a nefropatia hipertensiva em doses que não causam retenção de líquidos. Não estuda a valsartana. |
+
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431091 | VARTAZ | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431333 | VALSARTANA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100470575 | VALSARTANA + BESILATO DE ANLODIPINO | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100680065 | DIOVAN | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 100680097 | DIOVAN HCT | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 100681053 | DIOVAN AMLO FIX | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 100681082 | EXFORGE HCT | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 100681141 | ENTRESTO | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 100681189 | NEPARVIS | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 102351012 | VALSARTANA | EMS S/A | Ativo |
+| 102351055 | VALSARTANA+HIDROCLOROTIAZIDA | EMS S/A | Ativo |
+| 103700720 | VALSARTANA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700732 | TEUVART | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103720259 | AVAL | SUPERA FARMA LABORATÓRIOS S.A | Ativo |
+| 104810157 | VALSARTANA | 1FARMA INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 105250053 | VALSARTANA + HIDROCLOROTIAZIDA | TORRENT DO BRASIL LTDA | Ativo |
+| 105730167 | VALNOR | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730434 | BRAVAN | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730514 | BRAVAN HCT | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730647 | VALSARTANA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730660 | VALSARTANA + HIDROCLOROTIAZIDA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730731 | VALSARTANA + ANLODIPINO | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730737 | BRAVAN DUO | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105830771 | COSARTAN ALP | GERMED FARMACEUTICA LTDA | Ativo |
+| 105830842 | VALSARTANA | GERMED FARMACEUTICA LTDA | Ativo |
+| 105830914 | VALSARTANA + HIDROCLOROTIAZIDA | GERMED FARMACEUTICA LTDA | Ativo |
+| 118190371 | VALSARTANA | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 118190465 | ARACOR HCT | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 123520234 | VALSARTANA+HIDROCLOROTIAZIDA | RANBAXY FARMACÊUTICA LTDA | Ativo |
+| 135170035 | VALSARTANA | ALTHAIA S.A. INDUSTRIA FARMACEUTICA | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 144 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

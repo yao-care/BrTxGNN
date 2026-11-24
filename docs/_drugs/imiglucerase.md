@@ -71,6 +71,18 @@ Atualmente não há ensaios clínicos relacionados registrados.
 |------|-----|------|------|---------|
 | [21211680](https://pubmed.ncbi.nlm.nih.gov/21211680/) | 2010 | Revisão | La Revue de médecine interne | Revisão geral da terapia de reposição enzimática em doenças de depósito lisossômico (da alglucerase/imiglucerase na doença de Gaucher às terapias para doença de Fabry); não demonstra eficácia do imiglucerase na síndrome de Hurler |
 
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 183260345 | CEREZYME | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+| 113001190 | CEREZYME | SANOFI-AVENTIS FARMACÊUTICA LTDA | Cancelado |
+| 125430014 | CEREZYME | GENZYME DO BRASIL LTDA | Cancelado |
+
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 - **Interações Medicamentosas**: foi identificada 1 interação de nível moderado, com **miglustate** (fonte: DDInter).

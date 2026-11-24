@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "CLOBETASOL PROPIONATE"
 predicted_indications: ["vulvar inverted follicular keratosis", "acrodermatitis chronica atrophicans", "exanthem (disease)", "acne keloid", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clobetasol Propionate: nova indicação prevista, Ceratose folicular invertida vulvar (vulvar inverted follicular keratosis) (nível de evidência L5). Indicação original: GLICOCORTICOIDES TOP. SIMP. EXC…"
 ---
 
@@ -61,6 +61,37 @@ Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (P
 Mecanisticamente, os efeitos anti-inflamatórios e antiproliferativos de um corticosteroide potente poderiam, em teoria, atuar sobre uma lesão benigna queratinizante da vulva. Essa é, porém, uma hipótese plausível, não uma demonstração.
 
 Há uma ressalva importante: a ceratose folicular invertida costuma ser tratada por excisão, e não foram encontrados ensaios ou publicações que sustentem o uso de corticosteroides nessa condição. A previsão deve ser tratada como ponto de partida para investigação, não como evidência de benefício.
+
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 101070198 | PSOREX | Ativo |
+| 101910238 | THERAPSOR | Ativo |
+| 102350729 | PROPIONATO DE CLOBETASOL | Ativo |
+| 103700459 | PROPIONATO DE CLOBETASOL | Ativo |
+| 103700476 | PROPIONATO DE CLOBETASOL 0,5MG/G | Ativo |
+| 105350167 | PROPIONATO DE CLOBETASOL | Ativo |
+| 105830397 | PROPIONATO DE CLOBETASOL | Ativo |
+| 105831054 | PROPIONATO DE CLOBETASOL | Ativo |
+| 118190220 | TOPIREX | Ativo |
+| 118190412 | PROPIONATO DE CLOBETASOL | Ativo |
+| 118190413 | PROPIONATO DE CLOBETASOL | Ativo |
+| 125680119 | PROPIONATO DE CLOBETASOL | Ativo |
+| 125680241 | PROPIONATO DE CLOBETASOL | Ativo |
+| 129160027 | CLOB-X | Ativo |
+| 129160066 | CLOB-X | Ativo |
+| 155840154 | PROPIONATO DE CLOBETASOL | Ativo |
+| 155840199 | PROPIONATO DE CLOBETASOL | Ativo |
+| 155840685 | PROPIOSOL | Ativo |
+| 183260004 | PROPIONATO DE CLOBETASOL | Ativo |
+| 105830402 | PROPIONATO DE CLOBETASOL | Cancelado |
+
+Os dados contêm apenas parte dos registros; a lista pode estar incompleta.
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

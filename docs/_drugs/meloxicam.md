@@ -92,6 +92,47 @@ Para a previsão de posição 8 (AIJ poliarticular FR-positiva), há uma publica
 |------|-----|------|------|---------|
 | [25057265](https://pubmed.ncbi.nlm.nih.gov/25057265/) | 2014 | Coorte/estudo de segurança (classe AINE) | Pediatric Rheumatology Online Journal | Registro de fase 4 que avaliou a segurança de longo prazo e dados de desenvolvimento em pacientes com AIJ tratados com celecoxibe ou AINEs não seletivos |
 
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100430037 | MELOXICAM | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100430039 | MELOXICAM | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431151 | MELOCOX | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431152 | MELOCOX | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431462 | MELOCOX ODT | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 102350527 | MELOXICAM | EMS S/A | Ativo |
+| 102980289 | BIOFLAC | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103700257 | MEVAMOX | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700530 | MELOXICAM | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103900180 | INICOX DP | FARMOQUÍMICA S/A | Ativo |
+| 104400195 | MOVOXICAM | CELLERA FARMACEUTICA S.A. | Ativo |
+| 104400213 | MELOXICAM | CELLERA FARMACEUTICA S.A. | Ativo |
+| 104810064 | DIADEN | 1FARMA INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 105830818 | MELOXICAM | GERMED FARMACEUTICA LTDA | Ativo |
+| 118190434 | MELOXICAM | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 125680305 | MELOXICAM | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 125680377 | HILAM | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 141070032 | ARTRITEC | PHARLAB INDÚSTRIA FARMACÊUTICA S.A. | Ativo |
+| 141070633 | MELOXICAM | PHARLAB INDÚSTRIA FARMACÊUTICA S.A. | Ativo |
+| 143810208 | MELOXICAM | CIMED INDUSTRIA S.A | Ativo |
+| 154230233 | MELOXICAM | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 155840065 | MELOXICAM | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 155840368 | LOXAM | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 156490001 | MELOXICAM | UNICHEM FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 156510002 | MELOXICAM | ZYDUS NIKKHO FARMACÊUTICA LTDA | Ativo |
+| 167730455 | MELOXICAM | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 167730522 | MELOXIGRAN | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 183260111 | MELOXICAM | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+| 100330078 | FLEXICAN | LIBBS FARMACÊUTICA LTDA | Cancelado |
+| 100430955 | MELOCOX | EUROFARMA LABORATORIOS S.A. | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 77 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 - **Contraindicações (do grafo de conhecimento, não do texto da bula):** hipertensão, doença renal e insuficiência renal, insuficiência cardíaca congestiva, doenças cardiovasculares e cardíacas, infarto do miocárdio, trombose coronariana, acidente vascular cerebral e doenças cerebrovasculares, infarto cerebral, úlcera péptica ativa, gastrite, distúrbios da coagulação, anemia e hemoglobinopatias, diabetes mellitus e cetoacidose diabética, hiperlipidemia (incluindo familiar), abuso/dependência de substâncias e piureter.

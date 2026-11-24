@@ -63,6 +63,17 @@ A pontuação alta (0,9906) é apenas uma previsão computacional. Não há ensa
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 135690601 | PENVIR LÁBIA | EMS SIGMA PHARMA LTDA | Ativo |
+| 100680891 | VECTAVIR | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 101910264 | PENCICLOVIR | THERASKIN FARMACEUTICA LTDA. | Cancelado |
+| 105830222 | PENVIR LÁBIA | GERMED FARMACEUTICA LTDA | Cancelado |
+
+<!-- licenses:end -->
+
 Segundo os dados compilados para este relatório, o penciclovir consta como **comercializado** no Brasil, com registros válidos e cancelados (números atualizados no resumo rápido).
 
 <!-- review:begin br-lic-20261106-penciclovir-1 -->

@@ -85,6 +85,17 @@ Nenhuma das publicações é um ensaio randomizado que estude a amenorreia como 
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431475 | LADOGAL | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 113001039 | LADOGAL | SANOFI-AVENTIS FARMACÊUTICA LTDA | Cancelado |
+| 119240051 | LADOGAL | SANOFI - SYNTHELABO FARMACÊUTICA LTDA | Cancelado |
+| 183260355 | LADOGAL | SANOFI MEDLEY FARMACÊUTICA LTDA. | Cancelado |
+
+<!-- licenses:end -->
+
 Segundo os dados compilados para este relatório, o danazol consta como comercializado no Brasil, com registros válidos e cancelados (números atualizados no resumo rápido).
 
 <!-- review:begin br-lic-20261106-danazol-1 -->

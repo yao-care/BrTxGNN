@@ -95,6 +95,17 @@ Para enxaqueca (indicação alternativa):
 | [30478067](https://pubmed.ncbi.nlm.nih.gov/30478067/) | 2018 | Piloto aberto | Neurology | Ticagrelor em enxaqueca refratária com FOP; motivado pela redução dos sintomas com clopidogrel e prasugrel em alguns pacientes |
 | [42722054](https://pubmed.ncbi.nlm.nih.gov/42722054/) | 2026 | Pré-clínico (camundongo) | European Journal of Pharmacology | Prasugrel com efeito neuroprotetor no modelo de epilepsia por pentilenotetrazol; não modela enxaqueca |
 
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 104540178 | EFFIENT | DAIICHI SANKYO BRASIL FARMACÊUTICA LTDA | Ativo |
+| 112600183 | EFFIENT | ELI LILLY DO BRASIL LTDA | Cancelado |
+
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 - **Contraindicações segundo o grafo de conhecimento (não é texto de bula):** insuficiência hepática, distúrbios hipotensivos, doenças da coagulação, AVC e doenças cerebrovasculares, suscetibilidade a AVC isquêmico, infarto cerebral, lesões/traumatismos, púrpura trombocitopênica, hemorragia intracraniana, ataque isquêmico transitório e insuficiência vertebrobasilar.

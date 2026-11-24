@@ -2353,8 +2353,32 @@
      "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定"
+    },
+    {
+     "id": "br-lic-20261106-bacitracin-1",
+     "drug": "bacitracin",
+     "file": "bacitracin.md",
+     "action": "correct",
+     "claim": "Segundo os dados compilados para este relatório, a situação de mercado é **comercializado**, com **8 registros válidos** e **12 registros cancelados**. A lista de registros pode estar incompleta (registros parciais), e os detalhes individuais (número, nome comercial, forma farmacêutica) não estão disponíveis nos dados recebidos.",
+     "replacement": "A lista de registros pode estar incompleta (registros parciais), e os detalhes individuais (número, nome comercial, forma farmacêutica) não estão disponíveis nos dados recebidos.",
+     "note": "Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+     "sources": [
+      {
+       "title": "ANVISA – Dados abertos de medicamentos",
+       "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-06",
+     "summary": "Removido: “Segundo os dados compilados para este relatório, a situação de mercado é **comercializado**, com **8 registros válidos** e **12 registros ca”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
+     "retired": "2026-11-24",
+     "reason": "錨點句（本筆的 replacement）已由 br-lic-20261124c-bacitracin-1 更正（第三輪市場段落補程式表），改錨到程式表下方",
+     "reanchored": true
     }
-   ]
+   ],
+   "anchor": "<!-- licenses:end -->"
   },
   {
    "id": "br-lic-20261106-baclofen-1",
@@ -3414,8 +3438,32 @@
      "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定"
+    },
+    {
+     "id": "br-lic-20261106-bimatoprost-1",
+     "drug": "bimatoprost",
+     "file": "bimatoprost.md",
+     "action": "correct",
+     "claim": "Os dados compilados indicam situação de comercialização \"Comercializado\", com 11 registros válidos e 9 cancelados. A lista de registros pode estar incompleta e não há detalhamento individual (nome comercial, forma farmacêutica) disponível neste relatório.",
+     "replacement": "A lista de registros pode estar incompleta e não há detalhamento individual (nome comercial, forma farmacêutica) disponível neste relatório.",
+     "note": "Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+     "sources": [
+      {
+       "title": "ANVISA – Dados abertos de medicamentos",
+       "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-06",
+     "summary": "Removido: “Os dados compilados indicam situação de comercialização \"Comercializado\", com 11 registros válidos e 9 cancelados”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
+     "retired": "2026-11-24",
+     "reason": "錨點句（本筆的 replacement）已由 br-lic-20261124c-bimatoprost-1 更正（第三輪市場段落補程式表），改錨到程式表下方",
+     "reanchored": true
     }
-   ]
+   ],
+   "anchor": "<!-- licenses:end -->"
   },
   {
    "id": "br-lic-20261106-binimetinibe-1",
@@ -3786,8 +3834,32 @@
      "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定"
+    },
+    {
+     "id": "br-lic-20261106-bisoprolol-1",
+     "drug": "bisoprolol",
+     "file": "bisoprolol.md",
+     "action": "correct",
+     "claim": "A situação de mercado no Brasil é de medicamento comercializado, com 13 registros válidos e 7 cancelados. Os registros são parciais (a lista pode estar incompleta), e os detalhes de cada registro não constam nos dados compilados.",
+     "replacement": "Os registros são parciais (a lista pode estar incompleta), e os detalhes de cada registro não constam nos dados compilados.",
+     "note": "Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+     "sources": [
+      {
+       "title": "ANVISA – Dados abertos de medicamentos",
+       "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-06",
+     "summary": "Removido: “A situação de mercado no Brasil é de medicamento comercializado, com 13 registros válidos e 7 cancelados”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
+     "retired": "2026-11-24",
+     "reason": "錨點句（本筆的 replacement）已由 br-lic-20261124c-bisoprolol-1 更正（第三輪市場段落補程式表），改錨到程式表下方",
+     "reanchored": true
     }
-   ]
+   ],
+   "anchor": "<!-- licenses:end -->"
   },
   {
    "id": "br-lic-20261106-bortezomibe-1",
@@ -5859,8 +5931,32 @@
      "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定"
+    },
+    {
+     "id": "br-lic-20261106-cefazolin-1",
+     "drug": "cefazolin",
+     "file": "cefazolin.md",
+     "action": "correct",
+     "claim": "Segundo os registros locais, há 5 registros válidos e 15 cancelados, e a lista pode ser parcial.",
+     "replacement": "A lista pode ser parcial.",
+     "note": "Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+     "sources": [
+      {
+       "title": "ANVISA – Dados abertos de medicamentos",
+       "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-06",
+     "summary": "Removido: “Segundo os registros locais, há 5 registros válidos e 15 cancelados, e a”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
+     "retired": "2026-11-24",
+     "reason": "錨點句（本筆的 replacement）已由 br-lic-20261124c-cefazolin-1 更正（第三輪市場段落補程式表），改錨到程式表下方",
+     "reanchored": true
     }
-   ]
+   ],
+   "anchor": "<!-- licenses:end -->"
   },
   {
    "id": "br-lic-20261106-cefoxitin-1",
@@ -6280,8 +6376,32 @@
      "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定"
+    },
+    {
+     "id": "br-lic-20261106-clopidogrel-1",
+     "drug": "clopidogrel",
+     "file": "clopidogrel.md",
+     "action": "correct",
+     "claim": "Segundo os dados compilados, o clopidogrel consta como comercializado no Brasil, com 9 registros válidos e 11 cancelados. A lista de registros pode estar incompleta, e os dados não trazem a relação detalhada de registros, nomes comerciais e formas farmacêuticas.",
+     "replacement": "A lista de registros pode estar incompleta, e os dados não trazem a relação detalhada de registros, nomes comerciais e formas farmacêuticas.",
+     "note": "Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+     "sources": [
+      {
+       "title": "ANVISA – Dados abertos de medicamentos",
+       "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-06",
+     "summary": "Removido: “Segundo os dados compilados, o clopidogrel consta como comercializado no Brasil, com 9 registros válidos e 11 cancelados”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
+     "retired": "2026-11-24",
+     "reason": "錨點句（本筆的 replacement）已由 br-lic-20261124c-clopidogrel-1 更正（第三輪市場段落補程式表），改錨到程式表下方",
+     "reanchored": true
     }
-   ]
+   ],
+   "anchor": "<!-- licenses:end -->"
   },
   {
    "id": "br-lic-20261106-cobalamin-1",
@@ -7157,8 +7277,32 @@
      "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定"
+    },
+    {
+     "id": "br-lic-20261106-diclofenac-1",
+     "drug": "diclofenac",
+     "file": "diclofenac.md",
+     "action": "correct",
+     "claim": "Segundo os dados de registro compilados, o diclofenaco consta como **comercializado** no Brasil, com 6 registros válidos e 14 cancelados. A lista de registros pode estar incompleta, e por isso os registros individuais não são detalhados aqui.",
+     "replacement": "A lista de registros pode estar incompleta, e por isso os registros individuais não são detalhados aqui.",
+     "note": "Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+     "sources": [
+      {
+       "title": "ANVISA – Dados abertos de medicamentos",
+       "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-06",
+     "summary": "Removido: “Segundo os dados de registro compilados, o diclofenaco consta como **comercializado** no Brasil, com 6 registros válidos e 14 cancelados”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
+     "retired": "2026-11-24",
+     "reason": "錨點句（本筆的 replacement）已由 br-lic-20261124c-diclofenac-1 更正（第三輪市場段落補程式表），改錨到程式表下方",
+     "reanchored": true
     }
-   ]
+   ],
+   "anchor": "<!-- licenses:end -->"
   },
   {
    "id": "br-lic-20261106-dienogest-1",
@@ -7201,8 +7345,32 @@
      "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定"
+    },
+    {
+     "id": "br-lic-20261106-dienogest-1",
+     "drug": "dienogest",
+     "file": "dienogest.md",
+     "action": "correct",
+     "claim": "Segundo os dados locais, há 13 registros válidos e 7 cancelados, e a lista pode estar parcial.",
+     "replacement": "A lista pode estar parcial.",
+     "note": "Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+     "sources": [
+      {
+       "title": "ANVISA – Dados abertos de medicamentos",
+       "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-06",
+     "summary": "Removido: “Segundo os dados locais, há 13 registros válidos e 7 cancelados, e a”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
+     "retired": "2026-11-24",
+     "reason": "錨點句（本筆的 replacement）已由 br-lic-20261124c-dienogest-1 更正（第三輪市場段落補程式表），改錨到程式表下方",
+     "reanchored": true
     }
-   ]
+   ],
+   "anchor": "<!-- licenses:end -->"
   },
   {
    "id": "br-lic-20261106-diethylcarbamazine-1",
@@ -7575,8 +7743,32 @@
      "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定"
+    },
+    {
+     "id": "br-lic-20261106-donepezil-1",
+     "drug": "donepezil",
+     "file": "donepezil.md",
+     "action": "correct",
+     "claim": "Segundo os dados compilados, o medicamento consta como comercializado, com 10 registros válidos. A lista de registros pode estar incompleta (registros parciais), e o detalhamento por registro não está disponível nos dados deste relatório.",
+     "replacement": "A lista de registros pode estar incompleta (registros parciais), e o detalhamento por registro não está disponível nos dados deste relatório.",
+     "note": "Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
+     "sources": [
+      {
+       "title": "ANVISA – Dados abertos de medicamentos",
+       "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-06",
+     "summary": "Removido: “Segundo os dados compilados, o medicamento consta como comercializado, com 10 registros válidos”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
+     "retired": "2026-11-24",
+     "reason": "錨點句（本筆的 replacement）已由 br-lic-20261124c-donepezil-1 更正（第三輪市場段落補程式表），改錨到程式表下方",
+     "reanchored": true
     }
-   ]
+   ],
+   "anchor": "<!-- licenses:end -->"
   },
   {
    "id": "br-lic-20261106-doxycycline-1",
@@ -9119,8 +9311,32 @@
      "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定"
+    },
+    {
+     "id": "br-lic-20261106-etoricoxib-1",
+     "drug": "etoricoxib",
+     "file": "etoricoxib.md",
+     "action": "correct",
+     "claim": "A situação de comercialização consta como comercializado, com 17 registros válidos e 3 cancelados, mas a lista detalhada de registros não está disponível nos dados compilados.",
+     "replacement": "A lista detalhada de registros não está disponível nos dados compilados.",
+     "note": "Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+     "sources": [
+      {
+       "title": "ANVISA – Dados abertos de medicamentos",
+       "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-06",
+     "summary": "Removido: “situação de comercialização consta como comercializado, com 17 registros válidos e 3 cancelados, mas a”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
+     "retired": "2026-11-24",
+     "reason": "錨點句（本筆的 replacement）已由 br-lic-20261124c-etoricoxib-1 更正（第三輪市場段落補程式表），改錨到程式表下方",
+     "reanchored": true
     }
-   ]
+   ],
+   "anchor": "<!-- licenses:end -->"
   },
   {
    "id": "br-lic-20261031-everolimus-1",
@@ -9977,8 +10193,32 @@
      "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定"
+    },
+    {
+     "id": "br-lic-20261106-flunitrazepam-1",
+     "drug": "flunitrazepam",
+     "file": "flunitrazepam.md",
+     "action": "correct",
+     "claim": "O fármaco consta como comercializado no Brasil, com 6 registros no total: 3 válidos e 3 cancelados. Os dados locais não trazem o detalhamento de nomes comerciais, formas farmacêuticas ou textos de indicação aprovada.",
+     "replacement": "Os dados locais não trazem o detalhamento de nomes comerciais, formas farmacêuticas ou textos de indicação aprovada.",
+     "note": "Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+     "sources": [
+      {
+       "title": "ANVISA – Dados abertos de medicamentos",
+       "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-06",
+     "summary": "Removido: “O fármaco consta como comercializado no Brasil, com 6 registros no total: 3 válidos e 3 cancelados”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
+     "retired": "2026-11-24",
+     "reason": "錨點句（本筆的 replacement）已由 br-lic-20261124c-flunitrazepam-1 更正（第三輪市場段落補程式表），改錨到程式表下方",
+     "reanchored": true
     }
-   ]
+   ],
+   "anchor": "<!-- licenses:end -->"
   },
   {
    "id": "br-lic-20261106-fluorometholone-1",
@@ -10819,8 +11059,32 @@
      "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定"
+    },
+    {
+     "id": "br-lic-20261106-guaifenesin-1",
+     "drug": "guaifenesin",
+     "file": "guaifenesin.md",
+     "action": "correct",
+     "claim": "Os dados locais indicam que o medicamento está comercializado, com 5 registros válidos e 15 cancelados (a lista pode estar incompleta, pois os registros são parciais). Os detalhes de cada registro não constam nos dados compilados para este relatório.",
+     "replacement": "Os detalhes de cada registro não constam nos dados compilados para este relatório.",
+     "note": "Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+     "sources": [
+      {
+       "title": "ANVISA – Dados abertos de medicamentos",
+       "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-06",
+     "summary": "Removido: “Os dados locais indicam que o medicamento está comercializado, com 5 registros válidos e 15 cancelados (a lista pode estar incompleta, pois ”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
+     "retired": "2026-11-24",
+     "reason": "錨點句（本筆的 replacement）已由 br-lic-20261124c-guaifenesin-1 更正（第三輪市場段落補程式表），改錨到程式表下方",
+     "reanchored": true
     }
-   ]
+   ],
+   "anchor": "<!-- licenses:end -->"
   },
   {
    "id": "br-lic-20261106-haloperidol-1",
@@ -10863,8 +11127,32 @@
      "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定"
+    },
+    {
+     "id": "br-lic-20261106-haloperidol-1",
+     "drug": "haloperidol",
+     "file": "haloperidol.md",
+     "action": "correct",
+     "claim": "Os dados compilados indicam 5 registros válidos e 15 cancelados, e a lista de registros pode estar incompleta. Os detalhes de cada registro não estão disponíveis nos dados compilados.",
+     "replacement": "A lista de registros pode estar incompleta.",
+     "note": "Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+     "sources": [
+      {
+       "title": "ANVISA – Dados abertos de medicamentos",
+       "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-06",
+     "summary": "Removido: “Os dados compilados indicam 5 registros válidos e 15 cancelados, e a Os detalhes de cada registro não estão disponíveis nos dados compilados”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
+     "retired": "2026-11-24",
+     "reason": "錨點句（本筆的 replacement）已由 br-lic-20261124c-haloperidol-1 更正（第三輪市場段落補程式表），改錨到程式表下方",
+     "reanchored": true
     }
-   ]
+   ],
+   "anchor": "<!-- licenses:end -->"
   },
   {
    "id": "br-lic-20261106-hemin-1",
@@ -11039,8 +11327,32 @@
      "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定"
+    },
+    {
+     "id": "br-lic-20261106-ibuprofen-1",
+     "drug": "ibuprofen",
+     "file": "ibuprofen.md",
+     "action": "correct",
+     "claim": "Segundo os dados compilados, o ibuprofeno consta como comercializado no Brasil, com 13 registros válidos e 7 cancelados. Os dados de registro são parciais, e a lista detalhada de registros não está disponível neste relatório.",
+     "replacement": "Os dados de registro são parciais, e a lista detalhada de registros não está disponível neste relatório.",
+     "note": "Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+     "sources": [
+      {
+       "title": "ANVISA – Dados abertos de medicamentos",
+       "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-06",
+     "summary": "Removido: “Segundo os dados compilados, o ibuprofeno consta como comercializado no Brasil, com 13 registros válidos e 7 cancelados”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
+     "retired": "2026-11-24",
+     "reason": "錨點句（本筆的 replacement）已由 br-lic-20261124c-ibuprofen-1 更正（第三輪市場段落補程式表），改錨到程式表下方",
+     "reanchored": true
     }
-   ]
+   ],
+   "anchor": "<!-- licenses:end -->"
   },
   {
    "id": "br-lic-20261106-iloprost-1",
@@ -11457,8 +11769,32 @@
      "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定"
+    },
+    {
+     "id": "br-lic-20261106-isotretinoin-1",
+     "drug": "isotretinoin",
+     "file": "isotretinoin.md",
+     "action": "correct",
+     "claim": "Segundo os dados compilados, os 3 registros existentes no Brasil estão cancelados e não há registro válido. A lista detalhada de registros não está disponível nos dados compilados.",
+     "replacement": "A lista detalhada de registros não está disponível nos dados compilados.",
+     "note": "Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+     "sources": [
+      {
+       "title": "ANVISA – Dados abertos de medicamentos",
+       "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-06",
+     "summary": "Removido: “Segundo os dados compilados, os 3 registros existentes no Brasil estão cancelados e não há registro válido”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
+     "retired": "2026-11-24",
+     "reason": "錨點句（本筆的 replacement）已由 br-lic-20261124c-isotretinoin-1 更正（第三輪市場段落補程式表），改錨到程式表下方",
+     "reanchored": true
     }
-   ]
+   ],
+   "anchor": "<!-- licenses:end -->"
   },
   {
    "id": "br-lic-20261106-isotretinoin-2",
@@ -11589,8 +11925,32 @@
      "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定"
+    },
+    {
+     "id": "br-lic-20261106-ivermectin-1",
+     "drug": "ivermectin",
+     "file": "ivermectin.md",
+     "action": "correct",
+     "claim": "Os dados locais indicam que o fármaco é comercializado, com 10 registros válidos. A lista de registros pode estar incompleta (dados parciais) e não foi detalhada nos dados compilados para este relatório.",
+     "replacement": "A lista de registros pode estar incompleta (dados parciais) e não foi detalhada nos dados compilados para este relatório.",
+     "note": "Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
+     "sources": [
+      {
+       "title": "ANVISA – Dados abertos de medicamentos",
+       "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-06",
+     "summary": "Removido: “Os dados locais indicam que o fármaco é comercializado, com 10 registros válidos”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
+     "retired": "2026-11-24",
+     "reason": "錨點句（本筆的 replacement）已由 br-lic-20261124c-ivermectin-1 更正（第三輪市場段落補程式表），改錨到程式表下方",
+     "reanchored": true
     }
-   ]
+   ],
+   "anchor": "<!-- licenses:end -->"
   },
   {
    "id": "br-lic-20261106-ketoconazole-1",
@@ -12073,8 +12433,32 @@
      "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定"
+    },
+    {
+     "id": "br-lic-20261106-lactulose-1",
+     "drug": "lactulose",
+     "file": "lactulose.md",
+     "action": "correct",
+     "claim": "Os dados compilados indicam situação de comercialização \"Comercializado\", com 6 registros válidos e 13 cancelados. Não há detalhamento de registros individuais (nome comercial, forma farmacêutica) disponível para listagem.",
+     "replacement": "Não há detalhamento de registros individuais (nome comercial, forma farmacêutica) disponível para listagem.",
+     "note": "Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+     "sources": [
+      {
+       "title": "ANVISA – Dados abertos de medicamentos",
+       "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-06",
+     "summary": "Removido: “Os dados compilados indicam situação de comercialização \"Comercializado\", com 6 registros válidos e 13 cancelados”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
+     "retired": "2026-11-24",
+     "reason": "錨點句（本筆的 replacement）已由 br-lic-20261124c-lactulose-1 更正（第三輪市場段落補程式表），改錨到程式表下方",
+     "reanchored": true
     }
-   ]
+   ],
+   "anchor": "<!-- licenses:end -->"
   },
   {
    "id": "br-lic-20261111-lansoprazole-1",
@@ -41476,6 +41860,1019 @@
    "checked": "2026-11-24",
    "summary": "“Os registros válidos de produto isolado estão listados abaixo” → “Os registros estão listados abaixo”",
    "method": "2026-11-24 第二輪人工查核：逐句對照證據包 tfda.records 與快照事實層（scripts/rewrite_license_counts.py 判斷不了或寬偵測抓到的句子）"
+  },
+  {
+   "id": "br-lic-20261124c-alteplase-1",
+   "drug": "alteplase",
+   "file": "alteplase.md",
+   "action": "correct",
+   "claim": "Os dados compilados não trazem detalhes de nome comercial, forma farmacêutica ou texto de indicação.",
+   "replacement": "Os dados abertos da ANVISA não trazem forma farmacêutica nem texto de indicação; o registro está na tabela acima.",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA: esta seção agora traz a tabela de registros gerada por programa a partir dos dados (número do registro, produto, empresa detentora e situação); os dados abertos não trazem forma farmacêutica nem texto de indicação. Os números atualizados estão no resumo rápido e na tabela.",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "“Os dados compilados não trazem detalhes de nome comercial, forma farmacêutica ou texto de indicação.” → “Os dados abertos da ANVISA não trazem forma farmacêutica nem texto de indicação; o registro está na tabela acima.”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表"
+  },
+  {
+   "id": "br-lic-20261124c-apixaban-1",
+   "drug": "apixaban",
+   "file": "apixaban.md",
+   "action": "correct",
+   "claim": " A lista detalhada de registros não está disponível nos dados compilados.",
+   "replacement": "",
+   "note": "Removido: a frase dizia que a lista de registros não estava disponível ou não seria apresentada; esta seção agora traz a tabela de registros gerada por programa a partir dos dados abertos de medicamentos da ANVISA, com todos os registros do medicamento nos dados (os números atualizados estão no resumo rápido e na tabela).",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removido: “A lista detalhada de registros não está disponível nos dados compilados.”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表",
+   "anchor": "Segundo os dados compilados, a apixabana está comercializada no Brasil, com"
+  },
+  {
+   "id": "br-lic-20261124c-bacitracin-1",
+   "drug": "bacitracin",
+   "file": "bacitracin.md",
+   "action": "correct",
+   "claim": "A lista de registros pode estar incompleta (registros parciais), e os detalhes individuais (número, nome comercial, forma farmacêutica) não estão disponíveis nos dados recebidos.",
+   "replacement": "",
+   "note": "Removido: a frase dizia que a lista de registros seria parcial ou não estaria disponível; os dados abertos de medicamentos da ANVISA usados nesta página trazem todos os registros do medicamento, que estão na tabela desta seção gerada por programa (os números atualizados estão no resumo rápido e na tabela).",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removido: “A lista de registros pode estar incompleta (registros parciais), e os detalhes individuais (número, nome comercial, forma farmacêutica) não estão disponíveis nos dados recebidos.”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表",
+   "anchor": "<!-- licenses:end -->"
+  },
+  {
+   "id": "br-lic-20261124c-bevacizumab-1",
+   "drug": "bevacizumab",
+   "file": "bevacizumab.md",
+   "action": "correct",
+   "claim": " A lista detalhada de registros (nome comercial, forma farmacêutica) não está disponível nos dados compilados.",
+   "replacement": "",
+   "note": "Removido: a frase dizia que a lista de registros não estava disponível ou não seria apresentada; esta seção agora traz a tabela de registros gerada por programa a partir dos dados abertos de medicamentos da ANVISA, com todos os registros do medicamento nos dados (os números atualizados estão no resumo rápido e na tabela).",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removido: “A lista detalhada de registros (nome comercial, forma farmacêutica) não está disponível nos dados compilados.”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表",
+   "anchor": "Segundo os dados compilados, o medicamento consta como comercializado, com"
+  },
+  {
+   "id": "br-lic-20261124c-bimatoprost-1",
+   "drug": "bimatoprost",
+   "file": "bimatoprost.md",
+   "action": "correct",
+   "claim": "A lista de registros pode estar incompleta e não há detalhamento individual (nome comercial, forma farmacêutica) disponível neste relatório.",
+   "replacement": "",
+   "note": "Removido: a frase dizia que a lista de registros seria parcial ou não estaria disponível; os dados abertos de medicamentos da ANVISA usados nesta página trazem todos os registros do medicamento, que estão na tabela desta seção gerada por programa (os números atualizados estão no resumo rápido e na tabela).",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removido: “A lista de registros pode estar incompleta e não há detalhamento individual (nome comercial, forma farmacêutica) disponível neste relatório.”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表",
+   "anchor": "<!-- licenses:end -->"
+  },
+  {
+   "id": "br-lic-20261124c-biotin-1",
+   "drug": "biotin",
+   "file": "biotin.md",
+   "action": "correct",
+   "claim": " Os detalhes dos registros serão adicionados pelo programa do site.",
+   "replacement": "",
+   "note": "Removido: a frase dizia que a lista de registros não estava disponível ou não seria apresentada; esta seção agora traz a tabela de registros gerada por programa a partir dos dados abertos de medicamentos da ANVISA, com todos os registros do medicamento nos dados (os números atualizados estão no resumo rápido e na tabela).",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removido: “Os detalhes dos registros serão adicionados pelo programa do site.”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表",
+   "anchor": "Segundo os dados abertos de medicamentos da ANVISA, há registros válidos e cancelados (núm"
+  },
+  {
+   "id": "br-lic-20261124c-biperiden-1",
+   "drug": "biperiden",
+   "file": "biperiden.md",
+   "action": "correct",
+   "claim": " Os dados compilados para este relatório não trazem o detalhamento dos registros (nome comercial, forma farmacêutica), por isso não é apresentada tabela.",
+   "replacement": "",
+   "note": "Removido: a frase dizia que a lista de registros não estava disponível ou não seria apresentada; esta seção agora traz a tabela de registros gerada por programa a partir dos dados abertos de medicamentos da ANVISA, com todos os registros do medicamento nos dados (os números atualizados estão no resumo rápido e na tabela).",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removido: “Os dados compilados para este relatório não trazem o detalhamento dos registros (nome comercial, forma farmacêutica), por isso não é apresentada tabela.”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表",
+   "anchor": "O medicamento consta como comercializado no Brasil, com"
+  },
+  {
+   "id": "br-lic-20261124c-bisoprolol-1",
+   "drug": "bisoprolol",
+   "file": "bisoprolol.md",
+   "action": "correct",
+   "claim": "Os registros são parciais (a lista pode estar incompleta), e os detalhes de cada registro não constam nos dados compilados.",
+   "replacement": "",
+   "note": "Removido: a frase dizia que a lista de registros seria parcial ou não estaria disponível; os dados abertos de medicamentos da ANVISA usados nesta página trazem todos os registros do medicamento, que estão na tabela desta seção gerada por programa (os números atualizados estão no resumo rápido e na tabela).",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removido: “Os registros são parciais (a lista pode estar incompleta), e os detalhes de cada registro não constam nos dados compilados.”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表",
+   "anchor": "<!-- licenses:end -->"
+  },
+  {
+   "id": "br-lic-20261124c-cabazitaxel-1",
+   "drug": "cabazitaxel",
+   "file": "cabazitaxel.md",
+   "action": "correct",
+   "claim": " Os detalhes de cada registro (número, nome comercial e forma farmacêutica) não constam nos dados compilados para este relatório.",
+   "replacement": "",
+   "note": "Removido: a frase dizia que a lista de registros não estava disponível ou não seria apresentada; esta seção agora traz a tabela de registros gerada por programa a partir dos dados abertos de medicamentos da ANVISA, com todos os registros do medicamento nos dados (os números atualizados estão no resumo rápido e na tabela).",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removido: “Os detalhes de cada registro (número, nome comercial e forma farmacêutica) não constam nos dados compilados para este relatório.”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表",
+   "anchor": "Os dados compilados indicam situação de comercialização \"Comercializado\", com"
+  },
+  {
+   "id": "br-lic-20261124c-cefazolin-1",
+   "drug": "cefazolin",
+   "file": "cefazolin.md",
+   "action": "correct",
+   "claim": "A lista pode ser parcial. Os dados compilados não trazem o detalhamento dos registros (número, nome comercial, forma farmacêutica), por isso a tabela não é apresentada.",
+   "replacement": "",
+   "note": "Removido: a frase dizia que a lista de registros seria parcial ou não estaria disponível; os dados abertos de medicamentos da ANVISA usados nesta página trazem todos os registros do medicamento, que estão na tabela desta seção gerada por programa (os números atualizados estão no resumo rápido e na tabela).",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removido: “A lista pode ser parcial. Os dados compilados não trazem o detalhamento dos registros (número, nome comercial, forma farmacêutica), por isso a tabela não é apresentada.”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表",
+   "anchor": "<!-- licenses:end -->"
+  },
+  {
+   "id": "br-lic-20261124c-clobutinol-1",
+   "drug": "clobutinol",
+   "file": "clobutinol.md",
+   "action": "correct",
+   "claim": " Esta lista pode estar incompleta, pois os registros são parciais, e nenhum registro detalhado está disponível para listagem neste relatório.",
+   "replacement": "",
+   "note": "Removido: a frase dizia que a lista de registros seria parcial ou não estaria disponível; os dados abertos de medicamentos da ANVISA usados nesta página trazem todos os registros do medicamento, que estão na tabela desta seção gerada por programa (os números atualizados estão no resumo rápido e na tabela).",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removido: “Esta lista pode estar incompleta, pois os registros são parciais, e nenhum registro detalhado está disponível para listagem neste relatório.”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表",
+   "anchor": "<!-- licenses:end -->"
+  },
+  {
+   "id": "br-lic-20261124c-clopidogrel-1",
+   "drug": "clopidogrel",
+   "file": "clopidogrel.md",
+   "action": "correct",
+   "claim": "A lista de registros pode estar incompleta, e os dados não trazem a relação detalhada de registros, nomes comerciais e formas farmacêuticas.",
+   "replacement": "",
+   "note": "Removido: a frase dizia que a lista de registros seria parcial ou não estaria disponível; os dados abertos de medicamentos da ANVISA usados nesta página trazem todos os registros do medicamento, que estão na tabela desta seção gerada por programa (os números atualizados estão no resumo rápido e na tabela).",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removido: “A lista de registros pode estar incompleta, e os dados não trazem a relação detalhada de registros, nomes comerciais e formas farmacêuticas.”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表",
+   "anchor": "<!-- licenses:end -->"
+  },
+  {
+   "id": "br-lic-20261124c-deferasirox-1",
+   "drug": "deferasirox",
+   "file": "deferasirox.md",
+   "action": "correct",
+   "claim": " A lista detalhada de registros não está disponível nos dados compilados.",
+   "replacement": "",
+   "note": "Removido: a frase dizia que a lista de registros não estava disponível ou não seria apresentada; esta seção agora traz a tabela de registros gerada por programa a partir dos dados abertos de medicamentos da ANVISA, com todos os registros do medicamento nos dados (os números atualizados estão no resumo rápido e na tabela).",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removido: “A lista detalhada de registros não está disponível nos dados compilados.”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表",
+   "anchor": "Os dados compilados para este relatório indicam que o fármaco está comercializado no Brasi"
+  },
+  {
+   "id": "br-lic-20261124c-diazepam-1",
+   "drug": "diazepam",
+   "file": "diazepam.md",
+   "action": "correct",
+   "claim": " Os dados disponíveis não trazem o detalhamento individual dos registros (nome comercial, forma farmacêutica), por isso não é possível apresentá-lo aqui.",
+   "replacement": "",
+   "note": "Removido: a frase dizia que a lista de registros não estava disponível ou não seria apresentada; esta seção agora traz a tabela de registros gerada por programa a partir dos dados abertos de medicamentos da ANVISA, com todos os registros do medicamento nos dados (os números atualizados estão no resumo rápido e na tabela).",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removido: “Os dados disponíveis não trazem o detalhamento individual dos registros (nome comercial, forma farmacêutica), por isso não é possível apresentá-lo aqui.”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表",
+   "anchor": "Segundo os dados regulatórios compilados, o diazepam está **comercializado** no Brasil. Co"
+  },
+  {
+   "id": "br-lic-20261124c-diclofenac-1",
+   "drug": "diclofenac",
+   "file": "diclofenac.md",
+   "action": "correct",
+   "claim": "A lista de registros pode estar incompleta, e por isso os registros individuais não são detalhados aqui.",
+   "replacement": "",
+   "note": "Removido: a frase dizia que a lista de registros seria parcial ou não estaria disponível; os dados abertos de medicamentos da ANVISA usados nesta página trazem todos os registros do medicamento, que estão na tabela desta seção gerada por programa (os números atualizados estão no resumo rápido e na tabela).",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removido: “A lista de registros pode estar incompleta, e por isso os registros individuais não são detalhados aqui.”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表",
+   "anchor": "<!-- licenses:end -->"
+  },
+  {
+   "id": "br-lic-20261124c-dienogest-1",
+   "drug": "dienogest",
+   "file": "dienogest.md",
+   "action": "correct",
+   "claim": "A lista pode estar parcial. A tabela de registros é gerada pelo programa e não está detalhada aqui.",
+   "replacement": "",
+   "note": "Removido: a frase dizia que a lista de registros seria parcial ou não estaria disponível; os dados abertos de medicamentos da ANVISA usados nesta página trazem todos os registros do medicamento, que estão na tabela desta seção gerada por programa (os números atualizados estão no resumo rápido e na tabela).",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removido: “A lista pode estar parcial. A tabela de registros é gerada pelo programa e não está detalhada aqui.”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表",
+   "anchor": "<!-- licenses:end -->"
+  },
+  {
+   "id": "br-lic-20261124c-docetaxel-1",
+   "drug": "docetaxel",
+   "file": "docetaxel.md",
+   "action": "correct",
+   "claim": " A lista de registros pode estar incompleta nos dados compilados.",
+   "replacement": "",
+   "note": "Removido: a frase dizia que a lista de registros seria parcial ou não estaria disponível; os dados abertos de medicamentos da ANVISA usados nesta página trazem todos os registros do medicamento, que estão na tabela desta seção gerada por programa (os números atualizados estão no resumo rápido e na tabela).",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removido: “A lista de registros pode estar incompleta nos dados compilados.”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表",
+   "anchor": "Há registros válidos de docetaxel no Brasil, e a situação de comercialização é \"comerciali"
+  },
+  {
+   "id": "br-lic-20261124c-donepezil-1",
+   "drug": "donepezil",
+   "file": "donepezil.md",
+   "action": "correct",
+   "claim": "A lista de registros pode estar incompleta (registros parciais), e o detalhamento por registro não está disponível nos dados deste relatório.",
+   "replacement": "",
+   "note": "Removido: a frase dizia que a lista de registros seria parcial ou não estaria disponível; os dados abertos de medicamentos da ANVISA usados nesta página trazem todos os registros do medicamento, que estão na tabela desta seção gerada por programa (os números atualizados estão no resumo rápido e na tabela).",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removido: “A lista de registros pode estar incompleta (registros parciais), e o detalhamento por registro não está disponível nos dados deste relatório.”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表",
+   "anchor": "<!-- licenses:end -->"
+  },
+  {
+   "id": "br-lic-20261124c-droperidol-1",
+   "drug": "droperidol",
+   "file": "droperidol.md",
+   "action": "correct",
+   "claim": " Os dados compilados não trazem o detalhamento dos registros (nome comercial, forma farmacêutica e texto de indicação), por isso a tabela é omitida.",
+   "replacement": "",
+   "note": "Removido: a frase dizia que a lista de registros não estava disponível ou não seria apresentada; esta seção agora traz a tabela de registros gerada por programa a partir dos dados abertos de medicamentos da ANVISA, com todos os registros do medicamento nos dados (os números atualizados estão no resumo rápido e na tabela).",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removido: “Os dados compilados não trazem o detalhamento dos registros (nome comercial, forma farmacêutica e texto de indicação), por isso a tabela é omitida.”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表",
+   "anchor": "O Brasil tem registros válidos e cancelados (números atualizados no resumo rápido) para o"
+  },
+  {
+   "id": "br-lic-20261124c-elafibranor-1",
+   "drug": "elafibranor",
+   "file": "elafibranor.md",
+   "action": "correct",
+   "claim": "Não há detalhes de nome comercial, forma farmacêutica ou texto de indicação nos dados locais disponíveis.",
+   "replacement": "Os dados abertos da ANVISA não trazem forma farmacêutica nem texto de indicação; o registro está na tabela acima.",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA: esta seção agora traz a tabela de registros gerada por programa a partir dos dados (número do registro, produto, empresa detentora e situação); os dados abertos não trazem forma farmacêutica nem texto de indicação. Os números atualizados estão no resumo rápido e na tabela.",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "“Não há detalhes de nome comercial, forma farmacêutica ou texto de indicação nos dados locais disponíveis.” → “Os dados abertos da ANVISA não trazem forma farmacêutica nem texto de indicação; o registro está na tabela acima.”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表"
+  },
+  {
+   "id": "br-lic-20261124c-etonogestrel-1",
+   "drug": "etonogestrel",
+   "file": "etonogestrel.md",
+   "action": "correct",
+   "claim": " A lista detalhada de registros não está disponível nos dados compilados.",
+   "replacement": "",
+   "note": "Removido: a frase dizia que a lista de registros não estava disponível ou não seria apresentada; esta seção agora traz a tabela de registros gerada por programa a partir dos dados abertos de medicamentos da ANVISA, com todos os registros do medicamento nos dados (os números atualizados estão no resumo rápido e na tabela).",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removido: “A lista detalhada de registros não está disponível nos dados compilados.”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表",
+   "anchor": "Os dados compilados indicam situação de comercialização \"Comercializado\", com"
+  },
+  {
+   "id": "br-lic-20261124c-etoricoxib-1",
+   "drug": "etoricoxib",
+   "file": "etoricoxib.md",
+   "action": "correct",
+   "claim": "Os dados de registro disponíveis são parciais. A lista detalhada de registros não está disponível nos dados compilados.",
+   "replacement": "",
+   "note": "Removido: a frase dizia que a lista de registros seria parcial ou não estaria disponível; os dados abertos de medicamentos da ANVISA usados nesta página trazem todos os registros do medicamento, que estão na tabela desta seção gerada por programa (os números atualizados estão no resumo rápido e na tabela).",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removido: “Os dados de registro disponíveis são parciais. A lista detalhada de registros não está disponível nos dados compilados.”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表",
+   "anchor": "<!-- licenses:end -->"
+  },
+  {
+   "id": "br-lic-20261124c-flunitrazepam-1",
+   "drug": "flunitrazepam",
+   "file": "flunitrazepam.md",
+   "action": "correct",
+   "claim": "Os dados locais não trazem o detalhamento de nomes comerciais, formas farmacêuticas ou textos de indicação aprovada.",
+   "replacement": "Os dados abertos da ANVISA não trazem formas farmacêuticas nem textos de indicação aprovada; os registros estão na tabela acima.",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA: esta seção agora traz a tabela de registros gerada por programa a partir dos dados (número do registro, produto, empresa detentora e situação); os dados abertos não trazem forma farmacêutica nem texto de indicação. Os números atualizados estão no resumo rápido e na tabela.",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "“Os dados locais não trazem o detalhamento de nomes comerciais, formas farmacêuticas ou textos de indicação aprovada.” → “Os dados abertos da ANVISA não trazem formas farmacêuticas nem textos de indicação aprovada; os registros estão na tabela acima.”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表"
+  },
+  {
+   "id": "br-lic-20261124c-flurbiprofen-1",
+   "drug": "flurbiprofen",
+   "file": "flurbiprofen.md",
+   "action": "correct",
+   "claim": " Os dados compilados não trazem o detalhamento individual dos registros (número, nome comercial e forma farmacêutica), por isso não é possível listá-los em tabela.",
+   "replacement": "",
+   "note": "Removido: a frase dizia que a lista de registros não estava disponível ou não seria apresentada; esta seção agora traz a tabela de registros gerada por programa a partir dos dados abertos de medicamentos da ANVISA, com todos os registros do medicamento nos dados (os números atualizados estão no resumo rápido e na tabela).",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removido: “Os dados compilados não trazem o detalhamento individual dos registros (número, nome comercial e forma farmacêutica), por isso não é possível listá-los em tabela.”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表",
+   "anchor": "O flurbiprofeno consta como **comercializado** no Brasil, com"
+  },
+  {
+   "id": "br-lic-20261124c-guaifenesin-1",
+   "drug": "guaifenesin",
+   "file": "guaifenesin.md",
+   "action": "correct",
+   "claim": "Os detalhes de cada registro não constam nos dados compilados para este relatório.",
+   "replacement": "",
+   "note": "Removido: a frase dizia que a lista de registros não estava disponível ou não seria apresentada; esta seção agora traz a tabela de registros gerada por programa a partir dos dados abertos de medicamentos da ANVISA, com todos os registros do medicamento nos dados (os números atualizados estão no resumo rápido e na tabela).",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removido: “Os detalhes de cada registro não constam nos dados compilados para este relatório.”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表",
+   "anchor": "<!-- licenses:end -->"
+  },
+  {
+   "id": "br-lic-20261124c-haloperidol-1",
+   "drug": "haloperidol",
+   "file": "haloperidol.md",
+   "action": "correct",
+   "claim": "A lista de registros pode estar incompleta.",
+   "replacement": "",
+   "note": "Removido: a frase dizia que a lista de registros seria parcial ou não estaria disponível; os dados abertos de medicamentos da ANVISA usados nesta página trazem todos os registros do medicamento, que estão na tabela desta seção gerada por programa (os números atualizados estão no resumo rápido e na tabela).",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removido: “A lista de registros pode estar incompleta.”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表",
+   "anchor": "<!-- licenses:end -->"
+  },
+  {
+   "id": "br-lic-20261124c-hesperidin-1",
+   "drug": "hesperidin",
+   "file": "hesperidin.md",
+   "action": "correct",
+   "claim": " Não há detalhes de registros individuais disponíveis nos dados compilados para este relatório.",
+   "replacement": "",
+   "note": "Removido: a frase dizia que a lista de registros não estava disponível ou não seria apresentada; esta seção agora traz a tabela de registros gerada por programa a partir dos dados abertos de medicamentos da ANVISA, com todos os registros do medicamento nos dados (os números atualizados estão no resumo rápido e na tabela).",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removido: “Não há detalhes de registros individuais disponíveis nos dados compilados para este relatório.”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表",
+   "anchor": "Os dados locais indicam que há registros válidos para hesperidina no Brasil (números atual"
+  },
+  {
+   "id": "br-lic-20261124c-ibuprofen-1",
+   "drug": "ibuprofen",
+   "file": "ibuprofen.md",
+   "action": "correct",
+   "claim": "Os dados de registro são parciais, e a lista detalhada de registros não está disponível neste relatório.",
+   "replacement": "",
+   "note": "Removido: a frase dizia que a lista de registros seria parcial ou não estaria disponível; os dados abertos de medicamentos da ANVISA usados nesta página trazem todos os registros do medicamento, que estão na tabela desta seção gerada por programa (os números atualizados estão no resumo rápido e na tabela).",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removido: “Os dados de registro são parciais, e a lista detalhada de registros não está disponível neste relatório.”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表",
+   "anchor": "<!-- licenses:end -->"
+  },
+  {
+   "id": "br-lic-20261124c-indacaterol-1",
+   "drug": "indacaterol",
+   "file": "indacaterol.md",
+   "action": "correct",
+   "claim": " A lista detalhada de registros não está disponível nos dados compilados.",
+   "replacement": "",
+   "note": "Removido: a frase dizia que a lista de registros não estava disponível ou não seria apresentada; esta seção agora traz a tabela de registros gerada por programa a partir dos dados abertos de medicamentos da ANVISA, com todos os registros do medicamento nos dados (os números atualizados estão no resumo rápido e na tabela).",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removido: “A lista detalhada de registros não está disponível nos dados compilados.”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表",
+   "anchor": "Segundo os dados compilados, há"
+  },
+  {
+   "id": "br-lic-20261124c-isotretinoin-1",
+   "drug": "isotretinoin",
+   "file": "isotretinoin.md",
+   "action": "correct",
+   "claim": "A lista detalhada de registros não está disponível nos dados compilados.",
+   "replacement": "",
+   "note": "Removido: a frase dizia que a lista de registros não estava disponível ou não seria apresentada; esta seção agora traz a tabela de registros gerada por programa a partir dos dados abertos de medicamentos da ANVISA, com todos os registros do medicamento nos dados (os números atualizados estão no resumo rápido e na tabela).",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removido: “A lista detalhada de registros não está disponível nos dados compilados.”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表",
+   "anchor": "<!-- licenses:end -->"
+  },
+  {
+   "id": "br-lic-20261124c-ivermectin-1",
+   "drug": "ivermectin",
+   "file": "ivermectin.md",
+   "action": "correct",
+   "claim": "A lista de registros pode estar incompleta (dados parciais) e não foi detalhada nos dados compilados para este relatório.",
+   "replacement": "",
+   "note": "Removido: a frase dizia que a lista de registros seria parcial ou não estaria disponível; os dados abertos de medicamentos da ANVISA usados nesta página trazem todos os registros do medicamento, que estão na tabela desta seção gerada por programa (os números atualizados estão no resumo rápido e na tabela).",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removido: “A lista de registros pode estar incompleta (dados parciais) e não foi detalhada nos dados compilados para este relatório.”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表",
+   "anchor": "<!-- licenses:end -->"
+  },
+  {
+   "id": "br-lic-20261124c-lactulose-1",
+   "drug": "lactulose",
+   "file": "lactulose.md",
+   "action": "correct",
+   "claim": "Não há detalhamento de registros individuais (nome comercial, forma farmacêutica) disponível para listagem.",
+   "replacement": "",
+   "note": "Removido: a frase dizia que a lista de registros não estava disponível ou não seria apresentada; esta seção agora traz a tabela de registros gerada por programa a partir dos dados abertos de medicamentos da ANVISA, com todos os registros do medicamento nos dados (os números atualizados estão no resumo rápido e na tabela).",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removido: “Não há detalhamento de registros individuais (nome comercial, forma farmacêutica) disponível para listagem.”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表",
+   "anchor": "<!-- licenses:end -->"
+  },
+  {
+   "id": "br-lic-20261124c-levonorgestrel-1",
+   "drug": "levonorgestrel",
+   "file": "levonorgestrel.md",
+   "action": "correct",
+   "claim": " O detalhamento por registro não está disponível nos dados compilados para este relatório.",
+   "replacement": "",
+   "note": "Removido: a frase dizia que a lista de registros não estava disponível ou não seria apresentada; esta seção agora traz a tabela de registros gerada por programa a partir dos dados abertos de medicamentos da ANVISA, com todos os registros do medicamento nos dados (os números atualizados estão no resumo rápido e na tabela).",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removido: “O detalhamento por registro não está disponível nos dados compilados para este relatório.”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表",
+   "anchor": "<!-- licenses:end -->"
+  },
+  {
+   "id": "br-lic-20261124c-salbutamol-1",
+   "drug": "salbutamol",
+   "file": "salbutamol.md",
+   "action": "correct",
+   "claim": " Os dados compilados para este relatório não trazem o detalhamento individual dos registros (número, nome comercial e forma farmacêutica), por isso a tabela não é apresentada.",
+   "replacement": "",
+   "note": "Removido: a frase dizia que a lista de registros não estava disponível ou não seria apresentada; esta seção agora traz a tabela de registros gerada por programa a partir dos dados abertos de medicamentos da ANVISA, com todos os registros do medicamento nos dados (os números atualizados estão no resumo rápido e na tabela).",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removido: “Os dados compilados para este relatório não trazem o detalhamento individual dos registros (número, nome comercial e forma farmacêutica), por isso a tabela não é apresentada.”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表",
+   "anchor": "O fármaco consta como comercializado no Brasil, com"
+  },
+  {
+   "id": "br-lic-20261124c-tamoxifen-1",
+   "drug": "tamoxifen",
+   "file": "tamoxifen.md",
+   "action": "correct",
+   "claim": "Essa informação diverge da realidade esperada para um fármaco amplamente usado e **deve ser verificada** diretamente na ANVISA.",
+   "replacement": "",
+   "note": "Removido: a frase se referia a uma afirmação sobre os registros removida anteriormente e ficou sem sentido; esta seção agora traz a tabela de registros gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os números atualizados estão no resumo rápido e na tabela).",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removido: “Essa informação diverge da realidade esperada para um fármaco amplamente usado e **deve ser verificada** diretamente na ANVISA.”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表",
+   "anchor": "<!-- licenses:end -->"
+  },
+  {
+   "id": "br-lic-20261124c-carisoprodol-1",
+   "drug": "carisoprodol",
+   "file": "carisoprodol.md",
+   "action": "correct",
+   "claim": "no Brasil, já que não há registros.",
+   "replacement": "no Brasil.",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA: o medicamento tem registros no Brasil (válidos e cancelados), listados na tabela da seção de informações de comercialização; os números atualizados estão no resumo rápido. Só foi retirada a premissa errada; o restante do texto não foi alterado.",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "“no Brasil, já que não há registros.” → “no Brasil.”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表"
+  },
+  {
+   "id": "br-lic-20261124c-levetiracetam-1",
+   "drug": "levetiracetam",
+   "file": "levetiracetam.md",
+   "action": "correct",
+   "claim": "Não há registros do medicamento no Brasil nos dados compilados, e a situação regulatória deve ser confirmada.",
+   "replacement": "A situação regulatória deve ser confirmada.",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA: o medicamento tem registros no Brasil (válidos e cancelados), listados na tabela da seção de informações de comercialização; os números atualizados estão no resumo rápido. Só foi retirada a premissa errada; o restante do texto não foi alterado.",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "“Não há registros do medicamento no Brasil nos dados compilados, e a situação regulatória deve ser confirmada.” → “A situação regulatória deve ser confirmada.”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表"
+  },
+  {
+   "id": "br-lic-20261124c-naproxen-1",
+   "drug": "naproxen",
+   "file": "naproxen.md",
+   "action": "correct",
+   "claim": "do naproxeno no Brasil, já que não constam registros nos dados compilados",
+   "replacement": "do naproxeno no Brasil",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA: o medicamento tem registros no Brasil (válidos e cancelados), listados na tabela da seção de informações de comercialização; os números atualizados estão no resumo rápido. Só foi retirada a premissa errada; o restante do texto não foi alterado.",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "“do naproxeno no Brasil, já que não constam registros nos dados compilados” → “do naproxeno no Brasil”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表"
+  },
+  {
+   "id": "br-lic-20261124c-nitrazepam-1",
+   "drug": "nitrazepam",
+   "file": "nitrazepam.md",
+   "action": "correct",
+   "claim": "e a segunda carece de vínculo mecanístico. Além disso, o fármaco não está registrado nem comercializado no Brasil.",
+   "replacement": "e a segunda carece de vínculo mecanístico.",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA: o medicamento tem registros no Brasil (válidos e cancelados), listados na tabela da seção de informações de comercialização; os números atualizados estão no resumo rápido. Só foi retirada a premissa errada; o restante do texto não foi alterado.",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "“e a segunda carece de vínculo mecanístico. Além disso, o fármaco não está registrado nem comercializado no Brasil.” → “e a segunda carece de vínculo mecanístico.”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表"
+  },
+  {
+   "id": "br-lic-20261124c-olmesartan-1",
+   "drug": "olmesartan",
+   "file": "olmesartan.md",
+   "action": "correct",
+   "claim": "a indicação original não consta nos dados compilados (nenhum registro na ANVISA).",
+   "replacement": "a indicação original não consta nos dados compilados.",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA: o medicamento tem registros no Brasil (válidos e cancelados), listados na tabela da seção de informações de comercialização; os números atualizados estão no resumo rápido. Só foi retirada a premissa errada; o restante do texto não foi alterado.",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "“a indicação original não consta nos dados compilados (nenhum registro na ANVISA).” → “a indicação original não consta nos dados compilados.”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表"
+  },
+  {
+   "id": "br-lic-20261124c-piroxicam-1",
+   "drug": "piroxicam",
+   "file": "piroxicam.md",
+   "action": "correct",
+   "claim": "\n- Não há registro no Brasil, o que também dificulta qualquer avanço regulatório.",
+   "replacement": "",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA: o medicamento tem registros no Brasil (válidos e cancelados), listados na tabela da seção de informações de comercialização; os números atualizados estão no resumo rápido. Só foi retirada a premissa errada; o restante do texto não foi alterado.",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removido: “- Não há registro no Brasil, o que também dificulta qualquer avanço regulatório.”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表",
+   "anchor": "- A artrite idiopática juvenil tem estudos com piroxicam"
+  },
+  {
+   "id": "br-lic-20261124c-propofol-1",
+   "drug": "propofol",
+   "file": "propofol.md",
+   "action": "correct",
+   "claim": "no Brasil, pois os dados compilados indicam ausência de registros ativos.",
+   "replacement": "no Brasil.",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA: o medicamento tem registros no Brasil (válidos e cancelados), listados na tabela da seção de informações de comercialização; os números atualizados estão no resumo rápido. Só foi retirada a premissa errada; o restante do texto não foi alterado.",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "“no Brasil, pois os dados compilados indicam ausência de registros ativos.” → “no Brasil.”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表"
+  },
+  {
+   "id": "br-lic-20261124c-rasburicase-1",
+   "drug": "rasburicase",
+   "file": "rasburicase.md",
+   "action": "correct",
+   "claim": "de acesso, já que não há registro no Brasil.",
+   "replacement": "de acesso.",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA: o medicamento tem registros no Brasil (válidos e cancelados), listados na tabela da seção de informações de comercialização; os números atualizados estão no resumo rápido. Só foi retirada a premissa errada; o restante do texto não foi alterado.",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "“de acesso, já que não há registro no Brasil.” → “de acesso.”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表"
+  },
+  {
+   "id": "br-lic-20261124c-sofosbuvir-1",
+   "drug": "sofosbuvir",
+   "file": "sofosbuvir.md",
+   "action": "correct",
+   "claim": "do sofosbuvir no Brasil, pois os registros compilados indicam zero licenças.",
+   "replacement": "do sofosbuvir no Brasil.",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA: o medicamento tem registros no Brasil (válidos e cancelados), listados na tabela da seção de informações de comercialização; os números atualizados estão no resumo rápido. Só foi retirada a premissa errada; o restante do texto não foi alterado.",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "“do sofosbuvir no Brasil, pois os registros compilados indicam zero licenças.” → “do sofosbuvir no Brasil.”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表"
+  },
+  {
+   "id": "br-lic-20261124c-tezacaftor-1",
+   "drug": "tezacaftor",
+   "file": "tezacaftor.md",
+   "action": "correct",
+   "claim": "e a viabilidade regulatória, já que não há registro no Brasil",
+   "replacement": "e a viabilidade regulatória",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA: o medicamento tem registros no Brasil (válidos e cancelados), listados na tabela da seção de informações de comercialização; os números atualizados estão no resumo rápido. Só foi retirada a premissa errada; o restante do texto não foi alterado.",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "“e a viabilidade regulatória, já que não há registro no Brasil” → “e a viabilidade regulatória”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表"
+  },
+  {
+   "id": "br-lic-20261124c-venetoclax-1",
+   "drug": "venetoclax",
+   "file": "venetoclax.md",
+   "action": "correct",
+   "claim": "Além disso, o fármaco não consta como comercializado no Brasil, e os dados de segurança da bula estão ausentes.",
+   "replacement": "Além disso, os dados de segurança da bula estão ausentes.",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA: o medicamento tem registros no Brasil (válidos e cancelados), listados na tabela da seção de informações de comercialização; os números atualizados estão no resumo rápido. Só foi retirada a premissa errada; o restante do texto não foi alterado.",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "“Além disso, o fármaco não consta como comercializado no Brasil, e os dados de segurança da bula estão ausentes.” → “Além disso, os dados de segurança da bula estão ausentes.”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表"
+  },
+  {
+   "id": "br-lic-20261124c-ambroxol-1",
+   "drug": "ambroxol",
+   "file": "ambroxol.md",
+   "action": "correct",
+   "claim": "- A lista de registros locais pode estar parcial; confirmar o conjunto completo de licenças",
+   "replacement": "- Confirmar o conjunto completo de licenças",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA: a lista de registros desta página não é parcial; a tabela da seção de informações de comercialização, gerada por programa a partir dos dados, inclui todos os registros do medicamento nos dados (os números atualizados estão no resumo rápido). Só foi retirada a premissa errada; o restante do texto não foi alterado.",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "“- A lista de registros locais pode estar parcial; confirmar o conjunto completo de licenças” → “- Confirmar o conjunto completo de licenças”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表"
+  },
+  {
+   "id": "br-lic-20261124c-clioquinol-1",
+   "drug": "clioquinol",
+   "file": "clioquinol.md",
+   "action": "correct",
+   "claim": "no Brasil, pois os dados atuais podem estar parciais.",
+   "replacement": "no Brasil.",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA: a lista de registros desta página não é parcial; a tabela da seção de informações de comercialização, gerada por programa a partir dos dados, inclui todos os registros do medicamento nos dados (os números atualizados estão no resumo rápido). Só foi retirada a premissa errada; o restante do texto não foi alterado.",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "“no Brasil, pois os dados atuais podem estar parciais.” → “no Brasil.”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表"
+  },
+  {
+   "id": "br-lic-20261124c-irbesartan-1",
+   "drug": "irbesartan",
+   "file": "irbesartan.md",
+   "action": "correct",
+   "claim": "no Brasil, que pode estar parcial.",
+   "replacement": "no Brasil.",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA: a lista de registros desta página não é parcial; a tabela da seção de informações de comercialização, gerada por programa a partir dos dados, inclui todos os registros do medicamento nos dados (os números atualizados estão no resumo rápido). Só foi retirada a premissa errada; o restante do texto não foi alterado.",
+   "finding": "2026-11-24 第三輪：市場段落補上程式許可證表後（整頁缺段落的公開頁補段落、段落在表不在的頁補表），正文「詳細清單不可得／表格不呈現／清單不完整／沒有註冊」等說法跟程式表與快照事實層（data-20261123-132649）不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "“no Brasil, que pode estar parcial.” → “no Brasil.”",
+   "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表"
   }
  ]
 }

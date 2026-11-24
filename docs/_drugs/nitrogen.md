@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 475
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 monitor_inn: "nitrogen"
 predicted_indications: ["16q24.1 microdeletion syndrome", "primary interstitial lung disease specific to childhood", "isolated pulmonary capillaritis", "congenital pulmonary lymphangiectasia"]
 description: "Nitrogen: nova indicação prevista, 16q24.1 microdeletion syndrome (nível de evidência L5). No Brasil, registros na ANVISA: 1 (ativos: 0)"
@@ -67,6 +67,16 @@ Outras indicações previstas, também apenas computacionais (pontuações de 0,
 - Linfangiectasia pulmonar congênita
 
 Em todas, a pontuação vem do modelo TxGNN (aprendizado profundo) e pode refletir semelhanças aprendidas pelo modelo entre doenças relacionadas, não evidência biológica de efeito do fármaco.
+
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 113000005 | TRENTAL | SANOFI-AVENTIS FARMACÊUTICA LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

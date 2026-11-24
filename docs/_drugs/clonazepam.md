@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 3
 monitor_inn: "CLONAZEPAM"
 predicted_indications: ["restless legs syndrome", "insomnia (disease)", "trigeminal nerve neoplasm"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clonazepam: nova indicação prevista, Síndrome das pernas inquietas (restless legs syndrome) (nível de evidência L3). No Brasil, registros na ANVISA: 59 (ativos: 28)"
 ---
 
@@ -80,6 +80,47 @@ Atualmente não há ensaios clínicos relacionados registrados.
 | [20156514](https://pubmed.ncbi.nlm.nih.gov/20156514/) | 2010 | Estudo clínico | Prog Neuropsychopharmacol Biol Psychiatry | Proposta de equivalência de doses entre clonazepam e pramipexol |
 | [39787099](https://pubmed.ncbi.nlm.nih.gov/39787099/) | 2025 | Estudo clínico | Sleep | Efeitos diferenciais de agonistas dopaminérgicos e clonazepam sobre movimentos de grandes grupos musculares durante o sono |
 | [17876423](https://pubmed.ncbi.nlm.nih.gov/17876423/) | 2007 | Opinião de especialistas | Arq Neuropsiquiatr | Consenso de especialistas brasileiros sobre diagnóstico e manejo da síndrome |
+
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100430971 | CLONAZEPAM | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100630262 | CLONAZEPAM | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100630268 | CLONAZEPAM | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 102350752 | CLONAZEPAM | EMS S/A | Ativo |
+| 102351124 | CLONAZEPAM | EMS S/A | Ativo |
+| 102980189 | CLOPAM | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980500 | CLONAZEPAM | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980520 | CLOPAM | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980554 | CLONAZEPAM | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980574 | ZAPLAM | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103700553 | CLONAZEPAM | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 105830429 | CLONAZEPAM | GERMED FARMACEUTICA LTDA | Ativo |
+| 105830836 | CLONAZEPAM | GERMED FARMACEUTICA LTDA | Ativo |
+| 110390180 | CLONAZEPAM | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Ativo |
+| 113430166 | CLONAZEPAM | HIPOLABOR FARMACEUTICA LTDA | Ativo |
+| 118190240 | CLONAZEPAM | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 123520193 | CLONAZEPAM | RANBAXY FARMACÊUTICA LTDA | Ativo |
+| 125680230 | CLONAZEPAM (PORT. 344/98  LISTA B1) | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 125680270 | CLONAZEPAM | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 141070121 | CLONAZEPAM | PHARLAB INDÚSTRIA FARMACÊUTICA S.A. | Ativo |
+| 141070663 | AZENPI | PHARLAB INDÚSTRIA FARMACÊUTICA S.A. | Ativo |
+| 154230175 | ZILEPAM | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 154230330 | CLONAZEPAM | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 156510029 | CLONAZEPAM | ZYDUS NIKKHO FARMACÊUTICA LTDA | Ativo |
+| 167730490 | CLONAZEPAM | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 183260220 | CLONAZEPAM | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+| 183260263 | CLONAZEPAM | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+| 189770015 | RIVOTRIL | BIOPAS BRASIL PRODUTOS FARMACEUTICOS LTDA | Ativo |
+| 100470466 | CLONAZEPAM (PORT. 344/98 - LISTA B1) | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100470467 | ZUCLON | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 59 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

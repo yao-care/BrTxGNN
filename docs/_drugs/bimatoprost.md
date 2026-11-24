@@ -71,13 +71,56 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-A lista de registros pode estar incompleta e não há detalhamento individual (nome comercial, forma farmacêutica) disponível neste relatório.
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 101470155 | LUMIGAN | ALLERGAN PRODUTOS FARMACÊUTICOS LTDA | Ativo |
+| 101470171 | GANFORT | ALLERGAN PRODUTOS FARMACÊUTICOS LTDA | Ativo |
+| 101470177 | LATISSE | ALLERGAN PRODUTOS FARMACÊUTICOS LTDA | Ativo |
+| 101470186 | TRIPLENEX | ALLERGAN PRODUTOS FARMACÊUTICOS LTDA | Ativo |
+| 102350951 | BIMATOPROSTA | EMS S/A | Ativo |
+| 102351477 | BIMATOPROSTA + MALEATO DE TIMOLOL | EMS S/A | Ativo |
+| 102980612 | VISAN | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980613 | VISAN MT | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 104971537 | BIMATOPROSTA + MALEATO DE TIMOLOL | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971555 | DUOGLAU | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 105830870 | GLAMIGAN | GERMED FARMACEUTICA LTDA | Ativo |
+| 105830872 | BIMATOPROSTA | GERMED FARMACEUTICA LTDA | Ativo |
+| 105830993 | GLAMIGAN MT | GERMED FARMACEUTICA LTDA | Ativo |
+| 154230208 | BIMAGAN | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 154230211 | BIMATOPROSTA | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 183260031 | BIMATOPROSTA | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+| 101810634 | LUPTAS | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101810635 | BIMATOPROSTA | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 102350978 | BIMAPROST | EMS S/A | Cancelado |
+| 102351197 | BIMAPROST | EMS S/A | Cancelado |
+| 102980462 | TOPGANT | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Cancelado |
+| 105830646 | BIMATOPROSTA | GERMED FARMACEUTICA LTDA | Cancelado |
+| 105830676 | GLAMIGAN | GERMED FARMACEUTICA LTDA | Cancelado |
+| 113001135 | VISIODERE | SANOFI-AVENTIS FARMACÊUTICA LTDA | Cancelado |
+| 113001136 | BIMATOPROSTA | SANOFI-AVENTIS FARMACÊUTICA LTDA | Cancelado |
+| 118190337 | BIMATOPROSTA | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Cancelado |
+| 126750285 | BIMATOPROSTA | NOVA QUIMICA FARMACÊUTICA S/A | Cancelado |
+| 135690535 | BIMATOPROSTA | EMS SIGMA PHARMA LTDA | Cancelado |
+| 135690559 | OCUBIM | EMS SIGMA PHARMA LTDA | Cancelado |
+| 135690704 | OCUBIN | EMS SIGMA PHARMA LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 35 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 <!-- review:begin br-lic-20261106-bimatoprost-1 -->
 
 > **Correção de verificação (2026-11-06)**: Texto original: “Os dados compilados indicam situação de comercialização "Comercializado", com 11 registros válidos e 9 cancelados. A lista de registros pode estar incompleta e não há detalhamento individual (nome comercial, forma farmacêutica) disponível neste relatório.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-bimatoprost-1 -->
+
+<!-- review:begin br-lic-20261124c-bimatoprost-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “A lista de registros pode estar incompleta e não há detalhamento individual (nome comercial, forma farmacêutica) disponível neste relatório.” Removido: a frase dizia que a lista de registros seria parcial ou não estaria disponível; os dados abertos de medicamentos da ANVISA usados nesta página trazem todos os registros do medicamento, que estão na tabela desta seção gerada por programa (os números atualizados estão no resumo rápido e na tabela). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124c-bimatoprost-1 -->
 
 ## Considerações de Segurança
 
@@ -108,6 +151,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 |------|------|------|------|
 | 2026-11-06 | Removido: “Os dados compilados indicam situação de comercialização "Comercializado", com 11 registros válidos e 9 cancelados” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Durysta (bimatoprost) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3f59da84-0bcc-4c84-b3e2-e215681ef341) |
+| 2026-11-24 | Removido: “A lista de registros pode estar incompleta e não há detalhamento individual (nome comercial, forma farmacêutica) disponível neste relatório.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

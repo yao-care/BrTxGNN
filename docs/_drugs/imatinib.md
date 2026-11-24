@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Imatinib"
 predicted_indications: ["heart fibrosarcoma", "fibroblastic neoplasm", "conventional fibrosarcoma", "kidney fibrosarcoma", "low grade fibromyxoid sarcoma", "liposarcoma", "liver fibrosarcoma", "autosomal recessive familial Mediterranean fever", "ovarian myxoid liposarcoma", "familial rhabdoid tumor"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Imatinib: nova indicação prevista, fibrossarcoma cardíaco (heart fibrosarcoma) (nível de evidência L5). No Brasil, registros na ANVISA: 29 (ativos: 17)"
 ---
 
@@ -70,6 +70,44 @@ Atualmente não há ensaios clínicos relacionados registrados.
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
 | [18623899](https://pubmed.ncbi.nlm.nih.gov/18623899/) | 2008 | Revisão | Prescrire International | Comentário sobre as novas indicações do imatinibe, concluindo que, apesar da expansão progressiva, as evidências não são robustas. Não aborda fibrossarcoma cardíaco. |
+
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431056 | MESILATO DE IMATINIBE | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100470644 | BEIZOM | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100680174 | GLIVEC | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 102351080 | MESILATO DE IMATINIBE | EMS S/A | Ativo |
+| 102351164 | GLIMATIN | EMS S/A | Ativo |
+| 102980398 | MESILATO DE IMATINIBE | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980562 | LEUVEC | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103870084 | HYPONIBE | HYPOFARMA - INSTITUTO DE HYPODERMIA E FARMÁCIA LTD | Ativo |
+| 104070104 | MESILATO DE IMATINIBE | INSTITUTO VITAL BRAZIL S/A | Ativo |
+| 110630132 | MESILATO DE IMATINIBE | FUNDAÇÃO OSWALDO CRUZ | Ativo |
+| 112330051 | MESILATO DE IMATINIBE | LABORATORIO QUIMICO FARMACEUTICO DA AERONAUTICA | Ativo |
+| 116370222 | MESILATO DE IMATINIBE | BLAU FARMACÊUTICA S.A. | Ativo |
+| 116370232 | IMVECS | BLAU FARMACÊUTICA S.A. | Ativo |
+| 123520261 | MESILATO DE IMATINIBE | RANBAXY FARMACÊUTICA LTDA | Ativo |
+| 146820096 | MESILATO DE IMATINIBE | SUN FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 146820097 | PLUTO | SUN FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 156510099 | MESILATO DE IMATINIBE | ZYDUS NIKKHO FARMACÊUTICA LTDA | Ativo |
+| 100470546 | MESILATO DE IMATINIBE | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100470638 | MESILATO DE IMATINIBE | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100630271 | IMATINIBE | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 102351098 | GLIMATIN | EMS S/A | Cancelado |
+| 102980401 | LEUVEC | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Cancelado |
+| 102980441 | LEUVEC | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Cancelado |
+| 105830775 | YVEC | GERMED FARMACEUTICA LTDA | Cancelado |
+| 105830776 | MESILATO DE IMATINIBE | GERMED FARMACEUTICA LTDA | Cancelado |
+| 105830833 | MESILATO DE IMATINIBE | GERMED FARMACEUTICA LTDA | Cancelado |
+| 105830834 | YVEC | GERMED FARMACEUTICA LTDA | Cancelado |
+| 167730400 | LEUPHILA | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 167730470 | LEUPHILA | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

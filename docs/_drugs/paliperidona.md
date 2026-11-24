@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB01267
 monitor_inn: "Paliperidone"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "myopia X-linked", "syndromic myopia", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia 26, X-linked, female-limited", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "atypical glycine encephalopathy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Paliperidona: nova indicação prevista, distrofia retiniana com ou sem anomalias extraoculares (retinal dystrophy with or without extraocular anomalies) (nível de evidência L5)."
 ---
 
@@ -61,6 +61,19 @@ Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (P
 Não se identifica uma ligação plausível entre esse antagonismo e a degeneração retiniana hereditária. A distrofia retiniana é, em geral, de origem genética e estrutural, e um antipsicótico sintomático não tem efeito conhecido sobre os mecanismos que a causam.
 
 A pontuação elevada provavelmente reflete um artefato da rede de relações do modelo, e não uma base farmacológica ou clínica. Esta previsão deve ser tratada como hipótese sem sustentação, não como direção promissora.
+
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 112363388 | INVEGA | JANSSEN-CILAG FARMACÊUTICA LTDA | Ativo |
+| 112363398 | INVEGA | JANSSEN-CILAG FARMACÊUTICA LTDA | Ativo |
+| 122140135 | PALMITATO DE PALIPERIDONA | ADIUM S.A. | Ativo |
+| 122140136 | VEGAPALI | ADIUM S.A. | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

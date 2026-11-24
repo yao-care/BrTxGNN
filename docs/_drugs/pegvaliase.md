@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 513
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Pegvaliase"
 predicted_indications: ["diabetic retinopathy", "severe nonproliferative diabetic retinopathy", "diabetic cataract"]
 description: "Pegvaliase: nova indicação prevista, Retinopatia diabética (diabetic retinopathy) (nível de evidência L5). No Brasil, registros na ANVISA: 1 (ativos: 1)"
@@ -60,6 +60,16 @@ Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (P
 Não foi estabelecida nenhuma relação mecanística entre a depleção de fenilalanina e a patologia microvascular da retina diabética. A pontuação elevada do TxGNN (0,9917) vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica; por si só, não constitui prova de plausibilidade biológica.
 
 As demais previsões do modelo seguem o mesmo padrão: Retinopatia diabética não proliferativa grave (0,9916) e catarata diabética (0,9911). Ambas sem ensaios ou literatura. Essas pontuações vêm do modelo TxGNN (deep learning) e podem refletir semelhanças aprendidas entre doenças relacionadas, não biologia específica de cada doença.
+
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 173330007 | PALYNZIQ | BIOMARIN BRASIL FARMACÊUTICA LTDA | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

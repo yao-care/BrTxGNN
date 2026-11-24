@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 525
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "PIBRENTASVIR"
 predicted_indications: ["hepatitis B virus infection", "HIV infectious disease", "hepatitis E virus infection", "hepatitis A virus infection", "hepatitis, viral, animal", "Omsk hemorrhagic fever", "Kyasanur forest disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Pibrentasvir: nova indicação prevista, Infecção pelo vírus da hepatite B (hepatitis B virus infection) (nível de evidência L5). No Brasil, registros na ANVISA: 1 (ativos: 1)"
@@ -81,6 +81,16 @@ Nenhuma das publicações recuperadas apresenta dados específicos de hepatite B
 | [29369303](https://pubmed.ncbi.nlm.nih.gov/29369303/) | 2018 | Relatório de conferência | AIDS Rev | Conferência Internacional sobre Hepatite Viral 2017; carga de VHB e VHC e novos antivirais pangenotípicos para VHC |
 | [30964552](https://pubmed.ncbi.nlm.nih.gov/30964552/) | 2019 | Pré-clínico/virologia | Hepatology | Vias evolutivas de resistência do VHC a inibidores de protease |
 | [34344581](https://pubmed.ncbi.nlm.nih.gov/34344581/) | 2021 | Relato de caso | J Infect Chemother | Glecaprevir/pibrentasvir em exacerbação de hepatite C crônica induzida por regime com daratumumabe |
+
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 198600013 | MAVIRET | ABBVIE FARMACÊUTICA LTDA. | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

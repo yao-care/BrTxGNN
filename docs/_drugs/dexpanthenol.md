@@ -72,6 +72,47 @@ Como informação complementar, para outra indicação prevista (exantema) exist
 |---------|------|------|------|---------|
 | [NCT01136005](https://clinicaltrials.gov/study/NCT01136005) | Phase 3 | Concluído | 160 | Creme Bepanthen® (dexpantenol) versus creme de cetomacrogol, duplo-cego, na prevenção de erupção papulopustular em pacientes que recebem inibidores do EGFR. Resultados não disponibilizados. |
 
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 101860033 | SANTIPLEX B | SANTISA LABORATÓRIO FARMACÊUTICO S/A | Ativo |
+| 102350145 | NARIDRIN | EMS S/A | Ativo |
+| 102351016 | CICATENOL | EMS S/A | Ativo |
+| 102980018 | FRUTOVITAM | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980580 | EPITHELIZE | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103700591 | TEUPANTOL | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103850103 | PELLETRAT | LABORATÓRIO FARMACÊUTICO ELOFAR LTDA | Ativo |
+| 103870029 | HYPLEX B | HYPOFARMA - INSTITUTO DE HYPODERMIA E FARMÁCIA LTD | Ativo |
+| 103920179 | VIT PANTENOL | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 106830093 | CERNE-12 | BAXTER HOSPITALAR LTDA | Ativo |
+| 119610012 | EPITEGEL | BL INDÚSTRIA OTICA LTDA | Ativo |
+| 125680245 | DEXPROTENOL | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 143810133 | BEPANTRIZ | CIMED INDUSTRIA S.A | Ativo |
+| 147610019 | DEPANTEX | NATIVITA IND. COM. LTDA. | Ativo |
+| 154230148 | PANTODEX | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 155840080 | NEOPANTOL | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 100430117 | VITAMINAS DO COMPLEXO B | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100663370 | COMPLEXO B | LABORATORIO CATARINENSE LTDA | Cancelado |
+| 101000013 | BEPANTOL | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Cancelado |
+| 101000017 | COMPLEXO B | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Cancelado |
+| 101000067 | PROTOVIT PLUS | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Cancelado |
+| 101710050 | BENUTREX | MERCK SHARP & DOHME FARMACEUTICA LTDA. | Cancelado |
+| 101800388 | TERAGRAN JÚNIOR LIQUIDO | BRISTOL-MYERS SQUIBB FARMACÊUTICA LTDA | Cancelado |
+| 101910255 | UV LESS | THERASKIN FARMACEUTICA LTDA. | Cancelado |
+| 102980050 | BEPLEX | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Cancelado |
+| 103670164 | PHARMATON KIDDI | BOEHRINGER INGELHEIM DO BRASIL QUÍMICA E FARMACÊUT | Cancelado |
+| 103940476 | BELEXA | LABORATÓRIO AMERICANO DE FARMACOTERAPIA S/A | Cancelado |
+| 104040124 | BELUP | LUPER INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 104290166 | PROTOVIT PLUS | BAYER S.A. | Cancelado |
+| 104290168 | BENEROC JÚNIOR | BAYER S.A. | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 54 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 - **Contraindicações (grafo de conhecimento)**: o grafo de conhecimento do TxGNN indica contraindicação em **hemofilia**. Trata-se de uma associação do modelo, não de texto de bula.

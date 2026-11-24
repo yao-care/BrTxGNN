@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "EFAVIRENZ"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Efavirenz: nova indicação prevista, síndrome da imunodeficiência adquirida felina (feline acquired immunodeficiency syndrome) (nível de evidência L5). No Brasil, registros na ANVISA: 6 (ativos: 3)"
 ---
 
@@ -70,6 +70,21 @@ Atualmente não há ensaios clínicos relacionados registrados.
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
 | [38031646](https://pubmed.ncbi.nlm.nih.gov/38031646/) | 2023 | Estudo bioquímico/estrutural in vitro | Journal of Veterinary Science | Compara nevirapina, efavirenz e rilpivirina contra a transcriptase reversa do FIV e do HIV, para avaliar o potencial dos ITRNN no tratamento da infecção felina; não há tratamento eficaz estabelecido para gatos infectados. |
+
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 102980318 | EVIR | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 110630126 | EFAVIRENZ | FUNDAÇÃO OSWALDO CRUZ | Ativo |
+| 115240026 | TRIPLIVIR | BLANVER FARMOQUIMICA E FARMACEUTICA S.A. | Ativo |
+| 100290018 | STOCRIN | ORGANON FARMACÊUTICA LTDA. | Cancelado |
+| 101830134 | LAFEPE -EFAVIRENZ | LABORATORIO FARMACEUTICO DO ESTADO DE PERNAMBUCO G | Cancelado |
+| 137640073 | ZENFIX | ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

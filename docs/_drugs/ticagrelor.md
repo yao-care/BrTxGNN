@@ -78,6 +78,26 @@ A ausência de dependência de CYP2C19 é uma vantagem potencial em pacientes co
 | [39658130](https://pubmed.ncbi.nlm.nih.gov/39658130/) | 2025 | Coorte | Journal of NeuroInterventional Surgery | Experiência com ticagrelor 60 mg duas vezes ao dia + AAS 81 mg versus AAS + clopidogrel em stent intracraniano |
 | [39862061](https://pubmed.ncbi.nlm.nih.gov/39862061/) | 2025 | Revisão | International Journal of Stroke | Desenho e progresso inicial do ensaio CAPTIVA em estenose aterosclerótica intracraniana |
 
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100330221 | ARTAG | LIBBS FARMACÊUTICA LTDA | Ativo |
+| 102351242 | TICAGRELOR | EMS S/A | Ativo |
+| 105250087 | TIAG | TORRENT DO BRASIL LTDA | Ativo |
+| 105250094 | TICAGRELOR | TORRENT DO BRASIL LTDA | Ativo |
+| 105830920 | TICAGRELOR | GERMED FARMACEUTICA LTDA | Ativo |
+| 116180238 | BRILINTA | ASTRAZENECA DO BRASIL LTDA | Ativo |
+| 123520295 | TICAGRELOR | RANBAXY FARMACÊUTICA LTDA | Ativo |
+| 167730577 | TICAGRELOR | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 167730613 | COALY | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 116180293 | TICAGRELOR | ASTRAZENECA DO BRASIL LTDA | Cancelado |
+| 116180294 | ALMINDA | ASTRAZENECA DO BRASIL LTDA | Cancelado |
+
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 - **Contraindicações (segundo o grafo de conhecimento, não texto de bula)**: insuficiência hepática, doença hepática, doença da vesícula biliar e hemorragia intracraniana. A hemorragia intracraniana é particularmente relevante para a nova indicação cerebrovascular.

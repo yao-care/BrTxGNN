@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "ALTEPLASE"
 predicted_indications: ["heparin cofactor 2 deficiency", "congenital coronary artery anomaly", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "coronary stenosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Alteplase: nova indicação prevista, Deficiência do cofator II da heparina (heparin cofactor 2 deficiency) (nível de evidência L5). No Brasil, registros na ANVISA: 1 (ativos: 1)"
 ---
 
@@ -71,7 +71,21 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-Há um registro válido no Brasil, e a situação de comercialização é "Comercializado". Os dados compilados não trazem detalhes de nome comercial, forma farmacêutica ou texto de indicação.
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 103670049 | ACTILYSE | BOEHRINGER INGELHEIM DO BRASIL QUÍMICA E FARMACÊUT | Ativo |
+
+<!-- licenses:end -->
+
+Há um registro válido no Brasil, e a situação de comercialização é "Comercializado". Os dados abertos da ANVISA não trazem forma farmacêutica nem texto de indicação; o registro está na tabela acima.
+
+<!-- review:begin br-lic-20261124c-alteplase-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Os dados compilados não trazem detalhes de nome comercial, forma farmacêutica ou texto de indicação.” Corrigido conforme os dados abertos de medicamentos da ANVISA: esta seção agora traz a tabela de registros gerada por programa a partir dos dados (número do registro, produto, empresa detentora e situação); os dados abertos não trazem forma farmacêutica nem texto de indicação. Os números atualizados estão no resumo rápido e na tabela. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124c-alteplase-1 -->
 
 ## Considerações de Segurança
 
@@ -97,11 +111,12 @@ Os dados compilados não trazem advertências nem contraindicações da bula. Co
 
 ## Registro de verificação
 
-Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Cathflo Activase (alteplase) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=91ecdef2-95ff-42dd-a31c-c8a09cab3ad9) |
+| 2026-11-24 | “Os dados compilados não trazem detalhes de nome comercial, forma farmacêutica ou texto de indicação.” → “Os dados abertos da ANVISA não trazem forma farmacêutica nem texto de indicação; o registro está na tabela acima.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "IRBESARTAN"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Irbesartan: nova indicação prevista, Doença renal hipertensiva maligna (malignant hypertensive renal disease) (nível de evidência L5). No Brasil, registros na ANVISA: 28 (ativos: 4)"
 ---
 
@@ -70,6 +70,43 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Atualmente não há literatura relacionada.
 
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431064 | IRBESARTANA+ HIDROCLOROTIAZIDA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431351 | BART H | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 123520215 | IRBESARTANA | RANBAXY FARMACÊUTICA LTDA | Ativo |
+| 123520229 | IRBESARTANA + HIDROCLOROTIAZIDA | RANBAXY FARMACÊUTICA LTDA | Ativo |
+| 100430678 | SARTIR | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100431065 | BART H | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100431097 | BART | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100431098 | IRBESARTANA | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 101800266 | AVAPRO | BRISTOL-MYERS SQUIBB FARMACÊUTICA LTDA | Cancelado |
+| 103720224 | IRBE H | SUPERA FARMA LABORATÓRIOS S.A | Cancelado |
+| 103720233 | IRBE | SUPERA FARMA LABORATÓRIOS S.A | Cancelado |
+| 103720261 | IRBE | SUPERA FARMA LABORATÓRIOS S.A | Cancelado |
+| 103720262 | IRBE H | SUPERA FARMA LABORATÓRIOS S.A | Cancelado |
+| 113000993 | APROVEL | SANOFI-AVENTIS FARMACÊUTICA LTDA | Cancelado |
+| 113001004 | APROZIDE | SANOFI-AVENTIS FARMACÊUTICA LTDA | Cancelado |
+| 120330001 | APROZIDE | SANOFI - SYNTHELABO FARMACÊUTICA LTDA | Cancelado |
+| 120330018 | APROVEL | SANOFI - SYNTHELABO FARMACÊUTICA LTDA | Cancelado |
+| 123520221 | LESTRIC | RANBAXY FARMACÊUTICA LTDA | Cancelado |
+| 123520230 | LESTRIC HCT | RANBAXY FARMACÊUTICA LTDA | Cancelado |
+| 135170015 | IRBESARTANA+HIDROCLOROTIAZIDA | ALTHAIA S.A. INDUSTRIA FARMACEUTICA | Cancelado |
+| 155840389 | IRBELESS | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Cancelado |
+| 155840391 | IRBESARTANA | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Cancelado |
+| 183260418 | APROZIDE | SANOFI MEDLEY FARMACÊUTICA LTDA. | Cancelado |
+| 183260450 | APROVEL | SANOFI MEDLEY FARMACÊUTICA LTDA. | Cancelado |
+| 183260490 | IRBESARTANA + HIDROCLOROTIAZIDA | SANOFI MEDLEY FARMACÊUTICA LTDA. | Cancelado |
+| 194270003 | IRTANA | MOMENTA FARMACÊUTICA LTDA. | Cancelado |
+| 194270011 | BART | MOMENTA FARMACÊUTICA LTDA. | Cancelado |
+| 194270015 | BART H | MOMENTA FARMACÊUTICA LTDA. | Cancelado |
+
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 - **Interações Medicamentosas**: foram identificadas 100 interações no total. As principais, entre as listadas, são:
@@ -89,8 +126,27 @@ As advertências e contraindicações da bula não estavam disponíveis nos dado
 - Obter a bula da ANVISA para analisar advertências e contraindicações, o que hoje impede a triagem de segurança.
 - Obter dados detalhados do mecanismo de ação.
 - Fazer uma busca dirigida na literatura e em registros de ensaios sobre a doença renal hipertensiva maligna.
-- Confirmar a lista completa de registros no Brasil, que pode estar parcial.
+- Confirmar a lista completa de registros no Brasil.
 - Definir um plano de monitoramento de potássio e da função renal, dadas as interações de gravidade maior com sais de potássio.
+
+<!-- review:begin br-lic-20261124c-irbesartan-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “no Brasil, que pode estar parcial.” Corrigido conforme os dados abertos de medicamentos da ANVISA: a lista de registros desta página não é parcial; a tabela da seção de informações de comercialização, gerada por programa a partir dos dados, inclui todos os registros do medicamento nos dados (os números atualizados estão no resumo rápido). Só foi retirada a premissa errada; o restante do texto não foi alterado. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124c-irbesartan-1 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-24 | “no Brasil, que pode estar parcial.” → “no Brasil.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

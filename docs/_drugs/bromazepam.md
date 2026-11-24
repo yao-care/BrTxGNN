@@ -61,6 +61,47 @@ Mecanisticamente, isso poderia reduzir a hiperexcitabilidade cortical e trigemin
 
 É preciso cautela. A pontuação alta (0,9906) é apenas uma previsão computacional, sem ensaios clínicos ou literatura que a sustentem. Benzodiazepínicos não são recomendados como tratamento padrão da enxaqueca, por causa de dependência, tolerância, sedação e risco de cefaleia por uso excessivo de medicamentos. A previsão pode refletir sobretudo a semelhança de rede com outros agentes GABAérgicos ou ansiolíticos, e não evidência específica para enxaqueca.
 
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 102350469 | BROMAZEPAM | EMS S/A | Ativo |
+| 103700495 | BROMAZEPAM | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700668 | LEXMA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 104300040 | FLUXTAR | DIFFUCAP - CHEMOBRÁS QUÍMICA E FARMACÊUTICA LTDA | Ativo |
+| 104300051 | BROMAZEPAM | DIFFUCAP - CHEMOBRÁS QUÍMICA E FARMACÊUTICA LTDA | Ativo |
+| 104971206 | BROMAZEPAM | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 105730152 | SOMALIUM | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730608 | BROMAZEPAM | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105830838 | BROMAZEPAM | GERMED FARMACEUTICA LTDA | Ativo |
+| 155840298 | BROMAZEPAM | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 164250010 | LEXOTAN | MOKSHA8 BRASIL INDUSTRIA E COMERCIO DE MEDICAMENTO | Ativo |
+| 178170939 | SULPAN | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Ativo |
+| 183260042 | BROMAZEPAM | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+| 100430897 | BROMAZEPAM | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100470442 | BROMALEX | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100470445 | BROMAZEPAM | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100890322 | BROMAZEPAM | MERCK S/A | Cancelado |
+| 101000043 | LEXOTAN | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Cancelado |
+| 101810372 | BROMAZEPAM | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 102350821 | BROMAZEPAM | EMS S/A | Cancelado |
+| 103700478 | AZEPAM | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
+| 103720266 | EDADE | SUPERA FARMA LABORATÓRIOS S.A | Cancelado |
+| 103900109 | BROMAZEPAM | FARMOQUÍMICA S/A | Cancelado |
+| 104300024 | BROMAX | DIFFUCAP - CHEMOBRÁS QUÍMICA E FARMACÊUTICA LTDA | Cancelado |
+| 104440101 | NEURILAN | LABORATÓRIO GROSS S. A. | Cancelado |
+| 104650354 | LEZEPAN | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 104920126 | RELAXIL | BIOLAB FARMA GENERICOS LTDA | Cancelado |
+| 104920155 | BROMAZEPAM | BIOLAB FARMA GENERICOS LTDA | Cancelado |
+| 104920205 | RELAXIL | BIOLAB FARMA GENERICOS LTDA | Cancelado |
+| 104920218 | BROMAZEPAM | BIOLAB FARMA GENERICOS LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 55 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 Consulte a bula para informações de segurança. Não há dados de interações medicamentosas nem de contraindicações nos dados compilados.

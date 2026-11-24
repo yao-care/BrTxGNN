@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Gefitinib"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung", "lung benign neoplasm", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "lung germ cell tumor", "pulmonary sulcus neoplasm", "junctional epidermolysis bullosa"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Gefitinib: nova indicação prevista, Fibromatose gengival (fibromatosis, gingival) (nível de evidência L5). No Brasil, registros na ANVISA: 10 (ativos: 8)"
 ---
 
@@ -61,6 +61,25 @@ Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (P
 Uma hipótese possível, ainda não verificada, é que a sinalização EGFR/ERK participe da proliferação de fibroblastos, o que poderia ter relação com o crescimento excessivo de tecido fibroso na gengiva. Essa ligação é especulativa: não há ensaios clínicos nem publicações nos dados compilados que a sustentem, e a similaridade com a indicação original ainda não foi avaliada.
 
 A pontuação elevada do TxGNN (0,9989) reflete apenas a previsão computacional e não substitui evidência experimental ou clínica.
+
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431463 | TIMB | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 115410014 | TYKITICIP | CIPLA BRASIL IMPORTADORA E DISTRIBUIDORA DE MEDICA | Ativo |
+| 116180236 | IRESSA | ASTRAZENECA DO BRASIL LTDA | Ativo |
+| 151430070 | GEFITINIBE | DR. REDDYS FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 151430072 | KIGEFO | DR. REDDYS FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 165070019 | GEFIB | CAMBER FARMACEUTICA LTDA | Ativo |
+| 165070022 | GEFITINIBE | CAMBER FARMACEUTICA LTDA | Ativo |
+| 182610012 | GEFITINIBE | NATCOFARMA DO BRASIL LTDA | Ativo |
+| 182610014 | PULGE | NATCOFARMA DO BRASIL LTDA | Cancelado |
+| 182610015 | PULGE | NATCOFARMA DO BRASIL LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

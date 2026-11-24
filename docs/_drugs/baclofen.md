@@ -87,6 +87,21 @@ Atualmente não há ensaios clínicos relacionados registrados para TDAH.
 | [24103016](https://pubmed.ncbi.nlm.nih.gov/24103016/) | 2013 | Estudo pré-clínico | Eur J Neurosci | Integridade da habênula é necessária para o comportamento de brincadeira social em ratos |
 | [24496320](https://pubmed.ncbi.nlm.nih.gov/24496320/) | 2014 | Estudo pré-clínico | Neuropsychopharmacology | Contribuições do córtex cingulado anterior e da amígdala na decisão custo/benefício em roedores |
 
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 103700111 | BACLOFEN | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700613 | BACLOFENO | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 104971385 | BACLOFENO | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971396 | BACLON | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 100680059 | LIORESAL | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 104970253 | BACLON | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Cancelado |
+
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 - **Contraindicações (segundo o grafo de conhecimento TxGNN, não o texto da bula):** epilepsia, doença renal, transtornos psicóticos (incluindo esquizofrenia, transtorno esquizoafetivo e esquizofreniforme), transtornos mentais em geral, doenças cerebrovasculares (acidente vascular cerebral, infarto cerebral), doenças do sistema nervoso autônomo (síndrome de Horner, disreflexia autonômica), piureter e doença do colo da bexiga.

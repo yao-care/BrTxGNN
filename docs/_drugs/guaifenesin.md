@@ -73,13 +73,56 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Os detalhes de cada registro não constam nos dados compilados para este relatório.
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 102350684 | MALEATO DE DEXCLORFENIRAMINA + SULFATO DE PSEUDOEFEDRINA + G | EMS S/A | Ativo |
+| 102351247 | EMSEXPECTOR | EMS S/A | Ativo |
+| 102351357 | SECRELISE | EMS S/A | Ativo |
+| 102351454 | CLORIDRATO DE OXOMEMAZINA + IODETO DE POTÁSSIO + BENZOATO DE | EMS S/A | Ativo |
+| 102351464 | MULTITOSSE | EMS S/A | Ativo |
+| 104400232 | GUAVIK | CELLERA FARMACEUTICA S.A. | Ativo |
+| 104440117 | GUAIASYL | LABORATÓRIO GROSS S. A. | Ativo |
+| 105730349 | TRANSPULMIN XAROPE ADULTO | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730354 | TRANSPULMIN XAROPE INFANTIL | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 106570018 | PULMOVIC | KRESS FARMACEUTICA S.A. | Ativo |
+| 106890159 | GLYTEOL | KLEY HERTZ FARMACEUTICA S.A | Ativo |
+| 115600146 | POLARATUSS | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
+| 118190015 | SPECTOLAB BALSAMICO | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 118190199 | SPECTOLAB EXP | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 121420004 | XAROPE 44 E | PROCTER & GAMBLE DO BRASIL LTDA. | Ativo |
+| 121420015 | XAROPE VICK | PROCTER & GAMBLE DO BRASIL LTDA. | Ativo |
+| 138410021 | EXPECTOFLUI | NATULAB LABORATORIO S.A | Ativo |
+| 143810095 | FRENOTOSSE | CIMED INDUSTRIA S.A | Ativo |
+| 143810287 | XAROPE CIMETOSSE | CIMED INDUSTRIA S.A | Ativo |
+| 144930005 | EXPECTOVIC | AIRELA INDÚSTRIA FARMACÊUTICA LTDA. | Ativo |
+| 144930074 | EXPECVEM | AIRELA INDÚSTRIA FARMACÊUTICA LTDA. | Ativo |
+| 155840333 | GUAIFENESINA | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 155840701 | CLORIDRATO DE OXOMEMAZINA + IODETO DE POTÁSSIO + BENZOATO DE | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 155840708 | TOSSEXPEC | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 156510051 | EACA BALSÂMICO | ZYDUS NIKKHO FARMACÊUTICA LTDA | Ativo |
+| 167730050 | BRONQUITOSS | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 167730271 | EXPEC | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 167730429 | EXPECTAMIN | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 167730699 | CLORIDRATO DE OXOMEMAZINA + IODETO DE POTÁSSIO + BENZOATO DE | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 178170997 | BENEXPEC | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 128 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 <!-- review:begin br-lic-20261106-guaifenesin-1 -->
 
 > **Correção de verificação (2026-11-06)**: Texto original: “Os dados locais indicam que o medicamento está comercializado, com 5 registros válidos e 15 cancelados (a lista pode estar incompleta, pois os registros são parciais). Os detalhes de cada registro não constam nos dados compilados para este relatório.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-guaifenesin-1 -->
+
+<!-- review:begin br-lic-20261124c-guaifenesin-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Os detalhes de cada registro não constam nos dados compilados para este relatório.” Removido: a frase dizia que a lista de registros não estava disponível ou não seria apresentada; esta seção agora traz a tabela de registros gerada por programa a partir dos dados abertos de medicamentos da ANVISA, com todos os registros do medicamento nos dados (os números atualizados estão no resumo rápido e na tabela). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124c-guaifenesin-1 -->
 
 ## Considerações de Segurança
 
@@ -108,6 +151,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 |------|------|------|------|
 | 2026-11-06 | Removido: “Os dados locais indicam que o medicamento está comercializado, com 5 registros válidos e 15 cancelados (a lista pode estar incompleta, pois ” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte (revisado em 2026-11-20; versão anterior guardada no registro) | [ChEMBL CHEMBL980 (guaifenesin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL980) |
+| 2026-11-24 | Removido: “Os detalhes de cada registro não constam nos dados compilados para este relatório.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

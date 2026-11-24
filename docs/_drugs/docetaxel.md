@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 7
 monitor_inn: "Docetaxel"
 predicted_indications: ["Ewing sarcoma", "primary pulmonary lymphoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "pulmonary blastoma", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Docetaxel: nova indicação prevista, Sarcoma de Ewing (Ewing sarcoma) (nível de evidência L2). No Brasil, registros na ANVISA: 29 (ativos: 15)"
 ---
 
@@ -90,7 +90,49 @@ Os dados clínicos disponíveis vêm principalmente de combinações de gencitab
 
 ## Informações de Comercialização no Brasil
 
-Há registros válidos de docetaxel no Brasil, e a situação de comercialização é "comercializado". A lista de registros pode estar incompleta nos dados compilados.
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100330121 | DOCELIBBS | LIBBS FARMACÊUTICA LTDA | Ativo |
+| 100431247 | DOCETAXEL TRI-HIDRATADO | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431257 | DOCEUNO | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 102980549 | DOCETAXEL | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980553 | TACE | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 106460225 | KOKSARA | LABORATORIO QUIMICO FARMACEUTICO BERGAMO LTDA | Ativo |
+| 106460226 | DOCETAXEL | LABORATORIO QUIMICO FARMACEUTICO BERGAMO LTDA | Ativo |
+| 110130281 | DOCETAXEL | GLENMARK FARMACÊUTICA LTDA | Ativo |
+| 116370201 | DOCETAXEL | BLAU FARMACÊUTICA S.A. | Ativo |
+| 116370223 | TAXXONEX | BLAU FARMACÊUTICA S.A. | Ativo |
+| 155370101 | DOCETAXEL | ACCORD FARMACÊUTICA LTDA | Ativo |
+| 155370104 | TAXONTAS | ACCORD FARMACÊUTICA LTDA | Ativo |
+| 155730065 | TEQUEL | TEVA FARMACÊUTICA LTDA. | Ativo |
+| 165070040 | DOHET | CAMBER FARMACEUTICA LTDA | Ativo |
+| 183260439 | TAXOTERE | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+| 100430038 | DOCETAXEL | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100470402 | DOCETAXEL | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100470412 | TRIXOTENE | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100680904 | TRIXOTENE | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 105830446 | SIGMATAXEL | GERMED FARMACEUTICA LTDA | Cancelado |
+| 110130233 | DOCETAXEL | GLENMARK FARMACÊUTICA LTDA | Cancelado |
+| 110130282 | DOCEGLENNU | GLENMARK FARMACÊUTICA LTDA | Cancelado |
+| 113000283 | TAXOTERE | SANOFI-AVENTIS FARMACÊUTICA LTDA | Cancelado |
+| 120000012 | NEOTAXEL | QUIRAL QUÍMICA DO BRASIL S/A | Cancelado |
+| 120690025 | DOXELIB | LABORATÓRIOS LIBRA DO BRASIL LTDA | Cancelado |
+| 122140041 | ONCODOCEL | ADIUM S.A. | Cancelado |
+| 149320002 | DOSATAXEL | KEMMI PHARMA LTDA | Cancelado |
+| 151430002 | DOCETERE | DR. REDDYS FARMACÊUTICA DO BRASIL LTDA | Cancelado |
+| 183260367 | DOCETAXEL TRI-HIDRATADO | SANOFI MEDLEY FARMACÊUTICA LTDA. | Cancelado |
+
+<!-- licenses:end -->
+
+Há registros válidos de docetaxel no Brasil, e a situação de comercialização é "comercializado".
+
+<!-- review:begin br-lic-20261124c-docetaxel-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “A lista de registros pode estar incompleta nos dados compilados.” Removido: a frase dizia que a lista de registros seria parcial ou não estaria disponível; os dados abertos de medicamentos da ANVISA usados nesta página trazem todos os registros do medicamento, que estão na tabela desta seção gerada por programa (os números atualizados estão no resumo rápido e na tabela). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124c-docetaxel-1 -->
 
 ## Citotoxicidade
 
@@ -132,11 +174,12 @@ Há um ensaio de fase 2 concluído (NCT00073983, publicado) e outros estudos de 
 
 ## Registro de verificação
 
-Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Beizray (docetaxel) prescribing information, Zydus Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8fb7d980-d6c7-468b-a9f0-adff16101a4b) |
+| 2026-11-24 | Removido: “A lista de registros pode estar incompleta nos dados compilados.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

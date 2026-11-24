@@ -91,6 +91,27 @@ Para fins de contexto, o único item da lista com ensaios associados é o distú
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431165 | FIPRIMA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100470598 | ZARZIO | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 102440006 | GRANULOKINE | AMGEN BIOTECNOLOGIA DO BRASIL LTDA. | Ativo |
+| 105730537 | FILGRASTIM | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 116370058 | FILGRASTINE | BLAU FARMACÊUTICA S.A. | Ativo |
+| 155370095 | FIL | ACCORD FARMACÊUTICA LTDA | Ativo |
+| 100430663 | GRANULEN | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 101000541 | GRANULOKINE | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Cancelado |
+| 106460140 | LEUCIN | LABORATORIO QUIMICO FARMACEUTICO BERGAMO LTDA | Cancelado |
+| 106460170 | MYOGRAF | LABORATORIO QUIMICO FARMACEUTICO BERGAMO LTDA | Cancelado |
+| 112130176 | FILGRASTIM | BIOSINTÉTICA FARMACÊUTICA LTDA | Cancelado |
+| 123610054 | IOR LEUKOCIM | UCB BIOPHARMA LTDA. | Cancelado |
+| 151430004 | GRANOMAX | DR. REDDYS FARMACÊUTICA DO BRASIL LTDA | Cancelado |
+| 155730013 | TEVAGRASTIM | TEVA FARMACÊUTICA LTDA. | Cancelado |
+
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 **Interações Medicamentosas:** a consulta de interações foi concluída e identificou 100 interações no total. Os principais exemplos listados, todos de gravidade **moderada** (fonte: DDInter), incluem:

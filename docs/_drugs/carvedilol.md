@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "CARVEDILOL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Carvedilol: nova indicação prevista, doença renal hipertensiva maligna (malignant hypertensive renal disease) (nível de evidência L5). No Brasil, registros na ANVISA: 46 (ativos: 21)"
 ---
 
@@ -69,6 +69,47 @@ Atualmente não há ensaios clínicos relacionados registrados.
 ## Evidências da Literatura
 
 Atualmente não há literatura relacionada.
+
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100330066 | CARDILOL | LIBBS FARMACÊUTICA LTDA | Ativo |
+| 101460065 | DIVELOL | LABORATÓRIOS BALDACCI LTDA | Ativo |
+| 102351073 | CARVEDILOL | EMS S/A | Ativo |
+| 105250010 | KARVIL | TORRENT DO BRASIL LTDA | Ativo |
+| 105250038 | CARVEDILOL | TORRENT DO BRASIL LTDA | Ativo |
+| 105730594 | CARVEDILOL | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730757 | NIENZA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105830841 | CARVEDILOL | GERMED FARMACEUTICA LTDA | Ativo |
+| 109740146 | ICTUS | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 109740322 | CRONOCOR | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 109740324 | CARVEDILOL | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 110390172 | CARVEDILOL | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Ativo |
+| 118190256 | CARDBET | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 118190262 | CARVEDILOL | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 125680315 | CARVEDILOL | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 135690684 | CARVEDILAT | EMS SIGMA PHARMA LTDA | Ativo |
+| 143810250 | CARVEDILOL | CIMED INDUSTRIA S.A | Ativo |
+| 156510068 | CARVEDILOL | ZYDUS NIKKHO FARMACÊUTICA LTDA | Ativo |
+| 167730479 | CARVEDILOL | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 167730480 | CARVEGRAN | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 183260126 | CARVEDILOL | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+| 100470515 | CARVEDILOL | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100470516 | BALANCORE | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101000551 | COREG | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Cancelado |
+| 101000643 | COREG | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Cancelado |
+| 101810585 | CARVEDILOL | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101810598 | BECARVE | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 102351068 | CARDBET | EMS S/A | Cancelado |
+| 104920186 | CARVEDILOL | BIOLAB FARMA GENERICOS LTDA | Cancelado |
+| 104920187 | CRONOCOR | BIOLAB FARMA GENERICOS LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 46 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

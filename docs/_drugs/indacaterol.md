@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Indacaterol"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "headache disorder", "trigeminal autonomic cephalalgia", "paratenonitis", "calcific tendinitis", "hypertrichosis (disease)", "bronchial disease", "myositis", "anaphylaxis", "Ambras type hypertrichosis universalis congenita"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Indacaterol: nova indicação prevista, Síndrome nefrogênica de antidiurese inapropriada (nephrogenic syndrome of inappropriate antidiuresis) (nível de evidência L5). Indicação original: Não consta nos…"
 ---
 
@@ -69,7 +69,25 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-Segundo os dados compilados, há 5 registros, dos quais 4 estão válidos e 1 cancelado. A lista detalhada de registros não está disponível nos dados compilados.
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100681073 | ONBRIZE | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 100681123 | ULTIBRO | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 100681181 | ATECTURA | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 100681182 | ENERZAIR | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 100470577 | OSLIF | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+
+<!-- licenses:end -->
+
+Segundo os dados compilados, há 5 registros, dos quais 4 estão válidos e 1 cancelado.
+
+<!-- review:begin br-lic-20261124c-indacaterol-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “A lista detalhada de registros não está disponível nos dados compilados.” Removido: a frase dizia que a lista de registros não estava disponível ou não seria apresentada; esta seção agora traz a tabela de registros gerada por programa a partir dos dados abertos de medicamentos da ANVISA, com todos os registros do medicamento nos dados (os números atualizados estão no resumo rápido e na tabela). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124c-indacaterol-1 -->
 
 ## Considerações de Segurança
 
@@ -90,6 +108,19 @@ A previsão para síndrome nefrogênica de antidiurese inapropriada é puramente
 - Estudos pré-clínicos ou de mecanismo que avaliem diretamente esta doença
 - Obtenção e análise da bula registrada na ANVISA (advertências e contraindicações)
 - Avaliação de segurança, em especial dos efeitos cardiovasculares e metabólicos da classe dos agonistas beta-2
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-24 | Removido: “A lista detalhada de registros não está disponível nos dados compilados.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

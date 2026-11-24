@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "RASBURICASE"
 predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "hepatic porphyria", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "primitive portal vein thrombosis", "hepatopulmonary syndrome", "hepatoportal sclerosis", "renal tubular acidosis", "disorder of phenylalanine metabolism"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Rasburicase: nova indicação prevista, Hipouricemia Renal (hypouricemia, renal) (nível de evidência L5). No Brasil, registros na ANVISA: 3 (ativos: 1)"
 ---
 
@@ -75,6 +75,18 @@ As demais previsões entre as dez primeiras também carecem de respaldo. A defic
 | 9 | Acidose tubular renal | 0,9985 | Sem ação conhecida; associação indireta |
 | 10 | Distúrbio do metabolismo da fenilalanina | 0,9983 | Sem suporte mecanístico ou clínico |
 
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 183260411 | FASTURTEC | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+| 113001076 | FASTURTEC | SANOFI-AVENTIS FARMACÊUTICA LTDA | Cancelado |
+| 120330241 | FASTURTEC | SANOFI - SYNTHELABO FARMACÊUTICA LTDA | Cancelado |
+
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 - **Interações Medicamentosas** (13 registradas, fonte: DDInter):
@@ -95,17 +107,24 @@ Para advertências e contraindicações formais, consulte a bula.
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), hoje uma lacuna bloqueante.
 - Obter dados do mecanismo de ação na DrugBank.
 - Reavaliar as previsões de forma crítica, e só considerar a deficiência parcial de HPRT, se houver, com revisão de especialista e evidência pré-clínica ou clínica.
-- Avaliar a viabilidade regulatória e de acesso, já que não há registro no Brasil.
+- Avaliar a viabilidade regulatória e de acesso.
+
+<!-- review:begin br-lic-20261124c-rasburicase-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “de acesso, já que não há registro no Brasil.” Corrigido conforme os dados abertos de medicamentos da ANVISA: o medicamento tem registros no Brasil (válidos e cancelados), listados na tabela da seção de informações de comercialização; os números atualizados estão no resumo rápido. Só foi retirada a premissa errada; o restante do texto não foi alterado. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124c-rasburicase-1 -->
 
 <!-- review:begin log -->
 
 ## Registro de verificação
 
-Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Elitek (rasburicase) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0ae10bc4-6b65-402f-9db5-2d7753054922) |
+| 2026-11-24 | “de acesso, já que não há registro no Brasil.” → “de acesso.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

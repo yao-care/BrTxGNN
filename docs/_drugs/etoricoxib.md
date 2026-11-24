@@ -74,13 +74,56 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Os dados de registro disponíveis são parciais. A lista detalhada de registros não está disponível nos dados compilados.
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100290035 | ARCOXIA | ORGANON FARMACÊUTICA LTDA. | Ativo |
+| 100290206 | HETORI | ORGANON FARMACÊUTICA LTDA. | Ativo |
+| 100290226 | ETORICOXIBE | ORGANON FARMACÊUTICA LTDA. | Ativo |
+| 100431582 | ETORICOXIBE | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 102351392 | ETORICOXIBE | EMS S/A | Ativo |
+| 102980581 | TEROCOXI | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103700814 | ETORICOXIBE | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 104300049 | ETCOB | DIFFUCAP - CHEMOBRÁS QUÍMICA E FARMACÊUTICA LTDA | Ativo |
+| 104400229 | SOTTO | CELLERA FARMACEUTICA S.A. | Ativo |
+| 105350253 | ETORICOXIBE | LABORATÓRIO GLOBO SA | Ativo |
+| 105530392 | ALIVETORE | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Ativo |
+| 105730085 | TORXIS | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730086 | ETORICOXIBE | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730095 | ETORBEN | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105831000 | COXETO | GERMED FARMACEUTICA LTDA | Ativo |
+| 105831002 | ETORICOXIBE | GERMED FARMACEUTICA LTDA | Ativo |
+| 122140127 | XUMER | ADIUM S.A. | Ativo |
+| 123520301 | ETORICOXIBE | RANBAXY FARMACÊUTICA LTDA | Ativo |
+| 154230359 | ETORICOXIBE | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 155840620 | ETORICOXIBE | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 155840648 | ETORICOXIBE | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 156510075 | ETORICOXIBE | ZYDUS NIKKHO FARMACÊUTICA LTDA | Ativo |
+| 156510086 | LORDOZY | ZYDUS NIKKHO FARMACÊUTICA LTDA | Ativo |
+| 165070028 | LERAW | CAMBER FARMACEUTICA LTDA | Ativo |
+| 165070039 | ETORICOXIBE | CAMBER FARMACEUTICA LTDA | Ativo |
+| 169170002 | ETORICOXIBE | BIOTEC BIOLOGICA INDÚSTRIA FARMACÊUTICA LTDA. | Ativo |
+| 170420011 | ETORICOXIBE | MCG INDUSTRIA FARMACEUTICA E IMPORTAÇAO LTDA | Ativo |
+| 178170922 | ECOXE | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Ativo |
+| 178170963 | ECIBE | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Ativo |
+| 101710199 | ETORICOXIBE | MERCK SHARP & DOHME FARMACEUTICA LTDA. | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 32 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 <!-- review:begin br-lic-20261106-etoricoxib-1 -->
 
 > **Correção de verificação (2026-11-06)**: Texto original: “A situação de comercialização consta como comercializado, com 17 registros válidos e 3 cancelados, mas a lista detalhada de registros não está disponível nos dados compilados.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-etoricoxib-1 -->
+
+<!-- review:begin br-lic-20261124c-etoricoxib-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Os dados de registro disponíveis são parciais. A lista detalhada de registros não está disponível nos dados compilados.” Removido: a frase dizia que a lista de registros seria parcial ou não estaria disponível; os dados abertos de medicamentos da ANVISA usados nesta página trazem todos os registros do medicamento, que estão na tabela desta seção gerada por programa (os números atualizados estão no resumo rápido e na tabela). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124c-etoricoxib-1 -->
 
 ## Considerações de Segurança
 
@@ -110,6 +153,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “situação de comercialização consta como comercializado, com 17 registros válidos e 3 cancelados, mas a” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | Removido: “Os dados de registro disponíveis são parciais. A lista detalhada de registros não está disponível nos dados compilados.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

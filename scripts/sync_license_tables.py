@@ -11,7 +11,9 @@ checker 擋頁、要人處理。10-31 母目錄 br_rebuild_by_ingredient_2026103
   狀態用 ANVISA 原文 Ativo，其他（Inativo）寫本站既有用語 Cancelado（.claude/license_labels/BrTxGNN.json）。
 - 登記號超過 30 個：表下一句「A tabela mostra até 30 registros (os ativos primeiro), de N registros nos dados. …」；
   證據包只收了一部分（total_matches 大於紀錄數）：另一句「Os dados contêm apenas parte dos registros; a lista pode estar incompleta.」。
-- 證據包沒有任何紀錄：表換成一句 NONE_LINE。段落裡沒有表、也沒有標記的頁不新增（同 10-31 重建）。
+- 證據包沒有任何紀錄：表換成一句 NONE_LINE。段落裡沒有表、也沒有標記的頁：公開頁且證據包有紀錄時在段落開頭補程式區塊
+  （2026-11-24 第三輪），noindex 頁與沒有紀錄的頁不新增（同 10-31 重建）。
+- 整頁沒有市場段落、證據包有紀錄的公開頁：在安全性／結論／查核紀錄／免責聲明段之前補段落與程式表（add_section，2026-11-24 第三輪）。
 - 段落裡、程式區塊外跟程式句相同的行（MORE、PARTIAL_NOTE，以前重排時重複插入的）一併拿掉。
 資料來源兩種：bundle（data/bundles 的 tfda.records；每週排程 adapter 的 sync_tables、手動）與 snapshot
 （snapshots/br_licenses.json.gz 的 rows／total／partial；scripts/apply_drug_reviews.py 結尾、scripts/build_license_snapshot.py 結尾，不需要 data/）。
@@ -104,17 +106,21 @@ def process(text, rows, total, partial):
     lines = text.split("\n")
     a, b = _section(lines)
     if a is None:
-        return text
+        return add_section(text, rows, total, partial) or text
     blk = [BEGIN, ""] + program_block(rows, total, partial) + ["", END]
     if BEGIN in lines[a:b] and END in lines[a:b]:
         x, y = lines.index(BEGIN, a), lines.index(END, a)
     else:
         tb = [k for k in range(a, b) if lines[k].startswith("|")]
         if not tb:
-            return text
-        x = y = tb[0]
-        while y + 1 < b and lines[y + 1].startswith("|"):
-            y += 1
+            # 2026-11-24 第三輪：段落在、表不在的公開頁（證據包有紀錄）在段落開頭補程式區塊；noindex 頁、沒有紀錄的頁照舊不新增
+            if not public(text) or not rows:
+                return text
+            x, y = a, a - 1
+        else:
+            x = y = tb[0]
+            while y + 1 < b and lines[y + 1].startswith("|"):
+                y += 1
     head = lines[:x]
     while head and not head[-1].strip():
         head.pop()
@@ -127,6 +133,29 @@ def process(text, rows, total, partial):
         out.append("")
     out += lines[b:]
     return re.sub(r"\n{3,}", "\n\n", "\n".join(out))
+
+
+def public(text):
+    fm = text.split("---", 2)[1] if text.startswith("---") else ""
+    return not re.search(r"^noindex:\s*true", fm, re.M)
+
+
+# 2026-11-24 第三輪（用戶決定，比照 JpTxGNN 第二輪）：公開頁沒有「## Informações de Comercialização no Brasil」段落、但證據包有紀錄的，
+# 補一個段落放程式表。位置：「## Considerações de Segurança」之前（預測頁的固定順序）；沒有就「## Conclusão e Próximos Passos」之前；
+# 再沒有就「## Registro de verificação」「## Aviso de isenção de responsabilidade」之前。noindex 頁與證據包沒有紀錄的頁不補。
+ADD_BEFORE = ("Considerações de Segurança", "Conclusão e Próximos Passos", "Registro de verificação", "Aviso de isenção de responsabilidade")
+
+
+def add_section(text, rows, total, partial):
+    if not public(text) or not rows:
+        return None
+    lines = text.split("\n")
+    heads = {m.group(1): i for i, l in enumerate(lines) for m in [re.match(r"^## (.+?)\s*$", l)] if m}
+    at = next((heads[h] for h in ADD_BEFORE if h in heads), None)
+    if at is None:
+        return None
+    sec = [SEC, "", BEGIN, ""] + program_block(rows, total, partial) + ["", END, ""]
+    return re.sub(r"\n{3,}", "\n\n", "\n".join(lines[:at] + sec + lines[at:]))
 
 
 def _snap():

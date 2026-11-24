@@ -87,6 +87,18 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Entre as alternativas, a **trombocitopenia aloimune fetal e neonatal** é a única com racionalidade conceitual (L4), derivada das seis publicações recuperadas, todas sobre PTI ou agentes trombopoéticos em geral (revisões, relatos de caso e um relato com eltrombopague, outro fármaco). Ela pode merecer uma pergunta de pesquisa específica.
 
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 102440003 | NPLATE | AMGEN BIOTECNOLOGIA DO BRASIL LTDA. | Ativo |
+| 106460200 | NPLATE | LABORATORIO QUIMICO FARMACEUTICO BERGAMO LTDA | Cancelado |
+| 172870514 | NPLATE | HYPERA S.A. | Cancelado |
+
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 - **Interações Medicamentosas**: foram identificadas 2 entradas. A interação de nível **Maior** é com o **carfilzomibe**. Além disso, o romiplostim atua sobre o receptor de trombopoietina (MPL), por farmacologia.

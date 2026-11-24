@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "DEFERASIROX"
 predicted_indications: ["HIV infectious disease", "chronic hepatitis C virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "dermatofibrosarcoma protuberans"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Deferasirox: nova indicação prevista, Infecção por HIV (HIV infectious disease) (nível de evidência L5). No Brasil, registros na ANVISA: 10 (ativos: 6)"
 ---
 
@@ -74,7 +74,30 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Os dados compilados para este relatório indicam que o fármaco está comercializado no Brasil, com registros válidos e outros cancelados. A lista detalhada de registros não está disponível nos dados compilados.
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100681040 | EXJADE | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 102351222 | DESAIRON | EMS S/A | Ativo |
+| 104070108 | DEFERASIROX | INSTITUTO VITAL BRAZIL S/A | Ativo |
+| 106460220 | DEFERASIROX | LABORATORIO QUIMICO FARMACEUTICO BERGAMO LTDA | Ativo |
+| 125680278 | DEFERASIROX | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 155730054 | DEFERASIROX | TEVA FARMACÊUTICA LTDA. | Ativo |
+| 100470554 | DEFERASIROX | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 112080084 | DEFERASIROX | LABORATÓRIO QUÍMICO FARMACÊUTICO DO EXÉRCITO | Cancelado |
+| 125680322 | EZAFER | PRATI DONADUZZI & CIA LTDA | Cancelado |
+| 198830003 | SYDEROTELOS | FUNDAÇÃO BAIANA DE PESQ. CIENTIFICA E DESENV. TECN | Cancelado |
+
+<!-- licenses:end -->
+
+Os dados compilados para este relatório indicam que o fármaco está comercializado no Brasil, com registros válidos e outros cancelados.
+
+<!-- review:begin br-lic-20261124c-deferasirox-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “A lista detalhada de registros não está disponível nos dados compilados.” Removido: a frase dizia que a lista de registros não estava disponível ou não seria apresentada; esta seção agora traz a tabela de registros gerada por programa a partir dos dados abertos de medicamentos da ANVISA, com todos os registros do medicamento nos dados (os números atualizados estão no resumo rápido e na tabela). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124c-deferasirox-1 -->
 
 ## Considerações de Segurança
 
@@ -99,11 +122,12 @@ Consulte a bula para as demais informações de segurança, incluindo advertênc
 
 ## Registro de verificação
 
-Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Exjade (deferasirox) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3495a70c-870c-4968-940e-8baea152cf85) |
+| 2026-11-24 | Removido: “A lista detalhada de registros não está disponível nos dados compilados.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

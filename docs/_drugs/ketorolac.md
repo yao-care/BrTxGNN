@@ -94,6 +94,47 @@ Dos 16 ensaios compilados, os 10 mais relevantes são:
 | [26790849](https://pubmed.ncbi.nlm.nih.gov/26790849/) | 2016 | Revisão sistemática | Headache | Tratamentos agudos da enxaqueca pediátrica |
 | [1514724](https://pubmed.ncbi.nlm.nih.gov/1514724/) | 1992 | RCT duplo-cego | Ann Emerg Med | Cetorolaco IM vs. meperidina e hidroxizina na enxaqueca aguda |
 
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431476 | TROMETAMOL CETOROLACO | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431488 | VÓRIC | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 101470046 | ACULAR | ALLERGAN PRODUTOS FARMACÊUTICOS LTDA | Ativo |
+| 101550252 | INSTANTI SL | MARJAN INDÚSTRIA E COMÉRCIO LTDA | Ativo |
+| 102351200 | TROMETAMOL CETOROLACO | EMS S/A | Ativo |
+| 102351402 | TROMETAMOL CETOROLACO | EMS S/A | Ativo |
+| 102980281 | TROMETAMOL CETOROLACO | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980594 | TEROLAC | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980595 | TEROQUATRO | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980618 | TEROLAC SL | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103700818 | TEUZICK | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103720313 | ULTROX | SUPERA FARMA LABORATÓRIOS S.A | Ativo |
+| 103900190 | TORADOL | FARMOQUÍMICA S/A | Ativo |
+| 104300032 | DEOCIL | DIFFUCAP - CHEMOBRÁS QUÍMICA E FARMACÊUTICA LTDA | Ativo |
+| 104300047 | TROMETAMOL CETOROLACO | DIFFUCAP - CHEMOBRÁS QUÍMICA E FARMACÊUTICA LTDA | Ativo |
+| 104971286 | CETROLAC | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971517 | CETROLAC SL | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971520 | TROMETAMOL CETOROLACO | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 105730039 | TOTTI SL | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730141 | TOTTI ODG | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730524 | CLILON | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730750 | TROMETAMOL CETOROLACO | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730754 | TORMIV SL | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730789 | TORMIV ODG | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105831017 | TROMETAMOL CETOROLACO | GERMED FARMACEUTICA LTDA | Ativo |
+| 105831047 | KETHOL | GERMED FARMACEUTICA LTDA | Ativo |
+| 113430198 | TROMETAMOL CETOROLACO | HIPOLABOR FARMACEUTICA LTDA | Ativo |
+| 114620044 | MYTRO | MYRALIS INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 114620050 | TROMETAMOL CETOROLACO | MYRALIS INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 115600252 | TOROFAST | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 76 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 - **Contraindicações e condições de risco registradas nos dados compilados**: hipertensão, úlcera péptica (inclusive ativa), doença hepática, doença renal (função renal comprometida), asma, doenças de coagulação, doença cardiovascular, infarto do miocárdio, acidente vascular cerebral e doença inflamatória intestinal, entre outras.

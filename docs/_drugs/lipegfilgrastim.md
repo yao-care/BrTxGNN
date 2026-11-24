@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 420
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "LIPEGFILGRASTIM"
 predicted_indications: ["primary release disorder of platelets", "severe nonproliferative diabetic retinopathy", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "diabetic retinopathy"]
 description: "Lipegfilgrastim: nova indicação prevista, Distúrbio primário de liberação plaquetária (primary release disorder of platelets) (nível de evidência L5). No Brasil, registros na ANVISA: 1 (ativos: 1)"
@@ -67,6 +67,16 @@ Na prática, **a previsão não tem respaldo mecanístico**. O distúrbio de lib
 | 3 | Pseudo-doença de von Willebrand | 0,9991 | Causada por mutações de ganho de função em GP1BA; nenhum mecanismo plausível para um fator de crescimento de neutrófilos |
 | 4 | Trombastenia de Glanzmann | 0,9991 | Defeito da integrina αIIbβ3; o lipegfilgrastim não corrigiria esse defeito |
 | 5 | Retinopatia diabética | 0,9975 | Conexão apenas indireta e de direção incerta |
+
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 155730032 | LONQUEX | TEVA FARMACÊUTICA LTDA. | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

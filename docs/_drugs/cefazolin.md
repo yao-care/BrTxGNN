@@ -73,13 +73,56 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-A lista pode ser parcial. Os dados compilados não trazem o detalhamento dos registros (número, nome comercial, forma farmacêutica), por isso a tabela não é apresentada.
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100630177 | CEZOLIN | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100630247 | CEFAZOLINA SÓDICA | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 104971340 | CEFAZOLINA SÓDICA | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 110110011 | CEFAZOLINA SÓDICA | NEWCOM FARMACEUTICA LTDA. | Ativo |
+| 116370093 | FAZOLON | BLAU FARMACÊUTICA S.A. | Ativo |
+| 155620003 | KEFAZOL | ANTIBIÓTICOS DO BRASIL LTDA | Ativo |
+| 155620055 | CEFAZOLINA SÓDICA | ANTIBIÓTICOS DO BRASIL LTDA | Ativo |
+| 174200014 | CEFAZOLINA SÓDICA | EUGIA PHARMA INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 100410198 | CEFAZOLINA SÓDICA | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100430635 | CEFAZOL | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100430725 | CEFAZOLINA SÓDICA | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100630233 | CEFAZOLINA SÓDICA | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101800262 | CEFAZOLINA | BRISTOL-MYERS SQUIBB FARMACÊUTICA LTDA | Cancelado |
+| 102700094 | FAZOLON | ARISTON INDS QUIMS FTCAS LTDA | Cancelado |
+| 103110140 | CEFAZOLINA SÓDICA | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Cancelado |
+| 104970248 | CEFTRAT | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Cancelado |
+| 106460131 | DUOCEF | LABORATORIO QUIMICO FARMACEUTICO BERGAMO LTDA | Cancelado |
+| 112600067 | KEFAZOL | ELI LILLY DO BRASIL LTDA | Cancelado |
+| 112830066 | CEFAZOTAN | LABORATORIO ITAFARMA LTDA | Cancelado |
+| 114020020 | KEFALIN | NOVAFARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 114020033 | CEFAZOLINA SÓDICA | NOVAFARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 114020049 | FAZOLIX | NOVAFARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 116370181 | CEFAZOLINA SÓDICA | BLAU FARMACÊUTICA S.A. | Cancelado |
+| 120690005 | ZOLIDINA | LABORATÓRIOS LIBRA DO BRASIL LTDA | Cancelado |
+| 123520178 | CEFAZOLINA SÓDICA | RANBAXY FARMACÊUTICA LTDA | Cancelado |
+| 137640001 | CELLOZINA | ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 151670003 | CEFAZOLINA SÓDICA | AUROBINDO PHARMA INDÚSTRIA FARMACÊUTICA LIMITADA | Cancelado |
+| 155620029 | CEFAZOLINA SÓDICA | ANTIBIÓTICOS DO BRASIL LTDA | Cancelado |
+| 172230003 | CEFAZOLINA SÓDICA | BLAU FARMACEUTICA GOIAS LTDA. | Cancelado |
+| 172230005 | CEFAZOLINA SÓDICA | BLAU FARMACEUTICA GOIAS LTDA. | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 32 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 <!-- review:begin br-lic-20261106-cefazolin-1 -->
 
 > **Correção de verificação (2026-11-06)**: Texto original: “Segundo os registros locais, há 5 registros válidos e 15 cancelados, e a lista pode ser parcial.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-cefazolin-1 -->
+
+<!-- review:begin br-lic-20261124c-cefazolin-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “A lista pode ser parcial. Os dados compilados não trazem o detalhamento dos registros (número, nome comercial, forma farmacêutica), por isso a tabela não é apresentada.” Removido: a frase dizia que a lista de registros seria parcial ou não estaria disponível; os dados abertos de medicamentos da ANVISA usados nesta página trazem todos os registros do medicamento, que estão na tabela desta seção gerada por programa (os números atualizados estão no resumo rápido e na tabela). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124c-cefazolin-1 -->
 
 ## Considerações de Segurança
 
@@ -113,6 +156,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 |------|------|------|------|
 | 2026-11-06 | Removido: “Segundo os registros locais, há 5 registros válidos e 15 cancelados, e a” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Cefazolin (cefazolin sodium) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d91a8d13-99a0-4d87-88dc-71cbd37922b4) |
+| 2026-11-24 | Removido: “A lista pode ser parcial. Os dados compilados não trazem o detalhamento dos registros (número, nome comercial, forma farmacêutica), por isso a tabela não é apresentada.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

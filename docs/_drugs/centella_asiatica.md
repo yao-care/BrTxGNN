@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Centella asiatica"
 predicted_indications: ["insomnia (disease)", "anxiety", "sleep disorder, initiating and maintaining sleep"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Centella Asiatica: nova indicação prevista, insônia (insomnia) (nível de evidência L5). No Brasil, registros na ANVISA: 16 (ativos: 1)"
 ---
 
@@ -70,6 +70,31 @@ Atualmente não há ensaios clínicos relacionados registrados.
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
 | [38812527](https://pubmed.ncbi.nlm.nih.gov/38812527/) | 2024 | Pré-clínico (peixe-zebra) | F1000Research | Avaliou o efeito do extrato etanólico de C. asiatica em um modelo de insônia em larvas de peixe-zebra, com inibição de orexina, ERK, Akt e p38 |
+
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 154000001 | CELLUFAN VITA | LABORATÓRIO VITALAB LTDA | Ativo |
+| 100663380 | CENTELLA ASIATICA (L.) URBAN | LABORATORIO CATARINENSE LTDA | Cancelado |
+| 112700019 | CENTELLA ASIATICA | FONTOVIT LABORATORIOS SA | Cancelado |
+| 112700029 | CENTELLA VIT | FONTOVIT LABORATORIOS SA | Cancelado |
+| 118600013 | BIOSLIM | HERBARIUM LABORATORIO BOTANICO LTDA | Cancelado |
+| 118600015 | CENTELLA HERBARIUM | HERBARIUM LABORATORIO BOTANICO LTDA | Cancelado |
+| 118600026 | CELLITUM | HERBARIUM LABORATORIO BOTANICO LTDA | Cancelado |
+| 118600079 | CENTELLA HERBARIUM | HERBARIUM LABORATORIO BOTANICO LTDA | Cancelado |
+| 120090015 | CENTELLA BIONATUS | BIONATUS LABORATÓRIO BOTÂNICO LTDA | Cancelado |
+| 123970020 | CENTELLA ORIENT | ORIENT MIX FITOTERÁPICOS DO BRASIL LTDA. | Cancelado |
+| 126090145 | CENTELA AMAZON ERVAS | AMAZON ERVAS LABORATÓRIO BOTÂNICO LTDA | Cancelado |
+| 137070013 | CENTELA FLORA MEDICINAL | FLORA MEDICINAL J. MONTEIRO DA SILVA LTDA | Cancelado |
+| 142570048 | CELLENAX | LUCIOMED FARMACÊUTICA DO BRASIL LTDA | Cancelado |
+| 144930041 | VOLTALIV | AIRELA INDÚSTRIA FARMACÊUTICA LTDA. | Cancelado |
+| 145010008 | CENTELLA BRASMED | BRASMED BOTÂNICA E FARMACÊUTICA LTDA | Cancelado |
+| 155590922 | CENTELA FLORA MEDICINAL | INDUSTRIA E COMERCIO DE COSMETICOS NATURA LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

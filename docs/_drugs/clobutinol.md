@@ -69,7 +69,38 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-Os dados locais indicam 2 registros válidos e 16 cancelados. Esta lista pode estar incompleta, pois os registros são parciais, e nenhum registro detalhado está disponível para listagem neste relatório.
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 104970226 | HYTOS PLUS | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971261 | CLORIDRATO DE CLOBUTINOL + SUCCINATO DE DOXILAMINA | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 101810387 | CLORIDRATO DE CLOBUTINOL | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101810475 | CLORIDRATO DE CLOBUTINOL + SUCCINATO DE DOXILAMINA | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 102350816 | CLORIDRATO DE CLOBUTINOL | EMS S/A | Cancelado |
+| 102350972 | CLORIDRATO DE CLOBUTINOL + SUCCINATO DE DOXILAMINA | EMS S/A | Cancelado |
+| 103670033 | SILOMAT | BOEHRINGER INGELHEIM DO BRASIL QUÍMICA E FARMACÊUT | Cancelado |
+| 103670158 | SILOMAT PLUS | BOEHRINGER INGELHEIM DO BRASIL QUÍMICA E FARMACÊUT | Cancelado |
+| 103920114 | TUSSILAT | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Cancelado |
+| 104970287 | CLORIDRATO DE CLOBUTINOL + SUCCINATO DE DOXILAMINA | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Cancelado |
+| 105830523 | CLORIDRATO DE CLOBUTINOL | GERMED FARMACEUTICA LTDA | Cancelado |
+| 105830567 | CLORIDRATO DE CLOBUTINOL + SUCCINATO DE DOXILAMINA | GERMED FARMACEUTICA LTDA | Cancelado |
+| 125680095 | CLORIDRATO DE CLOBUTINOL | PRATI DONADUZZI & CIA LTDA | Cancelado |
+| 125680097 | CLORIDRATO DE CLOBUTINOL + SUCCINATO DE DOXILAMINA | PRATI DONADUZZI & CIA LTDA | Cancelado |
+| 125680098 | CLORIDRATO DE CLOBUTINOL + SUCCINATO DE DOXILAMINA | PRATI DONADUZZI & CIA LTDA | Cancelado |
+| 125680106 | CLORIDRATO DE CLOBUTINOL | PRATI DONADUZZI & CIA LTDA | Cancelado |
+| 135690396 | CLORIDRATO DE CLOBUTINOL | EMS SIGMA PHARMA LTDA | Cancelado |
+| 135690448 | CLORIDRATO DE CLOBUTINOL + SUCCINATO DE DOXILAMINA | EMS SIGMA PHARMA LTDA | Cancelado |
+
+<!-- licenses:end -->
+
+<!-- review:begin br-lic-20261124c-clobutinol-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Esta lista pode estar incompleta, pois os registros são parciais, e nenhum registro detalhado está disponível para listagem neste relatório.” Removido: a frase dizia que a lista de registros seria parcial ou não estaria disponível; os dados abertos de medicamentos da ANVISA usados nesta página trazem todos os registros do medicamento, que estão na tabela desta seção gerada por programa (os números atualizados estão no resumo rápido e na tabela). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124c-clobutinol-1 -->
+
+Os dados locais indicam 2 registros válidos e 16 cancelados.
 
 ## Considerações de Segurança
 
@@ -95,11 +126,12 @@ Para as demais informações de segurança, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte (revisado em 2026-11-20; versão anterior guardada no registro) | [ChEMBL CHEMBL1474889 (clobutinol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1474889) |
+| 2026-11-24 | Removido: “Esta lista pode estar incompleta, pois os registros são parciais, e nenhum registro detalhado está disponível para listagem neste relatório.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

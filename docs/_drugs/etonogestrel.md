@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Etonogestrel"
 predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "apocrine adenosis of breast", "blunt duct adenosis of breast", "benign mammary dysplasia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Etonogestrel: nova indicação prevista, Amenorreia (amenorrhea (disease)) (nível de evidência L5). No Brasil, registros na ANVISA: 8 (ativos: 5)"
 ---
 
@@ -73,7 +73,28 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Os dados compilados indicam situação de comercialização "Comercializado", com 5 registros válidos e 3 cancelados. A lista detalhada de registros não está disponível nos dados compilados.
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100290211 | IMPLANON | ORGANON FARMACÊUTICA LTDA. | Ativo |
+| 100290213 | NUVARING | ORGANON FARMACÊUTICA LTDA. | Ativo |
+| 100290225 | INSERZI | ORGANON FARMACÊUTICA LTDA. | Ativo |
+| 105530391 | LIVANEL | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Ativo |
+| 135640011 | EXELRING | EXELTIS LABORATORIO FARMACEUTICO LTDA | Ativo |
+| 100290195 | CIRCLET | ORGANON FARMACÊUTICA LTDA. | Cancelado |
+| 101710088 | IMPLANON | MERCK SHARP & DOHME FARMACEUTICA LTDA. | Cancelado |
+| 101710101 | NUVARING | MERCK SHARP & DOHME FARMACEUTICA LTDA. | Cancelado |
+
+<!-- licenses:end -->
+
+Os dados compilados indicam situação de comercialização "Comercializado", com 5 registros válidos e 3 cancelados.
+
+<!-- review:begin br-lic-20261124c-etonogestrel-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “A lista detalhada de registros não está disponível nos dados compilados.” Removido: a frase dizia que a lista de registros não estava disponível ou não seria apresentada; esta seção agora traz a tabela de registros gerada por programa a partir dos dados abertos de medicamentos da ANVISA, com todos os registros do medicamento nos dados (os números atualizados estão no resumo rápido e na tabela). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124c-etonogestrel-1 -->
 
 ## Considerações de Segurança
 
@@ -99,11 +120,12 @@ Consulte a bula para informações complementares de segurança.
 
 ## Registro de verificação
 
-Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Nexplanon (etonogestrel) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=487f8a62-e142-457c-97cc-2e398fde7594) |
+| 2026-11-24 | Removido: “A lista detalhada de registros não está disponível nos dados compilados.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

@@ -64,13 +64,56 @@ Como não há estudo clínico nem publicação que avalie diretamente esta doen�
 
 ## Informações de Comercialização no Brasil
 
-A lista detalhada de registros não está disponível nos dados compilados.
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431424 | ISOTRETINOÍNA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431425 | AMALFI | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 102351120 | ISOTRETINOÍNA | EMS S/A | Ativo |
+| 103900231 | ROACUTAN | FARMOQUÍMICA S/A | Ativo |
+| 104971446 | ISON | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 105830755 | ISOTRETINOÍNA | GERMED FARMACEUTICA LTDA | Ativo |
+| 105830844 | ACNOVA | GERMED FARMACEUTICA LTDA | Ativo |
+| 118190389 | ISOTRETINOÍNA | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 123520241 | ISOTRETINOÍNA | RANBAXY FARMACÊUTICA LTDA | Ativo |
+| 132650030 | ISOTRETINOÍNA | COLBRÁS INDÚSTRIA E COMÉRCIO LTDA | Ativo |
+| 135170079 | ISOTRETINOÍNA | ALTHAIA S.A. INDUSTRIA FARMACEUTICA | Ativo |
+| 155840691 | ISOTRETINOÍNA | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 178170980 | ISOAC | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Ativo |
+| 100200094 | LURANTAL | UNIAO QUIMICA INTERNACIONAL LTDA | Cancelado |
+| 100890400 | ISOTRETINOÍNA | MERCK S/A | Cancelado |
+| 100930212 | ISOACNE | MANTECORP INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A. | Cancelado |
+| 101000182 | ROACUTAN | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Cancelado |
+| 102351093 | ISOTRETINOINA | EMS S/A | Cancelado |
+| 102351094 | ROTRETIN | EMS S/A | Cancelado |
+| 102351123 | ROTRETIN | EMS S/A | Cancelado |
+| 102980329 | ACNIL | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Cancelado |
+| 103700369 | ACNISON | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
+| 103820001 | ISOTRIN | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 105750065 | ISOFACE | VALEANT FARMACÊUTICA DO BRASIL LTDA | Cancelado |
+| 105830731 | ACNOVA | GERMED FARMACEUTICA LTDA | Cancelado |
+| 106750046 | ISOTREX | LABORATÓRIOS STIEFEL LTDA | Cancelado |
+| 106750057 | ISOTREXIN | LABORATÓRIOS STIEFEL LTDA | Cancelado |
+| 106750066 | ISOTREXOL | LABORATÓRIOS STIEFEL LTDA | Cancelado |
+| 118190378 | ISOTRAT | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Cancelado |
+| 122140052 | ISOCUTAN | ADIUM S.A. | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 44 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 <!-- review:begin br-lic-20261106-isotretinoin-1 -->
 
 > **Correção de verificação (2026-11-06)**: Texto original: “Segundo os dados compilados, os 3 registros existentes no Brasil estão cancelados e não há registro válido. A lista detalhada de registros não está disponível nos dados compilados.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-isotretinoin-1 -->
+
+<!-- review:begin br-lic-20261124c-isotretinoin-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “A lista detalhada de registros não está disponível nos dados compilados.” Removido: a frase dizia que a lista de registros não estava disponível ou não seria apresentada; esta seção agora traz a tabela de registros gerada por programa a partir dos dados abertos de medicamentos da ANVISA, com todos os registros do medicamento nos dados (os números atualizados estão no resumo rápido e na tabela). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124c-isotretinoin-1 -->
 
 ## Considerações de Segurança
 
@@ -111,6 +154,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | 2026-11-06 | Removido: “Segundo os dados compilados, os 3 registros existentes no Brasil estão cancelados e não há registro válido” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Os registros no Brasil estão todos cancelados, e h” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Zenatane (isotretinoin) prescribing information, Dr. Reddy's Laboratories Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=27b3cf26-f22e-5b70-1c24-009933b7c6ee) |
+| 2026-11-24 | Removido: “A lista detalhada de registros não está disponível nos dados compilados.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

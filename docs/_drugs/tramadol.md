@@ -87,6 +87,47 @@ Atualmente não há literatura relacionada para a indicação principal prevista
 |------|-----|------|------|---------|
 | [20799760](https://pubmed.ncbi.nlm.nih.gov/20799760/) | 2010 | Revisão | Paediatric Drugs | Farmacocinética, eficácia e tolerabilidade do AINE cetoprofeno em pacientes pediátricos; não fornece evidência clínica para o tramadol |
 
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431251 | CLORIDRATO DE TRAMADOL | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431254 | GÉSICO | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431291 | CLORIDRATO DE TRAMADOL + PARACETAMOL | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431304 | GÉSICO DUO | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431394 | ATRACE | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100630298 | CLORIDRATO DE TRAMADOL | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 102350731 | CLORIDRATO DE TRAMADOL | EMS S/A | Ativo |
+| 102351410 | CLORIDRATO DE TRAMADOL | EMS S/A | Ativo |
+| 102351413 | CLORIDRATO DE TRAMADOL + PARACETAMOL | EMS S/A | Ativo |
+| 102980261 | TRAMADON | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103110141 | CLORIDRATO DE TRAMADOL | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Ativo |
+| 103700502 | CLORIDRATO DE TRAMADOL (PORT 344/98 - LISTA A2) | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700503 | CLORIDRATO DE TRAMADOL (PORT. 344/98, L-A2) | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103720296 | TROL PAR | SUPERA FARMA LABORATÓRIOS S.A | Ativo |
+| 103720297 | TROL | SUPERA FARMA LABORATÓRIOS S.A | Ativo |
+| 104540183 | DAISAN | DAIICHI SANKYO BRASIL FARMACÊUTICA LTDA | Ativo |
+| 104971313 | CLORIDRATO DE TRAMADOL | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 105350241 | CLORIDRATO DE TRAMADOL + PARACETAMOL | LABORATÓRIO GLOBO SA | Ativo |
+| 105730045 | COMBFIX | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730143 | CLORIDRATO DE TRAMADOL + PARACETAMOL | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730174 | CLORIDRATO DE TRAMADOL | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730440 | REVANGE | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730533 | TRAUM | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105830279 | CLORIDRATO DE TRAMADOL | GERMED FARMACEUTICA LTDA | Ativo |
+| 105830388 | CLORIDRATO DE TRAMADOL | GERMED FARMACEUTICA LTDA | Ativo |
+| 105831023 | CLORIDRATO DE TRAMADOL | GERMED FARMACEUTICA LTDA | Ativo |
+| 105831025 | CLORIDRATO DE TRAMADOL + PARACETAMOL | GERMED FARMACEUTICA LTDA | Ativo |
+| 112363356 | ULTRACET | JANSSEN-CILAG FARMACÊUTICA LTDA | Ativo |
+| 113430156 | CLORIDRATO DE TRAMADOL (PORTARIA 344/98 - LISTA A2) | HIPOLABOR FARMACEUTICA LTDA | Ativo |
+| 113430174 | CLORIDRATO DE TRAMADOL (PORT. 344/98 - LISTA A2) | HIPOLABOR FARMACEUTICA LTDA | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 111 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 - **Contraindicações segundo o grafo de conhecimento do modelo** (não se trata de texto de bula): hipertensão, insuficiência hepática, doença hepática e cirrose, epilepsia, transtornos de ansiedade e neuróticos, distimia, doenças da vesícula biliar, diabetes mellitus e cetoacidose diabética, abuso/dependência de substâncias, hiperlipidemia (inclusive familiar), insuficiência respiratória, intoxicação por paracetamol, síndrome serotoninérgica, pseudotumor cerebral e hipertensão intracraniana, abstinência de álcool e de substâncias, síndrome de Wernicke-Korsakoff e infecções do sistema nervoso central.

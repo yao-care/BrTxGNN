@@ -76,13 +76,56 @@ Pela regra de teto de evidência, nenhuma das publicações citadas estuda a ame
 
 ## Informações de Comercialização no Brasil
 
-A lista pode estar parcial. A tabela de registros é gerada pelo programa e não está detalhada aqui.
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431109 | DIENOGESTE | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431116 | PIETRA ED | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431405 | ALURAX | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431587 | VALERATO DE ESTRADIOL + DIENOGESTE | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 102351355 | DIENOGESTE | EMS S/A | Ativo |
+| 102351369 | LUDILI ED | EMS S/A | Ativo |
+| 105730494 | KALIST | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730658 | DIENOGESTE | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730766 | DIENOGESTE | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105830988 | DIENOGESTE | GERMED FARMACEUTICA LTDA | Ativo |
+| 109740266 | INTIME | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 114620009 | DIOST | MYRALIS INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 114620011 | ALLUNY | MYRALIS INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 114620030 | LUREND | MYRALIS INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 118190307 | DINORÁ | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 118190326 | DIENOGESTE | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 135170036 | DIENOGESTE | ALTHAIA S.A. INDUSTRIA FARMACEUTICA | Ativo |
+| 154230287 | DIENOGESTE | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 167730665 | DIENOGESTE | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 167730666 | ALANDRE | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 170560049 | QLAIRA | BAYER S.A. | Ativo |
+| 170560088 | ALLURENE | BAYER S.A. | Ativo |
+| 170560127 | TAMBELLA | BAYER S.A. | Ativo |
+| 100200136 | VISABELLE | UNIAO QUIMICA INTERNACIONAL LTDA | Cancelado |
+| 100200139 | CHARMELIE | UNIAO QUIMICA INTERNACIONAL LTDA | Cancelado |
+| 103720244 | DINE | SUPERA FARMA LABORATÓRIOS S.A | Cancelado |
+| 105730496 | DIENOGESTE | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Cancelado |
+| 105730773 | MELUREN | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Cancelado |
+| 112130478 | DIENOGESTE | BIOSINTÉTICA FARMACÊUTICA LTDA | Cancelado |
+| 118610285 | DIOST | ATIVUS FARMACÊUTICA LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 36 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 <!-- review:begin br-lic-20261106-dienogest-1 -->
 
 > **Correção de verificação (2026-11-06)**: Texto original: “Segundo os dados locais, há 13 registros válidos e 7 cancelados, e a lista pode estar parcial.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-dienogest-1 -->
+
+<!-- review:begin br-lic-20261124c-dienogest-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “A lista pode estar parcial. A tabela de registros é gerada pelo programa e não está detalhada aqui.” Removido: a frase dizia que a lista de registros seria parcial ou não estaria disponível; os dados abertos de medicamentos da ANVISA usados nesta página trazem todos os registros do medicamento, que estão na tabela desta seção gerada por programa (os números atualizados estão no resumo rápido e na tabela). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124c-dienogest-1 -->
 
 ## Considerações de Segurança
 
@@ -112,6 +155,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 |------|------|------|------|
 | 2026-11-06 | Removido: “Segundo os dados locais, há 13 registros válidos e 7 cancelados, e a” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte (revisado em 2026-11-20; versão anterior guardada no registro) | [ChEMBL CHEMBL1201864 (dienogest): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201864) |
+| 2026-11-24 | Removido: “A lista pode estar parcial. A tabela de registros é gerada pelo programa e não está detalhada aqui.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

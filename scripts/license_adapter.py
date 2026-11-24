@@ -69,7 +69,8 @@ def update(rec, new):
 
 # 2026-11-24：市場段落的許可證表改成程式產生（scripts/sync_license_tables.py，用戶決定）。
 # 每週排程 3b 自我檢查：程式區塊裡表格列以外的行（標記、超過 30 筆的說明句、部分收錄句、沒有紀錄句）也算程式產生的行。
-PAGE_NOTE = (r"^(A tabela mostra até \d+ registros \(os ativos primeiro\).*|Os dados contêm apenas parte dos registros; a lista pode estar incompleta\.|"
+# 2026-11-24 第三輪起含 add_section 補的市場段落標題。
+PAGE_NOTE = (r"^(## Informações de Comercialização no Brasil|A tabela mostra até \d+ registros \(os ativos primeiro\).*|Os dados contêm apenas parte dos registros; a lista pode estar incompleta\.|"
              r"Não há registros deste medicamento nos dados abertos de medicamentos da ANVISA usados neste relatório\.|<!-- licenses:(begin|end) -->)$")
 
 

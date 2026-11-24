@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 628
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Tezacaftor"
 predicted_indications: ["HIV infectious disease", "leprosy", "multiple endocrine neoplasia"]
 description: "Tezacaftor: nova indicação prevista, Doença infecciosa por HIV (HIV infectious disease) (nível de evidência L5). No Brasil, registros na ANVISA: 3 (ativos: 3)"
@@ -83,6 +83,18 @@ Atualmente não há literatura relacionada.
 
 Foi identificada uma entrada de farmacologia: o tezacaftor tem como alvo a proteína humana **CFTR** (gene *CFTR*), o que corresponde ao seu mecanismo esperado como corretor. Não foram listadas interações com outros medicamentos nem níveis de gravidade.
 
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 138230003 | SYMDEKO | VERTEX FARMACEUTICA DO BRASIL LTDA. | Ativo |
+| 138230005 | TRIKAFTA | VERTEX FARMACEUTICA DO BRASIL LTDA. | Ativo |
+| 138230007 | TRIKAFTA | VERTEX FARMACEUTICA DO BRASIL LTDA. | Ativo |
+
+<!-- licenses:end -->
+
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
@@ -95,17 +107,24 @@ Foi identificada uma entrada de farmacologia: o tezacaftor tem como alvo a prote
 - Complementar os dados de mecanismo de ação (MOA) a partir do DrugBank
 - Realizar estudos pré-clínicos (por exemplo, atividade antiviral in vitro contra HIV) para avaliar se há algum fundamento biológico
 - Revisar sistematicamente a literatura para confirmar a ausência de evidências
-- Avaliar a compatibilidade de vias de administração e a viabilidade regulatória, já que não há registro no Brasil
+- Avaliar a compatibilidade de vias de administração e a viabilidade regulatória
+
+<!-- review:begin br-lic-20261124c-tezacaftor-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “e a viabilidade regulatória, já que não há registro no Brasil” Corrigido conforme os dados abertos de medicamentos da ANVISA: o medicamento tem registros no Brasil (válidos e cancelados), listados na tabela da seção de informações de comercialização; os números atualizados estão no resumo rápido. Só foi retirada a premissa errada; o restante do texto não foi alterado. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124c-tezacaftor-1 -->
 
 <!-- review:begin log -->
 
 ## Registro de verificação
 
-Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Alyftrek (vanzacaftor, tezacaftor, and deutivacaftor) prescribing information, Vertex Pharmaceuticals Incorporated](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7e635909-c6fd-4f0d-ae77-cdff03653a20) |
+| 2026-11-24 | “e a viabilidade regulatória, já que não há registro no Brasil” → “e a viabilidade regulatória” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

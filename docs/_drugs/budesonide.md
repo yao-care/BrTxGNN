@@ -77,6 +77,47 @@ Nenhum dos estudos abaixo avalia a eficácia clínica da budesonida em humanos c
 | [9543750](https://pubmed.ncbi.nlm.nih.gov/9543750/) | 1997 | Revisão | Ned Tijdschr Geneeskd | A alergia de contato a corticosteroides não é rara, sobretudo em pacientes com dermatite atópica de longa duração |
 | [37927648](https://pubmed.ncbi.nlm.nih.gov/37927648/) | 2023 | Relato de caso | Cureus | Reação de hipersensibilidade tipo I a corticosteroide, com angioedema e urticária, em paciente com dermatite atópica |
 
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100430036 | NOEX | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431604 | BUDESONIDA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100470658 | FORASEQ | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 102351180 | BUDESONIDA | EMS S/A | Ativo |
+| 102351204 | INALIDE | EMS S/A | Ativo |
+| 105730082 | BUSONID | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730092 | BUDESONIDA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730498 | BRONX | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730566 | ALENIA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730590 | BUSONID | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730652 | FUMARATO DE FORMOTEROL DI-HIDRATADO + BUDESONIDA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 116180076 | PULMICORT | ASTRAZENECA DO BRASIL LTDA | Ativo |
+| 116180106 | SYMBICORT TURBUHALER | ASTRAZENECA DO BRASIL LTDA | Ativo |
+| 116180234 | VANNAIR | ASTRAZENECA DO BRASIL LTDA | Ativo |
+| 116180250 | SYMBICORT | ASTRAZENECA DO BRASIL LTDA | Ativo |
+| 116180302 | BREZTRI AEROSPHERE | ASTRAZENECA DO BRASIL LTDA | Ativo |
+| 128760023 | CORAMENT | LABORATÓRIOS FERRING LTDA | Ativo |
+| 167730532 | INALAJET | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100230242 | NEO-RINACTIVE | ALCON LABORATÓRIOS DO BRASIL LTDA. | Cancelado |
+| 100330123 | ARMAX | LIBBS FARMACÊUTICA LTDA | Cancelado |
+| 100580093 | NASON | CHIESI FARMACÊUTICA LTDA | Cancelado |
+| 100580108 | BUDIAIR | CHIESI FARMACÊUTICA LTDA | Cancelado |
+| 100680093 | MIFLONIDE | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 100680156 | FORASEQ | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 100681170 | MIFLONIDE BRIZZ | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 100820137 | DESONID | ABBOTT PRODUTOS PARA SAÚDE LTDA. | Cancelado |
+| 100840153 | CORTASM | ZAMBON LABORATÓRIOS FARMACÊUTICOS LTDA. | Cancelado |
+| 105730332 | NOVOPULMON NOVOLIZER | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Cancelado |
+| 109740244 | ENTOCORT | BIOLAB SANUS FARMACÊUTICA LTDA | Cancelado |
+| 112130173 | BUSONID | BIOSINTÉTICA FARMACÊUTICA LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 38 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 - **Interações medicamentosas** (100 interações identificadas; principais exemplos): 

@@ -87,6 +87,17 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ---
 
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 115570044 | PROSTOKOS | INFAN INDUSTRIA QUIMICA FARMACEUTICA NACIONAL S/A | Ativo |
+| 123890096 | CYTOTEC | PHARMACIA BRASIL LTDA | Cancelado |
+
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 - **Contraindicações segundo o grafo de conhecimento (TxGNN/PrimeKG, não derivadas de bula):** hipertensão, insuficiência e doenças hepáticas, doença da vesícula biliar, insuficiência cardíaca congestiva, doença inflamatória intestinal, asma (incluindo intrínseca e alérgica), dependência/abuso de substâncias, distúrbios da coagulação, AVC e doenças cerebrovasculares, infarto cerebral, infarto do miocárdio e trombose coronariana, hemoglobinopatias, anemias (incluindo macrocítica), lesão hepática induzida por fármacos, doenças cardiovasculares e cardíacas, úlcera péptica ativa e meningite não infecciosa.

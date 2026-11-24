@@ -62,6 +62,24 @@ No entanto, a entrada da doença está marcada como obsoleta na terminologia de 
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 105830712 | SIGMATRIOL | GERMED FARMACEUTICA LTDA | Ativo |
+| 137640028 | OSTRIOL | ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100580094 | BONEFIX | CHIESI FARMACÊUTICA LTDA | Cancelado |
+| 101000073 | ROCALTROL | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Cancelado |
+| 104070086 | CALCITRIOL | INSTITUTO VITAL BRAZIL S/A | Cancelado |
+| 105530116 | CALCIJEX | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Cancelado |
+| 105710164 | ROCALTROL | BELFAR LTDA | Cancelado |
+| 129160030 | SILKIS | GALDERMA BRASIL LTDA | Cancelado |
+| 135690006 | SIGMATRIOL | EMS SIGMA PHARMA LTDA | Cancelado |
+| 138410015 | CALCITRIMAX | NATULAB LABORATORIO S.A | Cancelado |
+| 198600005 | CALCIJEX | ABBVIE FARMACÊUTICA LTDA. | Cancelado |
+
+<!-- licenses:end -->
+
 O fármaco consta como comercializado no Brasil, com registros válidos e cancelados (números atualizados no resumo rápido), segundo os dados regulatórios compilados.
 
 <!-- review:begin br-lic-20261106-calcitriol-1 -->

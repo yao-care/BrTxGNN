@@ -83,6 +83,17 @@ Foram selecionadas as publicações de maior nível de evidência (RCT > compara
 | [36509625](https://pubmed.ncbi.nlm.nih.gov/36509625/) | 2023 | Coorte | Arch Pediatr | Escleroterapia endoscópica paravariceal com polidocanol para varizes cárdicas em crianças e adolescentes |
 | [6609102](https://pubmed.ncbi.nlm.nih.gov/6609102/) | 1984 | Coorte (eventos adversos) | Gut | Em 34 pacientes tratados com polidocanol 3%, 59% desenvolveram estenose ou disfagia esofágica |
 
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 178170905 | NENE DENT N | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Ativo |
+| 106390097 | NENE DENT N | TAKEDA PHARMA LTDA. | Cancelado |
+
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 - **Eventos adversos descritos na literatura**: estenose esofágica e disfagia após escleroterapia endoscópica com polidocanol (59% em uma coorte de 34 pacientes). Além disso, a escleroterapia pode agravar a hipertensão portal por supressão de shunts portossistêmicos.

@@ -78,13 +78,58 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Segundo os dados abertos de medicamentos da ANVISA, há registros válidos e cancelados (números atualizados no resumo rápido). Os detalhes dos registros serão adicionados pelo programa do site.
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 102350339 | GEROVITAL | EMS S/A | Ativo |
+| 103900234 | BHIO | FARMOQUÍMICA S/A | Ativo |
+| 104971547 | KERABIO | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 105730483 | UNTRAL | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 106830093 | CERNE-12 | BAXTER HOSPITALAR LTDA | Ativo |
+| 115600194 | GERILON | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
+| 115600280 | MATURE | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
+| 167730285 | NATUS GERIN | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100020089 | TIAMINA + ASSOCIAÇÕES | LABORATORIO SEDABEL LTDA | Cancelado |
+| 100470251 | UM AO DIA | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100680972 | DYNAMISAN | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 100890380 | FEMIBION | MERCK S/A | Cancelado |
+| 101000017 | COMPLEXO B | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Cancelado |
+| 101000067 | PROTOVIT PLUS | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Cancelado |
+| 101000534 | BEROCCAL | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Cancelado |
+| 101910281 | GERIBION | THERASKIN FARMACEUTICA LTDA. | Cancelado |
+| 102350762 | COMPLEXO B EMS | EMS S/A | Cancelado |
+| 103670135 | KIDDI FIZZ | BOEHRINGER INGELHEIM DO BRASIL QUÍMICA E FARMACÊUT | Cancelado |
+| 103670157 | PHARMATON | BOEHRINGER INGELHEIM DO BRASIL QUÍMICA E FARMACÊUT | Cancelado |
+| 103700328 | MATERSUPRE | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
+| 103700513 | MATERSUPRE | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
+| 103900125 | MATERVIT | FARMOQUÍMICA S/A | Cancelado |
+| 103900133 | VITAMINA A + ASSOCIAÇÕES | FARMOQUÍMICA S/A | Cancelado |
+| 104290166 | PROTOVIT PLUS | BAYER S.A. | Cancelado |
+| 104290168 | BENEROC JÚNIOR | BAYER S.A. | Cancelado |
+| 104290173 | BEROCCAL CÁLCIO MAGNÉSIO E ZINCO | BAYER S.A. | Cancelado |
+| 104650080 | GERIVIX | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 104650405 | GERIVIX | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 105350100 | MALTENS | LABORATÓRIO GLOBO SA | Cancelado |
+| 105730072 | GERIATON | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 78 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
+
+Segundo os dados abertos de medicamentos da ANVISA, há registros válidos e cancelados (números atualizados no resumo rápido).
 
 <!-- review:begin br-lic-20261124b-biotin-1 -->
 
 > **Correção de verificação (2026-11-24)**: Texto original: “Segundo os dados compilados, há pelo menos 2 registros válidos e 18 cancelados, e a lista de registros pode estar incompleta.” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261124b-biotin-1 -->
+
+<!-- review:begin br-lic-20261124c-biotin-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Os detalhes dos registros serão adicionados pelo programa do site.” Removido: a frase dizia que a lista de registros não estava disponível ou não seria apresentada; esta seção agora traz a tabela de registros gerada por programa a partir dos dados abertos de medicamentos da ANVISA, com todos os registros do medicamento nos dados (os números atualizados estão no resumo rápido e na tabela). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124c-biotin-1 -->
 
 ## Considerações de Segurança
 
@@ -114,6 +159,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-24 | “Segundo os dados compilados, há pelo menos 2 registros válidos e 18 cancelados, e a lista de registros pode…” → “Segundo os dados abertos de medicamentos da ANVISA, há registros válidos e cancelados (números atualizados no…” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | Removido: “Os detalhes dos registros serão adicionados pelo programa do site.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

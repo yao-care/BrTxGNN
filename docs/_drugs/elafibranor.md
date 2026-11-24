@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Elafibranor"
 predicted_indications: ["amenorrhea (disease)"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Elafibranor: nova indicação prevista, Amenorreia (amenorrhea (disease)) (nível de evidência L5). No Brasil, registros na ANVISA: 1 (ativos: 1)"
 ---
 
@@ -63,7 +63,21 @@ Por isso, a plausibilidade mecanística é frágil e hipotética. Ela exigiria i
 
 ## Informações de Comercialização no Brasil
 
-Os dados compilados indicam situação de comercialização "Comercializado", com 1 registro válido. Não há detalhes de nome comercial, forma farmacêutica ou texto de indicação nos dados locais disponíveis.
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 169770006 | IQIRVO | BEAUFOUR IPSEN FARMACÊUTICA LTDA | Ativo |
+
+<!-- licenses:end -->
+
+Os dados compilados indicam situação de comercialização "Comercializado", com 1 registro válido. Os dados abertos da ANVISA não trazem forma farmacêutica nem texto de indicação; o registro está na tabela acima.
+
+<!-- review:begin br-lic-20261124c-elafibranor-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Não há detalhes de nome comercial, forma farmacêutica ou texto de indicação nos dados locais disponíveis.” Corrigido conforme os dados abertos de medicamentos da ANVISA: esta seção agora traz a tabela de registros gerada por programa a partir dos dados (número do registro, produto, empresa detentora e situação); os dados abertos não trazem forma farmacêutica nem texto de indicação. Os números atualizados estão no resumo rápido e na tabela. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124c-elafibranor-1 -->
 
 ## Considerações de Segurança
 
@@ -83,6 +97,19 @@ Para advertências e contraindicações, consulte a bula.
 - Completar os dados de mecanismo de ação.
 - Realizar estudos pré-clínicos ou de mecanismo que conectem a ativação de PPARα/δ à regulação do eixo hipotálamo-hipófise-ovário.
 - Buscar sinais clínicos ou de literatura sobre efeitos menstruais ou endócrinos do fármaco.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-24 | “Não há detalhes de nome comercial, forma farmacêutica ou texto de indicação nos dados locais disponíveis.” → “Os dados abertos da ANVISA não trazem forma farmacêutica nem texto de indicação; o registro está na tabela acima.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

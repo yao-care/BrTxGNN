@@ -61,6 +61,26 @@ Uma hipótese especulativa é que a mobilização de células progenitoras poder
 
 A pontuação muito alta do TxGNN (0,9989) é apenas uma previsão do modelo e não é respaldada por evidências clínicas ou de literatura. A segunda previsão, retinopatia diabética (termo mais amplo), compartilha a mesma racionalidade especulativa (pontuação de 0,9973).
 
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100470651 | ZIEXTENZO | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 102440005 | NEULASTIM | AMGEN BIOTECNOLOGIA DO BRASIL LTDA. | Ativo |
+| 102980620 | PEGTY | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103700781 | PEGNEUCYTE | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 105730107 | BIOCE | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 116640002 | FULPHILA | BIOCON BIOLOGICS DO BRASIL LTDA | Ativo |
+| 145310001 | PEGTIMA | BIONOVIS S.A. - COMPANHIA BRASILEIRA DE BIOTECNOLO | Ativo |
+| 155370090 | PELGRAZ | ACCORD FARMACÊUTICA LTDA | Ativo |
+| 101000652 | NEULASTIM | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Cancelado |
+| 167130001 | FULPHILA | EQUILIBRIO COMERCIO DE PRODUTOS FARMACEUTICOS LTDA | Cancelado |
+| 188300073 | FULPHILA | VIATRIS FARMACEUTICA DO BRASIL LTDA | Cancelado |
+
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 - **Interações Medicamentosas**: foram identificadas 100 interações no total, e os 20 primeiros registros são de gravidade moderada (fonte: DDInter). Entre os principais:

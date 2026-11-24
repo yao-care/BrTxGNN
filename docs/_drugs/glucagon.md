@@ -86,6 +86,15 @@ Nenhuma publicação testou o glucagon na síndrome do intestino irritável. A l
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 117660014 | GLUCAGEN | NOVO NORDISK FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 104450088 | CLORIDRATO DE CIPROPETADINE + ASSOCIACOES | LABORATORIO SINTERAPICO INDUSTRIAL FTCO LTDA | Cancelado |
+
+<!-- licenses:end -->
+
 Segundo os dados compilados para este relatório, o glucagon consta como comercializado no Brasil, com registros válidos e cancelados (números atualizados no resumo rápido).
 
 <!-- review:begin br-lic-20261106-glucagon-1 -->

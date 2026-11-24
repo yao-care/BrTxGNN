@@ -72,13 +72,56 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-Os dados de registro são parciais, e a lista detalhada de registros não está disponível neste relatório.
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431469 | IBUPROFENO + PARACETAMOL | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431516 | DUALGI | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431560 | IBUPROFENO | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100840148 | SPIDUFEN | ZAMBON LABORATÓRIOS FARMACÊUTICOS LTDA. | Ativo |
+| 100849959 | SPIDUFEN LIMÃO COLA | ZAMBON LABORATÓRIOS FARMACÊUTICOS LTDA. | Ativo |
+| 100849960 | SPIDUFEN ORO | ZAMBON LABORATÓRIOS FARMACÊUTICOS LTDA. | Ativo |
+| 100849961 | ARGYFEN | ZAMBON LABORATÓRIOS FARMACÊUTICOS LTDA. | Ativo |
+| 100850149 | PROINFLAC | LABORATORIOS B. BRAUN S/A | Ativo |
+| 101750021 | CAPSFEN | CATALENT BRASIL LTDA. | Ativo |
+| 102350961 | IBULIV | EMS S/A | Ativo |
+| 102351435 | IBULIV | EMS S/A | Ativo |
+| 103700076 | IBUPRIL | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700539 | IBUPROFENO | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700757 | IBUPROFENO | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700762 | IBUPRIL CAPS | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103920065 | ALGY-FLANDERIL | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 103920201 | IBUPROFENO | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 103920205 | ALGY GOTAS | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 103920219 | IBUPROFENO | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 103920220 | ALGY-FLANDERIL CAPS | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 103920222 | IBUPROFENO | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 104810074 | VANTIL | 1FARMA INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 104810152 | IBUPROFENO | 1FARMA INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 104971570 | IBUPROFENO | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971574 | ALIZ | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 105350220 | IBUPROFENO | LABORATÓRIO GLOBO SA | Ativo |
+| 105350230 | IBUPROFENO | LABORATÓRIO GLOBO SA | Ativo |
+| 105350231 | IBUGLOBO | LABORATÓRIO GLOBO SA | Ativo |
+| 105730370 | DORALIV | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730579 | IBUPROFENO | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 218 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 <!-- review:begin br-lic-20261106-ibuprofen-1 -->
 
 > **Correção de verificação (2026-11-06)**: Texto original: “Segundo os dados compilados, o ibuprofeno consta como comercializado no Brasil, com 13 registros válidos e 7 cancelados. Os dados de registro são parciais, e a lista detalhada de registros não está disponível neste relatório.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-ibuprofen-1 -->
+
+<!-- review:begin br-lic-20261124c-ibuprofen-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Os dados de registro são parciais, e a lista detalhada de registros não está disponível neste relatório.” Removido: a frase dizia que a lista de registros seria parcial ou não estaria disponível; os dados abertos de medicamentos da ANVISA usados nesta página trazem todos os registros do medicamento, que estão na tabela desta seção gerada por programa (os números atualizados estão no resumo rápido e na tabela). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124c-ibuprofen-1 -->
 
 ## Considerações de Segurança
 
@@ -113,6 +156,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 |------|------|------|------|
 | 2026-11-06 | Removido: “Segundo os dados compilados, o ibuprofeno consta como comercializado no Brasil, com 13 registros válidos e 7 cancelados” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Caldolor (ibuprofen) prescribing information, Cumberland Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1eaa7790-f1a1-4f51-b10a-cbbaf033f684) |
+| 2026-11-24 | Removido: “Os dados de registro são parciais, e a lista detalhada de registros não está disponível neste relatório.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

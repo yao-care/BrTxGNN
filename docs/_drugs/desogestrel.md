@@ -86,6 +86,47 @@ Este ensaio é tratado apenas como contexto indireto e não pode ser considerado
 
 Nenhuma publicação demonstra diretamente a eficácia do desogestrel no tratamento da amenorreia.
 
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100290194 | PÉROLA | ORGANON FARMACÊUTICA LTDA. | Ativo |
+| 100290218 | CERAZETTE | ORGANON FARMACÊUTICA LTDA. | Ativo |
+| 100290220 | MERCILON | ORGANON FARMACÊUTICA LTDA. | Ativo |
+| 100290221 | MERCILON CONTI | ORGANON FARMACÊUTICA LTDA. | Ativo |
+| 100290223 | MICRODIOL | ORGANON FARMACÊUTICA LTDA. | Ativo |
+| 100330098 | MINIAN | LIBBS FARMACÊUTICA LTDA | Ativo |
+| 100330171 | NACTALI | LIBBS FARMACÊUTICA LTDA | Ativo |
+| 100430987 | DESOGESTREL + ETINILESTRADIOL | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100430988 | DESOGESTREL + ETINILESTRADIOL | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431122 | PRIMERA 20 | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431123 | PRIMERA 30 | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431280 | MAMADES | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431284 | DESOGESTREL | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100470517 | DESOGESTREL | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100470526 | ETINILESTRADIOL+DESOGESTREL | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100681149 | DESOGESTREL | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 102351299 | DESOGESTREL | EMS S/A | Ativo |
+| 102351336 | CARELI | EMS S/A | Ativo |
+| 103720242 | DIOLESS | SUPERA FARMA LABORATÓRIOS S.A | Ativo |
+| 103900209 | ONUA | FARMOQUÍMICA S/A | Ativo |
+| 104971433 | MYLUS | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971434 | DESOGESTREL | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 105730721 | RUBIA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730725 | DESOGESTREL | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730763 | FEMINA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730765 | MELIK | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730770 | DESOGESTREL | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730772 | DESOGESTREL + ETINILESTRADIOL | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105830957 | DESOGESTREL | GERMED FARMACEUTICA LTDA | Ativo |
+| 118190241 | DESOGESTREL | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 80 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 - **Contraindicações (grafo de conhecimento do TxGNN, não texto de bula)**: hipertensão, epilepsia, doença hepática, doença da vesícula biliar, diabetes mellitus e cetoacidose diabética, hiperglicemia, hipertrigliceridemia, porfirias, lúpus eritematoso sistêmico, asma, hipotireoidismo, hipercalcemia, carcinoma de mama feminino, tromboflebite, leiomioma uterino e transtornos de ansiedade/distimia.

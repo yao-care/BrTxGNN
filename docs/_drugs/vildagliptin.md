@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 669
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "VILDAGLIPTIN"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
 description: "Vildagliptin: nova indicação prevista, Síndrome da pessoa rígida clássica (classic stiff person syndrome) (nível de evidência L5). No Brasil, registros na ANVISA: 36 (ativos: 28)"
@@ -68,6 +68,47 @@ Atualmente não há ensaios clínicos relacionados registrados.
 ## Evidências da Literatura
 
 Atualmente não há literatura relacionada.
+
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100681050 | GALVUS | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 100681059 | GALVUS MET | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 102351469 | VILDAGLIPTINA | EMS S/A | Ativo |
+| 105250111 | VILGLI | TORRENT DO BRASIL LTDA | Ativo |
+| 105250117 | VILDAGLIPTINA | TORRENT DO BRASIL LTDA | Ativo |
+| 105250120 | VILDAGLIPTINA + CLORIDRATO DE METFORMINA | TORRENT DO BRASIL LTDA | Ativo |
+| 105250124 | VIZ MET | TORRENT DO BRASIL LTDA | Ativo |
+| 105350242 | DIGLUSS | LABORATÓRIO GLOBO SA | Ativo |
+| 109740380 | VILDAGLIPTINA | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 109740388 | VILDAGLIPTINA + CLORIDRATO DE METFORMINA | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 109740389 | MELLIS FORM | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 110360268 | DIAVITALITY | HEMAFARMA COM E IND FARMACEUTICA LTDA | Ativo |
+| 123520293 | VILDAGLIPTINA | RANBAXY FARMACÊUTICA LTDA | Ativo |
+| 135170070 | VILDAGLIPTINA | ALTHAIA S.A. INDUSTRIA FARMACEUTICA | Ativo |
+| 135170076 | VILDAGLIPTINA + CLORIDRATO DE METFORMINA | ALTHAIA S.A. INDUSTRIA FARMACEUTICA | Ativo |
+| 141070647 | VILDAGLIPTINA | PHARLAB INDÚSTRIA FARMACÊUTICA S.A. | Ativo |
+| 146820116 | MAHAN | SUN FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 155370117 | VILDAGLIPTINA | ACCORD FARMACÊUTICA LTDA | Ativo |
+| 155370121 | VILDAGLIPTINA + CLORIDRATO DE METFORMINA | ACCORD FARMACÊUTICA LTDA | Ativo |
+| 155840654 | VILDAGLIPTINA | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 155840702 | VILDAGLIPTINA + CLORIDRATO DE METFORMINA | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 165070055 | VILDAGLIPTINA | CAMBER FARMACEUTICA LTDA | Ativo |
+| 169170004 | LUNIERA | BIOTEC BIOLOGICA INDÚSTRIA FARMACÊUTICA LTDA. | Ativo |
+| 178170952 | GAVIDI | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Ativo |
+| 182610016 | VILDAGLIPTINA | NATCOFARMA DO BRASIL LTDA | Ativo |
+| 182610017 | GLYTCO | NATCOFARMA DO BRASIL LTDA | Ativo |
+| 182610029 | VILDAGLIPTINA + CLORIDRATO DE METFORMINA | NATCOFARMA DO BRASIL LTDA | Ativo |
+| 182610032 | MET-GLYTCO | NATCOFARMA DO BRASIL LTDA | Ativo |
+| 100470551 | JALRA | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100470552 | JALRA MET | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 36 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

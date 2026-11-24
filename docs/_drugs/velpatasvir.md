@@ -82,6 +82,17 @@ A relevância clínica real está na **coinfecção HCV/HBV**. Durante o tratame
 | [35579223](https://pubmed.ncbi.nlm.nih.gov/35579223/) | 2022 | Revisão | Eur J Gen Pract | Diagnóstico e tratamento da hepatite C crônica |
 | [31041789](https://pubmed.ncbi.nlm.nih.gov/31041789/) | 2019 | Revisão | Semin Liver Dis | Retratamento de pacientes com HCV após falha de antivirais de ação direta |
 
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 109290003 | EPCLUSA | GILEAD SCIENCES FARMACEUTICA DO BRASIL LTDA | Ativo |
+| 109290010 | VOSEVI | GILEAD SCIENCES FARMACEUTICA DO BRASIL LTDA | Ativo |
+
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 - **Interações Medicamentosas**: foram identificadas 57 interações no total; entre as listadas, as de gravidade **maior** envolvem a dexametasona e os inibidores da bomba de prótons (dexlansoprazol, esomeprazol, lansoprazol, omeprazol, pantoprazol e rabeprazol). As de gravidade **moderada** incluem antiácidos (hidróxido de alumínio, carbonato de cálcio, magaldrato, compostos de magnésio), antagonistas H2 (cimetidina, famotidina, nizatidina) e naldemedina. As de gravidade **menor** incluem fidaxomicina, naloxegol e prucaloprida.

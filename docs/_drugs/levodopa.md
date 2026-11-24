@@ -62,6 +62,42 @@ A encefalite de Rasmussen é uma doença rara, crônica e unilateral, caracteriz
 
 A pontuação elevada do TxGNN (0.9906) vem do modelo de deep learning TxGNN e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas (por exemplo, envolvimento dos gânglios da base, transtornos do movimento ou fenótipos neurológicos sobrepostos), e não evidência biológica nem uma justificativa terapêutica real. Portanto, o vínculo mecanístico é fraco e não está documentado. Teoricamente, a levodopa poderia até piorar convulsões ou sintomas neuropsiquiátricos, embora isso não seja sustentado pelos dados fornecidos.
 
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100470632 | STALEVO | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 101000064 | PROLOPA | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Ativo |
+| 102351326 | LEVODOPA + CLORIDRATO DE BENSERAZIDA | EMS S/A | Ativo |
+| 102980107 | PARKIDOPA | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103700237 | CARBIDOL | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700703 | CARBIDOPA MONOIDRATADA + LEVODOPA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 105730443 | EKSON | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730696 | LEVODOPA+CLORIDRATO DE BENSERAZIDA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105830952 | LEBENS | GERMED FARMACEUTICA LTDA | Ativo |
+| 110390230 | LEVODOPA + CLORIDRATO DE BENSERAZIDA | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Ativo |
+| 118190444 | LEVRASIDA | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 156510103 | CARBIDOPA + LEVODOPA | ZYDUS NIKKHO FARMACÊUTICA LTDA | Ativo |
+| 156510113 | DUOSYNC | ZYDUS NIKKHO FARMACÊUTICA LTDA | Ativo |
+| 100290017 | CRONOMET | ORGANON FARMACÊUTICA LTDA. | Cancelado |
+| 100290145 | SINEMET | ORGANON FARMACÊUTICA LTDA. | Cancelado |
+| 100680962 | STALEVO | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 102350322 | ANTIPARK | EMS S/A | Cancelado |
+| 104650181 | PARKLEN | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 105250021 | DUODOPA CR | TORRENT DO BRASIL LTDA | Cancelado |
+| 105730444 | LEVODOPA+CLORIDRATO DE BENSERAZIDA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Cancelado |
+| 109740058 | LEVOCARB | BIOLAB SANUS FARMACÊUTICA LTDA | Cancelado |
+| 110650045 | SINEMET | PRODOME QUÍMICA E FARMACÊUTICA LTDA | Cancelado |
+| 112130227 | CARBIDOPA / LEVODOPA | BIOSINTÉTICA FARMACÊUTICA LTDA | Cancelado |
+| 112130449 | LEVODOPA+CLORIDRATO DE BENSERAZIDA | BIOSINTÉTICA FARMACÊUTICA LTDA | Cancelado |
+| 126750364 | LEVRASIDA | NOVA QUIMICA FARMACÊUTICA S/A | Cancelado |
+| 155840115 | PARKLEN | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Cancelado |
+| 172870391 | PARKLEN | HYPERA S.A. | Cancelado |
+
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 - **Contraindicações descritas no grafo de conhecimento** (não são texto de bula): doenças que o grafo associa como contraindicação à levodopa incluem:

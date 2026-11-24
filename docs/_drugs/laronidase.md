@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Laronidase"
 predicted_indications: ["Sanfilippo syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Laronidase: nova indicação prevista, Síndrome de Sanfilippo (Sanfilippo syndrome) (nível de evidência L5). No Brasil, registros na ANVISA: 2 (ativos: 1)"
 ---
 
@@ -79,6 +79,17 @@ Nenhuma publicação testa a laronidase na síndrome de Sanfilippo. Os estudos a
 | [33139350](https://pubmed.ncbi.nlm.nih.gov/33139350/) | 2021 | Coorte (MPS I) | Arch Dis Child | Tempo até o tratamento melhorou ao longo de 15 anos, mas não o tempo até o diagnóstico |
 | [12196045](https://pubmed.ncbi.nlm.nih.gov/12196045/) | 2002 | Revisão | BioDrugs | Desenvolvimento da laronidase como reposição enzimática para MPS I |
 | [23251908](https://pubmed.ncbi.nlm.nih.gov/23251908/) | 2012 | In vitro | Acta Biochim Pol | Comparação entre silenciamento por siRNA de genes de síntese de GAG e laronidase em cultura celular; sem citotoxicidade da enzima e efeitos citotóxicos de alguns siRNAs em linhagem celular de MPS IIIA |
+
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 183260344 | ALDURAZYME | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+| 113001188 | ALDURAZYME | SANOFI-AVENTIS FARMACÊUTICA LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

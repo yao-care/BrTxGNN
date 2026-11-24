@@ -84,6 +84,45 @@ A dermatite atópica e a dermatite seborreica são dermatoses inflamatórias cr�
 | [15461548](https://pubmed.ncbi.nlm.nih.gov/15461548/) | 2004 | Revisão | Expert Opinion on Pharmacotherapy | Tacrolimo pomada no tratamento da dermatite atópica e de outras doenças inflamatórias cutâneas |
 | [11770914](https://pubmed.ncbi.nlm.nih.gov/11770914/) | 2001 | Revisão | Seminars in Cutaneous Medicine and Surgery | Experiências com imunomoduladores tópicos em psoríase, dermatite seborreica, líquen plano e outras doenças |
 
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100330160 | TARFIC | LIBBS FARMACÊUTICA LTDA | Ativo |
+| 102351030 | TACROLIL | EMS S/A | Ativo |
+| 102351245 | TACROLIMO | EMS S/A | Ativo |
+| 105830916 | TACROLIMO | GERMED FARMACEUTICA LTDA | Ativo |
+| 105830934 | ATOBACH | GERMED FARMACEUTICA LTDA | Ativo |
+| 110130275 | TACROZ | GLENMARK FARMACÊUTICA LTDA | Ativo |
+| 110630129 | TACROLIMO | FUNDAÇÃO OSWALDO CRUZ | Ativo |
+| 118190386 | TACROLIMO | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 165070001 | TACROFORT | CAMBER FARMACEUTICA LTDA | Ativo |
+| 165070018 | TACROLIMO MONOIDRATADO | CAMBER FARMACEUTICA LTDA | Ativo |
+| 167730572 | TACROLIMO | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 167730596 | CROPOC | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 177170007 | PROGRAF | ASTELLAS FARMA BRASIL IMPORTAÇÃO E DISTRIBUIÇÃO DE | Ativo |
+| 185690007 | PROTOPIC | LEO PHARMA LTDA | Ativo |
+| 185690017 | TACROLIMO | LEO PHARMA LTDA | Ativo |
+| 100330173 | TACROLIMO | LIBBS FARMACÊUTICA LTDA | Cancelado |
+| 100470510 | TACROLIMO MONOIDRATADO | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100470511 | PROLIMUS | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101000634 | PROTOPIC | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Cancelado |
+| 102351031 | TACROLIMO | EMS S/A | Cancelado |
+| 105830271 | FK SIGMA | GERMED FARMACEUTICA LTDA | Cancelado |
+| 105830729 | TACROLIMO | GERMED FARMACEUTICA LTDA | Cancelado |
+| 110390183 | TACROLIMO | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Cancelado |
+| 110500046 | LIFALTACROLIMUS | LAB INDL FTCO ALAGOAS SA - LIFAL | Cancelado |
+| 110500048 | LIFALTACROLIMUS | LAB INDL FTCO ALAGOAS SA - LIFAL | Cancelado |
+| 110500049 | TACROLIMO | LAB INDL FTCO ALAGOAS SA - LIFAL | Cancelado |
+| 112363347 | PROGRAF | JANSSEN-CILAG FARMACÊUTICA LTDA | Cancelado |
+| 123610071 | TACROFORT | UCB BIOPHARMA LTDA. | Cancelado |
+| 126750305 | TACROLIMO | NOVA QUIMICA FARMACÊUTICA S/A | Cancelado |
+| 177170004 | PROTOPIC | ASTELLAS FARMA BRASIL IMPORTAÇÃO E DISTRIBUIÇÃO DE | Cancelado |
+
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 - **Contraindicações (associações do grafo de conhecimento, não texto de bula)**: o grafo de conhecimento associa o tacrolimo a condições como hipertensão, síndrome do QT longo, torsades de pointes, insuficiência hepática, doença renal, epilepsia, hiperglicemia e diabetes mellitus, cetoacidose diabética, infecções (incluindo herpes simples e herpes zóster), mononucleose infecciosa, câncer, linfomas (incluindo linfoma primário do SNC), leucoencefalopatia multifocal progressiva, síndrome de leucoencefalopatia posterior, delirium, deficiência intelectual e anemias aplásticas hereditárias. Essas associações refletem sobretudo a exposição sistêmica (uso oral/intravenoso) e devem ser interpretadas com cautela para a via tópica.

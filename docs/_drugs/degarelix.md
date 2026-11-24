@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "DEGARELIX"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "malformation syndrome with odontal and/or periodontal component", "isolated genetic hair shaft abnormality", "allergic urticaria", "cold urticaria", "familial male-limited precocious puberty", "centra precocious puberty 1", "familial isolated trichomegaly"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Degarelix: nova indicação prevista, Hipertricose (hypertrichosis (disease)) (nível de evidência L5). No Brasil, registros na ANVISA: 1 (ativos: 1)"
 ---
 
@@ -60,6 +60,16 @@ Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (P
 A relação com a hipertricose é fraca. A hipertricose costuma ser um crescimento excessivo de pelos que não depende de androgênios (ao contrário do hirsutismo), de modo que suprimir androgênios não deveria, em princípio, corrigi-la. A pontuação muito alta (0,9999) reflete apenas a previsão do modelo, sem estudos que a sustentem.
 
 Portanto, a plausibilidade mecanística é baixa e a previsão deve ser tratada como hipótese a ser investigada, não como indicação com respaldo clínico.
+
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 128760017 | FIRMAGON | LABORATÓRIOS FERRING LTDA | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

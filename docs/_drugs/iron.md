@@ -62,6 +62,35 @@ Portanto, a plausibilidade biológica é baixa e a previsão deve ser tratada co
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 117720023 | DIPIRONA SÓDICA | EQUIPLEX INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 167730586 | DIPIRONA MONOHIDRATADA | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 180370001 | IOPAMIRON | BRACCO IMAGING DO BRASIL IMPORTAÇÃO E DISTRIBUIÇÃO | Ativo |
+| 100490105 | CALM. DOR | LABORATÓRIO SAÚDE LTDA | Cancelado |
+| 103700345 | NOGRIPE | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
+| 103700480 | SEDALGINA | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
+| 103920156 | BROMETO N-BUTILESCOPOLAMINA + DIPIRONA SODICA | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Cancelado |
+| 104300034 | CORDIRON | DIFFUCAP - CHEMOBRÁS QUÍMICA E FARMACÊUTICA LTDA | Cancelado |
+| 104650491 | NEOCOPAN | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 104810082 | EUCALIPTOL, TERPINEOL, GUAIACOL GLICERIL ÉTER E DIPIRONA | 1FARMA INDUSTRIA FARMACEUTICA LTDA | Cancelado |
+| 104970027 | ESPASMODID COMPOSTO | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Cancelado |
+| 105770151 | BUSCOVERAN COMPOSTO | LABORATIL FARMACEUTICA LTDA | Cancelado |
+| 106750056 | DIPIRONA SODICA | LABORATÓRIOS STIEFEL LTDA | Cancelado |
+| 110860037 | AMIRONA | LASA INDÚSTRIA FARMACÊUTICA LTDA. | Cancelado |
+| 121530001 | RIBAVIRON C | BIOLUNIS FARMACÊUTICA LTDA | Cancelado |
+| 137640040 | ALDOSTERIN | ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 148250001 | DIPIRONA SODICA | S. B. NETO | Cancelado |
+| 151700012 | TERMOSIL | ISOFARMA INDUSTRIAL FARMACÊUTICA LTDA | Cancelado |
+| 170420023 | BUTILBROMETO DE ESCOPOLAMINA + DIPIRONA | MCG INDUSTRIA FARMACEUTICA E IMPORTAÇAO LTDA | Cancelado |
+| 183260444 | LASILACTONA | SANOFI MEDLEY FARMACÊUTICA LTDA. | Cancelado |
+
+Os dados contêm apenas parte dos registros; a lista pode estar incompleta.
+
+<!-- licenses:end -->
+
 O ferro está comercializado no Brasil, com registros válidos e cancelados. Os dados disponíveis são parciais, portanto a lista de registros pode estar incompleta.
 
 <!-- review:begin br-lic-20261112-iron-1 -->

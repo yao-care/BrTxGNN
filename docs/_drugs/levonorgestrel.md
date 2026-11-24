@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 414
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "LEVONORGESTREL"
 predicted_indications: ["acne (disease)", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
 description: "Levonorgestrel: nova indicação prevista, acne (acne (disease)) (nível de evidência L2). No Brasil, registros na ANVISA: 95 (ativos: 33)"
@@ -80,7 +80,52 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Há 95 registros no total, dos quais 33 válidos e 62 cancelados. O detalhamento por registro não está disponível nos dados compilados para este relatório.
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100330125 | POZATO UNI | LIBBS FARMACÊUTICA LTDA | Ativo |
+| 102350484 | NOCICLIN 21 | EMS S/A | Ativo |
+| 104970286 | CICLO 21 | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971216 | PILEM | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971493 | MICROVLAR | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971498 | NEOVLAR | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971501 | TRIQUILAR | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971502 | MIRANOVA | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971569 | CICLOPRIMOGYNA | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 105730774 | HORA H | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 109740061 | GESTRELAN | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 109740115 | LEVEL | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 109740267 | LEVONORGESTREL + ETINILESTRADIOL | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 109740311 | LEVONORGESTREL + ETINILESTRADIOL | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 115600199 | LEVONORGESTREL + ETINILESTRADIOL | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
+| 115600211 | ANULOV | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
+| 115600213 | LEVONORGESTREL | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
+| 115600219 | POSLOV | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
+| 115600220 | LINOFEME | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
+| 119130004 | LEVONORGESTREL | DKT DO BRASIL PRODUTOS DE USO PESSOAL LTDA | Ativo |
+| 119130005 | SAYA CONTROL | DKT DO BRASIL PRODUTOS DE USO PESSOAL LTDA | Ativo |
+| 121100001 | NORDETTE | PFIZER BRASIL LTDA | Ativo |
+| 123520267 | LEVONORGESTREL | RANBAXY FARMACÊUTICA LTDA | Ativo |
+| 123520279 | LEVONORGESTREL + ETINILESTRADIOL | RANBAXY FARMACÊUTICA LTDA | Ativo |
+| 143810088 | DIAD | CIMED INDUSTRIA S.A | Ativo |
+| 143810255 | LEVONORGESTREL | CIMED INDUSTRIA S.A | Ativo |
+| 146820089 | LEVONORGESTREL | SUN FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 155840079 | NEODIA | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 155840148 | LEVONORGESTREL | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 170560106 | MIRENA | BAYER S.A. | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 95 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
+
+<!-- review:begin br-lic-20261124c-levonorgestrel-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “O detalhamento por registro não está disponível nos dados compilados para este relatório.” Removido: a frase dizia que a lista de registros não estava disponível ou não seria apresentada; esta seção agora traz a tabela de registros gerada por programa a partir dos dados abertos de medicamentos da ANVISA, com todos os registros do medicamento nos dados (os números atualizados estão no resumo rápido e na tabela). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124c-levonorgestrel-1 -->
+
+Há 95 registros no total, dos quais 33 válidos e 62 cancelados.
 
 ## Considerações de Segurança
 
@@ -106,11 +151,12 @@ Consulte a bula para as advertências e contraindicações oficiais.
 
 ## Registro de verificação
 
-Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Skyla (levonorgestrel) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f44ff35-e052-49cd-a1c2-0bfd87d49309) |
+| 2026-11-24 | Removido: “O detalhamento por registro não está disponível nos dados compilados para este relatório.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

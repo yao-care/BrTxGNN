@@ -78,6 +78,17 @@ A via MAPK e a angiogênese são vias plausíveis em sarcomas de partes moles, e
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 155370120 | TOSILATO DE SORAFENIBE | ACCORD FARMACÊUTICA LTDA | Ativo |
+| 155370124 | SOFANYR | ACCORD FARMACÊUTICA LTDA | Ativo |
+| 170560029 | NEXAVAR | BAYER S.A. | Ativo |
+| 104290176 | NEXAVAR | BAYER S.A. | Cancelado |
+
+<!-- licenses:end -->
+
 O medicamento consta como comercializado no Brasil, com registros válidos e cancelados (números atualizados no resumo rápido).
 
 <!-- review:begin br-lic-20261106-sorafenib-1 -->

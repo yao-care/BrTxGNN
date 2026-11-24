@@ -64,13 +64,53 @@ A doença renal hipertensiva maligna é uma complicação grave de órgão-alvo 
 
 ## Informações de Comercialização no Brasil
 
-Os registros são parciais (a lista pode estar incompleta), e os detalhes de cada registro não constam nos dados compilados.
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431536 | BIZO | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431537 | HEMIFUMARATO DE BISOPROLOL | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100890194 | CONCOR | MERCK S/A | Ativo |
+| 100890372 | CONCOR HCT | MERCK S/A | Ativo |
+| 100890384 | HEMIFUMARATO DE BISOPROLOL | MERCK S/A | Ativo |
+| 100890413 | CONCOR ANLO | MERCK S/A | Ativo |
+| 102350892 | HEMIFUMARATO DE BISOPROLOL | EMS S/A | Ativo |
+| 102351306 | CONCÁRDIO | EMS S/A | Ativo |
+| 103900233 | LAIO | FARMOQUÍMICA S/A | Ativo |
+| 105250078 | HEMIFUMARATO DE BISOPROLOL | TORRENT DO BRASIL LTDA | Ativo |
+| 105250082 | ICCOR | TORRENT DO BRASIL LTDA | Ativo |
+| 105831028 | HEMIFUMARATO DE BISOPROLOL | GERMED FARMACEUTICA LTDA | Ativo |
+| 118190455 | HEMIFUMARATO DE BISOPROLOL | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 123520284 | HEMIFUMARATO DE BISOPROLOL | RANBAXY FARMACÊUTICA LTDA | Ativo |
+| 141070652 | HEMIFUMARATO DE BISOPROLOL | PHARLAB INDÚSTRIA FARMACÊUTICA S.A. | Ativo |
+| 154230368 | HEMIFUMARATO DE BISOPROLOL | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 155840673 | HEMIFUMARATO DE BISOPROLOL | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 156490004 | FUMARATO DE BISOPROLOL+ HIDROCLOROTIAZIDA | UNICHEM FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 183260301 | CORAPROL | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+| 183260305 | HEMIFUMARATO DE BISOPROLOL | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+| 100470372 | FUMARATO DE BISOPROLOL | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100890201 | BICONCOR | MERCK S/A | Cancelado |
+| 102351033 | CONCÁRDIO | EMS S/A | Cancelado |
+| 105830592 | FUMARATO DE BISOPROLOL | GERMED FARMACEUTICA LTDA | Cancelado |
+| 126750216 | HEMIFUMARATO DE BISOPROLOL | NOVA QUIMICA FARMACÊUTICA S/A | Cancelado |
+| 135690473 | FUMARATO DE BISOPROLOL | EMS SIGMA PHARMA LTDA | Cancelado |
+| 156490005 | PREBLOC - H | UNICHEM FARMACÊUTICA DO BRASIL LTDA | Cancelado |
+| 167730001 | FUMARATO DE BISOPROLOL | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 167730342 | BISOPRO-GRAN | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 <!-- review:begin br-lic-20261106-bisoprolol-1 -->
 
 > **Correção de verificação (2026-11-06)**: Texto original: “A situação de mercado no Brasil é de medicamento comercializado, com 13 registros válidos e 7 cancelados. Os registros são parciais (a lista pode estar incompleta), e os detalhes de cada registro não constam nos dados compilados.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-bisoprolol-1 -->
+
+<!-- review:begin br-lic-20261124c-bisoprolol-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Os registros são parciais (a lista pode estar incompleta), e os detalhes de cada registro não constam nos dados compilados.” Removido: a frase dizia que a lista de registros seria parcial ou não estaria disponível; os dados abertos de medicamentos da ANVISA usados nesta página trazem todos os registros do medicamento, que estão na tabela desta seção gerada por programa (os números atualizados estão no resumo rápido e na tabela). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124c-bisoprolol-1 -->
 
 ## Considerações de Segurança
 
@@ -103,6 +143,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 |------|------|------|------|
 | 2026-11-06 | Removido: “A situação de mercado no Brasil é de medicamento comercializado, com 13 registros válidos e 7 cancelados” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: bisoprolol fumarate prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6517d564-ea55-4084-a8ab-34fea548c24e) |
+| 2026-11-24 | Removido: “Os registros são parciais (a lista pode estar incompleta), e os detalhes de cada registro não constam nos dados compilados.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

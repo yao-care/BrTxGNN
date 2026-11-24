@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 72
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Apixaban"
 predicted_indications: ["migraine disorder"]
 description: "Apixaban: nova indicação prevista, transtorno de enxaqueca (migraine disorder) (nível de evidência L5). No Brasil, registros na ANVISA: 35 (ativos: 28)"
@@ -77,7 +77,52 @@ Os únicos relatos específicos da apixabana apontam em direções que não sust
 
 ## Informações de Comercialização no Brasil
 
-Segundo os dados compilados, a apixabana está comercializada no Brasil, com 35 registros no total: 28 válidos e 7 cancelados. A lista detalhada de registros não está disponível nos dados compilados.
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431581 | PIXAR | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431598 | APIXABANA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100470648 | APIXABANA | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 101180657 | APICS | APSEN FARMACEUTICA S/A | Ativo |
+| 101180658 | APIXABANA | APSEN FARMACEUTICA S/A | Ativo |
+| 102351434 | APIXABANA | EMS S/A | Ativo |
+| 105250122 | IXABI | TORRENT DO BRASIL LTDA | Ativo |
+| 105250123 | APIXABANA | TORRENT DO BRASIL LTDA | Ativo |
+| 105831045 | APIXABANA | GERMED FARMACEUTICA LTDA | Ativo |
+| 109740353 | EMBO | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 109740379 | APIXABANA | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 118190487 | APIXABANA | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 121100464 | ELIQUIS | PFIZER BRASIL LTDA | Ativo |
+| 141070673 | APIXABANA | PHARLAB INDÚSTRIA FARMACÊUTICA S.A. | Ativo |
+| 151430105 | APIXABANA | DR. REDDYS FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 155370091 | APIXABANA | ACCORD FARMACÊUTICA LTDA | Ativo |
+| 155370097 | APIXORD | ACCORD FARMACÊUTICA LTDA | Ativo |
+| 155840616 | APIXABANA | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 155840636 | APIXNEO | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 156510089 | APIXABANA | ZYDUS NIKKHO FARMACÊUTICA LTDA | Ativo |
+| 156510096 | HARTERYA | ZYDUS NIKKHO FARMACÊUTICA LTDA | Ativo |
+| 169170003 | IXOBAM | BIOTEC BIOLOGICA INDÚSTRIA FARMACÊUTICA LTDA. | Ativo |
+| 170420006 | APIXABANA | MCG INDUSTRIA FARMACEUTICA E IMPORTAÇAO LTDA | Ativo |
+| 178170921 | PICBAM | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Ativo |
+| 182610009 | APIXABANA | NATCOFARMA DO BRASIL LTDA | Ativo |
+| 182610026 | HALLIS | NATCOFARMA DO BRASIL LTDA | Ativo |
+| 183260487 | APIXABANA | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+| 188300099 | EKNUS | VIATRIS FARMACEUTICA DO BRASIL LTDA | Ativo |
+| 100470652 | PIXTEN | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101800400 | ELIQUIS | BRISTOL-MYERS SQUIBB FARMACÊUTICA LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 35 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
+
+Segundo os dados compilados, a apixabana está comercializada no Brasil, com 35 registros no total: 28 válidos e 7 cancelados.
+
+<!-- review:begin br-lic-20261124c-apixaban-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “A lista detalhada de registros não está disponível nos dados compilados.” Removido: a frase dizia que a lista de registros não estava disponível ou não seria apresentada; esta seção agora traz a tabela de registros gerada por programa a partir dos dados abertos de medicamentos da ANVISA, com todos os registros do medicamento nos dados (os números atualizados estão no resumo rápido e na tabela). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124c-apixaban-1 -->
 
 ## Considerações de Segurança
 
@@ -109,11 +154,12 @@ Consulte a bula para advertências e contraindicações.
 
 ## Registro de verificação
 
-Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Eliquis (apixaban) prescribing information, Aphena Pharma Solutions - Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41a133ef-e461-48ad-8221-b735bdd0ec25) |
+| 2026-11-24 | Removido: “A lista detalhada de registros não está disponível nos dados compilados.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

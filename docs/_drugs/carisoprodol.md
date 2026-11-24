@@ -71,6 +71,47 @@ Atualmente não há ensaios clínicos relacionados registrados.
 |------|-----|------|------|---------|
 | [22963024](https://pubmed.ncbi.nlm.nih.gov/22963024/) | 2012 | Revisão | American Family Physician | Revisão sobre câimbras noturnas nas pernas, que podem causar insônia intensa. Trata-se de evidência indireta: não avalia o carisoprodol como tratamento para insônia. |
 
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431230 | CARISOPRODOL + DICLOFENACO DE SÓDIO + PARACETAMOL+ CAFEÍNA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431241 | TRIMUSK | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100470267 | TRILAX | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 101430072 | BESEROL | MEGALABS FARMACEUTICA S.A. | Ativo |
+| 102350551 | INFRALAX | EMS S/A | Ativo |
+| 104400190 | TANDENE | CELLERA FARMACEUTICA S.A. | Ativo |
+| 104400224 | TANDERALGIN | CELLERA FARMACEUTICA S.A. | Ativo |
+| 104400225 | CARISOPRODOL + DICLOFENACO SÓDICO + PARACETAMOL + CAFEÍNA | CELLERA FARMACEUTICA S.A. | Ativo |
+| 104971511 | PARACETAMOL + CARISOPRODOL + DICLOFENACO SÓDICO + CAFEÍNA | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971527 | TANDRIFLAN | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 105730100 | TANDRILAX | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730195 | TOSAKS | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 154230027 | FLEXALGIN | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 154230325 | PARACETAMOL + CARISOPRODOL + DICLOFENACO SÓDICO + CAFEÍNA | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 155840234 | TORSILAX | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 167730653 | TORFLAY | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 167730654 | PARACETAMOL + CAFEÍNA + CARISOPRODOL + DICLOFENACO SÓDICO | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 178170813 | MIOFLEX A | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Ativo |
+| 100890035 | PARACETAMOL ASSOCIADO | MERCK S/A | Cancelado |
+| 102850027 | PACEFLEX | LABORATORIOS GEMBALLA LTDA | Cancelado |
+| 102940083 | DICLOFETAMOL | NEOLATINA COMÉRCIO E INDÚSTRIA FARMACEUTICA S.A | Cancelado |
+| 103700150 | SEDILAX | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
+| 103920043 | TENSILAX | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Cancelado |
+| 103940469 | MIOFLEX A | LABORATÓRIO AMERICANO DE FARMACOTERAPIA S/A | Cancelado |
+| 103940481 | MIOFLEX | LABORATÓRIO AMERICANO DE FARMACOTERAPIA S/A | Cancelado |
+| 104400095 | TANDERALGIN | CELLERA FARMACEUTICA S.A. | Cancelado |
+| 104650220 | TORSILAX | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 104971158 | TANDRIFLAN | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Cancelado |
+| 105710095 | TANDROTAMOL | BELFAR LTDA | Cancelado |
+| 105730021 | DORILAX | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 52 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 - **Contraindicações previstas pelo grafo de conhecimento (PrimeKG, não extraídas da bula)**: epilepsia, doença renal, doença hepática, doença da vesícula biliar, trombocitopenia, hipotireoidismo (incluindo mixedema e hipotireoidismo congênito), doença ulcerosa péptica, doença inflamatória intestinal, hiperplasia prostática benigna, distúrbios hipotensivos, gota, abuso/dependência de substâncias, hemofilia, anemia (incluindo macrocítica), colite por *Clostridium difficile*, enterocolite necrosante perinatal, parada cardíaca súbita, doenças da condução cardíaca, insuficiência respiratória e insuficiência adrenal (incluindo doença de Addison e formas congênitas).
@@ -100,7 +141,13 @@ A previsão baseia-se apenas no modelo (nível L5), sem ensaios clínicos e com 
 - Complementar os dados de mecanismo de ação (por exemplo, via DrugBank).
 - Buscar evidências clínicas diretas do carisoprodol ou do meprobamato na insônia.
 - Avaliar o risco de dependência e abuso frente aos hipnóticos já disponíveis.
-- Verificar a situação regulatória do fármaco no Brasil, já que não há registros.
+- Verificar a situação regulatória do fármaco no Brasil.
+
+<!-- review:begin br-lic-20261124c-carisoprodol-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “no Brasil, já que não há registros.” Corrigido conforme os dados abertos de medicamentos da ANVISA: o medicamento tem registros no Brasil (válidos e cancelados), listados na tabela da seção de informações de comercialização; os números atualizados estão no resumo rápido. Só foi retirada a premissa errada; o restante do texto não foi alterado. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124c-carisoprodol-1 -->
 
 <!-- review:begin log -->
 
@@ -112,6 +159,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, o fármaco não está registrado no Brasil e apresenta importantes preocupações de segurança (dependência, sedação e interações com” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Carisoprodol Tablets, Usp, 350 Mg (carisoprodol) prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1f08f4af-37c2-49b5-a4e3-284414f866fa) |
+| 2026-11-24 | “no Brasil, já que não há registros.” → “no Brasil.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

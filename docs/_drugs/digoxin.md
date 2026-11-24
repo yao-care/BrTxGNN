@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "DIGOXIN"
 predicted_indications: ["Prinzmetal angina", "duodenal obstruction", "duodenal ulcer (disease)", "duodenogastric reflux", "hypoalphalipoproteinemia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Digoxin: nova indicação prevista, Angina de Prinzmetal (Prinzmetal angina) (nível de evidência L5). No Brasil, registros na ANVISA: 56 (ativos: 6)"
 ---
 
@@ -68,6 +68,47 @@ Atualmente não há ensaios clínicos relacionados registrados.
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
 | [10736610](https://pubmed.ncbi.nlm.nih.gov/10736610/) | 1999 | Revisão | Acta Physiologica et Pharmacologica Bulgarica | Revisão sobre cronofarmacologia e ritmos circadianos no tratamento anti-hipertensivo; não aborda digoxina nem angina vasospástica |
+
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 103700458 | DIGOXINA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700665 | CARDCOR | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103920166 | DIGOXINA | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 110390027 | FURP-DIGOXINA | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Ativo |
+| 125680092 | DIGOXINA | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 141070059 | DIGOXINA | PHARLAB INDÚSTRIA FARMACÊUTICA S.A. | Ativo |
+| 100020077 | CARDIOXINA | LABORATORIO SEDABEL LTDA | Cancelado |
+| 100140073 | DIGOCARD | QUIMICA FARMACEUTICA NIKKHO DO BRASIL LTDA | Cancelado |
+| 100250079 | DIGOXINA | GLAXO WELLCOME S/A | Cancelado |
+| 100250084 | DIGOXINA | GLAXO WELLCOME S/A | Cancelado |
+| 100330047 | TRENDEN | LIBBS FARMACÊUTICA LTDA | Cancelado |
+| 100430095 | NADROXEN | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100920039 | NIILIS | LABORATORIO INDUSTRIAL FARMACÊUTICO LIFAR LTDA | Cancelado |
+| 101070200 | DIGOXINA | GLAXOSMITHKLINE BRASIL LTDA | Cancelado |
+| 101460071 | DIGOBAL | LABORATÓRIOS BALDACCI LTDA | Cancelado |
+| 101620135 | DARROWCOR | LABORATÓRIOS PIERRE FABRE DO BRASIL LTDA | Cancelado |
+| 102350310 | DIGOXIL | EMS S/A | Cancelado |
+| 102350876 | DIGOXINA | EMS S/A | Cancelado |
+| 102700113 | DIGITAX | ARISTON INDS QUIMS FTCAS LTDA | Cancelado |
+| 102940094 | CARDIONIL | NEOLATINA COMÉRCIO E INDÚSTRIA FARMACEUTICA S.A | Cancelado |
+| 102980009 | DIGOCRIS | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Cancelado |
+| 103110055 | CARDIOXINA | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Cancelado |
+| 103700107 | CARDCOR | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
+| 103920071 | DIGOXAN | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Cancelado |
+| 104040183 | GOXIN | LUPER INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 104650200 | NEO DIGOXIN | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 104650415 | DIGOXINA | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 104970209 | UNI - DIGOXIN | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Cancelado |
+| 105350115 | CARDGOX | LABORATÓRIO GLOBO SA | Cancelado |
+| 105430074 | CARODESIN | INSTITUTO FARMOTERAPICO NEOVITA LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 56 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

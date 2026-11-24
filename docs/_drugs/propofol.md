@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 554
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Propofol: nova indicação prevista, Enxaqueca (Migraine Disorder) (nível de evidência L2). Indicação original: Não disponível nos dados de registro da ANVISA (uso conhecido: aneste…"
 monitor_inn: "Propofol"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Prinzmetal angina", "nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]
@@ -88,6 +88,38 @@ Outras previsões do modelo (por exemplo, angina de Prinzmetal, tendinite, fibro
 
 Não aplicável: o propofol não é antineoplásico, portanto esta seção foi omitida.
 
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100410160 | PROPOFOL | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100419932 | FRESOFOL | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100850133 | LIPURO | LABORATORIOS B. BRAUN S/A | Ativo |
+| 102980134 | PROPOVAN | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103700754 | PROPOFOL | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 104971449 | PROVIVE | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 106830191 | SPIVA MCT-LCT | BAXTER HOSPITALAR LTDA | Ativo |
+| 116370046 | PROFOLEN | BLAU FARMACÊUTICA S.A. | Ativo |
+| 116370144 | PROPOFOL | BLAU FARMACÊUTICA S.A. | Ativo |
+| 137040001 | PROPOTIL | MIDFARMA PRODUTOS FARMACEUTICOS LTDA | Ativo |
+| 137640155 | DIPRIVAN | ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 155840650 | HYFOL | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 165070010 | OPONAP® | CAMBER FARMACEUTICA LTDA | Ativo |
+| 165070011 | PROPOFOL | CAMBER FARMACEUTICA LTDA | Ativo |
+| 100430694 | PROLOF | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100430922 | PROPOFOL (PORT 344/98 - LISTA C1) | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100630209 | PROPOTIL | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 102980383 | PROPOFOL | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Cancelado |
+| 105530227 | PROPOABBOTT | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Cancelado |
+| 105530245 | PROPOFOL | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Cancelado |
+| 116180011 | DIPRIVAN | ASTRAZENECA DO BRASIL LTDA | Cancelado |
+| 123610014 | PRONEST | UCB BIOPHARMA LTDA. | Cancelado |
+| 142770003 | PROVIVE | CLARIS PRODUTOS FARMACÊUTICOS DO BRASIL LTDA | Cancelado |
+
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 - **Contraindicações segundo o grafo de conhecimento (não extraídas da bula)**: o grafo de conhecimento do TxGNN associa o propofol a contraindicação em epilepsia, distúrbio hipotensivo, insuficiência respiratória, arteriosclerose intracraniana, distúrbio hereditário do metabolismo lipídico e hiperlipidemia familiar.
@@ -105,21 +137,28 @@ Há um ensaio de Phase 2/3 concluído (n=74) e vários ensaios randomizados publ
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), lacuna considerada bloqueante para a triagem de segurança.
-- Confirmar a situação regulatória no Brasil, pois os dados compilados indicam ausência de registros ativos.
+- Confirmar a situação regulatória no Brasil.
 - Confirmar o mecanismo de ação em fonte oficial (por exemplo, DrugBank).
 - Realizar ensaios randomizados maiores e controlados, com definição de dose subanestésica, desfechos de recidiva e segurança.
 - Definir protocolo restrito a ambiente hospitalar/pronto-socorro com monitorização cardiorrespiratória e hemodinâmica, dada a via intravenosa e o risco de depressão respiratória e hipotensão.
 - Avaliar o risco em pacientes com epilepsia, hipotensão, insuficiência respiratória, distúrbios lipídicos e em doença coronariana.
 
+<!-- review:begin br-lic-20261124c-propofol-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “no Brasil, pois os dados compilados indicam ausência de registros ativos.” Corrigido conforme os dados abertos de medicamentos da ANVISA: o medicamento tem registros no Brasil (válidos e cancelados), listados na tabela da seção de informações de comercialização; os números atualizados estão no resumo rápido. Só foi retirada a premissa errada; o restante do texto não foi alterado. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124c-propofol-1 -->
+
 <!-- review:begin log -->
 
 ## Registro de verificação
 
-Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Diprivan (propofol) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e3105799-a4b6-f3f4-e6e2-b2b29bbdb538) |
+| 2026-11-24 | “no Brasil, pois os dados compilados indicam ausência de registros ativos.” → “no Brasil.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

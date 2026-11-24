@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 425
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "LORAZEPAM"
 predicted_indications: ["trigeminal nerve neoplasm"]
 description: "Lorazepam: nova indicação prevista, Neoplasia do Nervo Trigêmeo (trigeminal nerve neoplasm) (nível de evidência L5). No Brasil, registros na ANVISA: 24 (ativos: 7)"
@@ -73,6 +73,39 @@ Atualmente não há literatura relacionada à neoplasia do nervo trigêmeo.
 
 | Posição | Indicação prevista | Pontuação | Nível | Observação |
 |------|------|------|------|------|
+
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 102350498 | LORAZEPAM | EMS S/A | Ativo |
+| 103700371 | ANSIRAX | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700494 | LORAZEPAM (PORT.344/98, LISTA B1) | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 105830360 | LORAZEPAM | GERMED FARMACEUTICA LTDA | Ativo |
+| 118190375 | LORAZEPAM | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 121100035 | LORAX | PFIZER BRASIL LTDA | Ativo |
+| 167730275 | LORAZEPAM | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100430622 | LORIUM (PORT 28/86) | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100890320 | LORAZEPAM | MERCK S/A | Cancelado |
+| 100890342 | RAZELIM | MERCK S/A | Cancelado |
+| 101810458 | LORAZEPAM | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 104650260 | LORAPAN | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 104920151 | LORAZEPAM | BIOLAB FARMA GENERICOS LTDA | Cancelado |
+| 105830189 | MESMERIN | GERMED FARMACEUTICA LTDA | Cancelado |
+| 105830304 | LORAZEFAST | GERMED FARMACEUTICA LTDA | Cancelado |
+| 109740007 | MAX PAX | BIOLAB SANUS FARMACÊUTICA LTDA | Cancelado |
+| 123520074 | LORAZEPAM | RANBAXY FARMACÊUTICA LTDA | Cancelado |
+| 126750343 | LORAZEPAM | NOVA QUIMICA FARMACÊUTICA S/A | Cancelado |
+| 135690216 | LORAZEPAM | EMS SIGMA PHARMA LTDA | Cancelado |
+| 135690603 | LORAZEFAST | EMS SIGMA PHARMA LTDA | Cancelado |
+| 146680093 | LORAZEPAM (PORTARIA 344/98 LISTA B1) | APOTEX DO BRASIL LTDA | Cancelado |
+| 155840189 | LORAPAN | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Cancelado |
+| 172870123 | LORAPAN | HYPERA S.A. | Cancelado |
+| 183260051 | LORAZEPAM | SANOFI MEDLEY FARMACÊUTICA LTDA. | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

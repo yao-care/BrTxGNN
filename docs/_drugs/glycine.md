@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "GLYCINE"
 predicted_indications: ["nasal cavity disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Glycine: nova indicação prevista, Doença da cavidade nasal (nasal cavity disease) (nível de evidência L5). No Brasil, registros na ANVISA: pelo menos 20"
 ---
 
@@ -73,6 +73,37 @@ As duas publicações retornadas são pesquisas básicas sem ligação direta co
 |------|-----|------|------|---------|
 | [7771054](https://pubmed.ncbi.nlm.nih.gov/7771054/) | 1995 | Pesquisa básica | Veterinary Pathology | Histoquímica de lectinas na mucosa nasal bovina normal e infectada por herpesvírus; sem relação com glicina |
 | [29607903](https://pubmed.ncbi.nlm.nih.gov/29607903/) | 2018 | Pesquisa básica | Chemical & Pharmaceutical Bulletin | Oligoarginina conjugada a polímeros como adjuvante mucoso para indução de anticorpos nasais em camundongos; sem relação com glicina |
+
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 105530356 | PIASCLEDINE | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Ativo |
+| 105730280 | SOYFEMME | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 115570061 | HIZOFITO | INFAN INDUSTRIA QUIMICA FARMACEUTICA NACIONAL S/A | Ativo |
+| 117170062 | SOYNATI | PHARMASCIENCE INDUSTRIA FARMACEUTICA S.A | Ativo |
+| 120090030 | ISOCLIM | BIONATUS LABORATÓRIO BOTÂNICO LTDA | Ativo |
+| 138410070 | PAUSEFEMME | NATULAB LABORATORIO S.A | Ativo |
+| 144930072 | ISOVIT | AIRELA INDÚSTRIA FARMACÊUTICA LTDA. | Ativo |
+| 170560132 | GINO-MENOPAUSA | BAYER S.A. | Ativo |
+| 100820144 | PIASCLEDINE | ABBOTT PRODUTOS PARA SAÚDE LTDA. | Cancelado |
+| 103700398 | FITOSOY | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
+| 104041972 | SOYCLIM | LUPER INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 104150046 | ISOFLAVERITAS | LABORATORIO HANEMANIANA VERITAS LTDA | Cancelado |
+| 104670277 | ISOFARMA | LABORATORIO FARMAERVAS LTDA | Cancelado |
+| 118610226 | MENOP | ATIVUS FARMACÊUTICA LTDA | Cancelado |
+| 126060014 | AGLICON-SOY | STEVIAFARMA INDUSTRIAL S/A | Cancelado |
+| 126090141 | FLAVOMAX | AMAZON ERVAS LABORATÓRIO BOTÂNICO LTDA | Cancelado |
+| 137640136 | MENOP | ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 138410025 | ISOFLASOY | NATULAB LABORATORIO S.A | Cancelado |
+| 145010023 | ISOGLYCIN | BRASMED BOTÂNICA E FARMACÊUTICA LTDA | Cancelado |
+| 194270057 | BUONA | MOMENTA FARMACÊUTICA LTDA. | Cancelado |
+
+Os dados contêm apenas parte dos registros; a lista pode estar incompleta.
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

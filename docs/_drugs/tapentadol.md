@@ -78,6 +78,19 @@ Para a enxaqueca (previsão principal) não foi recuperada literatura. Nas indic
 
 Nenhum desses estudos demonstra eficácia do tapentadol em enxaqueca.
 
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 186100015 | PALEXIS® LP | GRÜNENTHAL DO BRASIL FARMACÊUTICA LTDA. | Ativo |
+| 186100018 | PALEXIS | GRÜNENTHAL DO BRASIL FARMACÊUTICA LTDA. | Ativo |
+| 112363407 | PALEXIS | JANSSEN-CILAG FARMACÊUTICA LTDA | Cancelado |
+| 186100011 | PALEXIS | GRÜNENTHAL DO BRASIL FARMACÊUTICA LTDA. | Cancelado |
+
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 - **Interações Medicamentosas**: foram identificadas 100 interações no total; entre as listadas, as de gravidade **Maior** incluem bupropiona, morfina, lorcasserina, dietilpropiona, dolasetrona, palonosetrona e fentermina. Há também interações de gravidade **Moderada**, como epinefrina, hiosciamina, atropina, glicopirrônio, diciclomina, trospio, naloxona, dronabinol, nabilona, eluxadolina, picossulfato de sódio, polietilenoglicol com eletrólitos e sulfato de sódio.

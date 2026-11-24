@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Alprostadil"
 predicted_indications: ["aortic malformation", "congenital tricuspid stenosis", "congenital valvular dysplasia", "straddling or overriding tricuspid valve", "tricuspid valve prolapse (disease)", "anomaly of the tricuspid subvalvular apparatus", "double outlet right ventricle with atrioventricular septal defect, pulmonary stenosis, heterotaxy", "heart septal defect", "endemic goiter"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Alprostadil: nova indicação prevista, Malformação aórtica (aortic malformation) (nível de evidência L5). No Brasil, registros na ANVISA: 11 (ativos: 3)"
 ---
 
@@ -78,6 +78,26 @@ Atualmente não há ensaios clínicos relacionados registrados.
 | [30184041](https://pubmed.ncbi.nlm.nih.gov/30184041/) | 2018 | Relato de caso | Braz J Cardiovasc Surg | Reparo cirúrgico de janela aortopulmonar complexa; milrinona e alprostadil usados no pré-operatório para reduzir a pressão pulmonar |
 | [19068708](https://pubmed.ncbi.nlm.nih.gov/19068708/) | 2008 | Relato de caso | Kyobu Geka | Arco aórtico interrompido tipo B em neonato, mantido com alprostadil e submetido a reparo em estágio único e hemodiafiltração contínua |
 | [20029353](https://pubmed.ncbi.nlm.nih.gov/20029353/) | 2009 | Pré-clínico (animal) | Minerva Chirurgica | Alprostadil atenuou a lesão de isquemia e reperfusão no músculo esquelético de ratos |
+
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 105730576 | PROSTAVASIN | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 121100407 | CAVERJECT | PFIZER BRASIL LTDA | Ativo |
+| 127480029 | ALPROXY | OPEM REPRESENTAÇÃO IMPORTADORA EXPORTADORA E DISTR | Ativo |
+| 100580084 | ADEXIL | CHIESI FARMACÊUTICA LTDA | Cancelado |
+| 102160203 | CAVERJECT | LABORATÓRIOS PFIZER LTDA | Cancelado |
+| 112130207 | EDEX | BIOSINTÉTICA FARMACÊUTICA LTDA | Cancelado |
+| 112130208 | PROSTAVASIN | BIOSINTÉTICA FARMACÊUTICA LTDA | Cancelado |
+| 116180081 | MUSE | ASTRAZENECA DO BRASIL LTDA | Cancelado |
+| 123890008 | PROSTIN VR | PHARMACIA BRASIL LTDA | Cancelado |
+| 127480008 | BEDFORDALPROST | OPEM REPRESENTAÇÃO IMPORTADORA EXPORTADORA E DISTR | Cancelado |
+| 135690491 | ALPRODIL | EMS SIGMA PHARMA LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

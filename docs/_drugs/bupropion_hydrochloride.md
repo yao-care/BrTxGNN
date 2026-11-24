@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB01156
 monitor_inn: "Bupropion"
 predicted_indications: ["attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "proximal 16p11.2 microdeletion syndrome", "hypervitaminosis", "benign paroxysmal torticollis of infancy", "trigeminal nerve neoplasm", "obsolete hypertelorism (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bupropion Hydrochloride: nova indicação prevista, Transtorno do Déficit de Atenção com Hiperatividade (attention deficit-hyperactivity disorder) (nível de evidência L2)."
 ---
 
@@ -94,6 +94,35 @@ Os dados compilados não trazem os resultados desses ensaios. É preciso verific
 Nenhuma dessas publicações é um ensaio randomizado de bupropiona no TDAH. A maior parte são revisões e metanálises que situam a bupropiona entre as opções terapêuticas.
 
 ## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 100330111 | ZETRON | Ativo |
+| 100430948 | BUP | Ativo |
+| 100431192 | CLORIDRATO DE BUPROPIONA | Ativo |
+| 100431337 | CLORIDRATO DE BUPROPIONA | Ativo |
+| 101070238 | WELLBUTRIN | Ativo |
+| 102351039 | CLORIDRATO DE BUPROPIONA | Ativo |
+| 102351231 | CLORIDRATO DE BUPROPIONA | Ativo |
+| 105830938 | CLORIDRATO DE BUPROPIONA | Ativo |
+| 105830986 | EUTYMIA XL | Ativo |
+| 105831027 | CLORIDRATO DE BUPROPIONA | Ativo |
+| 118190249 | CLORIDRATO DE BUPROPIONA | Ativo |
+| 118190280 | CLORIDRATO DE BUPROPIONA | Ativo |
+| 118190305 | DERADOP XL | Ativo |
+| 118190317 | NORADOP | Ativo |
+| 123520289 | CLORIDRATO DE BUPROPIONA | Ativo |
+| 125680298 | CLORIDRATO DE BUPROPIONA | Ativo |
+| 135690725 | BUPIUM XL | Ativo |
+| 154230252 | CLORIDRATO DE BUPROPIONA | Ativo |
+| 167730585 | CLORIDRATO DE BUPROPIONA | Ativo |
+| 103720276 | ALPES | Cancelado |
+
+Os dados contêm apenas parte dos registros; a lista pode estar incompleta.
+
+<!-- licenses:end -->
 
 A bupropiona está comercializada no Brasil, com registros vigentes de medicamentos de princípio ativo único. A lista de registros disponível é parcial, portanto pode haver outros além dos compilados.
 

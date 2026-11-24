@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Bevacizumab"
 predicted_indications: ["epiglottis neoplasm", "benign neoplasm of tongue", "tumor of testis and paratestis", "benign neoplasm of hypopharynx", "benign neoplasm of floor of mouth", "cervical neuroblastoma", "cystic neoplasm", "nasal cavity inverting papilloma", "mesenchymoma", "schwannoma of jugular foramen"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bevacizumab: nova indicação prevista, neoplasia da epiglote (epiglottis neoplasm) (nível de evidência L5). No Brasil, registros na ANVISA: 12 (ativos: 10)"
 ---
 
@@ -62,7 +62,32 @@ Tumores de cabeça e pescoço, região a que pertence a epiglote, costumam depen
 
 ## Informações de Comercialização no Brasil
 
-Segundo os dados compilados, o medicamento consta como comercializado, com 10 registros válidos e 2 cancelados. A lista detalhada de registros (nome comercial, forma farmacêutica) não está disponível nos dados compilados.
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100330214 | ELOVIE | LIBBS FARMACÊUTICA LTDA | Ativo |
+| 101000637 | AVASTIN | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Ativo |
+| 102440012 | MVASI | AMGEN BIOTECNOLOGIA DO BRASIL LTDA. | Ativo |
+| 103700790 | SIMBEVA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 116640001 | ABEVMY | BIOCON BIOLOGICS DO BRASIL LTDA | Ativo |
+| 121100474 | ZIRABEV | PFIZER BRASIL LTDA | Ativo |
+| 133480004 | BEVYX | BIOMM SA | Ativo |
+| 145310002 | BEVANOVIS | BIONOVIS S.A. - COMPANHIA BRASILEIRA DE BIOTECNOLO | Ativo |
+| 159210006 | ONBEVZI | SAMSUNG BIOEPIS BR PHARMACEUTICAL LTDA. | Ativo |
+| 192160005 | VEGZELMA | CELLTRION HEALTHCARE DISTRIBUICAO DE PRODUTOS FARM | Ativo |
+| 167130002 | ABEVMY | EQUILIBRIO COMERCIO DE PRODUTOS FARMACEUTICOS LTDA | Cancelado |
+| 188300094 | ABEVMY | VIATRIS FARMACEUTICA DO BRASIL LTDA | Cancelado |
+
+<!-- licenses:end -->
+
+Segundo os dados compilados, o medicamento consta como comercializado, com 10 registros válidos e 2 cancelados.
+
+<!-- review:begin br-lic-20261124c-bevacizumab-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “A lista detalhada de registros (nome comercial, forma farmacêutica) não está disponível nos dados compilados.” Removido: a frase dizia que a lista de registros não estava disponível ou não seria apresentada; esta seção agora traz a tabela de registros gerada por programa a partir dos dados abertos de medicamentos da ANVISA, com todos os registros do medicamento nos dados (os números atualizados estão no resumo rápido e na tabela). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124c-bevacizumab-1 -->
 
 ## Considerações de Segurança
 
@@ -94,11 +119,12 @@ Para advertências e contraindicações, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Vegzelma (bevacizumab-adcd) prescribing information, CELLTRION USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4cdcccda-7b9a-49d0-ac50-f4605a3c0ebe) |
+| 2026-11-24 | Removido: “A lista detalhada de registros (nome comercial, forma farmacêutica) não está disponível nos dados compilados.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

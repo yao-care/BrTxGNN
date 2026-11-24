@@ -21,11 +21,11 @@
   "items_current": 6430
  },
  "reviews": {
-  "records": 1219,
-  "pages": 533,
-  "public_pages_with_records": 496,
+  "records": 1268,
+  "pages": 540,
+  "public_pages_with_records": 503,
   "by_action": {
-   "correct": 807,
+   "correct": 856,
    "mechanism": 412
   }
  },
@@ -67,7 +67,7 @@
    "l": "L5",
    "lt": 397,
    "lv": 102,
-   "r": 2,
+   "r": 3,
    "i": "Hipotricose simples do couro cabeludo"
   },
   {
@@ -76,7 +76,7 @@
    "l": "L5",
    "lt": 218,
    "lv": 101,
-   "r": 2,
+   "r": 3,
    "i": "displasia acromesomélica tipo Hunter-Thompson"
   },
   {
@@ -222,197 +222,197 @@
  },
  "recent_reviews": [
   {
-   "t": "Vancomycin",
-   "u": "/drugs/vancomycin/",
-   "s": "“os 10 registros estão válidos (10 de 10)” → “há registros válidos e cancelados (números atualizados no…",
+   "t": "Venetoclax",
+   "u": "/drugs/venetoclax/",
+   "s": "“Além disso, o fármaco não consta como comercializado no Brasil, e os dados de segurança da bula estão…",
    "d": "2026-11-24"
   },
   {
-   "t": "Valine",
-   "u": "/drugs/valine/",
-   "s": "Removido: “São listados os 5 principais:”",
+   "t": "Tezacaftor",
+   "u": "/drugs/tezacaftor/",
+   "s": "“e a viabilidade regulatória, já que não há registro no Brasil” → “e a viabilidade regulatória”",
    "d": "2026-11-24"
   },
   {
-   "t": "Topiramate",
-   "u": "/drugs/topiramate/",
-   "s": "Removido: “Há outros 15 registros cancelados (por exemplo, Toduze, Ritop, Têmpora e Vidmax), todos com a…",
+   "t": "Tamoxifen",
+   "u": "/drugs/tamoxifen/",
+   "s": "Removido: “Essa informação diverge da realidade esperada para um fármaco amplamente usado e deve ser…",
    "d": "2026-11-24"
   },
   {
-   "t": "Threonine",
-   "u": "/drugs/threonine/",
-   "s": "Removido: “São listados abaixo os 5 principais.”",
+   "t": "Sofosbuvir",
+   "u": "/drugs/sofosbuvir/",
+   "s": "“do sofosbuvir no Brasil, pois os registros compilados indicam zero licenças.” → “do sofosbuvir no Brasil.”",
    "d": "2026-11-24"
   },
   {
-   "t": "Thiamine",
-   "u": "/drugs/thiamine/",
-   "s": "Removido: “A lista abaixo mostra 5 dos pelo menos 20 registros; a lista completa pode estar incompleta.”",
+   "t": "Salbutamol",
+   "u": "/drugs/salbutamol/",
+   "s": "Removido: “Os dados compilados para este relatório não trazem o detalhamento individual dos registros…",
    "d": "2026-11-24"
   },
   {
-   "t": "Tetracycline",
-   "u": "/drugs/tetracycline/",
-   "s": "Removido: “Observação: todos os 10 registros encontrados têm licença válida atualmente. Os cinco acima são…",
+   "t": "Rasburicase",
+   "u": "/drugs/rasburicase/",
+   "s": "“de acesso, já que não há registro no Brasil.” → “de acesso.”",
    "d": "2026-11-24"
   },
   {
-   "t": "Tetracaine",
-   "u": "/drugs/tetracaine/",
-   "s": "“Os 5 registros brasileiros estão válidos e o medicamento é comercializado.” → “O medicamento é…",
+   "t": "Propofol",
+   "u": "/drugs/propofol/",
+   "s": "“no Brasil, pois os dados compilados indicam ausência de registros ativos.” → “no Brasil.”",
    "d": "2026-11-24"
   },
   {
-   "t": "Terbutalina Sulfate",
-   "u": "/drugs/terbutalina-sulfate/",
-   "s": "Removido: “Há ainda um registro cancelado, não listado acima.”",
+   "t": "Piroxicam",
+   "u": "/drugs/piroxicam/",
+   "s": "Removido: “- Não há registro no Brasil, o que também dificulta qualquer avanço regulatório.”",
    "d": "2026-11-24"
   },
   {
-   "t": "Tenoxicam",
-   "u": "/drugs/tenoxicam/",
-   "s": "Removido: “Foram listados 5 dos pelo menos 20 registros localizados (a lista pode estar incompleta).”",
+   "t": "Olmesartan",
+   "u": "/drugs/olmesartan/",
+   "s": "“a indicação original não consta nos dados compilados (nenhum registro na ANVISA).” → “a indicação original…",
    "d": "2026-11-24"
   },
   {
-   "t": "Tenofovir Alafenamide",
-   "u": "/drugs/tenofovir-alafenamide/",
-   "s": "Removido: “; os 4 registros constam como válidos (4 de 4)”",
+   "t": "Nitrazepam",
+   "u": "/drugs/nitrazepam/",
+   "s": "“e a segunda carece de vínculo mecanístico. Além disso, o fármaco não está registrado nem comercializado no…",
    "d": "2026-11-24"
   },
   {
-   "t": "Sulfamethoxazole",
-   "u": "/drugs/sulfamethoxazole/",
-   "s": "Removido: “Abaixo, os 5 principais:”",
+   "t": "Naproxen",
+   "u": "/drugs/naproxen/",
+   "s": "“do naproxeno no Brasil, já que não constam registros nos dados compilados” → “do naproxeno no Brasil”",
    "d": "2026-11-24"
   },
   {
-   "t": "Ropivacaine",
-   "u": "/drugs/ropivacaine/",
-   "s": "Removido: “Existem ainda outros 3 registros cancelados (NAROPIN, HYROVI e ROPI), não listados por limite de 5…",
+   "t": "Levonorgestrel",
+   "u": "/drugs/levonorgestrel/",
+   "s": "Removido: “O detalhamento por registro não está disponível nos dados compilados para este relatório.”",
    "d": "2026-11-24"
   },
   {
-   "t": "Rivastigmine",
-   "u": "/drugs/rivastigmine/",
-   "s": "Removido: “Abaixo, os 5 principais:”",
+   "t": "Levetiracetam",
+   "u": "/drugs/levetiracetam/",
+   "s": "“Não há registros do medicamento no Brasil nos dados compilados, e a situação regulatória deve ser…",
    "d": "2026-11-24"
   },
   {
-   "t": "Ritonavir",
-   "u": "/drugs/ritonavir/",
-   "s": "“Abaixo, os registros válidos de ritonavir isolado; o registro” → “Na tabela abaixo, o registro”",
+   "t": "Lactulose",
+   "u": "/drugs/lactulose/",
+   "s": "Removido: “Não há detalhamento de registros individuais (nome comercial, forma farmacêutica) disponível para…",
    "d": "2026-11-24"
   },
   {
-   "t": "Riluzole",
-   "u": "/drugs/riluzole/",
-   "s": "“Principais registros válidos:” → “Principais registros:”",
+   "t": "Ivermectin",
+   "u": "/drugs/ivermectin/",
+   "s": "Removido: “A lista de registros pode estar incompleta (dados parciais) e não foi detalhada nos dados…",
    "d": "2026-11-24"
   },
   {
-   "t": "Ramipril",
-   "u": "/drugs/ramipril/",
-   "s": "Removido: “A lista abaixo mostra apenas os registros válidos. Há pelo menos 20 registros no total e a lista…",
+   "t": "Isotretinoin",
+   "u": "/drugs/isotretinoin/",
+   "s": "Removido: “A lista detalhada de registros não está disponível nos dados compilados.”",
    "d": "2026-11-24"
   },
   {
-   "t": "Progesterone",
-   "u": "/drugs/progesterone/",
-   "s": "Removido: “Abaixo estão cinco dos registros válidos de produto de princípio ativo único.”",
+   "t": "Irbesartan",
+   "u": "/drugs/irbesartan/",
+   "s": "“no Brasil, que pode estar parcial.” → “no Brasil.”",
    "d": "2026-11-24"
   },
   {
-   "t": "Prilocaine",
-   "u": "/drugs/prilocaine/",
-   "s": "Removido: “Os 5 registros brasileiros (5 de 5) estão válidos.”",
+   "t": "Indacaterol",
+   "u": "/drugs/indacaterol/",
+   "s": "Removido: “A lista detalhada de registros não está disponível nos dados compilados.”",
    "d": "2026-11-24"
   },
   {
-   "t": "Prednisone",
-   "u": "/drugs/prednisone/",
-   "s": "Removido: “Abaixo, os principais registros válidos.”",
+   "t": "Ibuprofen",
+   "u": "/drugs/ibuprofen/",
+   "s": "Removido: “Os dados de registro são parciais, e a lista detalhada de registros não está disponível neste…",
    "d": "2026-11-24"
   },
   {
-   "t": "Potassium Iodide",
-   "u": "/drugs/potassium-iodide/",
-   "s": "Removido: “Os 5 principais:”",
+   "t": "Hesperidin",
+   "u": "/drugs/hesperidin/",
+   "s": "Removido: “Não há detalhes de registros individuais disponíveis nos dados compilados para este relatório.”",
    "d": "2026-11-24"
   },
   {
-   "t": "Potassium",
-   "u": "/drugs/potassium/",
-   "s": "Removido: “(Há um sexto registro cancelado, MATURE, nº 177940035, com a indicação de vitaminas ou minerais…",
+   "t": "Haloperidol",
+   "u": "/drugs/haloperidol/",
+   "s": "Removido: “A lista de registros pode estar incompleta.”",
    "d": "2026-11-24"
   },
   {
-   "t": "Pitavastatin",
-   "u": "/drugs/pitavastatin/",
-   "s": "Removido: “; os 5 principais estão listados acima (os demais: 100431110, Pitavastatina Cálcica, e 109740346…",
+   "t": "Guaifenesin",
+   "u": "/drugs/guaifenesin/",
+   "s": "Removido: “Os detalhes de cada registro não constam nos dados compilados para este relatório.”",
    "d": "2026-11-24"
   },
   {
-   "t": "Phenytoin",
-   "u": "/drugs/phenytoin/",
-   "s": "“Principais registros (máximo de 5):” → “Principais registros:”",
+   "t": "Flurbiprofen",
+   "u": "/drugs/flurbiprofen/",
+   "s": "Removido: “Os dados compilados não trazem o detalhamento individual dos registros (número, nome comercial e…",
    "d": "2026-11-24"
   },
   {
-   "t": "Phenylalanine",
-   "u": "/drugs/phenylalanine/",
-   "s": "Removido: “São listados os 5 principais:”",
+   "t": "Flunitrazepam",
+   "u": "/drugs/flunitrazepam/",
+   "s": "“Os dados locais não trazem o detalhamento de nomes comerciais, formas farmacêuticas ou textos de indicação…",
    "d": "2026-11-24"
   }
  ],
  "recent_licence_reviews": [
   {
-   "t": "Vancomycin",
-   "u": "/drugs/vancomycin/",
-   "s": "“os 10 registros estão válidos (10 de 10)” → “há registros válidos e cancelados (números atualizados no…",
+   "t": "Venetoclax",
+   "u": "/drugs/venetoclax/",
+   "s": "“Além disso, o fármaco não consta como comercializado no Brasil, e os dados de segurança da bula estão…",
    "d": "2026-11-24"
   },
   {
-   "t": "Valine",
-   "u": "/drugs/valine/",
-   "s": "Removido: “São listados os 5 principais:”",
+   "t": "Tezacaftor",
+   "u": "/drugs/tezacaftor/",
+   "s": "“e a viabilidade regulatória, já que não há registro no Brasil” → “e a viabilidade regulatória”",
    "d": "2026-11-24"
   },
   {
-   "t": "Topiramate",
-   "u": "/drugs/topiramate/",
-   "s": "Removido: “Há outros 15 registros cancelados (por exemplo, Toduze, Ritop, Têmpora e Vidmax), todos com a…",
+   "t": "Tamoxifen",
+   "u": "/drugs/tamoxifen/",
+   "s": "Removido: “Essa informação diverge da realidade esperada para um fármaco amplamente usado e deve ser…",
    "d": "2026-11-24"
   },
   {
-   "t": "Threonine",
-   "u": "/drugs/threonine/",
-   "s": "Removido: “São listados abaixo os 5 principais.”",
+   "t": "Sofosbuvir",
+   "u": "/drugs/sofosbuvir/",
+   "s": "“do sofosbuvir no Brasil, pois os registros compilados indicam zero licenças.” → “do sofosbuvir no Brasil.”",
    "d": "2026-11-24"
   },
   {
-   "t": "Thiamine",
-   "u": "/drugs/thiamine/",
-   "s": "Removido: “A lista abaixo mostra 5 dos pelo menos 20 registros; a lista completa pode estar incompleta.”",
+   "t": "Salbutamol",
+   "u": "/drugs/salbutamol/",
+   "s": "Removido: “Os dados compilados para este relatório não trazem o detalhamento individual dos registros…",
    "d": "2026-11-24"
   },
   {
-   "t": "Tetracycline",
-   "u": "/drugs/tetracycline/",
-   "s": "Removido: “Observação: todos os 10 registros encontrados têm licença válida atualmente. Os cinco acima são…",
+   "t": "Rasburicase",
+   "u": "/drugs/rasburicase/",
+   "s": "“de acesso, já que não há registro no Brasil.” → “de acesso.”",
    "d": "2026-11-24"
   },
   {
-   "t": "Tetracaine",
-   "u": "/drugs/tetracaine/",
-   "s": "“Os 5 registros brasileiros estão válidos e o medicamento é comercializado.” → “O medicamento é…",
+   "t": "Propofol",
+   "u": "/drugs/propofol/",
+   "s": "“no Brasil, pois os dados compilados indicam ausência de registros ativos.” → “no Brasil.”",
    "d": "2026-11-24"
   },
   {
-   "t": "Terbutalina Sulfate",
-   "u": "/drugs/terbutalina-sulfate/",
-   "s": "Removido: “Há ainda um registro cancelado, não listado acima.”",
+   "t": "Piroxicam",
+   "u": "/drugs/piroxicam/",
+   "s": "Removido: “- Não há registro no Brasil, o que também dificulta qualquer avanço regulatório.”",
    "d": "2026-11-24"
   }
  ],

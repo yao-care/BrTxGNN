@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 395
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "LEDIPASVIR"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "Kyasanur forest disease", "chronic hepatitis B virus infection", "HIV infectious disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection"]
 description: "Ledipasvir: nova indicação prevista, Infecção pelo vírus da hepatite B (hepatitis B virus infection) (nível de evidência L2). No Brasil, registros na ANVISA: 1 (ativos: 0)"
@@ -85,6 +85,16 @@ Há, contudo, um sinal clínico isolado: em um estudo de Fase 2 com ledipasvir/s
 | [26967675](https://pubmed.ncbi.nlm.nih.gov/26967675/) | 2016 | Revisão/Coorte | J Clin Virol | Reativação do HBV como desafio no tratamento do HCV com antivirais de ação direta |
 | [28249574](https://pubmed.ncbi.nlm.nih.gov/28249574/) | 2017 | Relato de caso | BMC Infect Dis | Reativação de HBV oculto em paciente HIV/HCV tratado com sofosbuvir/ledipasvir |
 | [34092970](https://pubmed.ncbi.nlm.nih.gov/34092970/) | 2021 | Revisão | World J Gastroenterol | Avanços e desafios no manejo das hepatites virais pediátricas |
+
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 109290002 | HARVONI | GILEAD SCIENCES FARMACEUTICA DO BRASIL LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

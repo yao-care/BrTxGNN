@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Ambroxol"
 predicted_indications: ["nasal cavity disease", "vulvovaginal candidiasis", "faucial diphtheria", "cervical disc degenerative disorder"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Ambroxol: nova indicação prevista, doença da cavidade nasal (nasal cavity disease) (nível de evidência L5). No Brasil, registros na ANVISA: 111 (ativos: 36)"
 ---
 
@@ -72,6 +72,47 @@ Atualmente não há ensaios clínicos relacionados registrados.
 |------|-----|------|------|---------|
 | [26525480](https://pubmed.ncbi.nlm.nih.gov/26525480/) | 2015 | Revisão narrativa | Vestnik otorinolaringologii | Discute o tratamento da tosse aguda associada a infecções respiratórias virais; o resumo disponível não trata diretamente da doença da cavidade nasal |
 
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100380048 | AMBROL | BRASTERAPICA PHARMACEUTICA LTDA. | Ativo |
+| 100580039 | FLUIBRON | CHIESI FARMACÊUTICA LTDA | Ativo |
+| 102350481 | CLORIDRATO DE AMBROXOL | EMS S/A | Ativo |
+| 102351221 | EXPECTUSS | EMS S/A | Ativo |
+| 102980306 | CLORIDRATO DE AMBROXOL | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103700220 | MUCOXOLAN | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700312 | CLORIDRATO DE AMBROXOL | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103900225 | SEDAVAN | FARMOQUÍMICA S/A | Ativo |
+| 104810110 | CLORIDRATO DE AMBROXOL | 1FARMA INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 105350132 | SPECTOFLUX | LABORATÓRIO GLOBO SA | Ativo |
+| 105350202 | CLORIDRATO DE AMBROXOL | LABORATÓRIO GLOBO SA | Ativo |
+| 105710171 | CLORIDRATO DE AMBROXOL | BELFAR LTDA | Ativo |
+| 105730657 | CLORIDRATO DE AMBROXOL | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105830885 | CLORIDRATO DE AMBROXOL | GERMED FARMACEUTICA LTDA | Ativo |
+| 110850039 | CLORIDRATO DE AMBROXOL | FARMACE INDÚSTRIA QUÍMICO-FARMACÊUTICA CEARENSE LT | Ativo |
+| 113430123 | CLORIDRATO DE AMBROXOL | HIPOLABOR FARMACEUTICA LTDA | Ativo |
+| 115600086 | BRONXOL | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
+| 118190200 | TOSSLAB | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 118190362 | MULKSIN | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 125680038 | CLORIDRATO DE AMBROXOL | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 125680039 | CLORIDRATO DE AMBROXOL | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 125680348 | ESPECBAC | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 125680371 | ESPECBAC | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 138410023 | BRONQTRAT | NATULAB LABORATORIO S.A | Ativo |
+| 138410084 | CLORIDRATO DE AMBROXOL | NATULAB LABORATORIO S.A | Ativo |
+| 143810087 | AMBROXMEL | CIMED INDUSTRIA S.A | Ativo |
+| 143810089 | CLORIDRATO DE AMBROXOL | CIMED INDUSTRIA S.A | Ativo |
+| 144930070 | CLORIDRATO DE AMBROXOL | AIRELA INDÚSTRIA FARMACÊUTICA LTDA. | Ativo |
+| 147610014 | CLORIDRATO DE AMBROXOL | NATIVITA IND. COM. LTDA. | Ativo |
+| 147610015 | CLORIDRATO DE AMBROXOL | NATIVITA IND. COM. LTDA. | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 111 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 - **Interações Medicamentosas**: foi registrada uma interação de natureza farmacológica com a glucosilceramidase beta (GBA1). Ambroxol atua como chaperona inibitória dessa enzima em pH neutro, mas aumenta sua atividade dentro das células, nos lisossomos ácidos. Não há classificação de gravidade disponível.
@@ -90,7 +131,26 @@ Não há ensaios clínicos nem estudos que avaliem diretamente a doença da cavi
 - Dados detalhados do mecanismo de ação (MOA)
 - Advertências e contraindicações da bula aprovada pela ANVISA
 - Avaliação da compatibilidade de via de administração e da forma farmacêutica para uso nasal/superior das vias aéreas
-- A lista de registros locais pode estar parcial; confirmar o conjunto completo de licenças
+- Confirmar o conjunto completo de licenças
+
+<!-- review:begin br-lic-20261124c-ambroxol-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “A lista de registros locais pode estar parcial; confirmar o conjunto completo de licenças” Corrigido conforme os dados abertos de medicamentos da ANVISA: a lista de registros desta página não é parcial; a tabela da seção de informações de comercialização, gerada por programa a partir dos dados, inclui todos os registros do medicamento nos dados (os números atualizados estão no resumo rápido). Só foi retirada a premissa errada; o restante do texto não foi alterado. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124c-ambroxol-1 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-24 | “- A lista de registros locais pode estar parcial; confirmar o conjunto completo de licenças” → “- Confirmar o conjunto completo de licenças” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

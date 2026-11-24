@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Ciprofloxacin"
 predicted_indications: ["diffuse scleroderma", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "punctate epithelial keratoconjunctivitis", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ciprofloxacin: nova indicação prevista, esclerodermia difusa (diffuse scleroderma) (nível de evidência L5). No Brasil, registros na ANVISA: 188 (ativos: 61)"
 ---
 
@@ -70,6 +70,47 @@ Atualmente não há ensaios clínicos relacionados registrados.
 |------|-----|------|------|---------|
 | [20507401](https://pubmed.ncbi.nlm.nih.gov/20507401/) | 2010 | Estudo exploratório (ensaio randomizado duplo-cego descrito no resumo) | The Journal of Dermatology | Avalia se o ciprofloxacino oral reduz a gravidade da esclerodermia, com foco em efeito antifibrótico na pele. O resumo disponível está truncado e não traz os resultados. |
 | [7728404](https://pubmed.ncbi.nlm.nih.gov/7728404/) | 1995 | Estudo de coorte/diagnóstico | British Journal of Rheumatology | 24 pacientes com esclerose sistêmica e sintomas de má absorção investigados para supercrescimento bacteriano no intestino delgado, com avaliação do desfecho do tratamento; apenas 6 tinham a forma difusa. |
+
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100380094 | CLORIDRATO DE CIPROFLOXACINO | BRASTERAPICA PHARMACEUTICA LTDA. | Ativo |
+| 100410153 | CIPROFLOXACINO | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100419940 | FRESOFLOX | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100431185 | CLORIDRATO DE CIPROFLOXACINO | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431193 | FORITUS | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431427 | CIPROFLOXACINO | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100470273 | CIPROBIOT | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100470351 | CLORIDRATO DE CIPROFLOXACINO | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100681086 | CILODEX | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 100681093 | CILOXAN | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 100681155 | CLORIDRATO DE CIPROFLOXACINO | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 102350781 | CLORIDRATO DE CIPROFLOXACINO | EMS S/A | Ativo |
+| 102351210 | CLORIDRATO DE CIPROFLOXACINO MONOIDRATADO + DEXAMETASONA | EMS S/A | Ativo |
+| 102351366 | CLORIDRATO DE CIPROFLOXACINO | EMS S/A | Ativo |
+| 102980486 | MAXIFLOX D | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980489 | MAXIFLOX | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103110074 | HIFLOXAN | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Ativo |
+| 103110120 | CIPROFLOXACINO | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Ativo |
+| 103110151 | CIPROBACTER | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Ativo |
+| 103110155 | CIPROFLOXACINO | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Ativo |
+| 103460024 | CIPROFLOXACINO | BEKER PRODUTOS FÁRMACO HOSPITALARES LTDA | Ativo |
+| 103700568 | CLORIDRATO DE CIPROFLOXACINO | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103850087 | CIPROFAR | LABORATÓRIO FARMACÊUTICO ELOFAR LTDA | Ativo |
+| 103870042 | HYPOFLOX | HYPOFARMA - INSTITUTO DE HYPODERMIA E FARMÁCIA LTD | Ativo |
+| 103900142 | OTOCIRIAX | FARMOQUÍMICA S/A | Ativo |
+| 104810114 | CLORIDRATO DE CIPROFLOXACINO | 1FARMA INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 104971307 | CYLOCORT | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 105350140 | CLORIDRATO DE CIPROFLOXACINO | LABORATÓRIO GLOBO SA | Ativo |
+| 105350179 | CIPROFLOXATRIN | LABORATÓRIO GLOBO SA | Ativo |
+| 105830910 | CLORIDRATO DE CIPROFLOXACINO | GERMED FARMACEUTICA LTDA | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 188 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

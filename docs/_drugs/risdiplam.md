@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 568
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Risdiplam"
 predicted_indications: ["acne (disease)"]
 description: "Risdiplam: nova indicação prevista, Acne (acne (disease)) (nível de evidência L5). No Brasil, registros na ANVISA: 1 (ativos: 1)"
@@ -87,6 +87,16 @@ Atualmente não há ensaios clínicos relacionados registrados.
 Atualmente não há literatura relacionada.
 
 ---
+
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 101000670 | EVRYSDI | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

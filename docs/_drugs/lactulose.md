@@ -70,13 +70,42 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-Não há detalhamento de registros individuais (nome comercial, forma farmacêutica) disponível para listagem.
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 101860035 | LACTOSAN | SANTISA LABORATÓRIO FARMACÊUTICO S/A | Ativo |
+| 104540043 | LACTULONA | DAIICHI SANKYO BRASIL FARMACÊUTICA LTDA | Ativo |
+| 105530338 | DUPHALAC | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Ativo |
+| 105710172 | PENTALAC | BELFAR LTDA | Ativo |
+| 110850048 | LAXFAR | FARMACE INDÚSTRIA QUÍMICO-FARMACÊUTICA CEARENSE LT | Ativo |
+| 113430214 | LAQUIXAN | HIPOLABOR FARMACEUTICA LTDA | Ativo |
+| 178170047 | FARLAC | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Ativo |
+| 100820148 | DUPHALAC | ABBOTT PRODUTOS PARA SAÚDE LTDA. | Cancelado |
+| 100820170 | DUPHALAC | ABBOTT PRODUTOS PARA SAÚDE LTDA. | Cancelado |
+| 101910301 | NORMALAC | THERASKIN FARMACEUTICA LTDA. | Cancelado |
+| 102350917 | NORMOLAX | EMS S/A | Cancelado |
+| 105500104 | PENTALAC | UCI - FARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 105500195 | PENTALAC | UCI - FARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 105830616 | LACNAX | GERMED FARMACEUTICA LTDA | Cancelado |
+| 109740189 | COLONAC | BIOLAB SANUS FARMACÊUTICA LTDA | Cancelado |
+| 122050053 | LACTULOSUM | LABORATORIO ENILA IND. E COM. DE PROD. QUIM. E FAR | Cancelado |
+| 135690507 | INLACT | EMS SIGMA PHARMA LTDA | Cancelado |
+| 167730054 | LACTULIV | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 <!-- review:begin br-lic-20261106-lactulose-1 -->
 
 > **Correção de verificação (2026-11-06)**: Texto original: “Os dados compilados indicam situação de comercialização "Comercializado", com 6 registros válidos e 13 cancelados. Não há detalhamento de registros individuais (nome comercial, forma farmacêutica) disponível para listagem.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-lactulose-1 -->
+
+<!-- review:begin br-lic-20261124c-lactulose-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Não há detalhamento de registros individuais (nome comercial, forma farmacêutica) disponível para listagem.” Removido: a frase dizia que a lista de registros não estava disponível ou não seria apresentada; esta seção agora traz a tabela de registros gerada por programa a partir dos dados abertos de medicamentos da ANVISA, com todos os registros do medicamento nos dados (os números atualizados estão no resumo rápido e na tabela). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124c-lactulose-1 -->
 
 ## Considerações de Segurança
 
@@ -107,6 +136,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 |------|------|------|------|
 | 2026-11-06 | Removido: “Os dados compilados indicam situação de comercialização "Comercializado", com 6 registros válidos e 13 cancelados” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Enulose (lactulose) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fa3aae7c-6f98-4fbb-85dc-32affe9874d5) |
+| 2026-11-24 | Removido: “Não há detalhamento de registros individuais (nome comercial, forma farmacêutica) disponível para listagem.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

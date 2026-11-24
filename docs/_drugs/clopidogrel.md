@@ -85,13 +85,56 @@ Atualmente não há ensaios clínicos relacionados registrados para esta indica�
 
 ## Informações de Comercialização no Brasil
 
-A lista de registros pode estar incompleta, e os dados não trazem a relação detalhada de registros, nomes comerciais e formas farmacêuticas.
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431025 | PLAQ | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431133 | BISSULFATO DE CLOPIDOGREL | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100470423 | PLAGREL | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100470424 | BISSULFATO DE CLOPIDOGREL | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100681134 | BISSULFATO DE CLOPIDOGREL | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 102351196 | BISSULFATO DE CLOPIDOGREL | EMS S/A | Ativo |
+| 102351202 | PLAQUEVIX | EMS S/A | Ativo |
+| 103700723 | BISSULFATO DE CLOPIDOGREL | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 105730049 | BISSULFATO DE CLOPIDROGREL | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730401 | CLOPIN | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730718 | CLOPIN DUO | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105830718 | CLOPIPLAX | GERMED FARMACEUTICA LTDA | Ativo |
+| 105830929 | BISSULFATO DE CLOPIDOGREL | GERMED FARMACEUTICA LTDA | Ativo |
+| 109740218 | ATEROGREL | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 109740329 | BISSULFATO DE CLOPIDOGREL | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 110390170 | BISSULFATO DE CLOPIDOGREL | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Ativo |
+| 118190338 | BISSULFATO DE CLOPIDOGREL | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 123520207 | BISSULFATO DE CLOPIDOGREL | RANBAXY FARMACÊUTICA LTDA | Ativo |
+| 151430013 | CLOPIVIX | DR. REDDYS FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 151670046 | BISSULFATO DE CLOPIDOGREL | AUROBINDO PHARMA INDÚSTRIA FARMACÊUTICA LIMITADA | Ativo |
+| 154230226 | BISSULFATO DE CLOPIDOGREL | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 154230244 | VIXGREL | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 155370057 | BISSULFATO DE CLOPIDOGREL | ACCORD FARMACÊUTICA LTDA | Ativo |
+| 155840501 | PLAVINEO | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 155840510 | BISSULFATO DE CLOPIDOGREL | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 167730534 | BISSULFATO DE CLOPIDOGREL | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 167730539 | CLOPIDO-GRAN | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 178170861 | LOPIGREL | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Ativo |
+| 183260045 | BISSULFATO DE CLOPIDOGREL | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+| 183260370 | PLAVIX | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 68 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 <!-- review:begin br-lic-20261106-clopidogrel-1 -->
 
 > **Correção de verificação (2026-11-06)**: Texto original: “Segundo os dados compilados, o clopidogrel consta como comercializado no Brasil, com 9 registros válidos e 11 cancelados. A lista de registros pode estar incompleta, e os dados não trazem a relação detalhada de registros, nomes comerciais e formas farmacêuticas.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-clopidogrel-1 -->
+
+<!-- review:begin br-lic-20261124c-clopidogrel-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “A lista de registros pode estar incompleta, e os dados não trazem a relação detalhada de registros, nomes comerciais e formas farmacêuticas.” Removido: a frase dizia que a lista de registros seria parcial ou não estaria disponível; os dados abertos de medicamentos da ANVISA usados nesta página trazem todos os registros do medicamento, que estão na tabela desta seção gerada por programa (os números atualizados estão no resumo rápido e na tabela). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124c-clopidogrel-1 -->
 
 ## Considerações de Segurança
 
@@ -126,6 +169,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 |------|------|------|------|
 | 2026-11-06 | Removido: “Segundo os dados compilados, o clopidogrel consta como comercializado no Brasil, com 9 registros válidos e 11 cancelados” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Plavix (clopidogrel) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de8b0b67-eb25-4684-83b5-7ad785314227) |
+| 2026-11-24 | Removido: “A lista de registros pode estar incompleta, e os dados não trazem a relação detalhada de registros, nomes comerciais e formas farmacêuticas.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

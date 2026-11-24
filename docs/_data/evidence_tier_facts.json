@@ -161,8 +161,8 @@
     "i": "Insônia",
     "lt": 53,
     "lv": 18,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "Removido: “Os dados disponíveis não trazem o detalhamento individual dos registros (nome comercial, forma…",
     "x": 0
    },
    {
@@ -172,8 +172,8 @@
     "i": "Sarcoma de Ewing",
     "lt": 29,
     "lv": 15,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "Removido: “A lista de registros pode estar incompleta nos dados compilados.”",
     "x": 0
    },
    {
@@ -238,8 +238,8 @@
     "i": "acne",
     "lt": 95,
     "lv": 33,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "Removido: “O detalhamento por registro não está disponível nos dados compilados para este relatório.”",
     "x": 0
    },
    {
@@ -293,8 +293,8 @@
     "i": "migraine disorder",
     "lt": 23,
     "lv": 14,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "“no Brasil, pois os dados compilados indicam ausência de registros ativos.” → “no Brasil.”",
     "x": 0
    },
    {
@@ -584,8 +584,8 @@
     "i": "Infecção pelo vírus da hepatite B",
     "lt": 9,
     "lv": 7,
-    "r": 2,
-    "rs": "Removido: “O fármaco também não tem registro ativo no Brasil, segundo os dados compilados”",
+    "r": 3,
+    "rs": "“do sofosbuvir no Brasil, pois os registros compilados indicam zero licenças.” → “do sofosbuvir no Brasil.”",
     "x": 0
    },
    {
@@ -986,7 +986,7 @@
   "with_current": 434,
   "none_current": 3,
   "without_data": 10,
-  "with_reviews": 413,
+  "with_reviews": 420,
   "rows": [
    {
     "t": "Metamizole",
@@ -1017,8 +1017,8 @@
     "i": "Hipotricose simples do couro cabeludo",
     "lt": 397,
     "lv": 102,
-    "r": 2,
-    "rs": "Removido: “Segundo os dados de registro compilados, o diclofenaco consta como comercializado no Brasil, com 6…",
+    "r": 3,
+    "rs": "Removido: “A lista de registros pode estar incompleta, e por isso os registros individuais não são detalhados…",
     "x": 0
    },
    {
@@ -1028,8 +1028,8 @@
     "i": "displasia acromesomélica tipo Hunter-Thompson",
     "lt": 218,
     "lv": 101,
-    "r": 2,
-    "rs": "Removido: “Segundo os dados compilados, o ibuprofeno consta como comercializado no Brasil, com 13 registros…",
+    "r": 3,
+    "rs": "Removido: “Os dados de registro são parciais, e a lista detalhada de registros não está disponível neste…",
     "x": 0
    },
    {
@@ -1171,8 +1171,8 @@
     "i": "Transtornos de movimento psicogênicos",
     "lt": 66,
     "lv": 50,
-    "r": 2,
-    "rs": "Removido: “Segundo os dados compilados, o medicamento consta como comercializado, com 10 registros válidos”",
+    "r": 3,
+    "rs": "Removido: “A lista de registros pode estar incompleta (registros parciais), e o detalhamento por registro não…",
     "x": 0
    },
    {
@@ -1182,8 +1182,8 @@
     "i": "beta-ketothiolase deficiency",
     "lt": 54,
     "lv": 49,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "“Não há registros do medicamento no Brasil nos dados compilados, e a situação regulatória deve ser…",
     "x": 0
    },
    {
@@ -1347,8 +1347,8 @@
     "i": "doença da cavidade nasal",
     "lt": 111,
     "lv": 36,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "“- A lista de registros locais pode estar parcial; confirmar o conjunto completo de licenças” → “- Confirmar…",
     "x": 0
    },
    {
@@ -1380,8 +1380,8 @@
     "i": "neoplasia mieloproliferativa",
     "lt": 51,
     "lv": 35,
-    "r": 2,
-    "rs": "Removido: “, e a lista pode estar incompleta”",
+    "r": 3,
+    "rs": "Removido: “Não há detalhes de registros individuais disponíveis nos dados compilados para este relatório.”",
     "x": 0
    },
    {
@@ -1435,8 +1435,8 @@
     "i": "Doença infecciosa ectotrix",
     "lt": 96,
     "lv": 30,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "“no Brasil, pois os dados atuais podem estar parciais.” → “no Brasil.”",
     "x": 0
    },
    {
@@ -1446,8 +1446,8 @@
     "i": "enxaqueca com aura de tronco encefálico",
     "lt": 68,
     "lv": 30,
-    "r": 2,
-    "rs": "Removido: “Segundo os dados compilados, o clopidogrel consta como comercializado no Brasil, com 9 registros…",
+    "r": 3,
+    "rs": "Removido: “A lista de registros pode estar incompleta, e os dados não trazem a relação detalhada de…",
     "x": 0
    },
    {
@@ -1468,8 +1468,8 @@
     "i": "doença da cavidade nasal",
     "lt": 128,
     "lv": 30,
-    "r": 2,
-    "rs": "Removido: “Os dados locais indicam que o medicamento está comercializado, com 5 registros válidos e 15…",
+    "r": 3,
+    "rs": "Removido: “Os detalhes de cada registro não constam nos dados compilados para este relatório.”",
     "x": 0
    },
    {
@@ -1501,8 +1501,8 @@
     "i": "Ceratoconjuntivite epitelial punctata",
     "lt": 75,
     "lv": 29,
-    "r": 2,
-    "rs": "Removido: “Segundo os dados compilados para este relatório, a situação de mercado é comercializado, com 8…",
+    "r": 3,
+    "rs": "Removido: “A lista de registros pode estar incompleta (registros parciais), e os detalhes individuais…",
     "x": 0
    },
    {
@@ -1523,8 +1523,8 @@
     "i": "Transtorno de enxaqueca",
     "lt": 32,
     "lv": 29,
-    "r": 1,
-    "rs": "Removido: “situação de comercialização consta como comercializado, com 17 registros válidos e 3 cancelados…",
+    "r": 2,
+    "rs": "Removido: “Os dados de registro disponíveis são parciais. A lista detalhada de registros não está disponível…",
     "x": 0
    },
    {
@@ -1534,8 +1534,8 @@
     "i": "transtorno de enxaqueca",
     "lt": 35,
     "lv": 28,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "Removido: “A lista detalhada de registros não está disponível nos dados compilados.”",
     "x": 0
    },
    {
@@ -1688,8 +1688,8 @@
     "i": "Amenorreia",
     "lt": 36,
     "lv": 23,
-    "r": 2,
-    "rs": "Removido: “Segundo os dados locais, há 13 registros válidos e 7 cancelados, e a”",
+    "r": 3,
+    "rs": "Removido: “A lista pode estar parcial. A tabela de registros é gerada pelo programa e não está detalhada…",
     "x": 0
    },
    {
@@ -1787,8 +1787,8 @@
     "i": "Doença renal hipertensiva maligna",
     "lt": 29,
     "lv": 20,
-    "r": 2,
-    "rs": "Removido: “A situação de mercado no Brasil é de medicamento comercializado, com 13 registros válidos e 7…",
+    "r": 3,
+    "rs": "Removido: “Os registros são parciais (a lista pode estar incompleta), e os detalhes de cada registro não…",
     "x": 0
    },
    {
@@ -1930,8 +1930,8 @@
     "i": "Síndrome de braquidactilia-sindactilia",
     "lt": 45,
     "lv": 19,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "“do naproxeno no Brasil, já que não constam registros nos dados compilados” → “do naproxeno no Brasil”",
     "x": 0
    },
    {
@@ -1974,8 +1974,8 @@
     "i": "insomnia (disease)",
     "lt": 52,
     "lv": 18,
-    "r": 2,
-    "rs": "Removido: “Além disso, o fármaco não está registrado no Brasil e apresenta importantes preocupações de…",
+    "r": 3,
+    "rs": "“no Brasil, já que não há registros.” → “no Brasil.”",
     "x": 0
    },
    {
@@ -2073,8 +2073,8 @@
     "i": "Conjuntivite papilar",
     "lt": 98,
     "lv": 17,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "Removido: “Os dados compilados para este relatório não trazem o detalhamento individual dos registros…",
     "x": 0
    },
    {
@@ -2084,8 +2084,8 @@
     "i": "malformation syndrome with odontal and/or periodontal component",
     "lt": 35,
     "lv": 16,
-    "r": 2,
-    "rs": "Removido: “Os dados compilados indicam situação de comercialização \"Comercializado\", com 11 registros válidos…",
+    "r": 3,
+    "rs": "Removido: “A lista de registros pode estar incompleta e não há detalhamento individual (nome comercial, forma…",
     "x": 0
    },
    {
@@ -2370,8 +2370,8 @@
     "i": "Doença Renal Hipertensiva Maligna",
     "lt": 44,
     "lv": 13,
-    "r": 3,
-    "rs": "Removido: “Os registros no Brasil estão todos cancelados, e h”",
+    "r": 4,
+    "rs": "Removido: “A lista detalhada de registros não está disponível nos dados compilados.”",
     "x": 0
    },
    {
@@ -2436,8 +2436,8 @@
     "i": "congenital disorder of glycosylation with defective fucosylation",
     "lt": 30,
     "lv": 12,
-    "r": 2,
-    "rs": "Removido: “Os dados compilados indicam 5 registros válidos e 15 cancelados, e a Os detalhes de cada registro…",
+    "r": 3,
+    "rs": "Removido: “A lista de registros pode estar incompleta.”",
     "x": 0
    },
    {
@@ -2447,8 +2447,8 @@
     "i": "candidíase vulvovaginal",
     "lt": 24,
     "lv": 12,
-    "r": 2,
-    "rs": "Removido: “Os dados locais indicam que o fármaco é comercializado, com 10 registros válidos”",
+    "r": 3,
+    "rs": "Removido: “A lista de registros pode estar incompleta (dados parciais) e não foi detalhada nos dados…",
     "x": 0
    },
    {
@@ -2535,8 +2535,8 @@
     "i": "Angina de Prinzmetal",
     "lt": 0,
     "lv": 11,
-    "r": 1,
-    "rs": "Removido: “Além disso, o fármaco não possui registro no Brasil”",
+    "r": 2,
+    "rs": "“a indicação original não consta nos dados compilados (nenhum registro na ANVISA).” → “a indicação original…",
     "x": 0
    },
    {
@@ -2557,8 +2557,8 @@
     "i": "Doença de Paget mamária",
     "lt": 30,
     "lv": 11,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "Removido: “Essa informação diverge da realidade esperada para um fármaco amplamente usado e deve ser…",
     "x": 0
    },
    {
@@ -2568,8 +2568,8 @@
     "i": "neoplasia da epiglote",
     "lt": 12,
     "lv": 10,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "Removido: “A lista detalhada de registros (nome comercial, forma farmacêutica) não está disponível nos dados…",
     "x": 0
    },
    {
@@ -2623,8 +2623,8 @@
     "i": "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
     "lt": 70,
     "lv": 10,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "Removido: “- Não há registro no Brasil, o que também dificulta qualquer avanço regulatório.”",
     "x": 0
    },
    {
@@ -2755,8 +2755,8 @@
     "i": "dispepsia",
     "lt": 78,
     "lv": 8,
-    "r": 1,
-    "rs": "“Segundo os dados compilados, há pelo menos 2 registros válidos e 18 cancelados, e a lista de registros…",
+    "r": 2,
+    "rs": "Removido: “Os detalhes dos registros serão adicionados pelo programa do site.”",
     "x": 0
    },
    {
@@ -2788,8 +2788,8 @@
     "i": "Otite média infecciosa",
     "lt": 32,
     "lv": 8,
-    "r": 2,
-    "rs": "Removido: “Segundo os registros locais, há 5 registros válidos e 15 cancelados, e a”",
+    "r": 3,
+    "rs": "Removido: “A lista pode ser parcial. Os dados compilados não trazem o detalhamento dos registros (número…",
     "x": 0
    },
    {
@@ -2920,8 +2920,8 @@
     "i": "Carcinoma de mama feminino",
     "lt": 8,
     "lv": 7,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "Removido: “Os detalhes de cada registro (número, nome comercial e forma farmacêutica) não constam nos dados…",
     "x": 0
    },
    {
@@ -2953,8 +2953,8 @@
     "i": "nefropatia aguda por urato",
     "lt": 18,
     "lv": 7,
-    "r": 2,
-    "rs": "Removido: “Os dados compilados indicam situação de comercialização \"Comercializado\", com 6 registros válidos…",
+    "r": 3,
+    "rs": "Removido: “Não há detalhamento de registros individuais (nome comercial, forma farmacêutica) disponível para…",
     "x": 0
    },
    {
@@ -3052,8 +3052,8 @@
     "i": "Infecção por HIV",
     "lt": 10,
     "lv": 6,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "Removido: “A lista detalhada de registros não está disponível nos dados compilados.”",
     "x": 0
    },
    {
@@ -3107,8 +3107,8 @@
     "i": "Displasia acromesomélica tipo Hunter-Thompson",
     "lt": 10,
     "lv": 6,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "Removido: “Os dados compilados não trazem o detalhamento individual dos registros (número, nome comercial e…",
     "x": 0
    },
    {
@@ -3250,8 +3250,8 @@
     "i": "Encefalite subaguda de Rasmussen",
     "lt": 10,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Removido: “Os dados compilados para este relatório não trazem o detalhamento dos registros (nome comercial…",
     "x": 0
    },
    {
@@ -3294,8 +3294,8 @@
     "i": "Amenorreia",
     "lt": 8,
     "lv": 5,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "Removido: “A lista detalhada de registros não está disponível nos dados compilados.”",
     "x": 0
    },
    {
@@ -3525,8 +3525,8 @@
     "i": "Síndrome nefrogênica de antidiurese inapropriada",
     "lt": 5,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Removido: “A lista detalhada de registros não está disponível nos dados compilados.”",
     "x": 0
    },
    {
@@ -3536,8 +3536,8 @@
     "i": "Doença renal hipertensiva maligna",
     "lt": 28,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "“no Brasil, que pode estar parcial.” → “no Brasil.”",
     "x": 0
    },
    {
@@ -3723,8 +3723,8 @@
     "i": "enxaqueca",
     "lt": 7,
     "lv": 3,
-    "r": 2,
-    "rs": "Removido: “O fármaco consta como comercializado no Brasil, com 6 registros no total: 3 válidos e 3 cancelados”",
+    "r": 3,
+    "rs": "“Os dados locais não trazem o detalhamento de nomes comerciais, formas farmacêuticas ou textos de indicação…",
     "x": 0
    },
    {
@@ -3855,8 +3855,8 @@
     "i": "Wernicke-Korsakoff syndrome",
     "lt": 13,
     "lv": 3,
-    "r": 1,
-    "rs": "Removido: “Avaliar a viabilidade regulatória: não há registro vigente no Brasil”",
+    "r": 2,
+    "rs": "“e a segunda carece de vínculo mecanístico. Além disso, o fármaco não está registrado nem comercializado no…",
     "x": 0
    },
    {
@@ -3910,8 +3910,8 @@
     "i": "Doença infecciosa por HIV",
     "lt": 3,
     "lv": 3,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "“e a viabilidade regulatória, já que não há registro no Brasil” → “e a viabilidade regulatória”",
     "x": 0
    },
    {
@@ -4064,8 +4064,8 @@
     "i": "febre tifoide",
     "lt": 18,
     "lv": 2,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "Removido: “Esta lista pode estar incompleta, pois os registros são parciais, e nenhum registro detalhado está…",
     "x": 10
    },
    {
@@ -4086,8 +4086,8 @@
     "i": "Síndrome de Tourette",
     "lt": 3,
     "lv": 2,
-    "r": 2,
-    "rs": "“O Brasil tem 4 registros (2 válidos e 2 cancelados)” → “O Brasil tem registros válidos e cancelados (números…",
+    "r": 3,
+    "rs": "Removido: “Os dados compilados não trazem o detalhamento dos registros (nome comercial, forma farmacêutica e…",
     "x": 0
    },
    {
@@ -4328,8 +4328,8 @@
     "i": "Deficiência do cofator II da heparina",
     "lt": 1,
     "lv": 1,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "“Os dados compilados não trazem detalhes de nome comercial, forma farmacêutica ou texto de indicação.” → “Os…",
     "x": 0
    },
    {
@@ -4746,8 +4746,8 @@
     "i": "Amenorreia",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "“Não há detalhes de nome comercial, forma farmacêutica ou texto de indicação nos dados locais disponíveis.” →…",
     "x": 0
    },
    {
@@ -5351,8 +5351,8 @@
     "i": "Hipouricemia Renal",
     "lt": 3,
     "lv": 1,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "“de acesso, já que não há registro no Brasil.” → “de acesso.”",
     "x": 0
    },
    {
@@ -5659,8 +5659,8 @@
     "i": "Hodgkins lymphoma",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "“Além disso, o fármaco não consta como comercializado no Brasil, e os dados de segurança da bula estão…",
     "x": 0
    },
    {

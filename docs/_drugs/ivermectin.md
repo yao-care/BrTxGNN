@@ -72,13 +72,48 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-A lista de registros pode estar incompleta (dados parciais) e não foi detalhada nos dados compilados para este relatório.
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 102350577 | LEVERCTIN | EMS S/A | Ativo |
+| 103920167 | IVERMECTINA | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 103920211 | IVECTE | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 105350251 | IVERMECTINA | LABORATÓRIO GLOBO SA | Ativo |
+| 105830989 | IVERMECTINA | GERMED FARMACEUTICA LTDA | Ativo |
+| 118190358 | IVERMECTINA | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 125680331 | IVERMECTINA | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 129160205 | SOOLANTRA | GALDERMA BRASIL LTDA | Ativo |
+| 155840183 | IVERNEO | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 155840611 | IVERMECTINA | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 167730661 | IVERMECTINA | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 167730667 | IVERLIV | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100820141 | REVECTINA | ABBOTT PRODUTOS PARA SAÚDE LTDA. | Cancelado |
+| 102940154 | IVERLAT | NEOLATINA COMÉRCIO E INDÚSTRIA FARMACEUTICA S.A | Cancelado |
+| 105500141 | IVERMEC | UCI - FARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 105500189 | UCIOSE | UCI - FARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 105530351 | REVECTINA | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Cancelado |
+| 109740163 | PLURIMEC | BIOLAB SANUS FARMACÊUTICA LTDA | Cancelado |
+| 115600106 | VERMECTIL | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Cancelado |
+| 126750402 | IVERMECTINA | NOVA QUIMICA FARMACÊUTICA S/A | Cancelado |
+| 155840184 | IVERMECTINA | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Cancelado |
+| 172870397 | IVERMECTINA | HYPERA S.A. | Cancelado |
+| 172870398 | IVERNEO | HYPERA S.A. | Cancelado |
+| 177940011 | VERMECTIL | MABRA FARMACEUTICA LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 <!-- review:begin br-lic-20261106-ivermectin-1 -->
 
 > **Correção de verificação (2026-11-06)**: Texto original: “Os dados locais indicam que o fármaco é comercializado, com 10 registros válidos. A lista de registros pode estar incompleta (dados parciais) e não foi detalhada nos dados compilados para este relatório.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-ivermectin-1 -->
+
+<!-- review:begin br-lic-20261124c-ivermectin-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “A lista de registros pode estar incompleta (dados parciais) e não foi detalhada nos dados compilados para este relatório.” Removido: a frase dizia que a lista de registros seria parcial ou não estaria disponível; os dados abertos de medicamentos da ANVISA usados nesta página trazem todos os registros do medicamento, que estão na tabela desta seção gerada por programa (os números atualizados estão no resumo rápido e na tabela). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124c-ivermectin-1 -->
 
 ## Considerações de Segurança
 
@@ -121,6 +156,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 |------|------|------|------|
 | 2026-11-06 | Removido: “Os dados locais indicam que o fármaco é comercializado, com 10 registros válidos” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Stromectol (ivermectin) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=681888c9-af79-4b7d-ae80-c3f4f6f1effd) |
+| 2026-11-24 | Removido: “A lista de registros pode estar incompleta (dados parciais) e não foi detalhada nos dados compilados para este relatório.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

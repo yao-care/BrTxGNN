@@ -70,6 +70,18 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Atualmente não há literatura relacionada.
 
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 183260325 | MOZOBIL | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+| 113001197 | MOZOBIL | SANOFI-AVENTIS FARMACÊUTICA LTDA | Cancelado |
+| 125430023 | MOZOBIL | GENZYME DO BRASIL LTDA | Cancelado |
+
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 - **Contraindicações indicadas pelo grafo de conhecimento do TxGNN** (não provêm do texto da bula): trombocitopenia, insuficiência renal e leucemia. Esses itens servem apenas como sinal de alerta e precisam ser confirmados na bula oficial.

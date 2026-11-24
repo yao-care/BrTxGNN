@@ -81,6 +81,16 @@ Como referência, as publicações recuperadas para previsões vizinhas (infarto
 
 Nenhuma delas fornece evidência direta de eficácia para o infarto posteroinferior como indicação distinta.
 
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 103670133 | METALYSE | BOEHRINGER INGELHEIM DO BRASIL QUÍMICA E FARMACÊUT | Ativo |
+
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 - **Interações Medicamentosas** (100 interações registradas; principais exemplos):

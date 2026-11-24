@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00248
 monitor_inn: "Cabergoline"
 predicted_indications: ["progeria-short stature-pigmented nevi syndrome", "pituitary cancer", "cerebral palsy, spastic quadriplegic", "glaucoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cabergolina: nova indicação prevista, Síndrome de progeria, baixa estatura e nevos pigmentados (progeria-short stature-pigmented nevi syndrome) (nível de evidência L5)."
 ---
 
@@ -80,6 +80,38 @@ Atualmente não há literatura relacionada.
 ---
 
 ## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431274 | CABERGOLINA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100630307 | CABERGOLINA | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 102351161 | CABERGOLINA | EMS S/A | Ativo |
+| 102980410 | CABEREDUX | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980442 | CABERGOLINA | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 105830808 | CABERGOLINA | GERMED FARMACEUTICA LTDA | Ativo |
+| 110390214 | CABERGOLINA | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Ativo |
+| 110630134 | CABERGOLINA | FUNDAÇÃO OSWALDO CRUZ | Ativo |
+| 118190331 | CABERGOLINA | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 121100412 | DOSTINEX | PFIZER BRASIL LTDA | Ativo |
+| 122140091 | CABERTRIX | ADIUM S.A. | Ativo |
+| 123520266 | CABERGOLINA | RANBAXY FARMACÊUTICA LTDA | Ativo |
+| 125680257 | CABERGOLINA | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 146820083 | CABERGOLINA | SUN FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 198830001 | CABERGOLINA | FUNDAÇÃO BAIANA DE PESQ. CIENTIFICA E DESENV. TECN | Ativo |
+| 102160140 | DOSTINEX | LABORATÓRIOS PFIZER LTDA | Cancelado |
+| 102980409 | CABERGOLINA | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Cancelado |
+| 104920229 | CABERGOLINA | BIOLAB FARMA GENERICOS LTDA | Cancelado |
+| 109220064 | ADEGRIP | H B FARMA LABORATÓRIOS LTDA | Cancelado |
+| 122140090 | CABERGOLINA | ADIUM S.A. | Cancelado |
+| 123890061 | DOSTINEX | PHARMACIA BRASIL LTDA | Cancelado |
+| 126750197 | CABERGOLINA | NOVA QUIMICA FARMACÊUTICA S/A | Cancelado |
+| 135690677 | CABERGOLINA | EMS SIGMA PHARMA LTDA | Cancelado |
+| 167730428 | CABERGOLINA | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 167730433 | BERGOX | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 O fármaco consta como comercializado no Brasil, com registros válidos de produtos de princípio ativo único, entre eles Dostinex, Caberedux e Cabertrix, além de versões genéricas. Os dados compilados não trazem o texto de indicação aprovada nem a forma farmacêutica dos registros.
 

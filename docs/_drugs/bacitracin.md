@@ -64,13 +64,56 @@ Há, porém, uma limitação importante: a ceratoconjuntivite epitelial punctata
 
 ## Informações de Comercialização no Brasil
 
-A lista de registros pode estar incompleta (registros parciais), e os detalhes individuais (número, nome comercial, forma farmacêutica) não estão disponíveis nos dados recebidos.
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 102351398 | SULFATO DE NEOMICINA + BACITRACINA ZÍNCICA | EMS S/A | Ativo |
+| 103700251 | TEUTOMICIN | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700521 | SULFATO DE NEOMICINA + BACITRACINA ZÍNCICA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103900164 | CICATRENE | FARMOQUÍMICA S/A | Ativo |
+| 103920108 | KATRIZAN | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 103920234 | SULFATO DE NEOMICINA + BACITRACINA ZÍNCICA | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 104970268 | FERID | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971457 | SULFATO DE NEOMICINA + BACITRACINA ZÍNCICA | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 105350093 | BACINANTRAT | LABORATÓRIO GLOBO SA | Ativo |
+| 105350204 | SULFATO DE NEOMICINA + BACITRACINA ZÍNCICA | LABORATÓRIO GLOBO SA | Ativo |
+| 105710082 | BACINA | BELFAR LTDA | Ativo |
+| 105710191 | SULFATO DE NEOMICINA + BACITRACINA ZÍNCICA | BELFAR LTDA | Ativo |
+| 107150039 | BACIGEN | CAZI QUIMICA FARMACEUTICA INDUSTRIA E COMERCIO LTD | Ativo |
+| 110390072 | FURP - NEOMICINA + BACITRACINA | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Ativo |
+| 112080071 | LQFEX - SULFATO DE NEOMICINA + BACITRACINA ZINCICA | LABORATÓRIO QUÍMICO FARMACÊUTICO DO EXÉRCITO | Ativo |
+| 113430172 | SULFATO DE NEOMICINA + BACITRACINA ZÍNCICA | HIPOLABOR FARMACEUTICA LTDA | Ativo |
+| 118190234 | NEBACIDERME | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 118190396 | SULFATO DE NEOMICINA + BACITRACINA ZÍNCICA | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 125680128 | SULFATO DE NEOMICINA + BACITRACINA ZÍNCICA | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 141070008 | NEBACTRINA | PHARLAB INDÚSTRIA FARMACÊUTICA S.A. | Ativo |
+| 141070619 | SULFATO DE NEOMICINA + BACITRACINA ZÍNCICA | PHARLAB INDÚSTRIA FARMACÊUTICA S.A. | Ativo |
+| 143810086 | NEBACIMED | CIMED INDUSTRIA S.A | Ativo |
+| 143810121 | SULFATO DE NEOMICINA + BACITRACINA ZÍNCICA | CIMED INDUSTRIA S.A | Ativo |
+| 143810244 | FERICIMED | CIMED INDUSTRIA S.A | Ativo |
+| 155840315 | SULFATO DE NEOMICINA + BACITRACINA ZÍNCICA | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 155840522 | EPICITRIN | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 167730201 | NEOTRICIN | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 178170904 | NEBACETIN | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Ativo |
+| 183260075 | SULFATO DE NEOMICINA + BACITRACINA | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+| 100250111 | ANIVY | GLAXO WELLCOME S/A | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 75 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 <!-- review:begin br-lic-20261106-bacitracin-1 -->
 
 > **Correção de verificação (2026-11-06)**: Texto original: “Segundo os dados compilados para este relatório, a situação de mercado é **comercializado**, com **8 registros válidos** e **12 registros cancelados**. A lista de registros pode estar incompleta (registros parciais), e os detalhes individuais (número, nome comercial, forma farmacêutica) não estão disponíveis nos dados recebidos.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-bacitracin-1 -->
+
+<!-- review:begin br-lic-20261124c-bacitracin-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “A lista de registros pode estar incompleta (registros parciais), e os detalhes individuais (número, nome comercial, forma farmacêutica) não estão disponíveis nos dados recebidos.” Removido: a frase dizia que a lista de registros seria parcial ou não estaria disponível; os dados abertos de medicamentos da ANVISA usados nesta página trazem todos os registros do medicamento, que estão na tabela desta seção gerada por programa (os números atualizados estão no resumo rápido e na tabela). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124c-bacitracin-1 -->
 
 ## Considerações de Segurança
 
@@ -104,6 +147,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 |------|------|------|------|
 | 2026-11-06 | Removido: “Segundo os dados compilados para este relatório, a situação de mercado é **comercializado**, com **8 registros válidos** e **12 registros ca” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte (revisado em 2026-11-20; versão anterior guardada no registro) | [ChEMBL CHEMBL1200558 (bacitracin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200558) |
+| 2026-11-24 | Removido: “A lista de registros pode estar incompleta (registros parciais), e os detalhes individuais (número, nome comercial, forma farmacêutica) não estão disponíveis nos dados recebidos.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

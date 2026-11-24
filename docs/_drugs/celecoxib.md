@@ -69,6 +69,47 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Atualmente não há literatura relacionada.
 
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431220 | CELECOXIBE | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431223 | COQUES | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431352 | DUCOX | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 102351330 | CELECOXIBE | EMS S/A | Ativo |
+| 103700598 | CELECOXIBE | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103720281 | CIBEX | SUPERA FARMA LABORATÓRIOS S.A | Ativo |
+| 105350221 | CELECOXIBE | LABORATÓRIO GLOBO SA | Ativo |
+| 105530389 | MOVYDIA | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Ativo |
+| 105730491 | FOXIS | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730606 | CELECOXIBE | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730796 | PARZO | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105830977 | CELECOXIBE | GERMED FARMACEUTICA LTDA | Ativo |
+| 118190235 | CELECOXIBE | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 123520260 | CELECOXIBE | RANBAXY FARMACÊUTICA LTDA | Ativo |
+| 155840580 | CELECOXIBE | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 155840588 | CELECOXIBE | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 156510078 | CELECOXIBE | ZYDUS NIKKHO FARMACÊUTICA LTDA | Ativo |
+| 156510083 | COXIZY | ZYDUS NIKKHO FARMACÊUTICA LTDA | Ativo |
+| 188300082 | DICOXIBE | VIATRIS FARMACEUTICA DO BRASIL LTDA | Ativo |
+| 188300086 | CELEBRA | VIATRIS FARMACEUTICA DO BRASIL LTDA | Ativo |
+| 100470630 | CELECOXIBE | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 102160135 | CELEBRA | LABORATÓRIOS PFIZER LTDA | Cancelado |
+| 102160232 | CELECOXIBE | LABORATÓRIOS PFIZER LTDA | Cancelado |
+| 102160268 | DICOXIBE | LABORATÓRIOS PFIZER LTDA | Cancelado |
+| 102160269 | CELEBRA | LABORATÓRIOS PFIZER LTDA | Cancelado |
+| 103700602 | CELARTRIT | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
+| 105730489 | CELECOXIBE | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Cancelado |
+| 112130475 | CELECOXIBE | BIOSINTÉTICA FARMACÊUTICA LTDA | Cancelado |
+| 121100307 | CELECOXIBE | PFIZER BRASIL LTDA | Cancelado |
+| 121100308 | DICOXIBE | PFIZER BRASIL LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 39 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 - **Contraindicações e condições de risco associadas ao fármaco (base de conhecimento do TxGNN, não texto de bula)**: hipertensão, doença renal, doença hepática, doença da vesícula biliar, insuficiência cardíaca congestiva, úlcera péptica (incluindo ativa), asma (intrínseca e alérgica), dependência de substâncias, acidente vascular cerebral e doenças cerebrovasculares, infarto do miocárdio, trombose coronariana, doenças cardiovasculares, hemoglobinopatias e anemias.

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 504
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Paclitaxel"
 predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 description: "Paclitaxel: nova indicação prevista, Parameningeal embryonal rhabdomyosarcoma (nível de evidência L5). No Brasil, registros na ANVISA: 49 (ativos: 15)"
@@ -92,6 +92,47 @@ Foram identificados 40 ensaios para esta indicação; abaixo estão os mais rele
 | [20665703](https://pubmed.ncbi.nlm.nih.gov/20665703/) | 2011 | Pré-clínico (in vitro) | Journal of Cellular Physiology | ZD6474 potencializa os efeitos antiproliferativos e apoptóticos do paclitaxel em células de carcinoma de mama |
 | [31515668](https://pubmed.ncbi.nlm.nih.gov/31515668/) | 2019 | Pré-clínico | Cancer Chemotherapy and Pharmacology | Silenciamento de SRSF3 sensibiliza células de câncer de mama ao paclitaxel |
 | [39317691](https://pubmed.ncbi.nlm.nih.gov/39317691/) | 2024 | Pré-clínico/computacional | Chemical Biology & Drug Design | Combinações de paclitaxel contra carcinoma de mama e identificação de biomarcadores in vivo |
+
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100330115 | ONTAX | LIBBS FARMACÊUTICA LTDA | Ativo |
+| 100410155 | PACLITAXEL | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100430899 | PACLITAXEL | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 106460227 | TAXILAN | LABORATORIO QUIMICO FARMACEUTICO BERGAMO LTDA | Ativo |
+| 116370126 | PACLITAXEL | BLAU FARMACÊUTICA S.A. | Ativo |
+| 116370208 | TOXXEL | BLAU FARMACÊUTICA S.A. | Ativo |
+| 116880021 | EVOTAXEL | FARMARIN INDUSTRIA E COMERCIO LTDA | Ativo |
+| 125760033 | ABRAXANE | UNITED MEDICAL LTDA | Ativo |
+| 155370001 | PANTIUM | ACCORD FARMACÊUTICA LTDA | Ativo |
+| 155370004 | PACLITAXEL | ACCORD FARMACÊUTICA LTDA | Ativo |
+| 165070027 | POKLI | CAMBER FARMACEUTICA LTDA | Ativo |
+| 165070033 | PACLITAXEL | CAMBER FARMACEUTICA LTDA | Ativo |
+| 186060002 | PACLIMEIZ | GADOR DO BRASIL - COMÉRCIO DE PRODUTOS FARMACÊUTIC | Ativo |
+| 188300046 | MYLTOL | VIATRIS FARMACEUTICA DO BRASIL LTDA | Ativo |
+| 189770005 | TAXOL | BIOPAS BRASIL PRODUTOS FARMACEUTICOS LTDA | Ativo |
+| 100430516 | PACLITAX | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100431153 | PACLITAX | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100470409 | TARVEXOL | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100470553 | PACLITAXEL | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100470560 | TARVEXOL | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100630173 | TACLIPAXOL | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100680889 | TARVEXOL | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 101620232 | ONXEL | LABORATÓRIOS PIERRE FABRE DO BRASIL LTDA | Cancelado |
+| 101800151 | TAXOL | BRISTOL-MYERS SQUIBB FARMACÊUTICA LTDA | Cancelado |
+| 102980142 | PAXEL | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Cancelado |
+| 104450137 | EVOTAXEL | LABORATORIO SINTERAPICO INDUSTRIAL FTCO LTDA | Cancelado |
+| 106460139 | TAXILAN | LABORATORIO QUIMICO FARMACEUTICO BERGAMO LTDA | Cancelado |
+| 106460217 | AKSSUS | LABORATORIO QUIMICO FARMACEUTICO BERGAMO LTDA | Cancelado |
+| 108580189 | PROTAXEL | PRODOTTI LABORATÓRIO FARMACÊUTICO LTDA. | Cancelado |
+| 110130234 | PACLITAXEL | GLENMARK FARMACÊUTICA LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 49 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

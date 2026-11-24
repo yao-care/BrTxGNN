@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00730
 monitor_inn: "Thiabendazole"
 predicted_indications: ["echinococcus granulosus infectious disease", "alveolar echinococcosis", "Cryptococcal meningitis", "cystic echinococcosis", "furuncular myiasis", "wound myiasis", "toxoplasmosis", "toxascariasis", "anisakiasis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tiabendazol: nova indicação prevista, Equinococose granulosa (echinococcus granulosus infectious disease) (nível de evidência L5). No Brasil, registros na ANVISA: 57 (ativos: 1)"
 ---
 
@@ -60,6 +60,47 @@ Segundo o ChEMBL (EMBL-EBI), o mecanismo de ação registrado para Tiabendazol �
 Esse raciocínio é apenas por classe: albendazol e mebendazol, outros benzimidazóis, são as opções medicamentosas estabelecidas para equinococoses. Não há, porém, estudo recuperado que avalie o tiabendazol especificamente nesta doença.
 
 A pontuação muito alta (0,9999) é uma previsão do modelo e não é sustentada por dados clínicos. A literatura relacionada à equinococose cística, causada pelo mesmo parasita, descreve principalmente falha de tratamento ou eficácia limitada do tiabendazol, de modo que o sinal disponível é negativo. Esses estudos não estudam diretamente a doença prevista; por isso, o nível de evidência permanece L5.
+
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 105710183 | THIABEN | BELFAR LTDA | Ativo |
+| 100430689 | HELMIBEN | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100490080 | TIABENDAZOL + NEOMICINA | LABORATÓRIO SAÚDE LTDA | Cancelado |
+| 100490082 | THIASIB-N | LABORATÓRIO SAÚDE LTDA | Cancelado |
+| 100930075 | OCTELMIN | MANTECORP INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A. | Cancelado |
+| 101910283 | TIABENDAZOL | THERASKIN FARMACEUTICA LTDA. | Cancelado |
+| 102350728 | MEBENDAZOL+TIABENDAZOL | EMS S/A | Cancelado |
+| 102350741 | TIABENDAZOL | EMS S/A | Cancelado |
+| 102350807 | TIABENDAZOL | EMS S/A | Cancelado |
+| 102350833 | PANVERMIN | EMS S/A | Cancelado |
+| 102350866 | TIABENDAZOL | EMS S/A | Cancelado |
+| 102350889 | EMANZOL | EMS S/A | Cancelado |
+| 103700253 | TIABENZOL | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
+| 103850048 | TUTIVERM | LABORATÓRIO FARMACÊUTICO ELOFAR LTDA | Cancelado |
+| 104040087 | PUROVERMIN | LUPER INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 104400086 | TIAPLEX | CELLERA FARMACEUTICA S.A. | Cancelado |
+| 104400187 | TIADOL | CELLERA FARMACEUTICA S.A. | Cancelado |
+| 104650020 | NEOVERMIN | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 104970128 | TIAVERMIN | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Cancelado |
+| 104971151 | FOLDAN | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Cancelado |
+| 104971348 | TIABENDAZOL | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Cancelado |
+| 105500020 | TIABIOSE | UCI - FARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 105500037 | THIABEN | UCI - FARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 105500038 | THIABENA | UCI - FARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 105500181 | THIABENA | UCI - FARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 105500182 | TIABENDAZOL | UCI - FARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 105710012 | MICOSBEL | BELFAR LTDA | Cancelado |
+| 105710181 | THIABENA | BELFAR LTDA | Cancelado |
+| 105710182 | TIABENDAZOL | BELFAR LTDA | Cancelado |
+| 105750123 | TIADOL | VALEANT FARMACÊUTICA DO BRASIL LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 57 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

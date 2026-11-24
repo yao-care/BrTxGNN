@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 668
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 monitor_inn: "Venetoclax"
 predicted_indications: ["Hodgkins lymphoma", "chronic myelogenous leukemia, BCR-ABL1 positive", "Ewing sarcoma", "follicular lymphoma", "metastatic neoplasm", "malignant spiradenoma"]
 description: "Venetoclax: nova indicação prevista, Hodgkins lymphoma (nível de evidência L5). No Brasil, registros na ANVISA: 1 (ativos: 1)"
@@ -73,6 +73,16 @@ Não há literatura que avalie venetoclax nesta indicação específica. A publi
 |------|-----|------|------|---------|
 | [35158929](https://pubmed.ncbi.nlm.nih.gov/35158929/) | 2022 | Revisão (análise biológica) | Cancers | Análise da estrutura e função do receptor de células B (BCR) tumoral na LLC, distinguindo os subtipos com IGHV não mutado (pior prognóstico) e mutado (melhor prognóstico). Não é evidência clínica de eficácia de venetoclax. |
 
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 198600014 | VENCLEXTA | ABBVIE FARMACÊUTICA LTDA. | Ativo |
+
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 - **Interações Medicamentosas**: foram identificadas 100 interações no total; as 20 primeiras consultadas incluem:
@@ -88,13 +98,32 @@ Para advertências e contraindicações formais, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão tem pontuação alta e base mecanística sólida (dependência de BCL-2 na LLC), mas não há ensaios nem literatura específicos para o subtipo com IGHV mutado (nível L5). Além disso, o fármaco não consta como comercializado no Brasil, e os dados de segurança da bula estão ausentes.
+- A previsão tem pontuação alta e base mecanística sólida (dependência de BCL-2 na LLC), mas não há ensaios nem literatura específicos para o subtipo com IGHV mutado (nível L5). Além disso, os dados de segurança da bula estão ausentes.
+
+<!-- review:begin br-lic-20261124c-venetoclax-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Além disso, o fármaco não consta como comercializado no Brasil, e os dados de segurança da bula estão ausentes.” Corrigido conforme os dados abertos de medicamentos da ANVISA: o medicamento tem registros no Brasil (válidos e cancelados), listados na tabela da seção de informações de comercialização; os números atualizados estão no resumo rápido. Só foi retirada a premissa errada; o restante do texto não foi alterado. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124c-venetoclax-1 -->
 
 **Para prosseguir, é necessário:**
 - Extrair dados de subgrupos por status de IGHV de ensaios existentes em LLC (MURANO, CLL14 e outros).
 - Obter a bula da ANVISA (advertências e contraindicações) e confirmar a situação regulatória atual do venetoclax no Brasil.
 - Obter dados detalhados do mecanismo de ação (MOA).
 - Definir plano de monitoramento de segurança (síndrome de lise tumoral, mielossupressão, interações com inibidores de CYP3A).
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-24 | “Além disso, o fármaco não consta como comercializado no Brasil, e os dados de segurança da bula estão ausentes.” → “Além disso, os dados de segurança da bula estão ausentes.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

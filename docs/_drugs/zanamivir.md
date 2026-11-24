@@ -75,6 +75,16 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Atualmente não há literatura relacionada para a indicação principal (pielonefrite).
 
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 101070263 | RELENZA | GLAXOSMITHKLINE BRASIL LTDA | Ativo |
+
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 - **Contraindicações previstas pelo grafo de conhecimento** (não provêm de bula): epilepsia, doença pulmonar obstrutiva crônica (DPOC), DPOC grave de início precoce, doença brônquica e delírio. Convém confirmar esses itens na bula antes de qualquer uso.

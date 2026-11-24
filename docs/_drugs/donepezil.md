@@ -64,13 +64,56 @@ Assim, a previsão deve ser tratada apenas como um sinal gerado pelo modelo, a s
 
 ## Informações de Comercialização no Brasil
 
-A lista de registros pode estar incompleta (registros parciais), e o detalhamento por registro não está disponível nos dados deste relatório.
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431199 | DON | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100470488 | CLORIDRATO DE DONEPEZILA | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100630277 | CLORIDRATO DE DONEPEZILA | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100681171 | CLORIDRATO DE DONEPEZILA | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 101180627 | CLORIDRATO DE DONEPEZILA + CLORIDRATO DE MEMANTINA | APSEN FARMACEUTICA S/A | Ativo |
+| 101180628 | ALOIS DUO | APSEN FARMACEUTICA S/A | Ativo |
+| 101180645 | ALOIS DUO PACK | APSEN FARMACEUTICA S/A | Ativo |
+| 102351293 | CLORIDRATO DE DONEPEZILA | EMS S/A | Ativo |
+| 102351380 | MORIALE DUO | EMS S/A | Ativo |
+| 102351385 | CLORIDRATO DE DONEPEZILA + CLORIDRATO DE MEMANTINA | EMS S/A | Ativo |
+| 102980392 | LABREA | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980393 | CLORIDRATO DE DONEPEZILA | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980577 | LÁBREA DUO | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103720254 | SENES | SUPERA FARMA LABORATÓRIOS S.A | Ativo |
+| 104971515 | CLORIDRATO DE DONEPEZILA | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971516 | DEPZEL | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 105250040 | EPÉZ | TORRENT DO BRASIL LTDA | Ativo |
+| 105250042 | CLORIDRATO DE DONEPEZILA | TORRENT DO BRASIL LTDA | Ativo |
+| 105250127 | EPÉZ DUO | TORRENT DO BRASIL LTDA | Ativo |
+| 105250138 | EPÉZ ODT | TORRENT DO BRASIL LTDA | Ativo |
+| 105350249 | CLORIDRATO DE DONEPEZILA | LABORATÓRIO GLOBO SA | Ativo |
+| 105730044 | COMFECT | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730046 | COMFECT DUO | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730438 | DONILA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730467 | DONILA DUO | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730668 | CLORIDRATO DE DONEPEZILA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730736 | CLORIDRATO DE DONEPEZILA + CLORIDRATO DE MEMANTINA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 109170142 | CLORIDRATO DE DONEPEZILA | MEDQUIMICA INDUSTRIA FARMACEUTICA LTDA. | Ativo |
+| 109740351 | CLORIDRATO DE DONEPEZILA | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 110390162 | FURP-DONEPEZILA | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 66 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 <!-- review:begin br-lic-20261106-donepezil-1 -->
 
 > **Correção de verificação (2026-11-06)**: Texto original: “Segundo os dados compilados, o medicamento consta como comercializado, com 10 registros válidos. A lista de registros pode estar incompleta (registros parciais), e o detalhamento por registro não está disponível nos dados deste relatório.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-donepezil-1 -->
+
+<!-- review:begin br-lic-20261124c-donepezil-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “A lista de registros pode estar incompleta (registros parciais), e o detalhamento por registro não está disponível nos dados deste relatório.” Removido: a frase dizia que a lista de registros seria parcial ou não estaria disponível; os dados abertos de medicamentos da ANVISA usados nesta página trazem todos os registros do medicamento, que estão na tabela desta seção gerada por programa (os números atualizados estão no resumo rápido e na tabela). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124c-donepezil-1 -->
 
 ## Considerações de Segurança
 
@@ -102,6 +145,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 |------|------|------|------|
 | 2026-11-06 | Removido: “Segundo os dados compilados, o medicamento consta como comercializado, com 10 registros válidos” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Aricept (donepezil hydrochloride) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98e451e1-e4d7-4439-a675-c5457ba20975) |
+| 2026-11-24 | Removido: “A lista de registros pode estar incompleta (registros parciais), e o detalhamento por registro não está disponível nos dados deste relatório.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

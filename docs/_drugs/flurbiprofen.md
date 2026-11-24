@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "FLURBIPROFEN"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "hypermobility of coccyx"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Flurbiprofen: nova indicação prevista, Displasia acromesomélica tipo Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) (nível de evidência L5)."
 ---
 
@@ -64,7 +64,30 @@ A pontuação alta do TxGNN parece refletir proximidade computacional com fenót
 
 ## Informações de Comercialização no Brasil
 
-O flurbiprofeno consta como **comercializado** no Brasil, com 10 registros no total, dos quais 6 estão válidos e 4 cancelados. Os dados compilados não trazem o detalhamento individual dos registros (número, nome comercial e forma farmacêutica), por isso não é possível listá-los em tabela.
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 155840720 | FLURBIPROFENO | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 155840729 | STOPAIN | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 156260023 | TARGUS | LABORATÓRIOS BAGÓ DO BRASIL S/A | Ativo |
+| 156260035 | SABIVARNEX | LABORATÓRIOS BAGÓ DO BRASIL S/A | Ativo |
+| 173900003 | STREPSILS | RECKITT BENCKISER (BRASIL) LTDA | Ativo |
+| 178171011 | BENEFLAMTABS | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Ativo |
+| 101160160 | TARGUS LAT | KNOLL PRODS QUIMS FARMACEUTICOS LTDA. | Cancelado |
+| 101470042 | OCUFEN | ALLERGAN PRODUTOS FARMACÊUTICOS LTDA | Cancelado |
+| 105530324 | TARGUS LAT | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Cancelado |
+| 148690014 | GENOPROFEN | FORMIL FARMACÊUTICA LTDA | Cancelado |
+
+<!-- licenses:end -->
+
+O flurbiprofeno consta como **comercializado** no Brasil, com 10 registros no total, dos quais 6 estão válidos e 4 cancelados.
+
+<!-- review:begin br-lic-20261124c-flurbiprofen-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Os dados compilados não trazem o detalhamento individual dos registros (número, nome comercial e forma farmacêutica), por isso não é possível listá-los em tabela.” Removido: a frase dizia que a lista de registros não estava disponível ou não seria apresentada; esta seção agora traz a tabela de registros gerada por programa a partir dos dados abertos de medicamentos da ANVISA, com todos os registros do medicamento nos dados (os números atualizados estão no resumo rápido e na tabela). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124c-flurbiprofen-1 -->
 
 ## Considerações de Segurança
 
@@ -90,11 +113,12 @@ O flurbiprofeno consta como **comercializado** no Brasil, com 10 registros no to
 
 ## Registro de verificação
 
-Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Lurbiro (flurbiprofen) prescribing information, IPG Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7ebf7427-eaae-4035-a6b2-0ea6381e8763) |
+| 2026-11-24 | Removido: “Os dados compilados não trazem o detalhamento individual dos registros (número, nome comercial e forma farmacêutica), por isso não é possível listá-los em tabela.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

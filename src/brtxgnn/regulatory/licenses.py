@@ -9,6 +9,7 @@
   3. 表格列寫的狀態不得跟事實相反（checker row_status_conflicts）。
   4. 程式許可證表（2026-11-24 起，scripts/sync_license_tables.py）：「## Informações de Comercialização no Brasil」段落裡有表的頁，
      表要是程式區塊（<!-- licenses:begin/end -->），內容＝依快照 rows／total／partial 重算的結果。
+  5. 公開頁（非 noindex）快照有程式表列，卻整頁沒有市場段落、或段落裡沒有程式表（2026-11-24 第三輪）。
 修法：資料變了→跑每週排程（或 scripts/build_license_snapshot.py 重建快照）；正文提到的號碼、狀態不對→寫查核紀錄
 （docs/_data/drug_reviews.json）再跑 scripts/apply_drug_reviews.py。
 """
@@ -169,6 +170,16 @@ def page_problems(stem: str, text: str) -> list[str]:
                 if bad:
                     errs.append(f"市場段落正文的許可證號不屬於本藥：{', '.join(bad[:5])}")
     errs += program_block_problems(lines, e)
+    # 2026-11-24 第三輪（用戶決定）：公開頁快照有程式表列，卻整頁沒有市場段落、或段落裡沒有程式表 → 擋（scripts/sync_license_tables.py 補）
+    S = SLT()
+    if e.get("rows") and S.public(text):
+        if S.SEC not in lines:
+            errs.append("公開頁有證據包許可證紀錄卻沒有市場段落（跑 python3 scripts/sync_license_tables.py）")
+        else:
+            a0 = lines.index(S.SEC) + 1
+            b0 = next((k for k in range(a0, len(lines)) if lines[k].startswith("## ")), len(lines))
+            if S.BEGIN not in lines[a0:b0]:
+                errs.append("公開頁有證據包許可證紀錄，市場段落卻沒有程式表（跑 python3 scripts/sync_license_tables.py）")
     if fc:
         all_rows = [r for t in _tables(lines) for r in _rows(t)]
         st = ck.status_row(SITE, all_rows)

@@ -76,6 +76,47 @@ Entre as demais previsões do modelo, apenas as duas abaixo têm alguma literatu
 | Indicação | Pontuação TxGNN | Nível | Observação |
 |------|------|------|------|
 
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100410052 | PURISOLE SM | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100431404 | MINILAX | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 103110175 | SORBITOL + MANITOL | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Ativo |
+| 106830085 | BAXTER SORBITOL | BAXTER HOSPITALAR LTDA | Ativo |
+| 106890199 | ENEMIN | KLEY HERTZ FARMACEUTICA S.A | Ativo |
+| 119610010 | LIPOSIC | BL INDÚSTRIA OTICA LTDA | Ativo |
+| 100410004 | AMINOSTERIL NEFRO | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100410027 | AMINOSTERIL 800 | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100430937 | MINILAX | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100431181 | SOLLIEVO | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100470123 | BABY FORT | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100850077 | SOLUÇÃO DE SORBITOL E MANITOL COMPOSTA | LABORATORIOS B. BRAUN S/A | Cancelado |
+| 100850136 | AMINOPLASMAL | LABORATORIOS B. BRAUN S/A | Cancelado |
+| 100870011 | HYRCAL B 12 | QUIMIOTERAPICA BRASILEIRA LTDA | Cancelado |
+| 101380059 | MINILAX | ISA LABORATORIOS LTDA | Cancelado |
+| 102350011 | ANEKRON | EMS S/A | Cancelado |
+| 102350029 | COLACHOFRA | EMS S/A | Cancelado |
+| 102350256 | ALCACHOFRA COMPOSTA | EMS S/A | Cancelado |
+| 102640054 | ALCACHOFRA COMPOSTA | MILLER INDUSTRIAL FTCA LTDA | Cancelado |
+| 102850014 | SANGOTONE | LABORATORIOS GEMBALLA LTDA | Cancelado |
+| 102850024 | VITONIL | LABORATORIOS GEMBALLA LTDA | Cancelado |
+| 104340028 | LACTATO DE CALCIO + ASSOCIACAO | PROFARB LTDA | Cancelado |
+| 106460167 | HEPALIN | LABORATORIO QUIMICO FARMACEUTICO BERGAMO LTDA | Cancelado |
+| 107740480 | LIPOTRON | LABORATÓRIO CANGERI LTDA | Cancelado |
+| 111930020 | CALCIOBION | IBEFAR INST BRAS ESPECIALIDADES FTCAS LTDA | Cancelado |
+| 112363339 | RARICAL | JANSSEN-CILAG FARMACÊUTICA LTDA | Cancelado |
+| 113440022 | ENDORBITOL | ENDOMED LABORATORIO FARMACEUTICO LTDA | Cancelado |
+| 115600051 | HEPATOX | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Cancelado |
+| 121100120 | EPOCLER | PFIZER BRASIL LTDA | Cancelado |
+| 123890076 | MICROLAX | PHARMACIA BRASIL LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 33 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 - **Contraindicações (grafo de conhecimento, não bula)**: doença ulcerosa péptica ativa.

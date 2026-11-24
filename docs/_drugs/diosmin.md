@@ -80,6 +80,47 @@ Atualmente não há literatura relacionada para amenorreia.
 | [33496999](https://pubmed.ncbi.nlm.nih.gov/33496999/) | 2021 | Coorte | Dermatologic Therapy | Série de 75 pacientes brasileiros com vasculopatia livedoide (clínica, histopatologia e terapia), em centro único da USP |
 | [24214586](https://pubmed.ncbi.nlm.nih.gov/24214586/) | 2013 | Estudo clínico de patogênese | Georgian Medical News | Em 94 gestantes com pré-eclâmpsia, observou-se trombofilia com maior agregação plaquetária e alterações da variabilidade da frequência cardíaca fetal |
 
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431096 | PERIVASC | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431376 | DIEVARI | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 102351344 | DIOVASES | EMS S/A | Ativo |
+| 102351353 | PASSARE | EMS S/A | Ativo |
+| 102980608 | CONVIVANCE | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103700267 | VENAFLON | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103720299 | DHIVAS | SUPERA FARMA LABORATÓRIOS S.A | Ativo |
+| 103850117 | DIVEINS | LABORATÓRIO FARMACÊUTICO ELOFAR LTDA | Ativo |
+| 103920203 | BIOVARIXON | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 103920209 | BIOVARIXON | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 103920232 | DUOVAZI | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 103920235 | DUOVAZI | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 104440020 | FLEBODIA | LABORATÓRIO GROSS S. A. | Ativo |
+| 104440023 | ROYDASS | LABORATÓRIO GROSS S. A. | Ativo |
+| 104971523 | DVARIZ | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971524 | VARYLIFT | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 105350208 | DIOHESP | LABORATÓRIO GLOBO SA | Ativo |
+| 105730038 | VENOXIDE | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730154 | DISP H | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730159 | DISP H | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730248 | DIOSMIN | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730383 | DIOSMIN SDU | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 106890206 | DIOPLEX DH | KLEY HERTZ FARMACEUTICA S.A | Ativo |
+| 109740124 | FLAVENOS | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 109740250 | DIOEH | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 112780003 | DAFLON | LABORATÓRIOS SERVIER DO BRASIL LTDA | Ativo |
+| 115600191 | VARIFLUX | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
+| 115600283 | CONDUVAZ | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
+| 118190223 | VEVASO | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 123520274 | VEERE | RANBAXY FARMACÊUTICA LTDA | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 49 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 Consulte a bula para informações de segurança. Não foram encontradas interações medicamentosas nos dados compilados.

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 605
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Tamoxifen"
 predicted_indications: ["mammary Paget disease", "Ehrlich tumor carcinoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 description: "Tamoxifen: nova indicação prevista, Doença de Paget mamária (mammary Paget disease) (nível de evidência L5). No Brasil, registros na ANVISA: 30 (ativos: 11)"
@@ -96,7 +96,48 @@ Contudo, a evidência é **indireta**. A pontuação TxGNN muito alta reflete a 
 
 ## Informações de Comercialização no Brasil
 
-Essa informação diverge da realidade esperada para um fármaco amplamente usado e **deve ser verificada** diretamente na ANVISA.
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431482 | TAMOXIN | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431499 | CITRATO DE TAMOXIFENO | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100470280 | CITRATO DE TAMOXIFENO | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 102351241 | CITRATO DE TAMOXIFENO | EMS S/A | Ativo |
+| 102351270 | TACFEN | EMS S/A | Ativo |
+| 105830927 | CITRATO DE TAMOXIFENO | GERMED FARMACEUTICA LTDA | Ativo |
+| 116180036 | NOLVADEX | ASTRAZENECA DO BRASIL LTDA | Ativo |
+| 116370027 | TAXOFEN | BLAU FARMACÊUTICA S.A. | Ativo |
+| 116370130 | CITRATO DE TAMOXIFENO | BLAU FARMACÊUTICA S.A. | Ativo |
+| 118190332 | CITRATO DE TAMOXIFENO | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 167730587 | CITRATO DE TAMOXIFENO | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100430582 | TAMOXIN | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100430982 | CITRATO DE TAMOXIFENO | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100470414 | FESTONE | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100680938 | FESTONE | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 101620208 | TAXARIM | LABORATÓRIOS PIERRE FABRE DO BRASIL LTDA | Cancelado |
+| 102980144 | TAMOX | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Cancelado |
+| 104970267 | TAMOXITRAT | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Cancelado |
+| 109860020 | TAMOX | IBFARMA INDUSTRIA DE BIOTECNOLOGIA FTCA LTDA. | Cancelado |
+| 112130077 | BIOXIFENO | BIOSINTÉTICA FARMACÊUTICA LTDA | Cancelado |
+| 112130351 | CITRATO DE TAMOXIFENO | BIOSINTÉTICA FARMACÊUTICA LTDA | Cancelado |
+| 112330052 | CITRATO DE TAMOXIFENO | LABORATORIO QUIMICO FARMACEUTICO DA AERONAUTICA | Cancelado |
+| 112830070 | TAMOXYTA | LABORATORIO ITAFARMA LTDA | Cancelado |
+| 121170105 | TAMOPLEX | ASTA MÉDICA LTDA | Cancelado |
+| 122050046 | BILEM | LABORATORIO ENILA IND. E COM. DE PROD. QUIM. E FAR | Cancelado |
+| 122140005 | TECNOTAX | ADIUM S.A. | Cancelado |
+| 123610016 | TAMOOEX | UCB BIOPHARMA LTDA. | Cancelado |
+| 124870012 | TAMOXIFENO | PAYAM NEDA | Cancelado |
+| 126750304 | CITRATO DE TAMOXIFENO | NOVA QUIMICA FARMACÊUTICA S/A | Cancelado |
+| 150820022 | TAMOPLEX | ASTA MÉDICA-ONCOLOGIA LTDA | Cancelado |
+
+<!-- licenses:end -->
+
+<!-- review:begin br-lic-20261124c-tamoxifen-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Essa informação diverge da realidade esperada para um fármaco amplamente usado e **deve ser verificada** diretamente na ANVISA.” Removido: a frase se referia a uma afirmação sobre os registros removida anteriormente e ficou sem sentido; esta seção agora traz a tabela de registros gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os números atualizados estão no resumo rápido e na tabela). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124c-tamoxifen-1 -->
 
 ---
 
@@ -158,11 +199,12 @@ Essa informação diverge da realidade esperada para um fármaco amplamente usad
 
 ## Registro de verificação
 
-Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Soltamox (tamoxifen citrate) prescribing information, Mayne Pharma](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e6ff055-590c-41e6-9530-1fdf04cdbd02) |
+| 2026-11-24 | Removido: “Essa informação diverge da realidade esperada para um fármaco amplamente usado e **deve ser verificada** diretamente na ANVISA.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

@@ -72,13 +72,29 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-O Brasil tem registros válidos e cancelados (números atualizados no resumo rápido) para o droperidol. Os dados compilados não trazem o detalhamento dos registros (nome comercial, forma farmacêutica e texto de indicação), por isso a tabela é omitida.
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 102980078 | DROPERDAL | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980302 | NILPERIDOL | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 104650153 | NEOPERIDIL | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+
+<!-- licenses:end -->
+
+O Brasil tem registros válidos e cancelados (números atualizados no resumo rápido) para o droperidol.
 
 <!-- review:begin br-lic-20261112-droperidol-1 -->
 
 > **Correção de verificação (2026-11-24)**: Texto original: “O Brasil tem 4 registros (2 válidos e 2 cancelados)” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261112-droperidol-1 -->
+
+<!-- review:begin br-lic-20261124c-droperidol-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Os dados compilados não trazem o detalhamento dos registros (nome comercial, forma farmacêutica e texto de indicação), por isso a tabela é omitida.” Removido: a frase dizia que a lista de registros não estava disponível ou não seria apresentada; esta seção agora traz a tabela de registros gerada por programa a partir dos dados abertos de medicamentos da ANVISA, com todos os registros do medicamento nos dados (os números atualizados estão no resumo rápido e na tabela). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124c-droperidol-1 -->
 
 ## Considerações de Segurança
 
@@ -109,6 +125,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 |------|------|------|------|
 | 2026-11-24 | “O Brasil tem 4 registros (2 válidos e 2 cancelados)” → “O Brasil tem registros válidos e cancelados (números atualizados no resumo rápido)” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte (revisado em 2026-11-20; versão anterior guardada no registro) | [ChEMBL CHEMBL1108 (droperidol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1108) |
+| 2026-11-24 | Removido: “Os dados compilados não trazem o detalhamento dos registros (nome comercial, forma farmacêutica e texto de indicação), por isso a tabela é omitida.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

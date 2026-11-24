@@ -80,6 +80,28 @@ Foram listadas as publicações mais relevantes e específicas ao nitrazepam. Ne
 | [10804040](https://pubmed.ncbi.nlm.nih.gov/10804040/) | 2000 | Revisão (zolpidem) | Drugs | Eficácia hipnótica do zolpidem comparável à de benzodiazepínicos como o nitrazepam |
 | [3281819](https://pubmed.ncbi.nlm.nih.gov/3281819/) | 1988 | Revisão (brotizolam) | Drugs | Brotizolam melhorou o sono de forma semelhante ao nitrazepam 2,5 e 5 mg |
 
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 105830362 | NITRAZEPAM (PORT 344/98 LISTA B1) | GERMED FARMACEUTICA LTDA | Ativo |
+| 110390207 | NITRAZEPAM | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Ativo |
+| 135690589 | SONEBON | EMS SIGMA PHARMA LTDA | Ativo |
+| 101810286 | SONOTRAT | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 102350696 | NITRAZEPAM (PORT 344/98 LISTA B1) | EMS S/A | Cancelado |
+| 102980037 | NITRAPAN | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Cancelado |
+| 102980243 | NITRAPAN | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Cancelado |
+| 103940541 | NITRAZEPOL | LABORATÓRIO AMERICANO DE FARMACOTERAPIA S/A | Cancelado |
+| 104970146 | HIPNOTIC | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Cancelado |
+| 105830171 | SONEBON | GERMED FARMACEUTICA LTDA | Cancelado |
+| 112330028 | LAQFA NITRAZEPAM | LABORATORIO QUIMICO FARMACEUTICO DA AERONAUTICA | Cancelado |
+| 121550009 | SECUTRAZEPAN | ENGEFARMA PRODS. FARMACÊUTICOS LTDA. | Cancelado |
+| 135690224 | NITRAZEPAM (PORT 344/98 LISTA B1) | EMS SIGMA PHARMA LTDA | Cancelado |
+
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 - **Interações Medicamentosas**: foram identificadas 55 interações registradas, todas sem classificação de gravidade (nível "desconhecido"). Entre as primeiras listadas estão morfina, metformina, lansoprazol, hidrocortisona, loperamida, metronidazol, famotidina, ácido acetilsalicílico, bupropiona, canamicina, budesonida, metoclopramida, dexametasona, pantoprazol, omeprazol, sucralfato, vancomicina, lactulose, nizatidina e calcitriol.
@@ -92,7 +114,13 @@ Para advertências e contraindicações formais, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- A indicação prevista praticamente coincide com o uso original (insônia), portanto não representa reposicionamento novo. As demais previsões (encefalopatia aguda com convulsões bifásicas e síndrome de Wernicke-Korsakoff) não têm nenhum estudo de apoio, e a segunda carece de vínculo mecanístico. Além disso, o fármaco não está registrado nem comercializado no Brasil.
+- A indicação prevista praticamente coincide com o uso original (insônia), portanto não representa reposicionamento novo. As demais previsões (encefalopatia aguda com convulsões bifásicas e síndrome de Wernicke-Korsakoff) não têm nenhum estudo de apoio, e a segunda carece de vínculo mecanístico.
+
+<!-- review:begin br-lic-20261124c-nitrazepam-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “e a segunda carece de vínculo mecanístico. Além disso, o fármaco não está registrado nem comercializado no Brasil.” Corrigido conforme os dados abertos de medicamentos da ANVISA: o medicamento tem registros no Brasil (válidos e cancelados), listados na tabela da seção de informações de comercialização; os números atualizados estão no resumo rápido. Só foi retirada a premissa errada; o restante do texto não foi alterado. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124c-nitrazepam-1 -->
 
 **Para prosseguir, é necessário:**
 - Obter a bula da ANVISA com advertências e contraindicações, pois a ausência desses dados bloqueia a triagem de segurança.
@@ -115,6 +143,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Avaliar a viabilidade regulatória: não há registro vigente no Brasil” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “e a segunda carece de vínculo mecanístico. Além disso, o fármaco não está registrado nem comercializado no Brasil.” → “e a segunda carece de vínculo mecanístico.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Lumacaftor"
 predicted_indications: ["leprosy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lumacaftor: nova indicação prevista, Hanseníase (leprosy) (nível de evidência L5). No Brasil, registros na ANVISA: 2 (ativos: 2)"
 ---
 
@@ -68,6 +68,17 @@ Atualmente não há ensaios clínicos relacionados registrados.
 ## Evidências da Literatura
 
 Atualmente não há literatura relacionada.
+
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 138230001 | ORKAMBI | VERTEX FARMACEUTICA DO BRASIL LTDA. | Ativo |
+| 138230004 | ORKAMBI | VERTEX FARMACEUTICA DO BRASIL LTDA. | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

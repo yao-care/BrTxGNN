@@ -72,6 +72,47 @@ Atualmente não há ensaios clínicos relacionados registrados.
 | [29621248](https://pubmed.ncbi.nlm.nih.gov/29621248/) | 2018 | Coorte | PloS one | Adesão à rivaroxabana versus apixabana em fibrilação atrial não valvar. Não relacionado à artrite reumatoide. |
 | [41918541](https://pubmed.ncbi.nlm.nih.gov/41918541/) | 2026 | Relato de caso | Cureus | Infarto cerebral tromboembólico perioperatório em paciente idosa com artrite reumatoide em uso de corticoide oral; a artrite é apenas comorbidade. |
 
+## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100330225 | LIXXAFOR | LIBBS FARMACÊUTICA LTDA | Ativo |
+| 100431347 | RIVAXA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431360 | RIVAR | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431361 | RIVAROXABANA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431445 | RIVOXX | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 101180635 | XAFAC | APSEN FARMACEUTICA S/A | Ativo |
+| 101180637 | RIVAROXABANA | APSEN FARMACEUTICA S/A | Ativo |
+| 102351265 | RIVAROXABANA | EMS S/A | Ativo |
+| 102351283 | VYNAXA | EMS S/A | Ativo |
+| 103700816 | RIVAROXABANA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 104070109 | RIVAROXABANA | INSTITUTO VITAL BRAZIL S/A | Ativo |
+| 104971499 | RIVAROXABANA | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971503 | XAB | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 105250080 | RIVAROXABANA | TORRENT DO BRASIL LTDA | Ativo |
+| 105250085 | ACOG | TORRENT DO BRASIL LTDA | Ativo |
+| 105350239 | RIVAROXABANA | LABORATÓRIO GLOBO SA | Ativo |
+| 105350248 | GLOBOXAREL | LABORATÓRIO GLOBO SA | Ativo |
+| 105730150 | LUROPE | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105830931 | RIVAROXABANA | GERMED FARMACEUTICA LTDA | Ativo |
+| 105830984 | FAXXA | GERMED FARMACEUTICA LTDA | Ativo |
+| 109170125 | XAREBOOSI | MEDQUIMICA INDUSTRIA FARMACEUTICA LTDA. | Ativo |
+| 109170127 | RIVAROXABANA | MEDQUIMICA INDUSTRIA FARMACEUTICA LTDA. | Ativo |
+| 109740343 | RIVAROXABANA | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 109740344 | DACXI | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 115410020 | RIVAROXABANA | CIPLA BRASIL IMPORTADORA E DISTRIBUIDORA DE MEDICA | Ativo |
+| 125680336 | RIVAROXABANA | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 125680363 | VAZULI | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 135170084 | RIVAROXABANA | ALTHAIA S.A. INDUSTRIA FARMACEUTICA | Ativo |
+| 141070638 | RIVAROXABANA | PHARLAB INDÚSTRIA FARMACÊUTICA S.A. | Ativo |
+| 143810275 | RIVAROXABANA | CIMED INDUSTRIA S.A | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 59 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 - **Contraindicações segundo o grafo de conhecimento (não é texto de bula)**: insuficiência hepática, doença renal, piureter, doença hepática, doença da vesícula biliar e distúrbio da coagulação sanguínea.

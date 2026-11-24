@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 5
 monitor_inn: "CITALOPRAM"
 predicted_indications: ["obsessive-compulsive disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "schizotypal personality disorder"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Citalopram: nova indicação prevista, Transtorno Obsessivo-Compulsivo (obsessive-compulsive disorder) (nível de evidência L3). No Brasil, registros na ANVISA: pelo menos 20"
 ---
 
@@ -87,6 +87,35 @@ A literatura recuperada inclui estudos abertos e pequenos estudos clínicos com 
 | [32242450](https://pubmed.ncbi.nlm.nih.gov/32242450/) | 2020 | Revisão sistemática/meta-análise | Nordic J Psychiatry | Fluoxetina no TOC pediátrico; contexto de classe, não do citalopram |
 
 ## Informações de Comercialização no Brasil
+
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431387 | CITTÀ | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 105730379 | EXODUS | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 154230199 | OXALATO DE ESCITALOPRAM | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 155840593 | CITALOPRAM | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 167730418 | OXALATO DE ESCITALOPRAM | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100470624 | LESDOT | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100681148 | OXALATO DE ESCITALOPRAM | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 100890286 | CITALOPRAM | MERCK S/A | Cancelado |
+| 100890297 | CITALOPRAM | MERCK S/A | Cancelado |
+| 100890345 | CELAPRAM | MERCK S/A | Cancelado |
+| 100890395 | CITALOPRAM | MERCK S/A | Cancelado |
+| 103900197 | UNITRAM | FARMOQUÍMICA S/A | Cancelado |
+| 104400214 | KONECTA | CELLERA FARMACÊUTICA S.A. | Cancelado |
+| 104540181 | SCITALAX | DAIICHI SANKYO BRASIL FARMACÊUTICA LTDA | Cancelado |
+| 105730408 | OXALATO DE ESCITALOPRAM | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Cancelado |
+| 112130402 | OXALATO DE ESCITALOPRAM | BIOSINTÉTICA FARMACÊUTICA LTDA | Cancelado |
+| 126750215 | OXALATO DE ESCITALOPRAM | NOVA QUIMICA FARMACÊUTICA S/A | Cancelado |
+| 137640126 | SEDOPAN | ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 141070104 | BROMIDRATO DE CITALOPRAM | PHARLAB INDÚSTRIA FARMACÊUTICA S.A. | Cancelado |
+| 167730364 | OXALATO DE ESCITALOPRAM | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+
+Os dados contêm apenas parte dos registros; a lista pode estar incompleta.
+
+<!-- licenses:end -->
 
 Segundo os dados de registro, o citalopram consta como comercializado no Brasil, com 5 registros válidos e 15 cancelados; a lista de registros pode estar incompleta.
 
