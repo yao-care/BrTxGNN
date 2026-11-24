@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Tocopherol. 0 indicações previstas."
 permalink: /news/tocopherol/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 ---
 
 # Notícias sobre Tocopherol
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Tocopherol?">
-<strong>Tocopherol</strong> tem atualmente <strong>10 notícias</strong> e 0 indicações previstas.
+<strong>Tocopherol</strong> tem atualmente <strong>9 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -30,15 +30,7 @@ Esta página combina as indicações previstas por IA para Tocopherol com as not
 <p><a href="{{ '/drugs/tocopherol/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (10)
-
-### [Os 5 músculos que mais importam com a idade — e como treinar cada um](https://news.google.com/rss/articles/CBMisgFBVV95cUxNX3dwZ29vb3ctV0dwZ3N0ZHFHNVRuVnpOTlJUcmswM3lYdExuOWNuLVQ5V3Y5dzlKNm9CVDhoNXBFZ3g4cUNWMnNiaGxoN2xGRzY4NDdYalhXaHZIQmNOdXlLenZHN0JiSFBSdHpiSldSM3dPWVVCb3ZOVG1FQ2RNNUdscUU0OE0zanVqY04wei04T1dnQ2J4eUtMcnVGT3NxOExMNGhhc2FNZjJfbkN6aXBR0gG3AUFVX3lxTE5fN0JXTWdBYmZVUE9MeXFodGlJeDNCME5VUkRpQU5ISWlUV0h6UV84Y2l6V210QVBoYkJIRENkWjVYaUg4Tzg5QkxXUDhhbGRPbEhoSnh0dWVVOXRKbHRpNVhsckhLNjJtVnhiXzhVWWROeF9BVDZySGlnVlI4d1psZmVMTUhkclV6QzlMdzRvaTJ2bDF0NDEwQ1VVY0ZBUjl5RWhnemdlWjVBVGpITjhFcWstbTZYUQ?oc=5)
-
-2026-11-22 <span class="news-indication-tag">cardiovascular</span>
-
-Fonte: [InfoMoney](https://news.google.com/rss/articles/CBMisgFBVV95cUxNX3dwZ29vb3ctV0dwZ3N0ZHFHNVRuVnpOTlJUcmswM3lYdExuOWNuLVQ5V3Y5dzlKNm9CVDhoNXBFZ3g4cUNWMnNiaGxoN2xGRzY4NDdYalhXaHZIQmNOdXlLenZHN0JiSFBSdHpiSldSM3dPWVVCb3ZOVG1FQ2RNNUdscUU0OE0zanVqY04wei04T1dnQ2J4eUtMcnVGT3NxOExMNGhhc2FNZjJfbkN6aXBR0gG3AUFVX3lxTE5fN0JXTWdBYmZVUE9MeXFodGlJeDNCME5VUkRpQU5ISWlUV0h6UV84Y2l6V210QVBoYkJIRENkWjVYaUg4Tzg5QkxXUDhhbGRPbEhoSnh0dWVVOXRKbHRpNVhsckhLNjJtVnhiXzhVWWROeF9BVDZySGlnVlI4d1psZmVMTUhkclV6QzlMdzRvaTJ2bDF0NDEwQ1VVY0ZBUjl5RWhnemdlWjVBVGpITjhFcWstbTZYUQ?oc=5)
-
----
+## Notícias relacionadas (9)
 
 ### [Exame na cabeça centenária de Jeremy Bentham revela artrite na mandíbula e problemas dentários - CNN Brasil](https://news.google.com/rss/articles/CBMizAFBVV95cUxOOWV0NzFKajN1T29CT1FQZ2k3cUFUTFJ1cVpsR0J5Zk44bW00TzVIWTFpTkNFd2RjWmFCS21hdkhydTdBTmF3c0REakJtaXlaZnFXSEE5SV9TNldnbURRcWdvTklwNXdZSzFhV2FWYkQ0SVU1Q3dEOFpJV2s3cVNYWWVZVS1yNE15a19oZVVHSXhDRFNoMkE0clUzY3VIRW0xZU5yMkFtWXRzUTlvelFWVW8zTEVzdlAtb3YtNFoxQUt3T1ZkQ1FBdV9uTTU?oc=5)
 

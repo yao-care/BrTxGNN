@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Serine?">
-<strong>Serine</strong> tem atualmente <strong>90 notícias</strong> e 8 indicações previstas.
+<strong>Serine</strong> tem atualmente <strong>93 notícias</strong> e 8 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,23 @@ Esta página combina as indicações previstas por IA para Serine com as notíci
 <p><a href="{{ '/drugs/serine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (90)
+## Notícias relacionadas (93)
+
+### [Câncer cresce entre jovens e acende alerta; veja 5 fatores associados ao aumento dos casos antes dos 50 anos - Jornal Correio](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQU2VLSjMyVTBqMzNZQUFZbi1namhpRjZILTZMRWMxQ3JrRy1VVGRsWGZqcnFxRnNmREcyWWg1b01kcXZiRmFwdXNRX3pRaGZBNGhBeVpnYUszYUtmNVpKSWQyckdzRUpQc3FWRW04S1ZWZzdMODZFWUwyUUJMTHJjMkZYMV9NVTBJM0ZxWjdxMVQta2JqczlFb1lqSy00TXZzUVpFcmVXeVFCYktWVlFEUERPVmZnY082SUZHTVBCeVJ0TGpsUmVKbFhZZ1FTWlFTSEhFMTkyajFYSEZiMlJPUXVnem5ZWjg?oc=5)
+
+2026-11-24 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Jornal Correio](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQU2VLSjMyVTBqMzNZQUFZbi1namhpRjZILTZMRWMxQ3JrRy1VVGRsWGZqcnFxRnNmREcyWWg1b01kcXZiRmFwdXNRX3pRaGZBNGhBeVpnYUszYUtmNVpKSWQyckdzRUpQc3FWRW04S1ZWZzdMODZFWUwyUUJMTHJjMkZYMV9NVTBJM0ZxWjdxMVQta2JqczlFb1lqSy00TXZzUVpFcmVXeVFCYktWVlFEUERPVmZnY082SUZHTVBCeVJ0TGpsUmVKbFhZZ1FTWlFTSEhFMTkyajFYSEZiMlJPUXVnem5ZWjg?oc=5)
+
+---
+
+### [Autoexame das mamas não precisa mais seguir movimentos específicos e não substitui a mamografia; veja orientações](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOdTY2R3oyU3k1ZjhyR3RhRW5qSjM1MWtTSzhuMnctWFhuQ0xRUE5oOEN6LVN2WFl3akhySlgwMmQ5MDF2YXdSdXh5eW1yMFRjSmExSG45QkM1NXFOM3I4M3ZGbUV1dzBJdzRzdEtCcFF4U2F1UV80MHJhS1c1aURrb0U4c3A5YWJvUk9ha1A4ZmEwaXRaeW5MaDZEd0hoNU1qY3MwWE5ZWGN6QzFrOTlSeFNBQ3JyM24yckthQk9aTXh1LWR2VGZiZE1CcS04M091dzVyR0hPQUREUE1UM3FBQThFQzRWaDhoTjFJVVFkV2ZqZU5ZQVh30gGGAkFVX3lxTE5wYTloRmRwWnVGWVJacWZVVVBUZjJaczJ3cHVTQzRpZUhfTEdkWk5aZ2hZOTNJMll3TUg4UksyNXAzdVFyQ0NkR2ZkNzB5Rk8tZUxlWXkwcTNZS3ZRSlBKQy13M3Fjckl5Zy15NjduR3EzMTV0WURzU01oc05sTXJBejEyU2ctQ3RTUGF2VHRJWU1VY2dvWEhEVlVJcW02d216Wk0tQkt3QjhsWHVPdnBKc3BGTjU4MFBfLThzUk02QzhqeGRhWWcwMnN6d3cwZDJQeEhZckVtT2VPRFJwOW94RVQ2NTlNOV9aZ1NzaW1xOHZRQkVKZW1fUTk2OXI1TjMzOHB6b0E?oc=5)
+
+2026-11-24 <span class="news-indication-tag">câncer</span>
+
+Fonte: [G1](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOdTY2R3oyU3k1ZjhyR3RhRW5qSjM1MWtTSzhuMnctWFhuQ0xRUE5oOEN6LVN2WFl3akhySlgwMmQ5MDF2YXdSdXh5eW1yMFRjSmExSG45QkM1NXFOM3I4M3ZGbUV1dzBJdzRzdEtCcFF4U2F1UV80MHJhS1c1aURrb0U4c3A5YWJvUk9ha1A4ZmEwaXRaeW5MaDZEd0hoNU1qY3MwWE5ZWGN6QzFrOTlSeFNBQ3JyM24yckthQk9aTXh1LWR2VGZiZE1CcS04M091dzVyR0hPQUREUE1UM3FBQThFQzRWaDhoTjFJVVFkV2ZqZU5ZQVh30gGGAkFVX3lxTE5wYTloRmRwWnVGWVJacWZVVVBUZjJaczJ3cHVTQzRpZUhfTEdkWk5aZ2hZOTNJMll3TUg4UksyNXAzdVFyQ0NkR2ZkNzB5Rk8tZUxlWXkwcTNZS3ZRSlBKQy13M3Fjckl5Zy15NjduR3EzMTV0WURzU01oc05sTXJBejEyU2ctQ3RTUGF2VHRJWU1VY2dvWEhEVlVJcW02d216Wk0tQkt3QjhsWHVPdnBKc3BGTjU4MFBfLThzUk02QzhqeGRhWWcwMnN6d3cwZDJQeEhZckVtT2VPRFJwOW94RVQ2NTlNOV9aZ1NzaW1xOHZRQkVKZW1fUTk2OXI1TjMzOHB6b0E?oc=5)
+
+---
 
 ### [Mônica Bergamo: Padilha anuncia testes clínicos de vacina contra o câncer no Brasil em 2027 - Folha de S.Paulo](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYXZDYlY3ZWRKWFQ3Wk1abU1waEVXTDUzZkw1U3hBN0VVNDNmdVQ5VlR5dXc2Ym56cWVTdE5obFFzRUpQbHVIUGE5LUtlZnFPVC1NLV9XQjFkempWNERqY1ozRDhzVWkxaVZ3WGIyVW1xMjBnQzZQNmJ5TTQ0SGx1OG9WWTRWLXFQeC1GMVhFdW4xTHFXUmpwSXBhRmhyS0taNW5MTWFCRE5MeDA1cHhhRHNpN09nWU0zcHNZU2phSTZlQnhfZ2lGLUhKMjlTUXF3QW1YWExxOFo?oc=5)
 
@@ -55,6 +71,14 @@ Fonte: [Folha de S.Paulo](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNY
 2026-11-23 <span class="news-indication-tag">câncer</span> <span class="news-indication-tag">câncer de mama</span>
 
 Fonte: [Agência Brasil](https://news.google.com/rss/articles/CBMisgFBVV95cUxQNTc5TE5ocGdjUkV3R25PNlZKX3c0UE5vbVlZdlR1MFZualdjbm1wLU1YWTNxQXp4WjIzbFh5Zy1uaVNzNlBpbUlLcjE4VHVKdUtBcWNrbTBWU1FXUkdQVUtOTkJFdFFBWDhGNWU2cUxtTFhaQ2s0S2JtMm9FWHNnSXdWdGRmeEszU25VTG9zZkZvT1JGM2x0QTdSUmJ6SDBlUmluczV2Q3RUVnZZcmVXWldB?oc=5)
+
+---
+
+### [Mulher com câncer busca ajuda para custear tratamento e comprar materiais de higiene - Folha BV](https://news.google.com/rss/articles/CBMivwFBVV95cUxPNHBBYVFnOXRiMnRFbkJPMkhJR2tFclRkeGxiQVMtR2pOd3ozNDZwRUl0ZW9SRGpxSEt3RWM1OGhhTDd5NmNBWUFVekxqdVVTMEE5dGUweksxNmMzY1Q3ZUZBRXlqZlRxR3ZlXzZkbXp6dm9ReGtuS3FERzJPOXREQmp0bzNwbE10cTdOSHZXYVdHcjhaVnkwNFl2NWE3UzFsdlc2WTh1aUp4a1NTUFpwX1RhVWZBWGpOeWVmNjU5UQ?oc=5)
+
+2026-11-23 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Folha BV](https://news.google.com/rss/articles/CBMivwFBVV95cUxPNHBBYVFnOXRiMnRFbkJPMkhJR2tFclRkeGxiQVMtR2pOd3ozNDZwRUl0ZW9SRGpxSEt3RWM1OGhhTDd5NmNBWUFVekxqdVVTMEE5dGUweksxNmMzY1Q3ZUZBRXlqZlRxR3ZlXzZkbXp6dm9ReGtuS3FERzJPOXREQmp0bzNwbE10cTdOSHZXYVdHcjhaVnkwNFl2NWE3UzFsdlc2WTh1aUp4a1NTUFpwX1RhVWZBWGpOeWVmNjU5UQ?oc=5)
 
 ---
 

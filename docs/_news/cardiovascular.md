@@ -3,9 +3,9 @@ layout: default
 title: "Notícias sobre cardiovascular"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre cardiovascular. 6 notícias, 7 medicamentos relacionados."
+description: "Notícias de saúde sobre cardiovascular. 5 notícias, 7 medicamentos relacionados."
 permalink: /news/cardiovascular/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 ---
 
 # Notícias sobre cardiovascular
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre cardiovascular?">
-<strong>cardiovascular</strong> tem atualmente <strong>6 notícias</strong> e 7 medicamentos relacionados.
+<strong>cardiovascular</strong> tem atualmente <strong>5 notícias</strong> e 7 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
@@ -36,15 +36,7 @@ Esta página reúne as notícias de saúde mais recentes sobre «cardiovascular�
 </ul>
 </div>
 
-## Notícias relacionadas (6)
-
-### [Os 5 músculos que mais importam com a idade — e como treinar cada um](https://news.google.com/rss/articles/CBMisgFBVV95cUxNX3dwZ29vb3ctV0dwZ3N0ZHFHNVRuVnpOTlJUcmswM3lYdExuOWNuLVQ5V3Y5dzlKNm9CVDhoNXBFZ3g4cUNWMnNiaGxoN2xGRzY4NDdYalhXaHZIQmNOdXlLenZHN0JiSFBSdHpiSldSM3dPWVVCb3ZOVG1FQ2RNNUdscUU0OE0zanVqY04wei04T1dnQ2J4eUtMcnVGT3NxOExMNGhhc2FNZjJfbkN6aXBR0gG3AUFVX3lxTE5fN0JXTWdBYmZVUE9MeXFodGlJeDNCME5VUkRpQU5ISWlUV0h6UV84Y2l6V210QVBoYkJIRENkWjVYaUg4Tzg5QkxXUDhhbGRPbEhoSnh0dWVVOXRKbHRpNVhsckhLNjJtVnhiXzhVWWROeF9BVDZySGlnVlI4d1psZmVMTUhkclV6QzlMdzRvaTJ2bDF0NDEwQ1VVY0ZBUjl5RWhnemdlWjVBVGpITjhFcWstbTZYUQ?oc=5)
-
-2026-11-22
-
-Fonte: [InfoMoney](https://news.google.com/rss/articles/CBMisgFBVV95cUxNX3dwZ29vb3ctV0dwZ3N0ZHFHNVRuVnpOTlJUcmswM3lYdExuOWNuLVQ5V3Y5dzlKNm9CVDhoNXBFZ3g4cUNWMnNiaGxoN2xGRzY4NDdYalhXaHZIQmNOdXlLenZHN0JiSFBSdHpiSldSM3dPWVVCb3ZOVG1FQ2RNNUdscUU0OE0zanVqY04wei04T1dnQ2J4eUtMcnVGT3NxOExMNGhhc2FNZjJfbkN6aXBR0gG3AUFVX3lxTE5fN0JXTWdBYmZVUE9MeXFodGlJeDNCME5VUkRpQU5ISWlUV0h6UV84Y2l6V210QVBoYkJIRENkWjVYaUg4Tzg5QkxXUDhhbGRPbEhoSnh0dWVVOXRKbHRpNVhsckhLNjJtVnhiXzhVWWROeF9BVDZySGlnVlI4d1psZmVMTUhkclV6QzlMdzRvaTJ2bDF0NDEwQ1VVY0ZBUjl5RWhnemdlWjVBVGpITjhFcWstbTZYUQ?oc=5)
-
----
+## Notícias relacionadas (5)
 
 ### [Bebidas energéticas podem representar risco cardiovascular para adultos jovens](https://news.google.com/rss/articles/CBMipwFBVV95cUxONXctSkJzZjc0SmRnQnR3VnlPSUk2SmM4ZXRDc1IyVWRiRVZBQlVBRmxaUE1kSlF4Y3JweWppLVZEODA0SkpoXzd2X1RHeUpiZlpsaGlDdGFZbVF3NUxuU1RlYjVHQm1JMGJhMWNNM2Q5WHkxTm45ZVR3UHc2VXpfM1ltREt4SUVEOW4wNXFwT2cxbzhPRkdMRlpSV3FNOUNjaHhqSTFjWQ?oc=5)
 

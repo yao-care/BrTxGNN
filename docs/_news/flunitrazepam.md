@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Flunitrazepam. 8 indicações previstas."
 permalink: /news/flunitrazepam/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 ---
 
 # Notícias sobre Flunitrazepam
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Flunitrazepam?">
-<strong>Flunitrazepam</strong> tem atualmente <strong>5 notícias</strong> e 8 indicações previstas.
+<strong>Flunitrazepam</strong> tem atualmente <strong>6 notícias</strong> e 8 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ Esta página combina as indicações previstas por IA para Flunitrazepam com as 
 <p><a href="{{ '/drugs/flunitrazepam/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (5)
+## Notícias relacionadas (6)
+
+### [Ansiedade climática: quando uma reação esperada se transforma em medo paralisador - Jornal da USP](https://news.google.com/rss/articles/CBMisgFBVV95cUxORjBzV0gtTEhzbVMtNkdGa213Nkl2UV9oWGJOQUYyekNDdDVnSEN0bXdpN1BRcW9XY0tvVDFhampSOC12cE52WGIxc1ZYTmpVMkxoUTUyTU10RXNneVJGS1Q4UE9RUUkxTVlUbXNiQzdoTUlTMFNtWTkwQ3czblZReV9OSjhVdGIwb1VjWndpNUN0U3F6Rl9lU1RqRmNsM0t1bDF0dmlhNjZuMFFsVGVLWDhn?oc=5)
+
+2026-11-23 <span class="news-indication-tag">ansiedade</span>
+
+Fonte: [Jornal da USP](https://news.google.com/rss/articles/CBMisgFBVV95cUxORjBzV0gtTEhzbVMtNkdGa213Nkl2UV9oWGJOQUYyekNDdDVnSEN0bXdpN1BRcW9XY0tvVDFhampSOC12cE52WGIxc1ZYTmpVMkxoUTUyTU10RXNneVJGS1Q4UE9RUUkxTVlUbXNiQzdoTUlTMFNtWTkwQ3czblZReV9OSjhVdGIwb1VjWndpNUN0U3F6Rl9lU1RqRmNsM0t1bDF0dmlhNjZuMFFsVGVLWDhn?oc=5)
+
+---
 
 ### [Estresse e ansiedade: conheça 5 alimentos que podem ajudar a melhorar o bem-estar - ICL Notícias](https://news.google.com/rss/articles/CBMid0FVX3lxTE1LVkR6U1RNX0FNN2g3a0lJZVBmam53eHBLRlhFYU5iVjlYdmEyNUk1djlwczd5enItZ180UXdvZV80WkpldWRoRDhITWs0eHZ0eWtGcW51RVBZUTVvOXQ4M1RjcnlNMnZsSFVxSHB1NS1oUVE0Rk9R?oc=5)
 

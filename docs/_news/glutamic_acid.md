@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com GLUTAMIC ACID. 0 indicações previstas."
 permalink: /news/glutamic_acid/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-24
 ---
 
 # Notícias sobre GLUTAMIC ACID
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre GLUTAMIC ACID?">
-<strong>GLUTAMIC ACID</strong> tem atualmente <strong>8 notícias</strong> e 0 indicações previstas.
+<strong>GLUTAMIC ACID</strong> tem atualmente <strong>9 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ Esta página combina as indicações previstas por IA para GLUTAMIC ACID com as 
 <p><a href="{{ '/drugs/glutamic-acid/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (8)
+## Notícias relacionadas (9)
+
+### [56% das Mulheres Confundem Efeitos da Menopausa com Envelhecimento - Forbes Brasil](https://news.google.com/rss/articles/CBMirwFBVV95cUxPdWJBY0dUOXFjWmdXV3R2dF9NME5lMTBjT0F2TENFS0JpQ2tSRmpGVzc5eVNLOWF2QllfZ3ZYSU5yZzVCc3ZNbllZMmRHbnl4SndkaXB5ckdsdVBZSHN4VHZSbE9tSjVDNkdzQnFKZFhtdjRpTC1IMEt0Wm1pQkxLekEwR1Qwa25FSU4xdFVlWUc3WmdUVVloY2tpc09ENW1YY0I5ajRwVzdMd1Awd1VB?oc=5)
+
+2026-11-24 <span class="news-indication-tag">menopausa</span>
+
+Fonte: [Forbes Brasil](https://news.google.com/rss/articles/CBMirwFBVV95cUxPdWJBY0dUOXFjWmdXV3R2dF9NME5lMTBjT0F2TENFS0JpQ2tSRmpGVzc5eVNLOWF2QllfZ3ZYSU5yZzVCc3ZNbllZMmRHbnl4SndkaXB5ckdsdVBZSHN4VHZSbE9tSjVDNkdzQnFKZFhtdjRpTC1IMEt0Wm1pQkxLekEwR1Qwa25FSU4xdFVlWUc3WmdUVVloY2tpc09ENW1YY0I5ajRwVzdMd1Awd1VB?oc=5)
+
+---
 
 ### [Menopausa masculina existe? O que é a andropausa e quando tratar](https://news.google.com/rss/articles/CBMilAFBVV95cUxNUXAyV2ZPcWRpcGdSXzVwbkZVc01hcWppR2UweW93TjFDemlwbE9mZjUydUI1MVoxWERJSEFRRkY1Smd5QmxpSGFrYWszMjU1VFFRYjVrX0Q2RzNsYWE5MGlKMXBNY0pPVlVFbjl0WkNmMi1oakd3d3hzQUpNWlZia2VjSWZGRDE1QzJZR1Rub00xbExD?oc=5)
 

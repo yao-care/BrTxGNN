@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com TIRZEPATIDA. 0 indicações previstas."
 permalink: /news/tirzepatida/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 ---
 
 # Notícias sobre TIRZEPATIDA
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre TIRZEPATIDA?">
-<strong>TIRZEPATIDA</strong> tem atualmente <strong>6 notícias</strong> e 0 indicações previstas.
+<strong>TIRZEPATIDA</strong> tem atualmente <strong>7 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ Esta página combina as indicações previstas por IA para TIRZEPATIDA com as no
 
 </div>
 
-## Notícias relacionadas (6)
+## Notícias relacionadas (7)
+
+### [Opinião - Bruno Gualano: Na era das canetas, suar pra quê? - Folha de S.Paulo](https://news.google.com/rss/articles/CBMingFBVV95cUxPbUhVMXBXTEptY3BTNmxCMHNENU56Q3hxRk96T2k1LTU2MVR6TjVMQ3pmX0xZVjNQS1A0WndCWDFBdGJSeEk1VEhCbWFHQ2NPc19vWkxtMlk1MEVEdVRwQmFnbVhFTzlpalg5YnNFcFZVQjFMV0p6WkZ4cFRfUGVFa01vUkdEV0lEUEFFb2lNaVVtOGt6LTgtZDFNR01fQQ?oc=5)
+
+2026-11-24 <span class="news-drug-tag">TIRZEPATIDA</span>
+
+Fonte: [Folha de S.Paulo](https://news.google.com/rss/articles/CBMingFBVV95cUxPbUhVMXBXTEptY3BTNmxCMHNENU56Q3hxRk96T2k1LTU2MVR6TjVMQ3pmX0xZVjNQS1A0WndCWDFBdGJSeEk1VEhCbWFHQ2NPc19vWkxtMlk1MEVEdVRwQmFnbVhFTzlpalg5YnNFcFZVQjFMV0p6WkZ4cFRfUGVFa01vUkdEV0lEUEFFb2lNaVVtOGt6LTgtZDFNR01fQQ?oc=5)
+
+---
 
 ### ['Bumbum de Mounjaro' é um efeito real? Especialista explica como emagrecer rápido pode afetar os glúteos](https://news.google.com/rss/articles/CBMinAJBVV95cUxPd3JaWnYtVWtMNnNlZlhxWGxBM1E1TjVGZTNrX2VSd3lWV3MyS19VMGdnQWtibVM3UVBpeWhaWHJGeDlObHB4aUw3SjRIT1hBOWhyWkFDbXdRT3BFNEFpbHZNZzJvSXhNU05CeVlVNGlUUFNMbjN6NmNsSWFtVC03LUljLVExNDRQemZKQTZyTDV0QkUwMTFFTlIza0Y4dzh3cE1ZdnczNUllNTVPZ203MTFXOTZOVFY0TjJkaV9HTUp3ck0zREFuVnV3Sng2WjFFY2E5WnRFekI1VVkwN1E1Yi1obzViSEUtNUdFc3pVMVlhSXFoQmEzdTNpdzVoVUNsdm9oWDZvcDEwS1ZHWTBZcUtpTUVfTjBhQzFSTQ?oc=5)
 
