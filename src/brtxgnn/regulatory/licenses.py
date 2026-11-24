@@ -7,7 +7,8 @@
   2. 概覽表的狀態列與張數列＝事實層的寫法：用本站 tools/txgnn/.claude/check_drug_page.py 的函式，
      分支照 checker M1／M4（Marketed／Approved, not marketed／Status unknown／Not marketed＋VET_ONLY／NO_CENTRAL）。
   3. 表格列寫的狀態不得跟事實相反（checker row_status_conflicts）。
-本站沒有程式產生的許可證表（表格是模型寫的、狀態格由排程同步），所以不驗表格內容是否等於程式結果。
+  4. 程式許可證表（2026-11-24 起，scripts/sync_license_tables.py）：「## Informações de Comercialização no Brasil」段落裡有表的頁，
+     表要是程式區塊（<!-- licenses:begin/end -->），內容＝依快照 rows／total／partial 重算的結果。
 修法：資料變了→跑每週排程（或 scripts/build_license_snapshot.py 重建快照）；正文提到的號碼、狀態不對→寫查核紀錄
 （docs/_data/drug_reviews.json）再跑 scripts/apply_drug_reviews.py。
 """
@@ -87,6 +88,43 @@ def _cell_id(cell):
     return m.group(0) if m else None
 
 
+@lru_cache(maxsize=None)
+def SLT():
+    p = ROOT / "scripts" / "sync_license_tables.py"
+    s = importlib.util.spec_from_file_location(f"{SITE}_sync_license_tables", p)
+    m = importlib.util.module_from_spec(s)
+    s.loader.exec_module(m)
+    return m
+
+
+def program_block_problems(lines, e):
+    """程式區塊＝依快照重算的結果；段落裡有表卻不是程式區塊也擋"""
+    if "rows" not in e:
+        return []
+    S = SLT()
+    if S.SEC not in lines:
+        return []
+    a = lines.index(S.SEC) + 1
+    b = next((k for k in range(a, len(lines)) if lines[k].startswith("## ")), len(lines))
+    sec = lines[a:b]
+    nb, ne = sec.count(S.BEGIN), sec.count(S.END)
+    if nb != ne or nb > 1:
+        return ["程式區塊標記不成對或不只一組"]
+    if not nb:
+        if any(l.startswith("|") for l in sec):
+            return ["市場段落的許可證表不是程式區塊（跑 python3 scripts/sync_license_tables.py）"]
+        return []
+    i, j = sec.index(S.BEGIN), sec.index(S.END)
+    if any(l.startswith("|") for l in sec[:i] + sec[j + 1:]):
+        return ["市場段落在程式區塊外另有表格"]
+    got = [x for x in sec[i + 1:j] if x.strip()]
+    want = [x for x in S.program_block(e["rows"], e["total"], e["partial"]) if x.strip()]
+    if got != want:
+        k = next((k for k, (x, y) in enumerate(zip(got, want)) if x != y), min(len(got), len(want)))
+        return [f"程式區塊第 {k + 1} 行跟快照重算的結果不同（表被手改或資料已更新：跑 python3 scripts/sync_license_tables.py --from-snapshot）"]
+    return []
+
+
 def expected_status(fc):
     ck, lang = CK(), CK().LANG.get(SITE, "en")
     ms, v, n, partial = fc.get("market_status"), fc.get("valid"), fc.get("total"), fc.get("partial")
@@ -130,6 +168,7 @@ def page_problems(stem: str, text: str) -> list[str]:
                 bad = [x for x in bad if norm(x) not in own]
                 if bad:
                     errs.append(f"市場段落正文的許可證號不屬於本藥：{', '.join(bad[:5])}")
+    errs += program_block_problems(lines, e)
     if fc:
         all_rows = [r for t in _tables(lines) for r in _rows(t)]
         st = ck.status_row(SITE, all_rows)

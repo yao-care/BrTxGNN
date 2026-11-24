@@ -65,3 +65,18 @@ def update(rec, new):
         return False
     rec[key] = new
     return True
+
+
+# 2026-11-24：市場段落的許可證表改成程式產生（scripts/sync_license_tables.py，用戶決定）。
+# 每週排程 3b 自我檢查：程式區塊裡表格列以外的行（標記、超過 30 筆的說明句、部分收錄句、沒有紀錄句）也算程式產生的行。
+PAGE_NOTE = (r"^(A tabela mostra até \d+ registros \(os ativos primeiro\).*|Os dados contêm apenas parte dos registros; a lista pode estar incompleta\.|"
+             r"Não há registros deste medicamento nos dados abertos de medicamentos da ANVISA usados neste relatório\.|<!-- licenses:(begin|end) -->)$")
+
+
+def sync_tables(site_dir, bundles):
+    """狀態有變（或依成分合併補收）的藥，程式許可證表依證據包重排；全站都跑（便宜），回傳改到的頁"""
+    import importlib.util
+    s = importlib.util.spec_from_file_location("br_slt", site_dir / "scripts/sync_license_tables.py")
+    m = importlib.util.module_from_spec(s)
+    s.loader.exec_module(m)
+    return [(pg, "許可證表", "", "依證據包重排") for pg in m.run()]

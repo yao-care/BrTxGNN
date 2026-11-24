@@ -571,3 +571,20 @@ arginine 的許可證表照 br_rebuild_by_ingredient --tables 重排、狀態列
 例：abatacepte「Indicação original: Não consta nos dados locais」→「No Brasil, registros na ANVISA: 1 (ativos: 1)」；2026-11-19 改了 155 頁。
 由母目錄 `.claude/drug_meta_description.py --apply --site BrTxGNN` 產生（站上複本 `tools/txgnn/.claude/drug_meta_description.py --apply --root .`），改動記在 `docs/_data/description_local_log.json`（pages＝目前句尾與原字樣、entries＝每次改動前後整行，可還原）。快照數字變了重跑會換新數字；`apply_drug_reviews.py`、`build_license_snapshot.py` 結尾會自動 --apply，`check_seo_docs.py` 跑 --check 擋「還是未記載句尾」或「數字跟快照不符」。只改 front matter，lastmod_fix 不算正文改動、last_modified_at 不動。
 同日修：`apply_drug_reviews.py`、`build_license_snapshot.py` 結尾重算 local_facts 的 atexit 掛鉤在結束時取不到 `__file__`（NameError，之前其實沒跑成），改成先算好路徑。
+
+## 許可證表與正文張數由程式產生（2026-11-24）
+
+用戶 2026-11-24 決定（各站同日）：每週許可證排程只改程式管得到的格子，AI 寫的自由格式許可證表與正文張數句跟著 ANVISA 資料過期，checker 擋頁、要人處理；改成程式產生、每次自動同步。
+- A. 程式許可證表：`scripts/sync_license_tables.py`。「## Informações de Comercialização no Brasil」段落裡的第一張表（AI 表與 known_use_pages 的表 167 頁（含 noindex 1 頁）、10-31 `br_rebuild_by_ingredient_20261031.py --tables` 重建的表 269 頁（含 noindex 3 頁））一律換成程式依證據包產生的表，前後加 `<!-- licenses:begin -->`／`<!-- licenses:end -->`。
+  表頭沿用 10-31 重建表「| Registro | Produto | Empresa detentora | Situação |」（證據包是原收集器格式、沒有持有人欄的 143 個藥用三欄 `| Registro | Produto | Situação |`，不放整欄「—」）；最多 30 列、Ativo 在前；狀態 Ativo／Cancelado（license_labels）。
+  超過 30 個登記號時表下一句「A tabela mostra até 30 registros (os ativos primeiro), de N registros nos dados. …」；證據包只收了一部分（19 個藥）時加「Os dados contêm apenas parte dos registros; a lista pode estar incompleta.」；沒有紀錄時一句 NONE_LINE。段落裡沒有表的頁（49 頁）不新增表。
+  快照 `snapshots/br_licenses.json.gz` 另存 rows（前 30 列）／total／partial；gate 第 20 項（src/brtxgnn/regulatory/licenses.py 的 program_block_problems）擋「段落有表卻不是程式區塊」「程式區塊≠快照重算」。
+  接上：`scripts/license_adapter.py` 的 `sync_tables`（每週排程，依證據包全站重排）與 `PAGE_NOTE`（3b 自我檢查認得程式區塊的說明句與標記）、`scripts/apply_drug_reviews.py`（非 --check）結尾與 `scripts/build_license_snapshot.py` 結尾（`--from-snapshot`，不需要 data/）。site_config 的 PROGRAM_LINE_RE 也認得這些程式句。
+  被換掉的 AI 表上錨著的 59 筆查核紀錄（`br-row-20261112-*` 等）照 Tw 慣例標 `status: superseded`＋`superseded_by`（紀錄保留、頁面不顯示框，查核紀錄表註明）。
+- B. 正文張數程式改寫：`scripts/rewrite_license_counts.py`＋`src/brtxgnn/regulatory/count_prose.py`（照 KrTxGNN／MyTxGNN 移植，規則改成葡萄牙文句型：「N registros válidos de M」「X de Y registros válidos」「Dos N registros, V estão válidos」「V válidos e C cancelados, totalizando T」等）。
+  有保留、講證據包或查詢（encontrad／localizad…；「segundo os dados compilados」不算）、相對數、劑型／廠商／單方複方子集、顯示筆數、文字數詞、partial 頁不動；同一行有判斷不了的句子整行不動；跨過 1（單複數要跟著變）列 plural、「Os N registros … estão válidos」而事實不是全部有效列 premise，不改、列進待查清單。
+  不寫查核框（同 Tw／Kr／My）；apply_drug_reviews.py（非 --check）結尾、build_license_snapshot.py 結尾自動跑；gate 第 24 項擋「再跑一次會變」。查核紀錄 replacement／anchor 所在的句子程式不改。
+- 2026-11-24 第一次套用（資料 data-20261123-132649）：表格 436 頁（AI 表 167 頁換掉、10-31 表 269 頁補標記並依證據包重排，其中 29 頁列有變）；正文改寫 22 頁 25 行（多是「N registros válidos de N」→「de 總數」）；待查清單加 11 句（premise 9、ambiguous 2）；
+  查核紀錄 replacement 裡的張數已跟 11-23 資料不符的 6 筆同 id 重發（aztreonam、mometasone、rivastigmine、procaine、calcitriol、spironolactone-2，前版存 history）。
+  另寫的寬偵測（正文張數／狀態跟事實層不符）156 句→73 句；剩下多是表格說明句（「a tabela lista os 5 principais」「Principais registros (máximo de 5)」等 42 句，表換成程式表後列數對不上，其中約 25 句是這次換表才變得不符）、「Todos os N registros … válidos」前提句 19 句、相對數 5 句、文字數詞 3 句；表格說明句要不要寫紀錄更正待用戶決定。
+  checker 全量前後都是 0；gate exit 0。last_modified_at：正文有變的 285 頁改 2026-11-24，只加標記的 154 頁維持原日期。

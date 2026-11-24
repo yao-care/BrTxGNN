@@ -53,7 +53,7 @@ C = _json.loads(r"""{
    "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv"
   }
  ],
- "PROGRAM_LINE_RE": "^A tabela mostra até \\d+ registros \\(os ativos primeiro\\)",
+ "PROGRAM_LINE_RE": "^A tabela mostra até \\d+ registros \\(os ativos primeiro\\)|^Os dados contêm apenas parte dos registros; a lista pode estar incompleta\\.$|^Não há registros deste medicamento nos dados abertos de medicamentos da ANVISA usados neste relatório\\.$|^<!-- licenses:(begin|end) -->$",
  "CLASSIFY": [
   [
    "tw",
