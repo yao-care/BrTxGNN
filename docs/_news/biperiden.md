@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Biperiden. 10 indicações previstas."
 permalink: /news/biperiden/
-last_modified_at: 2026-11-22
+last_modified_at: 2026-11-24
 ---
 
 # Notícias sobre Biperiden
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Biperiden?">
-<strong>Biperiden</strong> tem atualmente <strong>21 notícias</strong> e 10 indicações previstas.
+<strong>Biperiden</strong> tem atualmente <strong>20 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ Esta página combina as indicações previstas por IA para Biperiden com as not�
 <p><a href="{{ '/drugs/biperiden/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (21)
-
-### [Além das horas dormidas, outro fator do sono pode afetar a saúde do coração; saiba qual - O GLOBO](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTVZRMHpaWEtfNTJ5Y1ZSa2U3dlo1RW85bnJ1NlI2UEFKVjRlSlBqaEdsYXRZUlgyMG5OUXY5dGNvUkFLY244azBGcG43bTRjbVZfaUxZZUc2TlphWXdIcWp3R1JNa1p3WDlOTGRJcEgwRFVTX2x0QlJ3WXJyYjY4cDA2WE9GaU9BQWx2cGZyNHk2a3BQbWplSE1tOXlLYzVJTzZ6RjdoQkRadmpLbWprOTFhTlRmTTNoQ0dJWmJsMDRvRUZiTmlrNmJjT2lDYTB3dUZqUl9IUkbSAecBQVVfeXFMTzFNdkhlS0NLa0VTa1Z4X0JjWWtyU3h6T3pnZ3JFeG9LMmV4ZV9YM1VHaXpUNW9lYlhsbFItZml0aXdZUmxXam9IbEdnLUUyeXhrVTVScUVqSkRST0JHR3k4UTl2U19PRjRhemx2ZTBSNzdhaG5IajFpaHpXbVNkN0I5ZzBseFpQVUItQVpFRHowX2ZSVGpvaUg2TENHRHh4RjhrWTc5eTlZMDZHM25Cam1McTJqSDFjYVlJWWdaOW5lb1N6LVZNUlA2RUtHMlVrbXdCaUlfUlc4bFJtYmJ4d29Ub2QzM19R?oc=5)
-
-2026-11-22 <span class="news-indication-tag">demência</span>
-
-Fonte: [O GLOBO](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTVZRMHpaWEtfNTJ5Y1ZSa2U3dlo1RW85bnJ1NlI2UEFKVjRlSlBqaEdsYXRZUlgyMG5OUXY5dGNvUkFLY244azBGcG43bTRjbVZfaUxZZUc2TlphWXdIcWp3R1JNa1p3WDlOTGRJcEgwRFVTX2x0QlJ3WXJyYjY4cDA2WE9GaU9BQWx2cGZyNHk2a3BQbWplSE1tOXlLYzVJTzZ6RjdoQkRadmpLbWprOTFhTlRmTTNoQ0dJWmJsMDRvRUZiTmlrNmJjT2lDYTB3dUZqUl9IUkbSAecBQVVfeXFMTzFNdkhlS0NLa0VTa1Z4X0JjWWtyU3h6T3pnZ3JFeG9LMmV4ZV9YM1VHaXpUNW9lYlhsbFItZml0aXdZUmxXam9IbEdnLUUyeXhrVTVScUVqSkRST0JHR3k4UTl2U19PRjRhemx2ZTBSNzdhaG5IajFpaHpXbVNkN0I5ZzBseFpQVUItQVpFRHowX2ZSVGpvaUg2TENHRHh4RjhrWTc5eTlZMDZHM25Cam1McTJqSDFjYVlJWWdaOW5lb1N6LVZNUlA2RUtHMlVrbXdCaUlfUlc4bFJtYmJ4d29Ub2QzM19R?oc=5)
-
----
+## Notícias relacionadas (20)
 
 ### [Estatinas causam demência? O que a ciência descobriu sobre esse papo que circula na internet](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWl9sS3dFMHR4djFNM2ZNQkhGcHhMZW85dFRhSjhmR2xlcU8yY1FXb284X1ZfNTd6bHB5bEZrUkpFRlFORnlGZy1mR0g3Wnc5bUZkOHFfVkJFdVFmQXcyZHNpOGlzdTl6cWxnc1Q0dF9IWEFMZ1FaRW5hc21KTlVUVzdSbzFYcW5uMnFRNVV4ei00M1czNnJ2MzFOMC1uaEkwa1lRcG9rS2pxMTJ3VlRkNm9zNU1WMUF3LTVESWRJejE0ZVhCLVI3NUFlbGtfMm9zLWVKM1Y3S0dkZVnSAeABQVVfeXFMTTc3b0FqcnpLUlpic0xTSmNidXZiTE1FSHBFeDNYWmMxcEJLeUxJUkI5YjVKTHBMSHBuZFJoNHpnYVdOc0lSdnVsQmRxVU9uLThjSS1JN3pRaVR5OGlIWTctQ3dQLTRES1pONnhTck5aZmx5b0lMOVhPNmVRbXVndVh6NjNpaHNGZHVmMkp5MFRNNnlydU1OOGFUVGJTZ0pyWGlkd0JBWUFTbW1LR25OUDYtUHBsT0JGenNVM2VXbU83aUFXSHd2WVBDYTZpSWEyMTE4T0RjYVdDYlk1TEJIdjA?oc=5)
 

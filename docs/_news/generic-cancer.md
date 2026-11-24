@@ -3,9 +3,9 @@ layout: default
 title: "Notícias sobre câncer (generic_cancer)"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre câncer (generic_cancer). 89 notícias, 93 medicamentos relacionados."
+description: "Notícias de saúde sobre câncer (generic_cancer). 90 notícias, 93 medicamentos relacionados."
 permalink: /news/generic-cancer/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 ---
 
 # Notícias sobre câncer (generic_cancer)
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre câncer (generic_cancer)?">
-<strong>câncer (generic_cancer)</strong> tem atualmente <strong>89 notícias</strong> e 93 medicamentos relacionados.
+<strong>câncer (generic_cancer)</strong> tem atualmente <strong>90 notícias</strong> e 93 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
@@ -119,7 +119,15 @@ Esta página reúne as notícias de saúde mais recentes sobre «câncer» e lis
 </ul>
 </div>
 
-## Notícias relacionadas (89)
+## Notícias relacionadas (90)
+
+### [Mônica Bergamo: Padilha anuncia testes clínicos de vacina contra o câncer no Brasil em 2027 - Folha de S.Paulo](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYXZDYlY3ZWRKWFQ3Wk1abU1waEVXTDUzZkw1U3hBN0VVNDNmdVQ5VlR5dXc2Ym56cWVTdE5obFFzRUpQbHVIUGE5LUtlZnFPVC1NLV9XQjFkempWNERqY1ozRDhzVWkxaVZ3WGIyVW1xMjBnQzZQNmJ5TTQ0SGx1OG9WWTRWLXFQeC1GMVhFdW4xTHFXUmpwSXBhRmhyS0taNW5MTWFCRE5MeDA1cHhhRHNpN09nWU0zcHNZU2phSTZlQnhfZ2lGLUhKMjlTUXF3QW1YWExxOFo?oc=5)
+
+2026-11-23
+
+Fonte: [Folha de S.Paulo](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYXZDYlY3ZWRKWFQ3Wk1abU1waEVXTDUzZkw1U3hBN0VVNDNmdVQ5VlR5dXc2Ym56cWVTdE5obFFzRUpQbHVIUGE5LUtlZnFPVC1NLV9XQjFkempWNERqY1ozRDhzVWkxaVZ3WGIyVW1xMjBnQzZQNmJ5TTQ0SGx1OG9WWTRWLXFQeC1GMVhFdW4xTHFXUmpwSXBhRmhyS0taNW5MTWFCRE5MeDA1cHhhRHNpN09nWU0zcHNZU2phSTZlQnhfZ2lGLUhKMjlTUXF3QW1YWExxOFo?oc=5)
+
+---
 
 ### [Anvisa aprova novo medicamento para tratar câncer de mama - Agência Brasil](https://news.google.com/rss/articles/CBMisgFBVV95cUxQNTc5TE5ocGdjUkV3R25PNlZKX3c0UE5vbVlZdlR1MFZualdjbm1wLU1YWTNxQXp4WjIzbFh5Zy1uaVNzNlBpbUlLcjE4VHVKdUtBcWNrbTBWU1FXUkdQVUtOTkJFdFFBWDhGNWU2cUxtTFhaQ2s0S2JtMm9FWHNnSXdWdGRmeEszU25VTG9zZkZvT1JGM2x0QTdSUmJ6SDBlUmluczV2Q3RUVnZZcmVXWldB?oc=5)
 

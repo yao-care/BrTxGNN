@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Gefitinib. 9 indicações previstas."
 permalink: /news/gefitinib/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 ---
 
 # Notícias sobre Gefitinib
@@ -43,6 +43,14 @@ Esta página combina as indicações previstas por IA para Gefitinib com as not�
 
 ## Notícias relacionadas (110)
 
+### [Mônica Bergamo: Padilha anuncia testes clínicos de vacina contra o câncer no Brasil em 2027 - Folha de S.Paulo](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYXZDYlY3ZWRKWFQ3Wk1abU1waEVXTDUzZkw1U3hBN0VVNDNmdVQ5VlR5dXc2Ym56cWVTdE5obFFzRUpQbHVIUGE5LUtlZnFPVC1NLV9XQjFkempWNERqY1ozRDhzVWkxaVZ3WGIyVW1xMjBnQzZQNmJ5TTQ0SGx1OG9WWTRWLXFQeC1GMVhFdW4xTHFXUmpwSXBhRmhyS0taNW5MTWFCRE5MeDA1cHhhRHNpN09nWU0zcHNZU2phSTZlQnhfZ2lGLUhKMjlTUXF3QW1YWExxOFo?oc=5)
+
+2026-11-23 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Folha de S.Paulo](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYXZDYlY3ZWRKWFQ3Wk1abU1waEVXTDUzZkw1U3hBN0VVNDNmdVQ5VlR5dXc2Ym56cWVTdE5obFFzRUpQbHVIUGE5LUtlZnFPVC1NLV9XQjFkempWNERqY1ozRDhzVWkxaVZ3WGIyVW1xMjBnQzZQNmJ5TTQ0SGx1OG9WWTRWLXFQeC1GMVhFdW4xTHFXUmpwSXBhRmhyS0taNW5MTWFCRE5MeDA1cHhhRHNpN09nWU0zcHNZU2phSTZlQnhfZ2lGLUhKMjlTUXF3QW1YWExxOFo?oc=5)
+
+---
+
 ### [Anvisa aprova novo medicamento para tratar câncer de mama - Agência Brasil](https://news.google.com/rss/articles/CBMisgFBVV95cUxQNTc5TE5ocGdjUkV3R25PNlZKX3c0UE5vbVlZdlR1MFZualdjbm1wLU1YWTNxQXp4WjIzbFh5Zy1uaVNzNlBpbUlLcjE4VHVKdUtBcWNrbTBWU1FXUkdQVUtOTkJFdFFBWDhGNWU2cUxtTFhaQ2s0S2JtMm9FWHNnSXdWdGRmeEszU25VTG9zZkZvT1JGM2x0QTdSUmJ6SDBlUmluczV2Q3RUVnZZcmVXWldB?oc=5)
 
 2026-11-23 <span class="news-indication-tag">câncer</span> <span class="news-indication-tag">câncer de mama</span>
@@ -72,14 +80,6 @@ Fonte: [Metrópoles](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVnNyWn
 2026-11-22 <span class="news-indication-tag">câncer</span>
 
 Fonte: [MidiaNews](https://news.google.com/rss/articles/CBMipgFBVV95cUxPa2lYWUVJRVZkSHk1bGJRWW5UQlJNazdtV2FmblpzX1dmVXNqY0xCR0lqUlAxWjBnRzVCaGNrSUhicnByMFZZLUc5Z3FNRkhlVHRORGtnRFQzeURSa2lZcEUzNVhoT3N5WlNPMWUzV1pKQ2xUTlUwTFZGQ0ZGSWJrMmFHLUNxSTlmREVibnB3QVo4bzcxQWc4LUtxQVQzNDl1Wk5qTlhR?oc=5)
-
----
-
-### [Além das horas dormidas, outro fator do sono pode afetar a saúde do coração; saiba qual - O GLOBO](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTVZRMHpaWEtfNTJ5Y1ZSa2U3dlo1RW85bnJ1NlI2UEFKVjRlSlBqaEdsYXRZUlgyMG5OUXY5dGNvUkFLY244azBGcG43bTRjbVZfaUxZZUc2TlphWXdIcWp3R1JNa1p3WDlOTGRJcEgwRFVTX2x0QlJ3WXJyYjY4cDA2WE9GaU9BQWx2cGZyNHk2a3BQbWplSE1tOXlLYzVJTzZ6RjdoQkRadmpLbWprOTFhTlRmTTNoQ0dJWmJsMDRvRUZiTmlrNmJjT2lDYTB3dUZqUl9IUkbSAecBQVVfeXFMTzFNdkhlS0NLa0VTa1Z4X0JjWWtyU3h6T3pnZ3JFeG9LMmV4ZV9YM1VHaXpUNW9lYlhsbFItZml0aXdZUmxXam9IbEdnLUUyeXhrVTVScUVqSkRST0JHR3k4UTl2U19PRjRhemx2ZTBSNzdhaG5IajFpaHpXbVNkN0I5ZzBseFpQVUItQVpFRHowX2ZSVGpvaUg2TENHRHh4RjhrWTc5eTlZMDZHM25Cam1McTJqSDFjYVlJWWdaOW5lb1N6LVZNUlA2RUtHMlVrbXdCaUlfUlc4bFJtYmJ4d29Ub2QzM19R?oc=5)
-
-2026-11-22 <span class="news-indication-tag">demência</span>
-
-Fonte: [O GLOBO](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTVZRMHpaWEtfNTJ5Y1ZSa2U3dlo1RW85bnJ1NlI2UEFKVjRlSlBqaEdsYXRZUlgyMG5OUXY5dGNvUkFLY244azBGcG43bTRjbVZfaUxZZUc2TlphWXdIcWp3R1JNa1p3WDlOTGRJcEgwRFVTX2x0QlJ3WXJyYjY4cDA2WE9GaU9BQWx2cGZyNHk2a3BQbWplSE1tOXlLYzVJTzZ6RjdoQkRadmpLbWprOTFhTlRmTTNoQ0dJWmJsMDRvRUZiTmlrNmJjT2lDYTB3dUZqUl9IUkbSAecBQVVfeXFMTzFNdkhlS0NLa0VTa1Z4X0JjWWtyU3h6T3pnZ3JFeG9LMmV4ZV9YM1VHaXpUNW9lYlhsbFItZml0aXdZUmxXam9IbEdnLUUyeXhrVTVScUVqSkRST0JHR3k4UTl2U19PRjRhemx2ZTBSNzdhaG5IajFpaHpXbVNkN0I5ZzBseFpQVUItQVpFRHowX2ZSVGpvaUg2TENHRHh4RjhrWTc5eTlZMDZHM25Cam1McTJqSDFjYVlJWWdaOW5lb1N6LVZNUlA2RUtHMlVrbXdCaUlfUlc4bFJtYmJ4d29Ub2QzM19R?oc=5)
 
 ---
 

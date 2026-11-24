@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com TOPIRAMATE. 1 indicações previstas."
 permalink: /news/topiramate/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 ---
 
 # Notícias sobre TOPIRAMATE
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre TOPIRAMATE?">
-<strong>TOPIRAMATE</strong> tem atualmente <strong>89 notícias</strong> e 1 indicações previstas.
+<strong>TOPIRAMATE</strong> tem atualmente <strong>90 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ Esta página combina as indicações previstas por IA para TOPIRAMATE com as not
 <p><a href="{{ '/drugs/topiramate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (89)
+## Notícias relacionadas (90)
+
+### [Mônica Bergamo: Padilha anuncia testes clínicos de vacina contra o câncer no Brasil em 2027 - Folha de S.Paulo](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYXZDYlY3ZWRKWFQ3Wk1abU1waEVXTDUzZkw1U3hBN0VVNDNmdVQ5VlR5dXc2Ym56cWVTdE5obFFzRUpQbHVIUGE5LUtlZnFPVC1NLV9XQjFkempWNERqY1ozRDhzVWkxaVZ3WGIyVW1xMjBnQzZQNmJ5TTQ0SGx1OG9WWTRWLXFQeC1GMVhFdW4xTHFXUmpwSXBhRmhyS0taNW5MTWFCRE5MeDA1cHhhRHNpN09nWU0zcHNZU2phSTZlQnhfZ2lGLUhKMjlTUXF3QW1YWExxOFo?oc=5)
+
+2026-11-23 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Folha de S.Paulo](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYXZDYlY3ZWRKWFQ3Wk1abU1waEVXTDUzZkw1U3hBN0VVNDNmdVQ5VlR5dXc2Ym56cWVTdE5obFFzRUpQbHVIUGE5LUtlZnFPVC1NLV9XQjFkempWNERqY1ozRDhzVWkxaVZ3WGIyVW1xMjBnQzZQNmJ5TTQ0SGx1OG9WWTRWLXFQeC1GMVhFdW4xTHFXUmpwSXBhRmhyS0taNW5MTWFCRE5MeDA1cHhhRHNpN09nWU0zcHNZU2phSTZlQnhfZ2lGLUhKMjlTUXF3QW1YWExxOFo?oc=5)
+
+---
 
 ### [Anvisa aprova novo medicamento para tratar câncer de mama - Agência Brasil](https://news.google.com/rss/articles/CBMisgFBVV95cUxQNTc5TE5ocGdjUkV3R25PNlZKX3c0UE5vbVlZdlR1MFZualdjbm1wLU1YWTNxQXp4WjIzbFh5Zy1uaVNzNlBpbUlLcjE4VHVKdUtBcWNrbTBWU1FXUkdQVUtOTkJFdFFBWDhGNWU2cUxtTFhaQ2s0S2JtMm9FWHNnSXdWdGRmeEszU25VTG9zZkZvT1JGM2x0QTdSUmJ6SDBlUmluczV2Q3RUVnZZcmVXWldB?oc=5)
 
