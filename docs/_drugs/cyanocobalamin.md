@@ -73,14 +73,6 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Os cinco principais estão listados abaixo.
-
-<!-- review:begin br-lic-20261106-cyanocobalamin-1 -->
-
-> **Correção de verificação (2026-11-06)**: Texto original: “Foram encontrados 20 registros válidos no Brasil. Os cinco principais estão listados abaixo.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 358 registros para este medicamento, 35 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-lic-20261106-cyanocobalamin-1 -->
-
 <!-- licenses:begin -->
 
 | Registro | Produto | Empresa detentora | Situação |
@@ -120,6 +112,12 @@ A tabela mostra até 30 registros (os ativos primeiro), de 358 registros nos dad
 
 <!-- licenses:end -->
 
+<!-- review:begin br-lic-20261106-cyanocobalamin-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Foram encontrados 20 registros válidos no Brasil. Os cinco principais estão listados abaixo.” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-cyanocobalamin-1 -->
+
 ## Considerações de Segurança
 
 - **Interações Medicamentosas**: foram identificadas 100 interações na base consultada. As principais, de gravidade menor, envolvem antiácidos e redutores de acidez gástrica: famotidina, ranitidina, cimetidina, nizatidina e inibidores de bomba de prótons (omeprazol, esomeprazol, lansoprazol, dexlansoprazol, pantoprazol, rabeprazol), além do cloreto de potássio. Outras interações têm gravidade não classificada, como metformina, glimepirida, acarbose, rosiglitazona, mesalazina, doxiciclina, morfina e sucralfato.
@@ -141,7 +139,7 @@ A previsão se apoia apenas no modelo (nível L5), sem ensaios clínicos e com u
 
 <!-- review:begin br-lic-20261106-cyanocobalamin-2 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Esclarecimento da situação regulatória, já que não há registro válido no Brasil, e avaliação da compatibilidade de vias de administração” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 358 registros para este medicamento, 35 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “Esclarecimento da situação regulatória, já que não há registro válido no Brasil, e avaliação da compatibilidade de vias de administração” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-cyanocobalamin-2 -->
 
@@ -153,8 +151,8 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “Foram encontrados 20 registros válidos no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-06 | Removido: “já que não há registro válido no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | Removido: “Foram encontrados 20 registros válidos no Brasil. Os cinco principais estão listados abaixo.” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “já que não há registro válido no Brasil” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: cyanocobalamin prescribing information, SOLA Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e559c6c8-2973-77fb-e053-2995a90af43d) |
 
 <!-- review:end log -->

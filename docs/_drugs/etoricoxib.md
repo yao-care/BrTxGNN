@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Etoricoxib"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis", "pulmonary hypertension", "benign prostatic hyperplasia (disease)", "kyphoscoliotic heart disease", "headache disorder", "trigeminal autonomic cephalalgia"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Etoricoxib: nova indicação prevista, Transtorno de enxaqueca (migraine disorder) (nível de evidência L5). No Brasil, registros na ANVISA: 32 (ativos: 29)"
 ---
 
@@ -78,7 +78,7 @@ Os dados de registro disponíveis são parciais. A lista detalhada de registros 
 
 <!-- review:begin br-lic-20261106-etoricoxib-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “A situação de comercialização consta como comercializado, com 17 registros válidos e 3 cancelados, mas a lista detalhada de registros não está disponível nos dados compilados.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 32 registros para este medicamento, 29 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “A situação de comercialização consta como comercializado, com 17 registros válidos e 3 cancelados, mas a lista detalhada de registros não está disponível nos dados compilados.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-etoricoxib-1 -->
 
@@ -109,7 +109,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “situação de comercialização consta como comercializado, com 17 registros válidos e 3 cancelados, mas a” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “situação de comercialização consta como comercializado, com 17 registros válidos e 3 cancelados, mas a” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

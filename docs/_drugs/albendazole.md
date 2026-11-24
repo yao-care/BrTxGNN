@@ -94,7 +94,7 @@ Todas as publicações tratam de neurocisticercose ou temas correlatos, sem estu
 
 ## Informações de Comercialização no Brasil
 
-Há registros válidos de albendazol isolado no Brasil; a situação de mercado é comercializado. Os dados indicam 97 registros no total, dos quais 24 válidos e 73 cancelados. Abaixo, uma seleção de registros válidos.
+Há registros válidos de albendazol isolado no Brasil; a situação de mercado é comercializado. Os dados indicam 97 registros no total, dos quais 24 válidos e 73 cancelados.
 
 <!-- licenses:begin -->
 
@@ -135,6 +135,12 @@ A tabela mostra até 30 registros (os ativos primeiro), de 97 registros nos dado
 
 <!-- licenses:end -->
 
+<!-- review:begin br-lic-20261124b-albendazole-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Abaixo, uma seleção de registros válidos.” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-albendazole-1 -->
+
 ## Considerações de Segurança
 
 - **Contraindicações ou condições de atenção** (relações de segurança registradas nos dados do modelo, não texto de bula): doença hepática, doença da vesícula biliar, neutropenia, agranulocitose, anemia (incluindo macrocítica), pancitopenia e anemia aplástica. Recomenda-se atenção a hemograma e função hepática.
@@ -159,11 +165,12 @@ Para advertências e contraindicações oficiais, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Albenza (albendazole) prescribing information, Amneal Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1977a867-0ee1-44c0-8da3-fe59c48699f5) |
+| 2026-11-24 | Removido: “Abaixo, uma seleção de registros válidos.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

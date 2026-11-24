@@ -139,6 +139,12 @@ A tabela mostra até 30 registros (os ativos primeiro), de 36 registros nos dado
 
 <!-- licenses:end -->
 
+<!-- review:begin br-lic-20261124b-doxorubicin-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “, já que não há registro vigente” Corrigido: a premissa sobre o número ou a situação dos registros não correspondia aos dados abertos de medicamentos da ANVISA; o restante do texto não foi alterado, e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-doxorubicin-1 -->
+
 ## Citotoxicidade
 
 | Item | Conteúdo |
@@ -169,7 +175,7 @@ As advertências e contraindicações do texto de bula não estavam disponíveis
 **Para prosseguir, é necessário:**
 - Obter o texto de bula da ANVISA (advertências e contraindicações), hoje indisponível.
 - Complementar os dados de mecanismo de ação a partir de fonte oficial (por exemplo, DrugBank).
-- Verificar a disponibilidade de produto com registro válido no Brasil, já que não há registro vigente.
+- Verificar a disponibilidade de produto com registro válido no Brasil.
 - Definir plano de monitoramento cardíaco (dose cumulativa) e hematológico.
 - Analisar a contribuição específica da doxorrubicina nos esquemas combinados.
 
@@ -190,11 +196,12 @@ As advertências e contraindicações do texto de bula não estavam disponíveis
 
 ## Registro de verificação
 
-Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Oxderys (doxorubicin hydrochloride) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f280fb2e-5070-46e1-a4ed-ba191359cedd) |
+| 2026-11-24 | Removido: “, já que não há registro vigente” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

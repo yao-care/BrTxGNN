@@ -588,3 +588,12 @@ arginine 的許可證表照 br_rebuild_by_ingredient --tables 重排、狀態列
   查核紀錄 replacement 裡的張數已跟 11-23 資料不符的 6 筆同 id 重發（aztreonam、mometasone、rivastigmine、procaine、calcitriol、spironolactone-2，前版存 history）。
   另寫的寬偵測（正文張數／狀態跟事實層不符）156 句→73 句；剩下多是表格說明句（「a tabela lista os 5 principais」「Principais registros (máximo de 5)」等 42 句，表換成程式表後列數對不上，其中約 25 句是這次換表才變得不符）、「Todos os N registros … válidos」前提句 19 句、相對數 5 句、文字數詞 3 句；表格說明句要不要寫紀錄更正待用戶決定。
   checker 全量前後都是 0；gate exit 0。last_modified_at：正文有變的 285 頁改 2026-11-24，只加標記的 154 頁維持原日期。
+
+## 舊錯句與查核紀錄裡的張數（2026-11-24 第二輪）
+
+用戶 2026-11-24 第二輪決定：第一輪列待查、寬偵測剩下的舊錯句逐句寫紀錄；查核紀錄與說明樣板不再寫死張數（張數只在概覽表與程式表，由排程維護）。
+- 說明樣板：`site_config.py` 的 `T["figures"]`（`scripts/reviews_from_edits.py` 寫紀錄說明時用）改成不寫數字「Os números atualizados de registros estão no resumo rápido e nas informações de comercialização.」；既有 476 筆說明裡的「Nos dados … constam N registros …, V válidos」同 id 重發成新句（前版存 history，checked 不動）。
+- 更正文字寫死張數：頁面上看得到、含張數的 66 筆（＋2 筆外層紀錄）同 id 重發，改成不寫數字的寫法（「há registros válidos e cancelados (números atualizados no resumo rápido)」、表格說明「Principais registros (30 de N)」→「Principais registros:」、只講舊表筆數的整句刪掉，錨點改到 `<!-- licenses:end -->`）；錨在被刪句上的 2 筆舊紀錄改錨。例外：`br-lic-20261119-levometionina-2` 的分類張數（16 靜脈營養、3 複方…）是 11-19 用戶指定照實寫的分類，不是總數／有效數，保留。
+- 舊錯句：112 筆新紀錄 `br-lic-20261124b-*`（102 頁；表格說明 55、張數或全部有效 21、partial 15、前提 9、現行品項被寫成註銷 7、單方／範圍 5），逐句對照證據包 tfda.records 與快照事實層（data-20261123-132649）：表格說明句（「a tabela mostra os 5 primeiros」「Os cinco principais:」「Há mais 4 registros além dos cinco listados」等，程式表最多 30 列）刪掉；「Todos os N registros … válidos」而事實不是全部有效的、張數不符的改成不寫數字；「lista parcial／pelo menos 20」而事實層不是 partial 的刪掉；說「另有 N 張已註銷（品名…）」而其中有現行 Ativo 的 7 句刪掉（loperamide 100470525 等 3 張、oxcarbazepine 3 張、ropivacaine NAROPIN／HYROVI／ROPI、topiramate Toduze／Têmpora／Vidmax、hydroquinone Suavicid／Hormoskin、insulin_human Afrezza／Novolin N／Humulin N、perindopril TRIPLIXAM 都是 Ativo）；說「表上只列單方」而程式表也列複方的改寫；結論／下一步的錯誤前提只拿掉前提（doxorubicin「já que não há registro vigente」、olanzapine「20 registros vigentes」、azacitidina「11 registros」等），建議內容不動。
+- 待查清單 11 句（premise 9、ambiguous 2）全部寫紀錄，標 resolved（附 record_ids）。劑型說法（「apenas injetável」等）掃到 3 句，對照證據包都成立，不改。
+- 驗證：第一輪同一支寬偵測 73 句→1 句（benralizumab 的「IL-5Rα」誤中）；市場段落含張數／列表字樣的行另掃 212 行→108 行，剩下的都是跟事實層一致、由 count_prose 維護的張數句或 partial 頁的保留語；checker 全量前後 0；gate exit 0；`rewrite_license_counts.py` 再跑 0 頁。last_modified_at：368 頁正文（含查核框說明）有變，改 2026-11-24。

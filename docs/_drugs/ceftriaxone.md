@@ -118,7 +118,13 @@ A tabela mostra até 30 registros (os ativos primeiro), de 54 registros nos dado
 
 <!-- licenses:end -->
 
-Ao todo, há 54 registros, dos quais 15 estão válidos e 39 cancelados. A tabela mostra apenas 5 deles.
+<!-- review:begin br-lic-20261124b-ceftriaxone-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “A tabela mostra apenas 5 deles.” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-ceftriaxone-1 -->
+
+Ao todo, há 54 registros, dos quais 15 estão válidos e 39 cancelados.
 
 ## Considerações de Segurança
 
@@ -145,11 +151,12 @@ Consulte a bula para advertências e contraindicações formais.
 
 ## Registro de verificação
 
-Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Ceftriaxone And Dextrose (ceftriaxone) prescribing information, B. Braun Medical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=67153914-16bc-490d-82d7-638061618467) |
+| 2026-11-24 | Removido: “A tabela mostra apenas 5 deles.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

@@ -85,13 +85,17 @@ A pontuação elevada do TxGNN (0,9992) vem do modelo TxGNN (deep learning) e po
 
 <!-- licenses:end -->
 
-Observação: são 8 registros no total; a tabela mostra os 5 primeiros. Entre os demais estão Emend Injetável (101710225) e Foza (155370085).
-
 <!-- review:begin br-lic-20261106-fosaprepitant-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Observação: são 8 registros no total, todos com situação cancelada; a tabela mostra os 5 primeiros.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 8 registros para este medicamento, 8 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “Observação: são 8 registros no total, todos com situação cancelada; a tabela mostra os 5 primeiros.” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-fosaprepitant-1 -->
+
+<!-- review:begin br-lic-20261124b-fosaprepitant-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Entre os demais estão Emend Injetável (101710225) e Foza (155370085).” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-fosaprepitant-1 -->
 
 ---
 
@@ -134,8 +138,9 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “todos com situação cancelada” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | Removido: “Observação: são 8 registros no total, todos com situação cancelada; a tabela mostra os 5 primeiros.” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Navitrux (fosaprepitant) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a41b7c3a-1376-43a7-b5b9-6ba2eba1e169) |
+| 2026-11-24 | Removido: “Entre os demais estão Emend Injetável (101710225) e Foza (155370085).” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

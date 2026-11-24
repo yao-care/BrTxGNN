@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 567
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "riluzole"
 predicted_indications: ["bilateral parasagittal parieto-occipital polymicrogyria", "axial spondylometaphyseal dysplasia", "lower motor neuron syndrome with late-adult onset", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome", "lethal arthrogryposis-anterior horn cell disease syndrome", "monomelic amyotrophy", "Mills syndrome", "autosomal dominant mitochondrial myopathy with exercise intolerance"]
 description: "Riluzole: nova indicação prevista, polimicrogiria parieto-occipital parassagital bilateral (bilateral parasagittal parieto-occipital polymicrogyria) (nível de evidência L5)."
@@ -62,7 +62,13 @@ Nenhum estudo clínico ou publicação foi fornecido para esta doença. Por isso
 
 ## Informações de Comercialização no Brasil
 
-Segundo os dados compilados, há 18 registros no total, dos quais 8 estão válidos e 10 cancelados. Principais registros válidos:
+Segundo os dados compilados, há 18 registros no total, dos quais 8 estão válidos e 10 cancelados. Principais registros:
+
+<!-- review:begin br-lic-20261124b-riluzole-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Principais registros válidos:” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-riluzole-1 -->
 
 <!-- licenses:begin -->
 
@@ -111,11 +117,12 @@ Segundo os dados compilados, há 18 registros no total, dos quais 8 estão váli
 
 ## Registro de verificação
 
-Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Tiglutik (riluzole) prescribing information, EDW PHARMA, INC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=75d68f19-4208-109e-e053-2991aa0ac857) |
+| 2026-11-24 | “Principais registros válidos:” → “Principais registros:” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

@@ -75,7 +75,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 15 registros estão válidos. São listados os 5 principais:
+Todos os 15 registros estão válidos.
 
 <!-- licenses:begin -->
 
@@ -99,6 +99,12 @@ Todos os 15 registros estão válidos. São listados os 5 principais:
 
 <!-- licenses:end -->
 
+<!-- review:begin br-lic-20261124b-valine-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “São listados os 5 principais:” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-valine-1 -->
+
 ## Considerações de Segurança
 
 Consulte a bula para informações de segurança.
@@ -115,6 +121,19 @@ Não há ensaios clínicos, e a literatura disponível é apenas indireta (assoc
 - Obter os dados de mecanismo de ação no DrugBank
 - Realizar estudos pré-clínicos ou de intervenção que testem a valina ou os aminoácidos de cadeia ramificada na colangite esclerosante
 - Avaliar a via de administração e a viabilidade regulatória, dado que não há produto vigente no Brasil
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-24 | Removido: “São listados os 5 principais:” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -92,7 +92,11 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 <!-- licenses:end -->
 
-Há ainda um sexto registro (TRIPLIXAM, inibidores da ECA, associações), também cancelado.
+<!-- review:begin br-lic-20261124b-perindopril-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Há ainda um sexto registro (TRIPLIXAM, inibidores da ECA, associações), também cancelado.” Removido: entre os registros citados como cancelados há registros que constam como ativos nos dados abertos de medicamentos da ANVISA (situação de 2026-11-23); a tabela de registros desta seção agora é gerada por programa a partir desses dados (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-perindopril-1 -->
 
 ## Considerações de Segurança
 
@@ -116,7 +120,7 @@ Há ainda um sexto registro (TRIPLIXAM, inibidores da ECA, associações), tamb�
 
 <!-- review:begin br-lic-20261106-perindopril-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Avaliar o risco renal (estenose de artéria renal, hiperpotassemia) e a situação regulatória, já que não há registro válido no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 11 registros para este medicamento, 6 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “Avaliar o risco renal (estenose de artéria renal, hiperpotassemia) e a situação regulatória, já que não há registro válido no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-perindopril-1 -->
 
@@ -128,7 +132,8 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “já que não há registro válido no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “já que não há registro válido no Brasil” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | Removido: “Há ainda um sexto registro (TRIPLIXAM, inibidores da ECA, associações), também cancelado.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

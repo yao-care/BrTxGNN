@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 552
 evidence_level: L4
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Progesterone"
 predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
 description: "Progesterone: nova indicação prevista, Doença fibrocística da mama (breast fibrocystic disease) (nível de evidência L4). No Brasil, registros na ANVISA: 16 (ativos: 7)"
@@ -83,7 +83,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-A progesterona está comercializada no Brasil, com 7 registros válidos e 9 cancelados, num total de 16. Abaixo estão cinco dos registros válidos de produto de princípio ativo único.
+A progesterona está comercializada no Brasil, com 7 registros válidos e 9 cancelados, num total de 16.
 
 <!-- licenses:begin -->
 
@@ -107,6 +107,12 @@ A progesterona está comercializada no Brasil, com 7 registros válidos e 9 canc
 | 187590004 | PROGESTERONA | BESINS HEALTHCARE BRASIL COMERCIAL E DISTRIBUIDORA | Cancelado |
 
 <!-- licenses:end -->
+
+<!-- review:begin br-lic-20261124b-progesterone-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Abaixo estão cinco dos registros válidos de produto de princípio ativo único.” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-progesterone-1 -->
 
 ## Considerações de Segurança
 
@@ -132,11 +138,12 @@ Para advertências e contraindicações, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Progesterone Vaginal Insert (progesterone) prescribing information, XIROMED, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=473ab609-5b9e-3cb8-68d5-4a459a2ea6c1) |
+| 2026-11-24 | Removido: “Abaixo estão cinco dos registros válidos de produto de princípio ativo único.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

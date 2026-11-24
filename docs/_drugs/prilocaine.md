@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 549
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Prilocaine: nova indicação prevista, Conjuntivite papilar (papillary conjunctivitis) (nível de evidência L5). Indicação original: Anestésicos locais"
 monitor_inn: "Prilocaine"
 predicted_indications: ["papillary conjunctivitis", "manic bipolar affective disorder", "bronchitis", "migraine disorder", "neuralgia", "migraine with brainstem aura", "atopic eczema", "allergic asthma", "rhinitis", "rosacea conjunctivitis"]
@@ -94,7 +94,13 @@ Alertas de segurança vindos da literatura de outras indicações: em dermatite 
 
 ## Informações de Comercialização no Brasil
 
-O medicamento é comercializado no Brasil: os 5 registros existentes (5 de 5) estão válidos.
+O medicamento é comercializado no Brasil: há registros válidos e cancelados (números atualizados no resumo rápido).
+
+<!-- review:begin br-lic-20261124b-prilocaine-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “os 5 registros existentes (5 de 5) estão válidos” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-prilocaine-1 -->
 
 <!-- licenses:begin -->
 
@@ -117,6 +123,12 @@ O medicamento é comercializado no Brasil: os 5 registros existentes (5 de 5) es
 
 <!-- licenses:end -->
 
+<!-- review:begin br-lic-20261124b-prilocaine-2 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Os 5 registros brasileiros (5 de 5) estão válidos.” Corrigido: a premissa sobre o número ou a situação dos registros não correspondia aos dados abertos de medicamentos da ANVISA; o restante do texto não foi alterado, e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-prilocaine-2 -->
+
 ## Considerações de Segurança
 
 - **Contraindicações segundo o grafo de conhecimento do modelo** (relações fármaco-doença, não texto de bula): doenças hipertensivas, epilepsia, doença renal, doença hepática, doença da vesícula biliar, diabetes mellitus e cetoacidose diabética, doença arterial coronariana e infarto do miocárdio, hemoglobinopatias, parada cardíaca súbita, doenças do sistema de condução cardíaco e bloqueio atrioventricular, insuficiência respiratória, glaucoma de ângulo fechado, miastenia gravis e doenças da junção neuromuscular, deficiência de butirilcolinesterase, doenças cardiovasculares, hipertireoidismo e doença de Graves.
@@ -133,7 +145,7 @@ Os dados de advertências e contraindicações da bula da ANVISA não estavam di
 **Decisão: Hold**
 
 **Justificativa:**
-- A indicação com maior pontuação (conjuntivite papilar) tem apenas previsão computacional, sem estudos, e com baixa plausibilidade biológica. Para neuralgia, a evidência é limitada a estudos pequenos e antigos com a combinação lidocaína/prilocaína, que não permitem atribuir o efeito à prilocaína e representam uma extensão da indicação anestésica, não um reposicionamento verdadeiro. Os 5 registros brasileiros (5 de 5) estão válidos.
+- A indicação com maior pontuação (conjuntivite papilar) tem apenas previsão computacional, sem estudos, e com baixa plausibilidade biológica. Para neuralgia, a evidência é limitada a estudos pequenos e antigos com a combinação lidocaína/prilocaína, que não permitem atribuir o efeito à prilocaína e representam uma extensão da indicação anestésica, não um reposicionamento verdadeiro.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), lacuna que impede a triagem de segurança.
@@ -144,7 +156,7 @@ Os dados de advertências e contraindicações da bula da ANVISA não estavam di
 
 <!-- review:begin br-lic-20261106-prilocaine-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Verificar a viabilidade regulatória, dado que não há registro válido de prilocaína no Brasil, e definir via de administração e forma farmacêutica adequadas.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 14 registros para este medicamento, 5 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “Verificar a viabilidade regulatória, dado que não há registro válido de prilocaína no Brasil, e definir via de administração e forma farmacêutica adequadas.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-prilocaine-1 -->
 
@@ -156,8 +168,10 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “dado que não há registro válido de prilocaína no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “dado que não há registro válido de prilocaína no Brasil” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Citanest Plain (prilocaine hydrochloride) prescribing information, Dentsply Pharmaceutical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=db23a56f-1e41-4843-9220-1b2e3059db41) |
+| 2026-11-24 | “os 5 registros existentes (5 de 5) estão válidos” → “há registros válidos e cancelados (números atualizados no resumo rápido)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | Removido: “Os 5 registros brasileiros (5 de 5) estão válidos.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

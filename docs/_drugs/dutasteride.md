@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 281
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dutasteride: nova indicação prevista, Hipertricose universal congênita do tipo Ambras (Ambras type hypertri… (nível de evidência L5). Indicação original: Inibidor da alfa-redutase"
 monitor_inn: "Dutasteride"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "migraine with brainstem aura", "familial isolated trichomegaly"]
@@ -78,11 +78,11 @@ Como referência indireta, para outra indicação prevista (alopecia areata difu
 
 ## Informações de Comercialização no Brasil
 
-Dos 21 registros, 15 encontram-se válidos. Principais registros:
+Há registros válidos e cancelados (números atualizados no resumo rápido). Principais registros:
 
 <!-- review:begin br-lic-20261112-dutasteride-1 -->
 
-> **Correção de verificação (2026-11-12)**: Texto original: “Todos os 13 registros encontram-se válidos.” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 21 registros para este medicamento, 15 válidos e 6 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “Todos os 13 registros encontram-se válidos.” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261112-dutasteride-1 -->
 
@@ -131,7 +131,7 @@ A previsão tem pontuação alta, mas nível de evidência L5: não há ensaios 
 
 <!-- review:begin br-lic-20261106-dutasteride-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “A previsão tem pontuação alta, mas nível de evidência L5: não há ensaios clínicos nem literatura, e o mecanismo (redução da DHT) não explica a síndrome de Ambras, de origem genética. Além disso, o medicamento é comercializado no Brasil, com 13 registros válidos de 13.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 21 registros para este medicamento, 15 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão tem pontuação alta, mas nível de evidência L5: não há ensaios clínicos nem literatura, e o mecanismo (redução da DHT) não explica a síndrome de Ambras, de origem genética. Além disso, o medicamento é comercializado no Brasil, com 13 registros válidos de 13.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-dutasteride-1 -->
 
@@ -150,8 +150,8 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “Além disso, o medicamento é comercializado no Brasil, com 13 registros válidos de 13” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Registros válidos: “todos os 13” → 15 de 21 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Além disso, o medicamento é comercializado no Brasil, com 13 registros válidos de 13” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “Todos os 13 registros encontram-se válidos.” → “Há registros válidos e cancelados (números atualizados no resumo rápido).” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: dutasteride prescribing information, Strides Pharma Science Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c78d18cf-05df-4154-b2f9-39cc374ca9e3) |
 
 <!-- review:end log -->

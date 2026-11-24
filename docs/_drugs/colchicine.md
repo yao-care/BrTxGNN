@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "COLCHICINE"
 predicted_indications: ["Plasmodium falciparum malaria", "dermatofibrosarcoma protuberans"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Colchicine: nova indicação prevista, Malária por Plasmodium falciparum (Plasmodium falciparum malaria) (nível de evidência L5). Indicação original: ANTINFLAMATORIOS ANTIREUMATICOS"
 ---
 
@@ -98,7 +98,11 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 <!-- licenses:end -->
 
-Foram listados 5 dos 7 registros de medicamentos de ingrediente único; a lista está limitada aos cinco principais.
+<!-- review:begin br-lic-20261124b-colchicine-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Foram listados 5 dos 7 registros de medicamentos de ingrediente único; a lista está limitada aos cinco principais.” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-colchicine-1 -->
 
 ## Citotoxicidade
 
@@ -131,6 +135,19 @@ Os dados de advertências e contraindicações da bula não estão disponíveis.
 - Dados do mecanismo de ação e de margem de segurança frente às doses antiparasitárias
 - Texto completo da bula (advertências e contraindicações) para a triagem de segurança
 - Justificativa de benefício-risco em comparação com os antimaláricos atuais
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-24 | Removido: “Foram listados 5 dos 7 registros de medicamentos de ingrediente único; a lista está limitada aos cinco principais.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

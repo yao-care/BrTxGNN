@@ -9,7 +9,7 @@
   "with_current": 28,
   "none_current": 1,
   "without_data": 2,
-  "with_reviews": 28,
+  "with_reviews": 29,
   "rows": [
    {
     "t": "Atorvastatin Calcium",
@@ -29,8 +29,8 @@
     "i": "Linfoma de células do manto",
     "lt": 6,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "“A lista abaixo mostra 5 dos 6 registros. O sexto, RIBOMUSTIN (nº 112363413), está cancelado.” → “O registro…",
     "x": 0
    },
    {
@@ -73,8 +73,8 @@
     "i": "Transtorno hipertensivo",
     "lt": 6,
     "lv": 3,
-    "r": 2,
-    "rs": "Removido: “já que não há registro válido”",
+    "r": 4,
+    "rs": "Removido: “(Há um sexto registro cancelado, MATURE, nº 177940035, com a indicação de vitaminas ou minerais…",
     "x": 0
    },
    {
@@ -183,8 +183,8 @@
     "i": "Sarcoma de Ewing",
     "lt": 36,
     "lv": 8,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "Removido: “, já que não há registro vigente”",
     "x": 0
    },
    {
@@ -194,8 +194,8 @@
     "i": "Lipossarcoma",
     "lt": 14,
     "lv": 11,
-    "r": 2,
-    "rs": "Removido: “(registros cancelados)”",
+    "r": 3,
+    "rs": "“Todos os 11 registros constam como válidos. Os cinco principais:” → “Os registros estão na tabela abaixo (os…",
     "x": 0
    },
    {
@@ -205,8 +205,8 @@
     "i": "alopecia areata",
     "lt": 74,
     "lv": 14,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "“Alguns exemplos de registros de produtos com um único princípio ativo:” → “Alguns exemplos de registros:”",
     "x": 0
    },
    {
@@ -216,8 +216,8 @@
     "i": "alopecia areata",
     "lt": 6,
     "lv": 6,
-    "r": 6,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 7,
+    "rs": "Removido: “; os cinco principais estão listados acima”",
     "x": 0
    },
    {
@@ -304,8 +304,8 @@
     "i": "Enxaqueca",
     "lt": 13,
     "lv": 7,
-    "r": 4,
-    "rs": "Registros válidos: “todos os 8” → 7 de 13",
+    "r": 5,
+    "rs": "Removido: “Existem ainda outros 3 registros cancelados (NAROPIN, HYROVI e ROPI), não listados por limite de 5…",
     "x": 0
    },
    {
@@ -355,7 +355,7 @@
   "with_current": 54,
   "none_current": 1,
   "without_data": 3,
-  "with_reviews": 50,
+  "with_reviews": 52,
   "rows": [
    {
     "t": "Abatacepte",
@@ -387,7 +387,7 @@
     "lt": 13,
     "lv": 12,
     "r": 3,
-    "rs": "Registros válidos: 13 → 12 de 13",
+    "rs": "“com 13 registros válidos (de 13)” → “com registros válidos na ANVISA (números atualizados no resumo rápido)”",
     "x": 0
    },
    {
@@ -419,8 +419,8 @@
     "i": "Infecção por Staphylococcus aureus",
     "lt": 21,
     "lv": 8,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 3,
+    "rs": "Removido: “Foram listados 5 dos 9 registros.”",
     "x": 0
    },
    {
@@ -551,8 +551,8 @@
     "i": "alopecia areata",
     "lt": 65,
     "lv": 22,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "Removido: “Abaixo, os principais registros válidos.”",
     "x": 0
    },
    {
@@ -651,7 +651,7 @@
     "lt": 94,
     "lv": 27,
     "r": 4,
-    "rs": "Contagem exibida: “Principais registros (5 de 18” → “Principais registros (30 de 94”",
+    "rs": "“Principais registros (5 de 18):” → “Principais registros:”",
     "x": 0
    },
    {
@@ -695,7 +695,7 @@
     "lt": 67,
     "lv": 16,
     "r": 4,
-    "rs": "Removido: “já que não há registro válido no mercado brasileiro”",
+    "rs": "Removido: “Todos os 18 registros estão válidos (18 de 18). Seguem os 5 primeiros da lista.”",
     "x": 0
    },
    {
@@ -716,8 +716,8 @@
     "i": "Enxaqueca",
     "lt": 0,
     "lv": 20,
-    "r": 1,
-    "rs": "Removido: “já que não há registro vigente”",
+    "r": 2,
+    "rs": "Removido: “; abaixo, os 5 principais”",
     "x": 0
    },
    {
@@ -760,8 +760,8 @@
     "i": "Acne",
     "lt": 259,
     "lv": 69,
-    "r": 4,
-    "rs": "Removido: “Avaliação da viabilidade regulatória de um novo registro tópico, considerando que há 20 registros…",
+    "r": 5,
+    "rs": "“Os cinco primeiros são listados abaixo (a forma farmacêutica não consta nos dados compilados).” → “A forma…",
     "x": 0
    },
    {
@@ -815,8 +815,8 @@
     "i": "hipotricose simples do couro cabeludo",
     "lt": 34,
     "lv": 23,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "“Há ao menos 34 registros, e a lista abaixo pode ser parcial.” → “Os números atualizados de registros estão…",
     "x": 0
    },
    {
@@ -826,8 +826,8 @@
     "i": "obstructive lung disease",
     "lt": 20,
     "lv": 9,
-    "r": 4,
-    "rs": "Removido: “dado que não há registros válidos no Brasil”",
+    "r": 5,
+    "rs": "Removido: “Entre os demais constam produtos como Hyponor, Noradrem, Epikabi (vasoconstritores) e Xylestesin e…",
     "x": 0
    },
    {
@@ -837,8 +837,8 @@
     "i": "restless legs syndrome",
     "lt": 24,
     "lv": 7,
-    "r": 4,
-    "rs": "Removido: “já que não há registros vigentes”",
+    "r": 5,
+    "rs": "Removido: “Há ainda outros três registros (123520211, 183260062 e 104971213 – Oxcarb), também cancelados.”",
     "x": 0
    },
    {
@@ -859,8 +859,8 @@
     "i": "Doença da cavidade nasal",
     "lt": 11,
     "lv": 11,
-    "r": 3,
-    "rs": "Removido: “Além disso, o iodeto de potássio não tem registro válido no Brasil (todos os 11 estão cancelados)…",
+    "r": 4,
+    "rs": "Removido: “Os 5 principais:”",
     "x": 0
    },
    {
@@ -871,7 +871,7 @@
     "lt": 40,
     "lv": 7,
     "r": 3,
-    "rs": "Registros válidos: 4 de 4 → 7 de 40",
+    "rs": "“dos 4 registros encontrados, 4 têm licença válida” → “há registros com licença válida e registros cancelados…",
     "x": 0
    },
    {
@@ -881,8 +881,8 @@
     "i": "Doença fibrocística da mama",
     "lt": 16,
     "lv": 7,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "Removido: “Abaixo estão cinco dos registros válidos de produto de princípio ativo único.”",
     "x": 0
    },
    {
@@ -903,8 +903,8 @@
     "i": "simian immunodeficiency virus infection",
     "lt": 5,
     "lv": 4,
-    "r": 2,
-    "rs": "Removido: “Além disso, não há registro válido do produto no Brasil no momento”",
+    "r": 4,
+    "rs": "Removido: “; os 4 registros constam como válidos (4 de 4)”",
     "x": 0
    },
    {
@@ -925,8 +925,8 @@
     "i": "sclerosing cholangitis",
     "lt": 15,
     "lv": 15,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Removido: “São listados os 5 principais:”",
     "x": 0
    },
    {
@@ -986,7 +986,7 @@
   "with_current": 434,
   "none_current": 3,
   "without_data": 10,
-  "with_reviews": 404,
+  "with_reviews": 413,
   "rows": [
    {
     "t": "Metamizole",
@@ -995,8 +995,8 @@
     "i": "rheumatoid arthritis",
     "lt": 496,
     "lv": 171,
-    "r": 2,
-    "rs": "Registros válidos: “todos os 20” → 171 de 496",
+    "r": 3,
+    "rs": "Removido: “Abaixo, os 5 principais:”",
     "x": 0
    },
    {
@@ -1006,8 +1006,8 @@
     "i": "síndrome de hiperviscosidade policlonal",
     "lt": 359,
     "lv": 122,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "“, com 20 registros listados (a lista pode ser parcial). Os registros abaixo são produtos de ingrediente…",
     "x": 0
    },
    {
@@ -1039,8 +1039,8 @@
     "i": "alopecia mucinosa",
     "lt": 263,
     "lv": 83,
-    "r": 3,
-    "rs": "Registros válidos: 85 → 83; cancelados: 178 → 180",
+    "r": 4,
+    "rs": "Removido: “, dentro do total de 263 registros”",
     "x": 0
    },
    {
@@ -1061,8 +1061,8 @@
     "i": "acromesomelic dysplasia, Campailla Martinelli type",
     "lt": 297,
     "lv": 73,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "“Foram identificados pelo menos 20 registros válidos de produtos com colecalciferol isolado, e a lista pode…”…",
     "x": 0
    },
    {
@@ -1072,8 +1072,8 @@
     "i": "Doença da região orbital",
     "lt": 235,
     "lv": 67,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "“Principais registros (amostra de 5):” → “Principais registros:”",
     "x": 0
    },
    {
@@ -1116,8 +1116,8 @@
     "i": "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta",
     "lt": 436,
     "lv": 58,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Removido: “A lista abaixo mostra 5 dos pelo menos 20 registros; a lista completa pode estar incompleta.”",
     "x": 0
    },
    {
@@ -1215,8 +1215,8 @@
     "i": "Ceratoconjuntivite epitelial puntata",
     "lt": 132,
     "lv": 45,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "Removido: “A lista apresenta apenas 5 dos registros e pode ser parcial.”",
     "x": 0
    },
    {
@@ -1227,7 +1227,7 @@
     "lt": 92,
     "lv": 45,
     "r": 4,
-    "rs": "Removido: “O medicamento está comercializado, com 20 registros válidos”",
+    "rs": "“O medicamento está comercializado, com 20 registros válidos. Principais registros (5 de 20):” → “Principais…",
     "x": 0
    },
    {
@@ -1249,7 +1249,7 @@
     "lt": 58,
     "lv": 41,
     "r": 5,
-    "rs": "Contagem exibida: “Principais registros (5 de 20” → “Principais registros (30 de 58”",
+    "rs": "“Principais registros (5 de 20):” → “Principais registros:”",
     "x": 0
    },
    {
@@ -1259,8 +1259,8 @@
     "i": "pneumocystosis",
     "lt": 141,
     "lv": 41,
-    "r": 4,
-    "rs": "Removido: “Além disso, o medicamento está comercializado no Brasil, com 20 registros válidos”",
+    "r": 5,
+    "rs": "Removido: “Listados os cinco principais:”",
     "x": 0
    },
    {
@@ -1270,8 +1270,8 @@
     "i": "Doença renal hipertensiva maligna",
     "lt": 128,
     "lv": 40,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "“Foram listados 20 registros, mas o total é de pelo menos 20 e a lista pode ser parcial. Abaixo estão os…” →…",
     "x": 0
    },
    {
@@ -1325,8 +1325,8 @@
     "i": "Ceratoconjuntivite epitelial puntiforme",
     "lt": 78,
     "lv": 38,
-    "r": 4,
-    "rs": "Registros: 4 → 78 (38 válidos)",
+    "r": 5,
+    "rs": "“; a lista acima considera apenas os de ingrediente único.” → “.”",
     "x": 0
    },
    {
@@ -1359,7 +1359,7 @@
     "lt": 358,
     "lv": 35,
     "r": 3,
-    "rs": "Removido: “já que não há registro válido no Brasil”",
+    "rs": "Removido: “Foram encontrados 20 registros válidos no Brasil. Os cinco principais estão listados abaixo.”",
     "x": 0
    },
    {
@@ -1380,8 +1380,8 @@
     "i": "neoplasia mieloproliferativa",
     "lt": 51,
     "lv": 35,
-    "r": 1,
-    "rs": "Registros: 15 válidos e 5 cancelados → 35 válidos e 16 cancelados",
+    "r": 2,
+    "rs": "Removido: “, e a lista pode estar incompleta”",
     "x": 0
    },
    {
@@ -1391,8 +1391,8 @@
     "i": "cholesterol-ester transfer protein deficiency",
     "lt": 64,
     "lv": 34,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "“Lista parcial (pelo menos 20 registros; abaixo, os 5 principais):” → “Principais registros:”",
     "x": 0
    },
    {
@@ -1425,7 +1425,7 @@
     "lt": 98,
     "lv": 31,
     "r": 4,
-    "rs": "Removido: “O medicamento é comercializado, com 20 registros válidos”",
+    "rs": "“O medicamento é comercializado, com 20 registros válidos. Principais registros (5 de 20):” → “Principais…",
     "x": 0
    },
    {
@@ -1457,8 +1457,8 @@
     "i": "Obstrução duodenal",
     "lt": 57,
     "lv": 30,
-    "r": 2,
-    "rs": "Registros no total: 15 → 57",
+    "r": 3,
+    "rs": "“; a tabela mostra apenas os cinco primeiros.” → “.”",
     "x": 0
    },
    {
@@ -1479,8 +1479,8 @@
     "i": "Síndrome de Ohdo e variantes",
     "lt": 36,
     "lv": 30,
-    "r": 5,
-    "rs": "Registros: “todos os 20 cancelados” → 36 registros, 30 válidos",
+    "r": 6,
+    "rs": "Removido: “Exibem-se os 5 primeiros.”",
     "x": 0
    },
    {
@@ -1512,8 +1512,8 @@
     "i": "hyperamylasemia",
     "lt": 75,
     "lv": 29,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "“Os registros abaixo correspondem aos cinco primeiros da lista, que pode estar incompleta (pelo menos 20…” →…",
     "x": 0
    },
    {
@@ -1556,8 +1556,8 @@
     "i": "benign paroxysmal torticollis of infancy",
     "lt": 73,
     "lv": 28,
-    "r": 3,
-    "rs": "Removido: “Além disso, a olanzapina não tem registro vigente no Brasil e carrega riscos metabólicos…",
+    "r": 5,
+    "rs": "“confirmar a situação dos 20 registros vigentes” → “confirmar a situação dos registros vigentes”",
     "x": 0
    },
    {
@@ -1568,7 +1568,7 @@
     "lt": 54,
     "lv": 28,
     "r": 4,
-    "rs": "Removido: “já que não há registro vigente no Brasil”",
+    "rs": "“Dos 20 registros localizados, todos estão cancelados. Não há registro vigente de risperidona isolada nem…",
     "x": 0
    },
    {
@@ -1601,7 +1601,7 @@
     "lt": 27,
     "lv": 27,
     "r": 2,
-    "rs": "Removido: “Há 8 registros válidos no total; s”",
+    "rs": "Removido: “Há 8 registros válidos no total; são listados os 5 principais.”",
     "x": 0
    },
    {
@@ -1622,8 +1622,8 @@
     "i": "acne",
     "lt": 84,
     "lv": 26,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "“Há pelo menos 20 registros na ANVISA, mas a lista pode ser parcial. Principais registros:” → “Os registros…",
     "x": 0
    },
    {
@@ -1634,7 +1634,7 @@
     "lt": 58,
     "lv": 26,
     "r": 5,
-    "rs": "Registros vigentes: 9 de 9 → 26 de 58",
+    "rs": "Removido: “(Exibidos os 5 primeiros de 9 registros cancelados.)”",
     "x": 0
    },
    {
@@ -1655,8 +1655,8 @@
     "i": "Cenurose",
     "lt": 97,
     "lv": 24,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "Removido: “Abaixo, uma seleção de registros válidos.”",
     "x": 0
    },
    {
@@ -1666,8 +1666,8 @@
     "i": "neoplasia do nervo trigêmeo",
     "lt": 54,
     "lv": 24,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "Removido: “e 20 registros, mas a lista pode ser parcial”",
     "x": 0
    },
    {
@@ -1699,8 +1699,8 @@
     "i": "Conjuntivite contagiosa aguda",
     "lt": 112,
     "lv": 23,
-    "r": 3,
-    "rs": "Registros válidos: “todos os 20” → 23 de 112",
+    "r": 4,
+    "rs": "Removido: “Abaixo, os 5 principais:”",
     "x": 0
    },
    {
@@ -1711,7 +1711,7 @@
     "lt": 111,
     "lv": 23,
     "r": 2,
-    "rs": "Registros válidos: “todos os 20” → 23 de 111",
+    "rs": "“Todos os 20 registros constam como válidos.” → “Há registros válidos e cancelados (números atualizados no…",
     "x": 0
    },
    {
@@ -1743,8 +1743,8 @@
     "i": "Acne",
     "lt": 88,
     "lv": 21,
-    "r": 6,
-    "rs": "“os registros ativos são de nutrição parenteral” → em sua maioria (16 de 21)",
+    "r": 7,
+    "rs": "“Os principais registros válidos:” → “Principais registros:”",
     "x": 0
    },
    {
@@ -1755,7 +1755,7 @@
     "lt": 42,
     "lv": 21,
     "r": 4,
-    "rs": "Removido: “Além disso, o medicamento é comercializado no Brasil, com 20 registros válidos”",
+    "rs": "“Há 20 registros válidos. Principais registros (máximo de 5):” → “Principais registros:”",
     "x": 0
    },
    {
@@ -1809,8 +1809,8 @@
     "i": "glaucoma hereditário primário",
     "lt": 71,
     "lv": 20,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "“A lista de registros pode ser parcial. Abaixo, os principais registros de medicamentos de ingrediente…",
     "x": 0
    },
    {
@@ -1853,8 +1853,8 @@
     "i": "gastroduodenitis",
     "lt": 83,
     "lv": 20,
-    "r": 2,
-    "rs": "Removido: “e não há registro válido no Brasil”",
+    "r": 3,
+    "rs": "“Os 20 registros encontrados estão válidos” → “Há registros válidos e cancelados (números atualizados no…",
     "x": 0
    },
    {
@@ -1864,8 +1864,8 @@
     "i": "polyclonal hyperviscosity syndrome",
     "lt": 85,
     "lv": 20,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "“Dos registros listados (lista possivelmente parcial), 2 estão válidos e 18 cancelados. Abaixo, os…",
     "x": 0
    },
    {
@@ -1897,8 +1897,8 @@
     "i": "Malformação esofágica não sindrômica",
     "lt": 0,
     "lv": 19,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "Removido: “e mostra apenas os cinco principais”",
     "x": 0
    },
    {
@@ -1919,8 +1919,8 @@
     "i": "nephrogenic syndrome of inappropriate antidiuresis",
     "lt": 40,
     "lv": 19,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "“Todos os 19 registros encontram-se válidos; abaixo, os 5 primeiros.” → “Os registros estão na tabela abaixo…",
     "x": 0
    },
    {
@@ -1941,8 +1941,8 @@
     "i": "Neoplasma do nervo trigêmeo",
     "lt": 38,
     "lv": 19,
-    "r": 4,
-    "rs": "Removido: “(o medicamento está comercializado, com 20 registros válidos)”",
+    "r": 5,
+    "rs": "Removido: “Há outros 15 registros cancelados (por exemplo, Toduze, Ritop, Têmpora e Vidmax), todos com a…",
     "x": 0
    },
    {
@@ -1952,8 +1952,8 @@
     "i": "neuroblastoma",
     "lt": 20,
     "lv": 18,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "Removido: “Os cinco principais registros:”",
     "x": 0
    },
    {
@@ -1985,8 +1985,8 @@
     "i": "glaucoma",
     "lt": 42,
     "lv": 18,
-    "r": 3,
-    "rs": "Registros válidos: “todos os 17” → 18 de 42",
+    "r": 4,
+    "rs": "Removido: “Abaixo, os 5 principais:”",
     "x": 0
    },
    {
@@ -2007,8 +2007,8 @@
     "i": "laringite",
     "lt": 125,
     "lv": 17,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "“Principais registros de ampicilina isolada:” → “Principais registros:”",
     "x": 0
    },
    {
@@ -2052,7 +2052,7 @@
     "lt": 41,
     "lv": 17,
     "r": 5,
-    "rs": "Contagem exibida: “Principais registros (5 de 20” → “Principais registros (30 de 41”",
+    "rs": "“Principais registros (5 de 20):” → “Principais registros:”",
     "x": 0
    },
    {
@@ -2117,8 +2117,8 @@
     "i": "obstructive lung disease",
     "lt": 16,
     "lv": 16,
-    "r": 2,
-    "rs": "Removido: “Definir a situação regulatória: não há registro vigente no Brasil, e seria preciso verificar a via…",
+    "r": 3,
+    "rs": "Removido: “; abaixo, os 5 principais”",
     "x": 0
    },
    {
@@ -2128,8 +2128,8 @@
     "i": "adenocarcinoma mucinoso do reto",
     "lt": 32,
     "lv": 16,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "“(lista parcial; texto” → “(texto”",
     "x": 0
    },
    {
@@ -2161,8 +2161,8 @@
     "i": "Síndrome braquiolmia-amelogênese imperfeita",
     "lt": 31,
     "lv": 15,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Removido: “Os cinco registros acima são exemplos entre os válidos; os demais seguem o mesmo padrão de dados…",
     "x": 0
    },
    {
@@ -2183,8 +2183,8 @@
     "i": "hiperamilasemia",
     "lt": 54,
     "lv": 15,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "Removido: “A tabela mostra apenas 5 deles.”",
     "x": 0
    },
    {
@@ -2194,8 +2194,8 @@
     "i": "punctate epithelial keratoconjunctivitis",
     "lt": 62,
     "lv": 15,
-    "r": 2,
-    "rs": "Removido: “já que não há registro vigente no Brasil”",
+    "r": 3,
+    "rs": "“Todos os 15 registros encontrados têm licença válida. Os cinco primeiros:” → “Os registros estão na tabela…",
     "x": 0
    },
    {
@@ -2206,7 +2206,7 @@
     "lt": 21,
     "lv": 15,
     "r": 3,
-    "rs": "Registros válidos: “todos os 13” → 15 de 21",
+    "rs": "“Todos os 13 registros encontram-se válidos.” → “Há registros válidos e cancelados (números atualizados no…",
     "x": 0
    },
    {
@@ -2216,8 +2216,8 @@
     "i": "gastroparesia",
     "lt": 32,
     "lv": 15,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Removido: “A lista mostra 5 dos 17 registros.”",
     "x": 0
    },
    {
@@ -2238,8 +2238,8 @@
     "i": "Colangite esclerosante",
     "lt": 15,
     "lv": 15,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Removido: “São listados os 5 principais:”",
     "x": 0
    },
    {
@@ -2249,8 +2249,8 @@
     "i": "gastroparesis (disease)",
     "lt": 33,
     "lv": 15,
-    "r": 3,
-    "rs": "Registros válidos: 17 de 17 → 15 de 33",
+    "r": 4,
+    "rs": "Removido: “São listados abaixo os 5 principais.”",
     "x": 0
    },
    {
@@ -2261,7 +2261,7 @@
     "lt": 30,
     "lv": 14,
     "r": 3,
-    "rs": "Removido: “dado que não há registro vigente no Brasil”",
+    "rs": "Removido: “Todos os 16 registros estão válidos. São listados os 5 principais:”",
     "x": 0
    },
    {
@@ -2294,7 +2294,7 @@
     "lt": 31,
     "lv": 14,
     "r": 3,
-    "rs": "Contagem exibida: “Principais registros (5 de 16” → “Principais registros (30 de 31”",
+    "rs": "“Principais registros (5 de 16):” → “Principais registros:”",
     "x": 0
    },
    {
@@ -2315,8 +2315,8 @@
     "i": "brachydactyly-syndactyly syndrome",
     "lt": 37,
     "lv": 14,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Removido: “Foram listados 5 dos pelo menos 20 registros localizados (a lista pode estar incompleta).”",
     "x": 0
    },
    {
@@ -2338,7 +2338,7 @@
     "lt": 28,
     "lv": 13,
     "r": 2,
-    "rs": "Contagem exibida: “Estão listados os 5 primeiros de 10 registros” → “Estão listados os 28 registros”",
+    "rs": "“Estão listados os 5 primeiros de 10 registros.” → “Os registros constam da tabela acima.”",
     "x": 0
    },
    {
@@ -2359,8 +2359,8 @@
     "i": "Síndrome do membro rígido focal",
     "lt": 63,
     "lv": 13,
-    "r": 2,
-    "rs": "Removido: “(registros cancelados)”",
+    "r": 3,
+    "rs": "“Dos 13 registros encontrados, 13 estão válidos. Os 5 principais:” → “Os registros estão na tabela abaixo (os…",
     "x": 0
    },
    {
@@ -2381,8 +2381,8 @@
     "i": "pneumocystosis",
     "lt": 49,
     "lv": 13,
-    "r": 2,
-    "rs": "Removido: “já que não há registro vigente no Brasil”",
+    "r": 3,
+    "rs": "“Todos os 13 registros encontram-se válidos. Os cinco principais:” → “Os registros estão na tabela abaixo (os…",
     "x": 0
    },
    {
@@ -2404,7 +2404,7 @@
     "lt": 41,
     "lv": 13,
     "r": 4,
-    "rs": "Contagem exibida: “Principais registros (5 de 20” → “Principais registros (30 de 41”",
+    "rs": "“Principais registros (5 de 20):” → “Principais registros:”",
     "x": 0
    },
    {
@@ -2469,8 +2469,8 @@
     "i": "Neoplasia do nervo trigêmeo",
     "lt": 12,
     "lv": 12,
-    "r": 7,
-    "rs": "Removido: “já que não há registro válido”",
+    "r": 8,
+    "rs": "“Principais registros (máximo de 5):” → “Principais registros:”",
     "x": 0
    },
    {
@@ -2480,8 +2480,8 @@
     "i": "hipermobilidade do cóccix",
     "lt": 14,
     "lv": 11,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "Removido: “Há outros registros válidos (HULIO, XILBRILADA, INSTITUTO BUTANTAN - ADALIMUMABE, HADLIMA…",
     "x": 0
    },
    {
@@ -2502,8 +2502,8 @@
     "i": "doença gástrica",
     "lt": 11,
     "lv": 11,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "Removido: “A lista mostra apenas 5 dos 11 registros.”",
     "x": 0
    },
    {
@@ -2513,8 +2513,8 @@
     "i": "seborrheic keratosis",
     "lt": 40,
     "lv": 11,
-    "r": 3,
-    "rs": "Removido: “Os 12 registros brasileiros estão vigentes”",
+    "r": 4,
+    "rs": "Removido: “Há ainda outros 7 registros cancelados (entre eles Solaquin, Hidropeek, Lumiderm, Glyquin XM…",
     "x": 0
    },
    {
@@ -2524,8 +2524,8 @@
     "i": "Ooforite autoimune",
     "lt": 44,
     "lv": 11,
-    "r": 4,
-    "rs": "Removido: “já que não há registro válido no Brasil”",
+    "r": 5,
+    "rs": "Removido: “Há outros 8 registros cancelados (incluindo Afrezza, Wosulin 70/30, Wosulin R, Novolin N e Humulin…",
     "x": 0
    },
    {
@@ -2580,7 +2580,7 @@
     "lt": 16,
     "lv": 10,
     "r": 3,
-    "rs": "Contagem exibida: “A lista acima mostra os 5 primeiros de 11 registros” → “A lista acima mostra os 16…",
+    "rs": "“A lista acima mostra os 5 primeiros de 11 registros.” → “Os registros constam da tabela acima.”",
     "x": 0
    },
    {
@@ -2590,8 +2590,8 @@
     "i": "Doença da cavidade nasal",
     "lt": 10,
     "lv": 10,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "Removido: “A lista mostra apenas os 5 principais registros.”",
     "x": 0
    },
    {
@@ -2601,8 +2601,8 @@
     "i": "nephrogenic syndrome of inappropriate antidiuresis",
     "lt": 29,
     "lv": 10,
-    "r": 3,
-    "rs": "Registros válidos: “todos os 11” → 10 de 29",
+    "r": 4,
+    "rs": "Removido: “Os cinco principais:”",
     "x": 0
    },
    {
@@ -2635,7 +2635,7 @@
     "lt": 29,
     "lv": 10,
     "r": 6,
-    "rs": "Removido: “Todos os 8 registros estão válidos; o”",
+    "rs": "Removido: “(Exibidos os 5 primeiros de 8 registros.)”",
     "x": 0
    },
    {
@@ -2645,8 +2645,8 @@
     "i": "punctate epithelial keratoconjunctivitis",
     "lt": 71,
     "lv": 10,
-    "r": 3,
-    "rs": "Removido: “dado que não há registro vigente no país”",
+    "r": 4,
+    "rs": "Removido: “Observação: todos os 10 registros encontrados têm licença válida atualmente. Os cinco acima são…",
     "x": 0
    },
    {
@@ -2678,8 +2678,8 @@
     "i": "Esclerodermia difusa",
     "lt": 41,
     "lv": 10,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "“os 10 registros estão válidos (10 de 10)” → “há registros válidos e cancelados (números atualizados no…",
     "x": 0
    },
    {
@@ -2711,8 +2711,8 @@
     "i": "pênfigoide líquen plano",
     "lt": 9,
     "lv": 9,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Removido: “Há mais 4 registros além dos cinco listados acima.”",
     "x": 0
    },
    {
@@ -2734,7 +2734,7 @@
     "lt": 10,
     "lv": 9,
     "r": 4,
-    "rs": "Registros válidos: “ausência” → 9 de 10",
+    "rs": "“Considerar a ausência de registros válidos no Brasil em qualquer planejamento de desenvolvimento” →…",
     "x": 0
    },
    {
@@ -2755,8 +2755,8 @@
     "i": "dispepsia",
     "lt": 78,
     "lv": 8,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "“Segundo os dados compilados, há pelo menos 2 registros válidos e 18 cancelados, e a lista de registros…",
     "x": 0
    },
    {
@@ -2799,8 +2799,8 @@
     "i": "Malária por Plasmodium falciparum",
     "lt": 17,
     "lv": 8,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Removido: “Foram listados 5 dos 7 registros de medicamentos de ingrediente único; a lista está limitada aos…",
     "x": 0
    },
    {
@@ -2810,8 +2810,8 @@
     "i": "nephrogenic syndrome of inappropriate antidiuresis",
     "lt": 8,
     "lv": 8,
-    "r": 2,
-    "rs": "Removido: “todos com situação cancelada”",
+    "r": 3,
+    "rs": "Removido: “Entre os demais estão Emend Injetável (101710225) e Foza (155370085).”",
     "x": 0
    },
    {
@@ -2822,7 +2822,7 @@
     "lt": 9,
     "lv": 8,
     "r": 1,
-    "rs": "Removido: “Todos os 9 registros são de produtos com fosfomicina isolada e estão válidos”",
+    "rs": "Removido: “Todos os 9 registros são de produtos com fosfomicina isolada e estão válidos. A tabela mostra os 5…",
     "x": 0
    },
    {
@@ -2854,8 +2854,8 @@
     "i": "Esclerodermia difusa",
     "lt": 21,
     "lv": 8,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "Removido: “A lista acima mostra apenas parte dos registros.”",
     "x": 0
    },
    {
@@ -2865,8 +2865,8 @@
     "i": "Conjuntivite contagiosa aguda",
     "lt": 21,
     "lv": 8,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 3,
+    "rs": "Removido: “Há outros 3 registros cancelados (nº 100470525, 105350156 e 117170026), não listados por limite de…",
     "x": 0
    },
    {
@@ -2876,8 +2876,8 @@
     "i": "pleural empyema (disease)",
     "lt": 20,
     "lv": 8,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "“Os 8 registros estão válidos (8 de 8)” → “Há registros válidos e cancelados (números atualizados no resumo…",
     "x": 0
    },
    {
@@ -2898,8 +2898,8 @@
     "i": "trigeminal nerve neoplasm",
     "lt": 36,
     "lv": 8,
-    "r": 2,
-    "rs": "Removido: “Todos os 8 registros estão válidos (8 de 8); o”",
+    "r": 4,
+    "rs": "Removido: “e os 8 registros listados estão válidos”",
     "x": 0
    },
    {
@@ -2909,8 +2909,8 @@
     "i": "polimicrogiria parieto-occipital parassagital bilateral",
     "lt": 18,
     "lv": 8,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "“Principais registros válidos:” → “Principais registros:”",
     "x": 0
    },
    {
@@ -2931,8 +2931,8 @@
     "i": "CMM7",
     "lt": 7,
     "lv": 7,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "Removido: “Há mais registros válidos além dos cinco listados (7 no total, todos válidos e de produto…",
     "x": 0
    },
    {
@@ -2942,8 +2942,8 @@
     "i": "Esclerodermia difusa",
     "lt": 8,
     "lv": 7,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "“A lista mostra os 5 principais registros; há” → “Há”",
     "x": 0
    },
    {
@@ -2964,8 +2964,8 @@
     "i": "Síndrome de braquidactilia-sindactilia",
     "lt": 19,
     "lv": 7,
-    "r": 1,
-    "rs": "Removido: “Leflunomida (LEFLUNOMIDA) é um fármaco com 19 registros ativos no Brasil, confirmado como…",
+    "r": 2,
+    "rs": "“Estes são 5 dos 7 registros válidos; há ainda 12 registros cancelados.” → “Os números atualizados de…",
     "x": 0
    },
    {
@@ -2997,8 +2997,8 @@
     "i": "Hipertireoidismo",
     "lt": 8,
     "lv": 7,
-    "r": 2,
-    "rs": "Removido: “Os detalhes individuais de cada registro (número, nome comercial, forma farmacêutica e indicação…",
+    "r": 3,
+    "rs": "Removido: “; a tabela acima mostra os 5 principais”",
     "x": 0
    },
    {
@@ -3008,8 +3008,8 @@
     "i": "cholesterol-ester transfer protein deficiency",
     "lt": 7,
     "lv": 7,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "Removido: “; os 5 principais estão listados acima (os demais: 100431110, Pitavastatina Cálcica, e 109740346…",
     "x": 0
    },
    {
@@ -3030,8 +3030,8 @@
     "i": "Hipertricose",
     "lt": 10,
     "lv": 6,
-    "r": 1,
-    "rs": "Removido: “e os dados de registro ANVISA não foram populados, tornando inviável qualquer análise de…",
+    "r": 2,
+    "rs": "Removido: “; os 5 acima são os principais registros válidos”",
     "x": 0
    },
    {
@@ -3041,8 +3041,8 @@
     "i": "simian immunodeficiency virus infection",
     "lt": 6,
     "lv": 6,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "Removido: “Há ainda o registro 102980571 (Darvyr, Cristália), totalizando 6 registros válidos.”",
     "x": 0
    },
    {
@@ -3129,8 +3129,8 @@
     "i": "Hipodisplasia/aplasia renal",
     "lt": 6,
     "lv": 6,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "Removido: “Há ainda um sexto registro válido (nº 100890202, EUTHYROX), com a mesma indicação.”",
     "x": 0
    },
    {
@@ -3140,8 +3140,8 @@
     "i": "epiglottitis",
     "lt": 27,
     "lv": 6,
-    "r": 2,
-    "rs": "Removido: “dado que não há registro válido no Brasil”",
+    "r": 3,
+    "rs": "“Os 6 registros no Brasil estão válidos” → “Há registros válidos e cancelados no Brasil (números atualizados…",
     "x": 0
    },
    {
@@ -3151,8 +3151,8 @@
     "i": "malignant hypertensive renal disease",
     "lt": 11,
     "lv": 6,
-    "r": 1,
-    "rs": "Removido: “já que não há registro válido no Brasil”",
+    "r": 2,
+    "rs": "Removido: “Há ainda um sexto registro (TRIPLIXAM, inibidores da ECA, associações), também cancelado.”",
     "x": 0
    },
    {
@@ -3162,8 +3162,8 @@
     "i": "nasal cavity disease",
     "lt": 7,
     "lv": 6,
-    "r": 3,
-    "rs": "Registros válidos: 7 → 6 de 7",
+    "r": 4,
+    "rs": "Removido: “a tabela lista apenas os 5 principais.”",
     "x": 0
    },
    {
@@ -3184,8 +3184,8 @@
     "i": "bloqueio de ramo obsoleto",
     "lt": 23,
     "lv": 5,
-    "r": 3,
-    "rs": "Removido: “O fármaco possui 20 registros ativos no mercado brasileiro, confirmando disponibilidade comercial…",
+    "r": 4,
+    "rs": "“Os registros válidos de produto isolado estão listados abaixo” → “Os registros estão listados abaixo”",
     "x": 0
    },
    {
@@ -3195,8 +3195,8 @@
     "i": "esotropia",
     "lt": 6,
     "lv": 5,
-    "r": 2,
-    "rs": "Removido: “Aflibercepte (AFLIBERCEPTE) é um fármaco atualmente comercializado no Brasil com 4 registros…",
+    "r": 3,
+    "rs": "“(um registro antigo do ZALTRAP, omitido da tabela acima)” → “(um registro antigo do ZALTRAP)”",
     "x": 0
    },
    {
@@ -3206,8 +3206,8 @@
     "i": "Paroxismo tortícolo benigno da infância",
     "lt": 7,
     "lv": 5,
-    "r": 3,
-    "rs": "Removido: “Verificar a fonte dos dados regulatórios: o querylog indica fonte tfda (Taiwan FDA) — confirmar se…",
+    "r": 4,
+    "rs": "Removido: “; a tabela lista os 5 principais”",
     "x": 0
    },
    {
@@ -3327,8 +3327,8 @@
     "i": "Hipertensão pulmonar de mecanismo multifatorial incerto",
     "lt": 51,
     "lv": 5,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "“Os dados compilados indicam situação Comercializado, com pelo menos 20 registros (a lista pode estar…” → “Os…",
     "x": 0
    },
    {
@@ -3371,8 +3371,8 @@
     "i": "Conjuntivite papilar",
     "lt": 14,
     "lv": 5,
-    "r": 2,
-    "rs": "Removido: “dado que não há registro válido de prilocaína no Brasil”",
+    "r": 4,
+    "rs": "Removido: “Os 5 registros brasileiros (5 de 5) estão válidos.”",
     "x": 0
    },
    {
@@ -3382,8 +3382,8 @@
     "i": "Infecção pelo vírus da imunodeficiência símia",
     "lt": 15,
     "lv": 5,
-    "r": 2,
-    "rs": "Removido: “Há 20 registros no total, dos quais 5 válidos e 15 cancelados”",
+    "r": 3,
+    "rs": "“Abaixo, os registros válidos de ritonavir isolado; o registro” → “Na tabela abaixo, o registro”",
     "x": 0
    },
    {
@@ -3404,8 +3404,8 @@
     "i": "Malformação respiratória",
     "lt": 6,
     "lv": 5,
-    "r": 4,
-    "rs": "Removido: “⚠️ Nota metodológica: A ausência de resultados na consulta TFDA/ANVISA é inconsistente com o…",
+    "r": 5,
+    "rs": "Removido: “Há ainda um registro cancelado, não listado acima.”",
     "x": 0
    },
    {
@@ -3415,8 +3415,8 @@
     "i": "Acrodermatite crônica atrófica",
     "lt": 16,
     "lv": 5,
-    "r": 2,
-    "rs": "Removido: “já que não há registro válido no Brasil”",
+    "r": 4,
+    "rs": "“Os 5 registros brasileiros estão válidos e o medicamento é comercializado.” → “O medicamento é…",
     "x": 0
    },
    {
@@ -3482,7 +3482,7 @@
     "lt": 6,
     "lv": 4,
     "r": 4,
-    "rs": "Registros válidos: 5 de 5 → 4 de 6",
+    "rs": "“5 dos 5 registros são válidos” → “há registros válidos e cancelados (números atualizados no resumo rápido)”",
     "x": 0
    },
    {
@@ -3591,8 +3591,8 @@
     "i": "pulmonary hypertension with unclear multifactorial mechanism",
     "lt": 32,
     "lv": 4,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "Removido: “A lista abaixo mostra apenas os registros válidos. Há pelo menos 20 registros no total e a lista…",
     "x": 0
    },
    {
@@ -3636,7 +3636,7 @@
     "lt": 18,
     "lv": 3,
     "r": 3,
-    "rs": "Registros: “os três estão cancelados” → 18 registros, 15 cancelados e 3 válidos",
+    "rs": "“os três registros no Brasil estão cancelados” → “há registros válidos e cancelados no Brasil (números…",
     "x": 0
    },
    {
@@ -3712,8 +3712,8 @@
     "i": "autosomal recessive familial Mediterranean fever",
     "lt": 4,
     "lv": 3,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 3,
+    "rs": "Removido: “os 3 registros estão válidos e”",
     "x": 0
    },
    {
@@ -3746,7 +3746,7 @@
     "lt": 4,
     "lv": 3,
     "r": 1,
-    "rs": "Registros: “os três estão cancelados” → 4 registros, 3 válidos",
+    "rs": "“os três registros no Brasil estão cancelados, o que limita a viabilidade regulatória imediata.” → “há…",
     "x": 0
    },
    {
@@ -3801,7 +3801,7 @@
     "lt": 0,
     "lv": 3,
     "r": 1,
-    "rs": "Registros: 4 válidos e 16 cancelados → pelo menos 3 válidos e 17 cancelados",
+    "rs": "“com 4 registros válidos e 16 cancelados” → “com registros válidos e cancelados”",
     "x": 0
    },
    {
@@ -3833,8 +3833,8 @@
     "i": "alopecia",
     "lt": 7,
     "lv": 3,
-    "r": 2,
-    "rs": "Removido: “Definir a situação regulatória: como não há registro válido no Brasil, seria necessário novo…",
+    "r": 4,
+    "rs": "Removido: “os 3 registros brasileiros (3 de 3) estão válidos e”",
     "x": 0
    },
    {
@@ -3889,7 +3889,7 @@
     "lt": 4,
     "lv": 3,
     "r": 2,
-    "rs": "Removido: “Os detalhes de cada registro (nome comercial, forma farmacêutica) não estão disponíveis nos dados…",
+    "rs": "“O medicamento consta como comercializado no Brasil, com 3 registros válidos e 1 cancelado, totalizando 4…” →…",
     "x": 0
    },
    {
@@ -4010,7 +4010,7 @@
     "lt": 12,
     "lv": 2,
     "r": 2,
-    "rs": "Registros: 11 (8 cancelados) → 12 (10 cancelados)",
+    "rs": "“Dos 11 registros, 3 estão válidos e 8 cancelados.” → “Os números atualizados de registros válidos e…",
     "x": 0
    },
    {
@@ -4021,7 +4021,7 @@
     "lt": 11,
     "lv": 2,
     "r": 3,
-    "rs": "Removido: “Os detalhes individuais dos registros não estão disponíveis nos dados deste relatório”",
+    "rs": "“com 2 registros válidos e 10 cancelados” → “com registros válidos e cancelados (números atualizados no…",
     "x": 0
    },
    {
@@ -4087,7 +4087,7 @@
     "lt": 3,
     "lv": 2,
     "r": 2,
-    "rs": "Registros: 4 (2 cancelados) → 3 (1 cancelado)",
+    "rs": "“O Brasil tem 4 registros (2 válidos e 2 cancelados)” → “O Brasil tem registros válidos e cancelados (números…",
     "x": 0
    },
    {
@@ -4164,7 +4164,7 @@
     "lt": 3,
     "lv": 2,
     "r": 1,
-    "rs": "Removido: “Os detalhes de cada registro (número, nome comercial, forma farmacêutica e indicação aprovada) não…",
+    "rs": "“Segundo os dados locais, o fármaco consta como comercializado, com 2 registros válidos e 1 cancelado. Os…” →…",
     "x": 0
    },
    {
@@ -4659,7 +4659,7 @@
     "lt": 4,
     "lv": 1,
     "r": 2,
-    "rs": "Removido: “Os detalhes individuais dos registros (número, nome comercial e forma farmacêutica) não estão…",
+    "rs": "“Segundo os dados compilados para este relatório, o danazol consta como comercializado no Brasil, com 4…” →…",
     "x": 0
    },
    {
@@ -4812,8 +4812,8 @@
     "i": "visual epilepsy",
     "lt": 7,
     "lv": 1,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "r": 2,
+    "rs": "Removido: “Há ainda 2 registros cancelados (Diazepamil e Diazepam Composto Injetável), totalizando 7.”",
     "x": 0
    },
    {
@@ -4923,7 +4923,7 @@
     "lt": 2,
     "lv": 1,
     "r": 2,
-    "rs": "Removido: “Os detalhes dos registros (número, nome comercial, forma farmacêutica) não estão disponíveis nos…",
+    "rs": "“Segundo os dados compilados para este relatório, o glucagon consta como comercializado no Brasil, com 2…” →…",
     "x": 0
    },
    {
@@ -5043,8 +5043,8 @@
     "i": "serpinopatia com polimerização tóxica de serpina",
     "lt": 3,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Removido: “(a lista acima pode não mostrar todos eles)”",
     "x": 0
    },
    {
@@ -5264,7 +5264,7 @@
     "lt": 4,
     "lv": 1,
     "r": 2,
-    "rs": "Removido: “Os detalhes individuais dos registros (número, nome comercial e forma farmacêutica) não estão…",
+    "rs": "“Segundo os dados compilados para este relatório, o penciclovir consta como comercializado no Brasil, com…” →…",
     "x": 0
    },
    {
@@ -5792,7 +5792,7 @@
     "lt": 2,
     "lv": 0,
     "r": 1,
-    "rs": "O medicamento está comercializado no Brasil, com 1 registro válido de 1, e o perfil de segurança sugerido…",
+    "rs": "“O medicamento está comercializado no Brasil, com 1 registro válido de 1, e o perfil de segurança sugerido…”…",
     "x": 0
    }
   ],

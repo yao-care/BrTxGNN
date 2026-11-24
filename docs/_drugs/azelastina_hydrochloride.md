@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 99
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 predicted_indications: []
 ---
 
@@ -72,7 +72,7 @@ Possíveis razões:
 
 <!-- review:begin br-lic-20261106-azelastina_hydrochloride-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Nenhum registro foi encontrado na base de dados regulatória com o termo de busca **"AZELASTINA HYDROCHLORIDE"**. Possíveis razões:” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 3 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “Nenhum registro foi encontrado na base de dados regulatória com o termo de busca **"AZELASTINA HYDROCHLORIDE"**. Possíveis razões:” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-azelastina_hydrochloride-1 -->
 
@@ -104,7 +104,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “Nenhum registro foi encontrado na base de dados regulatória com o termo de busca **"AZELASTINA HYDROCHLORIDE"**” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Nenhum registro foi encontrado na base de dados regulatória com o termo de busca **"AZELASTINA HYDROCHLORIDE"**” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 50
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Amikacin: nova indicação prevista, Febre paratifoide (paratyphoid fever) (nível de evidência L5). Indicação original: Aminoglicosídeos"
 monitor_inn: "Amikacin"
 predicted_indications: ["paratyphoid fever", "diffuse scleroderma", "punctate epithelial keratoconjunctivitis", "typhoid fever", "epiglottitis", "salmonellosis", "congenital analbuminemia", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "meningococcemia"]
@@ -117,11 +117,11 @@ Também há um estudo de sensibilidade de *S. typhi* (PMID 8354556, 1993) em que
 **Decisão: Hold**
 
 **Justificativa:**
-- Apesar da pontuação alta do TxGNN (0,9982), não há ensaios clínicos e a literatura é indireta (epidemiologia e antibiogramas). Um estudo comparativo em febre tifoide relatou eficácia clínica de apenas 36,4% com amicacina, contra 100% com ofloxacino. A penetração intracelular limitada dos aminoglicosídeos e a existência de alternativas estabelecidas (azitromicina, cefalosporinas de terceira geração, fluoroquinolonas) reduzem o interesse da proposta. Além disso, dos 18 registros no Brasil, 15 estão cancelados e 3 válidos.
+- Apesar da pontuação alta do TxGNN (0,9982), não há ensaios clínicos e a literatura é indireta (epidemiologia e antibiogramas). Um estudo comparativo em febre tifoide relatou eficácia clínica de apenas 36,4% com amicacina, contra 100% com ofloxacino. A penetração intracelular limitada dos aminoglicosídeos e a existência de alternativas estabelecidas (azitromicina, cefalosporinas de terceira geração, fluoroquinolonas) reduzem o interesse da proposta. Além disso, há registros válidos e cancelados no Brasil (números atualizados no resumo rápido).
 
 <!-- review:begin br-lic-20261112-amikacin-1 -->
 
-> **Correção de verificação (2026-11-12)**: Texto original: “os três registros no Brasil estão cancelados” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 18 registros para este medicamento, 3 válidos e 15 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “os três registros no Brasil estão cancelados” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261112-amikacin-1 -->
 
@@ -134,7 +134,7 @@ Também há um estudo de sensibilidade de *S. typhi* (PMID 8354556, 1993) em que
 
 <!-- review:begin br-lic-20261106-amikacin-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Definir via de administração e forma farmacêutica compatíveis e verificar a situação regulatória atual (não há registro vigente no Brasil).” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 18 registros para este medicamento, 3 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “Definir via de administração e forma farmacêutica compatíveis e verificar a situação regulatória atual (não há registro vigente no Brasil).” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-amikacin-1 -->
 
@@ -146,8 +146,8 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “(não há registro vigente no Brasil)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Registros: “os três estão cancelados” → 18 registros, 15 cancelados e 3 válidos | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “(não há registro vigente no Brasil)” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “os três registros no Brasil estão cancelados” → “há registros válidos e cancelados no Brasil (números atualizados no resumo rápido)” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: amikacin sulfate prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f260ff2a-76a0-4672-9516-91c344b67890) |
 
 <!-- review:end log -->

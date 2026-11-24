@@ -106,7 +106,11 @@ A tabela mostra até 30 registros (os ativos primeiro), de 31 registros nos dado
 
 <!-- licenses:end -->
 
-Os cinco registros acima são exemplos entre os válidos; os demais seguem o mesmo padrão de dados ausentes.
+<!-- review:begin br-lic-20261124b-aceclofenaco-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Os cinco registros acima são exemplos entre os válidos; os demais seguem o mesmo padrão de dados ausentes.” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-aceclofenaco-1 -->
 
 ## Considerações de Segurança
 
@@ -125,6 +129,19 @@ Consulte a bula para informações de segurança. Os dados compilados não traze
 - Complementar os dados de mecanismo de ação do fármaco (por exemplo, via DrugBank).
 - Buscar estudos pré-clínicos ou relatos de caso que avaliem diretamente esta síndrome, antes de qualquer reconsideração.
 - Avaliar a compatibilidade de via de administração e a relevância clínica, já que o benefício, se existir, seria apenas sintomático.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-24 | Removido: “Os cinco registros acima são exemplos entre os válidos; os demais seguem o mesmo padrão de dados ausentes.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

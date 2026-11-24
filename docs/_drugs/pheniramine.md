@@ -91,11 +91,17 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 <!-- licenses:end -->
 
-Dos 7 registros encontrados, 6 estão válidos; a tabela lista apenas os 5 principais.
+<!-- review:begin br-lic-20261124b-pheniramine-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “a tabela lista apenas os 5 principais.” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-pheniramine-1 -->
+
+Há registros válidos e cancelados (números atualizados no resumo rápido).
 
 <!-- review:begin br-lic-20261113-pheniramine-1 -->
 
-> **Correção de verificação (2026-11-13)**: Texto original: “Todos os 7 registros encontrados estão válidos;” Segundo os dados abertos da ANVISA (2026-11-13), o registro 186200022 passou a Inativo; 6 dos 7 registros estão ativos. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “Todos os 7 registros encontrados estão válidos;” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261113-pheniramine-1 -->
 
@@ -117,12 +123,12 @@ Consulte a bula para as advertências e interações medicamentosas oficiais; n�
 **Decisão: Hold**
 
 **Justificativa:**
-- A pontuação do TxGNN é alta (0,9928), mas vem do modelo de deep learning e não constitui evidência biológica; não há ensaios clínicos nem literatura de eficácia (nível L4). O medicamento é comercializado no Brasil, com 6 registros válidos de 7.
+- A pontuação do TxGNN é alta (0,9928), mas vem do modelo de deep learning e não constitui evidência biológica; não há ensaios clínicos nem literatura de eficácia (nível L4). O medicamento é comercializado no Brasil, com registros válidos na ANVISA (números atualizados no resumo rápido).
 - As demais previsões (doença da cavidade nasal e laringofaringite aguda) estão em L5, sem qualquer estudo, e também em Hold.
 
 <!-- review:begin br-lic-20261113-pheniramine-2 -->
 
-> **Correção de verificação (2026-11-13)**: Texto original: “com 7 registros válidos de 7” Segundo os dados abertos da ANVISA (2026-11-13), 6 dos 7 registros estão ativos (186200022 passou a Inativo). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “com 7 registros válidos de 7” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261113-pheniramine-2 -->
 
@@ -135,7 +141,7 @@ Consulte a bula para as advertências e interações medicamentosas oficiais; n�
 
 <!-- review:begin br-lic-20261106-pheniramine-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Verificar se há interesse regulatório e comercial, dado que não há registro válido no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 7 registros para este medicamento, 7 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “Verificar se há interesse regulatório e comercial, dado que não há registro válido no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-pheniramine-1 -->
 
@@ -147,9 +153,10 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “dado que não há registro válido no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-13 | Registros válidos: 7 → 6 de 7 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-13 | Registros válidos: 7 → 6 de 7 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “dado que não há registro válido no Brasil” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “Todos os 7 registros encontrados estão válidos;” → “Há registros válidos e cancelados (números atualizados no resumo rápido).” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “com 7 registros válidos de 7” → “com registros válidos na ANVISA (números atualizados no resumo rápido)” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | Removido: “a tabela lista apenas os 5 principais.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

@@ -73,11 +73,11 @@ Atualmente não há ensaios clínicos relacionados registrados para ceratoconjun
 
 ## Informações de Comercialização no Brasil
 
-Principais registros (30 de 98):
+Principais registros:
 
 <!-- review:begin br-lic-20261106-fluconazole-1 -->
 
-> **Correção de verificação (2026-11-12)**: Texto original: “O medicamento é comercializado, com 20 registros válidos. Principais registros (5 de 20):” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 98 registros para este medicamento, 31 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. A contagem exibida foi atualizada para “Principais registros (30 de 98)” (tabela atual e dados de 2026-11-05). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “O medicamento é comercializado, com 20 registros válidos. Principais registros (5 de 20):” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-fluconazole-1 -->
 
@@ -139,7 +139,7 @@ Consulte a bula para advertências e contraindicações formais, que não estava
 
 <!-- review:begin br-lic-20261106-fluconazole-2 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “A previsão para ceratoconjuntivite epitelial punctata é puramente computacional (L5), sem ensaios ou literatura, e sem mecanismo plausível, já que a doença é tipicamente viral ou inflamatória. Além disso, não há registro vigente do fármaco no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 98 registros para este medicamento, 31 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão para ceratoconjuntivite epitelial punctata é puramente computacional (L5), sem ensaios ou literatura, e sem mecanismo plausível, já que a doença é tipicamente viral ou inflamatória. Além disso, não há registro vigente do fármaco no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-fluconazole-2 -->
 
@@ -152,7 +152,7 @@ Consulte a bula para advertências e contraindicações formais, que não estava
 
 <!-- review:begin br-lic-20261106-fluconazole-3 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Esclarecer a situação regulatória (medicamento comercializado, com 20 registros válidos) e a compatibilidade de via de administração (oftálmica vs. sistêmica).” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 98 registros para este medicamento, 31 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “Esclarecer a situação regulatória (medicamento comercializado, com 20 registros válidos) e a compatibilidade de via de administração (oftálmica vs. sistêmica).” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-fluconazole-3 -->
 
@@ -164,9 +164,9 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-12 | Removido: “O medicamento é comercializado, com 20 registros válidos” | Corrigido (revisado em 2026-11-12; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-06 | Removido: “Além disso, não há registro vigente do fármaco no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-06 | Removido: “(medicamento comercializado, com 20 registros válidos)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “O medicamento é comercializado, com 20 registros válidos. Principais registros (5 de 20):” → “Principais registros:” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Além disso, não há registro vigente do fármaco no Brasil” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “(medicamento comercializado, com 20 registros válidos)” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Diflucan (fluconazole) prescribing information, Roerig](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f694c617-3383-416c-91b6-b94fda371204) |
 
 <!-- review:end log -->

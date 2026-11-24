@@ -71,11 +71,11 @@ Há, porém, uma ressalva importante: não existem dados de estudos específicos
 
 ## Informações de Comercialização no Brasil
 
-O medicamento é comercializado no Brasil: dos 58 registros, 26 estão vigentes.
+O medicamento é comercializado no Brasil: há registros vigentes e cancelados (números atualizados no resumo rápido).
 
 <!-- review:begin br-lic-20261112-mometasone-1 -->
 
-> **Correção de verificação (2026-11-24)**: Texto original: “dos 9 registros encontrados, 9 estão vigentes” Corrigido conforme os dados abertos de medicamentos da ANVISA (situação de 2026-11-23): 58 registros para este medicamento, 26 válidos e 32 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “dos 9 registros encontrados, 9 estão vigentes” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261112-mometasone-1 -->
 
@@ -118,11 +118,9 @@ A tabela mostra até 30 registros (os ativos primeiro), de 58 registros nos dado
 
 <!-- licenses:end -->
 
-(A tabela exibe 2 dos 30 registros cancelados.)
-
 <!-- review:begin br-lic-20261112-mometasone-2 -->
 
-> **Correção de verificação (2026-11-12)**: Texto original: “(Exibidos os 5 primeiros de 9 registros cancelados.)” Corrigido conforme a tabela desta seção e os dados abertos de medicamentos da ANVISA (2026-11-05): a tabela mostra 30 registros e há 58 registros para este medicamento; a contagem antiga vinha de uma versão anterior dos dados (no máximo 20 registros). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “(Exibidos os 5 primeiros de 9 registros cancelados.)” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261112-mometasone-2 -->
 
@@ -141,7 +139,7 @@ Consulte a bula para as demais informações de segurança (advertências e cont
 
 <!-- review:begin br-lic-20261106-mometasone-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “A previsão tem pontuação alta e plausibilidade de classe, mas não há ensaios clínicos nem estudos com mometasona nessa indicação, apenas dois relatos de caso indiretos (nível L4). Além disso, não há registro vigente no Brasil, e as informações de segurança da bula não estão disponíveis.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 58 registros para este medicamento, 28 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão tem pontuação alta e plausibilidade de classe, mas não há ensaios clínicos nem estudos com mometasona nessa indicação, apenas dois relatos de caso indiretos (nível L4). Além disso, não há registro vigente no Brasil, e as informações de segurança da bula não estão disponíveis.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-mometasone-1 -->
 
@@ -154,7 +152,7 @@ Consulte a bula para as demais informações de segurança (advertências e cont
 
 <!-- review:begin br-lic-20261111-mometasone-2 -->
 
-> **Correção de verificação (2026-11-11)**: Texto original: “Avaliar a compatibilidade de via e formulação (tópica) e a situação regulatória, dado que o medicamento é comercializado no Brasil, com 9 registros vigentes de 9.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-11). Nos dados (dados abertos de medicamentos da ANVISA) constam 58 registros para este medicamento, 28 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-11)**: Texto original: “Avaliar a compatibilidade de via e formulação (tópica) e a situação regulatória, dado que o medicamento é comercializado no Brasil, com 9 registros vigentes de 9.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-11). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261111-mometasone-2 -->
 
@@ -166,10 +164,10 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “Além disso, não há registro vigente no Brasil, e as informações de segurança da bula não estão disponíveis” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-11 | Removido: “dado que o medicamento é comercializado no Brasil, com 9 registros vigentes de 9” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-24 | Registros vigentes: 9 de 9 → 26 de 58 | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Contagem exibida: “Exibidos os 5 primeiros de 9 registros cancelados” → “A tabela exibe 2 dos 30 registros cancelados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Além disso, não há registro vigente no Brasil, e as informações de segurança da bula não estão disponíveis” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-11 | Removido: “dado que o medicamento é comercializado no Brasil, com 9 registros vigentes de 9” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “dos 9 registros encontrados, 9 estão vigentes” → “há registros vigentes e cancelados (números atualizados no resumo rápido)” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | Removido: “(Exibidos os 5 primeiros de 9 registros cancelados.)” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Asmanex Hfa (mometasone furoate) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0c6d63da-41bc-4894-bead-198e66c848ac) |
 
 <!-- review:end log -->

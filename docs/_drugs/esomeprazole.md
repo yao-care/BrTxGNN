@@ -103,11 +103,17 @@ A tabela mostra até 30 registros (os ativos primeiro), de 57 registros nos dado
 
 <!-- licenses:end -->
 
-Há 57 registros no total; a tabela mostra apenas os cinco primeiros.
+<!-- review:begin br-lic-20261124b-esomeprazole-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “; a tabela mostra apenas os cinco primeiros.” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-esomeprazole-1 -->
+
+Os números atualizados de registros estão no resumo rápido.
 
 <!-- review:begin br-lic-20261112-esomeprazole-1 -->
 
-> **Correção de verificação (2026-11-12)**: Texto original: “Há 15 registros no total” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 57 registros para este medicamento, 30 válidos e 27 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “Há 15 registros no total” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261112-esomeprazole-1 -->
 
@@ -136,8 +142,9 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-12 | Registros no total: 15 → 57 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “Há 15 registros no total” → “Os números atualizados de registros estão no resumo rápido” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Nexium (esomeprazole magnesium) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f4853677-1622-4037-688b-fdf533a11d96) |
+| 2026-11-24 | “; a tabela mostra apenas os cinco primeiros.” → “.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

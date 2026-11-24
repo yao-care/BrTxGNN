@@ -71,7 +71,7 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-Os dados compilados indicam 20 registros, dos quais 19 válidos e 1 cancelado; a lista abaixo pode ser parcial e mostra apenas os cinco principais.
+Os dados compilados indicam 20 registros, dos quais 19 válidos e 1 cancelado; a lista abaixo pode ser parcial.
 
 <!-- licenses:begin -->
 
@@ -102,6 +102,12 @@ Os dados contêm apenas parte dos registros; a lista pode estar incompleta.
 
 <!-- licenses:end -->
 
+<!-- review:begin br-lic-20261124b-ascorbic_acid-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “e mostra apenas os cinco principais” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-ascorbic_acid-1 -->
+
 ## Considerações de Segurança
 
 - **Interações medicamentosas** (25 interações registradas; principais):
@@ -127,11 +133,12 @@ Para advertências e contraindicações em bula, consulte a bula do produto.
 
 ## Registro de verificação
 
-Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: ascorbic acid prescribing information, Zydus Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f0b683f8-189b-4a3f-9ffe-f91df6d798b6) |
+| 2026-11-24 | Removido: “e mostra apenas os cinco principais” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

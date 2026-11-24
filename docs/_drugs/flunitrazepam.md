@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Flunitrazepam"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "anxiety", "anxiety disorder", "alcohol withdrawal delirium", "agoraphobia", "benign paroxysmal torticollis of infancy", "atrophoderma vermiculata"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Flunitrazepam: nova indicação prevista, enxaqueca (migraine disorder) (nível de evidência L5). Indicação original: Indicação aprovada não registrada nos dados locais"
 ---
 
@@ -76,7 +76,7 @@ Os dados locais não trazem o detalhamento de nomes comerciais, formas farmacêu
 
 <!-- review:begin br-lic-20261106-flunitrazepam-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “O fármaco consta como comercializado no Brasil, com 6 registros no total: 3 válidos e 3 cancelados. Os dados locais não trazem o detalhamento de nomes comerciais, formas farmacêuticas ou textos de indicação aprovada.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 7 registros para este medicamento, 3 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “O fármaco consta como comercializado no Brasil, com 6 registros no total: 3 válidos e 3 cancelados. Os dados locais não trazem o detalhamento de nomes comerciais, formas farmacêuticas ou textos de indicação aprovada.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-flunitrazepam-1 -->
 
@@ -108,7 +108,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “O fármaco consta como comercializado no Brasil, com 6 registros no total: 3 válidos e 3 cancelados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “O fármaco consta como comercializado no Brasil, com 6 registros no total: 3 válidos e 3 cancelados” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte (revisado em 2026-11-20; versão anterior guardada no registro) | [ChEMBL CHEMBL13280 (flunitrazepam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL13280) |
 
 <!-- review:end log -->

@@ -105,7 +105,7 @@ Nota complementar: o grafo de conhecimento utilizado pelo TxGNN (PrimeKG) regist
 
 <!-- review:begin br-lic-20261106-benzoic_acid-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “A previsão para bronquite tem pontuação alta no TxGNN, mas é sustentada apenas pelo modelo (nível L5), sem ensaios clínicos e sem literatura que avalie o ácido benzoico. Além disso, o único registro na ANVISA está cancelado e faltam dados de segurança de bula.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão para bronquite tem pontuação alta no TxGNN, mas é sustentada apenas pelo modelo (nível L5), sem ensaios clínicos e sem literatura que avalie o ácido benzoico. Além disso, o único registro na ANVISA está cancelado e faltam dados de segurança de bula.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-benzoic_acid-1 -->
 
@@ -124,7 +124,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “Além disso, o único registro na ANVISA está cancelado e faltam dados de segurança de bula” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Além disso, o único registro na ANVISA está cancelado e faltam dados de segurança de bula” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Tabela: registro 101430027 (PENETRO) está ativo, não cancelado | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->

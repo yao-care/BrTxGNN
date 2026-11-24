@@ -69,7 +69,7 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-Os dados compilados indicam situação de comercialização "Comercializado", com 20 registros listados (a lista pode ser parcial). Os registros abaixo são produtos de ingrediente único.
+Os dados compilados indicam situação de comercialização "Comercializado".
 
 <!-- licenses:begin -->
 
@@ -110,6 +110,12 @@ A tabela mostra até 30 registros (os ativos primeiro), de 359 registros nos dad
 
 <!-- licenses:end -->
 
+<!-- review:begin br-lic-20261124b-amoxicillin-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “, com 20 registros listados (a lista pode ser parcial). Os registros abaixo são produtos de ingrediente único.” Removido: a afirmação de que a lista de registros seria parcial ou limitada a 20 não corresponde mais aos dados; a tabela desta seção é gerada por programa a partir dos dados abertos de medicamentos da ANVISA, e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-amoxicillin-1 -->
+
 ## Considerações de Segurança
 
 - **Interações Medicamentosas** (100 interações registradas; principais exemplos):
@@ -135,11 +141,12 @@ Para advertências e contraindicações da bula, consulte a bula do produto, poi
 
 ## Registro de verificação
 
-Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: amoxicillin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98e9274c-c02e-44d9-8cc5-17536ef03a77) |
+| 2026-11-24 | “, com 20 registros listados (a lista pode ser parcial). Os registros abaixo são produtos de ingrediente único.” → “.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

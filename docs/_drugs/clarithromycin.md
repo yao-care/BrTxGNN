@@ -73,7 +73,13 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Os registros abaixo correspondem aos cinco primeiros da lista, que pode estar incompleta (pelo menos 20 registros válidos de produtos com um único princípio ativo).
+Os registros estão na tabela abaixo (os ativos primeiro); os números atualizados estão no resumo rápido.
+
+<!-- review:begin br-lic-20261124b-clarithromycin-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Os registros abaixo correspondem aos cinco primeiros da lista, que pode estar incompleta (pelo menos 20 registros válidos de produtos com um único princípio ativo).” Removido: a afirmação de que a lista de registros seria parcial ou limitada a 20 não corresponde mais aos dados; a tabela desta seção é gerada por programa a partir dos dados abertos de medicamentos da ANVISA, e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-clarithromycin-1 -->
 
 <!-- licenses:begin -->
 
@@ -140,11 +146,12 @@ Para advertências e contraindicações oficiais, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: clarithromycin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ba216276-b0bd-420a-9e0d-090bdfcc2460) |
+| 2026-11-24 | “Os registros abaixo correspondem aos cinco primeiros da lista, que pode estar incompleta (pelo menos 20…” → “Os registros estão na tabela abaixo (os ativos primeiro); os números atualizados estão no resumo rápido.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

@@ -78,7 +78,7 @@ Esse mecanismo é plausível para cefaleias: as prostaglandinas participam da se
 
 ## Informações de Comercialização no Brasil
 
-Foram listados 5 dos pelo menos 20 registros localizados (a lista pode estar incompleta). Nenhum traz texto de indicação aprovada nem forma farmacêutica nos dados compilados.
+Nenhum traz texto de indicação aprovada nem forma farmacêutica nos dados compilados.
 
 <!-- licenses:begin -->
 
@@ -119,6 +119,12 @@ A tabela mostra até 30 registros (os ativos primeiro), de 37 registros nos dado
 
 <!-- licenses:end -->
 
+<!-- review:begin br-lic-20261124b-tenoxicam-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Foram listados 5 dos pelo menos 20 registros localizados (a lista pode estar incompleta).” Removido: a afirmação de que a lista de registros seria parcial ou limitada a 20 não corresponde mais aos dados; a tabela desta seção é gerada por programa a partir dos dados abertos de medicamentos da ANVISA, e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-tenoxicam-1 -->
+
 ## Considerações de Segurança
 
 - **Alopecia:** há um relato de caso de 1997 (PMID 9303679) descrevendo alopecia como possível efeito adverso do tenoxicam. É um sinal de farmacovigilância, sem relevância direta para cefaleia.
@@ -140,6 +146,19 @@ Para advertências e contraindicações, consulte a bula.
 - Obter dados do mecanismo de ação via DrugBank.
 - Verificar se a via de administração (o ensaio usa a via intravenosa) é compatível com as formas farmacêuticas registradas no Brasil.
 - Buscar evidências específicas do tenoxicam em cefaleias do tipo trigeminal autonômicas, caso haja interesse nessa extensão (previsão em 7ª posição, apenas com extrapolação de outro AINE).
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-24 | Removido: “Foram listados 5 dos pelo menos 20 registros localizados (a lista pode estar incompleta).” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

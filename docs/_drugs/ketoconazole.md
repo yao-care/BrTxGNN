@@ -84,13 +84,19 @@ A pontuação elevada do TxGNN é apenas uma previsão computacional. Parte da l
 
 ## Informações de Comercialização no Brasil
 
-O medicamento está comercializado. Os cinco primeiros são listados abaixo (a forma farmacêutica não consta nos dados compilados).
+O medicamento está comercializado. A forma farmacêutica não consta nos dados compilados.
 
 <!-- review:begin br-lic-20261106-ketoconazole-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Há 20 registros válidos e o medicamento está comercializado.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 259 registros para este medicamento, 69 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “Há 20 registros válidos e o medicamento está comercializado.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-ketoconazole-1 -->
+
+<!-- review:begin br-lic-20261124b-ketoconazole-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Os cinco primeiros são listados abaixo (a forma farmacêutica não consta nos dados compilados).” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-ketoconazole-1 -->
 
 <!-- licenses:begin -->
 
@@ -146,7 +152,7 @@ A tabela mostra até 30 registros (os ativos primeiro), de 259 registros nos dad
 
 <!-- review:begin br-lic-20261106-ketoconazole-2 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Não há registro válido no Brasil, e o perfil de segurança sistêmico é desfavorável.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 259 registros para este medicamento, 69 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “Não há registro válido no Brasil, e o perfil de segurança sistêmico é desfavorável.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-ketoconazole-2 -->
 
@@ -158,7 +164,7 @@ A tabela mostra até 30 registros (os ativos primeiro), de 259 registros nos dad
 
 <!-- review:begin br-lic-20261106-ketoconazole-3 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Dados detalhados de mecanismo de ação a partir do DrugBank / Avaliação da viabilidade regulatória de um novo registro tópico, considerando que há 20 registros válidos atualmente” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 259 registros para este medicamento, 69 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “Dados detalhados de mecanismo de ação a partir do DrugBank / Avaliação da viabilidade regulatória de um novo registro tópico, considerando que há 20 registros válidos atualmente” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-ketoconazole-3 -->
 
@@ -170,10 +176,11 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “Há 20 registros válidos e o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-06 | Removido: “Não há registro válido no Brasil, e o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-06 | Removido: “Avaliação da viabilidade regulatória de um novo registro tópico, considerando que há 20 registros válidos atualmente” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Há 20 registros válidos e o” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Não há registro válido no Brasil, e o” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Avaliação da viabilidade regulatória de um novo registro tópico, considerando que há 20 registros válidos atualmente” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: ketoconazole prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4baebcab-a237-42c0-9183-6f447a44e371) |
+| 2026-11-24 | “Os cinco primeiros são listados abaixo (a forma farmacêutica não consta nos dados compilados).” → “A forma farmacêutica não consta nos dados compilados.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

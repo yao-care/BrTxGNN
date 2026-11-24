@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 608
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Tegaserod: nova indicação prevista, Enxaqueca (Migraine Disorder) (nível de evidência L5). Indicação original: Outros produtos para o aparelho digestivo e metabolismo"
 monitor_inn: "tegaserod"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
@@ -95,11 +95,11 @@ As advertências e contraindicações da bula da ANVISA não estavam disponívei
 **Decisão: Hold**
 
 **Justificativa:**
-A pontuação vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica; não há ensaios clínicos e há uma única revisão geral. O registro do medicamento no Brasil está cancelado (1 de 1), e o perfil de segurança sugerido (eventos cardiovasculares e cerebrovasculares) é particularmente preocupante em uma população com enxaqueca.
+A pontuação vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica; não há ensaios clínicos e há uma única revisão geral. Os registros do medicamento no Brasil constam como cancelados nos dados da ANVISA, e o perfil de segurança sugerido (eventos cardiovasculares e cerebrovasculares) é particularmente preocupante em uma população com enxaqueca.
 
 <!-- review:begin br-lic-20261031-tegaserod-1 -->
 
-> **Correção de verificação (2026-10-31)**: Texto original: “O medicamento está comercializado no Brasil, com 1 registro válido de 1, e o perfil de segurança sugerido (eventos cardiovasculares e cerebrovasculares) é particularmente preocupante em uma população com enxaqueca.” Corrigido: a afirmação não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-10-31) e foi substituída pelo texto atual. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “O medicamento está comercializado no Brasil, com 1 registro válido de 1, e o perfil de segurança sugerido (eventos cardiovasculares e cerebrovasculares) é particularmente preocupante em uma população com enxaqueca.” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261031-tegaserod-1 -->
 
@@ -117,7 +117,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-10-31 | O medicamento está comercializado no Brasil, com 1 registro válido de 1, e o perfil de segurança sugerido (eventos cardiovasculares e cerebr | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “O medicamento está comercializado no Brasil, com 1 registro válido de 1, e o perfil de segurança sugerido…” → “Os registros do medicamento no Brasil constam como cancelados nos dados da ANVISA, e o perfil de segurança…” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

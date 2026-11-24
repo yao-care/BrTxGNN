@@ -90,7 +90,13 @@ Esse elo, porém, é frágil. Inibir a DHODH não deveria corrigir uma malforma�
 
 <!-- licenses:end -->
 
-Estes são 5 dos 7 registros válidos; há ainda 12 registros cancelados.
+Os números atualizados de registros válidos e cancelados estão no resumo rápido.
+
+<!-- review:begin br-lic-20261124b-leflunomida-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Estes são 5 dos 7 registros válidos; há ainda 12 registros cancelados.” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-leflunomida-1 -->
 
 ## Conclusão e Próximos Passos
 
@@ -113,6 +119,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Leflunomida (LEFLUNOMIDA) é um fármaco com 19 registros ativos no Brasil, confirmado como comercializado” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “Estes são 5 dos 7 registros válidos; há ainda 12 registros cancelados.” → “Os números atualizados de registros válidos e cancelados estão no resumo rápido.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

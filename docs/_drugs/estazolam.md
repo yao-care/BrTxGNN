@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Estazolam"
 predicted_indications: ["visual epilepsy", "alcohol withdrawal delirium", "restless legs syndrome", "myofascial pain syndrome", "audiogenic seizures", "startle epilepsy", "thinking seizures", "micturation-induced seizures", "eating seizures"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Estazolam: nova indicação prevista, Epilepsia visual (nível de evidência L5). Indicação original: Não informada nos registros compilados"
 ---
 
@@ -96,7 +96,11 @@ Os registros abaixo não trazem texto de indicação aprovada nem forma farmacê
 
 <!-- licenses:end -->
 
-Há ainda 2 registros cancelados (Diazepamil e Diazepam Composto Injetável), totalizando 7.
+<!-- review:begin br-lic-20261124b-estazolam-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Há ainda 2 registros cancelados (Diazepamil e Diazepam Composto Injetável), totalizando 7.” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-estazolam-1 -->
 
 ## Considerações de Segurança
 
@@ -125,11 +129,12 @@ A previsão se apoia apenas no mecanismo de classe dos benzodiazepínicos e em e
 
 ## Registro de verificação
 
-Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte (revisado em 2026-11-20; versão anterior guardada no registro) | [ChEMBL CHEMBL285674 (estazolam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL285674) |
+| 2026-11-24 | Removido: “Há ainda 2 registros cancelados (Diazepamil e Diazepam Composto Injetável), totalizando 7.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

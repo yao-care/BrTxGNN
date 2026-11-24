@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 138
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 predicted_indications: []
 ---
 
@@ -40,11 +40,11 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 Binimetinibe é um inibidor de MEK1/MEK2 (terapia-alvo) utilizado no tratamento do melanoma com mutação BRAF V600E/K, em combinação com encorafenibe.
 O Evidence Pack atual **não contém previsões de novas indicações** geradas pelo modelo TxGNN, impossibilitando a análise completa de reposicionamento neste ciclo.
-O fármaco está comercializado no Brasil com 2 registros.
+O fármaco está comercializado no Brasil, com registros na ANVISA (números atualizados no resumo rápido).
 
 <!-- review:begin br-lic-20261106-binimetinibe-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “O fármaco está comercializado no Brasil com 2 registros, mas os detalhes dos registros e dados de segurança não foram populados nesta versão do pack.” Removido: a afirmação contradizia os dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 2 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “O fármaco está comercializado no Brasil com 2 registros, mas os detalhes dos registros e dados de segurança não foram populados nesta versão do pack.” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-binimetinibe-1 -->
 
@@ -99,7 +99,7 @@ O Evidence Pack não contém previsões de novas indicações (`predicted_indica
 
 <!-- review:begin br-lic-20261106-binimetinibe-3 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Baixar e analisar a bula da ANVISA/TFDA para preencher advertências principais e contraindicações (DG001 – severidade Blocking)” Removido: a afirmação contradizia os dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 2 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “Baixar e analisar a bula da ANVISA/TFDA para preencher advertências principais e contraindicações (DG001 – severidade Blocking)” Removido: a afirmação contradizia os dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-binimetinibe-3 -->
 
@@ -111,9 +111,9 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “mas os detalhes dos registros e dados de segurança não foram populados nesta versão do pack” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “O fármaco está comercializado no Brasil com 2 registros, mas os detalhes dos registros e dados de segurança…” → “O fármaco está comercializado no Brasil, com registros na ANVISA (números atualizados no resumo rápido).” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Preencher os detalhes dos 2 registros da ANVISA (número de registro, nome comercial, forma farmacêutica, indicação aprovada) — a consulta TF” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-06 | Removido: “A/TFD” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “A/TFD” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

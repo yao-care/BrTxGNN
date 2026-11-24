@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Hesperidin"
 predicted_indications: ["myeloproliferative neoplasm", "monocytic leukemia", "spermatocytic seminoma", "tubular variant testicular seminoma", "gestational trophoblastic neoplasm"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Hesperidin: nova indicação prevista, neoplasia mieloproliferativa (myeloproliferative neoplasm) (nível de evidência L5). No Brasil, registros na ANVISA: 51 (ativos: 35)"
 ---
 
@@ -73,13 +73,19 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Os dados locais indicam que há registros válidos para hesperidina no Brasil (35 válidos e 16 cancelados), e a lista pode estar incompleta. Não há detalhes de registros individuais disponíveis nos dados compilados para este relatório.
+Os dados locais indicam que há registros válidos para hesperidina no Brasil (números atualizados no resumo rápido). Não há detalhes de registros individuais disponíveis nos dados compilados para este relatório.
 
 <!-- review:begin br-lic-20261112-hesperidin-1 -->
 
-> **Correção de verificação (2026-11-12)**: Texto original: “(15 válidos e 5 cancelados)” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 51 registros para este medicamento, 35 válidos e 16 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “(15 válidos e 5 cancelados)” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261112-hesperidin-1 -->
+
+<!-- review:begin br-lic-20261124b-hesperidin-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “, e a lista pode estar incompleta” Removido: a afirmação de que a lista de registros seria parcial ou limitada a 20 não corresponde mais aos dados; a tabela desta seção é gerada por programa a partir dos dados abertos de medicamentos da ANVISA, e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-hesperidin-1 -->
 
 ## Considerações de Segurança
 
@@ -106,7 +112,8 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-12 | Registros: 15 válidos e 5 cancelados → 35 válidos e 16 cancelados | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “(15 válidos e 5 cancelados)” → “(números atualizados no resumo rápido)” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | Removido: “, e a lista pode estar incompleta” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

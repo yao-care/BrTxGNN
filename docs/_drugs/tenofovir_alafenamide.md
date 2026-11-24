@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 611
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tenofovir Alafenamide: nova indicação prevista, Infecção pelo vírus da imunodeficiência símia (simian immunodeficienc… (nível de evidência L4). Indicação original: Associações de antivirais para o tr…"
 monitor_inn: "tenofovir alafenamide"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
@@ -83,7 +83,13 @@ Todos os estudos abaixo são pré-clínicos (macacos ou camundongos humanizados)
 
 ## Informações de Comercialização no Brasil
 
-Os 4 registros abaixo constam como **válidos**; atualmente há 4 registros válidos de 4.
+Há registros **válidos** e cancelados (números atualizados no resumo rápido).
+
+<!-- review:begin br-lic-20261124b-tenofovir_alafenamide-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Os 4 registros abaixo constam como **válidos**; atualmente há 4 registros válidos de 4.” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-tenofovir_alafenamide-1 -->
 
 <!-- licenses:begin -->
 
@@ -96,6 +102,12 @@ Os 4 registros abaixo constam como **válidos**; atualmente há 4 registros vál
 | 109290009 | GENVOYA | GILEAD SCIENCES FARMACEUTICA DO BRASIL LTDA | Cancelado |
 
 <!-- licenses:end -->
+
+<!-- review:begin br-lic-20261124b-tenofovir_alafenamide-2 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “; os 4 registros constam como válidos (4 de 4)” Corrigido: a premissa sobre o número ou a situação dos registros não correspondia aos dados abertos de medicamentos da ANVISA; o restante do texto não foi alterado, e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-tenofovir_alafenamide-2 -->
 
 ## Considerações de Segurança
 
@@ -112,7 +124,7 @@ Para demais informações de segurança (advertências e contraindicações), co
 
 <!-- review:begin br-lic-20261106-tenofovir_alafenamide-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “As evidências são exclusivamente pré-clínicas (L4), com modelos de SIV/SHIV em macacos que representam pesquisa translacional sobre o HIV, e não uma nova indicação em humanos. Além disso, não há registro válido do produto no Brasil no momento.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 5 registros para este medicamento, 4 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “As evidências são exclusivamente pré-clínicas (L4), com modelos de SIV/SHIV em macacos que representam pesquisa translacional sobre o HIV, e não uma nova indicação em humanos. Além disso, não há registro válido do produto no Brasil no momento.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-tenofovir_alafenamide-1 -->
 
@@ -121,7 +133,7 @@ Para demais informações de segurança (advertências e contraindicações), co
 - Obter e analisar as advertências e contraindicações da bula na ANVISA.
 - Obter dados detalhados do mecanismo de ação (por exemplo, via DrugBank).
 - Verificar nos textos completos os desenhos e desfechos dos estudos em macacos.
-- Confirmar a situação regulatória atual no Brasil; os 4 registros constam como válidos (4 de 4).
+- Confirmar a situação regulatória atual no Brasil.
 
 *Observação: as demais previsões do modelo (síndrome de imunodeficiência adquirida felina e um transtorno do neurodesenvolvimento com marcha atáxica, ausência de fala e redução da substância branca cortical) não têm ensaios nem literatura nos dados compilados e são nível L5. A primeira é uma indicação veterinária fora do escopo humano, e a segunda não tem vínculo mecanístico identificado. As pontuações vêm do modelo TxGNN (deep learning) e podem refletir semelhanças aprendidas pelo modelo entre doenças relacionadas, não evidência biológica. Ambas permanecem em **Hold**.*
 
@@ -133,8 +145,10 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “Além disso, não há registro válido do produto no Brasil no momento” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Além disso, não há registro válido do produto no Brasil no momento” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Vemlidy (tenofovir alafenamide) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=72e6b33c-0351-4070-9172-eeaa186c01d2) |
+| 2026-11-24 | “Os 4 registros abaixo constam como **válidos**; atualmente há 4 registros válidos de 4.” → “Há registros **válidos** e cancelados (números atualizados no resumo rápido).” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | Removido: “; os 4 registros constam como válidos (4 de 4)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

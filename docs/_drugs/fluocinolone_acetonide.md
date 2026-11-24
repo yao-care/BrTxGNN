@@ -82,7 +82,11 @@ Os dados compilados indicam 9 registros válidos, e a situação de mercado é "
 
 <!-- licenses:end -->
 
-Há mais 4 registros além dos cinco listados acima.
+<!-- review:begin br-lic-20261124b-fluocinolone_acetonide-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Há mais 4 registros além dos cinco listados acima.” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-fluocinolone_acetonide-1 -->
 
 ## Considerações de Segurança
 
@@ -103,6 +107,18 @@ Os dados de advertências e contraindicações da bula não estavam disponíveis
 - Avaliação da compatibilidade entre as vias de administração dos produtos registrados e o tratamento da doença.
 - Obtenção das advertências e contraindicações da bula na ANVISA para a triagem de segurança.
 - Dados detalhados do mecanismo de ação.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-24 | Removido: “Há mais 4 registros além dos cinco listados acima.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

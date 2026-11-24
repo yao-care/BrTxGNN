@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 314
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fentanyl: nova indicação prevista, Síndrome Nefrogênica de Antidiurese Inapropriada (Nephrogenic Syndrom… (nível de evidência L5). Indicação original: Analgésicos narcóticos"
 monitor_inn: "FENTANYL"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]
@@ -74,11 +74,11 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-Dos 29 registros, 10 encontram-se **válidos**. Os cinco principais:
+Há registros **válidos** e cancelados (números atualizados no resumo rápido).
 
 <!-- review:begin br-lic-20261112-fentanyl-1 -->
 
-> **Correção de verificação (2026-11-12)**: Texto original: “Todos os 11 registros encontram-se **válidos**.” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 29 registros para este medicamento, 10 válidos e 19 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “Todos os 11 registros encontram-se **válidos**.” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261112-fentanyl-1 -->
 
@@ -118,6 +118,12 @@ Dos 29 registros, 10 encontram-se **válidos**. Os cinco principais:
 
 <!-- licenses:end -->
 
+<!-- review:begin br-lic-20261124b-fentanyl-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Os cinco principais:” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-fentanyl-1 -->
+
 ## Considerações de Segurança
 
 - **Contraindicações segundo o grafo de conhecimento (não é texto de bula)**: o grafo de conhecimento do TxGNN associa o fármaco às seguintes condições: hipertensão, hipotensão ortostática, síndrome do QT longo e *torsades de pointes*, insuficiência e doença hepática, doença renal, doença pulmonar obstrutiva crônica, asma, pancreatite, doença da vesícula biliar, doença inflamatória intestinal, hiperplasia prostática benigna, deficiência de potássio, ansiedade e transtornos neuróticos, atrofia de múltiplos sistemas, síndrome de taquicardia postural ortostática, doenças dos núcleos da base, distonia focal da mão, blefaroespasmo e abuso/dependência de substâncias.
@@ -134,7 +140,7 @@ Consulte a bula para as advertências e contraindicações oficiais.
 
 <!-- review:begin br-lic-20261106-fentanyl-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Somam-se a isso o alto perfil de risco, a carga de interações medicamentosas e a ausência de registros vigentes no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 29 registros para este medicamento, 10 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “Somam-se a isso o alto perfil de risco, a carga de interações medicamentosas e a ausência de registros vigentes no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-fentanyl-1 -->
 
@@ -152,9 +158,10 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “e a ausência de registros vigentes no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Registros válidos: “todos os 11” → 10 de 29 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “e a ausência de registros vigentes no Brasil” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “Todos os 11 registros encontram-se **válidos**.” → “Há registros **válidos** e cancelados (números atualizados no resumo rápido).” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: fentanyl citrate prescribing information, Phlow Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=58dcd3f7-e3d8-4929-a186-8f680a51ff11) |
+| 2026-11-24 | Removido: “Os cinco principais:” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

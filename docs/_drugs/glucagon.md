@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 345
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "GLUCAGON"
 predicted_indications: ["irritable bowel syndrome"]
 description: "Glucagon: nova indicação prevista, Síndrome do intestino irritável (irritable bowel syndrome) (nível de evidência L5). No Brasil, registros na ANVISA: 2 (ativos: 1)"
@@ -86,11 +86,11 @@ Nenhuma publicação testou o glucagon na síndrome do intestino irritável. A l
 
 ## Informações de Comercialização no Brasil
 
-Segundo os dados compilados para este relatório, o glucagon consta como comercializado no Brasil, com 2 registros, dos quais 1 está válido e 1 cancelado.
+Segundo os dados compilados para este relatório, o glucagon consta como comercializado no Brasil, com registros válidos e cancelados (números atualizados no resumo rápido).
 
 <!-- review:begin br-lic-20261106-glucagon-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Segundo os dados compilados para este relatório, o glucagon consta como comercializado no Brasil, com 2 registros, dos quais 1 está válido e 1 cancelado. Os detalhes dos registros (número, nome comercial, forma farmacêutica) não estão disponíveis nos dados.” Removido: a descrição dos produtos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 2 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “Segundo os dados compilados para este relatório, o glucagon consta como comercializado no Brasil, com 2 registros, dos quais 1 está válido e 1 cancelado. Os detalhes dos registros (número, nome comercial, forma farmacêutica) não estão disponíveis nos dados.” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-glucagon-1 -->
 
@@ -121,7 +121,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “Os detalhes dos registros (número, nome comercial, forma farmacêutica) não estão disponíveis nos dados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “Segundo os dados compilados para este relatório, o glucagon consta como comercializado no Brasil, com 2…” → “Segundo os dados compilados para este relatório, o glucagon consta como comercializado no Brasil, com…” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: glucagon prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e4be1c0e-0fe6-45a0-9229-5cde98434b84) |
 
 <!-- review:end log -->

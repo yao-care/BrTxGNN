@@ -109,7 +109,13 @@ Os dados compilados incluem 20 publicações. A tabela mostra as 10 mais relevan
 
 ## Informações de Comercialização no Brasil
 
-Há registros ativos de medicamentos de ingrediente único contendo cloridrato de bendamustina, e o produto está comercializado no Brasil. A lista abaixo mostra 5 dos 6 registros. O sexto, RIBOMUSTIN (nº 112363413), está cancelado.
+Há registros ativos de medicamentos de ingrediente único contendo cloridrato de bendamustina, e o produto está comercializado no Brasil. O registro RIBOMUSTIN (nº 112363413) está cancelado.
+
+<!-- review:begin br-lic-20261124b-bendamustina_hydrochloride-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “A lista abaixo mostra 5 dos 6 registros. O sexto, RIBOMUSTIN (nº 112363413), está cancelado.” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-bendamustina_hydrochloride-1 -->
 
 <!-- licenses:begin -->
 
@@ -157,6 +163,19 @@ Consulte a bula para informações de segurança. Na prática, a literatura reco
 - Obter as advertências, contraindicações e interações medicamentosas da bula, que não constam nos dados compilados.
 - Complementar os dados detalhados de mecanismo de ação.
 - Definir um plano de monitoramento hematológico e de infecções, com ajuste de dose para idade e função renal.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-24 | “A lista abaixo mostra 5 dos 6 registros. O sexto, RIBOMUSTIN (nº 112363413), está cancelado.” → “O registro RIBOMUSTIN (nº 112363413) está cancelado.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

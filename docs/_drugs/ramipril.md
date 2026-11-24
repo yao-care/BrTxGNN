@@ -81,7 +81,7 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-A lista abaixo mostra apenas os registros válidos. Há pelo menos 20 registros no total e a lista compilada pode ser parcial. Os registros não trazem texto de indicação aprovada nem forma farmacêutica. Alguns nomes comerciais podem corresponder a associações, o que deve ser confirmado na bula.
+Os registros não trazem texto de indicação aprovada nem forma farmacêutica. Alguns nomes comerciais podem corresponder a associações, o que deve ser confirmado na bula.
 
 <!-- licenses:begin -->
 
@@ -122,6 +122,12 @@ A tabela mostra até 30 registros (os ativos primeiro), de 32 registros nos dado
 
 <!-- licenses:end -->
 
+<!-- review:begin br-lic-20261124b-ramipril-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “A lista abaixo mostra apenas os registros válidos. Há pelo menos 20 registros no total e a lista compilada pode ser parcial.” Removido: a afirmação de que a lista de registros seria parcial ou limitada a 20 não corresponde mais aos dados; a tabela desta seção é gerada por programa a partir dos dados abertos de medicamentos da ANVISA, e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-ramipril-1 -->
+
 ---
 
 ## Considerações de Segurança
@@ -152,11 +158,12 @@ Para advertências e contraindicações oficiais, consulte a bula.
 
 ## Registro de verificação
 
-Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: ramipril prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=245d3580-77c6-4c0f-b324-c8514b792c59) |
+| 2026-11-24 | Removido: “A lista abaixo mostra apenas os registros válidos. Há pelo menos 20 registros no total e a lista compilada pode ser parcial.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

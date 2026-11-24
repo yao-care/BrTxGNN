@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 651
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Trastuzumab"
 predicted_indications: ["malignant cutaneous granular cell skin tumor", "ectomesenchymoma", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "kidney pelvis sarcomatoid transitional cell carcinoma", "prostatic urethra urothelial carcinoma"]
 description: "Trastuzumab: nova indicação prevista, Malignant cutaneous granular cell skin tumor (nível de evidência L5). No Brasil, registros na ANVISA: 15 (ativos: 14)"
@@ -110,7 +110,7 @@ Uma fração substancial dos cânceres de mama HER2-positivos também expressa r
 
 <!-- review:begin br-lic-20261106-trastuzumab-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Obter as advertências e contraindicações da bula na ANVISA (dados ausentes), incluindo monitoramento cardíaco, dado o risco de cardiotoxicidade descrito na literatura. / Esclarecer a situação regulatória no Brasil: os dados compilados indicam 0 registros, o que deve ser verificado.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 15 registros para este medicamento, 14 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “Obter as advertências e contraindicações da bula na ANVISA (dados ausentes), incluindo monitoramento cardíaco, dado o risco de cardiotoxicidade descrito na literatura. / Esclarecer a situação regulatória no Brasil: os dados compilados indicam 0 registros, o que deve ser verificado.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-trastuzumab-1 -->
 
@@ -122,7 +122,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “Esclarecer a situação regulatória no Brasil: os dados compilados indicam 0 registros, o que deve ser verificado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Esclarecer a situação regulatória no Brasil: os dados compilados indicam 0 registros, o que deve ser verificado” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Ogivri (trastuzumab-dkst) prescribing information, Biocon Biologics Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b6465b44-a6dd-f99c-d009-6851cf05169c) |
 
 <!-- review:end log -->

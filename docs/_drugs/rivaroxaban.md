@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 571
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Rivaroxaban: nova indicação prevista, Artrite Reumatoide (Rheumatoid Arthritis) (nível de evidência L5). Indicação original: Não disponível nos dados compilados"
 monitor_inn: "Rivaroxaban"
 predicted_indications: ["rheumatoid arthritis", "gout", "HIV infectious disease", "brachydactyly-syndactyly syndrome"]
@@ -86,7 +86,7 @@ A previsão é apenas do modelo (L5): não há ensaios clínicos e a literatura 
 
 <!-- review:begin br-lic-20261106-rivaroxaban-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “A previsão é apenas do modelo (L5): não há ensaios clínicos e a literatura recuperada não testa a rivaroxabana na artrite reumatoide. Além disso, o fármaco não tem registro vigente no Brasil nos dados compilados, e a segurança em artrite reumatoide (risco de sangramento, interações) não foi avaliada.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 59 registros para este medicamento, 49 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão é apenas do modelo (L5): não há ensaios clínicos e a literatura recuperada não testa a rivaroxabana na artrite reumatoide. Além disso, o fármaco não tem registro vigente no Brasil nos dados compilados, e a segurança em artrite reumatoide (risco de sangramento, interações) não foi avaliada.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-rivaroxaban-1 -->
 
@@ -105,7 +105,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “Além disso, o fármaco não tem registro vigente no Brasil nos dados compilados, e a segurança em artrite reumatoide (risco de sangramento, in” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Além disso, o fármaco não tem registro vigente no Brasil nos dados compilados, e a segurança em artrite reumatoide (risco de sangramento, in” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Xarelto (rivaroxaban) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10db92f9-2300-4a80-836b-673e1ae91610) |
 
 <!-- review:end log -->

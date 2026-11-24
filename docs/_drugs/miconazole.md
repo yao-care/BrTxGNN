@@ -67,7 +67,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 <!-- review:begin br-lic-20261106-miconazole-2 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Todos os 16 registros encontrados estão válidos; abaixo, os 5 principais.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 131 registros para este medicamento, 15 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “Todos os 16 registros encontrados estão válidos; abaixo, os 5 principais.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-miconazole-2 -->
 
@@ -143,7 +143,7 @@ Consulte a bula para advertências e contraindicações formais, pois os dados d
 
 <!-- review:begin br-lic-20261106-miconazole-3 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “A previsão para acne tem pontuação alta (0,9954), mas as evidências são de nível L4: nenhum ensaio registrado, apenas um estudo pequeno, uma revisão e dados in vitro. Além disso, o miconazol está comercializado no Brasil, com 16 registros válidos de 16, e não há dados de bula para avaliação de segurança.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 131 registros para este medicamento, 15 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão para acne tem pontuação alta (0,9954), mas as evidências são de nível L4: nenhum ensaio registrado, apenas um estudo pequeno, uma revisão e dados in vitro. Além disso, o miconazol está comercializado no Brasil, com 16 registros válidos de 16, e não há dados de bula para avaliação de segurança.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-miconazole-3 -->
 
@@ -156,7 +156,7 @@ Consulte a bula para advertências e contraindicações formais, pois os dados d
 
 <!-- review:begin br-lic-20261031-miconazole-1 -->
 
-> **Correção de verificação (2026-10-31)**: Texto original: “Verificar a disponibilidade de produtos e a via de administração (tópica) compatível com a nova indicação, dado o status de registros apenas cancelados.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-10-31). Nos dados (dados abertos de medicamentos da ANVISA) constam 131 registros para este medicamento, 15 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-10-31)**: Texto original: “Verificar a disponibilidade de produtos e a via de administração (tópica) compatível com a nova indicação, dado o status de registros apenas cancelados.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-10-31). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261031-miconazole-1 -->
 
@@ -170,9 +170,9 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-10-31 | Removido: “dado o status de registros apenas cancelados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-06 | Removido: “Todos os 16 registros encontrados estão válidos; abaixo, os 5 principais” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-06 | Removido: “Além disso, o miconazol está comercializado no Brasil, com 16 registros válidos de 16, e não há dados de bula para avaliação de segurança” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-10-31 | Removido: “dado o status de registros apenas cancelados” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Todos os 16 registros encontrados estão válidos; abaixo, os 5 principais” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Além disso, o miconazol está comercializado no Brasil, com 16 registros válidos de 16, e não há dados de bula para avaliação de segurança” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Oravig (miconazole) prescribing information, Galt Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dc2427ff-e566-4b48-b289-9e51c011250a) |
 
 <!-- review:end log -->

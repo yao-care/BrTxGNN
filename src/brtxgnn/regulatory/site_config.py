@@ -127,7 +127,7 @@ C = _json.loads(r"""{
   "intro": "Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.",
   "intro_header": "Abaixo está o registro de verificação desta página; o nível de evidência do cabeçalho acompanha o resumo rápido. As previsões do modelo, a tabela resumo e as conclusões não foram reescritas.",
   "intro_rr": "Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos e o texto da previsão não foi reescrito; níveis de evidência e decisões só mudaram por um resultado de revisão (rebaixamento, elevação ou retirada), com os valores originais abaixo.",
-  "figures": "Nos dados (dados abertos de medicamentos da ANVISA) constam {total} registros para este medicamento, {valid} válidos; os números atualizados estão no resumo rápido e nas informações de comercialização.",
+  "figures": "Os números atualizados de registros estão no resumo rápido e nas informações de comercialização.",
   "data_as_of": "dados abertos de medicamentos da ANVISA, em {date}",
   "notes": {
    "rewrite": "Corrigido: a afirmação não correspondia aos dados de registro ({d}) e foi substituída pelo texto atual.",

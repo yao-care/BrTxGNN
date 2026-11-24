@@ -70,11 +70,11 @@ Há, porém, ressalvas importantes: o único trabalho encontrado é um estudo ep
 
 ## Informações de Comercialização no Brasil
 
-Dos 112 registros, 23 constam como válidos. Abaixo, os 5 principais:
+Há registros válidos e cancelados (números atualizados no resumo rápido).
 
 <!-- review:begin br-lic-20261112-sulfamethoxazole-1 -->
 
-> **Correção de verificação (2026-11-12)**: Texto original: “Todos os 20 registros constam como válidos.” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 112 registros para este medicamento, 23 válidos e 89 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “Todos os 20 registros constam como válidos.” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261112-sulfamethoxazole-1 -->
 
@@ -117,6 +117,12 @@ A tabela mostra até 30 registros (os ativos primeiro), de 112 registros nos dad
 
 <!-- licenses:end -->
 
+<!-- review:begin br-lic-20261124b-sulfamethoxazole-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Abaixo, os 5 principais:” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-sulfamethoxazole-1 -->
+
 ## Considerações de Segurança
 
 - **Contraindicações (segundo o grafo de conhecimento, não a bula)**: porfiria (hereditária e outros distúrbios do metabolismo da porfirina), doença renal, insuficiência renal, uremia, glomerulonefrite, doença hepática, doença da vesícula biliar, trombocitopenia, neutropenia, agranulocitose, deficiência de G6PD, anemia por deficiência de folato, colite por *Clostridium difficile*, enterocolite necrosante perinatal, doença de depósito de glicogênio, cistinúria e galactosemia.
@@ -132,7 +138,7 @@ A tabela mostra até 30 registros (os ativos primeiro), de 112 registros nos dad
 
 <!-- review:begin br-lic-20261106-sulfamethoxazole-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “A pontuação do TxGNN é alta, mas o suporte é apenas uma publicação indireta (levantamento de suscetibilidade), sem ensaios clínicos. Além disso, o medicamento é comercializado no Brasil, com 20 registros válidos, e não existe formulação ocular.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 112 registros para este medicamento, 23 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “A pontuação do TxGNN é alta, mas o suporte é apenas uma publicação indireta (levantamento de suscetibilidade), sem ensaios clínicos. Além disso, o medicamento é comercializado no Brasil, com 20 registros válidos, e não existe formulação ocular.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-sulfamethoxazole-1 -->
 
@@ -151,9 +157,10 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “Além disso, o medicamento é comercializado no Brasil, com 20 registros válidos, e não existe formulação ocular” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Registros válidos: “todos os 20” → 23 de 112 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Além disso, o medicamento é comercializado no Brasil, com 20 registros válidos, e não existe formulação ocular” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “Todos os 20 registros constam como válidos.” → “Há registros válidos e cancelados (números atualizados no resumo rápido).” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte (revisado em 2026-11-20; versão anterior guardada no registro) | [ChEMBL CHEMBL443 (sulfamethoxazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL443) |
+| 2026-11-24 | Removido: “Abaixo, os 5 principais:” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 313
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "felypressin"
 predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy", "esotropia", "diabetic retinopathy", "bronchial adenomas/carcinoids childhood", "ductal or ductular proliferation", "chondroid hamartoma", "non-seminomatous lesion", "tumor of testis and paratestis", "pre-malignant neoplasm"]
 description: "Felypressin: nova indicação prevista, Osteoporose induzida por fármacos (drug-induced osteoporosis) (nível de evidência L5). Indicação original: ANESTESICOS LOCAIS"
@@ -90,7 +90,7 @@ Não há ensaios clínicos nem literatura para nenhuma das indicações prevista
 
 <!-- review:begin br-lic-20261106-felypressin-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Não há ensaios clínicos nem literatura para nenhuma das indicações previstas (nível L5), o mecanismo de ação é desconhecido e não há plausibilidade biológica evidente. Além disso, os dois registros no Brasil estão cancelados, o que reduz a viabilidade regulatória.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 6 registros para este medicamento, 2 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “Não há ensaios clínicos nem literatura para nenhuma das indicações previstas (nível L5), o mecanismo de ação é desconhecido e não há plausibilidade biológica evidente. Além disso, os dois registros no Brasil estão cancelados, o que reduz a viabilidade regulatória.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-felypressin-1 -->
 
@@ -108,7 +108,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “Além disso, os dois registros no Brasil estão cancelados, o que reduz a viabilidade regulatória” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Além disso, os dois registros no Brasil estão cancelados, o que reduz a viabilidade regulatória” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

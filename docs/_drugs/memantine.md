@@ -106,17 +106,17 @@ Para hipertensão pulmonar, atualmente não há ensaios clínicos relacionados r
 
 ## Informações de Comercialização no Brasil
 
-O medicamento é comercializado. Principais registros (30 de 58):
+O medicamento é comercializado. Principais registros:
 
 <!-- review:begin br-lic-20261106-memantine-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Há 20 registros **válidos**; o medicamento é comercializado.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 58 registros para este medicamento, 41 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “Há 20 registros **válidos**; o medicamento é comercializado.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-memantine-1 -->
 
 <!-- review:begin br-lic-20261112-memantine-1 -->
 
-> **Correção de verificação (2026-11-12)**: Texto original: “Principais registros (5 de 20):” Corrigido conforme a tabela desta seção e os dados abertos de medicamentos da ANVISA (2026-11-05): a tabela mostra 30 registros e há 58 registros para este medicamento; a contagem antiga vinha de uma versão anterior dos dados (no máximo 20 registros). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “Principais registros (5 de 20):” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261112-memantine-1 -->
 
@@ -177,7 +177,7 @@ A tabela mostra até 30 registros (os ativos primeiro), de 58 registros nos dado
 
 <!-- review:begin br-lic-20261106-memantine-2 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Porém, o ensaio é pequeno (33 participantes), a eficácia segue descrita como controversa e há poucos ensaios robustos. Além disso, não há registro válido no Brasil, e os dados de segurança da bula estão ausentes.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 58 registros para este medicamento, 41 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “Porém, o ensaio é pequeno (33 participantes), a eficácia segue descrita como controversa e há poucos ensaios robustos. Além disso, não há registro válido no Brasil, e os dados de segurança da bula estão ausentes.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-memantine-2 -->
 
@@ -189,7 +189,7 @@ A tabela mostra até 30 registros (os ativos primeiro), de 58 registros nos dado
 
 <!-- review:begin br-lic-20261106-memantine-3 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Complementar os dados de mecanismo de ação (consulta ao DrugBank). / Avaliar a situação regulatória: o medicamento é comercializado e há 20 registros válidos, de modo que seria preciso verificar a via de acesso para a nova indicação.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 58 registros para este medicamento, 41 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “Complementar os dados de mecanismo de ação (consulta ao DrugBank). / Avaliar a situação regulatória: o medicamento é comercializado e há 20 registros válidos, de modo que seria preciso verificar a via de acesso para a nova indicação.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-memantine-3 -->
 
@@ -201,10 +201,10 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “Há 20 registros **válidos**; o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-06 | Removido: “Além disso, não há registro válido no Brasil, e os dados de segurança da bula estão ausentes” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-06 | Removido: “Avaliar a situação regulatória: o medicamento é comercializado e há 20 registros válidos, de modo que seria preciso verificar a via de acess” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Contagem exibida: “Principais registros (5 de 20” → “Principais registros (30 de 58” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Há 20 registros **válidos**; o” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Além disso, não há registro válido no Brasil, e os dados de segurança da bula estão ausentes” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Avaliar a situação regulatória: o medicamento é comercializado e há 20 registros válidos, de modo que seria preciso verificar a via de acess” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “Principais registros (5 de 20):” → “Principais registros:” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: memantine hydrochloride prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0e6977ef-6a0a-4bd9-b500-6ceb15abbd5e) |
 
 <!-- review:end log -->

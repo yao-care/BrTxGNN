@@ -83,7 +83,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Há 65 registros no total, dos quais 22 válidos e 43 cancelados. Abaixo, os principais registros válidos.
+Há 65 registros no total, dos quais 22 válidos e 43 cancelados.
 
 <!-- licenses:begin -->
 
@@ -124,6 +124,12 @@ A tabela mostra até 30 registros (os ativos primeiro), de 65 registros nos dado
 
 <!-- licenses:end -->
 
+<!-- review:begin br-lic-20261124b-prednisone-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Abaixo, os principais registros válidos.” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-prednisone-1 -->
+
 ## Considerações de Segurança
 
 - **Interações Medicamentosas**: foram identificadas 100 interações no total. Entre as listadas, a de maior gravidade é com **adalimumabe (Major)**. Interações de gravidade moderada incluem zidovudina, isotretinoína, acarbose, acetazolamida, cetorolaco, nifedipino, ibuprofeno, etinilestradiol, butalbital, albiglutida, aldesleucina, alefacepte, alentuzumabe e aliscireno; formoterol e salbutamol têm gravidade menor.
@@ -148,11 +154,12 @@ As advertências e contraindicações da bula não estavam disponíveis nos dado
 
 ## Registro de verificação
 
-Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Prednisone Delayed Release (prednisone) prescribing information, Dr. Reddys Laboratories Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=01bdc479-1f1f-af94-837c-12e7e861321a) |
+| 2026-11-24 | Removido: “Abaixo, os principais registros válidos.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

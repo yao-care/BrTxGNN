@@ -72,7 +72,13 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-Os dados compilados indicam situação **Comercializado**, com pelo menos 20 registros (a lista pode estar incompleta): 2 válidos e 18 cancelados. Os registros válidos correspondem ao lisinopril isolado (Laboratório Teuto Brasileiro, registro nº 103700391; Sanofi Medley, registro nº 183260198).
+Os dados compilados indicam situação **Comercializado**; os números atualizados de registros estão no resumo rápido. Entre os registros válidos estão os de lisinopril isolado do Laboratório Teuto Brasileiro (registro nº 103700391) e da Sanofi Medley (registro nº 183260198).
+
+<!-- review:begin br-lic-20261124b-lisinopril-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Os dados compilados indicam situação **Comercializado**, com pelo menos 20 registros (a lista pode estar incompleta): 2 válidos e 18 cancelados. Os registros válidos correspondem ao lisinopril isolado (Laboratório Teuto Brasileiro, registro nº 103700391; Sanofi Medley, registro nº 183260198).” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-lisinopril-1 -->
 
 <!-- licenses:begin -->
 
@@ -138,11 +144,12 @@ Para advertências e contraindicações formais, consulte a bula, pois não cons
 
 ## Registro de verificação
 
-Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Qbrelis (lisinopril) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f6e4e57-a489-4b36-b093-b93865d3717c) |
+| 2026-11-24 | “Os dados compilados indicam situação **Comercializado**, com pelo menos 20 registros (a lista pode estar…” → “Os dados compilados indicam situação **Comercializado**; os números atualizados de registros estão no resumo…” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

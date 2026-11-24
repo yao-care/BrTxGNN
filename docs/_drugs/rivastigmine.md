@@ -76,11 +76,11 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Dos 42 registros, 18 encontram-se válidos. Abaixo, os 5 principais:
+Há registros válidos e cancelados (números atualizados no resumo rápido).
 
 <!-- review:begin br-lic-20261112-rivastigmine-1 -->
 
-> **Correção de verificação (2026-11-24)**: Texto original: “Todos os 17 registros encontram-se válidos.” Corrigido conforme os dados abertos de medicamentos da ANVISA (situação de 2026-11-23): 42 registros para este medicamento, 18 válidos e 24 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “Todos os 17 registros encontram-se válidos.” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261112-rivastigmine-1 -->
 
@@ -123,6 +123,12 @@ A tabela mostra até 30 registros (os ativos primeiro), de 42 registros nos dado
 
 <!-- licenses:end -->
 
+<!-- review:begin br-lic-20261124b-rivastigmine-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Abaixo, os 5 principais:” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-rivastigmine-1 -->
+
 ## Considerações de Segurança
 
 - **Contraindicações previstas pelo grafo de conhecimento (não extraídas da bula)**: o grafo de conhecimento do TxGNN associa a rivastigmina a contraindicação em epilepsia, doenças dos gânglios da base, distonia focal da mão, blefaroespasmo, doença pulmonar obstrutiva crônica (incluindo formas graves de início precoce), asma (incluindo intrínseca e alérgica), doenças diarreicas, parada cardíaca súbita, doenças da condução cardíaca, síndrome do nó sinusal (incluindo a forma familiar), bloqueio atrioventricular, anorexia nervosa, úlcera péptica ativa, obstrução do trato urinário, parkinsonismo e doença de Parkinson.
@@ -152,7 +158,7 @@ A evidência se limita a um estudo pré-clínico em coelhos, uma análise comput
 
 <!-- review:begin br-lic-20261031-rivastigmine-1 -->
 
-> **Correção de verificação (2026-10-31)**: Texto original: “Avaliar a viabilidade regulatória e comercial diante da situação "apenas cancelados" no Brasil” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-10-31). Nos dados (dados abertos de medicamentos da ANVISA) constam 42 registros para este medicamento, 19 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-10-31)**: Texto original: “Avaliar a viabilidade regulatória e comercial diante da situação "apenas cancelados" no Brasil” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-10-31). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261031-rivastigmine-1 -->
 
@@ -164,9 +170,10 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-10-31 | Removido: “diante da situação "apenas cancelados"” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-24 | Registros válidos: “todos os 17” → 18 de 42 | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-10-31 | Removido: “diante da situação "apenas cancelados"” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “Todos os 17 registros encontram-se válidos.” → “Há registros válidos e cancelados (números atualizados no resumo rápido).” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: rivastigmine tartrate prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=52781229-ee82-43f9-a113-4419a611978d) |
+| 2026-11-24 | Removido: “Abaixo, os 5 principais:” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

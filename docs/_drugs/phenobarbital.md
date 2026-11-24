@@ -103,7 +103,7 @@ O medicamento é comercializado no Brasil.
 
 <!-- review:begin br-lic-20261106-phenobarbital-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Todos os 8 registros estão **válidos** (8 de 8); o medicamento é comercializado no Brasil.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 36 registros para este medicamento, 8 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “Todos os 8 registros estão **válidos** (8 de 8); o medicamento é comercializado no Brasil.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-phenobarbital-1 -->
 
@@ -146,7 +146,17 @@ A tabela mostra até 30 registros (os ativos primeiro), de 36 registros nos dado
 
 <!-- licenses:end -->
 
-(Exibidos os 5 principais de um total de 8 registros; os demais incluem Fenocris e outras apresentações de Fenobarbital.)
+<!-- review:begin br-lic-20261124b-phenobarbital-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “(Exibidos os 5 principais de um total de 8 registros; os demais incluem Fenocris e outras apresentações de Fenobarbital.)” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-phenobarbital-1 -->
+
+<!-- review:begin br-lic-20261124b-phenobarbital-2 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “e os 8 registros listados estão válidos” Corrigido: a premissa sobre o número ou a situação dos registros não correspondia aos dados abertos de medicamentos da ANVISA; o restante do texto não foi alterado, e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-phenobarbital-2 -->
 
 ---
 
@@ -171,7 +181,7 @@ Consulte a bula para advertências e contraindicações oficiais.
 - Dados de mecanismo de ação consolidados (por exemplo, via DrugBank).
 - Bula da ANVISA com advertências e contraindicações oficiais (lacuna bloqueante para a triagem de segurança).
 - Se houver interesse em reposicionamento, priorizar as epilepsias reflexas (posições 2 a 8), com revisão sistemática e comparação com alternativas atuais.
-- Verificar a situação regulatória atual do fenobarbital no Brasil, onde o medicamento é comercializado e os 8 registros listados estão válidos.
+- Verificar a situação regulatória atual do fenobarbital no Brasil, onde o medicamento é comercializado.
 
 <!-- review:begin log -->
 
@@ -181,8 +191,10 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “Todos os 8 registros estão **válidos** (8 de 8); o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Todos os 8 registros estão **válidos** (8 de 8); o” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Sezaby (phenobarbital sodium) prescribing information, Sun Pharmaceutical Industries, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8c7d0402-4977-4c25-bc4b-11db91339e9a) |
+| 2026-11-24 | Removido: “(Exibidos os 5 principais de um total de 8 registros; os demais incluem Fenocris e outras apresentações de Fenobarbital.)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | Removido: “e os 8 registros listados estão válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

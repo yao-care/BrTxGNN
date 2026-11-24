@@ -116,7 +116,13 @@ A tabela mostra até 30 registros (os ativos primeiro), de 78 registros nos dado
 
 <!-- licenses:end -->
 
-Há registros válidos de levofloxacina isolada e também de combinações; a lista acima considera apenas os de ingrediente único.
+<!-- review:begin br-lic-20261124b-levofloxacina-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “; a lista acima considera apenas os de ingrediente único.” Corrigido conforme os dados abertos de medicamentos da ANVISA: a tabela desta seção inclui todos os registros do medicamento (de princípio ativo único e em associação, válidos e cancelados), e não só os descritos na frase. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-levofloxacina-1 -->
+
+Há registros válidos de levofloxacina isolada e também de combinações.
 
 ## Considerações de Segurança
 
@@ -146,6 +152,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | 2026-11-12 | Registros: 4 → 78 (38 válidos) | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Registros: 4 → 78 (38 válidos) | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: levofloxacin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=814450ae-439e-4a5d-8c60-9b21b6f14be5) |
+| 2026-11-24 | “; a lista acima considera apenas os de ingrediente único.” → “.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

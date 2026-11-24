@@ -62,7 +62,7 @@ A pontuação alta do modelo (0,9977) parece refletir principalmente esse perfil
 
 ## Informações de Comercialização no Brasil
 
-Segundo os dados compilados para este relatório, a gencitabina consta como comercializada no Brasil. Principais registros (lista parcial; texto de indicação registrado apenas como classe terapêutica):
+Segundo os dados compilados para este relatório, a gencitabina consta como comercializada no Brasil. Principais registros (texto de indicação registrado apenas como classe terapêutica):
 
 <!-- licenses:begin -->
 
@@ -103,6 +103,12 @@ A tabela mostra até 30 registros (os ativos primeiro), de 32 registros nos dado
 
 <!-- licenses:end -->
 
+<!-- review:begin br-lic-20261124b-gemcitabine-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “(lista parcial; texto” Removido: a afirmação de que a lista de registros seria parcial ou limitada a 20 não corresponde mais aos dados; a tabela desta seção é gerada por programa a partir dos dados abertos de medicamentos da ANVISA, e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-gemcitabine-1 -->
+
 ## Citotoxicidade
 
 | Item | Conteúdo |
@@ -137,11 +143,12 @@ Consulte a bula para advertências e contraindicações formais.
 
 ## Registro de verificação
 
-Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Avgemsi (gemcitabine) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e11eeff7-bcaf-4bf1-8da8-88138e01af84) |
+| 2026-11-24 | “(lista parcial; texto” → “(texto” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

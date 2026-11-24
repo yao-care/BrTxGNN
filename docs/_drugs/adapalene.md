@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Adapalene"
 predicted_indications: ["zinc, elevated plasma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Adapalene: nova indicação prevista, Zinco plasmático elevado (zinc, elevated plasma) (nível de evidência L5). Indicação original: PRODUTOS ANTI-ACNE"
 ---
 
@@ -106,11 +106,11 @@ Atualmente não há literatura relacionada.
 
 <!-- licenses:end -->
 
-Estão listados os 28 registros.
+Os registros constam da tabela acima.
 
 <!-- review:begin br-lic-20261112-adapalene-1 -->
 
-> **Correção de verificação (2026-11-12)**: Texto original: “Estão listados os 5 primeiros de 10 registros.” Corrigido conforme a tabela desta seção e os dados abertos de medicamentos da ANVISA (2026-11-05): a tabela mostra 28 registros e há 28 registros para este medicamento; a contagem antiga vinha de uma versão anterior dos dados (no máximo 20 registros). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “Estão listados os 5 primeiros de 10 registros.” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261112-adapalene-1 -->
 
@@ -142,7 +142,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-12 | Contagem exibida: “Estão listados os 5 primeiros de 10 registros” → “Estão listados os 28 registros” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “Estão listados os 5 primeiros de 10 registros.” → “Os registros constam da tabela acima.” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Differin (adapalene) prescribing information, Galderma Laboratories, L.P.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a0031324-92a6-4c11-90e2-c2818f7278ec) |
 
 <!-- review:end log -->

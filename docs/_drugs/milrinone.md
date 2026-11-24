@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 460
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Milrinone: nova indicação prevista, Alopecia (Alopecia) (nível de evidência L5). Indicação original: Vasodilatadores"
 monitor_inn: "milrinone"
 predicted_indications: ["alopecia", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "headache disorder", "migraine disorder", "migraine with brainstem aura", "trigeminal autonomic cephalalgia", "acute pulmonary heart disease"]
@@ -100,7 +100,13 @@ Não há literatura para alopecia. As publicações abaixo se referem a cefaleia
 
 ## Informações de Comercialização no Brasil
 
-Os 3 registros (3 de 3) estão **válidos**; o medicamento está comercializado.
+Há registros **válidos** e cancelados (números atualizados no resumo rápido); o medicamento está comercializado.
+
+<!-- review:begin br-lic-20261124b-milrinone-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Os 3 registros (3 de 3) estão **válidos**” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-milrinone-1 -->
 
 <!-- licenses:begin -->
 
@@ -116,6 +122,12 @@ Os 3 registros (3 de 3) estão **válidos**; o medicamento está comercializado.
 
 <!-- licenses:end -->
 
+<!-- review:begin br-lic-20261124b-milrinone-2 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “os 3 registros brasileiros (3 de 3) estão válidos e” Corrigido: a premissa sobre o número ou a situação dos registros não correspondia aos dados abertos de medicamentos da ANVISA; o restante do texto não foi alterado, e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-milrinone-2 -->
+
 ## Considerações de Segurança
 
 - **Contraindicações (segundo a rede de conhecimento do TxGNN, e não o texto da bula):** doença renal, piureter, distúrbio hipotensivo, infarto do miocárdio, trombose coronária, hemoglobinopatia, parada cardíaca súbita, doença do sistema de condução cardíaco, estenose da válvula pulmonar (incluindo a forma valvar), cardiomiopatia hipertrófica (incluindo a familiar).
@@ -130,7 +142,7 @@ Consulte a bula para as advertências e contraindicações oficiais, que não es
 
 **Justificativa:**
 - A previsão de alopecia (0,9991) é apenas do modelo (L5): não há ensaios, literatura nem mecanismo estabelecido, e a pontuação alta parece refletir proximidade na rede com termos de perda de cabelo. Todas as indicações capilares, bem como enxaqueca e cefaleias relacionadas, permanecem em Hold.
-- Para fins de contexto, cor pulmonale agudo alcança nível L2 (Proceed with Guardrails), mas é uma indicação muito próxima do uso cardiovascular já conhecido e, portanto, pouco "nova". Além disso, os 3 registros brasileiros (3 de 3) estão válidos e o medicamento está comercializado.
+- Para fins de contexto, cor pulmonale agudo alcança nível L2 (Proceed with Guardrails), mas é uma indicação muito próxima do uso cardiovascular já conhecido e, portanto, pouco "nova". Além disso, o medicamento está comercializado.
 
 **Para prosseguir, é necessário:**
 - Obter da ANVISA a bula com advertências e contraindicações oficiais (lacuna bloqueante para a triagem de segurança).
@@ -140,7 +152,7 @@ Consulte a bula para as advertências e contraindicações oficiais, que não es
 
 <!-- review:begin br-lic-20261106-milrinone-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Para alopecia: estudos pré-clínicos (por exemplo, modelos de folículo piloso) que testem o efeito da inibição de PDE3, e avaliação de viabilidade de via tópica, já que o uso atual é intravenoso. / Definir a situação regulatória: como não há registro válido no Brasil, seria necessário novo registro ou reativação.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 7 registros para este medicamento, 3 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “Para alopecia: estudos pré-clínicos (por exemplo, modelos de folículo piloso) que testem o efeito da inibição de PDE3, e avaliação de viabilidade de via tópica, já que o uso atual é intravenoso. / Definir a situação regulatória: como não há registro válido no Brasil, seria necessário novo registro ou reativação.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-milrinone-1 -->
 
@@ -152,8 +164,10 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “Definir a situação regulatória: como não há registro válido no Brasil, seria necessário novo registro ou reativação” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Definir a situação regulatória: como não há registro válido no Brasil, seria necessário novo registro ou reativação” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Milrinone Lactate In Dextrose (milrinone lactate) prescribing information, Gland Pharma Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=838da14b-c070-4c09-b088-99e7c64d9964) |
+| 2026-11-24 | “Os 3 registros (3 de 3) estão **válidos**” → “Há registros **válidos** e cancelados (números atualizados no resumo rápido)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | Removido: “os 3 registros brasileiros (3 de 3) estão válidos e” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

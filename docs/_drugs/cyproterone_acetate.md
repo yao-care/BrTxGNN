@@ -75,7 +75,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-O medicamento está comercializado, com 20 registros válidos; abaixo, os 5 principais.
+O medicamento está comercializado, com 20 registros válidos.
 
 <!-- licenses:begin -->
 
@@ -105,6 +105,12 @@ O medicamento está comercializado, com 20 registros válidos; abaixo, os 5 prin
 Os dados contêm apenas parte dos registros; a lista pode estar incompleta.
 
 <!-- licenses:end -->
+
+<!-- review:begin br-lic-20261124b-cyproterone_acetate-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “; abaixo, os 5 principais” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-cyproterone_acetate-1 -->
 
 ## Considerações de Segurança
 
@@ -145,6 +151,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “já que não há registro vigente” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | Removido: “; abaixo, os 5 principais” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

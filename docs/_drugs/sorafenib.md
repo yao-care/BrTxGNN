@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 595
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Sorafenib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "female breast carcinoma", "renal pelvis carcinoma", "vulva sarcoma", "dermatofibrosarcoma protuberans"]
 description: "Sorafenib: nova indicação prevista, lipossarcoma (liposarcoma) (nível de evidência L5). No Brasil, registros na ANVISA: 4 (ativos: 3)"
@@ -78,11 +78,11 @@ A via MAPK e a angiogênese são vias plausíveis em sarcomas de partes moles, e
 
 ## Informações de Comercialização no Brasil
 
-O medicamento consta como comercializado no Brasil, com 3 registros válidos e 1 cancelado, totalizando 4 registros.
+O medicamento consta como comercializado no Brasil, com registros válidos e cancelados (números atualizados no resumo rápido).
 
 <!-- review:begin br-lic-20261106-sorafenib-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “O medicamento consta como comercializado no Brasil, com 3 registros válidos e 1 cancelado, totalizando 4 registros. Os detalhes de cada registro (nome comercial, forma farmacêutica) não estão disponíveis nos dados compilados para este relatório.” Removido: a descrição dos produtos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 4 registros para este medicamento, 3 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “O medicamento consta como comercializado no Brasil, com 3 registros válidos e 1 cancelado, totalizando 4 registros. Os detalhes de cada registro (nome comercial, forma farmacêutica) não estão disponíveis nos dados compilados para este relatório.” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-sorafenib-1 -->
 
@@ -124,7 +124,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “Os detalhes de cada registro (nome comercial, forma farmacêutica) não estão disponíveis nos dados compilados para este relatório” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “O medicamento consta como comercializado no Brasil, com 3 registros válidos e 1 cancelado, totalizando 4…” → “O medicamento consta como comercializado no Brasil, com registros válidos e cancelados (números atualizados…” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Nexavar (sorafenib) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b50667e4-5ebc-4968-a646-d605058dbef0) |
 
 <!-- review:end log -->

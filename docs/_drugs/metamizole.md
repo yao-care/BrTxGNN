@@ -82,11 +82,11 @@ Nenhum dos estudos abaixo é ensaio clínico de eficácia. Os achados abaixo for
 
 ## Informações de Comercialização no Brasil
 
-Dos 496 registros, 171 constam como válidos. Abaixo, os 5 principais:
+Há registros válidos e cancelados (números atualizados no resumo rápido).
 
 <!-- review:begin br-lic-20261112-metamizole-1 -->
 
-> **Correção de verificação (2026-11-12)**: Texto original: “Todos os 20 registros constam como válidos.” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 496 registros para este medicamento, 171 válidos e 325 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “Todos os 20 registros constam como válidos.” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261112-metamizole-1 -->
 
@@ -129,6 +129,12 @@ A tabela mostra até 30 registros (os ativos primeiro), de 496 registros nos dad
 
 <!-- licenses:end -->
 
+<!-- review:begin br-lic-20261124b-metamizole-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Abaixo, os 5 principais:” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-metamizole-1 -->
+
 ## Considerações de Segurança
 
 - **Agranulocitose**: a literatura recuperada associa o metamizol a agranulocitose, com sinal específico em relatos que envolvem metotrexato para artrite reumatoide. Também há relato de necrólise epidérmica tóxica induzida por metamizol.
@@ -145,7 +151,7 @@ Para advertências e contraindicações formais, consulte a bula.
 
 <!-- review:begin br-lic-20261106-metamizole-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Não há ensaios clínicos nem estudos de eficácia para artrite reumatoide; a pontuação alta do modelo não é corroborada por dados clínicos, e há um sinal de segurança (agranulocitose com metotrexato) relevante nessa população. Além disso, o medicamento é comercializado no Brasil, com 20 registros válidos.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 496 registros para este medicamento, 171 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “Não há ensaios clínicos nem estudos de eficácia para artrite reumatoide; a pontuação alta do modelo não é corroborada por dados clínicos, e há um sinal de segurança (agranulocitose com metotrexato) relevante nessa população. Além disso, o medicamento é comercializado no Brasil, com 20 registros válidos.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-metamizole-1 -->
 
@@ -165,8 +171,9 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “Além disso, o medicamento é comercializado no Brasil, com 20 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Registros válidos: “todos os 20” → 171 de 496 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Além disso, o medicamento é comercializado no Brasil, com 20 registros válidos” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “Todos os 20 registros constam como válidos.” → “Há registros válidos e cancelados (números atualizados no resumo rápido).” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | Removido: “Abaixo, os 5 principais:” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

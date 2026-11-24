@@ -62,14 +62,6 @@ Contudo, essa nova indicação se sobrepõe em grande parte ao uso anti-hiperten
 
 ## Informações de Comercialização no Brasil
 
-Abaixo estão os 5 primeiros; a lista não é exaustiva.
-
-<!-- review:begin br-lic-20261111-candesartan_cilexetil-1 -->
-
-> **Correção de verificação (2026-11-11)**: Texto original: “Segundo os dados compilados, há 17 registros, todos de produtos com candesartana cilexetila isolada ou associada à hidroclorotiazida. Abaixo estão os 5 primeiros; a lista não é exaustiva.” Removido: a indicação de produtos de princípio ativo único ou em associação não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-11). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-lic-20261111-candesartan_cilexetil-1 -->
-
 <!-- licenses:begin -->
 
 | Registro | Produto | Empresa detentora | Situação |
@@ -109,6 +101,12 @@ A tabela mostra até 30 registros (os ativos primeiro), de 49 registros nos dado
 
 <!-- licenses:end -->
 
+<!-- review:begin br-lic-20261111-candesartan_cilexetil-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Segundo os dados compilados, há 17 registros, todos de produtos com candesartana cilexetila isolada ou associada à hidroclorotiazida. Abaixo estão os 5 primeiros; a lista não é exaustiva.” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261111-candesartan_cilexetil-1 -->
+
 ## Considerações de Segurança
 
 - **Doenças e condições associadas a contraindicação ou cautela** (relações de contraindicação fármaco-doença do modelo, não texto de bula): pancreatite, doença hepática, doença da vesícula biliar, lúpus eritematoso sistêmico (inclusive pediátrico), deficiência de potássio, diabetes mellitus, cetoacidose diabética, hiperuricemia, distúrbios hipotensivos, hiperparatireoidismo, osteíte fibrosa, coma hepático, encefalopatia hepática, icterícia neonatal, anúria, gota, hipercalcemia, nefrocalcinose, distúrbios do metabolismo do fósforo, obstrução da artéria renal e comprometimento da função renal.
@@ -137,7 +135,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-11 | Removido: “Segundo os dados compilados, há 17 registros, todos de produtos com candesartana cilexetila isolada ou associada à hidroclorotiazida” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | Removido: “Segundo os dados compilados, há 17 registros, todos de produtos com candesartana cilexetila isolada ou associada à hidroclorotiazida.…” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Atacand (candesartan cilexetil) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=94a59260-d2b6-464a-b5b9-bbc599e57e10) |
 
 <!-- review:end log -->

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 532
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Polatuzumab Vedotin: nova indicação prevista, Carcinoma de mama HER2-positivo (HER2 positive breast carcinoma) (nível de evidência L5). Indicação original: Antineoplásico"
 monitor_inn: "polatuzumab vedotin"
 predicted_indications: ["HER2 positive breast carcinoma"]
@@ -104,7 +104,7 @@ A previsão é sustentada apenas pelo modelo (L5), sem ensaios clínicos nem lit
 
 <!-- review:begin br-lic-20261106-polatuzumab_vedotin-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “A previsão é sustentada apenas pelo modelo (L5), sem ensaios clínicos nem literatura, e não há vínculo mecanístico plausível entre o alvo CD79b e o câncer de mama HER2-positivo. Além disso, o único registro no Brasil está cancelado e há alternativas já estabelecidas dirigidas ao HER2.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 2 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão é sustentada apenas pelo modelo (L5), sem ensaios clínicos nem literatura, e não há vínculo mecanístico plausível entre o alvo CD79b e o câncer de mama HER2-positivo. Além disso, o único registro no Brasil está cancelado e há alternativas já estabelecidas dirigidas ao HER2.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-polatuzumab_vedotin-1 -->
 
@@ -123,7 +123,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “Além disso, o único registro no Brasil está cancelado e há alternativas já estabelecidas dirigidas ao HER2” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Além disso, o único registro no Brasil está cancelado e há alternativas já estabelecidas dirigidas ao HER2” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Polivy (polatuzumab vedotin) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=20a16ab2-f338-4abb-9dcd-254bd949a2bc) |
 
 <!-- review:end log -->

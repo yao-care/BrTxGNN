@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Diclofenac"
 predicted_indications: ["hypotrichosis simplex of the scalp", "acromesomelic dysplasia, Hunter-Thompson type", "pseudoachondroplasia", "brachyolmia", "brachyolmia-amelogenesis imperfecta syndrome", "congenital hypotrichosis milia", "myosclerosis", "diffuse alopecia areata", "juvenile idiopathic arthritis", "WHIM syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Diclofenac: nova indicação prevista, Hipotricose simples do couro cabeludo (hypotrichosis simplex of the scalp) (nível de evidência L5). No Brasil, registros na ANVISA: 397 (ativos: 102)"
 ---
 
@@ -68,7 +68,7 @@ A lista de registros pode estar incompleta, e por isso os registros individuais 
 
 <!-- review:begin br-lic-20261106-diclofenac-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Segundo os dados de registro compilados, o diclofenaco consta como **comercializado** no Brasil, com 6 registros válidos e 14 cancelados. A lista de registros pode estar incompleta, e por isso os registros individuais não são detalhados aqui.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 397 registros para este medicamento, 103 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “Segundo os dados de registro compilados, o diclofenaco consta como **comercializado** no Brasil, com 6 registros válidos e 14 cancelados. A lista de registros pode estar incompleta, e por isso os registros individuais não são detalhados aqui.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-diclofenac-1 -->
 
@@ -101,7 +101,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “Segundo os dados de registro compilados, o diclofenaco consta como **comercializado** no Brasil, com 6 registros válidos e 14 cancelados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Segundo os dados de registro compilados, o diclofenaco consta como **comercializado** no Brasil, com 6 registros válidos e 14 cancelados” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Diclofenac Sodium Delayed Release (diclofenac sodium) prescribing information, Preferred Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bc99e6af-7050-4653-a681-5b252305a970) |
 
 <!-- review:end log -->

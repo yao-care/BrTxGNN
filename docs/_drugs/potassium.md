@@ -94,7 +94,13 @@ Observação: vários outros ensaios recuperados (por exemplo, NCT01302691, NCT0
 
 ## Informações de Comercialização no Brasil
 
-Todos os 6 registros encontram-se **válidos** (6 de 6); atualmente há produto de potássio comercializado com registro válido nos dados compilados.
+Há registros **válidos** e cancelados (números atualizados no resumo rápido); atualmente há produto de potássio comercializado com registro válido nos dados compilados.
+
+<!-- review:begin br-lic-20261124b-potassium-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Todos os 6 registros encontram-se **válidos** (6 de 6)” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-potassium-1 -->
 
 <!-- licenses:begin -->
 
@@ -109,7 +115,11 @@ Todos os 6 registros encontram-se **válidos** (6 de 6); atualmente há produto 
 
 <!-- licenses:end -->
 
-(Há um sexto registro cancelado, MATURE, nº 177940035, com a indicação de vitaminas ou minerais associados a outros fármacos.)
+<!-- review:begin br-lic-20261124b-potassium-2 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “(Há um sexto registro cancelado, MATURE, nº 177940035, com a indicação de vitaminas ou minerais associados a outros fármacos.)” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-potassium-2 -->
 
 ## Considerações de Segurança
 
@@ -127,7 +137,7 @@ Para transtorno hipertensivo há meta-análises de ensaios randomizados e ensaio
 
 <!-- review:begin br-lic-20261106-potassium-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Porém, os ensaios diretamente relevantes são pequenos ou antigos, os registros brasileiros estão todos cancelados e a evidência refere-se à ingestão/suplementação de potássio, não a um medicamento específico.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 6 registros para este medicamento, 3 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “Porém, os ensaios diretamente relevantes são pequenos ou antigos, os registros brasileiros estão todos cancelados e a evidência refere-se à ingestão/suplementação de potássio, não a um medicamento específico.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-potassium-1 -->
 
@@ -140,7 +150,7 @@ Para transtorno hipertensivo há meta-análises de ensaios randomizados e ensaio
 
 <!-- review:begin br-lic-20261106-potassium-2 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Definir formulação, dose e via de administração e verificar a possibilidade de novo registro, já que não há registro válido” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 6 registros para este medicamento, 3 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “Definir formulação, dose e via de administração e verificar a possibilidade de novo registro, já que não há registro válido” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-potassium-2 -->
 
@@ -152,8 +162,10 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “os, os registros brasileiros estão todos cancelad” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-06 | Removido: “já que não há registro válido” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “os, os registros brasileiros estão todos cancelad” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “já que não há registro válido” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “Todos os 6 registros encontram-se **válidos** (6 de 6)” → “Há registros **válidos** e cancelados (números atualizados no resumo rápido)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | Removido: “(Há um sexto registro cancelado, MATURE, nº 177940035, com a indicação de vitaminas ou minerais associados a outros fármacos.)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

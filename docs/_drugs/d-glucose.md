@@ -48,11 +48,11 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 
 ## Informações de Comercialização no Brasil
 
-Principais registros (30 de 212):
+Principais registros:
 
 <!-- review:begin br-lic-20261112-d-glucose-1 -->
 
-> **Correção de verificação (2026-11-12)**: Texto original: “Principais registros (5 de 20):” Corrigido conforme a tabela desta seção e os dados abertos de medicamentos da ANVISA (2026-11-05): a tabela mostra 30 registros e há 212 registros para este medicamento; a contagem antiga vinha de uma versão anterior dos dados (no máximo 20 registros). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “Principais registros (5 de 20):” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261112-d-glucose-1 -->
 
@@ -107,7 +107,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-12 | Contagem exibida: “Principais registros (5 de 20” → “Principais registros (30 de 212” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “Principais registros (5 de 20):” → “Principais registros:” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

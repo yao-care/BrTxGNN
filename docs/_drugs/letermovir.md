@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Letermovir"
 predicted_indications: ["vulvovaginal candidiasis"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Letermovir: nova indicação prevista, candidíase vulvovaginal (vulvovaginal candidiasis) (nível de evidência L5). No Brasil, registros na ANVISA: 3 (ativos: 2)"
 ---
 
@@ -63,11 +63,11 @@ Não foram encontrados ensaios clínicos nem publicações sobre letermovir ness
 
 ## Informações de Comercialização no Brasil
 
-Segundo os dados locais, o fármaco consta como comercializado, com 2 registros válidos e 1 cancelado.
+Segundo os dados locais, o fármaco consta como comercializado, com registros válidos e cancelados (números atualizados no resumo rápido).
 
 <!-- review:begin br-lic-20261106-letermovir-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Segundo os dados locais, o fármaco consta como comercializado, com 2 registros válidos e 1 cancelado. Os detalhes de cada registro (número, nome comercial, forma farmacêutica e indicação aprovada) não estão disponíveis nos dados compilados.” Removido: a descrição dos produtos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 3 registros para este medicamento, 2 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “Segundo os dados locais, o fármaco consta como comercializado, com 2 registros válidos e 1 cancelado. Os detalhes de cada registro (número, nome comercial, forma farmacêutica e indicação aprovada) não estão disponíveis nos dados compilados.” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-letermovir-1 -->
 
@@ -99,7 +99,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “Os detalhes de cada registro (número, nome comercial, forma farmacêutica e indicação aprovada) não estão disponíveis nos dados compilados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “Segundo os dados locais, o fármaco consta como comercializado, com 2 registros válidos e 1 cancelado. Os…” → “Segundo os dados locais, o fármaco consta como comercializado, com registros válidos e cancelados (números…” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

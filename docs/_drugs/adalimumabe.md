@@ -95,7 +95,11 @@ Os dados locais indicam situação de comercialização "Comercializado", com 11
 
 <!-- licenses:end -->
 
-Há outros registros válidos (HULIO, XILBRILADA, INSTITUTO BUTANTAN - ADALIMUMABE, HADLIMA, YUFLYMA, HUMIRA) e três registros cancelados, não detalhados nesta tabela.
+<!-- review:begin br-lic-20261124b-adalimumabe-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Há outros registros válidos (HULIO, XILBRILADA, INSTITUTO BUTANTAN - ADALIMUMABE, HADLIMA, YUFLYMA, HUMIRA) e três registros cancelados, não detalhados nesta tabela.” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-adalimumabe-1 -->
 
 ## Considerações de Segurança
 
@@ -117,11 +121,12 @@ Os dados compilados não trazem advertências, contraindicações nem interaçõ
 
 ## Registro de verificação
 
-Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Simlandi (adalimumab-ryvk) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=12f609c9-2088-bb05-e063-6394a90a9ecc) |
+| 2026-11-24 | Removido: “Há outros registros válidos (HULIO, XILBRILADA, INSTITUTO BUTANTAN - ADALIMUMABE, HADLIMA, YUFLYMA, HUMIRA) e três registros cancelados,…” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Danazol"
 predicted_indications: ["amenorrhea (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast", "fat necrosis of breast", "breast abscess", "lactation disease", "breast adenosis", "vulvovaginitis", "vulvitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Danazol: nova indicação prevista, Amenorreia (amenorrhea (disease)) (nível de evidência L5). No Brasil, registros na ANVISA: 4 (ativos: 1)"
 ---
 
@@ -85,11 +85,11 @@ Nenhuma das publicações é um ensaio randomizado que estude a amenorreia como 
 
 ## Informações de Comercialização no Brasil
 
-Segundo os dados compilados para este relatório, o danazol consta como comercializado no Brasil, com 4 registros no total, dos quais 1 válido e 3 cancelados.
+Segundo os dados compilados para este relatório, o danazol consta como comercializado no Brasil, com registros válidos e cancelados (números atualizados no resumo rápido).
 
 <!-- review:begin br-lic-20261106-danazol-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Segundo os dados compilados para este relatório, o danazol consta como comercializado no Brasil, com 4 registros no total, dos quais 1 válido e 3 cancelados. Os detalhes individuais dos registros (número, nome comercial e forma farmacêutica) não estão disponíveis nos dados compilados.” Removido: a descrição dos produtos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 4 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “Segundo os dados compilados para este relatório, o danazol consta como comercializado no Brasil, com 4 registros no total, dos quais 1 válido e 3 cancelados. Os detalhes individuais dos registros (número, nome comercial e forma farmacêutica) não estão disponíveis nos dados compilados.” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-danazol-1 -->
 
@@ -123,7 +123,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “Os detalhes individuais dos registros (número, nome comercial e forma farmacêutica) não estão disponíveis nos dados compilados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “Segundo os dados compilados para este relatório, o danazol consta como comercializado no Brasil, com 4…” → “Segundo os dados compilados para este relatório, o danazol consta como comercializado no Brasil, com…” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: danazol prescribing information, Chartwell RX, LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=55ad6325-16f6-4f0c-a1dc-734847052d0b) |
 
 <!-- review:end log -->

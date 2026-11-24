@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 133
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 predicted_indications: []
 ---
 
@@ -43,7 +43,7 @@ São necessárias etapas adicionais de coleta de dados (MOA, indicações aprova
 
 <!-- review:begin br-lic-20261106-bezafibrato-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Bezafibrato é um fármaco da classe dos fibratos, utilizado no tratamento de **dislipidemia** (hipertrigliceridemia e hiperlipidemia mista), com 18 registros ativos no Brasil. / O presente Evidence Pack não contém previsões TxGNN para novas indicações — o pipeline de predição ainda não foi executado ou não retornou candidatos para este fármaco.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 16 registros para este medicamento, 6 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “Bezafibrato é um fármaco da classe dos fibratos, utilizado no tratamento de **dislipidemia** (hipertrigliceridemia e hiperlipidemia mista), com 18 registros ativos no Brasil. / O presente Evidence Pack não contém previsões TxGNN para novas indicações — o pipeline de predição ainda não foi executado ou não retornou candidatos para este fármaco.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-bezafibrato-1 -->
 
@@ -69,11 +69,11 @@ Bezafibrato pertence à classe dos **fibratos**, fármacos agonistas dos recepto
 
 No entanto, os dados de mecanismo de ação detalhados (MOA) não foram incorporados a este Evidence Pack. Consultas ao DrugBank foram realizadas com sucesso (1 resultado encontrado), mas os dados ainda não foram integrados ao relatório.
 
-> **Nota:** Os dados regulatórios detalhados dos 18 registros no Brasil (nome comercial, forma farmacêutica, texto de indicação aprovada) também não estão disponíveis nesta versão do Evidence Pack.
+> **Nota:** Os dados regulatórios detalhados dos registros no Brasil (nome comercial, forma farmacêutica, texto de indicação aprovada) também não estão disponíveis nesta versão do Evidence Pack.
 
 <!-- review:begin br-lic-20261106-bezafibrato-2 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “> **Nota:** Os dados regulatórios detalhados dos 18 registros no Brasil (nome comercial, forma farmacêutica, texto de indicação aprovada) também não estão disponíveis nesta versão do Evidence Pack. Os campos retornaram vazios na consulta à base TFDA/ANVISA.” Removido: texto residual do modelo taiwanês (TFDA), que não se aplica a esta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “> **Nota:** Os dados regulatórios detalhados dos 18 registros no Brasil (nome comercial, forma farmacêutica, texto de indicação aprovada) também não estão disponíveis nesta versão do Evidence Pack. Os campos retornaram vazios na consulta à base TFDA/ANVISA.” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-bezafibrato-2 -->
 
@@ -85,7 +85,7 @@ Os detalhes individuais de cada registro (número, nome comercial, forma farmac�
 
 <!-- review:begin br-lic-20261106-bezafibrato-3 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “O bezafibrato possui **18 registros ativos** no Brasil, confirmando que o fármaco está legalmente comercializado no país.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 16 registros para este medicamento, 6 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “O bezafibrato possui **18 registros ativos** no Brasil, confirmando que o fármaco está legalmente comercializado no país.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-bezafibrato-3 -->
 
@@ -113,9 +113,9 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “Bezafibrato é um fármaco da classe dos fibratos, utilizado no tratamento de **dislipidemia** (hipertrigliceridemia e hiperlipidemia mista), ” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-06 | Removido: “Os campos retornaram vazios na consulta à base TFDA/ANVISA” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-06 | Removido: “O bezafibrato possui **18 registros ativos** no Brasil, confirmando que o fármaco está legalmente comercializado no país” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Bezafibrato é um fármaco da classe dos fibratos, utilizado no tratamento de **dislipidemia** (hipertrigliceridemia e hiperlipidemia mista), ” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “> **Nota:** Os dados regulatórios detalhados dos 18 registros no Brasil (nome comercial, forma farmacêutica,…” → “> **Nota:** Os dados regulatórios detalhados dos registros no Brasil (nome comercial, forma farmacêutica,…” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “O bezafibrato possui **18 registros ativos** no Brasil, confirmando que o fármaco está legalmente comercializado no país” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

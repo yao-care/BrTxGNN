@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 617
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 predicted_indications: []
 ---
 
@@ -42,7 +42,7 @@ Teriflunomida é um agente imunomodulador oral aprovado para o tratamento de for
 
 <!-- review:begin br-lic-20261106-teriflunomida-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Com 11 registros ativos no Brasil, há base regulatória estabelecida, mas os dados do pacote estão incompletos para suportar uma avaliação de nova indicação.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 11 registros para este medicamento, 5 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “Com 11 registros ativos no Brasil, há base regulatória estabelecida, mas os dados do pacote estão incompletos para suportar uma avaliação de nova indicação.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-teriflunomida-1 -->
 
@@ -68,7 +68,7 @@ Entretanto, os campos de detalhamento dos registros (número, nome comercial, fo
 
 <!-- review:begin br-lic-20261106-teriflunomida-2 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “O Evidence Pack confirma **11 registros ativos** de Teriflunomida no Brasil e status de comercialização ativo. Entretanto, os campos de detalhamento dos registros (número, nome comercial, forma farmacêutica e texto de indicação aprovada) retornaram vazios na extração atual.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 11 registros para este medicamento, 5 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “O Evidence Pack confirma **11 registros ativos** de Teriflunomida no Brasil e status de comercialização ativo. Entretanto, os campos de detalhamento dos registros (número, nome comercial, forma farmacêutica e texto de indicação aprovada) retornaram vazios na extração atual.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-teriflunomida-2 -->
 
@@ -109,8 +109,8 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “Com 11 registros ativos no Brasil, há base regulatória estabelecida, mas o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-06 | Removido: “O Evidence Pack confirma **11 registros ativos** de Teriflunomida no Brasil e status de comercialização ativo” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Com 11 registros ativos no Brasil, há base regulatória estabelecida, mas o” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “O Evidence Pack confirma **11 registros ativos** de Teriflunomida no Brasil e status de comercialização ativo” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “**[Crítico]** Reprocessar os dados ANVISA/TFDA para preencher os campos de registro (número, nome comercial, indicação aprovada)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->

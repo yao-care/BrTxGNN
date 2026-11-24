@@ -213,6 +213,7 @@ def classify(rm):
 
 
 def figures(fc):
+    # 2026-11-24 用戶決定：說明不寫死張數（樣板 T["figures"] 不含數字，張數只在概覽表與程式表、由排程維護）
     if not fc or fc.get("total") is None:
         return ""
     return " " + T["figures"].format(total=fc["total"], valid=fc.get("valid") or 0)

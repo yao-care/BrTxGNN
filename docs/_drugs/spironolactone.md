@@ -72,17 +72,17 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-O medicamento é comercializado no Brasil, com 10 licenças válidas de 29.
+O medicamento é comercializado no Brasil, com licenças válidas e canceladas (números atualizados no resumo rápido).
 
 <!-- review:begin br-lic-20261106-spironolactone-2 -->
 
-> **Correção de verificação (2026-11-24)**: Texto original: “Todos os 8 registros estão válidos; o medicamento é comercializado no Brasil, com 8 licenças válidas de 8.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06; números atualizados em 2026-11-24). Nos dados (dados abertos de medicamentos da ANVISA) constam 29 registros para este medicamento, 10 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “Todos os 8 registros estão válidos; o medicamento é comercializado no Brasil, com 8 licenças válidas de 8.” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-spironolactone-2 -->
 
 <!-- review:begin br-lic-20261112-spironolactone-1 -->
 
-> **Correção de verificação (2026-11-12)**: Texto original: “no Brasil, com 8 licenças válidas de 8.” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 29 registros para este medicamento, 10 válidos e 19 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “no Brasil, com 8 licenças válidas de 8.” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261112-spironolactone-1 -->
 
@@ -122,11 +122,9 @@ O medicamento é comercializado no Brasil, com 10 licenças válidas de 29.
 
 <!-- licenses:end -->
 
-(Exibidos os 29 registros.)
-
 <!-- review:begin br-lic-20261112-spironolactone-3 -->
 
-> **Correção de verificação (2026-11-12)**: Texto original: “(Exibidos os 5 primeiros de 8 registros.)” Corrigido conforme a tabela desta seção e os dados abertos de medicamentos da ANVISA (2026-11-05): a tabela mostra 29 registros e há 29 registros para este medicamento; a contagem antiga vinha de uma versão anterior dos dados (no máximo 20 registros). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “(Exibidos os 5 primeiros de 8 registros.)” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261112-spironolactone-3 -->
 
@@ -145,11 +143,11 @@ As advertências e contraindicações da bula não estavam disponíveis nos dado
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão tem pontuação alta no modelo TxGNN (deep learning), mas nível de evidência L5, sem ensaios ou literatura, e com base mecanística especulativa para uma condição genética rara. O medicamento é comercializado no Brasil, com 10 licenças válidas de 29, e os dados de segurança da bula estão ausentes.
+A previsão tem pontuação alta no modelo TxGNN (deep learning), mas nível de evidência L5, sem ensaios ou literatura, e com base mecanística especulativa para uma condição genética rara. O medicamento é comercializado no Brasil, com licenças válidas na ANVISA (números atualizados no resumo rápido), e os dados de segurança da bula estão ausentes.
 
 <!-- review:begin br-lic-20261112-spironolactone-2 -->
 
-> **Correção de verificação (2026-11-12)**: Texto original: “com 8 licenças válidas de 8, e” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 29 registros para este medicamento, 10 válidos e 19 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “com 8 licenças válidas de 8, e” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261112-spironolactone-2 -->
 
@@ -162,7 +160,7 @@ A previsão tem pontuação alta no modelo TxGNN (deep learning), mas nível de 
 
 <!-- review:begin br-lic-20261031-spironolactone-1 -->
 
-> **Correção de verificação (2026-10-31)**: Texto original: “Esclarecer a situação regulatória (registros cancelados) e a via de administração adequada (por exemplo, oral vs. tópica).” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-10-31). Nos dados (dados abertos de medicamentos da ANVISA) constam 29 registros para este medicamento, 10 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-10-31)**: Texto original: “Esclarecer a situação regulatória (registros cancelados) e a via de administração adequada (por exemplo, oral vs. tópica).” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-10-31). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261031-spironolactone-1 -->
 
@@ -174,11 +172,11 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-10-31 | Removido: “(registros cancelados)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-24 | Removido: “Todos os 8 registros estão válidos; o” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Licenças válidas: 8 de 8 → 10 de 29 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Licenças válidas: 8 de 8 → 10 de 29 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Contagem exibida: “Exibidos os 5 primeiros de 8 registros” → “Exibidos os 29 registros” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-10-31 | Removido: “(registros cancelados)” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “Todos os 8 registros estão válidos; o medicamento é comercializado no Brasil, com 8 licenças válidas de 8.” → “O medicamento é comercializado no Brasil, com licenças válidas e canceladas (números atualizados no resumo…” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “no Brasil, com 8 licenças válidas de 8.” → “no Brasil, com licenças válidas e canceladas (números atualizados no resumo rápido).” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “com 8 licenças válidas de 8, e” → “com licenças válidas na ANVISA (números atualizados no resumo rápido), e” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | Removido: “(Exibidos os 5 primeiros de 8 registros.)” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Aldactone (spironolactone) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc) |
 
 <!-- review:end log -->

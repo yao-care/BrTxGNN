@@ -94,8 +94,6 @@ Para a indicação principal (resistência ao hormônio tireoidiano) não há li
 
 ## Informações de Comercialização no Brasil
 
-A lista abaixo mostra 5 dos pelo menos 20 registros; a lista completa pode estar incompleta.
-
 <!-- licenses:begin -->
 
 | Registro | Produto | Empresa detentora | Situação |
@@ -135,6 +133,12 @@ A tabela mostra até 30 registros (os ativos primeiro), de 436 registros nos dad
 
 <!-- licenses:end -->
 
+<!-- review:begin br-lic-20261124b-thiamine-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “A lista abaixo mostra 5 dos pelo menos 20 registros; a lista completa pode estar incompleta.” Removido: a afirmação de que a lista de registros seria parcial ou limitada a 20 não corresponde mais aos dados; a tabela desta seção é gerada por programa a partir dos dados abertos de medicamentos da ANVISA, e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-thiamine-1 -->
+
 ---
 
 ## Considerações de Segurança
@@ -155,6 +159,19 @@ Não há ensaio clínico nem publicação que estude a tiamina na resistência a
 - Obter e analisar as advertências e contraindicações da bula na ANVISA (lacuna bloqueante para a triagem de segurança).
 - Realizar revisão sistemática da literatura sobre tiamina e resistência ao hormônio tireoidiano, e sobre tiamina e glaucoma.
 - Para glaucoma, avaliar estudos pré-clínicos ou ensaios exploratórios de suplementação, antes de qualquer decisão de avanço.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-24 | Removido: “A lista abaixo mostra 5 dos pelo menos 20 registros; a lista completa pode estar incompleta.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

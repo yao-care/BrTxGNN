@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Droperidol"
 predicted_indications: ["Tourette syndrome", "trichotillomania", "manic bipolar affective disorder", "attention deficit hyperactivity disorder, inattentive type", "nephrogenic syndrome of inappropriate antidiuresis", "attention deficit-hyperactivity disorder", "headache disorder", "common cold", "hypertrichosis (disease)", "specific developmental disorder"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Droperidol: nova indicação prevista, Síndrome de Tourette (Tourette syndrome) (nível de evidência L5). No Brasil, registros na ANVISA: 3 (ativos: 2)"
 ---
 
@@ -72,11 +72,11 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-O Brasil tem 3 registros (2 válidos e 1 cancelado) para o droperidol. Os dados compilados não trazem o detalhamento dos registros (nome comercial, forma farmacêutica e texto de indicação), por isso a tabela é omitida.
+O Brasil tem registros válidos e cancelados (números atualizados no resumo rápido) para o droperidol. Os dados compilados não trazem o detalhamento dos registros (nome comercial, forma farmacêutica e texto de indicação), por isso a tabela é omitida.
 
 <!-- review:begin br-lic-20261112-droperidol-1 -->
 
-> **Correção de verificação (2026-11-12)**: Texto original: “O Brasil tem 4 registros (2 válidos e 2 cancelados)” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 3 registros para este medicamento, 2 válidos e 1 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “O Brasil tem 4 registros (2 válidos e 2 cancelados)” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261112-droperidol-1 -->
 
@@ -107,7 +107,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-12 | Registros: 4 (2 cancelados) → 3 (1 cancelado) | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “O Brasil tem 4 registros (2 válidos e 2 cancelados)” → “O Brasil tem registros válidos e cancelados (números atualizados no resumo rápido)” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte (revisado em 2026-11-20; versão anterior guardada no registro) | [ChEMBL CHEMBL1108 (droperidol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1108) |
 
 <!-- review:end log -->

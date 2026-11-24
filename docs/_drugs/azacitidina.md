@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 97
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 predicted_indications: []
 ---
 
@@ -87,9 +87,28 @@ O Evidence Pack está incompleto em itens bloqueantes: o pipeline TxGNN não ger
 
 - **[Crítico]** Re-executar o pipeline TxGNN para Azacitidina: verificar se o mapeamento DrugBank foi concluído e se o arquivo `repurposing_candidates.csv` contém entradas para este fármaco
 - **[Crítico]** Confirmar o DrugBank ID de Azacitidina via API (consulta registrada como `success` mas `drugbank_id` retornou `null`) e recuperar o mecanismo de ação detalhado
-- **[Bloqueante]** Coletar os detalhes dos 11 registros ANVISA: números de registro, nomes comerciais, formas farmacêuticas e textos das indicações aprovadas
+- **[Bloqueante]** Coletar os detalhes dos registros ANVISA: números de registro, nomes comerciais, formas farmacêuticas e textos das indicações aprovadas
 - **[Bloqueante]** Baixar e parsear a(s) bula(s) ANVISA para extrair advertências principais, contraindicações e posologia
 - **[Recomendado]** Investigar por que a consulta de DDI retornou `not_found` — tentar com variações do nome INN ("azacitidine", "5-azacytidine") e reprocessar
+
+<!-- review:begin br-lic-20261124b-azacitidina-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Coletar os detalhes dos 11 registros ANVISA” Corrigido: a premissa sobre o número ou a situação dos registros não correspondia aos dados abertos de medicamentos da ANVISA; o restante do texto não foi alterado, e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-azacitidina-1 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-24 | “Coletar os detalhes dos 11 registros ANVISA” → “Coletar os detalhes dos registros ANVISA” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

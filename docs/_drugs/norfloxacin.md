@@ -71,7 +71,13 @@ Atualmente não há literatura relacionada com a síndrome de hiperviscosidade p
 
 ## Informações de Comercialização no Brasil
 
-Dos registros listados (lista possivelmente parcial), 2 estão válidos e 18 cancelados. Abaixo, os registros válidos e alguns cancelados. Os registros não trazem forma farmacêutica nem texto de indicação aprovada.
+Os registros estão na tabela abaixo (os ativos primeiro); os números atualizados estão no resumo rápido. Os registros não trazem forma farmacêutica nem texto de indicação aprovada.
+
+<!-- review:begin br-lic-20261124b-norfloxacin-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Dos registros listados (lista possivelmente parcial), 2 estão válidos e 18 cancelados. Abaixo, os registros válidos e alguns cancelados.” Removido: a afirmação de que a lista de registros seria parcial ou limitada a 20 não corresponde mais aos dados; a tabela desta seção é gerada por programa a partir dos dados abertos de medicamentos da ANVISA, e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-norfloxacin-1 -->
 
 <!-- licenses:begin -->
 
@@ -137,11 +143,12 @@ A tabela mostra até 30 registros (os ativos primeiro), de 85 registros nos dado
 
 ## Registro de verificação
 
-Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte (revisado em 2026-11-20; versão anterior guardada no registro) | [ChEMBL CHEMBL9 (norfloxacin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL9) |
+| 2026-11-24 | “Dos registros listados (lista possivelmente parcial), 2 estão válidos e 18 cancelados. Abaixo, os registros…” → “Os registros estão na tabela abaixo (os ativos primeiro); os números atualizados estão no resumo rápido.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

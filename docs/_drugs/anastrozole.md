@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Anastrozole"
 predicted_indications: ["neuroblastoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "monocytic leukemia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Anastrozole: nova indicação prevista, neuroblastoma (nível de evidência L5). Indicação original: ANTINEOPLASICO"
 ---
 
@@ -64,7 +64,7 @@ Em resumo, a previsão deve ser tratada como hipótese computacional, sem respal
 
 ## Informações de Comercialização no Brasil
 
-Os dados compilados mostram situação de comercialização "Comercializado", com 18 registros listados como válidos. Os cinco principais registros:
+Os dados compilados mostram situação de comercialização "Comercializado", com 18 registros listados como válidos.
 
 <!-- licenses:begin -->
 
@@ -92,6 +92,12 @@ Os dados compilados mostram situação de comercialização "Comercializado", co
 | 122140042 | TROZOLET | ADIUM S.A. | Cancelado |
 
 <!-- licenses:end -->
+
+<!-- review:begin br-lic-20261124b-anastrozole-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Os cinco principais registros:” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-anastrozole-1 -->
 
 ## Citotoxicidade
 
@@ -125,11 +131,12 @@ Os dados compilados mostram situação de comercialização "Comercializado", co
 
 ## Registro de verificação
 
-Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Arimidex (anastrozole) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de) |
+| 2026-11-24 | Removido: “Os cinco principais registros:” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

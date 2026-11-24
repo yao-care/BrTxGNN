@@ -83,7 +83,13 @@ A hidrocortisona 1% é um corticosteroide de baixa potência. No ensaio randomiz
 
 ## Informações de Comercialização no Brasil
 
-A hidrocortisona consta como **comercializada** no Brasil. Os dados compilados registram 74 registros no total, dos quais 14 estão válidos e 60 cancelados. Alguns exemplos de registros de produtos com um único princípio ativo:
+A hidrocortisona consta como **comercializada** no Brasil. Os dados compilados registram 74 registros no total, dos quais 14 estão válidos e 60 cancelados. Alguns exemplos de registros:
+
+<!-- review:begin br-lic-20261124b-hydrocortisone-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Alguns exemplos de registros de produtos com um único princípio ativo:” Corrigido conforme os dados abertos de medicamentos da ANVISA: a tabela desta seção inclui todos os registros do medicamento (de princípio ativo único e em associação, válidos e cancelados), e não só os descritos na frase. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-hydrocortisone-1 -->
 
 <!-- licenses:begin -->
 
@@ -152,11 +158,12 @@ As advertências e contraindicações da bula não constam nos dados compilados.
 
 ## Registro de verificação
 
-Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Alkindi Sprinkle (hydrocortisone) prescribing information, Eton Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=26c13a5f-7119-4c6a-bf10-fda4e07d7682) |
+| 2026-11-24 | “Alguns exemplos de registros de produtos com um único princípio ativo:” → “Alguns exemplos de registros:” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

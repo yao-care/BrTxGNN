@@ -108,7 +108,11 @@ A tabela mostra até 30 registros (os ativos primeiro), de 32 registros nos dado
 
 <!-- licenses:end -->
 
-A lista mostra 5 dos 17 registros.
+<!-- review:begin br-lic-20261124b-histidine-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “A lista mostra 5 dos 17 registros.” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-histidine-1 -->
 
 ## Considerações de Segurança
 
@@ -128,6 +132,19 @@ Para advertências e contraindicações formais, consulte a bula.
 - Dados do mecanismo de ação da histidina e uma hipótese plausível ligando-a à motilidade gástrica
 - Estudos pré-clínicos ou clínicos que avaliem a histidina em gastroparesia
 - Bula da ANVISA com advertências e contraindicações, para triagem de segurança
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-24 | Removido: “A lista mostra 5 dos 17 registros.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

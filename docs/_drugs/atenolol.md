@@ -81,7 +81,13 @@ Nenhuma publicação estuda diretamente a doença renal hipertensiva maligna. Pa
 
 ## Informações de Comercialização no Brasil
 
-Foram listados 20 registros, mas o total é de pelo menos 20 e a lista pode ser parcial. Abaixo estão os registros válidos de medicamentos de componente único (os registros não trazem forma farmacêutica nem texto de indicação aprovada).
+Os registros não trazem forma farmacêutica nem texto de indicação aprovada.
+
+<!-- review:begin br-lic-20261124b-atenolol-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Foram listados 20 registros, mas o total é de pelo menos 20 e a lista pode ser parcial. Abaixo estão os registros válidos de medicamentos de componente único (os registros não trazem forma farmacêutica nem texto de indicação aprovada).” Removido: a afirmação de que a lista de registros seria parcial ou limitada a 20 não corresponde mais aos dados; a tabela desta seção é gerada por programa a partir dos dados abertos de medicamentos da ANVISA, e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-atenolol-1 -->
 
 <!-- licenses:begin -->
 
@@ -145,11 +151,12 @@ A tabela mostra até 30 registros (os ativos primeiro), de 128 registros nos dad
 
 ## Registro de verificação
 
-Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Tenormin (atenolol) prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6e850b1e-28a4-4ff8-8ed7-bb0b29faa28a) |
+| 2026-11-24 | “Foram listados 20 registros, mas o total é de pelo menos 20 e a lista pode ser parcial. Abaixo estão os…” → “Os registros não trazem forma farmacêutica nem texto de indicação aprovada.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

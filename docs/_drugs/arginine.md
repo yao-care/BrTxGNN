@@ -85,17 +85,17 @@ A relação com a indicação original é indireta: o uso aprovado é nutriciona
 
 ## Informações de Comercialização no Brasil
 
-Foram encontrados 94 registros, dos quais 27 estão válidos; o medicamento é comercializado no Brasil. Principais registros (30 de 94):
+Há registros válidos e cancelados na ANVISA (números atualizados no resumo rápido); o medicamento é comercializado no Brasil. Principais registros:
 
 <!-- review:begin br-lic-20261112-arginine-1 -->
 
-> **Correção de verificação (2026-11-19)**: Texto original: “Foram encontrados 18 registros, e os 18 estão válidos” Corrigido conforme os dados abertos de medicamentos da ANVISA (situação de 2026-11-16): 94 registros para este medicamento (incluindo os registros de aspartato e glutamato de arginina, cujas páginas foram unificadas com esta em 2026-11-19, e os registros em que a ANVISA escreve o princípio ativo como “l-arginina”), 27 válidos e 67 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “Foram encontrados 18 registros, e os 18 estão válidos” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261112-arginine-1 -->
 
 <!-- review:begin br-lic-20261112-arginine-2 -->
 
-> **Correção de verificação (2026-11-19)**: Texto original: “Principais registros (5 de 18):” Corrigido conforme a tabela desta seção e os dados abertos de medicamentos da ANVISA (situação de 2026-11-16): a tabela mostra 30 registros e há 94 registros para este medicamento (incluindo os registros de aspartato e glutamato de arginina, cujas páginas foram unificadas com esta em 2026-11-19, e os registros em que a ANVISA escreve o princípio ativo como “l-arginina”); a contagem antiga vinha de uma versão anterior dos dados (no máximo 20 registros). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “Principais registros (5 de 18):” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261112-arginine-2 -->
 
@@ -158,7 +158,7 @@ A previsão se apoia apenas em estudos pré-clínicos em roedores e em uma pontu
 
 <!-- review:begin br-lic-20261106-arginine-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Além disso, embora o medicamento seja comercializado no Brasil (18 registros válidos de 18), o perfil de segurança oficial não está disponível, o que impede a triagem de segurança.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 73 registros para este medicamento, 24 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “Além disso, embora o medicamento seja comercializado no Brasil (18 registros válidos de 18), o perfil de segurança oficial não está disponível, o que impede a triagem de segurança.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-arginine-1 -->
 
@@ -171,7 +171,7 @@ A previsão se apoia apenas em estudos pré-clínicos em roedores e em uma pontu
 
 <!-- review:begin br-lic-20261106-arginine-2 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Avaliar a viabilidade regulatória e comercial, dado que não há registro válido no Brasil” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 73 registros para este medicamento, 24 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “Avaliar a viabilidade regulatória e comercial, dado que não há registro válido no Brasil” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-arginine-2 -->
 
@@ -183,10 +183,10 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “(18 registros válidos de 18)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-06 | Removido: “dado que não há registro válido no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-19 | Registros: 18 (todos válidos) → 94 (27 válidos) | Corrigido (revisado em 2026-11-19; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-19 | Contagem exibida: “Principais registros (5 de 18” → “Principais registros (30 de 94” | Corrigido (revisado em 2026-11-19; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “(18 registros válidos de 18)” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “dado que não há registro válido no Brasil” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “Foram encontrados 18 registros, e os 18 estão válidos” → “Há registros válidos e cancelados na ANVISA (números atualizados no resumo rápido)” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “Principais registros (5 de 18):” → “Principais registros:” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

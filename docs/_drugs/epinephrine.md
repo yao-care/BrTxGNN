@@ -98,7 +98,7 @@ Foram priorizados ensaios randomizados e revisões sistemáticas.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 16 registros encontrados estão válidos; abaixo, os 5 principais.
+Todos os 16 registros encontrados estão válidos.
 
 <!-- licenses:begin -->
 
@@ -123,6 +123,12 @@ Todos os 16 registros encontrados estão válidos; abaixo, os 5 principais.
 
 <!-- licenses:end -->
 
+<!-- review:begin br-lic-20261124b-epinephrine-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “; abaixo, os 5 principais” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-epinephrine-1 -->
+
 ## Considerações de Segurança
 
 - **Contraindicações (com base no grafo de conhecimento, não em texto de bula)**: o grafo de conhecimento do TxGNN associa a epinefrina a contraindicações em diversas condições, entre elas: hipertensão, doença arterial coronariana, infarto do miocárdio, fibrilação atrial, doença cardiovascular, hipertireoidismo, diabetes mellitus e cetoacidose diabética, glaucoma de ângulo fechado, epilepsia, doença hepática e renal, hiperplasia prostática benigna, miastenia gravis e insuficiência respiratória.
@@ -145,7 +151,7 @@ Há vários ensaios de Phase 3 concluídos com epinefrina inalatória em asma, o
 
 <!-- review:begin br-lic-20261106-epinephrine-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Confirmar o mecanismo de ação em fonte consolidada (DrugBank). / Definir a situação regulatória: não há registro vigente no Brasil, e seria preciso verificar a via para uma formulação inalatória.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 16 registros para este medicamento, 16 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “Confirmar o mecanismo de ação em fonte consolidada (DrugBank). / Definir a situação regulatória: não há registro vigente no Brasil, e seria preciso verificar a via para uma formulação inalatória.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-epinephrine-1 -->
 
@@ -157,8 +163,9 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “Definir a situação regulatória: não há registro vigente no Brasil, e seria preciso verificar a via para uma formulação inalatória” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Definir a situação regulatória: não há registro vigente no Brasil, e seria preciso verificar a via para uma formulação inalatória” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Auvi-Q (epinephrine) prescribing information, Sportpharm LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f40988b-8365-4f7b-84d1-b88e053725cf) |
+| 2026-11-24 | Removido: “; abaixo, os 5 principais” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

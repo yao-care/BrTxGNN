@@ -100,7 +100,13 @@ Pessoas com HIV têm risco cardiovascular cerca de 50% maior do que pessoas sem 
 
 <!-- licenses:end -->
 
-Há 7 registros válidos de medicamento de ingrediente único; os 5 principais estão listados acima (os demais: 100431110, Pitavastatina Cálcica, e 109740346, Livalo).
+<!-- review:begin br-lic-20261124b-pitavastatin-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “; os 5 principais estão listados acima (os demais: 100431110, Pitavastatina Cálcica, e 109740346, Livalo)” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-pitavastatin-1 -->
+
+Há 7 registros válidos de medicamento de ingrediente único.
 
 ## Considerações de Segurança
 
@@ -129,11 +135,12 @@ Para advertências e contraindicações de bula, consulte a bula aprovada pela A
 
 ## Registro de verificação
 
-Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Livalo (pitavastatin calcium) prescribing information, Kowa Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=44dcbf97-99ec-427c-ba50-207e0069d6d2) |
+| 2026-11-24 | Removido: “; os 5 principais estão listados acima (os demais: 100431110, Pitavastatina Cálcica, e 109740346, Livalo)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 15
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 predicted_indications: []
 ---
 
@@ -79,7 +79,7 @@ A causa mais provável é a ausência de DrugBank ID no registro de entrada, imp
 
 <!-- review:begin br-lic-20261106-acalabrutinibe_monohydrate_maleate-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “O fármaco não possui registro regulatório no Brasil e o modelo TxGNN não gerou previsões de reposicionamento, tornando a análise de evidências inviável no momento. A causa mais provável é a ausência de DrugBank ID no registro de entrada, impedindo o mapeamento do fármaco ao grafo de conhecimento.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “O fármaco não possui registro regulatório no Brasil e o modelo TxGNN não gerou previsões de reposicionamento, tornando a análise de evidências inviável no momento. A causa mais provável é a ausência de DrugBank ID no registro de entrada, impedindo o mapeamento do fármaco ao grafo de conhecimento.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-acalabrutinibe_monohydrate_maleate-1 -->
 
@@ -91,7 +91,7 @@ A causa mais provável é a ausência de DrugBank ID no registro de entrada, imp
 
 <!-- review:begin br-lic-20261106-acalabrutinibe_monohydrate_maleate-2 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “**Recuperar dados regulatórios internacionais:** consultar FDA (NDA 210259) e EMA para caracterizar as indicações aprovadas globalmente e subsidiar a análise de indicação original / **Baixar e analisar bula de referência:** obter advertências, contraindicações e perfil de segurança completo de fontes internacionais, como medida paliativa à ausência de registro nacional (DG001)” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “**Recuperar dados regulatórios internacionais:** consultar FDA (NDA 210259) e EMA para caracterizar as indicações aprovadas globalmente e subsidiar a análise de indicação original / **Baixar e analisar bula de referência:** obter advertências, contraindicações e perfil de segurança completo de fontes internacionais, como medida paliativa à ausência de registro nacional (DG001)” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-acalabrutinibe_monohydrate_maleate-2 -->
 
@@ -103,8 +103,8 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “O fármaco não possui registro regulatório no Brasil e o modelo TxGNN não gerou previsões de reposicionamento, tornando a análise de evidênci” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-06 | Removido: “**Baixar e analisar bula de referência:** obter advertências, contraindicações e perfil de segurança completo de fontes internacionais, como” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “O fármaco não possui registro regulatório no Brasil e o modelo TxGNN não gerou previsões de reposicionamento, tornando a análise de evidênci” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “**Baixar e analisar bula de referência:** obter advertências, contraindicações e perfil de segurança completo de fontes internacionais, como” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

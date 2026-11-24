@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 502
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 predicted_indications: []
 ---
 
@@ -69,7 +69,7 @@ No entanto, esta análise apresentou três limitações críticas que impediram 
 
 <!-- review:begin br-lic-20261106-oxycodone_hydrochloride-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Sem ele, o modelo não consegue localizar o nó correspondente ao fármaco e, portanto, não produz previsões de reposicionamento. / **Nenhum registro encontrado na ANVISA**: A consulta ao banco de dados regulatório brasileiro com o termo exato "OXYCODONE HYDROCHLORIDE" retornou 0 resultados. Isso pode indicar que o fármaco está registrado sob grafia alternativa (por exemplo, "Oxicodona") ou que a consulta não cobriu todos os registros vigentes.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 5 registros para este medicamento, 4 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “Sem ele, o modelo não consegue localizar o nó correspondente ao fármaco e, portanto, não produz previsões de reposicionamento. / **Nenhum registro encontrado na ANVISA**: A consulta ao banco de dados regulatório brasileiro com o termo exato "OXYCODONE HYDROCHLORIDE" retornou 0 resultados. Isso pode indicar que o fármaco está registrado sob grafia alternativa (por exemplo, "Oxicodona") ou que a consulta não cobriu todos os registros vigentes.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-oxycodone_hydrochloride-1 -->
 
@@ -111,7 +111,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “2. **Nenhum registro encontrado na ANVISA**: A consulta ao banco de dados regulatório brasileiro com o termo exato "OXYCODONE HYDROCHLORIDE"” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “2. **Nenhum registro encontrado na ANVISA**: A consulta ao banco de dados regulatório brasileiro com o termo exato "OXYCODONE HYDROCHLORIDE"” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “TFDA/” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->

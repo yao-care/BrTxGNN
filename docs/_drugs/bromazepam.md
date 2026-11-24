@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 156
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bromazepam: nova indicação prevista, Enxaqueca (migraine disorder) (nível de evidência L5). Indicação original: Não informada nos dados compilados"
 monitor_inn: "BROMAZEPAM"
 predicted_indications: ["migraine disorder"]
@@ -74,7 +74,7 @@ A previsão se apoia apenas no modelo (nível L5), sem ensaios clínicos nem lit
 
 <!-- review:begin br-lic-20261106-bromazepam-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “A previsão se apoia apenas no modelo (nível L5), sem ensaios clínicos nem literatura. O fármaco não tem registro ativo no Brasil e o perfil de risco dos benzodiazepínicos pesa contra o uso na enxaqueca.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 55 registros para este medicamento, 13 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão se apoia apenas no modelo (nível L5), sem ensaios clínicos nem literatura. O fármaco não tem registro ativo no Brasil e o perfil de risco dos benzodiazepínicos pesa contra o uso na enxaqueca.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-bromazepam-1 -->
 
@@ -93,7 +93,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “O fármaco não tem registro ativo no Brasil e o perfil de risco dos benzodiazepínicos pesa contra o uso na enxaqueca” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “O fármaco não tem registro ativo no Brasil e o perfil de risco dos benzodiazepínicos pesa contra o uso na enxaqueca” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte (revisado em 2026-11-20; versão anterior guardada no registro) | [ChEMBL CHEMBL277062 (bromazepam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL277062) |
 
 <!-- review:end log -->

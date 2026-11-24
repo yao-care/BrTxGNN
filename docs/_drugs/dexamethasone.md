@@ -68,11 +68,11 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-Há registros válidos no Brasil, e o medicamento consta como comercializado. Foram identificados 83 registros válidos e 180 cancelados, dentro do total de 263 registros. Principais registros:
+Há registros válidos no Brasil, e o medicamento consta como comercializado. Os números atualizados de registros válidos e cancelados estão no resumo rápido. Principais registros:
 
 <!-- review:begin br-lic-20261113-dexamethasone-1 -->
 
-> **Correção de verificação (2026-11-13)**: Texto original: “Foram identificados 85 registros válidos e 178 cancelados” Segundo os dados abertos da ANVISA (2026-11-13), dos 263 registros de dexametasona, 83 estão ativos e 180 inativos (100431384 e 109630046 passaram a Inativo). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “Foram identificados 85 registros válidos e 178 cancelados” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261113-dexamethasone-1 -->
 
@@ -115,6 +115,12 @@ A tabela mostra até 30 registros (os ativos primeiro), de 263 registros nos dad
 
 <!-- licenses:end -->
 
+<!-- review:begin br-lic-20261124b-dexamethasone-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “, dentro do total de 263 registros” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-dexamethasone-1 -->
+
 ## Considerações de Segurança
 
 - **Interações Medicamentosas** (100 interações registradas; exemplos): 
@@ -144,9 +150,10 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-13 | Registros válidos: 85 → 83; cancelados: 178 → 180 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “Foram identificados 85 registros válidos e 178 cancelados” → “Os números atualizados de registros válidos e cancelados estão no resumo rápido” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-13 | Tabela: o registro 100431384 (KOIDEXA) está inativo | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Hemady (dexamethasone) prescribing information, Edenbridge Pharmaceuticals LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6b9cf32c-6d60-4853-bbfd-2304ffc2c129) |
+| 2026-11-24 | Removido: “, dentro do total de 263 registros” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

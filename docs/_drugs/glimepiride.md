@@ -66,7 +66,13 @@ Outras previsões do modelo seguem a mesma lógica (síndrome da pessoa rígida 
 
 ## Informações de Comercialização no Brasil
 
-Dos 13 registros encontrados, 13 estão válidos. Os 5 principais:
+Os registros estão na tabela abaixo (os ativos primeiro); os números atualizados estão no resumo rápido.
+
+<!-- review:begin br-lic-20261124b-glimepiride-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Dos 13 registros encontrados, 13 estão válidos. Os 5 principais:” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-glimepiride-1 -->
 
 <!-- licenses:begin -->
 
@@ -132,7 +138,7 @@ A previsão vem do modelo TxGNN (deep learning) (nível L5), sem ensaios clínic
 
 <!-- review:begin br-lic-20261031-glimepiride-1 -->
 
-> **Correção de verificação (2026-10-31)**: Texto original: “Esclarecimento da situação regulatória (registros cancelados) e da compatibilidade de vias de administração” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-10-31). Nos dados (dados abertos de medicamentos da ANVISA) constam 63 registros para este medicamento, 13 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-10-31)**: Texto original: “Esclarecimento da situação regulatória (registros cancelados) e da compatibilidade de vias de administração” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-10-31). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261031-glimepiride-1 -->
 
@@ -144,8 +150,9 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-10-31 | Removido: “(registros cancelados)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-10-31 | Removido: “(registros cancelados)” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Glimepiride 3 Mg (glimepiride) prescribing information, Lifsa Drugs LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=51157849-7990-4a8b-ae50-eda1baf93cfa) |
+| 2026-11-24 | “Dos 13 registros encontrados, 13 estão válidos. Os 5 principais:” → “Os registros estão na tabela abaixo (os ativos primeiro); os números atualizados estão no resumo rápido.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

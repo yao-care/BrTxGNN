@@ -79,7 +79,13 @@ A pontuação elevada (0,9996) reflete apenas a previsão do modelo. Também nã
 
 <!-- licenses:end -->
 
-Foram identificados 7 registros, dos quais 5 válidos e 2 cancelados; a tabela lista os 5 principais.
+<!-- review:begin br-lic-20261124b-agomelatina-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “; a tabela lista os 5 principais” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-agomelatina-1 -->
+
+Foram identificados 7 registros, dos quais 5 válidos e 2 cancelados.
 
 ## Considerações de Segurança
 
@@ -109,6 +115,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | 2026-11-06 | Removido: “Agomelatina é um fármaco psicotrópico comercializado no Brasil com **7 registros ativos** na ANVISA” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Verificar a fonte dos dados regulatórios: o `query_log` indica fonte `tfda` (Taiwan FDA) — confirmar se os registros correspondem efetivamen” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte (revisado em 2026-11-20; versão anterior guardada no registro) | [ChEMBL CHEMBL10878 (agomelatine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL10878) |
+| 2026-11-24 | Removido: “; a tabela lista os 5 principais” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

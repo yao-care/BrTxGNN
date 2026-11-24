@@ -64,11 +64,11 @@ Uma conexão indireta possível seria o suporte nutricional (enteral ou parenter
 
 ## Informações de Comercialização no Brasil
 
-Dos 33 registros, 15 estão válidos. São listados abaixo os 5 principais.
+Há registros válidos e cancelados (números atualizados no resumo rápido).
 
 <!-- review:begin br-lic-20261112-threonine-1 -->
 
-> **Correção de verificação (2026-11-12)**: Texto original: “Dos 17 registros encontrados, 17 estão válidos.” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 33 registros para este medicamento, 15 válidos e 18 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “Dos 17 registros encontrados, 17 estão válidos.” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261112-threonine-1 -->
 
@@ -111,6 +111,12 @@ A tabela mostra até 30 registros (os ativos primeiro), de 33 registros nos dado
 
 <!-- licenses:end -->
 
+<!-- review:begin br-lic-20261124b-threonine-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “São listados abaixo os 5 principais.” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-threonine-1 -->
+
 ## Considerações de Segurança
 
 - **Contraindicações (base de conhecimento TxGNN/PrimeKG, não extraídas da bula)**: fenilcetonúria e distúrbio do metabolismo da fenilalanina.
@@ -127,7 +133,7 @@ A previsão para gastroparesia tem apenas respaldo computacional (nível L5), se
 
 <!-- review:begin br-lic-20261106-threonine-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “O escore de 0.9932 vem do modelo TxGNN (deep learning) e pode refletir semelhanças aprendidas pelo modelo entre doenças relacionadas, não evidência biológica. O medicamento está comercializado no Brasil, com 17 registros válidos de 17.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 33 registros para este medicamento, 15 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “O escore de 0.9932 vem do modelo TxGNN (deep learning) e pode refletir semelhanças aprendidas pelo modelo entre doenças relacionadas, não evidência biológica. O medicamento está comercializado no Brasil, com 17 registros válidos de 17.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-threonine-1 -->
 
@@ -139,7 +145,7 @@ A previsão para gastroparesia tem apenas respaldo computacional (nível L5), se
 
 <!-- review:begin br-lic-20261106-threonine-2 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Esclarecimento da situação regulatória atual (medicamento comercializado, com 17 registros válidos de 17) e das vias de administração compatíveis com a nova indicação” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 33 registros para este medicamento, 15 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “Esclarecimento da situação regulatória atual (medicamento comercializado, com 17 registros válidos de 17) e das vias de administração compatíveis com a nova indicação” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-threonine-2 -->
 
@@ -151,9 +157,10 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “O medicamento está comercializado no Brasil, com 17 registros válidos de 17” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-06 | Removido: “(medicamento comercializado, com 17 registros válidos de 17)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Registros válidos: 17 de 17 → 15 de 33 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “O medicamento está comercializado no Brasil, com 17 registros válidos de 17” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “(medicamento comercializado, com 17 registros válidos de 17)” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “Dos 17 registros encontrados, 17 estão válidos.” → “Há registros válidos e cancelados (números atualizados no resumo rápido).” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | Removido: “São listados abaixo os 5 principais.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

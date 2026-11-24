@@ -84,7 +84,13 @@ Assim, a ligação é indireta e atribuível ao fármaco parceiro. A previsão �
 
 ## Informações de Comercialização no Brasil
 
-Os dados compilados indicam 9 registros e situação de comercialização "Comercializado".
+Os dados compilados indicam situação de comercialização "Comercializado"; os números atualizados de registros estão no resumo rápido.
+
+<!-- review:begin br-lic-20261124b-cilastatin-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Os dados compilados indicam 9 registros e situação de comercialização "Comercializado".” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-cilastatin-1 -->
 
 <!-- licenses:begin -->
 
@@ -114,7 +120,11 @@ Os dados compilados indicam 9 registros e situação de comercialização "Comer
 
 <!-- licenses:end -->
 
-Foram listados 5 dos 9 registros.
+<!-- review:begin br-lic-20261124b-cilastatin-2 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Foram listados 5 dos 9 registros.” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-cilastatin-2 -->
 
 ## Considerações de Segurança
 
@@ -139,11 +149,13 @@ Não há advertências nem contraindicações de bula nos dados compilados; cons
 
 ## Registro de verificação
 
-Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte (revisado em 2026-11-20; versão anterior guardada no registro) | [ChEMBL CHEMBL766 (cilastatin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL766) |
+| 2026-11-24 | “Os dados compilados indicam 9 registros e situação de comercialização "Comercializado".” → “Os dados compilados indicam situação de comercialização "Comercializado"; os números atualizados de registros…” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | Removido: “Foram listados 5 dos 9 registros.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

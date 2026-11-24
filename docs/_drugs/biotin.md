@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Biotin"
 predicted_indications: ["dyspepsia", "gastroparesis (disease)"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Biotin: nova indicação prevista, dispepsia (dyspepsia) (nível de evidência L5). No Brasil, registros na ANVISA: 78 (ativos: 8)"
 ---
 
@@ -78,7 +78,13 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Segundo os dados compilados, há pelo menos 2 registros válidos e 18 cancelados, e a lista de registros pode estar incompleta. Os detalhes dos registros serão adicionados pelo programa do site.
+Segundo os dados abertos de medicamentos da ANVISA, há registros válidos e cancelados (números atualizados no resumo rápido). Os detalhes dos registros serão adicionados pelo programa do site.
+
+<!-- review:begin br-lic-20261124b-biotin-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Segundo os dados compilados, há pelo menos 2 registros válidos e 18 cancelados, e a lista de registros pode estar incompleta.” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-biotin-1 -->
 
 ## Considerações de Segurança
 
@@ -98,6 +104,19 @@ Não foram encontradas interações medicamentosas nos dados consultados.
 - Levantar dados do mecanismo de ação da biotina e avaliar um vínculo plausível com a dispepsia
 - Realizar busca dirigida por estudos clínicos ou observacionais de biotina em dispepsia
 - Definir a via de administração e a forma farmacêutica compatíveis com a nova indicação
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-24 | “Segundo os dados compilados, há pelo menos 2 registros válidos e 18 cancelados, e a lista de registros pode…” → “Segundo os dados abertos de medicamentos da ANVISA, há registros válidos e cancelados (números atualizados no…” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

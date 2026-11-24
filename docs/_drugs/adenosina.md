@@ -64,7 +64,13 @@ Além disso, o termo da doença está marcado como obsoleto na ontologia, ou sej
 
 ## Informações de Comercialização no Brasil
 
-Há 23 registros no total, dos quais 5 válidos (4 de produto isolado e 1 em associação) e 18 cancelados. Os registros válidos de produto isolado estão listados abaixo; os dados locais não trazem forma farmacêutica nem texto de indicação aprovada.
+Há 23 registros no total, dos quais 5 válidos (4 de produto isolado e 1 em associação) e 18 cancelados. Os registros estão listados abaixo; os dados locais não trazem forma farmacêutica nem texto de indicação aprovada.
+
+<!-- review:begin br-lic-20261124b-adenosina-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Os registros válidos de produto isolado estão listados abaixo” Corrigido conforme os dados abertos de medicamentos da ANVISA: a tabela desta seção inclui todos os registros do medicamento (de princípio ativo único e em associação, válidos e cancelados), e não só os descritos na frase. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-adenosina-1 -->
 
 <!-- licenses:begin -->
 
@@ -124,6 +130,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | 2026-11-06 | Removido: “Adenosina é um nucleosídeo endógeno com presença consolidada no mercado brasileiro, contando com **20 registros ativos**” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “O fármaco possui **20 registros ativos** no mercado brasileiro, confirmando disponibilidade comercial ampla. Contudo, os detalhes individuai” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: adenosine prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9508caf5-0e3a-4d32-909d-bff7ea40ec30) |
+| 2026-11-24 | “Os registros válidos de produto isolado estão listados abaixo” → “Os registros estão listados abaixo” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

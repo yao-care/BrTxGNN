@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 671
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "vismodegib"
 predicted_indications: ["medulloblastoma with extensive nodularity", "xeroderma pigmentosum", "annular epidermolytic ichthyosis", "epidermolysis bullosa simplex with mottled pigmentation", "Brenner tumor", "cutaneous adenocystic carcinoma", "prostate leiomyoma", "benign neoplasm of sweat gland"]
 description: "Vismodegib: nova indicação prevista, Medulloblastoma with extensive nodularity (nível de evidência L5). Indicação original: ANTINEOPLASICO"
@@ -113,7 +113,7 @@ A disponibilidade deve ser verificada antes de qualquer iniciativa.
 
 <!-- review:begin br-lic-20261106-vismodegib-2 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “O único registro do vismodegibe na ANVISA consta como **cancelado**, portanto não há produto com registro válido no Brasil nos dados compilados. A disponibilidade deve ser verificada antes de qualquer iniciativa.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “O único registro do vismodegibe na ANVISA consta como **cancelado**, portanto não há produto com registro válido no Brasil nos dados compilados. A disponibilidade deve ser verificada antes de qualquer iniciativa.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-vismodegib-2 -->
 
@@ -143,7 +143,7 @@ O mecanismo é sólido (inibição de SMO em tumor dependente de Hedgehog) e há
 
 <!-- review:begin br-lic-20261106-vismodegib-3 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “O mecanismo é sólido (inibição de SMO em tumor dependente de Hedgehog) e há ensaios de Phase 2, diretrizes e revisões na área. Contudo, a indicação coincide com o uso oncológico original, o registro brasileiro está cancelado e não há dados de bula, então a decisão exige salvaguardas.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “O mecanismo é sólido (inibição de SMO em tumor dependente de Hedgehog) e há ensaios de Phase 2, diretrizes e revisões na área. Contudo, a indicação coincide com o uso oncológico original, o registro brasileiro está cancelado e não há dados de bula, então a decisão exige salvaguardas.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-vismodegib-3 -->
 
@@ -156,7 +156,7 @@ O mecanismo é sólido (inibição de SMO em tumor dependente de Hedgehog) e há
 
 <!-- review:begin br-lic-20261031-vismodegib-1 -->
 
-> **Correção de verificação (2026-10-31)**: Texto original: “Verificar a situação regulatória e a disponibilidade real do produto no Brasil (registro cancelado).” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-10-31). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-10-31)**: Texto original: “Verificar a situação regulatória e a disponibilidade real do produto no Brasil (registro cancelado).” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-10-31). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261031-vismodegib-1 -->
 
@@ -170,9 +170,9 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-10-31 | Removido: “(registro cancelado)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-06 | Removido: “O único registro do vismodegibe na ANVISA consta como **cancelado**, portanto não há produto com registro válido no Brasil nos dados compila” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-06 | Removido: “Contudo, a indicação coincide com o uso oncológico original, o registro brasileiro está cancelado e não há dados de bula, então a decisão ex” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-10-31 | Removido: “(registro cancelado)” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “O único registro do vismodegibe na ANVISA consta como **cancelado**, portanto não há produto com registro válido no Brasil nos dados compila” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Contudo, a indicação coincide com o uso oncológico original, o registro brasileiro está cancelado e não há dados de bula, então a decisão ex” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Erivedge (vismodegib) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eb368bb6-80e3-4df9-8a85-91df0a2ada6a) |
 
 <!-- review:end log -->

@@ -77,7 +77,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 11 registros encontrados estão válidos. Os 5 principais:
+Todos os 11 registros encontrados estão válidos.
 
 <!-- licenses:begin -->
 
@@ -97,6 +97,12 @@ Todos os 11 registros encontrados estão válidos. Os 5 principais:
 
 <!-- licenses:end -->
 
+<!-- review:begin br-lic-20261124b-potassium_iodide-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Os 5 principais:” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-potassium_iodide-1 -->
+
 ## Considerações de Segurança
 
 - **Condições associadas a contraindicação ou cautela (base de conhecimento do modelo, não texto de bula)**: hipertensão, insuficiência hepática e doença hepática, doença renal, epilepsia, doença pulmonar obstrutiva crônica, transtornos de ansiedade e neuróticos, distimia, transtornos psicóticos e esquizoafetivos, porfiria, pancreatite, doença da vesícula biliar, trombocitopenia, hipotireoidismo (incluindo mixedema e hipotireoidismo congênito), úlcera péptica, doença inflamatória intestinal, dermatite herpetiforme, diabetes mellitus e cetoacidose diabética.
@@ -114,7 +120,7 @@ Todos os 11 registros encontrados estão válidos. Os 5 principais:
 
 <!-- review:begin br-lic-20261106-potassium_iodide-2 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Apesar da pontuação TxGNN muito alta (0,9995), as evidências se limitam a quatro relatos de caso, três deles veterinários, sem ensaios clínicos e sem dados controlados em humanos. Além disso, o iodeto de potássio não tem registro válido no Brasil (todos os 11 estão cancelados) e as informações de segurança da bula estão ausentes, o que impede avançar para a triagem de segurança.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 11 registros para este medicamento, 11 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “Apesar da pontuação TxGNN muito alta (0,9995), as evidências se limitam a quatro relatos de caso, três deles veterinários, sem ensaios clínicos e sem dados controlados em humanos. Além disso, o iodeto de potássio não tem registro válido no Brasil (todos os 11 estão cancelados) e as informações de segurança da bula estão ausentes, o que impede avançar para a triagem de segurança.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-potassium_iodide-2 -->
 
@@ -127,7 +133,7 @@ Todos os 11 registros encontrados estão válidos. Os 5 principais:
 
 <!-- review:begin br-lic-20261031-potassium_iodide-1 -->
 
-> **Correção de verificação (2026-10-31)**: Texto original: “Avaliar a situação regulatória (registro cancelado) e a compatibilidade de via de administração e formulação.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-10-31). Nos dados (dados abertos de medicamentos da ANVISA) constam 11 registros para este medicamento, 11 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-10-31)**: Texto original: “Avaliar a situação regulatória (registro cancelado) e a compatibilidade de via de administração e formulação.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-10-31). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261031-potassium_iodide-1 -->
 
@@ -139,9 +145,10 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-10-31 | Removido: “(registro cancelado)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-06 | Removido: “Além disso, o iodeto de potássio não tem registro válido no Brasil (todos os 11 estão cancelados) e as informações de segurança da bula estã” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-10-31 | Removido: “(registro cancelado)” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Além disso, o iodeto de potássio não tem registro válido no Brasil (todos os 11 estão cancelados) e as informações de segurança da bula estã” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Potassium Iodide (Saturated) (potassium iodide) prescribing information, Emerald Therapeutics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0bdf305f-ed4a-49d1-8901-edaed8d67850) |
+| 2026-11-24 | Removido: “Os 5 principais:” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

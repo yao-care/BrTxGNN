@@ -82,11 +82,11 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Dos 13 registros encontrados, 12 estão válidos; o medicamento é comercializado. Principais registros:
+Há registros válidos e cancelados (números atualizados no resumo rápido); o medicamento é comercializado. Principais registros:
 
 <!-- review:begin br-lic-20261113-beclomethasone_dipropionate-1 -->
 
-> **Correção de verificação (2026-11-13)**: Texto original: “Os 13 registros encontrados estão válidos (13 de 13)” Segundo os dados abertos da ANVISA (2026-11-13), o registro 110130296 passou a Inativo; 12 dos 13 registros estão ativos. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “Os 13 registros encontrados estão válidos (13 de 13)” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261113-beclomethasone_dipropionate-1 -->
 
@@ -126,11 +126,11 @@ As advertências e contraindicações da bula brasileira não estavam disponíve
 **Decisão: Hold**
 
 **Justificativa:**
-- Não há ensaios clínicos registrados e a literatura é majoritariamente indireta ou voltada à segurança. A indicação é uma extensão dentro da classe dos corticosteroides, e não reposicionamento inovador. Além disso, o medicamento é comercializado no Brasil, com 12 registros válidos (de 13), mas faltam dados de bula, o que impede a triagem de segurança.
+- Não há ensaios clínicos registrados e a literatura é majoritariamente indireta ou voltada à segurança. A indicação é uma extensão dentro da classe dos corticosteroides, e não reposicionamento inovador. Além disso, o medicamento é comercializado no Brasil, com registros válidos na ANVISA (números atualizados no resumo rápido), mas faltam dados de bula, o que impede a triagem de segurança.
 
 <!-- review:begin br-lic-20261113-beclomethasone_dipropionate-2 -->
 
-> **Correção de verificação (2026-11-13)**: Texto original: “com 13 registros válidos (de 13)” Segundo os dados abertos da ANVISA (2026-11-13), 12 dos 13 registros estão ativos (110130296 passou a Inativo). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “com 13 registros válidos (de 13)” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261113-beclomethasone_dipropionate-2 -->
 
@@ -149,8 +149,8 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-13 | Registros válidos: 13 → 12 de 13 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-13 | Registros válidos: 13 → 12 de 13 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “Os 13 registros encontrados estão válidos (13 de 13)” → “Há registros válidos e cancelados (números atualizados no resumo rápido)” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “com 13 registros válidos (de 13)” → “com registros válidos na ANVISA (números atualizados no resumo rápido)” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Qnasl (beclomethasone dipropionate) prescribing information, Teva Respiratory, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4b8d8e84-b5d2-4e56-97ec-4f72971465c5) |
 
 <!-- review:end log -->

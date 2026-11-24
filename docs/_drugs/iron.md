@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "IRON"
 predicted_indications: ["vitamin B12- and folate-independent constitutional megaloblastic anemia", "non-syndromic esophageal malformation", "biotin metabolic disease", "vitamin deficiency disorder", "esophageal disease"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Iron: nova indicação prevista, Anemia megaloblástica constitucional independente de vitamina B12 e folato (vitamin B12- and folate-independent constit… (nível de evidência L5). Indicação original: Nã…"
 ---
 
@@ -62,11 +62,11 @@ Portanto, a plausibilidade biológica é baixa e a previsão deve ser tratada co
 
 ## Informações de Comercialização no Brasil
 
-O ferro está comercializado no Brasil, com pelo menos 3 registros válidos e 17 cancelados. Os dados disponíveis são parciais, portanto a lista de registros pode estar incompleta.
+O ferro está comercializado no Brasil, com registros válidos e cancelados. Os dados disponíveis são parciais, portanto a lista de registros pode estar incompleta.
 
 <!-- review:begin br-lic-20261112-iron-1 -->
 
-> **Correção de verificação (2026-11-12)**: Texto original: “com 4 registros válidos e 16 cancelados” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): pelo menos 20 registros para este medicamento, pelo menos 3 válidos e 17 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “com 4 registros válidos e 16 cancelados” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261112-iron-1 -->
 
@@ -100,7 +100,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-12 | Registros: 4 válidos e 16 cancelados → pelo menos 3 válidos e 17 cancelados | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “com 4 registros válidos e 16 cancelados” → “com registros válidos e cancelados” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

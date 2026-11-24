@@ -87,11 +87,11 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-O medicamento está comercializado. Os cinco principais:
+O medicamento está comercializado.
 
 <!-- review:begin br-lic-20261106-olanzapine-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Foram encontrados 20 registros válidos; o medicamento está comercializado.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 73 registros para este medicamento, 28 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “Foram encontrados 20 registros válidos; o medicamento está comercializado.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-olanzapine-1 -->
 
@@ -134,6 +134,12 @@ A tabela mostra até 30 registros (os ativos primeiro), de 73 registros nos dado
 
 <!-- licenses:end -->
 
+<!-- review:begin br-lic-20261124b-olanzapine-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Os cinco principais:” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-olanzapine-1 -->
+
 ## Considerações de Segurança
 
 - **Contraindicações/condições de risco (grafo de conhecimento, não texto de bula)**: o grafo de conhecimento do TxGNN associa a olanzapina a condições de cautela, entre elas:
@@ -154,7 +160,7 @@ A tabela mostra até 30 registros (os ativos primeiro), de 73 registros nos dado
 
 <!-- review:begin br-lic-20261106-olanzapine-2 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “A evidência para agorafobia é de nível L3: um estudo aberto pequeno em transtorno de pânico, relatos de caso e revisões, sem ensaios registrados nem dados específicos para agorafobia. Além disso, a olanzapina não tem registro vigente no Brasil e carrega riscos metabólicos relevantes.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 73 registros para este medicamento, 28 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “A evidência para agorafobia é de nível L3: um estudo aberto pequeno em transtorno de pânico, relatos de caso e revisões, sem ensaios registrados nem dados específicos para agorafobia. Além disso, a olanzapina não tem registro vigente no Brasil e carrega riscos metabólicos relevantes.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-olanzapine-2 -->
 
@@ -162,7 +168,13 @@ A tabela mostra até 30 registros (os ativos primeiro), de 73 registros nos dado
 - Obter a bula e as advertências/contraindicações oficiais da ANVISA (lacuna bloqueante para a triagem de segurança).
 - Complementar os dados de mecanismo de ação (por exemplo, via DrugBank).
 - Realizar ensaio controlado e randomizado em agorafobia/transtorno de pânico resistente, com avaliação de segurança metabólica.
-- Esclarecer a situação regulatória: confirmar a situação dos 20 registros vigentes e das apresentações comercializadas.
+- Esclarecer a situação regulatória: confirmar a situação dos registros vigentes e das apresentações comercializadas.
+
+<!-- review:begin br-lic-20261124b-olanzapine-2 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “confirmar a situação dos 20 registros vigentes” Corrigido: a premissa sobre o número ou a situação dos registros não correspondia aos dados abertos de medicamentos da ANVISA; o restante do texto não foi alterado, e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-olanzapine-2 -->
 
 <!-- review:begin log -->
 
@@ -172,9 +184,11 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “Foram encontrados 20 registros válidos; o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-06 | Removido: “Além disso, a olanzapina não tem registro vigente no Brasil e carrega riscos metabólicos relevantes” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Foram encontrados 20 registros válidos; o” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Além disso, a olanzapina não tem registro vigente no Brasil e carrega riscos metabólicos relevantes” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Weltruza (olanzapine) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a23e99c7-fb76-46d2-95af-e03d5a4d1f2c) |
+| 2026-11-24 | Removido: “Os cinco principais:” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “confirmar a situação dos 20 registros vigentes” → “confirmar a situação dos registros vigentes” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

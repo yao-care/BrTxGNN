@@ -62,17 +62,17 @@ No entanto, a entrada da doença está marcada como obsoleta na terminologia de 
 
 ## Informações de Comercialização no Brasil
 
-O fármaco consta como comercializado no Brasil, com 2 registros válidos e 9 cancelados, segundo os dados regulatórios compilados.
+O fármaco consta como comercializado no Brasil, com registros válidos e cancelados (números atualizados no resumo rápido), segundo os dados regulatórios compilados.
 
 <!-- review:begin br-lic-20261106-calcitriol-1 -->
 
-> **Correção de verificação (2026-11-24)**: Texto original: “O fármaco consta como comercializado no Brasil, com 2 registros válidos e 10 cancelados, segundo os dados regulatórios compilados. Os detalhes individuais dos registros não estão disponíveis nos dados deste relatório.” Removido: a afirmação contradizia os dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06; números atualizados em 2026-11-24). Nos dados (dados abertos de medicamentos da ANVISA) constam 11 registros para este medicamento, 2 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “O fármaco consta como comercializado no Brasil, com 2 registros válidos e 10 cancelados, segundo os dados regulatórios compilados. Os detalhes individuais dos registros não estão disponíveis nos dados deste relatório.” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-calcitriol-1 -->
 
 <!-- review:begin br-lic-20261112-calcitriol-1 -->
 
-> **Correção de verificação (2026-11-12)**: Texto original: “com 2 registros válidos e 10 cancelados” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 11 registros para este medicamento, 2 válidos e 9 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “com 2 registros válidos e 10 cancelados” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261112-calcitriol-1 -->
 
@@ -105,8 +105,8 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-24 | Removido: “Os detalhes individuais dos registros não estão disponíveis nos dados deste relatório” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Registros cancelados: 10 → 9 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “O fármaco consta como comercializado no Brasil, com 2 registros válidos e 10 cancelados, segundo os dados…” → “O fármaco consta como comercializado no Brasil, com registros válidos e cancelados (números atualizados no…” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “com 2 registros válidos e 10 cancelados” → “com registros válidos e cancelados (números atualizados no resumo rápido)” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: calcitriol prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=45f78bbe-4bbc-404d-a061-ead3db50908e) |
 
 <!-- review:end log -->

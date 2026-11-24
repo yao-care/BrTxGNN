@@ -82,7 +82,11 @@ Do ponto de vista biológico, reduzir a rinorreia, os espirros e a congestão na
 
 <!-- licenses:end -->
 
-A lista mostra apenas os 5 principais registros.
+<!-- review:begin br-lic-20261124b-carbinoxamina_maleate-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “A lista mostra apenas os 5 principais registros.” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-carbinoxamina_maleate-1 -->
 
 ## Considerações de Segurança
 
@@ -106,11 +110,12 @@ Consulte a bula para informações de segurança.
 
 ## Registro de verificação
 
-Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Carbzah (carbinoxamine maleate) prescribing information, IPG Pharmaceuticals, inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a845fc15-c675-4e33-840c-6a74e79d0ced) |
+| 2026-11-24 | Removido: “A lista mostra apenas os 5 principais registros.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

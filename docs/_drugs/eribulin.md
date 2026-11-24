@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 295
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Eribulin: nova indicação prevista, Febre familiar do Mediterrâneo autossômica recessiva (autosomal reces… (nível de evidência L5). Indicação original: Outros antineoplásicos"
 monitor_inn: "eribulin"
 predicted_indications: ["autosomal recessive familial Mediterranean fever", "dermatofibrosarcoma protuberans", "pleural mesothelioma", "malignant peritoneal mesothelioma", "pleural adenomatoid tumor", "pleural biphasic mesothelioma", "fibroblastic neoplasm", "pleural epithelioid mesothelioma", "heart fibrosarcoma"]
@@ -93,7 +93,13 @@ Para a direção alternativa (neoplasia fibroblástica):
 
 ## Informações de Comercialização no Brasil
 
-Os 3 registros (3 de 3) encontram-se **válidos**; o medicamento está comercializado.
+Há registros válidos e cancelados (números atualizados no resumo rápido); o medicamento está comercializado.
+
+<!-- review:begin br-lic-20261124b-eribulin-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Os 3 registros (3 de 3) encontram-se **válidos**” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-eribulin-1 -->
 
 <!-- licenses:begin -->
 
@@ -105,6 +111,12 @@ Os 3 registros (3 de 3) encontram-se **válidos**; o medicamento está comercial
 | 173100001 | HALAVEN | EISAI LABORATÓRIOS LTDA | Cancelado |
 
 <!-- licenses:end -->
+
+<!-- review:begin br-lic-20261124b-eribulin-2 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “os 3 registros estão válidos e” Corrigido: a premissa sobre o número ou a situação dos registros não correspondia aos dados abertos de medicamentos da ANVISA; o restante do texto não foi alterado, e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-eribulin-2 -->
 
 ## Citotoxicidade
 
@@ -135,18 +147,20 @@ Informações de advertências e contraindicações da bula não estão disponí
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois a triagem de segurança não pode avançar sem esses dados.
 - Complementar os dados de mecanismo de ação (por exemplo, via DrugBank).
 - Obter os resultados do estudo ERASING (NCT03840772) para avaliar eficácia na neoplasia fibroblástica.
-- Confirmar a situação regulatória: os 3 registros estão válidos e o medicamento é comercializado.
+- Confirmar a situação regulatória: o medicamento é comercializado.
 - Para as demais indicações previstas (mesoteliomas, sarcomas, DFSP), buscar evidências clínicas específicas antes de qualquer avanço.
 
 <!-- review:begin log -->
 
 ## Registro de verificação
 
-Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Halaven (eribulin mesylate) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=31ce4750-ded5-4a0b-95e9-f229fa6bc822) |
+| 2026-11-24 | “Os 3 registros (3 de 3) encontram-se **válidos**” → “Há registros válidos e cancelados (números atualizados no resumo rápido)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | Removido: “os 3 registros estão válidos e” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

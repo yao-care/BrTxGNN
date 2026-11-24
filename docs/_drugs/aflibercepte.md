@@ -77,7 +77,13 @@ Apesar da pontuação alta, a injeção intraocular de anti-VEGF não é um trat
 
 <!-- licenses:end -->
 
-Há 6 registros no total, dos quais 5 estão válidos e 1 cancelado (um registro antigo do ZALTRAP, omitido da tabela acima).
+Há 6 registros no total, dos quais 5 estão válidos e 1 cancelado (um registro antigo do ZALTRAP).
+
+<!-- review:begin br-lic-20261124b-aflibercepte-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “(um registro antigo do ZALTRAP, omitido da tabela acima)” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-aflibercepte-1 -->
 
 ## Considerações de Segurança
 
@@ -107,6 +113,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 |------|------|------|------|
 | 2026-11-06 | Removido: “Aflibercepte (AFLIBERCEPTE) é um fármaco atualmente comercializado no Brasil com 4 registros ativos na ANVISA” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Pavblu (aflibercept-ayyh) prescribing information, Amgen, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c61062f3-80ec-4a20-8c28-46e468592a06) |
+| 2026-11-24 | “(um registro antigo do ZALTRAP, omitido da tabela acima)” → “(um registro antigo do ZALTRAP)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

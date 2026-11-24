@@ -64,11 +64,11 @@ Por isso, esta previsão deve ser tratada como uma hipótese não sustentada, e 
 
 ## Informações de Comercialização no Brasil
 
-Segundo os dados compilados, há registros válidos de aztreonam de agente único no Brasil, e a situação geral é de comercialização. Dos 12 registros, 2 estão válidos e 10 cancelados.
+Segundo os dados compilados, há registros válidos de aztreonam de agente único no Brasil, e a situação geral é de comercialização. Os números atualizados de registros válidos e cancelados estão no resumo rápido.
 
 <!-- review:begin br-lic-20261112-aztreonam-1 -->
 
-> **Correção de verificação (2026-11-24)**: Texto original: “Dos 11 registros, 3 estão válidos e 8 cancelados.” Corrigido conforme os dados abertos de medicamentos da ANVISA (situação de 2026-11-23): 12 registros para este medicamento, 2 válidos e 10 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “Dos 11 registros, 3 estão válidos e 8 cancelados.” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261112-aztreonam-1 -->
 
@@ -117,7 +117,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-24 | Registros: 11 (8 cancelados) → 12 (10 cancelados) | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “Dos 11 registros, 3 estão válidos e 8 cancelados.” → “Os números atualizados de registros válidos e cancelados estão no resumo rápido.” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: aztreonam prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d4500795-3b07-4a7d-b432-73cafbb3dbc6) |
 
 <!-- review:end log -->

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 105
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Baclofen: nova indicação prevista, Transtorno de déficit de atenção e hiperatividade (Attention Deficit-… (nível de evidência L5). Indicação original: Não disponível"
 monitor_inn: "Baclofen"
 predicted_indications: ["attention deficit-hyperactivity disorder", "nicotine dependence"]
@@ -43,7 +43,7 @@ O modelo TxGNN prevê que pode ser eficaz para o **transtorno de déficit de ate
 
 <!-- review:begin br-lic-20261106-baclofen-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Não há indicação original registrada nos dados compiladados para este relatório. O medicamento é comercializado neste país, com 4 de 7 registros válidos.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 6 registros para este medicamento, 4 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “Não há indicação original registrada nos dados compiladados para este relatório. O medicamento é comercializado neste país, com 4 de 7 registros válidos.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-baclofen-1 -->
 
@@ -103,7 +103,7 @@ Consulte a bula para as advertências e contraindicações oficiais, que não es
 
 <!-- review:begin br-lic-20261106-baclofen-2 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Para TDAH, não há ensaios clínicos nem estudos em humanos com baclofeno; a evidência é indireta e pré-clínica (L4). / O baclofeno não tem registro ativo no Brasil, e as contraindicações do grafo de conhecimento incluem transtornos psiquiátricos, o que exige cautela adicional.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 6 registros para este medicamento, 4 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “Para TDAH, não há ensaios clínicos nem estudos em humanos com baclofeno; a evidência é indireta e pré-clínica (L4). / O baclofeno não tem registro ativo no Brasil, e as contraindicações do grafo de conhecimento incluem transtornos psiquiátricos, o que exige cautela adicional.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-baclofen-2 -->
 
@@ -129,8 +129,8 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “O medicamento é comercializado neste país, com 4 de 7 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-06 | Removido: “O baclofeno não tem registro ativo no Brasil, e as contraindicações do grafo de conhecimento incluem transtornos psiquiátricos, o que exige ” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “O medicamento é comercializado neste país, com 4 de 7 registros válidos” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “O baclofeno não tem registro ativo no Brasil, e as contraindicações do grafo de conhecimento incluem transtornos psiquiátricos, o que exige ” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Lyvispah (baclofen) prescribing information, Anvi Pharmaceuticals Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5b13c40d-a109-f838-e063-6294a90aecf2) |
 
 <!-- review:end log -->

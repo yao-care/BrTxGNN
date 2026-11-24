@@ -21,11 +21,11 @@
   "items_current": 6430
  },
  "reviews": {
-  "records": 1107,
-  "pages": 520,
-  "public_pages_with_records": 484,
+  "records": 1219,
+  "pages": 533,
+  "public_pages_with_records": 496,
   "by_action": {
-   "correct": 695,
+   "correct": 807,
    "mechanism": 412
   }
  },
@@ -49,7 +49,7 @@
    "l": "L5",
    "lt": 496,
    "lv": 171,
-   "r": 2,
+   "r": 3,
    "i": "rheumatoid arthritis"
   },
   {
@@ -58,7 +58,7 @@
    "l": "L5",
    "lt": 359,
    "lv": 122,
-   "r": 1,
+   "r": 2,
    "i": "síndrome de hiperviscosidade policlonal"
   },
   {
@@ -85,7 +85,7 @@
    "l": "L5",
    "lt": 263,
    "lv": 83,
-   "r": 3,
+   "r": 4,
    "i": "alopecia mucinosa"
   },
   {
@@ -157,6 +157,15 @@
  "no_current_more": 0,
  "most_reviewed": [
   {
+   "t": "Phenytoin",
+   "u": "/drugs/phenytoin/",
+   "l": "L5",
+   "lt": 12,
+   "lv": 12,
+   "r": 8,
+   "i": "Neoplasia do nervo trigêmeo"
+  },
+  {
    "t": "Doxycycline",
    "u": "/drugs/doxycycline/",
    "l": "L5",
@@ -164,6 +173,15 @@
    "lv": 4,
    "r": 7,
    "i": "punctate epithelial keratoconjunctivitis"
+  },
+  {
+   "t": "Hydrocortisone Acetate",
+   "u": "/drugs/hydrocortisone-acetate/",
+   "l": "L2",
+   "lt": 6,
+   "lv": 6,
+   "r": 7,
+   "i": "alopecia areata"
   },
   {
    "t": "Lenalidomida",
@@ -175,13 +193,13 @@
    "i": "Leucemia mieloide"
   },
   {
-   "t": "Phenytoin",
-   "u": "/drugs/phenytoin/",
+   "t": "Levometionina",
+   "u": "/drugs/levometionina/",
    "l": "L5",
-   "lt": 12,
-   "lv": 12,
+   "lt": 88,
+   "lv": 21,
    "r": 7,
-   "i": "Neoplasia do nervo trigêmeo"
+   "i": "Acne"
   },
   {
    "t": "Estradiol Cypionate",
@@ -191,24 +209,6 @@
    "lv": 4,
    "r": 6,
    "i": "symptomatic form of fragile X syndrome in female carrier"
-  },
-  {
-   "t": "Hydrocortisone Acetate",
-   "u": "/drugs/hydrocortisone-acetate/",
-   "l": "L2",
-   "lt": 6,
-   "lv": 6,
-   "r": 6,
-   "i": "alopecia areata"
-  },
-  {
-   "t": "Levometionina",
-   "u": "/drugs/levometionina/",
-   "l": "L5",
-   "lt": 88,
-   "lv": 21,
-   "r": 6,
-   "i": "Acne"
   }
  ],
  "example": {
@@ -222,198 +222,198 @@
  },
  "recent_reviews": [
   {
-   "t": "Rivastigmine",
-   "u": "/drugs/rivastigmine/",
-   "s": "Registros válidos: “todos os 17” → 18 de 42",
+   "t": "Vancomycin",
+   "u": "/drugs/vancomycin/",
+   "s": "“os 10 registros estão válidos (10 de 10)” → “há registros válidos e cancelados (números atualizados no…",
    "d": "2026-11-24"
   },
   {
-   "t": "Procaine",
-   "u": "/drugs/procaine/",
-   "s": "Registros válidos: 4 de 4 → 7 de 40",
+   "t": "Valine",
+   "u": "/drugs/valine/",
+   "s": "Removido: “São listados os 5 principais:”",
    "d": "2026-11-24"
   },
   {
-   "t": "Mometasone",
-   "u": "/drugs/mometasone/",
-   "s": "Registros vigentes: 9 de 9 → 26 de 58",
+   "t": "Topiramate",
+   "u": "/drugs/topiramate/",
+   "s": "Removido: “Há outros 15 registros cancelados (por exemplo, Toduze, Ritop, Têmpora e Vidmax), todos com a…",
    "d": "2026-11-24"
-  },
-  {
-   "t": "Aztreonam",
-   "u": "/drugs/aztreonam/",
-   "s": "Registros: 11 (8 cancelados) → 12 (10 cancelados)",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Spironolactone",
-   "u": "/drugs/spironolactone/",
-   "s": "Removido: “Todos os 8 registros estão válidos; o”",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Calcitriol",
-   "u": "/drugs/calcitriol/",
-   "s": "Removido: “Os detalhes individuais dos registros não estão disponíveis nos dados deste relatório”",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Levometionina",
-   "u": "/drugs/levometionina/",
-   "s": "“os registros ativos são de nutrição parenteral” → em sua maioria (16 de 21)",
-   "d": "2026-11-19"
-  },
-  {
-   "t": "Arginine",
-   "u": "/drugs/arginine/",
-   "s": "Contagem exibida: “Principais registros (5 de 18” → “Principais registros (30 de 94”",
-   "d": "2026-11-19"
-  },
-  {
-   "t": "Sodium Carbonate",
-   "u": "/drugs/sodium-carbonate/",
-   "s": "Registros válidos: “ausência” → 9 de 10",
-   "d": "2026-11-17"
-  },
-  {
-   "t": "Pheniramine",
-   "u": "/drugs/pheniramine/",
-   "s": "Registros válidos: 7 → 6 de 7",
-   "d": "2026-11-13"
-  },
-  {
-   "t": "Dexamethasone",
-   "u": "/drugs/dexamethasone/",
-   "s": "Registros válidos: 85 → 83; cancelados: 178 → 180",
-   "d": "2026-11-13"
-  },
-  {
-   "t": "Beclomethasone Dipropionate",
-   "u": "/drugs/beclomethasone-dipropionate/",
-   "s": "Registros válidos: 13 → 12 de 13",
-   "d": "2026-11-13"
-  },
-  {
-   "t": "Trimethoprim",
-   "u": "/drugs/trimethoprim/",
-   "s": "Registros válidos: “todos os 20” → 23 de 111",
-   "d": "2026-11-12"
   },
   {
    "t": "Threonine",
    "u": "/drugs/threonine/",
-   "s": "Registros válidos: 17 de 17 → 15 de 33",
-   "d": "2026-11-12"
+   "s": "Removido: “São listados abaixo os 5 principais.”",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Thiamine",
+   "u": "/drugs/thiamine/",
+   "s": "Removido: “A lista abaixo mostra 5 dos pelo menos 20 registros; a lista completa pode estar incompleta.”",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Tetracycline",
+   "u": "/drugs/tetracycline/",
+   "s": "Removido: “Observação: todos os 10 registros encontrados têm licença válida atualmente. Os cinco acima são…",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Tetracaine",
+   "u": "/drugs/tetracaine/",
+   "s": "“Os 5 registros brasileiros estão válidos e o medicamento é comercializado.” → “O medicamento é…",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Terbutalina Sulfate",
+   "u": "/drugs/terbutalina-sulfate/",
+   "s": "Removido: “Há ainda um registro cancelado, não listado acima.”",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Tenoxicam",
+   "u": "/drugs/tenoxicam/",
+   "s": "Removido: “Foram listados 5 dos pelo menos 20 registros localizados (a lista pode estar incompleta).”",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Tenofovir Alafenamide",
+   "u": "/drugs/tenofovir-alafenamide/",
+   "s": "Removido: “; os 4 registros constam como válidos (4 de 4)”",
+   "d": "2026-11-24"
   },
   {
    "t": "Sulfamethoxazole",
    "u": "/drugs/sulfamethoxazole/",
-   "s": "Registros válidos: “todos os 20” → 23 de 112",
-   "d": "2026-11-12"
-  },
-  {
-   "t": "Sodium Acetate",
-   "u": "/drugs/sodium-acetate/",
-   "s": "Contagem exibida: “Principais registros (5 de 20” → “Principais registros (30 de 41”",
-   "d": "2026-11-12"
+   "s": "Removido: “Abaixo, os 5 principais:”",
+   "d": "2026-11-24"
   },
   {
    "t": "Ropivacaine",
    "u": "/drugs/ropivacaine/",
-   "s": "Registros válidos: “todos os 8” → 7 de 13",
-   "d": "2026-11-12"
+   "s": "Removido: “Existem ainda outros 3 registros cancelados (NAROPIN, HYROVI e ROPI), não listados por limite de 5…",
+   "d": "2026-11-24"
   },
   {
-   "t": "Orlistat",
-   "u": "/drugs/orlistat/",
-   "s": "Contagem exibida: “Principais registros (5 de 20” → “Principais registros (30 de 41”",
-   "d": "2026-11-12"
+   "t": "Rivastigmine",
+   "u": "/drugs/rivastigmine/",
+   "s": "Removido: “Abaixo, os 5 principais:”",
+   "d": "2026-11-24"
   },
   {
-   "t": "Mirtazapine",
-   "u": "/drugs/mirtazapine/",
-   "s": "Registros: “todos os 20 cancelados” → 36 registros, 30 válidos",
-   "d": "2026-11-12"
+   "t": "Ritonavir",
+   "u": "/drugs/ritonavir/",
+   "s": "“Abaixo, os registros válidos de ritonavir isolado; o registro” → “Na tabela abaixo, o registro”",
+   "d": "2026-11-24"
   },
   {
-   "t": "Metamizole",
-   "u": "/drugs/metamizole/",
-   "s": "Registros válidos: “todos os 20” → 171 de 496",
-   "d": "2026-11-12"
+   "t": "Riluzole",
+   "u": "/drugs/riluzole/",
+   "s": "“Principais registros válidos:” → “Principais registros:”",
+   "d": "2026-11-24"
   },
   {
-   "t": "Memantine",
-   "u": "/drugs/memantine/",
-   "s": "Contagem exibida: “Principais registros (5 de 20” → “Principais registros (30 de 58”",
-   "d": "2026-11-12"
+   "t": "Ramipril",
+   "u": "/drugs/ramipril/",
+   "s": "Removido: “A lista abaixo mostra apenas os registros válidos. Há pelo menos 20 registros no total e a lista…",
+   "d": "2026-11-24"
   },
   {
-   "t": "Levofloxacina",
-   "u": "/drugs/levofloxacina/",
-   "s": "Registros: 4 → 78 (38 válidos)",
-   "d": "2026-11-12"
+   "t": "Progesterone",
+   "u": "/drugs/progesterone/",
+   "s": "Removido: “Abaixo estão cinco dos registros válidos de produto de princípio ativo único.”",
+   "d": "2026-11-24"
   },
   {
-   "t": "Isoleucine",
-   "u": "/drugs/isoleucine/",
-   "s": "Contagem exibida: “Principais registros (5 de 16” → “Principais registros (30 de 31”",
-   "d": "2026-11-12"
+   "t": "Prilocaine",
+   "u": "/drugs/prilocaine/",
+   "s": "Removido: “Os 5 registros brasileiros (5 de 5) estão válidos.”",
+   "d": "2026-11-24"
   },
   {
-   "t": "Iron",
-   "u": "/drugs/iron/",
-   "s": "Registros: 4 válidos e 16 cancelados → pelo menos 3 válidos e 17 cancelados",
-   "d": "2026-11-12"
+   "t": "Prednisone",
+   "u": "/drugs/prednisone/",
+   "s": "Removido: “Abaixo, os principais registros válidos.”",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Potassium Iodide",
+   "u": "/drugs/potassium-iodide/",
+   "s": "Removido: “Os 5 principais:”",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Potassium",
+   "u": "/drugs/potassium/",
+   "s": "Removido: “(Há um sexto registro cancelado, MATURE, nº 177940035, com a indicação de vitaminas ou minerais…",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Pitavastatin",
+   "u": "/drugs/pitavastatin/",
+   "s": "Removido: “; os 5 principais estão listados acima (os demais: 100431110, Pitavastatina Cálcica, e 109740346…",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Phenytoin",
+   "u": "/drugs/phenytoin/",
+   "s": "“Principais registros (máximo de 5):” → “Principais registros:”",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Phenylalanine",
+   "u": "/drugs/phenylalanine/",
+   "s": "Removido: “São listados os 5 principais:”",
+   "d": "2026-11-24"
   }
  ],
  "recent_licence_reviews": [
   {
-   "t": "Rivastigmine",
-   "u": "/drugs/rivastigmine/",
-   "s": "Registros válidos: “todos os 17” → 18 de 42",
+   "t": "Vancomycin",
+   "u": "/drugs/vancomycin/",
+   "s": "“os 10 registros estão válidos (10 de 10)” → “há registros válidos e cancelados (números atualizados no…",
    "d": "2026-11-24"
   },
   {
-   "t": "Procaine",
-   "u": "/drugs/procaine/",
-   "s": "Registros válidos: 4 de 4 → 7 de 40",
+   "t": "Valine",
+   "u": "/drugs/valine/",
+   "s": "Removido: “São listados os 5 principais:”",
    "d": "2026-11-24"
   },
   {
-   "t": "Mometasone",
-   "u": "/drugs/mometasone/",
-   "s": "Registros vigentes: 9 de 9 → 26 de 58",
+   "t": "Topiramate",
+   "u": "/drugs/topiramate/",
+   "s": "Removido: “Há outros 15 registros cancelados (por exemplo, Toduze, Ritop, Têmpora e Vidmax), todos com a…",
    "d": "2026-11-24"
   },
   {
-   "t": "Aztreonam",
-   "u": "/drugs/aztreonam/",
-   "s": "Registros: 11 (8 cancelados) → 12 (10 cancelados)",
+   "t": "Threonine",
+   "u": "/drugs/threonine/",
+   "s": "Removido: “São listados abaixo os 5 principais.”",
    "d": "2026-11-24"
   },
   {
-   "t": "Spironolactone",
-   "u": "/drugs/spironolactone/",
-   "s": "Removido: “Todos os 8 registros estão válidos; o”",
+   "t": "Thiamine",
+   "u": "/drugs/thiamine/",
+   "s": "Removido: “A lista abaixo mostra 5 dos pelo menos 20 registros; a lista completa pode estar incompleta.”",
    "d": "2026-11-24"
   },
   {
-   "t": "Calcitriol",
-   "u": "/drugs/calcitriol/",
-   "s": "Removido: “Os detalhes individuais dos registros não estão disponíveis nos dados deste relatório”",
+   "t": "Tetracycline",
+   "u": "/drugs/tetracycline/",
+   "s": "Removido: “Observação: todos os 10 registros encontrados têm licença válida atualmente. Os cinco acima são…",
    "d": "2026-11-24"
   },
   {
-   "t": "Levometionina",
-   "u": "/drugs/levometionina/",
-   "s": "“os registros ativos são de nutrição parenteral” → em sua maioria (16 de 21)",
-   "d": "2026-11-19"
+   "t": "Tetracaine",
+   "u": "/drugs/tetracaine/",
+   "s": "“Os 5 registros brasileiros estão válidos e o medicamento é comercializado.” → “O medicamento é…",
+   "d": "2026-11-24"
   },
   {
-   "t": "Arginine",
-   "u": "/drugs/arginine/",
-   "s": "Contagem exibida: “Principais registros (5 de 18” → “Principais registros (30 de 94”",
-   "d": "2026-11-19"
+   "t": "Terbutalina Sulfate",
+   "u": "/drugs/terbutalina-sulfate/",
+   "s": "Removido: “Há ainda um registro cancelado, não listado acima.”",
+   "d": "2026-11-24"
   }
  ],
  "files": {

@@ -95,11 +95,11 @@ Para advertências e contraindicações, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão para hipertricose é apoiada apenas pelo modelo (L5), sem ensaios clínicos nem literatura, e não há vínculo mecanístico plausível. Além disso, dos 4 registros no Brasil, 3 estão válidos e 1 cancelado.
+A previsão para hipertricose é apoiada apenas pelo modelo (L5), sem ensaios clínicos nem literatura, e não há vínculo mecanístico plausível. Além disso, há registros válidos e cancelados no Brasil (números atualizados no resumo rápido).
 
 <!-- review:begin br-lic-20261112-ganirelix-1 -->
 
-> **Correção de verificação (2026-11-12)**: Texto original: “os três registros no Brasil estão cancelados, o que limita a viabilidade regulatória imediata.” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 4 registros para este medicamento, 3 válidos e 1 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “os três registros no Brasil estão cancelados, o que limita a viabilidade regulatória imediata.” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261112-ganirelix-1 -->
 
@@ -118,7 +118,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-12 | Registros: “os três estão cancelados” → 4 registros, 3 válidos | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “os três registros no Brasil estão cancelados, o que limita a viabilidade regulatória imediata.” → “há registros válidos e cancelados no Brasil (números atualizados no resumo rápido).” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

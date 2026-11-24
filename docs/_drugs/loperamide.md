@@ -88,7 +88,13 @@ Para a indicação principal (conjuntivite contagiosa aguda) não há literatura
 
 ## Informações de Comercialização no Brasil
 
-Os 8 registros estão válidos (8 de 8); o medicamento está comercializado atualmente.
+Há registros válidos e cancelados (números atualizados no resumo rápido); o medicamento está comercializado atualmente.
+
+<!-- review:begin br-lic-20261124b-loperamide-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Os 8 registros estão válidos (8 de 8)” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-loperamide-1 -->
 
 <!-- licenses:begin -->
 
@@ -118,7 +124,11 @@ Os 8 registros estão válidos (8 de 8); o medicamento está comercializado atua
 
 <!-- licenses:end -->
 
-Há outros 3 registros cancelados (nº 100470525, 105350156 e 117170026), não listados por limite de 5 registros.
+<!-- review:begin br-lic-20261124b-loperamide-2 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Há outros 3 registros cancelados (nº 100470525, 105350156 e 117170026), não listados por limite de 5 registros.” Removido: entre os registros citados como cancelados há registros que constam como ativos nos dados abertos de medicamentos da ANVISA (situação de 2026-11-23); a tabela de registros desta seção agora é gerada por programa a partir desses dados (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-loperamide-2 -->
 
 ---
 
@@ -150,11 +160,13 @@ Consulte a bula para as demais informações de segurança.
 
 ## Registro de verificação
 
-Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: loperamide hydrochloride prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=74b9893a-18c3-4117-85c2-edab8e7b3b3b) |
+| 2026-11-24 | “Os 8 registros estão válidos (8 de 8)” → “Há registros válidos e cancelados (números atualizados no resumo rápido)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | Removido: “Há outros 3 registros cancelados (nº 100470525, 105350156 e 117170026), não listados por limite de 5 registros.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

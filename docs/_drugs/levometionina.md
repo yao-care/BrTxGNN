@@ -75,11 +75,11 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Há registros ativos apenas de produtos que associam a levometionina a outros componentes (16 soluções de nutrição parenteral, 3 associações de metionina com colina e betaína, 1 associação de vitaminas e minerais com ginseng e 1 produto oftálmico); nenhum registro de produto com a levometionina isolada está válido. Os dados locais não trazem texto de indicação aprovada para esses registros. Dos 88 registros, 21 estão válidos e 67 cancelados. Os principais registros válidos:
+Há registros ativos apenas de produtos que associam a levometionina a outros componentes (16 soluções de nutrição parenteral, 3 associações de metionina com colina e betaína, 1 associação de vitaminas e minerais com ginseng e 1 produto oftálmico); nenhum registro de produto com a levometionina isolada está válido. Os dados locais não trazem texto de indicação aprovada para esses registros. Os números atualizados de registros válidos e cancelados estão no resumo rápido. Principais registros:
 
 <!-- review:begin br-lic-20261119-levometionina-1 -->
 
-> **Correção de verificação (2026-11-19)**: Texto original: “Dos 46 registros, 10 estão válidos e 36 cancelados.” Corrigido conforme os dados abertos de medicamentos da ANVISA (situação de 2026-11-16): a página de metionina foi unificada com esta em 2026-11-19 e os seus registros (mesmo DrugBank ID, DB00134) foram somados aos desta página, assim como os registros em que a ANVISA escreve o princípio ativo como “l-metionina” ou “dl-metionina”; há 88 registros, 21 válidos e 67 cancelados. Os registros válidos acrescentados também são associações (nutrição parenteral, associações de metionina com colina e betaína, e uma pomada oftálmica); nenhum é de metionina isolada. Os registros de “l-metionina” e “dl-metionina” acrescentados estão todos cancelados. Os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “Dos 46 registros, 10 estão válidos e 36 cancelados.” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261119-levometionina-1 -->
 
@@ -88,6 +88,12 @@ Há registros ativos apenas de produtos que associam a levometionina a outros co
 > **Correção de verificação (2026-11-19)**: Texto original: “(principalmente soluções de nutrição parenteral e uma associação vitamínica)” Corrigido conforme os dados abertos de medicamentos da ANVISA (situação de 2026-11-16): dos 21 registros válidos, 16 são soluções de nutrição parenteral (NEPHROTECT, AMINOSTERIL N-HEPA, SMOFKABIVEN, AMINOVEN, KABIVEN, NUTRIFLEX, AMIXAL, PRIMENE, OLIMEL, NUMETA), 3 são associações de metionina com colina e betaína (ABCLER ABNAT, EPOCLER, FIGZ), 1 é uma associação de vitaminas e minerais com ginseng (NATUS GERIN) e 1 é um produto oftálmico com retinol, aminoácidos, metionina e cloranfenicol (REGENCEL). Todos são associações; nenhum é de metionina isolada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261119-levometionina-2 -->
+
+<!-- review:begin br-lic-20261124b-levometionina-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Os principais registros válidos:” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-levometionina-1 -->
 
 <!-- licenses:begin -->
 
@@ -143,11 +149,11 @@ Consulte a bula para informações de segurança. Não foram encontradas intera�
 - Dados de mecanismo de ação que conectem a levometionina à fisiopatologia da acne
 - Estudos pré-clínicos ou observacionais que testem diretamente a metionina na acne e a direção do efeito
 - Avaliação de segurança (homocisteína) e das bulas dos produtos registrados
-- Definição de via de administração e forma farmacêutica compatíveis com uma eventual indicação dermatológica, já que os registros ativos são, em sua maioria (16 de 21), de nutrição parenteral
+- Definição de via de administração e forma farmacêutica compatíveis com uma eventual indicação dermatológica, já que os registros ativos são, em sua maioria, de nutrição parenteral
 
 <!-- review:begin br-lic-20261119-levometionina-3 -->
 
-> **Correção de verificação (2026-11-19)**: Texto original: “já que os registros ativos são de nutrição parenteral” Corrigido conforme os dados abertos de medicamentos da ANVISA (situação de 2026-11-16): 16 dos 21 registros válidos são de nutrição parenteral; os outros 5 são 4 associações (3 de metionina com colina e betaína, 1 de vitaminas e minerais com ginseng) e 1 produto oftálmico. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “já que os registros ativos são de nutrição parenteral” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261119-levometionina-3 -->
 
@@ -162,9 +168,10 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | 2026-11-06 | Removido: “O fármaco possui **20 registros ativos** no Brasil. No entanto, os detalhes individuais de cada registro (número de registro, nome comercial” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “**Verificar dados TFDA:** Investigar por que os 20 registros retornaram sem detalhes de produto (possível problema de parsing ou codificação” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Licenças vigentes: 20 → 10 (de 46) | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-19 | Registros: 46 (10 válidos) → 88 (21 válidos) | Corrigido (revisado em 2026-11-19; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “Dos 46 registros, 10 estão válidos e 36 cancelados.” → “Os números atualizados de registros válidos e cancelados estão no resumo rápido.” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Registros válidos: “principalmente nutrição parenteral e uma associação vitamínica” → 16 de nutrição parenteral, 3 de metionina com colina e betaína, 1 de vitaminas e minerais, 1 oftálmico | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-19 | “os registros ativos são de nutrição parenteral” → em sua maioria (16 de 21) | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “já que os registros ativos são de nutrição parenteral” → “já que os registros ativos são, em sua maioria, de nutrição parenteral” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “Os principais registros válidos:” → “Principais registros:” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

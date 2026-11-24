@@ -82,7 +82,13 @@ Nenhum dos estudos abaixo avalia a ampicilina na laringite em si. São os mais p
 
 ## Informações de Comercialização no Brasil
 
-Há registros válidos na ANVISA, conforme os dados compilados (17 válidos e 108 cancelados, de um total de 125). Principais registros de ampicilina isolada:
+Há registros válidos na ANVISA, conforme os dados compilados (17 válidos e 108 cancelados, de um total de 125). Principais registros:
+
+<!-- review:begin br-lic-20261124b-ampicillin-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Principais registros de ampicilina isolada:” Corrigido conforme os dados abertos de medicamentos da ANVISA: a tabela desta seção inclui todos os registros do medicamento (de princípio ativo único e em associação, válidos e cancelados), e não só os descritos na frase. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-ampicillin-1 -->
 
 <!-- licenses:begin -->
 
@@ -144,11 +150,12 @@ A tabela mostra até 30 registros (os ativos primeiro), de 125 registros nos dad
 
 ## Registro de verificação
 
-Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: ampicillin prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4134cd79-c895-4e6e-b1d5-8e01c38bf2d1) |
+| 2026-11-24 | “Principais registros de ampicilina isolada:” → “Principais registros:” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

@@ -75,7 +75,13 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Há ao menos 34 registros, e a lista abaixo pode ser parcial. Existem registros válidos no país.
+Os números atualizados de registros estão no resumo rápido. Existem registros válidos no país.
+
+<!-- review:begin br-lic-20261124b-minoxidil-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Há ao menos 34 registros, e a lista abaixo pode ser parcial.” Removido: a afirmação de que a lista de registros seria parcial ou limitada a 20 não corresponde mais aos dados; a tabela desta seção é gerada por programa a partir dos dados abertos de medicamentos da ANVISA, e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-minoxidil-1 -->
 
 <!-- licenses:begin -->
 
@@ -135,6 +141,18 @@ Consulte a bula para advertências e contraindicações oficiais.
 - Estudos controlados, ou ao menos séries de casos maiores, com minoxidil isolado em hipotricose simples do couro cabeludo.
 - Dados detalhados do mecanismo de ação e das advertências e contraindicações da bula na ANVISA.
 - Definição de dose e via de administração (tópica ou oral em baixa dose), com plano de monitoramento cardiovascular e de retenção hídrica, especialmente em crianças.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-24 | “Há ao menos 34 registros, e a lista abaixo pode ser parcial.” → “Os números atualizados de registros estão no resumo rápido.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

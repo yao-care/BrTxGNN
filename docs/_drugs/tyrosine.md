@@ -75,7 +75,7 @@ Os 10 registros abaixo estão válidos (10 de 10); o medicamento está comercial
 
 <!-- review:begin br-lic-20261106-tyrosine-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Há ainda outros cinco registros cancelados (SMOFKABIVEN, OLIMEL, NUMETA PED, NUMETA NEO e AMINOVEN), totalizando 10.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 10 registros para este medicamento, 10 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “Há ainda outros cinco registros cancelados (SMOFKABIVEN, OLIMEL, NUMETA PED, NUMETA NEO e AMINOVEN), totalizando 10.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-tyrosine-1 -->
 
@@ -111,7 +111,7 @@ Observação: para o hipertireoidismo e a hipertiroxinemia (outras indicações 
 
 <!-- review:begin br-lic-20261106-tyrosine-2 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “A previsão para síndrome da cauda equina baseia-se apenas no modelo (L5), sem ensaios, sem literatura e sem mecanismo plausível. Além disso, não há registro válido da tirosina no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 10 registros para este medicamento, 10 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão para síndrome da cauda equina baseia-se apenas no modelo (L5), sem ensaios, sem literatura e sem mecanismo plausível. Além disso, não há registro válido da tirosina no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-tyrosine-2 -->
 
@@ -131,8 +131,8 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “Há ainda outros cinco registros cancelados (SMOFKABIVEN, OLIMEL, NUMETA PED, NUMETA NEO e AMINOVEN), totalizando 10” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-06 | Removido: “Além disso, não há registro válido da tirosina no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Há ainda outros cinco registros cancelados (SMOFKABIVEN, OLIMEL, NUMETA PED, NUMETA NEO e AMINOVEN), totalizando 10” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Além disso, não há registro válido da tirosina no Brasil” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

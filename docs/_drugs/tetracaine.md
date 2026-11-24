@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 624
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tetracaine: nova indicação prevista, Acrodermatite crônica atrófica (acrodermatitis chronica atrophicans) (nível de evidência L5). Indicação original: Anestésicos locais"
 monitor_inn: "TETRACAINE"
 predicted_indications: ["acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "bronchitis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "acne keloid", "hydroa vacciniforme, familial", "amyopathic dermatomyositis", "cauda equina syndrome", "irritable bowel syndrome"]
@@ -101,7 +101,13 @@ Literatura das outras previsões (selecionada, priorizando RCT, depois revisões
 
 ## Informações de Comercialização no Brasil
 
-Os 5 registros estão válidos; o medicamento é comercializado.
+Há registros válidos e cancelados (números atualizados no resumo rápido); o medicamento é comercializado.
+
+<!-- review:begin br-lic-20261124b-tetracaine-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Os 5 registros estão válidos” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-tetracaine-1 -->
 
 <!-- licenses:begin -->
 
@@ -143,7 +149,13 @@ As advertências e contraindicações da bula da ANVISA não estavam disponívei
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão principal tem pontuação alta (0,9993), mas está no nível L5: não há ensaios, literatura nem vínculo mecanístico plausível. O único estudo relacionado (acne queloidiana) avalia analgesia de procedimento, já alinhada à indicação original, e não configura reposicionamento. Os 5 registros brasileiros estão válidos e o medicamento é comercializado.
+- A previsão principal tem pontuação alta (0,9993), mas está no nível L5: não há ensaios, literatura nem vínculo mecanístico plausível. O único estudo relacionado (acne queloidiana) avalia analgesia de procedimento, já alinhada à indicação original, e não configura reposicionamento. O medicamento é comercializado no Brasil.
+
+<!-- review:begin br-lic-20261124b-tetracaine-2 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Os 5 registros brasileiros estão válidos e o medicamento é comercializado.” Corrigido: a premissa sobre o número ou a situação dos registros não correspondia aos dados abertos de medicamentos da ANVISA; o restante do texto não foi alterado, e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-tetracaine-2 -->
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), pois a ausência desses dados bloqueia a triagem de segurança.
@@ -154,7 +166,7 @@ As advertências e contraindicações da bula da ANVISA não estavam disponívei
 
 <!-- review:begin br-lic-20261106-tetracaine-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Definir a via de administração compatível com a nova indicação e avaliar sua viabilidade regulatória, já que não há registro válido no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 16 registros para este medicamento, 5 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “Definir a via de administração compatível com a nova indicação e avaliar sua viabilidade regulatória, já que não há registro válido no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-tetracaine-1 -->
 
@@ -166,8 +178,10 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “já que não há registro válido no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “já que não há registro válido no Brasil” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: tetracaine hydrochloride prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=01fba5f8-a60a-444c-9abd-299540b8815a) |
+| 2026-11-24 | “Os 5 registros estão válidos” → “Há registros válidos e cancelados (números atualizados no resumo rápido)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “Os 5 registros brasileiros estão válidos e o medicamento é comercializado.” → “O medicamento é comercializado no Brasil.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

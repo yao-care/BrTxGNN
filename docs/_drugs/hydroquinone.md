@@ -88,7 +88,7 @@ O medicamento é comercializado.
 
 <!-- review:begin br-lic-20261111-hydroquinone-1 -->
 
-> **Correção de verificação (2026-11-11)**: Texto original: “Os 12 registros no Brasil estão vigentes; o medicamento é comercializado.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-11). Nos dados (dados abertos de medicamentos da ANVISA) constam 40 registros para este medicamento, 11 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-11)**: Texto original: “Os 12 registros no Brasil estão vigentes; o medicamento é comercializado.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-11). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261111-hydroquinone-1 -->
 
@@ -131,7 +131,11 @@ A tabela mostra até 30 registros (os ativos primeiro), de 40 registros nos dado
 
 <!-- licenses:end -->
 
-Há ainda outros 7 registros cancelados (entre eles Solaquin, Hidropeek, Lumiderm, Glyquin XM, Suavicid, Hormoskin e uma associação de hidroquinona + tretinoína + acetonido de fluocinolona).
+<!-- review:begin br-lic-20261124b-hydroquinone-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Há ainda outros 7 registros cancelados (entre eles Solaquin, Hidropeek, Lumiderm, Glyquin XM, Suavicid, Hormoskin e uma associação de hidroquinona + tretinoína + acetonido de fluocinolona).” Removido: entre os registros citados como cancelados há registros que constam como ativos nos dados abertos de medicamentos da ANVISA (situação de 2026-11-23); a tabela de registros desta seção agora é gerada por programa a partir desses dados (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-hydroquinone-1 -->
 
 ---
 
@@ -152,7 +156,7 @@ Para as demais informações de segurança (advertências, contraindicações e 
 
 <!-- review:begin br-lic-20261111-hydroquinone-2 -->
 
-> **Correção de verificação (2026-11-11)**: Texto original: “Além disso, a ceratose seborreica é uma lesão benigna cuja base não é pigmentar, de modo que a plausibilidade mecanística é fraca. Os 12 registros brasileiros estão vigentes.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-11). Nos dados (dados abertos de medicamentos da ANVISA) constam 40 registros para este medicamento, 11 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-11)**: Texto original: “Além disso, a ceratose seborreica é uma lesão benigna cuja base não é pigmentar, de modo que a plausibilidade mecanística é fraca. Os 12 registros brasileiros estão vigentes.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-11). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261111-hydroquinone-2 -->
 
@@ -171,9 +175,10 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-11 | Removido: “s 12 registros no Brasil estão vigentes; o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-11 | Removido: “Os 12 registros brasileiros estão vigentes” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-11 | Removido: “s 12 registros no Brasil estão vigentes; o” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-11 | Removido: “Os 12 registros brasileiros estão vigentes” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Hydroquinone 4% (hydroquinone) prescribing information, Acella Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=595dfc50-ee6f-41b5-ab5b-4c293aee342b) |
+| 2026-11-24 | Removido: “Há ainda outros 7 registros cancelados (entre eles Solaquin, Hidropeek, Lumiderm, Glyquin XM, Suavicid, Hormoskin e uma associação de…” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

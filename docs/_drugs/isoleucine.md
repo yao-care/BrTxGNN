@@ -71,17 +71,17 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-Dos 31 registros, 14 estão válidos. Principais registros (30 de 31):
+Há registros válidos e cancelados (números atualizados no resumo rápido). Principais registros:
 
 <!-- review:begin br-lic-20261112-isoleucine-1 -->
 
-> **Correção de verificação (2026-11-12)**: Texto original: “Dos 16 registros encontrados, os 16 estão válidos.” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 31 registros para este medicamento, 14 válidos e 17 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “Dos 16 registros encontrados, os 16 estão válidos.” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261112-isoleucine-1 -->
 
 <!-- review:begin br-lic-20261112-isoleucine-2 -->
 
-> **Correção de verificação (2026-11-12)**: Texto original: “Principais registros (5 de 16):” Corrigido conforme a tabela desta seção e os dados abertos de medicamentos da ANVISA (2026-11-05): a tabela mostra 30 registros e há 31 registros para este medicamento; a contagem antiga vinha de uma versão anterior dos dados (no máximo 20 registros). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “Principais registros (5 de 16):” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261112-isoleucine-2 -->
 
@@ -140,7 +140,7 @@ Além disso, faltam dados de advertências e contraindicações da bula, o que i
 
 <!-- review:begin br-lic-20261106-isoleucine-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “A previsão baseia-se apenas no modelo (L5), sem ensaios clínicos nem literatura e sem mecanismo estabelecido, embora o medicamento seja comercializado no Brasil, com 16 registros válidos de 16. Além disso, faltam dados de advertências e contraindicações da bula, o que impede a triagem de segurança.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 31 registros para este medicamento, 14 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão baseia-se apenas no modelo (L5), sem ensaios clínicos nem literatura e sem mecanismo estabelecido, embora o medicamento seja comercializado no Brasil, com 16 registros válidos de 16. Além disso, faltam dados de advertências e contraindicações da bula, o que impede a triagem de segurança.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-isoleucine-1 -->
 
@@ -159,9 +159,9 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “A previsão baseia-se apenas no modelo (L5), sem ensaios clínicos nem literatura e sem mecanismo estabelecido, embora o medicamento seja come” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Registros válidos: 16 de 16 → 14 de 31 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Contagem exibida: “Principais registros (5 de 16” → “Principais registros (30 de 31” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “A previsão baseia-se apenas no modelo (L5), sem ensaios clínicos nem literatura e sem mecanismo estabelecido, embora o medicamento seja come” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “Dos 16 registros encontrados, os 16 estão válidos.” → “Há registros válidos e cancelados (números atualizados no resumo rápido).” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “Principais registros (5 de 16):” → “Principais registros:” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

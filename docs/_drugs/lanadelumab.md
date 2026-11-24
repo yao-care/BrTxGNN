@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 389
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 monitor_inn: "lanadelumab"
 predicted_indications: ["serpinopathy with toxic serpin polymerization", "pancreatitis", "pseudo-von Willebrand disease", "primary release disorder of platelets", "immune-mediated necrotizing myopathy", "Glanzmann thrombasthenia", "antisynthetase syndrome", "focal myositis", "Scott syndrome"]
 description: "Lanadelumab: nova indicação prevista, serpinopatia com polimerização tóxica de serpina (serpinopathy with toxic serpin polymerization) (nível de evidência L5)."
@@ -81,7 +81,13 @@ Atualmente não há literatura relacionada.
 
 <!-- licenses:end -->
 
-Dos registros localizados, 1 está válido e 2 estão cancelados (a lista acima pode não mostrar todos eles).
+<!-- review:begin br-lic-20261124b-lanadelumab-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “(a lista acima pode não mostrar todos eles)” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-lanadelumab-1 -->
+
+Dos registros localizados, 1 está válido e 2 estão cancelados.
 
 ## Considerações de Segurança
 
@@ -101,6 +107,18 @@ Para as demais informações de segurança, consulte a bula.
 - Dados do mecanismo de ação e justificativa biológica para a inibição da calicreína nesta condição
 - Estudos pré-clínicos que avaliem o efeito da inibição da calicreína plasmática na polimerização de serpinas
 - Informações de segurança da bula aprovada na ANVISA (advertências e contraindicações)
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-24 | Removido: “(a lista acima pode não mostrar todos eles)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

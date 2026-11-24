@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 136
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 predicted_indications: []
 ---
 
@@ -66,17 +66,17 @@ Sua eficácia em rinite alérgica e urticária foi estabelecida em ensaios clín
 
 ## Informações de Comercialização no Brasil
 
-Está confirmado que Bilastina possui **23 registros** (21 válidos) na base regulatória brasileira com situação **comercializado**, porém a coleta dos campos individuais ainda não foi realizada.
+Está confirmado que Bilastina possui registros (números atualizados no resumo rápido) na base regulatória brasileira com situação **comercializado**, porém a coleta dos campos individuais ainda não foi realizada.
 
 <!-- review:begin br-lic-20261106-bilastina-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Os detalhes individuais dos registros (nome comercial, forma farmacêutica e indicação aprovada) não estão disponíveis no Evidence Pack atual. Está confirmado que Bilastina possui **19 registros** na base regulatória brasileira com situação **comercializado**, porém a coleta dos campos individuais ainda não foi realizada.” Removido: a descrição dos produtos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 23 registros para este medicamento, 21 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “Os detalhes individuais dos registros (nome comercial, forma farmacêutica e indicação aprovada) não estão disponíveis no Evidence Pack atual. Está confirmado que Bilastina possui **19 registros** na base regulatória brasileira com situação **comercializado**, porém a coleta dos campos individuais ainda não foi realizada.” Removido: a descrição dos produtos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-bilastina-1 -->
 
 <!-- review:begin br-lic-20261112-bilastina-1 -->
 
-> **Correção de verificação (2026-11-12)**: Texto original: “possui **19 registros**” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 23 registros para este medicamento, 21 válidos e 2 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “possui **19 registros**” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261112-bilastina-1 -->
 
@@ -110,8 +110,8 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “Os detalhes individuais dos registros (nome comercial, forma farmacêutica e indicação aprovada) não estão disponíveis no Evidence Pack atual” | Corrigido (revisado em 2026-11-12; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Registros: 19 → 23 (21 válidos) | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Os detalhes individuais dos registros (nome comercial, forma farmacêutica e indicação aprovada) não estão disponíveis no Evidence Pack atual” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “possui **19 registros**” → “possui registros (números atualizados no resumo rápido)” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

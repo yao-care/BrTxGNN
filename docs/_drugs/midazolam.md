@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 458
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "MIDAZOLAM"
 predicted_indications: ["insomnia (disease)"]
 description: "Midazolam: nova indicação prevista, Insônia (insomnia (disease)) (nível de evidência L3). No Brasil, registros na ANVISA: 32 (ativos: 11)"
@@ -102,7 +102,7 @@ Consulte a bula para as advertências e contraindicações formais, que não est
 
 <!-- review:begin br-lic-20261106-midazolam-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Há RCTs antigos (1981-1990) que apoiam o midazolam como hipnótico, mas os ensaios clínicos registrados são apenas indiretos, o fármaco não tem registro no Brasil e faltam dados de bula e de mecanismo, o que impede a triagem de segurança.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 32 registros para este medicamento, 11 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “Há RCTs antigos (1981-1990) que apoiam o midazolam como hipnótico, mas os ensaios clínicos registrados são apenas indiretos, o fármaco não tem registro no Brasil e faltam dados de bula e de mecanismo, o que impede a triagem de segurança.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-midazolam-1 -->
 
@@ -121,7 +121,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “o fármaco não tem registro no Brasil e faltam dados de bula e de mecanismo, o que impede a triagem de segurança” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “o fármaco não tem registro no Brasil e faltam dados de bula e de mecanismo, o que impede a triagem de segurança” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Midazolam In Sodium Chloride (midazolam) prescribing information, WG Critical Care, LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f051776f-94c5-4e34-80ed-f45b9c36881e) |
 
 <!-- review:end log -->

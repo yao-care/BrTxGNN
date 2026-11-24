@@ -98,11 +98,11 @@ Para fins de contexto, as publicações encontradas para outras previsões foram
 
 ## Informações de Comercialização no Brasil
 
-Dos 10 registros, 9 estão **válidos** (9 de 10); o produto está comercializado.
+Há registros **válidos** e cancelados (números atualizados no resumo rápido); o produto está comercializado.
 
 <!-- review:begin br-lic-20261117-sodium_carbonate-1 -->
 
-> **Correção de verificação (2026-11-17)**: Texto original: “Os 10 registros estão **válidos** (10 de 10)” Segundo os dados abertos da ANVISA (2026-11-17), o registro 144930071 (Estomanol) passou a Inativo; 9 dos 10 registros estão ativos. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “Os 10 registros estão **válidos** (10 de 10)” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261117-sodium_carbonate-1 -->
 
@@ -127,7 +127,7 @@ Entre os demais estão Sal de Fruta Eno e Sonrisal.
 
 <!-- review:begin br-lic-20261106-sodium_carbonate-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Foram listados os 5 primeiros dos 10 registros (todos cancelados). Entre os demais estão Sal de Fruta Eno e Sonrisal.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 10 registros para este medicamento, 10 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “Foram listados os 5 primeiros dos 10 registros (todos cancelados). Entre os demais estão Sal de Fruta Eno e Sonrisal.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-sodium_carbonate-1 -->
 
@@ -146,22 +146,22 @@ Não foram encontradas interações medicamentosas nos dados compilados para est
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão para síndrome da cauda equina não tem ensaios, literatura nem mecanismo plausível (nível L5), e a pontuação provavelmente reflete semelhanças que o modelo TxGNN (deep learning) aprendeu entre doenças relacionadas, não evidência biológica. O medicamento está comercializado no Brasil, com 9 de 10 registros válidos.
+- A previsão para síndrome da cauda equina não tem ensaios, literatura nem mecanismo plausível (nível L5), e a pontuação provavelmente reflete semelhanças que o modelo TxGNN (deep learning) aprendeu entre doenças relacionadas, não evidência biológica. O medicamento está comercializado no Brasil, com registros válidos na ANVISA (números atualizados no resumo rápido).
 
 <!-- review:begin br-lic-20261117-sodium_carbonate-2 -->
 
-> **Correção de verificação (2026-11-17)**: Texto original: “com 10 de 10 registros válidos” Segundo os dados abertos da ANVISA (2026-11-17), 9 dos 10 registros estão ativos (144930071 passou a Inativo). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “com 10 de 10 registros válidos” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261117-sodium_carbonate-2 -->
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pendência que impede a triagem de segurança
 - Obter dados do mecanismo de ação no DrugBank
-- Considerar que 9 dos 10 registros no Brasil estão válidos em qualquer planejamento de desenvolvimento
+- Considerar a situação atual dos registros no Brasil (resumo rápido) em qualquer planejamento de desenvolvimento
 
 <!-- review:begin br-lic-20261117-sodium_carbonate-3 -->
 
-> **Correção de verificação (2026-11-17)**: Texto original: “Considerar a ausência de registros válidos no Brasil em qualquer planejamento de desenvolvimento” Segundo os dados abertos da ANVISA (2026-11-17), 9 dos 10 registros deste medicamento estão ativos; não há ausência de registros válidos. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “Considerar a ausência de registros válidos no Brasil em qualquer planejamento de desenvolvimento” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261117-sodium_carbonate-3 -->
 
@@ -173,10 +173,10 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “Foram listados os 5 primeiros dos 10 registros (todos cancelados)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-17 | Registros válidos: 10 → 9 de 10 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-17 | Registros válidos: 10 → 9 de 10 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-17 | Registros válidos: “ausência” → 9 de 10 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Foram listados os 5 primeiros dos 10 registros (todos cancelados)” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “Os 10 registros estão **válidos** (10 de 10)” → “Há registros **válidos** e cancelados (números atualizados no resumo rápido)” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “com 10 de 10 registros válidos” → “com registros válidos na ANVISA (números atualizados no resumo rápido)” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | “Considerar a ausência de registros válidos no Brasil em qualquer planejamento de desenvolvimento” → “Considerar a situação atual dos registros no Brasil (resumo rápido) em qualquer planejamento de…” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

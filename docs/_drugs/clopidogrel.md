@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Clopidogrel"
 predicted_indications: ["migraine with brainstem aura", "migraine disorder", "osteoarthritis", "tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "rheumatoid arthritis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clopidogrel: nova indicação prevista, enxaqueca com aura de tronco encefálico (migraine with brainstem aura) (nível de evidência L5). No Brasil, registros na ANVISA: 68 (ativos: 30)"
 ---
 
@@ -89,7 +89,7 @@ A lista de registros pode estar incompleta, e os dados não trazem a relação d
 
 <!-- review:begin br-lic-20261106-clopidogrel-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Segundo os dados compilados, o clopidogrel consta como comercializado no Brasil, com 9 registros válidos e 11 cancelados. A lista de registros pode estar incompleta, e os dados não trazem a relação detalhada de registros, nomes comerciais e formas farmacêuticas.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 68 registros para este medicamento, 30 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-06)**: Texto original: “Segundo os dados compilados, o clopidogrel consta como comercializado no Brasil, com 9 registros válidos e 11 cancelados. A lista de registros pode estar incompleta, e os dados não trazem a relação detalhada de registros, nomes comerciais e formas farmacêuticas.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Os números atualizados de registros estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-clopidogrel-1 -->
 
@@ -124,7 +124,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “Segundo os dados compilados, o clopidogrel consta como comercializado no Brasil, com 9 registros válidos e 11 cancelados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Segundo os dados compilados, o clopidogrel consta como comercializado no Brasil, com 9 registros válidos e 11 cancelados” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Plavix (clopidogrel) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de8b0b67-eb25-4684-83b5-7ad785314227) |
 
 <!-- review:end log -->

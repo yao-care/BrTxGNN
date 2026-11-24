@@ -92,7 +92,13 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 <!-- licenses:end -->
 
-Há 10 registros no total, dos quais 6 estão válidos; os 5 acima são os principais registros válidos.
+<!-- review:begin br-lic-20261124b-bicalutamida-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “; os 5 acima são os principais registros válidos” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-bicalutamida-1 -->
+
+Há 10 registros no total, dos quais 6 estão válidos.
 
 ## Citotoxicidade
 
@@ -130,6 +136,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “e os dados de registro ANVISA não foram populados, tornando inviável qualquer análise de reposicionamento ou avaliação de segurança nesta ve” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | Removido: “; os 5 acima são os principais registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

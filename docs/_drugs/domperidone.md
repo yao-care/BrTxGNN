@@ -64,7 +64,13 @@ A pontuação vem do modelo TxGNN (aprendizado profundo) e pode refletir semelha
 
 ## Informações de Comercialização no Brasil
 
-Todos os 19 registros encontram-se válidos; abaixo, os 5 primeiros. A forma farmacêutica não consta nos dados compilados.
+Os registros estão na tabela abaixo (os ativos primeiro); os números atualizados estão no resumo rápido. A forma farmacêutica não consta nos dados compilados.
+
+<!-- review:begin br-lic-20261124b-domperidone-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Todos os 19 registros encontram-se válidos; abaixo, os 5 primeiros.” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-domperidone-1 -->
 
 <!-- licenses:begin -->
 
@@ -130,11 +136,12 @@ A única sustentação é a pontuação elevada do TxGNN (0.9908), sem ensaios c
 
 ## Registro de verificação
 
-Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte (revisado em 2026-11-20; versão anterior guardada no registro) | [ChEMBL CHEMBL219916 (domperidone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL219916) |
+| 2026-11-24 | “Todos os 19 registros encontram-se válidos; abaixo, os 5 primeiros.” → “Os registros estão na tabela abaixo (os ativos primeiro); os números atualizados estão no resumo rápido.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

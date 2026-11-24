@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 466
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Mupirocin: nova indicação prevista, Empiema Pleural (pleural empyema) (nível de evidência L5). Indicação original: Antiinfecciosos tópicos"
 monitor_inn: "mupirocin"
 predicted_indications: ["pleural empyema (disease)", "punctate epithelial keratoconjunctivitis"]
@@ -72,7 +72,13 @@ Há, contudo, limitações importantes. A mupirocina é formulada apenas para us
 
 ## Informações de Comercialização no Brasil
 
-Os 8 registros estão válidos (8 de 8); o medicamento é comercializado atualmente no Brasil.
+Há registros válidos e cancelados (números atualizados no resumo rápido); o medicamento é comercializado atualmente no Brasil.
+
+<!-- review:begin br-lic-20261124b-mupirocin-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Os 8 registros estão válidos (8 de 8)” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261124b-mupirocin-1 -->
 
 <!-- licenses:begin -->
 
@@ -130,11 +136,12 @@ Consulte a bula para as demais informações de segurança (advertências e cont
 
 ## Registro de verificação
 
-Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Pirnuo (mupirocin) prescribing information, Glenmark Pharmaceuticals Inc., USA](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=89c43f7b-1a88-45bf-a356-07518d4e7870) |
+| 2026-11-24 | “Os 8 registros estão válidos (8 de 8)” → “Há registros válidos e cancelados (números atualizados no resumo rápido)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

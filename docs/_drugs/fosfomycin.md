@@ -89,14 +89,6 @@ Os dois estudos foram avaliados como de relevância baixa (grau C) para a indica
 
 ## Informações de Comercialização no Brasil
 
-A tabela mostra os 5 primeiros.
-
-<!-- review:begin br-lic-20261106-fosfomycin-1 -->
-
-> **Correção de verificação (2026-11-06)**: Texto original: “Todos os 9 registros são de produtos com fosfomicina isolada e estão válidos. A tabela mostra os 5 primeiros.” Removido: a indicação de produtos de princípio ativo único ou em associação não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-lic-20261106-fosfomycin-1 -->
-
 <!-- licenses:begin -->
 
 | Registro | Produto | Situação |
@@ -112,6 +104,12 @@ A tabela mostra os 5 primeiros.
 | 156510124 | CYSTOREN | Cancelado |
 
 <!-- licenses:end -->
+
+<!-- review:begin br-lic-20261106-fosfomycin-1 -->
+
+> **Correção de verificação (2026-11-24)**: Texto original: “Todos os 9 registros são de produtos com fosfomicina isolada e estão válidos. A tabela mostra os 5 primeiros.” Removido: a frase descrevia quantos registros a tabela antiga mostrava; a tabela de registros desta seção agora é gerada por programa a partir dos dados abertos de medicamentos da ANVISA (os ativos primeiro), e os números atualizados estão no resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-fosfomycin-1 -->
 
 ---
 
@@ -150,7 +148,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “Todos os 9 registros são de produtos com fosfomicina isolada e estão válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | Removido: “Todos os 9 registros são de produtos com fosfomicina isolada e estão válidos. A tabela mostra os 5 primeiros.” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 
