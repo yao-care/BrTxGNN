@@ -79,9 +79,13 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 185690015 | KYNTHEUM | LEO PHARMA LTDA | Ativo |
+
+<!-- licenses:end -->
 
 ---
 

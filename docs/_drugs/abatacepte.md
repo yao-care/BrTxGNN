@@ -8,7 +8,7 @@ indication_count: 7
 drugbank_id: DB01281
 monitor_inn: "Abatacept"
 predicted_indications: ["ankylosing spondylitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "vertebral disease", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Abatacepte: nova indicação prevista, Espondilite anquilosante (ankylosing spondylitis) (nível de evidência L3). No Brasil, registros na ANVISA: 1 (ativos: 1)"
 ---
 
@@ -81,9 +81,13 @@ Entretanto, a espondilite anquilosante é conduzida principalmente pelos eixos d
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 101800390 | ORENCIA | Não informada | Não registrada nos dados locais |
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 101800390 | ORENCIA | BRISTOL-MYERS SQUIBB FARMACÊUTICA LTDA | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

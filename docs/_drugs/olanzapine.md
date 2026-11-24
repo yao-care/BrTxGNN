@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 484
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "OLANZAPINE"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
 description: "Olanzapine: nova indicação prevista, Benign paroxysmal torticollis of infancy (nível de evidência L5). Indicação original: ANTIPSICOTICOS"
@@ -95,6 +95,8 @@ O medicamento está comercializado. Os cinco principais:
 
 <!-- review:end br-lic-20261106-olanzapine-1 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100431057 | OLANZAPINA | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -128,7 +130,9 @@ O medicamento está comercializado. Os cinco principais:
 | 100430705 | OLESKIZ | EUROFARMA LABORATORIOS S.A. | Cancelado |
 | 100431058 | ZAP | EUROFARMA LABORATORIOS S.A. | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 73 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

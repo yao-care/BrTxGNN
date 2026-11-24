@@ -74,6 +74,8 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 105730052 | FAMOX | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
@@ -82,6 +84,8 @@ Atualmente não há ensaios clínicos relacionados registrados.
 | 103940191 | FAMODINE | LABORATÓRIO AMERICANO DE FARMACOTERAPIA S/A | Cancelado |
 | 104650246 | FAMOTID | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
 | 115570028 | FAMOTIDINA | INFAN INDUSTRIA QUIMICA FARMACEUTICA NACIONAL S/A | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

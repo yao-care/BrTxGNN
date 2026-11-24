@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00007
 monitor_inn: "Leuprolide"
 predicted_indications: ["osteoarthritis", "pseudoachondroplasia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Leuprorrelina Acetate: nova indicação prevista, Osteoartrite (osteoarthritis) (nível de evidência L5). Indicação original: OUTROS HORMONIOS MEDIADORES E PRODUTOS EQUIVALENTES"
 ---
 
@@ -76,10 +76,14 @@ Foi recuperada apenas uma publicação, que não estuda a osteoartrite e, portan
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 100470410 | LECTRUM | Não informada | Outros hormônios mediadores e produtos equivalentes |
-| Registro 122140074 | ELIGARD | Não informada | Antineoplásico |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 100470410 | LECTRUM | Ativo |
+| 122140074 | ELIGARD | Ativo |
+
+<!-- licenses:end -->
 
 ## Citotoxicidade
 

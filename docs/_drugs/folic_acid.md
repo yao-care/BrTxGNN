@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 326
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Folic Acid: nova indicação prevista, Doença metabólica da biotina (biotin metabolic disease) (nível de evidência L4). Indicação original: Antianêmicos"
 monitor_inn: "FOLIC ACID"
 predicted_indications: ["biotin metabolic disease"]
@@ -102,13 +102,15 @@ Principais exemplos:
 
 <!-- review:end br-lic-20261106-folic_acid-1 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100431603 | DEXFER FÓLICO | EUROFARMA LABORATORIOS S.A. | Ativo |
 | 101550245 | ENDOFOLIN | MARJAN INDÚSTRIA E COMÉRCIO LTDA | Ativo |
 | 102350372 | FOLIFOLIN | EMS S/A | Ativo |
 | 103700157 | AFOPIC | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
-| 103850051 | VI -  FERRIN | LABORATÓRIO FARMACÊUTICO ELOFAR LTDA | Ativo |
+| 103850051 | VI - FERRIN | LABORATÓRIO FARMACÊUTICO ELOFAR LTDA | Ativo |
 | 103900143 | MATER FOLIC | FARMOQUÍMICA S/A | Ativo |
 | 104430020 | FOLIN | GEYER MEDICAMENTOS S.A. | Ativo |
 | 105730367 | COMBIRON FÓLICO | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
@@ -118,7 +120,7 @@ Principais exemplos:
 | 113430159 | HIPOFOL | HIPOLABOR FARMACEUTICA LTDA | Ativo |
 | 115240014 | NORIPURUM FÓLICO | BLANVER FARMOQUIMICA E FARMACEUTICA S.A. | Ativo |
 | 125680204 | PRATIFOLIN | PRATI DONADUZZI & CIA LTDA | Ativo |
-| 135690592 | NEUTROFER  FÓLICO | EMS SIGMA PHARMA LTDA | Ativo |
+| 135690592 | NEUTROFER FÓLICO | EMS SIGMA PHARMA LTDA | Ativo |
 | 138410050 | AFOLIC | NATULAB LABORATORIO S.A | Ativo |
 | 144930087 | PRÉ-FOLIC | AIRELA INDÚSTRIA FARMACÊUTICA LTDA. | Ativo |
 | 154230142 | FOLONIN | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
@@ -135,7 +137,9 @@ Principais exemplos:
 | 100680972 | DYNAMISAN | NOVARTIS BIOCIENCIAS S.A | Cancelado |
 | 100890032 | ILOBAN | MERCK S/A | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 213 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ---
 

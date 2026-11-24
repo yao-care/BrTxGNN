@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 456
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Micafungin: nova indicação prevista, Infecção do Trato Urinário (urinary tract infection) (nível de evidência L3). Indicação original: Antifúngicos"
 monitor_inn: "micafungin"
 predicted_indications: ["urinary tract infection (disease)"]
@@ -85,36 +85,16 @@ Não há ensaios randomizados (RCT) entre as publicações. Estão listados os e
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 100470661 | MYCAMINE | Não informada | Antifúngicos |
-| Registro nº 155370119 | MICAFUNGINA SÓDICA | Não informada | Antifúngicos |
-| Registro nº 155370126 | MYCAFREM | Não informada | Antifúngicos |
-| Registro nº 156510131 | MICAFUNGINA SÓDICA | Não informada | Antifúngicos |
+<!-- licenses:begin -->
 
-<!-- review:begin br-row-20261112-micafungin-1 -->
+| Registro | Produto | Situação |
+|------|------|------|
+| 100470661 | MYCAMINE | Ativo |
+| 155370119 | MICAFUNGINA SÓDICA | Ativo |
+| 155370126 | MYCAFREM | Ativo |
+| 156510131 | MICAFUNGINA SÓDICA | Ativo |
 
-> **Correção de verificação (2026-11-12)**: Texto original: “Registro nº 100470661 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 100470661 (MYCAMINE) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-row-20261112-micafungin-1 -->
-
-<!-- review:begin br-row-20261112-micafungin-2 -->
-
-> **Correção de verificação (2026-11-12)**: Texto original: “Registro nº 155370119 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 155370119 (MICAFUNGINA SÓDICA) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-row-20261112-micafungin-2 -->
-
-<!-- review:begin br-row-20261112-micafungin-3 -->
-
-> **Correção de verificação (2026-11-12)**: Texto original: “Registro nº 155370126 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 155370126 (MYCAFREM) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-row-20261112-micafungin-3 -->
-
-<!-- review:begin br-row-20261112-micafungin-4 -->
-
-> **Correção de verificação (2026-11-12)**: Texto original: “Registro nº 156510131 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 156510131 (MICAFUNGINA SÓDICA) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-row-20261112-micafungin-4 -->
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 
@@ -157,10 +137,10 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-10-31 | Removido: “(registros cancelados)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Tabela: registro 100470661 (MYCAMINE) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Tabela: registro 155370119 (MICAFUNGINA SÓDICA) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Tabela: registro 155370126 (MYCAFREM) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Tabela: registro 156510131 (MICAFUNGINA SÓDICA) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 100470661 (MYCAMINE) está ativo, não cancelado | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 155370119 (MICAFUNGINA SÓDICA) está ativo, não cancelado | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 155370126 (MYCAFREM) está ativo, não cancelado | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 156510131 (MICAFUNGINA SÓDICA) está ativo, não cancelado | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Micafungin (micafungin sodium) prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=33e579c1-b315-44cb-a690-e2dd2cdf44ee) |
 
 <!-- review:end log -->

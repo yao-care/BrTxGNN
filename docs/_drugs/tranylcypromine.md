@@ -71,9 +71,13 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 101070146 | PARNATE | GLAXOSMITHKLINE BRASIL LTDA | Ativo |
+
+<!-- licenses:end -->
 
 ## Citotoxicidade
 

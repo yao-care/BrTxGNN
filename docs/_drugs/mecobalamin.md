@@ -78,6 +78,8 @@ Principais registros:
 
 <!-- review:end br-lic-20261106-mecobalamin-1 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100431532 | DOZI | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -97,6 +99,8 @@ Principais registros:
 | 135170093 | MECOBALAMINA | ALTHAIA S.A. INDUSTRIA FARMACEUTICA | Ativo |
 | 156650006 | BMAST | DROXTER INDUSTRIA, COMÉRCIO E PARTICIPAÇÕES LTDA | Ativo |
 | 103410056 | METHYCOBAL | TRB PHARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ---
 

@@ -80,9 +80,13 @@ Para a indicação principal (neoplasia endócrina múltipla), atualmente não h
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 125760040 | PEMAZYRE | UNITED MEDICAL LTDA | Ativo |
+
+<!-- licenses:end -->
 
 ## Citotoxicidade
 

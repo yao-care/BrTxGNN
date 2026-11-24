@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 483
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ofloxacin: nova indicação prevista, Polyclonal hyperviscosity syndrome (síndrome de hiperviscosidade poli… (nível de evidência L5). Indicação original: Antiinfecciosos"
 monitor_inn: "ofloxacin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder", "punctate epithelial keratoconjunctivitis"]
@@ -112,6 +112,8 @@ O medicamento é comercializado no Brasil.
 
 <!-- review:end br-lic-20261111-ofloxacin-3 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 101470027 | OFLOX | ALLERGAN PRODUTOS FARMACÊUTICOS LTDA | Ativo |
@@ -119,7 +121,6 @@ O medicamento é comercializado no Brasil.
 | 102980492 | NOSTIL | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
 | 107150097 | FLOXINA | CAZI QUIMICA FARMACEUTICA INDUSTRIA E COMERCIO LTD | Ativo |
 | 126250061 | LFM - OFLOXACINO | LABORATÓRIO FARMACÊUTICO DA MARINHA | Ativo |
-| 167730555 | OFLOXALIS | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 | 100230246 | OFLOXACINO | ALCON LABORATÓRIOS DO BRASIL LTDA. | Cancelado |
 | 102700116 | OXITOPENA | ARISTON INDS QUIMS FTCAS LTDA | Cancelado |
 | 103700384 | OFLOXACINO | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
@@ -142,8 +143,11 @@ O medicamento é comercializado no Brasil.
 | 155840312 | OFLOXACINO | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Cancelado |
 | 167730240 | OFLOXACINO | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 | 167730512 | OFLOXACINO | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 167730555 | OFLOXALIS | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 | 172870405 | OFLOXACINO | HYPERA S.A. | Cancelado |
 | 178170124 | OFLOXINO | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

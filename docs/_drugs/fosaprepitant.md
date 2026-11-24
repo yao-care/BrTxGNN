@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 327
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fosaprepitant: nova indicação prevista, Síndrome Nefrogênica de Antidiurese Inapropriada (Nephrogenic Syndrom… (nível de evidência L5). Indicação original: Antieméticos e antinauseantes"
 monitor_inn: "fosaprepitant"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "pneumocystosis", "leprosy", "Cryptococcal meningitis", "multiple endocrine neoplasia", "intracranial abscess", "retinitis", "Plasmodium falciparum malaria", "echinococcus granulosus infectious disease", "hyperargininemia"]
@@ -70,13 +70,20 @@ A pontuação elevada do TxGNN (0,9992) vem do modelo TxGNN (deep learning) e po
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 106460228 | Fosaprepitanto dimeglumina | Não informada | Antieméticos e antinauseantes |
-| Registro nº 106460229 | Enek | Não informada | Antieméticos e antinauseantes |
-| Registro nº 151430042 | Fosaprepitanto dimeglumina | Não informada | Antieméticos e antinauseantes |
-| Registro nº 155370078 | Fosaprepitanto dimeglumina | Não informada | Antieméticos e antinauseantes |
-| Registro nº 165070030 | Fopitant | Não informada | Antieméticos e antinauseantes |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 101710225 | EMEND INJETÁVEL | Ativo |
+| 106460228 | FOSAPREPITANTO DIMEGLUMINA | Ativo |
+| 106460229 | ENEK | Ativo |
+| 151430042 | FOSAPREPITANTO DIMEGLUMINA | Ativo |
+| 155370078 | FOSAPREPITANTO DIMEGLUMINA | Ativo |
+| 155370085 | FOZA | Ativo |
+| 165070030 | FOPITANT | Ativo |
+| 165070034 | FOSAPREPITANTO DIMEGLUMINA | Ativo |
+
+<!-- licenses:end -->
 
 Observação: são 8 registros no total; a tabela mostra os 5 primeiros. Entre os demais estão Emend Injetável (101710225) e Foza (155370085).
 

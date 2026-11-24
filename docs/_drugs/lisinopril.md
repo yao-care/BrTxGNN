@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "LISINOPRIL"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lisinopril: nova indicação prevista, Hipertensão pulmonar de mecanismo multifatorial incerto (pulmonary hypertension with unclear multifactorial mechanism) (nível de evidência L5). Indicação original…"
 ---
 
@@ -74,6 +74,8 @@ Atualmente não há literatura relacionada.
 
 Os dados compilados indicam situação **Comercializado**, com pelo menos 20 registros (a lista pode estar incompleta): 2 válidos e 18 cancelados. Os registros válidos correspondem ao lisinopril isolado (Laboratório Teuto Brasileiro, registro nº 103700391; Sanofi Medley, registro nº 183260198).
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 102350619 | LISINOPRIL | EMS S/A | Ativo |
@@ -107,7 +109,9 @@ Os dados compilados indicam situação **Comercializado**, com pelo menos 20 reg
 | 110650198 | PRINIVIL | PRODOME QUÍMICA E FARMACÊUTICA LTDA | Cancelado |
 | 110650202 | PRINZIDE | PRODOME QUÍMICA E FARMACÊUTICA LTDA | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 51 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

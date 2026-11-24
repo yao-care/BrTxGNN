@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 559
 evidence_level: L3
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Ranitidine"
 predicted_indications: ["peptic ulcer perforation", "duodenal obstruction", "gastroduodenitis", "Smouldering systemic mastocytosis", "abnormality of glucagon secretion", "lymphoadenopathic mastocytosis with eosinophilia"]
 description: "Ranitidine: nova indicação prevista, Peptic ulcer perforation (nível de evidência L3). Indicação original: ANTIULCEROSOS"
@@ -97,6 +97,8 @@ Principais registros:
 
 <!-- review:end br-lic-20261106-ranitidine-2 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100431215 | CLORIDRATO DE RANITIDINA | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -108,7 +110,6 @@ Principais registros:
 | 105730437 | LABEL GOTAS | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
 | 105730573 | CLORIDRATO DE RANITIDINA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
 | 108840309 | IQUEGO - RANITIDINA | INDÚSTRIA QUÍMICA DO ESTADO DE GOIÁS S/A - IQUEGO | Ativo |
-| 110110055 | CLORIDRATO DE RANITIDINA | NEWCOM FARMACEUTICA LTDA. | Cancelado |
 | 110390210 | CLORIDRATO DE RANITIDINA | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Ativo |
 | 110850025 | CLORIDRATO DE RANITIDINA | FARMACE INDÚSTRIA QUÍMICO-FARMACÊUTICA CEARENSE LT | Ativo |
 | 113430140 | CLORIDRATO DE RANITIDINA | HIPOLABOR FARMACEUTICA LTDA | Ativo |
@@ -129,8 +130,11 @@ Principais registros:
 | 100810073 | TAZEPIN | LABORATORIO CLIMAX SA | Cancelado |
 | 100890267 | CLORIDRATO DE RANITIDINA | MERCK S/A | Cancelado |
 | 101070196 | PYLORID | GLAXOSMITHKLINE BRASIL LTDA | Cancelado |
+| 101070229 | ANTAK | GLAXOSMITHKLINE BRASIL LTDA | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 140 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

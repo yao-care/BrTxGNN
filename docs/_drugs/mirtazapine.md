@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 462
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Mirtazapine: nova indicação prevista, Síndrome de Ohdo e variantes (Ohdo syndrome and variants) (nível de evidência L5). Indicação original: Antidepressivos"
 monitor_inn: "MIRTAZAPINE"
 predicted_indications: ["Ohdo syndrome and variants", "blepharophimosis - intellectual disability syndrome, Ohdo type", "benign paroxysmal torticollis of infancy"]
@@ -82,6 +82,8 @@ Os 36 registros são de medicamentos de componente único; 30 estão **válidos*
 
 <!-- review:end br-lic-20261112-mirtazapine-1 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100290224 | REMERON | ORGANON FARMACÊUTICA LTDA. | Ativo |
@@ -115,7 +117,9 @@ Os 36 registros são de medicamentos de componente único; 30 estão **válidos*
 | 167730606 | MIRTAZAPINA | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
 | 183260289 | MIRTAZAPINA | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 36 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 Entre os demais registros cancelados constam também as marcas Myzapy, Myrtz ODT e Menelat.
 

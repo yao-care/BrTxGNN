@@ -86,6 +86,8 @@ Dos 21 registros, 15 encontram-se válidos. Principais registros:
 
 <!-- review:end br-lic-20261112-dutasteride-1 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 101070231 | AVODART | GLAXOSMITHKLINE BRASIL LTDA | Ativo |
@@ -109,6 +111,8 @@ Dos 21 registros, 15 encontram-se válidos. Principais registros:
 | 101070312 | DUTASTERIDA | GLAXOSMITHKLINE BRASIL LTDA | Cancelado |
 | 105730469 | DUTASTERIDA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Cancelado |
 | 112130463 | DUTASTERIDA | BIOSINTÉTICA FARMACÊUTICA LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

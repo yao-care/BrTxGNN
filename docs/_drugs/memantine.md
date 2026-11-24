@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 442
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Memantine"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "kyphoscoliotic heart disease", "migraine with brainstem aura"]
 description: "Memantine: nova indicação prevista, Hipertensão pulmonar (pulmonary hypertension) (nível de evidência L5). Indicação original: OUTROS PRODUTOS QUE ATUAM SOBRE O SISTEMA NERVOSO"
@@ -120,6 +120,8 @@ O medicamento é comercializado. Principais registros (30 de 58):
 
 <!-- review:end br-lic-20261112-memantine-1 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100330159 | ZIDER | LIBBS FARMACÊUTICA LTDA | Ativo |
@@ -153,7 +155,9 @@ O medicamento é comercializado. Principais registros (30 de 58):
 | 105831018 | CLORIDRATO DE MEMANTINA | GERMED FARMACEUTICA LTDA | Ativo |
 | 109740286 | KAMPPI | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 58 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

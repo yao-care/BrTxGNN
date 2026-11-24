@@ -8,7 +8,7 @@ indication_count: 7
 drugbank_id: DB06736
 monitor_inn: "Aceclofenac"
 predicted_indications: ["brachyolmia-amelogenesis imperfecta syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "hypermobility of coccyx", "Kummell disease"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Aceclofenaco: nova indicação prevista, Síndrome braquiolmia-amelogênese imperfeita (brachyolmia-amelogenesis imperfecta syndrome) (nível de evidência L5)."
 ---
 
@@ -67,13 +67,44 @@ Portanto, não foi estabelecida uma ligação mecanística plausível. A pontua�
 
 Os dados compilados indicam 31 registros, dos quais 15 estão válidos (monocomponente) e 16 cancelados. A lista está completa. Os textos de indicação aprovada e as formas farmacêuticas não constam nos dados locais.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| 100430817 | Proflam | Não informada | Não informada |
-| 100431307 | Aceclofenaco (Eurofarma) | Não informada | Não informada |
-| 102351053 | Aceclofenaco (EMS) | Não informada | Não informada |
-| 103920206 | Flandy | Não informada | Não informada |
-| 143810223 | Dflax | Não informada | Não informada |
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100430817 | PROFLAM | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431307 | ACECLOFENACO | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 102351053 | ACECLOFENACO | EMS S/A | Ativo |
+| 103920172 | ACECLOFENACO | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 103920206 | FLANDY | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 104810145 | ACECLOFENACO | 1FARMA INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 105830541 | ACECLOFENACO | GERMED FARMACEUTICA LTDA | Ativo |
+| 118190282 | ACECLOFENACO | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 118190302 | ACEFLOR | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 123520100 | ACECLOFENACO | RANBAXY FARMACÊUTICA LTDA | Ativo |
+| 143810214 | ACECLOFENACO | CIMED INDUSTRIA S.A | Ativo |
+| 143810223 | DFLAX | CIMED INDUSTRIA S.A | Ativo |
+| 156490012 | ACECLOFENACO | UNICHEM FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 156510064 | ACECLOFENACO | ZYDUS NIKKHO FARMACÊUTICA LTDA | Ativo |
+| 167730065 | ACECLO-GRAN | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 102350841 | ACECLOFENACO | EMS S/A | Cancelado |
+| 102350920 | FEBUPEN | EMS S/A | Cancelado |
+| 103920056 | CECOFLAN | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Cancelado |
+| 104971130 | ACECLOFENACO | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Cancelado |
+| 105830742 | ACECLOFENACO | GERMED FARMACEUTICA LTDA | Cancelado |
+| 108580179 | ACECLOFENAC | PRODOTTI LABORATÓRIO FARMACÊUTICO LTDA. | Cancelado |
+| 118190078 | ACECLOFENACO | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Cancelado |
+| 118190087 | CECOFENE | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Cancelado |
+| 118190158 | CECOFENE | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Cancelado |
+| 126750156 | ACECLOFENACO | NOVA QUIMICA FARMACÊUTICA S/A | Cancelado |
+| 126750290 | ACEFLOR | NOVA QUIMICA FARMACÊUTICA S/A | Cancelado |
+| 135690419 | ACECLOFENACO | EMS SIGMA PHARMA LTDA | Cancelado |
+| 135690513 | ALGIFENACO | EMS SIGMA PHARMA LTDA | Cancelado |
+| 156510065 | FENLOC | ZYDUS NIKKHO FARMACÊUTICA LTDA | Cancelado |
+| 167730014 | ACECLOFENACO | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 31 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 Os cinco registros acima são exemplos entre os válidos; os demais seguem o mesmo padrão de dados ausentes.
 

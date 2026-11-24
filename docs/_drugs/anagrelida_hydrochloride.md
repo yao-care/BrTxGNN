@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00261
 monitor_inn: "Anagrelide"
 predicted_indications: ["reactive thrombocytosis", "inverse Klippel-Trenaunay syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Anagrelida Hydrochloride: nova indicação prevista, Trombocitose reativa (reactive thrombocytosis) (nível de evidência L5)."
 ---
 
@@ -86,10 +86,14 @@ Nenhuma das publicações abaixo estuda diretamente o uso da anagrelida na tromb
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 102351325 | MONBOC | Não informada | Outros produtos não enquadrados em classe terapêutica específica |
-| Registro 106390302 | AGRYLIN | Não informada | Outros agentes antineoplásicos |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 102351325 | MONBOC | Ativo |
+| 106390302 | AGRYLIN | Ativo |
+
+<!-- licenses:end -->
 
 ## Citotoxicidade
 

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 270
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dimenhydrinate: nova indicação prevista, Urticária Alérgica (Allergic Urticaria) (nível de evidência L5). Indicação original: Antieméticos e antinauseantes"
 monitor_inn: "DIMENHYDRINATE"
 predicted_indications: ["allergic urticaria", "cold urticaria"]
@@ -84,6 +84,8 @@ O medicamento é comercializado no país. Os cinco principais:
 
 <!-- review:end br-lic-20261106-dimenhydrinate-1 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 103920092 | DIMENIDRIN | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
@@ -117,7 +119,9 @@ O medicamento é comercializado no país. Os cinco principais:
 | 120190090 | NAUSEDRINATO | GREENPHARMA QUÍMICA E FARMACÊUTICA LTDA | Cancelado |
 | 141070011 | EMEBRID | PHARLAB INDÚSTRIA FARMACÊUTICA S.A. | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 34 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 
@@ -145,7 +149,7 @@ As advertências e contraindicações da bula não estavam disponíveis nos dado
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois a lacuna atual impede a triagem de segurança.
 - Obter dados do mecanismo de ação no DrugBank.
 - Buscar estudos clínicos em humanos que avaliem eficácia em urticária, em comparação com anti-histamínicos de segunda geração.
-- Avaliar a viabilidade regulatória, considerando que o medicamento é comercializado, com 14 registros válidos de 14.
+- Avaliar a viabilidade regulatória, considerando que o medicamento é comercializado, com 14 registros válidos de 34.
 - Revisar a carga anticolinérgica e sedativa em populações vulneráveis (idosos, pacientes com glaucoma, hiperplasia prostática ou doença cardiovascular).
 
 <!-- review:begin log -->

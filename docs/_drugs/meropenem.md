@@ -82,6 +82,8 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100430034 | MEROPENÉM | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -107,6 +109,8 @@ Atualmente não há ensaios clínicos relacionados registrados.
 | 155840600 | MEROPENEM | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Cancelado |
 | 188300028 | ZYLPEN | VIATRIS FARMACEUTICA DO BRASIL LTDA | Cancelado |
 | 188300054 | MEROPENÉM | VIATRIS FARMACEUTICA DO BRASIL LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

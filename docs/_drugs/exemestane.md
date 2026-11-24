@@ -63,6 +63,8 @@ A pontuação elevada (0,9983) reflete apenas a previsão do modelo, sem respald
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100431336 | PROEXTY | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -74,6 +76,8 @@ A pontuação elevada (0,9983) reflete apenas a previsão do modelo, sem respald
 | 103840001 | AROMASIN | PHARMACIA BRASIL LTDA | Cancelado |
 | 121100335 | EXEMESTANO | PFIZER BRASIL LTDA | Cancelado |
 | 149320013 | EXEMESTANO | KEMMI PHARMA LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Citotoxicidade
 

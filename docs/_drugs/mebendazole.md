@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Mebendazole"
 predicted_indications: ["acne (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Mebendazole: nova indicação prevista, Acne (acne (disease)) (nível de evidência L5). Indicação original: ANTI-HELMINTICOS DO TRATO GASTRINTESTINAL"
 ---
 
@@ -81,6 +81,8 @@ Segundo os dados compilados, o status de comercialização é "Comercializado".
 
 <!-- review:end br-lic-20261111-mebendazole-1 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100431253 | HELMIBEN MEB | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -91,7 +93,6 @@ Segundo os dados compilados, o status de comercialização é "Comercializado".
 | 109630041 | MENTELMIN | THEODORO F SOBRAL & CIA LTDA | Ativo |
 | 138410036 | HELMILAB | NATULAB LABORATORIO S.A | Ativo |
 | 154230030 | MENBEL | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
-| 154230069 | MEBENDAZOL | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Cancelado |
 | 154230210 | MEBENDAZOL | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
 | 100020104 | ASCARIOBEL | LABORATORIO SEDABEL LTDA | Cancelado |
 | 100380019 | HELMIN | BRASTERAPICA PHARMACEUTICA LTDA. | Cancelado |
@@ -113,8 +114,11 @@ Segundo os dados compilados, o status de comercialização é "Comercializado".
 | 102940080 | DUCTELMIN | NEOLATINA COMÉRCIO E INDÚSTRIA FARMACEUTICA S.A | Cancelado |
 | 102980112 | CRISDAZOL | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Cancelado |
 | 102980259 | MEBENDAZOL | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Cancelado |
+| 102980263 | MEBENDAZOL | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 121 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

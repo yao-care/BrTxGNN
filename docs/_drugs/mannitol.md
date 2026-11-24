@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 434
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Mannitol: nova indicação prevista, Síndrome nefrogênica de antidiurese inapropriada (nephrogenic syndrom… (nível de evidência L5). Indicação original: Reposição hidroeletrolítica e alimentação parent…"
 monitor_inn: "Mannitol"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "acute pulmonary heart disease", "exercise-induced malignant hyperthermia", "familial periodic paralysis", "hypokalemic periodic paralysis", "congenital multicore myopathy with external ophthalmoplegia", "moderate multiminicore disease with hand involvement", "nephrogenic diabetes insipidus", "central core myopathy"]
@@ -82,6 +82,8 @@ Principais registros (máximo de 5):
 
 <!-- review:end br-lic-20261106-mannitol-2 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100410052 | PURISOLE SM | FRESENIUS KABI BRASIL LTDA | Ativo |
@@ -115,7 +117,9 @@ Principais registros (máximo de 5):
 | 100850108 | MANITOL | LABORATORIOS B. BRAUN S/A | Cancelado |
 | 101390012 | SOLUCAO DE MANITOL 20% | LABORATÓRIO SANOBIOL LTDA | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 42 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

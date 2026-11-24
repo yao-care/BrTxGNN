@@ -80,6 +80,8 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 109740314 | BOSENTANA | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
@@ -94,6 +96,8 @@ Atualmente não há ensaios clínicos relacionados registrados.
 | 122140087 | USENTA | ADIUM S.A. | Cancelado |
 | 155380001 | TRACLEER | ACTELION PHARMACEUTICALS DO BRASIL LTDA | Cancelado |
 | 155380003 | BOSENTANA | ACTELION PHARMACEUTICALS DO BRASIL LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

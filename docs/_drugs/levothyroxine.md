@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Levothyroxine"
 predicted_indications: ["renal hypodysplasia/aplasia", "bilateral renal agenesis", "Potter sequence", "Carney complex"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Levothyroxine: nova indicação prevista, Hipodisplasia/aplasia renal (renal hypodysplasia/aplasia) (nível de evidência L5). Indicação original: HORMONIOS TIREOIDEANOS SIMPLES OU ASSOCIADOS ENTRE SI"
 ---
 
@@ -72,13 +72,18 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 100890359 | EUTHYROX | Não informada | Hormônios tireoidianos simples ou associados entre si |
-| Registro nº 105530329 | SYNTHROID | Não informada | Hormônios tireoidianos simples ou associados entre si |
-| Registro nº 100890416 | LEVOTIROXINA SÓDICA | Não informada | Hormônios tireoidianos simples ou associados entre si |
-| Registro nº 183260353 | PURAN T4 | Não informada | Hormônios tireoidianos simples ou associados entre si |
-| Registro nº 105730366 | LEVOID | Não informada | Hormônios tireoidianos simples ou associados entre si |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 100890202 | EUTHYROX | Ativo |
+| 100890359 | EUTHYROX | Ativo |
+| 100890416 | LEVOTIROXINA SÓDICA | Ativo |
+| 105530329 | SYNTHROID | Ativo |
+| 105730366 | LEVOID | Ativo |
+| 183260353 | PURAN T4 | Ativo |
+
+<!-- licenses:end -->
 
 Há ainda um sexto registro válido (nº 100890202, EUTHYROX), com a mesma indicação.
 

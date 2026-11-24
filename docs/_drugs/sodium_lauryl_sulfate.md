@@ -5,7 +5,7 @@ layout: default
 title: Sodium Lauryl Sulfate
 parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 592
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Sodium Lauryl Sulfate: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
 monitor_inn: "Sodium lauryl sulfate"
 predicted_indications: []
@@ -48,22 +48,14 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada | Situação |
-|---------|------|------|-----------|------|
-| Registro 106890199 | ENEMIN | Não informada | Laxantes | Ativo |
-| Registro 100431404 | MINILAX | Não informada | Laxantes | Ativo |
+<!-- licenses:begin -->
 
-<!-- review:begin br-row-20261112-sodium_lauryl_sulfate-1 -->
+| Registro | Produto | Situação |
+|------|------|------|
+| 100431404 | MINILAX | Ativo |
+| 106890199 | ENEMIN | Ativo |
 
-> **Correção de verificação (2026-11-12)**: Texto original: “ENEMIN / Não informada / Laxantes / Cancelado” Segundo os dados abertos da ANVISA (2026-11-05), o registro 106890199 (ENEMIN) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-row-20261112-sodium_lauryl_sulfate-1 -->
-
-<!-- review:begin br-row-20261112-sodium_lauryl_sulfate-2 -->
-
-> **Correção de verificação (2026-11-12)**: Texto original: “MINILAX / Não informada / Laxantes / Cancelado” Segundo os dados abertos da ANVISA (2026-11-05), o registro 100431404 (MINILAX) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-row-20261112-sodium_lauryl_sulfate-2 -->
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 
@@ -82,8 +74,8 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-12 | Tabela: registro 106890199 (ENEMIN) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Tabela: registro 100431404 (MINILAX) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 106890199 (ENEMIN) está ativo, não cancelado | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 100431404 (MINILAX) está ativo, não cancelado | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

@@ -75,12 +75,16 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 102980436 | LOPINAVIR + RITONAVIR | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
 | 198600010 | KALETRA | ABBVIE FARMACÊUTICA LTDA. | Ativo |
 | 105530242 | KALETRA | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Cancelado |
 | 110390223 | LOPINAVIR + RITONAVIR | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

@@ -65,9 +65,13 @@ Uma segunda previsão, **excesso de fator V com trombose espontânea** (pontuaç
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 104540192 | RADICAVA | DAIICHI SANKYO BRASIL FARMACÊUTICA LTDA | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

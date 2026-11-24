@@ -86,6 +86,8 @@ Os riscos conhecidos do fármaco (agranulocitose, miocardite, convulsões e efei
 
 Dos 13 registros localizados, 5 estão válidos e 8 estão cancelados. Os registros válidos são todos de medicamentos com clozapina isolada:
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 101830148 | CLOZAPINA | LABORATORIO FARMACEUTICO DO ESTADO DE PERNAMBUCO G | Ativo |
@@ -101,6 +103,8 @@ Dos 13 registros localizados, 5 estão válidos e 8 estão cancelados. Os regist
 | 112130191 | VIDMAX | BIOSINTÉTICA FARMACÊUTICA LTDA | Cancelado |
 | 123610039 | ZOLAPIN | UCB BIOPHARMA LTDA. | Cancelado |
 | 156510074 | XYNAZ | ZYDUS NIKKHO FARMACÊUTICA LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

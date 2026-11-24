@@ -98,11 +98,15 @@ Literatura de contexto, em doenças linfoides diferentes:
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 112780076 | ONCASPAR | LABORATÓRIOS SERVIER DO BRASIL LTDA | Ativo |
 | 156280010 | ONCASPAR | BAXALTA BRASIL BIOCIÊNCIA LTDA | Cancelado |
 | 169790012 | ONCASPAR | SHIRE FARMACÊUTICA BRASIL LTDA. | Cancelado |
+
+<!-- licenses:end -->
 
 ---
 

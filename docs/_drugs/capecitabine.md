@@ -70,6 +70,8 @@ A pontuação do TxGNN é muito alta (0,9994), mas é apenas uma saída do model
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100431209 | CAPECITABINA | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -88,6 +90,8 @@ A pontuação do TxGNN é muito alta (0,9994), mas é apenas uma saída do model
 | 146820045 | CAPECARE | SUN FARMACÊUTICA DO BRASIL LTDA | Cancelado |
 | 151430057 | CAPECITABINA | DR. REDDYS FARMACÊUTICA DO BRASIL LTDA | Cancelado |
 | 151430059 | APECIBINE | DR. REDDYS FARMACÊUTICA DO BRASIL LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 A lista acima mostra os 16 registros.
 

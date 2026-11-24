@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Gemcitabine"
 predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mixed adenocarcinoma", "endometrial mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "mucin-rich endometrial endometrioid adenocarcinoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Gemcitabine: nova indicação prevista, adenocarcinoma mucinoso do reto (rectum mucinous adenocarcinoma) (nível de evidência L5). Indicação original: ANTINEOPLASICO"
 ---
 
@@ -64,6 +64,8 @@ A pontuação alta do modelo (0,9977) parece refletir principalmente esse perfil
 
 Segundo os dados compilados para este relatório, a gencitabina consta como comercializada no Brasil. Principais registros (lista parcial; texto de indicação registrado apenas como classe terapêutica):
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100330146 | GENLIBBS | LIBBS FARMACÊUTICA LTDA | Ativo |
@@ -97,7 +99,9 @@ Segundo os dados compilados para este relatório, a gencitabina consta como come
 | 155370061 | GENABYX | ACCORD FARMACÊUTICA LTDA | Cancelado |
 | 156510062 | ZYBINA | ZYDUS NIKKHO FARMACÊUTICA LTDA | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 32 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Citotoxicidade
 

@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00542
 monitor_inn: "Benazepril"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Benazepril Hydrochloride: nova indicação prevista, Doença renal hipertensiva maligna (malignant hypertensive renal disease) (nível de evidência L5). Indicação original: ANTI-HIPERTENSIVOS SIMPLES"
 ---
 
@@ -70,11 +70,15 @@ Contudo, a evidência é indireta (efeito de classe e racional mecanístico). Ne
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 109740293 | BHENA | Não informada | Anti-hipertensivos simples |
-| Registro 109740289 | Cloridrato de Benazepril | Não informada | Anti-hipertensivos simples |
-| Registro 109740145 | PRESS PLUS | Não informada | Anti-hipertensivos |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 109740145 | PRESS PLUS | Ativo |
+| 109740289 | CLORIDRATO DE BENAZEPRIL | Ativo |
+| 109740293 | BHENA | Ativo |
+
+<!-- licenses:end -->
 
 ---
 

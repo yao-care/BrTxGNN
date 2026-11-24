@@ -77,6 +77,8 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 102350145 | NARIDRIN | EMS S/A | Ativo |
@@ -98,6 +100,8 @@ Atualmente não há ensaios clínicos relacionados registrados.
 | 137640177 | ENJOY | ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 | 142570069 | NAZOSIL | LUCIOMED FARMACÊUTICA DO BRASIL LTDA | Cancelado |
 | 172870036 | ENGOV | HYPERA S.A. | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

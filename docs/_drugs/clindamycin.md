@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 228
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clindamycin: nova indicação prevista, Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconj… (nível de evidência L5). Indicação original: Antibióticos sistêmicos simples"
 monitor_inn: "Clindamycin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis", "non-human animal disease", "neurotrophic keratopathy", "epidemic keratoconjunctivitis", "postmenopausal atrophic vaginitis"]
@@ -74,6 +74,8 @@ Atualmente não há literatura relacionada à indicação principal prevista (ce
 
 Todos os 15 registros encontrados têm licença válida. Os cinco primeiros:
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 101070339 | CLINDOXYL | GLAXOSMITHKLINE BRASIL LTDA | Ativo |
@@ -107,7 +109,9 @@ Todos os 15 registros encontrados têm licença válida. Os cinco primeiros:
 | 103700262 | CLINDAMIN - D | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
 | 103700269 | CLINDAMIN - C | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 62 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

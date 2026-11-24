@@ -84,9 +84,13 @@ Para hipertensão pulmonar, atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 112363433 | ERFANDEL | JANSSEN-CILAG FARMACÊUTICA LTDA | Ativo |
+
+<!-- licenses:end -->
 
 ## Citotoxicidade
 

@@ -64,9 +64,13 @@ Além disso, um ADC citotóxico é biologicamente improvável como tratamento de
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 104540191 | ENHERTU | DAIICHI SANKYO BRASIL FARMACÊUTICA LTDA | Ativo |
+
+<!-- licenses:end -->
 
 ## Citotoxicidade
 

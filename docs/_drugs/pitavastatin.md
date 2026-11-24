@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "pitavastatin"
 predicted_indications: ["cholesterol-ester transfer protein deficiency", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "feline acquired immunodeficiency syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Pitavastatin: nova indicação prevista, Deficiência da proteína de transferência de ésteres de colesterol (pr… (nível de evidência L5). Indicação original: Antilipêmicos"
 ---
 
@@ -86,13 +86,19 @@ Pessoas com HIV têm risco cardiovascular cerca de 50% maior do que pessoas sem 
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 109740355 | Pitavastatina Cálcica | — | Antilipêmicos |
-| Registro 141070657 | Pitavastatina Cálcica | — | Antilipêmicos |
-| Registro 103720245 | Lester | — | Antilipêmicos |
-| Registro 100330206 | Ebatz | — | Antilipêmicos |
-| Registro 100431355 | Pivast | — | Antilipêmicos |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 100330206 | EBATZ | Ativo |
+| 100431110 | PITAVASTATINA CALCICA | Ativo |
+| 100431355 | PIVAST | Ativo |
+| 103720245 | LESTER | Ativo |
+| 109740346 | LIVALO | Ativo |
+| 109740355 | PITAVASTATINA CÁLCICA | Ativo |
+| 141070657 | PITAVASTATINA CÁLCICA | Ativo |
+
+<!-- licenses:end -->
 
 Há 7 registros válidos de medicamento de ingrediente único; os 5 principais estão listados acima (os demais: 100431110, Pitavastatina Cálcica, e 109740346, Livalo).
 

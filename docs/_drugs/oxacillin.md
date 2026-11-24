@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 496
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Oxacillin: nova indicação prevista, Epiglotite (Epiglottitis) (nível de evidência L5). Indicação original: Penicilinas resistentes à penicilinase"
 monitor_inn: "oxacillin"
 predicted_indications: ["epiglottitis", "laryngitis", "bacterial arthritis", "urinary tract infection (disease)"]
@@ -73,6 +73,8 @@ Atualmente não há literatura relacionada.
 
 Os 6 registros no Brasil estão válidos; o medicamento é comercializado.
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 103700282 | OXACILINA SODICA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
@@ -103,6 +105,8 @@ Os 6 registros no Brasil estão válidos; o medicamento é comercializado.
 | 188300017 | BACTOCILIN | VIATRIS FARMACEUTICA DO BRASIL LTDA | Cancelado |
 | 189000031 | OXANON | ARISTON INDÚSTRIAS QUÍMICAS E FARMACÊUTICAS LTDA | Cancelado |
 
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 - **Contraindicações (grafo de conhecimento, não texto de bula)**: doença renal, piureter, colite por *Clostridium difficile*, enterocolite necrosante perinatal, mononucleose infecciosa e síndrome de infecção crônica pelo vírus Epstein-Barr.
@@ -122,7 +126,7 @@ Consulte a bula para advertências e contraindicações formais, que não estava
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão para epiglotite tem pontuação alta no modelo (TxGNN, deep learning), mas não conta com ensaios clínicos nem literatura (nível L5). O uso estaria, além disso, dentro do espectro antibacteriano já conhecido, e não seria um reposicionamento claramente novo. O medicamento é comercializado no Brasil, com 6 registros válidos de 6.
+- A previsão para epiglotite tem pontuação alta no modelo (TxGNN, deep learning), mas não conta com ensaios clínicos nem literatura (nível L5). O uso estaria, além disso, dentro do espectro antibacteriano já conhecido, e não seria um reposicionamento claramente novo. O medicamento é comercializado no Brasil, com 6 registros válidos de 27.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA para advertências e contraindicações formais.

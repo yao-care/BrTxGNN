@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "ATENOLOL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Atenolol: nova indicação prevista, Doença renal hipertensiva maligna (malignant hypertensive renal disease) (nível de evidência L5). No Brasil, registros na ANVISA: 128 (ativos: 40)"
 ---
 
@@ -83,6 +83,8 @@ Nenhuma publicação estuda diretamente a doença renal hipertensiva maligna. Pa
 
 Foram listados 20 registros, mas o total é de pelo menos 20 e a lista pode ser parcial. Abaixo estão os registros válidos de medicamentos de componente único (os registros não trazem forma farmacêutica nem texto de indicação aprovada).
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100430951 | ATENOLOL + CLORTALIDONA | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -116,7 +118,9 @@ Foram listados 20 registros, mas o total é de pelo menos 20 e a lista pode ser 
 | 118190204 | ATENOLAB | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
 | 125680146 | ATENOLOL | PRATI DONADUZZI & CIA LTDA | Ativo |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 128 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

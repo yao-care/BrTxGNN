@@ -73,6 +73,8 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 106460172 | ACETATO DE DESMOPRESSINA | LABORATORIO QUIMICO FARMACEUTICO BERGAMO LTDA | Ativo |
@@ -85,6 +87,8 @@ Atualmente não há ensaios clínicos relacionados registrados.
 | 128760001 | DDAVP | LABORATÓRIOS FERRING LTDA | Cancelado |
 | 146820022 | D-VOID | SUN FARMACÊUTICA DO BRASIL LTDA | Cancelado |
 | 154710003 | D-VOID | SUN FARMACÊUTICA LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 681
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Zinc Chloride: nova indicação prevista, Retinopatia Diabética Não Proliferativa Grave (severe nonproliferativ… (nível de evidência L5). Indicação original: Nutrientes parenterais"
 monitor_inn: "ZINC CHLORIDE"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "Sjogren syndrome", "dry eye syndrome"]
@@ -71,15 +71,13 @@ Vale notar que o uso original (infusão intravenosa como nutriente) é muito dif
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 100410165 | ADDAVEN | Não informada | Nutrientes parenterais |
+<!-- licenses:begin -->
 
-<!-- review:begin br-row-20261112-zinc_chloride-1 -->
+| Registro | Produto | Situação |
+|------|------|------|
+| 100410165 | ADDAVEN | Ativo |
 
-> **Correção de verificação (2026-11-12)**: Texto original: “Registro nº 100410165 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 100410165 (ADDAVEN) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-row-20261112-zinc_chloride-1 -->
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 
@@ -119,7 +117,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “o único registro no Brasil está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Tabela: registro 100410165 (ADDAVEN) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 100410165 (ADDAVEN) está ativo, não cancelado | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: zinc sulfate prescribing information, Camber Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49698d00-f44b-4b1f-ae34-6b9067911757) |
 
 <!-- review:end log -->

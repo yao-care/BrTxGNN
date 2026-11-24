@@ -73,12 +73,16 @@ Atualmente não há literatura relacionada para a síndrome da pessoa rígida cl
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 135690035 | AGLUCOSE | EMS SIGMA PHARMA LTDA | Ativo |
 | 100200132 | STABILIC | UNIAO QUIMICA INTERNACIONAL LTDA | Cancelado |
 | 104290084 | GLUCOBAY | BAYER S.A. | Cancelado |
 | 170560074 | GLUCOBAY | BAYER S.A. | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

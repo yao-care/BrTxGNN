@@ -88,6 +88,8 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 101830156 | DARUNAVIR | LABORATORIO FARMACEUTICO DO ESTADO DE PERNAMBUCO G | Ativo |
@@ -96,6 +98,8 @@ Atualmente não há ensaios clínicos relacionados registrados.
 | 112363387 | PREZISTA | JANSSEN-CILAG FARMACÊUTICA LTDA | Ativo |
 | 112363434 | SYMTUZA® | JANSSEN-CILAG FARMACÊUTICA LTDA | Ativo |
 | 188300114 | DARUNAVIR | VIATRIS FARMACEUTICA DO BRASIL LTDA | Ativo |
+
+<!-- licenses:end -->
 
 Há ainda o registro 102980571 (Darvyr, Cristália), totalizando 6 registros válidos. Todos constam como produtos de princípio ativo único.
 

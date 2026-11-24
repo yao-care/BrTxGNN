@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 457
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Miconazole: nova indicação prevista, Acne (acne vulgaris) (nível de evidência L4). Indicação original: Antimicótico"
 monitor_inn: "Miconazole"
 predicted_indications: ["acne (disease)"]
@@ -82,6 +82,8 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100430991 | CREVAGIN | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -96,7 +98,6 @@ Atualmente não há ensaios clínicos relacionados registrados.
 | 154230112 | GINO-COLON | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
 | 154230115 | TINIDAZOL + NITRATO DE MICONAZOL | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
 | 156510132 | METRONIDAZOL + NITRATO DE MICONAZOL | ZYDUS NIKKHO FARMACÊUTICA LTDA | Ativo |
-| 157211207 | DAKTARIN GEL ORAL | KENVUE LTDA. | Cancelado |
 | 178170068 | TINIDAZOL + NITRATO DE MICONAZOL | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Ativo |
 | 178170806 | AMPLIUM G | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Ativo |
 | 100920060 | MICOTICS | LABORATORIO INDUSTRIAL FARMACÊUTICO LIFAR LTDA | Cancelado |
@@ -114,8 +115,11 @@ Atualmente não há ensaios clínicos relacionados registrados.
 | 102350620 | NITRATO DE MICONAZOL | EMS S/A | Cancelado |
 | 102350622 | NITRATO DE MICONAZOL | EMS S/A | Cancelado |
 | 102350706 | TINIDAZOL + NITRATO DE MICONAZOL | EMS S/A | Cancelado |
+| 102350746 | NITRATO DE MICONAZOL | EMS S/A | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 131 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

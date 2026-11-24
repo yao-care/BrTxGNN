@@ -5,7 +5,7 @@ layout: default
 title: Sodium Chloride
 parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 590
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Sodium Chloride: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
 monitor_inn: "Sodium chloride"
 predicted_indications: []
@@ -50,6 +50,8 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 
 Os cinco principais:
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100330126 | MAXIDRATE | LIBBS FARMACÊUTICA LTDA | Ativo |
@@ -83,7 +85,9 @@ Os cinco principais:
 | 102980533 | SOLUÇÃO DE RINGER | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
 | 102980540 | SOLUÇÃO FISIOLÓGICA A 0,9% | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 445 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

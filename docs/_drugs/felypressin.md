@@ -64,6 +64,8 @@ Outras indicações previstas pelo modelo também carecem de respaldo: retinopat
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 101770028 | PRILONEST | DFL INDÚSTRIA E COMÉRCIO S/A | Ativo |
@@ -72,6 +74,8 @@ Outras indicações previstas pelo modelo também carecem de respaldo: retinopat
 | 109930004 | PRILOSTESINA 3% | DLA PHARMACEUTICAL LTDA | Cancelado |
 | 109930013 | CITANEST 3% COM OCTAPRESSIN | DLA PHARMACEUTICAL LTDA | Cancelado |
 | 149010001 | CITANEST 3% COM OCTAPRESSIN | DENTSPLY IND.COM. LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

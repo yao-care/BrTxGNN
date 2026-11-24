@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 355
 evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "HYDROCORTISONE"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
 description: "Hydrocortisone: nova indicação prevista, Alopecia areata (nível de evidência L2). No Brasil, registros na ANVISA: 74 (ativos: 14)"
@@ -85,6 +85,8 @@ A hidrocortisona 1% é um corticosteroide de baixa potência. No ensaio randomiz
 
 A hidrocortisona consta como **comercializada** no Brasil. Os dados compilados registram 74 registros no total, dos quais 14 estão válidos e 60 cancelados. Alguns exemplos de registros de produtos com um único princípio ativo:
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 102350808 | HIDROCORTISONA | EMS S/A | Ativo |
@@ -117,6 +119,10 @@ A hidrocortisona consta como **comercializada** no Brasil. Os dados compilados r
 | 102350472 | SUCCINATO SÓDICO DE HIDROCORTISONA | EMS S/A | Cancelado |
 | 102350499 | CLIOQUINOL + HIDROCORTISONA | EMS S/A | Cancelado |
 | 102350806 | HIDROCORTISONA | EMS S/A | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 74 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

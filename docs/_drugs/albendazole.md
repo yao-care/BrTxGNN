@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 34
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Albendazole"
 predicted_indications: ["coenurosis"]
 description: "Albendazole: nova indicação prevista, Cenurose (coenurosis) (nível de evidência L5). No Brasil, registros na ANVISA: 97 (ativos: 24)"
@@ -96,6 +96,8 @@ Todas as publicações tratam de neurocisticercose ou temas correlatos, sem estu
 
 Há registros válidos de albendazol isolado no Brasil; a situação de mercado é comercializado. Os dados indicam 97 registros no total, dos quais 24 válidos e 73 cancelados. Abaixo, uma seleção de registros válidos.
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 102350513 | ALBENDAZOL | EMS S/A | Ativo |
@@ -128,6 +130,10 @@ Há registros válidos de albendazol isolado no Brasil; a situação de mercado 
 | 101810486 | ALBENDAZOL | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 | 101810495 | ALBENDAZOL | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 | 101810502 | ALBENDAZOL | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 97 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

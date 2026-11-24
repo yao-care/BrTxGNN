@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Dexchlorpheniramine maleate"
 predicted_indications: ["acute intermittent porphyria"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dexchlorpheniramine Maleate: nova indicação prevista, Porfiria intermitente aguda (acute intermittent porphyria) (nível de evidência L5). Indicação original: ANTI-HISTAMINICOS SISTEMICOS"
 ---
 
@@ -65,13 +65,34 @@ Um ponto de atenção: alguns anti-histamínicos de primeira geração são list
 
 Os dados compilados indicam situação de comercialização "Comercializado", com 20 registros na lista (que pode ser parcial). Os registros abaixo são uma amostra dos principais:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| 155840373 | HISTAMIN | Não informada | Anti-histamínicos sistêmicos |
-| 144930081 | SOFTEZ | Não informada | Antialérgicos tópicos |
-| 138410020 | POLARADEX | Não informada | Antialérgicos |
-| 178170811 | POLARAMINE | Não informada | Antialérgicos |
-| 104971430 | HISLOR | Não informada | Antialérgicos |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 102351191 | MALEATO DE DEXCLORFENIRAMINA | Ativo |
+| 102351338 | POLAPIC | Ativo |
+| 102351339 | POLAPIC | Ativo |
+| 103700309 | MALEATO DE DEXCLORFENIRAMINA | Ativo |
+| 103700542 | MALEATO DE DEXCLORFENIRAMINA | Ativo |
+| 103920241 | MALEATO DE DEXCLORFENIRAMINA | Ativo |
+| 104810153 | MALEATO DE DEXCLORFENIRAMINA | Ativo |
+| 104971430 | HISLOR | Ativo |
+| 110850036 | MALEATO DE DEXCLORFENIRAMINA | Ativo |
+| 115600083 | POLAREN | Ativo |
+| 125680058 | MALEATO DE DEXCLORFENIRAMINA | Ativo |
+| 138410020 | POLARADEX | Ativo |
+| 143810130 | MALEATO DE DEXCLORFENIRAMINA | Ativo |
+| 143810288 | XÔ! PÓS PICADA | Ativo |
+| 144930081 | SOFTEZ | Ativo |
+| 154230012 | HYSTIN | Ativo |
+| 155840373 | HISTAMIN | Ativo |
+| 155840573 | HISTAMIN | Ativo |
+| 167730264 | MALEATO DE DEXCLORFENIRAMINA | Ativo |
+| 178170811 | POLARAMINE | Ativo |
+
+Os dados contêm apenas parte dos registros; a lista pode estar incompleta.
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

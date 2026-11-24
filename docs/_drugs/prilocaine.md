@@ -96,6 +96,8 @@ Alertas de segurança vindos da literatura de outras indicações: em dermatite 
 
 O medicamento é comercializado no Brasil: os 5 registros existentes (5 de 5) estão válidos.
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100850244 | BARITEKAL HIPERBÁRICA | LABORATORIOS B. BRAUN S/A | Ativo |
@@ -112,6 +114,8 @@ O medicamento é comercializado no Brasil: os 5 registros existentes (5 de 5) es
 | 135690496 | LIDOCAÍNA + PRILOCAÍNA | EMS SIGMA PHARMA LTDA | Cancelado |
 | 149010001 | CITANEST 3% COM OCTAPRESSIN | DENTSPLY IND.COM. LTDA | Cancelado |
 | 167730044 | LIDOCAÍNA + PRILOCAÍNA | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

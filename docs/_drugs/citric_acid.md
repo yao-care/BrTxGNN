@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 225
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "citric acid"
 predicted_indications: ["stomach disease", "pharyngitis", "acute laryngopharyngitis", "postgastrectomy syndrome", "nasal cavity disease", "papillary conjunctivitis", "blepharoconjunctivitis", "rhinitis"]
 description: "Citric Acid: nova indicação prevista, doença gástrica (stomach disease) (nível de evidência L5). Indicação original: ANTICONVULSIVANTES"
@@ -80,13 +80,23 @@ Nenhum dos estudos recuperados avalia o ácido cítrico como tratamento de doen�
 
 Há 11 registros, todos válidos, de produtos de ingrediente único.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 156510018 | ZYVALPREX | Não informada | Anticonvulsivantes |
-| Registro 104971402 | FRUTAXX | Não informada | Antiácido |
-| Registro 154230185 | STOMALIV | Não informada | Antiácido |
-| Registro 143810302 | FRUMAGNA | Não informada | Antiácido |
-| Registro 178170039 | ESTOMAZIL | Não informada | Antiácido |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 104810124 | DIGIAZIA | Ativo |
+| 104971402 | FRUTAXX | Ativo |
+| 128760019 | PICOPREP | Ativo |
+| 143810164 | FRUSALT | Ativo |
+| 143810302 | FRUMAGNA | Ativo |
+| 154230185 | STOMALIV | Ativo |
+| 156510018 | ZYVALPREX | Ativo |
+| 178170039 | ESTOMAZIL | Ativo |
+| 192900002 | SAL DE ANDREWS | Ativo |
+| 192900003 | SAL DE FRUTA ENO | Ativo |
+| 192900011 | SONRISAL | Ativo |
+
+<!-- licenses:end -->
 
 A lista mostra apenas 5 dos 11 registros.
 

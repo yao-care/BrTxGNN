@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Norfloxacin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "punctate epithelial keratoconjunctivitis", "premalignant hematological system disease", "diffuse scleroderma", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Norfloxacin: nova indicação prevista, Síndrome de hiperviscosidade policlonal (nível de evidência L5). Indicação original: Infecções bacterianas (infecção urinária, febre tifoide, disenteria…"
 ---
 
@@ -73,6 +73,8 @@ Atualmente não há literatura relacionada com a síndrome de hiperviscosidade p
 
 Dos registros listados (lista possivelmente parcial), 2 estão válidos e 18 cancelados. Abaixo, os registros válidos e alguns cancelados. Os registros não trazem forma farmacêutica nem texto de indicação aprovada.
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100431276 | NORFLOXACINO | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -106,7 +108,9 @@ Dos registros listados (lista possivelmente parcial), 2 estão válidos e 18 can
 | 100890225 | UROSEPTAL | MERCK S/A | Cancelado |
 | 100890295 | NORFLOXACINO | MERCK S/A | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 85 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 544
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Praziquantel: usos conhecidos e situação de mercado no Brasil; atualmente sem novo candidato a indicação"
 predicted_indications: []
 ---
@@ -75,15 +75,18 @@ O modelo TxGNN não apresentou nenhum candidato com pontuação igual ou superio
 
 ## Informações de Comercialização no Brasil
 
-| Registro | Produto | Forma farmacêutica | Situação |
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
-| 110630036 | FAR-MANGUINHOS PRAZIQUANTEL |  | Ativo |
-| 104070084 | PRAZIQUANTEL |  | Cancelado |
-| 100890012 | CESTOX |  | Cancelado |
-| 112330046 | LAQFA PRAZIQUANTEL |  | Cancelado |
-| 105040022 | TENIUM |  | Cancelado |
-| 118360010 | ZIQUEMAX |  | Cancelado |
-| 100890072 | CISTICID |  | Cancelado |
+| 110630036 | FAR-MANGUINHOS PRAZIQUANTEL | FUNDAÇÃO OSWALDO CRUZ | Ativo |
+| 100890012 | CESTOX | MERCK S/A | Cancelado |
+| 100890072 | CISTICID | MERCK S/A | Cancelado |
+| 105040022 | TENIUM | LABORATÓRIOS OSÓRIO DE MORAES LTDA | Cancelado |
+| 112330046 | LAQFA PRAZIQUANTEL | LABORATORIO QUIMICO FARMACEUTICO DA AERONAUTICA | Cancelado |
+| 118360010 | ZIQUEMAX | SILVESTRE LABS QUÍMICA E FARMACÊUTICA LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

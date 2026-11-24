@@ -92,12 +92,16 @@ Apesar dessa coerência mecanística, não há ensaio de Fase 3 nem sinal de efi
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 183260326 | CAPRELSA | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
 | 113001195 | CAPRELSA | SANOFI-AVENTIS FARMACÊUTICA LTDA | Cancelado |
 | 116180246 | CAPRELSA | ASTRAZENECA DO BRASIL LTDA | Cancelado |
 | 125430028 | CAPRELSA | GENZYME DO BRASIL LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ---
 

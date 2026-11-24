@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB01002
 monitor_inn: "Levobupivacaine"
 predicted_indications: ["gastroduodenitis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Levobupivacaína Hydrochloride: nova indicação prevista, gastroduodenite (gastroduodenitis) (nível de evidência L5). Indicação original: ANESTESICOS LOCAIS"
 ---
 
@@ -63,10 +63,14 @@ Há uma limitação importante: o fármaco é administrado por infiltração, vi
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| 102980315 | Novabupi (sem vasoconstritor) | Não informada | Anestésicos locais |
-| 102980160 | Novabupi | Não informada | Anestésicos locais |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 102980160 | NOVABUPI | Ativo |
+| 102980315 | NOVABUPI (SEM VASOCONSTRITOR) | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

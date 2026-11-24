@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB06626
 monitor_inn: "Axitinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Axitinibe: nova indicação prevista, lipossarcoma (liposarcoma) (nível de evidência L4). No Brasil, registros na ANVISA: 2 (ativos: 1)"
 ---
 
@@ -74,10 +74,14 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 121100452 | INLYTA | Não informada | Não informada |
-| Registro 102160240 | INLYTA | Não informada | Não informada |
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 121100452 | INLYTA | PFIZER BRASIL LTDA | Ativo |
+| 102160240 | INLYTA | LABORATÓRIOS PFIZER LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 Dos registros listados, um está válido e um está cancelado.
 

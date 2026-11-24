@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00110
 monitor_inn: "Palivizumab"
 predicted_indications: ["benign neoplasm of tongue", "epiglottis neoplasm", "cervical neuroblastoma", "benign neoplasm of hypopharynx", "benign neoplasm of floor of mouth", "tumor of testis and paratestis", "cystic neoplasm", "schwannoma of jugular foramen", "mesenchymoma", "thyroglossal duct cyst"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Palivizumabe: nova indicação prevista, Neoplasia benigna da língua (benign neoplasm of tongue) (nível de evidência L5). No Brasil, registros na ANVISA: 3 (ativos: 1)"
 ---
 
@@ -70,11 +70,15 @@ A pontuação de 0,9994 é um resultado computacional do modelo. Ela não é cor
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| 116180286 | SYNAGIS | Não informada | Não informada |
-| 105530231 | SYNAGIS | Não informada | Não informada |
-| 198600001 | SYNAGIS | Não informada | Não informada |
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 116180286 | SYNAGIS | ASTRAZENECA DO BRASIL LTDA | Ativo |
+| 105530231 | SYNAGIS | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Cancelado |
+| 198600001 | SYNAGIS | ABBVIE FARMACÊUTICA LTDA. | Cancelado |
+
+<!-- licenses:end -->
 
 Dos 3 registros, 1 está válido (AstraZeneca do Brasil) e 2 estão cancelados (Abbott e AbbVie).
 

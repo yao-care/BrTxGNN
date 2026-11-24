@@ -90,12 +90,16 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 102980157 | ENFLURAN | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
 | 100630217 | ENURAN | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 | 100630220 | ENFLURANO | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 | 105530138 | ETRANE | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

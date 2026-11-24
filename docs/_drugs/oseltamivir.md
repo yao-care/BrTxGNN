@@ -3,7 +3,7 @@ layout: default
 title: Oseltamivir
 parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 492
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Oseltamivir: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
 predicted_indications: []
 indication_count: 0
@@ -72,16 +72,21 @@ O modelo TxGNN não apresenta nenhum candidato com pontuação igual ou superior
 
 ## Informações de Comercialização no Brasil
 
-| Registro | Produto | Forma farmacêutica | Situação |
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
-| 182610008 | OSELFLU |  | Ativo |
-| 105350240 | GLOBOFLU |  | Ativo |
-| 110630127 | FARMANGUINHOS OSELTAMIVIR |  | Ativo |
-| 109740381 | FOSFATO DE OSELTAMIVIR |  | Ativo |
-| 101000555 | TAMIFLU |  | Ativo |
-| 110360269 | OSELGUARD |  | Ativo |
-| 104971456 | UNIFLU |  | Ativo |
-| 182610006 | FOSFATO DE OSELTAMIVIR |  | Ativo |
+| 101000555 | TAMIFLU | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Ativo |
+| 102980611 | GRIPXIA | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 104971456 | UNIFLU | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 105350240 | GLOBOFLU | LABORATÓRIO GLOBO SA | Ativo |
+| 109740381 | FOSFATO DE OSELTAMIVIR | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 110360269 | OSELGUARD | HEMAFARMA COM E IND FARMACEUTICA LTDA | Ativo |
+| 110630127 | FARMANGUINHOS OSELTAMIVIR | FUNDAÇÃO OSWALDO CRUZ | Ativo |
+| 182610006 | FOSFATO DE OSELTAMIVIR | NATCOFARMA DO BRASIL LTDA | Ativo |
+| 182610008 | OSELFLU | NATCOFARMA DO BRASIL LTDA | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

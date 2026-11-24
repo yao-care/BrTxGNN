@@ -71,9 +71,13 @@ Outras indicações previstas, todas também em nível L5 e com recomendação H
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 146820112 | ILUMYA | SUN FARMACÊUTICA DO BRASIL LTDA | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

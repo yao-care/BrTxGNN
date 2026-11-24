@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 76
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "ARIPIPRAZOLE"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
 description: "Aripiprazole: nova indicação prevista, Paralisia do olhar horizontal familiar com escoliose progressiva (gaze palsy, familial horizontal, with progressive scoliosis) (nível de evidência L5)."
@@ -66,6 +66,8 @@ Não foram identificados ensaios clínicos nem publicações que estudem aripipr
 
 Os registros locais indicam que o aripiprazol está comercializado no Brasil, com registros válidos e outros cancelados. Alguns exemplos de registros:
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100470587 | ARIPIPRAZOL | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
@@ -98,6 +100,10 @@ Os registros locais indicam que o aripiprazol está comercializado no Brasil, co
 | 156510059 | KAVIUM | ZYDUS NIKKHO FARMACÊUTICA LTDA | Ativo |
 | 156510122 | KAVIUM ODT | ZYDUS NIKKHO FARMACÊUTICA LTDA | Ativo |
 | 170420003 | ARIPIPRAZOL | MCG INDUSTRIA FARMACEUTICA E IMPORTAÇAO LTDA | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 40 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

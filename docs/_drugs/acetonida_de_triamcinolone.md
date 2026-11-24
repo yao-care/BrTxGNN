@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB00620
 monitor_inn: "Triamcinolone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Acetonida De Triamcinolone: nova indicação prevista, Alopecia mucinosa (nível de evidência L5). Indicação original: GLICOCORTICOIDES TOPICOS - ASSOCIACAO MEDICAMENTOSA"
 ---
 
@@ -78,13 +78,34 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 A lista abaixo pode ser parcial: há pelo menos 20 registros, dos quais 19 válidos e 1 cancelado.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| 154230127 | ONCICREM-A | Não informada | Glicocorticoides tópicos - associação medicamentosa |
-| 102350735 | Acetonida de triancinolona | Não informada | Glicocorticoides tópicos simples, exceto uso oftálmico |
-| 143810148 | COLUJET | Não informada | Glicocorticoides tópicos simples, exceto uso oftálmico |
-| 186200013 | ALLENASAL | Não informada | Glicocorticoides sistêmicos |
-| 117240005 | OPTHAAC 40 | Não informada | Outros medicamentos com ação no aparelho visual |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 100431043 | TRIANCINOLONA DE ACETONIDA | Ativo |
+| 100431370 | MUD ORAL | Ativo |
+| 102350650 | ACETONIDO DE TRIANCINOLONA+SULFATO DE NEOMICINA+GRAMICIDINA+ | Ativo |
+| 102350651 | ACETONIDO DE TRIANCINOLONA+SULFATO DE NEOMICINA+GRAMICIDINA+ | Ativo |
+| 102350735 | ACETONIDA DE TRIANCINOLONA | Ativo |
+| 102351225 | COLIAFT | Ativo |
+| 105830393 | TRIANCINOLONA ACETONIDA | Ativo |
+| 117240005 | OPTHAAC 40 | Ativo |
+| 125680122 | TRIANCINOLONA ACETONIDA | Ativo |
+| 125680372 | ACSISA | Ativo |
+| 137640162 | OMCILON A | Ativo |
+| 143810148 | COLUJET | Ativo |
+| 143810289 | TRIANCINOLONA ACETONIDA | Ativo |
+| 144930082 | ORALSEPT | Ativo |
+| 154230127 | ONCICREM-A | Ativo |
+| 154230131 | ACETONIDA DE TRIANCINOLONA | Ativo |
+| 167730156 | ONCILEG-A | Ativo |
+| 167730448 | ONCILEG | Ativo |
+| 186200013 | ALLENASAL | Ativo |
+| 186200012 | NASACORT | Cancelado |
+
+Os dados contêm apenas parte dos registros; a lista pode estar incompleta.
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Atropine"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Atropine: nova indicação prevista, Transtorno de enxaqueca (migraine disorder) (nível de evidência L5). Indicação original: ANTIESPASMODICOS E ANTICOLINERGICOS GASTRINTESTINAIS"
 ---
 
@@ -82,6 +82,8 @@ As publicações abaixo são as mais próximas do tema; nenhuma testa a atropina
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 101470091 | ATROPINA | ALLERGAN PRODUTOS FARMACÊUTICOS LTDA | Ativo |
@@ -115,7 +117,9 @@ As publicações abaixo são as mais próximas do tema; nenhuma testa a atropina
 | 148690022 | ATROP | FORMIL FARMACÊUTICA LTDA | Cancelado |
 | 151700011 | PASMODEX | ISOFARMA INDUSTRIAL FARMACÊUTICA LTDA | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 32 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

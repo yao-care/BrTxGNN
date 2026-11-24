@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 219
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "chloramphenicol"
 predicted_indications: ["diffuse scleroderma", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "punctate epithelial keratoconjunctivitis"]
 description: "Chloramphenicol: nova indicação prevista, Esclerodermia difusa (diffuse scleroderma) (nível de evidência L5). Indicação original: CLORANFENICOL E ANALOGOS"
@@ -74,13 +74,20 @@ Nenhum desses estudos avalia o cloranfenicol como tratamento.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 100410201 | Succinato sódico de cloranfenicol | Não informada | Cloranfenicol e análogos |
-| Registro nº 116370118 | Arifenicol | Não informada | Cloranfenicol e análogos |
-| Registro nº 156510092 | Kolpocervix | Não informada | Cicatrizantes |
-| Registro nº 102980505 | Kollagenase com cloranfenicol | Não informada | Cicatrizantes |
-| Registro nº 102980493 | Regencel | Não informada | Outros medicamentos com ação no aparelho visual |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 102980017 | FIBRINASE COM CLORANFENICOL | Ativo |
+| 102980493 | REGENCEL | Ativo |
+| 102980505 | KOLLAGENASE COM CLORANFENICOL | Ativo |
+| 103720287 | DBRIZ | Ativo |
+| 105530259 | IRUXOL | Ativo |
+| 116370118 | ARIFENICOL | Ativo |
+| 156510092 | KOLPOCERVIX | Ativo |
+| 100410201 | SUCCINATO SÓDICO DE CLORANFENICOL | Cancelado |
+
+<!-- licenses:end -->
 
 A lista mostra os 5 principais registros; há 8 registros no total, dos quais 7 estão válidos.
 

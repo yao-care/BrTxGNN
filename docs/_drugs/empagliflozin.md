@@ -66,6 +66,8 @@ A pontuação alta (0,9903) vem do modelo TxGNN (deep learning) e pode refletir 
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100330234 | EMPATIQ | LIBBS FARMACÊUTICA LTDA | Ativo |
@@ -95,6 +97,8 @@ A pontuação alta (0,9903) vem do modelo TxGNN (deep learning) e pode refletir 
 | 151430102 | EMPAGLIFLOZINA | DR. REDDYS FARMACÊUTICA DO BRASIL LTDA | Ativo |
 | 165070051 | AMPOLDO | CAMBER FARMACEUTICA LTDA | Ativo |
 | 170420033 | EMPAGLIFLOZINA | MCG INDUSTRIA FARMACEUTICA E IMPORTAÇAO LTDA | Ativo |
+
+<!-- licenses:end -->
 
 São listados os 5 principais. Os registros constam como produto isolado nos dados compilados.
 

@@ -70,10 +70,14 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 123610087 | CIMZIA | UCB BIOPHARMA LTDA. | Ativo |
 | 116180239 | CIMZIA | ASTRAZENECA DO BRASIL LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

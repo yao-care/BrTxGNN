@@ -95,12 +95,16 @@ Para a direção alternativa (neoplasia fibroblástica):
 
 Os 3 registros (3 de 3) encontram-se **válidos**; o medicamento está comercializado.
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 125760026 | HALAVEN | UNITED MEDICAL LTDA | Ativo |
 | 182610024 | MESILATO DE ERIBULINA | NATCOFARMA DO BRASIL LTDA | Ativo |
 | 182610025 | HALIXY | NATCOFARMA DO BRASIL LTDA | Ativo |
 | 173100001 | HALAVEN | EISAI LABORATÓRIOS LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Citotoxicidade
 

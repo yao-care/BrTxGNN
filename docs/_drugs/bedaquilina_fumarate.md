@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB08903
 monitor_inn: "Bedaquiline"
 predicted_indications: ["vulvovaginal candidiasis", "fascioliasis", "urea cycle disorder", "esophageal candidiasis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bedaquilina Fumarate: nova indicação prevista, candidíase vulvovaginal (vulvovaginal candidiasis) (nível de evidência L5). Indicação original: OUTROS MEDICAMENTOS USADOS NO TRATAMENTO DA TUBERCULOSE"
 ---
 
@@ -72,9 +72,13 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 112363422 | SIRTURO | Não informada | Outros medicamentos usados no tratamento da tuberculose |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 112363422 | SIRTURO | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

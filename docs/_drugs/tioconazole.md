@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 640
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "tioconazole"
 predicted_indications: ["vulvitis", "postmenopausal atrophic vaginitis"]
 description: "Tioconazole: nova indicação prevista, Vulvite (vulvitis) (nível de evidência L5). No Brasil, registros na ANVISA: 62 (ativos: 18)"
@@ -83,6 +83,8 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 O medicamento consta como comercializado no Brasil, com 18 registros válidos e 44 cancelados, num total de 62 registros. Os principais registros válidos estão abaixo; vários são associações com tinidazol, cujo registro não descreve a situação do tioconazol isolado.
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 101550194 | TAKIL | MARJAN INDÚSTRIA E COMÉRCIO LTDA | Ativo |
@@ -115,6 +117,10 @@ O medicamento consta como comercializado no Brasil, com 18 registros válidos e 
 | 102350621 | TIOCONAZOL | EMS S/A | Cancelado |
 | 102350623 | TIOCONAZOL | EMS S/A | Cancelado |
 | 102350627 | TIOCONAZOL | EMS S/A | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 62 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

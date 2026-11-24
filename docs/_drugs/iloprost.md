@@ -81,10 +81,14 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 170560076 | VENTAVIS | BAYER S.A. | Ativo |
 | 100200122 | VENTAVIS | UNIAO QUIMICA INTERNACIONAL LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ---
 

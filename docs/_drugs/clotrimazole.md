@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Clotrimazole"
 predicted_indications: ["acne (disease)", "postmenopausal atrophic vaginitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clotrimazole: nova indicação prevista, acne (acne (disease)) (nível de evidência L5). Indicação original: ANTIMICOTICOS PARA USO TOPICO"
 ---
 
@@ -72,6 +72,8 @@ A sustentação é fraca. O único ensaio registrado testa uma combinação fixa
 
 Há pelo menos 20 registros na ANVISA, mas a lista pode ser parcial. Principais registros:
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 102350440 | CLOTRIMAZOL | EMS S/A | Ativo |
@@ -105,7 +107,9 @@ Há pelo menos 20 registros na ANVISA, mas a lista pode ser parcial. Principais 
 | 101810384 | CLOTRIMAZOL | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 | 101810418 | CLOTRIMAZOL + ACETATO DE DEXAMETASONA | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 84 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB00051
 monitor_inn: "Adalimumab"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease", "vertebral disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Adalimumabe: nova indicação prevista, hipermobilidade do cóccix (hypermobility of coccyx) (nível de evidência L5). No Brasil, registros na ANVISA: 14 (ativos: 11)"
 ---
 
@@ -74,13 +74,26 @@ Atualmente não há literatura relacionada.
 
 Os dados locais indicam situação de comercialização "Comercializado", com 11 registros válidos e 3 cancelados. Os registros listados são de produtos de componente único (adalimumabe isolado):
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Situação |
-|---------|------|------|-----------|
-| 100410167 | IDACIO | Não informada | Válido |
-| 100470628 | HYRIMOZ | Não informada | Válido |
-| 101430074 | ATENFE | Não informada | Válido |
-| 102440015 | AMGEVITA | Não informada | Válido |
-| 110630163 | BIO-MANGUINHOS ADALIMUMABE | Não informada | Válido |
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100410167 | IDACIO | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100470628 | HYRIMOZ | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 101430074 | ATENFE | MEGALABS FARMACEUTICA S.A. | Ativo |
+| 102440015 | AMGEVITA | AMGEN BIOTECNOLOGIA DO BRASIL LTDA. | Ativo |
+| 110630163 | BIO-MANGUINHOS ADALIMUMABE | FUNDAÇÃO OSWALDO CRUZ | Ativo |
+| 116640003 | HULIO | BIOCON BIOLOGICS DO BRASIL LTDA | Ativo |
+| 121100479 | XILBRILADA | PFIZER BRASIL LTDA | Ativo |
+| 122340050 | INSTITUTO BUTANTAN - ADALIMUMABE | INSTITUTO BUTANTAN | Ativo |
+| 159210004 | HADLIMA | SAMSUNG BIOEPIS BR PHARMACEUTICAL LTDA. | Ativo |
+| 192160004 | YUFLYMA | CELLTRION HEALTHCARE DISTRIBUICAO DE PRODUTOS FARM | Ativo |
+| 198600003 | HUMIRA | ABBVIE FARMACÊUTICA LTDA. | Ativo |
+| 105530294 | HUMIRA | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Cancelado |
+| 167130005 | HULIO | EQUILIBRIO COMERCIO DE PRODUTOS FARMACEUTICOS LTDA | Cancelado |
+| 188300093 | HULIO | VIATRIS FARMACEUTICA DO BRASIL LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 Há outros registros válidos (HULIO, XILBRILADA, INSTITUTO BUTANTAN - ADALIMUMABE, HADLIMA, YUFLYMA, HUMIRA) e três registros cancelados, não detalhados nesta tabela.
 

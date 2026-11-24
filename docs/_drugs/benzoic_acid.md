@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 123
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Benzoic Acid: nova indicação prevista, Bronquite (bronchitis) (nível de evidência L5). Indicação original: Expectorantes balsâmicos e mucolítico"
 monitor_inn: "benzoic acid"
 predicted_indications: ["bronchitis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "dry eye syndrome", "palmar fibromatosis", "Ledderhose disease", "infantile digital fibromatosis", "hereditary angioedema with C1Inh deficiency", "posterior leukoencephalopathy syndrome", "C1 inhibitor deficiency"]
@@ -75,15 +75,13 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 101430027 | PENETRO | Não informada | Expectorantes balsâmicos e mucolítico |
+<!-- licenses:begin -->
 
-<!-- review:begin br-row-20261112-benzoic_acid-1 -->
+| Registro | Produto | Situação |
+|------|------|------|
+| 101430027 | PENETRO | Ativo |
 
-> **Correção de verificação (2026-11-12)**: Texto original: “Registro nº 101430027 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 101430027 (PENETRO) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-row-20261112-benzoic_acid-1 -->
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 
@@ -127,7 +125,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, o único registro na ANVISA está cancelado e faltam dados de segurança de bula” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Tabela: registro 101430027 (PENETRO) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 101430027 (PENETRO) está ativo, não cancelado | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

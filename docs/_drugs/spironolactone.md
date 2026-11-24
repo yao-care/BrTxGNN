@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 598
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Spironolactone: nova indicação prevista, Hipotricose simples do couro cabeludo (hypotrichosis simplex of the s… (nível de evidência L5). Indicação original: Diuréticos simples"
 monitor_inn: "SPIRONOLACTONE"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia"]
@@ -76,7 +76,7 @@ O medicamento é comercializado no Brasil, com 10 licenças válidas de 29.
 
 <!-- review:begin br-lic-20261106-spironolactone-2 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “Todos os 8 registros estão válidos; o medicamento é comercializado no Brasil, com 8 licenças válidas de 8.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 29 registros para este medicamento, 10 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “Todos os 8 registros estão válidos; o medicamento é comercializado no Brasil, com 8 licenças válidas de 8.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06; números atualizados em 2026-11-24). Nos dados (dados abertos de medicamentos da ANVISA) constam 29 registros para este medicamento, 10 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-spironolactone-2 -->
 
@@ -85,6 +85,8 @@ O medicamento é comercializado no Brasil, com 10 licenças válidas de 29.
 > **Correção de verificação (2026-11-12)**: Texto original: “no Brasil, com 8 licenças válidas de 8.” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 29 registros para este medicamento, 10 válidos e 19 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261112-spironolactone-1 -->
+
+<!-- licenses:begin -->
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -117,6 +119,8 @@ O medicamento é comercializado no Brasil, com 10 licenças válidas de 29.
 | 155840300 | ESPIRONOLACTONA | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Cancelado |
 | 183260444 | LASILACTONA | SANOFI MEDLEY FARMACÊUTICA LTDA. | Cancelado |
 | 194270068 | DIACQUA | MOMENTA FARMACÊUTICA LTDA. | Cancelado |
+
+<!-- licenses:end -->
 
 (Exibidos os 29 registros.)
 
@@ -171,7 +175,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-10-31 | Removido: “(registros cancelados)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-06 | Removido: “Todos os 8 registros estão válidos; o” | Corrigido (revisado em 2026-11-12; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | Removido: “Todos os 8 registros estão válidos; o” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Licenças válidas: 8 de 8 → 10 de 29 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Licenças válidas: 8 de 8 → 10 de 29 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Contagem exibida: “Exibidos os 5 primeiros de 8 registros” → “Exibidos os 29 registros” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |

@@ -63,12 +63,16 @@ A pontuação alta do TxGNN (0,9996) vem do modelo TxGNN (deep learning) e pode 
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 138400002 | ORFADIN | INNOVATIVE MEDICINES BRASIL SP DISTRIBUICAO DE MED | Ativo |
 | 138400003 | ORFADIN | INNOVATIVE MEDICINES BRASIL SP DISTRIBUICAO DE MED | Ativo |
 | 175360002 | NITIKABS | PHARMEDIC PHARMACEUTICALS, IMPORTACAO, EXPORTACAO, | Ativo |
 | 175360001 | NITIKABS | PHARMEDIC PHARMACEUTICALS IMPORTAÇÃO, DISTRIBUIÇÃO | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

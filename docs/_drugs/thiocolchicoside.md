@@ -66,6 +66,8 @@ Outra previsão do modelo, **delírio por abstinência alcoólica** (pontuação
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100431471 | COLTRAX | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -79,6 +81,8 @@ Outra previsão do modelo, **delírio por abstinência alcoólica** (pontuação
 | 183260378 | COLTRAX | SANOFI MEDLEY FARMACÊUTICA LTDA. | Cancelado |
 | 183260384 | COLTRAX INJ | SANOFI MEDLEY FARMACÊUTICA LTDA. | Cancelado |
 | 189000044 | TIOCOLCHICOSIDEO | ARISTON INDÚSTRIAS QUÍMICAS E FARMACÊUTICAS LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Citotoxicidade
 

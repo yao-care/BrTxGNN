@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB01072
 monitor_inn: "Atazanavir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Atazanavir Sulfate: nova indicação prevista, Infecção pelo vírus da imunodeficiência símia (simian immunodeficiency virus infection) (nível de evidência L5)."
 ---
 
@@ -72,9 +72,13 @@ Não há ensaios clínicos registrados relacionados a esta previsão.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 110630133 | Sulfato de Atazanavir | Não informada | Antivirótico (inibe a replicação viral) |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 110630133 | SULFATO DE ATAZANAVIR | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

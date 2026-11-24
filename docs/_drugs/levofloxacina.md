@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB01137
 monitor_inn: "Levofloxacin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Levofloxacina: nova indicação prevista, Ceratoconjuntivite epitelial puntiforme (punctate epithelial keratoconjunctivitis) (nível de evidência L5). No Brasil, registros na ANVISA: 78 (ativos: 38)"
 ---
 
@@ -77,13 +77,44 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Os registros reunidos não trazem texto de indicação aprovada nem forma farmacêutica. A tabela lista os principais registros válidos de medicamentos com levofloxacina isolada.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| 100431111 | Tamiram | Não informada | Não informada |
-| 100431176 | Levofloxacino hemiidratado | Não informada | Não informada |
-| 100431417 | Tavok | Não informada | Não informada |
-| 101180617 | Levoxin | Não informada | Não informada |
-| 102980589 | Levotac | Não informada | Não informada |
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100430671 | TAMIRAM | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431111 | TAMIRAM | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431176 | LEVOFLOXACINO HEMIIDRATADO | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431201 | LEVOFLOXACINO HEMIIDRATADO | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431262 | LEVOFLOXACINO HEMI-HIDRATADO | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431417 | TAVOK | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431420 | TAVOK | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431551 | TAMIRAM | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100470434 | LEVOFLOXACINO | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 101180149 | LEVOXIN | APSEN FARMACEUTICA S/A | Ativo |
+| 101180617 | LEVOXIN | APSEN FARMACEUTICA S/A | Ativo |
+| 102350757 | LEVOFLOXACINO | EMS S/A | Ativo |
+| 102980303 | LEVOTAC | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980589 | LEVOTAC | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103110129 | LEVOFLOXACINO | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Ativo |
+| 103110147 | LEVAFLOX | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Ativo |
+| 103110153 | LEVOFLOXACINO HEMI-HIDRATADO | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Ativo |
+| 103700660 | LEVOFLOXACINO | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103720251 | ALEVO | SUPERA FARMA LABORATÓRIOS S.A | Ativo |
+| 103720270 | ALEVO | SUPERA FARMA LABORATÓRIOS S.A | Ativo |
+| 104810097 | LEVOFLOXACINO | 1FARMA INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 105350206 | LEVOFLOXACINO | LABORATÓRIO GLOBO SA | Ativo |
+| 105730126 | PYLORIPAC RETRAT | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730453 | LIVEPAX | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730656 | LEVOFLOXACINO | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105830948 | LEVOFLOXACINO HEMI-HIDRATADO | GERMED FARMACEUTICA LTDA | Ativo |
+| 112363316 | LEVAQUIN | JANSSEN-CILAG FARMACÊUTICA LTDA | Ativo |
+| 123520086 | LEVOFLOXACINO | RANBAXY FARMACÊUTICA LTDA | Ativo |
+| 125680260 | LEVOFLOXACINO | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 135690728 | TAVAFLOX | EMS SIGMA PHARMA LTDA | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 78 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 Há registros válidos de levofloxacina isolada e também de combinações; a lista acima considera apenas os de ingrediente único.
 

@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB01062
 monitor_inn: "Oxybutynin"
 predicted_indications: ["restless legs syndrome", "gastroduodenitis", "peptic ulcer disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Oxybutynin Hydrochloride: nova indicação prevista, Síndrome das pernas inquietas (restless legs syndrome) (nível de evidência L5). Indicação original: ANTIESPASMODICOS"
 ---
 
@@ -64,13 +64,17 @@ Assim, a pontuação alta do modelo deve ser lida com cautela: ela indica um pad
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 101180108 | RETEMIC | Não informada | Antiespasmódicos |
-| Registro 102980510 | DRY | Não informada | Antiespasmódicos |
-| Registro 102980506 | Cloridrato de oxibutinina | Não informada | Antiespasmódicos |
-| Registro 100630304 | Cloridrato de oxibutinina | Não informada | Antiespasmódicos |
-| Registro 103720286 | NOURIN | Não informada | Antiespasmódicos |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 100630304 | CLORIDRATO DE OXIBUTININA | Ativo |
+| 101180108 | RETEMIC | Ativo |
+| 102980506 | CLORIDRATO DE OXIBUTININA | Ativo |
+| 102980510 | DRY | Ativo |
+| 103720286 | NOURIN | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

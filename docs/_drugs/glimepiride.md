@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 344
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Glimepiride: nova indicação prevista, Síndrome do membro rígido focal (focal stiff limb syndrome) (nível de evidência L5). Indicação original: Antidiabéticos"
 monitor_inn: "GLIMEPIRIDE"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
@@ -68,6 +68,8 @@ Outras previsões do modelo seguem a mesma lógica (síndrome da pessoa rígida 
 
 Dos 13 registros encontrados, 13 estão válidos. Os 5 principais:
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100430965 | BETES | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -101,7 +103,9 @@ Dos 13 registros encontrados, 13 estão válidos. Os 5 principais:
 | 105250020 | AZULIX | TORRENT DO BRASIL LTDA | Cancelado |
 | 105250070 | AZULIX MF | TORRENT DO BRASIL LTDA | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 63 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

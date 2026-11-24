@@ -82,6 +82,8 @@ Dos 29 registros, 10 encontram-se **válidos**. Os cinco principais:
 
 <!-- review:end br-lic-20261112-fentanyl-1 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 102980081 | FENTANEST | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
@@ -113,6 +115,8 @@ Dos 29 registros, 10 encontram-se **válidos**. Os cinco principais:
 | 155730048 | FENTORA | TEVA FARMACÊUTICA LTDA. | Cancelado |
 | 167730022 | FENTALIX | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 | 167730119 | CITRATO DE FENTANILA | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

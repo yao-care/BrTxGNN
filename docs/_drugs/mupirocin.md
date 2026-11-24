@@ -74,6 +74,8 @@ Há, contudo, limitações importantes. A mupirocina é formulada apenas para us
 
 Os 8 registros estão válidos (8 de 8); o medicamento é comercializado atualmente no Brasil.
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100630269 | MUPIROCINA | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
@@ -96,6 +98,8 @@ Os 8 registros estão válidos (8 de 8); o medicamento é comercializado atualme
 | 119610021 | BACROCIN | BL INDÚSTRIA OTICA LTDA | Cancelado |
 | 124510009 | PIROCITOM | TOMMUS QUÍMICA FARMACÊUTICA LTDA | Cancelado |
 | 172870389 | BACTRONEO | HYPERA S.A. | Cancelado |
+
+<!-- licenses:end -->
 
 ---
 

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 65
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Ampicillin"
 predicted_indications: ["laryngitis", "Ureaplasma urethritis", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "gingivitis", "paranasal sinus neoplasm (disease)", "bacterial arthritis", "conjunctivitis", "pericoronitis"]
 description: "Ampicillin: nova indicação prevista, laringite (laryngitis) (nível de evidência L5). No Brasil, registros na ANVISA: 125 (ativos: 17)"
@@ -82,7 +82,9 @@ Nenhum dos estudos abaixo avalia a ampicilina na laringite em si. São os mais p
 
 ## Informações de Comercialização no Brasil
 
-Há registros válidos na ANVISA, conforme os dados compilados (18 válidos e 107 cancelados, de um total de 125). Principais registros de ampicilina isolada:
+Há registros válidos na ANVISA, conforme os dados compilados (17 válidos e 108 cancelados, de um total de 125). Principais registros de ampicilina isolada:
+
+<!-- licenses:begin -->
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -92,7 +94,6 @@ Há registros válidos na ANVISA, conforme os dados compilados (18 válidos e 10
 | 103700299 | AMPICILINA SÓDICA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
 | 103700793 | ULCTAM | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
 | 110110013 | AMPICILINA SÓDICA + SULBACTAM SÓDICO | NEWCOM FARMACEUTICA LTDA. | Ativo |
-| 110110059 | AMPLATIL | NEWCOM FARMACEUTICA LTDA. | Cancelado |
 | 116370098 | CILINON | BLAU FARMACÊUTICA S.A. | Ativo |
 | 116370186 | AMPICILINA SÓDICA + SULBACTAM SÓDICO | BLAU FARMACÊUTICA S.A. | Ativo |
 | 116370202 | AMPCTAN | BLAU FARMACÊUTICA S.A. | Ativo |
@@ -116,6 +117,11 @@ Há registros válidos na ANVISA, conforme os dados compilados (18 válidos e 10
 | 101160086 | AMPICILINA | KNOLL PRODS QUIMS FARMACEUTICOS LTDA. | Cancelado |
 | 101310035 | AMPLITOR | COMPANHIA BRASILEIRA DE ANTIBIOTICOS-CIBRAN | Cancelado |
 | 101800006 | AMPICILINA SODICA | BRISTOL-MYERS SQUIBB FARMACÊUTICA LTDA | Cancelado |
+| 101810252 | AMPICIL | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 125 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

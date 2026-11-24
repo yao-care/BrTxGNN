@@ -79,10 +79,14 @@ Nenhuma das demais previsões apresenta ensaios clínicos ou literatura.
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 102440025 | TEPEZZA | AMGEN BIOTECNOLOGIA DO BRASIL LTDA. | Ativo |
 | 154280002 | TEPEZZA | HORIZON THERAPEUTICS BRASIL LTDA. | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

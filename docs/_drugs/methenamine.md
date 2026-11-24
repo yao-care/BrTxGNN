@@ -85,6 +85,8 @@ Para a indicação principal (uretrite por Ureaplasma), atualmente não há lite
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 102350283 | CYSTEX | EMS S/A | Ativo |
@@ -94,6 +96,8 @@ Para a indicação principal (uretrite por Ureaplasma), atualmente não há lite
 | 102980119 | METENAMINA | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Cancelado |
 | 103420052 | URODONAL | FARMABRAZ BETA ATALAIA FARMACEUTICA LTDA. | Cancelado |
 | 109220199 | UROSALIN | H B FARMA LABORATÓRIOS LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

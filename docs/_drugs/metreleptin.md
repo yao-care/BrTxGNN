@@ -63,10 +63,14 @@ Portanto, a previsão não tem respaldo mecanístico claro. Também não há ens
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100580123 | MYALEPT | CHIESI FARMACÊUTICA LTDA | Ativo |
 | 175040002 | MYALEPT | AMRYT BRASIL COMERCIO E IMPORTACAO DE MEDICAMENTOS | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

@@ -71,11 +71,15 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 126270009 | TAKHZYRO | TAKEDA FARMACEUTICA BRASIL LTDA | Ativo |
 | 106390290 | TAKHZYRO | TAKEDA PHARMA LTDA. | Cancelado |
 | 169790023 | TAKHZYRO | SHIRE FARMACÊUTICA BRASIL LTDA. | Cancelado |
+
+<!-- licenses:end -->
 
 Dos registros localizados, 1 está válido e 2 estão cancelados (a lista acima pode não mostrar todos eles).
 

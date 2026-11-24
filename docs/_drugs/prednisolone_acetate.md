@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "PREDNISOLONE ACETATE"
 predicted_indications: ["conjunctival folliculosis", "serous conjunctivitis except viral", "chronic follicular conjunctivitis", "parasitic conjunctivitis", "papillary conjunctivitis", "Angelucci syndrome", "pseudomembranous conjunctivitis", "acute hemorrhagic conjunctivitis", "vernal conjunctivitis", "postinfectious vasculitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Prednisolone Acetate: nova indicação prevista, Foliculose conjuntival (nível de evidência L5). Indicação original: Glicocorticoides tópicos oftalmológicos simples"
 ---
 
@@ -100,13 +100,19 @@ Como contexto, a única publicação identificada que avalia o acetato de predni
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 102980481 | OFTPRED | Não informada | Glicocorticoides tópicos oftalmológicos simples |
-| Registro nº 154230331 | VISIOPRED | Não informada | Glicocorticoides tópicos oftalmológicos simples |
-| Registro nº 154230190 | ACETATO DE PREDNISOLONA | Não informada | Glicocorticoides tópicos oftalmológicos simples |
-| Registro nº 101470006 | PRED | Não informada | Glicocorticoides tópicos oftalmológicos simples |
-| Registro nº 104971287 | STER | Não informada | Glicocorticoides tópicos oftalmológicos simples |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 101470006 | PRED | Ativo |
+| 101470175 | ZYPRED | Ativo |
+| 102980481 | OFTPRED | Ativo |
+| 104971287 | STER | Ativo |
+| 154230189 | PREDOPTIC | Ativo |
+| 154230190 | ACETATO DE PREDNISOLONA | Ativo |
+| 154230331 | VISIOPRED | Ativo |
+
+<!-- licenses:end -->
 
 ---
 

@@ -81,6 +81,8 @@ Há um sinal clínico direto: um estudo de fase Ib/II combinou lenvatinibe com e
 
 Há registros válidos de lenvatinibe no Brasil (5 válidos e 1 cancelado, entre 6 registros no total).
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 122140123 | MESILATO DE LENVATINIBE | ADIUM S.A. | Ativo |
@@ -89,6 +91,8 @@ Há registros válidos de lenvatinibe no Brasil (5 válidos e 1 cancelado, entre
 | 146820111 | MESILATO DE LENVATINIBE | SUN FARMACÊUTICA DO BRASIL LTDA | Ativo |
 | 146820114 | SAUMYA | SUN FARMACÊUTICA DO BRASIL LTDA | Ativo |
 | 173100003 | LENVIMA | EISAI LABORATÓRIOS LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Citotoxicidade
 

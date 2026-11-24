@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 453
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Metoclopramide: nova indicação prevista, Gastroduodenite (nível de evidência L5). Indicação original: Antieméticos e antinauseantes"
 monitor_inn: "METOCLOPRAMIDE"
 predicted_indications: ["gastroduodenitis", "peptic ulcer perforation"]
@@ -97,6 +97,8 @@ A pontuação muito alta do TxGNN (0,9990) é uma previsão computacional do mod
 
 Os 20 registros encontrados estão **válidos**; o medicamento é comercializado. Principais registros:
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 101860003 | METOCLOSANTISA | SANTISA LABORATÓRIO FARMACÊUTICO S/A | Ativo |
@@ -130,7 +132,9 @@ Os 20 registros encontrados estão **válidos**; o medicamento é comercializado
 | 102940116 | FLUCCIL | NEOLATINA COMÉRCIO E INDÚSTRIA FARMACEUTICA S.A | Cancelado |
 | 103110043 | ISTASIL | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 83 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ---
 

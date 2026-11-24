@@ -85,6 +85,8 @@ Todos os estudos abaixo são pré-clínicos (macacos ou camundongos humanizados)
 
 Os 4 registros abaixo constam como **válidos**; atualmente há 4 registros válidos de 4.
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 109290006 | VEMLIDY | GILEAD SCIENCES FARMACEUTICA DO BRASIL LTDA | Ativo |
@@ -92,6 +94,8 @@ Os 4 registros abaixo constam como **válidos**; atualmente há 4 registros vál
 | 109290008 | BIKTARVY | GILEAD SCIENCES FARMACEUTICA DO BRASIL LTDA | Ativo |
 | 112363434 | SYMTUZA® | JANSSEN-CILAG FARMACÊUTICA LTDA | Ativo |
 | 109290009 | GENVOYA | GILEAD SCIENCES FARMACEUTICA DO BRASIL LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

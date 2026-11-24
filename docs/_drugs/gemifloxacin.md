@@ -74,9 +74,13 @@ Consulte a bula para as advertências e contraindicações oficiais.
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 105730363 | FACTIVE | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Cancelado |
+
+<!-- licenses:end -->
 
 ## Conclusão e Próximos Passos
 

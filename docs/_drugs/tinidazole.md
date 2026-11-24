@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 639
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Tinidazole"
 predicted_indications: ["postmenopausal atrophic vaginitis", "ulceration of vulva", "vulvar neoplasm", "breast fibrocystic disease", "AIDS", "apocrine adenosis of breast", "blunt duct adenosis of breast", "congenital human immunodeficiency virus", "AIDS related complex", "benign mammary dysplasia"]
 description: "Tinidazole: nova indicação prevista, Vaginite atrófica pós-menopausa (postmenopausal atrophic vaginitis) (nível de evidência L5). Indicação original: AMEBICIDAS, GIARDICIDAS E TRICOMONICIDAS"
@@ -72,6 +72,8 @@ Principais exemplos:
 
 <!-- review:end br-lic-20261106-tinidazole-1 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100430991 | CREVAGIN | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -105,7 +107,9 @@ Principais exemplos:
 | 100140029 | GINOMETRIM | QUIMICA FARMACEUTICA NIKKHO DO BRASIL LTDA | Cancelado |
 | 100820033 | POLIGINAX | ABBOTT PRODUTOS PARA SAÚDE LTDA. | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 90 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

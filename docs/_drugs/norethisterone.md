@@ -3,7 +3,7 @@ layout: default
 title: Norethisterone
 parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 479
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Norethisterone: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
 monitor_inn: "NORETHISTERONE"
 predicted_indications: []
@@ -54,6 +54,8 @@ Principais exemplos:
 
 <!-- review:end br-lic-20261111-norethisterone-1 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100330106 | NATIFA PRO | LIBBS FARMACÊUTICA LTDA | Ativo |
@@ -87,7 +89,9 @@ Principais exemplos:
 | 100680101 | ESTRAGEST | NOVARTIS BIOCIENCIAS S.A | Cancelado |
 | 100680150 | MERICOMB | NOVARTIS BIOCIENCIAS S.A | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 61 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Citotoxicidade
 

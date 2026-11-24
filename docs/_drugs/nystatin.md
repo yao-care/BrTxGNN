@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 481
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Nystatin"
 predicted_indications: ["disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "postmenopausal atrophic vaginitis", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]
 description: "Nystatin: nova indicação prevista, Doença da região orbital (disease of orbital region) (nível de evidência L5). No Brasil, registros na ANVISA: 235 (ativos: 67)"
@@ -76,6 +76,8 @@ Atualmente não há literatura relacionada.
 
 Os dados locais indicam situação **comercializada**. Foram registrados 235 registros no total, dos quais 67 estão válidos e 168 cancelados. Os dados estão completos e a situação foi verificada. Principais registros (amostra de 5):
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100430972 | TRIANCINOLONA ACETONIDA + SULFATO DE NEOMICINA + GRAMICIDINA | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -108,6 +110,10 @@ Os dados locais indicam situação **comercializada**. Foram registrados 235 reg
 | 107150112 | ALBISTIN | CAZI QUIMICA FARMACEUTICA INDUSTRIA E COMERCIO LTD | Ativo |
 | 107150161 | ALIVBABY | CAZI QUIMICA FARMACEUTICA INDUSTRIA E COMERCIO LTD | Ativo |
 | 109630053 | NISTATINA | THEODORO F SOBRAL & CIA LTDA | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 235 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 178
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Calcium: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
 predicted_indications: []
 ---
@@ -73,25 +73,29 @@ O modelo TxGNN não apresenta nenhum candidato com pontuação igual ou superior
 
 ## Informações de Comercialização no Brasil
 
-| Registro | Produto | Forma farmacêutica | Situação |
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
-| 102660032 | COMPLEXO HOMEOPÁTICO BARYTA CARBONICA ALMEIDA PRADO 06 |  | Cancelado |
-| 101070337 | CALCIUM D3 |  | Cancelado |
-| 128420007 | STRUMEEL F N |  | Cancelado |
-| 101070325 | CALCIUM SANDOZ + VITAMINA C LARANJA |  | Cancelado |
-| 100680147 | CALCIUM D3 |  | Cancelado |
-| 128420010 | LYMPHOMYOSOT |  | Cancelado |
-| 100680947 | CALCIUM SANDOZ + VITAMINA C |  | Cancelado |
-| 144930020 | ABCALCIUM B12 |  | Cancelado |
-| 100681051 | CALCIUM SANDOZ + VITAMINA C LARANJA |  | Cancelado |
-| 102470056 | DERMOCLYN |  | Cancelado |
-| 102660001 | ANGINOMED |  | Cancelado |
-| 128420015 | TONSILLA COMPOSITUM N |  | Cancelado |
-| 161980012 | LYMPHOMYOSOT |  | Ativo |
-| 102470069 | NYRVADENT |  | Cancelado |
-| 100610087 | CALCIODORON 1 |  | Cancelado |
-| 101070327 | CALCIUM SANDOZ |  | Cancelado |
-| 100680033 | CALCIUM SANDOZ |  | Cancelado |
+| 161980012 | LYMPHOMYOSOT | HEEL DO BRASIL BIOMÉDICA LTDA | Ativo |
+| 100610087 | CALCIODORON 1 | WELEDA DO BRASIL LABORATÓRIO E FARMÁCIA LTDA | Cancelado |
+| 100680033 | CALCIUM SANDOZ | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 100680147 | CALCIUM D3 | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 100680947 | CALCIUM SANDOZ + VITAMINA C | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 100681051 | CALCIUM SANDOZ + VITAMINA C LARANJA | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 101070325 | CALCIUM SANDOZ + VITAMINA C LARANJA | GLAXOSMITHKLINE BRASIL LTDA | Cancelado |
+| 101070327 | CALCIUM SANDOZ | GLAXOSMITHKLINE BRASIL LTDA | Cancelado |
+| 101070337 | CALCIUM D3 | GLAXOSMITHKLINE BRASIL LTDA | Cancelado |
+| 102470056 | DERMOCLYN | HOMEOPATIA WALDEMIRO PEREIRA LABORATORIO INDUSTRIA | Cancelado |
+| 102470069 | NYRVADENT | HOMEOPATIA WALDEMIRO PEREIRA LABORATORIO INDUSTRIA | Cancelado |
+| 102660001 | ANGINOMED | FARMÁCIA E LABORATÓRIO HOMEOPÁTICO ALMEIDA PRADO L | Cancelado |
+| 102660032 | COMPLEXO HOMEOPÁTICO BARYTA CARBONICA ALMEIDA PRADO 06 | FARMÁCIA E LABORATÓRIO HOMEOPÁTICO ALMEIDA PRADO L | Cancelado |
+| 128420007 | STRUMEEL F N | PROBIOS COMÉRCIO IMPORTAÇÃO E EXPORTAÇÃO LTDA | Cancelado |
+| 128420010 | LYMPHOMYOSOT | PROBIOS COMÉRCIO IMPORTAÇÃO E EXPORTAÇÃO LTDA | Cancelado |
+| 128420015 | TONSILLA COMPOSITUM N | PROBIOS COMÉRCIO IMPORTAÇÃO E EXPORTAÇÃO LTDA | Cancelado |
+| 144930020 | ABCALCIUM B12 | AIRELA INDÚSTRIA FARMACÊUTICA LTDA. | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

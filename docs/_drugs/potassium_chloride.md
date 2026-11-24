@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 539
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Potassium Chloride: nova indicação prevista, Acidose Tubular Renal (Renal Tubular Acidosis) (nível de evidência L5). Indicação original: Reposição hidroeletrolítica e alimentação parenteral"
 monitor_inn: "POTASSIUM CHLORIDE"
 predicted_indications: ["renal tubular acidosis"]
@@ -91,6 +91,8 @@ Foram selecionadas as publicações mais relevantes. Não há ensaios clínicos 
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100330131 | MUVINLAX | LIBBS FARMACÊUTICA LTDA | Ativo |
@@ -124,7 +126,9 @@ Foram selecionadas as publicações mais relevantes. Não há ensaios clínicos 
 | 105530341 | PEDIALYTE MAX | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Ativo |
 | 106830067 | BAXTER SOLUÇÃO DE RINGER COM LACTATO | BAXTER HOSPITALAR LTDA | Ativo |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 231 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

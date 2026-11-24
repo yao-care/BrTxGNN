@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 680
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Zinc acetate"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "bronchitis", "diabetic retinopathy", "acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "acne keloid", "hydroa vacciniforme, familial", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis", "urinary tract infection (disease)"]
 description: "Zinc Acetate: nova indicação prevista, Retinopatia diabética não proliferativa grave (severe nonproliferative diabetic retinopathy) (nível de evidência L5). Indicação original: SOLUÇÕES QUE AJUSTAM O…"
@@ -93,15 +93,13 @@ Para a indicação principal (retinopatia diabética não proliferativa grave), 
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 164000011 | ACETATO DE ZINCO 0,5 MEQ/ML | Não informada | Soluções que ajustam o balanço eletrolítico |
+<!-- licenses:begin -->
 
-<!-- review:begin br-row-20261112-zinc_acetate-1 -->
+| Registro | Produto | Situação |
+|------|------|------|
+| 164000011 | ACETATO DE ZINCO 0,5 MEQ/ML | Ativo |
 
-> **Correção de verificação (2026-11-12)**: Texto original: “Registro 164000011 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 164000011 (ACETATO DE ZINCO 0,5 MEQ/ML) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-row-20261112-zinc_acetate-1 -->
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 
@@ -144,7 +142,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “O único registro brasileiro está cancelado, e f” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Tabela: registro 164000011 (ACETATO DE ZINCO 0,5 MEQ/ML) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 164000011 (ACETATO DE ZINCO 0,5 MEQ/ML) está ativo, não cancelado | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: zinc sulfate prescribing information, Camber Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49698d00-f44b-4b1f-ae34-6b9067911757) |
 
 <!-- review:end log -->

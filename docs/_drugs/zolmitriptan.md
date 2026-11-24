@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 684
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "zolmitriptan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
 description: "Zolmitriptan: nova indicação prevista, Atrophoderma vermiculata (nível de evidência L5). Indicação original: ANALGESICOS CONTRA ENXAQUECA"
@@ -81,10 +81,14 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 186100010 | ZOMIG | GRÜNENTHAL DO BRASIL FARMACÊUTICA LTDA. | Ativo |
 | 116180067 | ZOMIG/ZOMIG OD | ASTRAZENECA DO BRASIL LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 
@@ -99,7 +103,7 @@ Para as advertências formais, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-Há uma lista extensa de contraindicações cardiovasculares e cerebrovasculares, e o medicamento está comercializado no Brasil, com 1 licença válida de 1.
+Há uma lista extensa de contraindicações cardiovasculares e cerebrovasculares, e o medicamento está comercializado no Brasil, com 1 licença válida de 2.
 
 **Para prosseguir, é necessário:**
 - Estudos clínicos ou observacionais específicos sobre zolmitriptana em enxaqueca com aura do tronco encefálico

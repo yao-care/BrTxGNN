@@ -105,6 +105,8 @@ O metotrexato está atualmente comercializado.
 
 <!-- review:end br-lic-20261106-methotrexate-3 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100330137 | FAULDMETRO | LIBBS FARMACÊUTICA LTDA | Ativo |
@@ -135,6 +137,8 @@ O metotrexato está atualmente comercializado.
 | 155730002 | TEVAMETHO | TEVA FARMACÊUTICA LTDA. | Cancelado |
 | 167250011 | TESTE CLOEN | EMPRESA DE TESTE LTDA. (VS01) | Cancelado |
 | 167250012 | TESTE CLOEN | EMPRESA DE TESTE LTDA. (VS01) | Cancelado |
+
+<!-- licenses:end -->
 
 ---
 

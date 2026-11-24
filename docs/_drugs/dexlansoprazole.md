@@ -70,11 +70,15 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 106390261 | DEXILANT | TAKEDA PHARMA LTDA. | Ativo |
 | 188300113 | DEXLANSOPRAZOL | VIATRIS FARMACEUTICA DO BRASIL LTDA | Ativo |
 | 188300115 | FROSIV | VIATRIS FARMACEUTICA DO BRASIL LTDA | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

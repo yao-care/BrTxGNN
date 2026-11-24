@@ -74,6 +74,8 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 155730001 | COPAXONE | TEVA FARMACÊUTICA LTDA. | Ativo |
@@ -81,6 +83,8 @@ Atualmente não há ensaios clínicos relacionados registrados.
 | 156260032 | GLAMETIX | LABORATÓRIOS BAGÓ DO BRASIL S/A | Ativo |
 | 112130203 | COPAXONE | BIOSINTÉTICA FARMACÊUTICA LTDA | Cancelado |
 | 155730056 | ACETATO DE GLATIRÂMER | TEVA FARMACÊUTICA LTDA. | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

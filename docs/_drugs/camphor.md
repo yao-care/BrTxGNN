@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 183
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Camphor: nova indicação prevista, Enxaqueca (Migraine Disorder) (nível de evidência L5). Indicação original: Descongestionantes nasais tópicos"
 monitor_inn: "Camphor"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "erectile dysfunction (disease)", "pulmonary hypertension", "kyphoscoliotic heart disease", "ulerythema ophryogenesis", "Raynaud disease", "atrophoderma vermiculata", "Tourette syndrome"]
@@ -82,13 +82,28 @@ Observação: os resultados mais relevantes são indiretos. Outros achados recup
 
 Dos 16 registros encontrados, 16 têm licença válida e o medicamento está comercializado no país. Principais exemplos:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 121420011 | Inalador Vick | Não informada | Descongestionantes nasais tópicos |
-| Registro nº 121420009 | Vick VapoRub | Não informada | Unguentos percutâneos e inalantes |
-| Registro nº 104971363 | Gelo-Bio | Não informada | Analgésicos |
-| Registro nº 110520006 | Salonpas Gel Patch | Não informada | Agentes anti-inflamatórios/antirreumáticos em associação |
-| Registro nº 178170027 | Gelol | Não informada | Rubefacientes |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 101430027 | PENETRO | Ativo |
+| 103420050 | PASSAJÁ | Ativo |
+| 104810031 | MENTALOL | Ativo |
+| 104971363 | GELO-BIO | Ativo |
+| 106900003 | POMADA MINANCORA | Ativo |
+| 110520001 | SALONPAS | Ativo |
+| 110520003 | SALONPAS ADESIVO | Ativo |
+| 110520004 | AIR SALONPAS | Ativo |
+| 110520006 | SALONPAS GEL PATCH | Ativo |
+| 115600036 | ALIVIOL | Ativo |
+| 120190077 | DORGEX | Ativo |
+| 121420009 | VICK VAPORUB | Ativo |
+| 121420011 | INALADOR VICK | Ativo |
+| 155840134 | CALAMYN | Ativo |
+| 155840307 | MASSAGEOL | Ativo |
+| 178170027 | GELOL | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

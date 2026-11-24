@@ -89,6 +89,8 @@ Todas as publicações são gerais sobre epilepsia ou antiepilépticos; nenhuma 
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100680046 | TRILEPTAL | NOVARTIS BIOCIENCIAS S.A | Ativo |
@@ -115,6 +117,8 @@ Todas as publicações são gerais sobre epilepsia ou antiepilépticos; nenhuma 
 | 156510026 | ZYOXIPINA | ZYDUS NIKKHO FARMACÊUTICA LTDA | Cancelado |
 | 170420026 | OXCARBAZEPINA | MCG INDUSTRIA FARMACEUTICA E IMPORTAÇAO LTDA | Cancelado |
 | 183260064 | ALZEPINOL | SANOFI MEDLEY FARMACÊUTICA LTDA. | Cancelado |
+
+<!-- licenses:end -->
 
 Há ainda outros três registros (123520211, 183260062 e 104971213 – Oxcarb), também cancelados.
 

@@ -64,9 +64,13 @@ Como observação complementar, a segunda indicação prevista pelo modelo, a **
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 129160206 | AKLIEF | GALDERMA BRASIL LTDA | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

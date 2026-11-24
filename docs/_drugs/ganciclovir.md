@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 335
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Ganciclovir: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
 predicted_indications: []
 ---
@@ -74,33 +74,23 @@ O modelo TxGNN não produziu, para o Ganciclovir, nenhum candidato com pontuaç�
 
 ## Informações de Comercialização no Brasil
 
-| Registro | Produto | Forma farmacêutica | Situação |
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
-| 100430604 | GANCICLOVIR |  | Cancelado |
-| 137640050 | GANCICLOVIR |  | Cancelado |
-| 101000536 | CYMEVENE |  | Cancelado |
-| 112830055 | ITAGAN |  | Cancelado |
-| 104970251 | GANCICLOTRAT |  | Ativo |
-| 101830125 | GANCICLOVIR |  | Cancelado |
-| 105430109 | GANCICLOVIR SODICO |  | Cancelado |
-| 103110100 | CYMEVIR |  | Ativo |
-| 104650219 | RODAVIR |  | Cancelado |
-| 100430762 | GANCICLOVIR SODICO |  | Ativo |
-| 104080037 | GANYCLOV |  | Cancelado |
-| 116370037 | GANVIRAX |  | Ativo |
-| 108580187 | GANCICLOVIR SODICO |  | Cancelado |
+| 100430762 | GANCICLOVIR SODICO | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 103110100 | CYMEVIR | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Ativo |
+| 104970251 | GANCICLOTRAT | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 116370037 | GANVIRAX | BLAU FARMACÊUTICA S.A. | Ativo |
+| 101000536 | CYMEVENE | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Cancelado |
+| 101830125 | GANCICLOVIR | LABORATORIO FARMACEUTICO DO ESTADO DE PERNAMBUCO G | Cancelado |
+| 104080037 | GANYCLOV | ROYTON QUÍMICA FARMACÊUTICA LTDA | Cancelado |
+| 104650219 | RODAVIR | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 108580187 | GANCICLOVIR SODICO | PRODOTTI LABORATÓRIO FARMACÊUTICO LTDA. | Cancelado |
+| 112830055 | ITAGAN | LABORATORIO ITAFARMA LTDA | Cancelado |
+| 137640050 | GANCICLOVIR | ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 
-<!-- review:begin br-lic-20261112-ganciclovir-1 -->
-
-> **Correção de verificação (2026-11-12)**: Texto original: “189770003 / VALCYTE / Ativo; 101000593 / VALCYTE / Cancelado” Removidos da tabela 2 registros de valganciclovir (VALCYTE 189770003, VALCYTE 101000593): nos dados abertos de medicamentos da ANVISA o princípio ativo desses registros é cloridrato de valganciclovir, outro medicamento, e não ganciclovir. Os demais registros da tabela não foram alterados. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-lic-20261112-ganciclovir-1 -->
-
-<!-- review:begin br-lic-20261112-ganciclovir-2 -->
-
-> **Correção de verificação (2026-11-12)**: Texto original: “151430049 / CLORIDRATO DE VALGANCICLOVIR / Ativo; 151430052 / MAFUSA / Cancelado” Removidos da tabela 2 registros de valganciclovir (CLORIDRATO DE VALGANCICLOVIR 151430049, MAFUSA 151430052): nos dados abertos de medicamentos da ANVISA o princípio ativo desses registros é cloridrato de valganciclovir, outro medicamento, e não ganciclovir. Os demais registros da tabela não foram alterados. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-lic-20261112-ganciclovir-2 -->
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 
@@ -116,8 +106,8 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-12 | Registros de valganciclovir (189770003, 101000593) removidos da tabela de ganciclovir | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Registros de valganciclovir (151430049, 151430052) removidos da tabela de ganciclovir | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Registros de valganciclovir (189770003, 101000593) removidos da tabela de ganciclovir | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Registros de valganciclovir (151430049, 151430052) removidos da tabela de ganciclovir | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

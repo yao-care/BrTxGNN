@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 56
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Amiodarone"
 predicted_indications: ["catecholaminergic polymorphic ventricular tachycardia", "incessant infant ventricular tachycardia", "obsolete bundle branch block", "rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "heparin cofactor 2 deficiency", "trichotillomania", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "gout"]
 description: "Amiodarone: nova indicação prevista, Taquicardia ventricular polimórfica catecolaminérgica (catecholaminergic polymorphic ventricular tachycardia) (nível de evidência L5)."
@@ -83,6 +83,8 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Há registros válidos de medicamentos com amiodarona isolada no Brasil, entre eles os listados abaixo (lista parcial).
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100330001 | ANCORON | LIBBS FARMACÊUTICA LTDA | Ativo |
@@ -115,6 +117,10 @@ Há registros válidos de medicamentos com amiodarona isolada no Brasil, entre e
 | 112130014 | MIODARON | BIOSINTÉTICA FARMACÊUTICA LTDA | Cancelado |
 | 112130260 | CLORIDRATO DE AMIODARONA | BIOSINTÉTICA FARMACÊUTICA LTDA | Cancelado |
 | 113001049 | CLORIDRATO DE AMIODARONA | SANOFI-AVENTIS FARMACÊUTICA LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 39 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

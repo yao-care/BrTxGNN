@@ -83,11 +83,15 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 113980036 | OPTIRAY | GUERBET IMAGEM DO BRASIL LTDA | Ativo |
 | 113980030 | OPTIRAY | GUERBET IMAGEM DO BRASIL LTDA | Cancelado |
 | 149800023 | OPTIRAY | GUERBET PRODUTOS RADIOLÓGICOS LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ---
 

@@ -64,6 +64,8 @@ Nenhum estudo clínico ou publicação foi fornecido para esta doença. Por isso
 
 Segundo os dados compilados, há 18 registros no total, dos quais 8 estão válidos e 10 cancelados. Principais registros válidos:
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 102351037 | RILUZOL | EMS S/A | Ativo |
@@ -84,6 +86,8 @@ Segundo os dados compilados, há 18 registros no total, dos quais 8 estão váli
 | 126250095 | LFM-RILUZOL | LABORATÓRIO FARMACÊUTICO DA MARINHA | Cancelado |
 | 126250097 | RILUZOL | LABORATÓRIO FARMACÊUTICO DA MARINHA | Cancelado |
 | 146820030 | RILOTOL | SUN FARMACÊUTICA DO BRASIL LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

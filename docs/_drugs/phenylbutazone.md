@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 523
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Phenylbutazone"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "sclerosing cholangitis"]
 description: "Phenylbutazone: nova indicação prevista, Síndrome de microftalmia colobomatosa com displasia rizomélica (colobomatous microphthalmia-rhizomelic dysplasia syndrome) (nível de evidência L5)."
@@ -62,10 +62,14 @@ Não há uma ligação mecanística plausível com esta nova indicação. Trata-
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 103920204 | Fenilbutazona Cálcica | Não informada | Anti-inflamatórios antirreumáticos |
-| Registro nº 103920155 | Butacid | Não informada | Anti-inflamatórios antirreumáticos |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 103920155 | BUTACID | Ativo |
+| 103920204 | FENILBUTAZONA CÁLCICA | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

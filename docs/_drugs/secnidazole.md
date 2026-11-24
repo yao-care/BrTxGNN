@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 580
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Secnidazole"
 predicted_indications: ["postmenopausal atrophic vaginitis", "ulceration of vulva", "vaginal discharge", "vulvar neoplasm", "leukoplakia of vagina", "vulvovaginal candidiasis"]
 description: "Secnidazole: nova indicação prevista, Postmenopausal atrophic vaginitis (nível de evidência L5). Indicação original: AMEBICIDAS, GIARDICIDAS E TRICOMONICIDAS"
@@ -107,6 +107,8 @@ O medicamento está comercializado no Brasil. Os 5 principais:
 
 <!-- review:end br-lic-20261106-secnidazole-1 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100380096 | SECTIL | BRASTERAPICA PHARMACEUTICA LTDA. | Ativo |
@@ -140,7 +142,9 @@ O medicamento está comercializado no Brasil. Os 5 principais:
 | 102351294 | SECNAXIDOL | EMS S/A | Cancelado |
 | 102940098 | SECNIDALIN | NEOLATINA COMÉRCIO E INDÚSTRIA FARMACEUTICA S.A | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 61 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ---
 

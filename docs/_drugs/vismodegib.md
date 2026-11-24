@@ -101,9 +101,13 @@ Foram selecionadas as 10 publicações mais relevantes, priorizando diretrizes e
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 101000664 | ERIVEDGE | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Ativo |
+
+<!-- licenses:end -->
 
 A disponibilidade deve ser verificada antes de qualquer iniciativa.
 

@@ -63,6 +63,8 @@ A pontuação alta (0,9997) provavelmente reflete um artefato da estrutura da re
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 137640119 | INDOCID | ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
@@ -73,6 +75,8 @@ A pontuação alta (0,9997) provavelmente reflete um artefato da estrutura da re
 | 108840349 | IQUEGO - INDOMETACINA | INDÚSTRIA QUÍMICA DO ESTADO DE GOIÁS S/A - IQUEGO | Cancelado |
 | 110650032 | INDOCID | PRODOME QUÍMICA E FARMACÊUTICA LTDA | Cancelado |
 | 126030019 | INDOMETACINA | ÍTACA LABORATÓRIOS LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

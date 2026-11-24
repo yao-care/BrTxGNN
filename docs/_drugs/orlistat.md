@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 488
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Orlistat: nova indicação prevista, Hipervitaminose (Hypervitaminosis) (nível de evidência L5). Indicação original: Moduladores do metabolismo e da digestão (orlistate)"
 monitor_inn: "orlistat"
 predicted_indications: ["hypervitaminosis"]
@@ -84,6 +84,8 @@ O medicamento está comercializado. Principais registros (30 de 41):
 
 <!-- review:end br-lic-20261112-orlistat-1 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100431295 | CORPORE | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -117,7 +119,9 @@ O medicamento está comercializado. Principais registros (30 de 41):
 | 126750256 | ORLIBESI | NOVA QUIMICA FARMACÊUTICA S/A | Cancelado |
 | 135690348 | LIPIBLOCK | EMS SIGMA PHARMA LTDA | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 41 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ---
 

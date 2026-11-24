@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00640
 monitor_inn: "Adenosine"
 predicted_indications: ["obsolete bundle branch block"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Adenosina: nova indicação prevista, bloqueio de ramo obsoleto (obsolete bundle branch block) (nível de evidência L5). No Brasil, registros na ANVISA: 23 (ativos: 5)"
 ---
 
@@ -66,12 +66,35 @@ Além disso, o termo da doença está marcado como obsoleto na ontologia, ou sej
 
 Há 23 registros no total, dos quais 5 válidos (4 de produto isolado e 1 em associação) e 18 cancelados. Os registros válidos de produto isolado estão listados abaixo; os dados locais não trazem forma farmacêutica nem texto de indicação aprovada.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 103110176 | Adenosina | Não informada | Não informada |
-| Registro 103110180 | Lowe | Não informada | Não informada |
-| Registro 110110054 | Adenosina | Não informada | Não informada |
-| Registro 113430182 | Adenosina | Não informada | Não informada |
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 103110176 | ADENOSINA | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Ativo |
+| 103110180 | LOWE | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Ativo |
+| 110110054 | ADENOSINA | NEWCOM FARMACEUTICA LTDA. | Ativo |
+| 113430182 | ADENOSINA | HIPOLABOR FARMACEUTICA LTDA | Ativo |
+| 167730285 | NATUS GERIN | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100020089 | TIAMINA + ASSOCIAÇÕES | LABORATORIO SEDABEL LTDA | Cancelado |
+| 100330038 | ADENOCARD | LIBBS FARMACÊUTICA LTDA | Cancelado |
+| 100410233 | ADENOSINA | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100470115 | FÓRMULA 28 | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 102350011 | ANEKRON | EMS S/A | Cancelado |
+| 102940104 | BIOHEPAX | NEOLATINA COMÉRCIO E INDÚSTRIA FARMACEUTICA S.A | Cancelado |
+| 104650405 | GERIVIX | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 105730072 | GERIATON | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Cancelado |
+| 105770019 | NECRO B 6 | LABORATIL FARMACEUTICA LTDA | Cancelado |
+| 105830085 | NATUS GERIN | GERMED FARMACEUTICA LTDA | Cancelado |
+| 105830176 | FOSFOCAPS | GERMED FARMACEUTICA LTDA | Cancelado |
+| 113050021 | MULTIVIMS PLUS | LUMA INDUSTRIA FARMACEUTICA LTDA | Cancelado |
+| 115600051 | HEPATOX | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Cancelado |
+| 116950033 | VITFORTE | LABORATÓRIO FARMACÊUTICO VITAMED LTDA | Cancelado |
+| 121100120 | EPOCLER | PFIZER BRASIL LTDA | Cancelado |
+| 133460008 | CHOFRAFIG | BIO MACRO LABORATÓRIO FARMACÊUTICO LTDA | Cancelado |
+| 142570060 | EPATOZIN | LUCIOMED FARMACÊUTICA DO BRASIL LTDA | Cancelado |
+| 172870347 | GERIVIX | HYPERA S.A. | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

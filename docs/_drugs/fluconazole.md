@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 319
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fluconazole: nova indicação prevista, Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconj… (nível de evidência L5). Indicação original: Antimicóticos sistêmicos"
 monitor_inn: "Fluconazole"
 predicted_indications: ["punctate epithelial keratoconjunctivitis"]
@@ -81,6 +81,8 @@ Principais registros (30 de 98):
 
 <!-- review:end br-lic-20261106-fluconazole-1 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100410157 | FLUCONAZOL | FRESENIUS KABI BRASIL LTDA | Ativo |
@@ -114,7 +116,9 @@ Principais registros (30 de 98):
 | 154230259 | FLUCONAZOL | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
 | 158190014 | ZELIX | ARESE PHARMA LTDA. | Ativo |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 98 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

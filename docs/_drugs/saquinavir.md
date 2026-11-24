@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "SAQUINAVIR"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Saquinavir: nova indicação prevista, Síndrome da imunodeficiência adquirida felina (nível de evidência L5). Indicação original: Infecção por HIV e AIDS"
 ---
 
@@ -87,13 +87,26 @@ Atualmente não há literatura relacionada à síndrome da imunodeficiência adq
 
 Foram compilados 14 registros de produtos de ingrediente único, dos quais 1 está válido e 13 foram cancelados. Os registros não trazem texto de indicação aprovada nem forma farmacêutica. Os principais são:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 102980309 (válido) | SVIR | Não informada | Não informada |
-| Registro nº 101000538 (cancelado) | INVIRASE | Não informada | Não informada |
-| Registro nº 101000553 (cancelado) | FORTOVASE | Não informada | Não informada |
-| Registro nº 104971157 (cancelado) | SAQUIVIRAL | Não informada | Não informada |
-| Registro nº 102980211 (cancelado) | VIRNAN | Não informada | Não informada |
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 102980309 | SVIR | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 100430626 | SAQUINAVIR | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100890263 | MESILATO DE SAQUINAVIR | MERCK S/A | Cancelado |
+| 101000538 | INVIRASE | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Cancelado |
+| 101000553 | FORTOVASE | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Cancelado |
+| 102980211 | VIRNAN | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Cancelado |
+| 103022037 | MESILATO DE SAQUINAVIR (PORT 344/98 LISTA C4) | VIRTUS INDUSTRIA E COMERCIO LTDA | Cancelado |
+| 104650315 | MESILATO DE SAQUINAVIR | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 104971157 | SAQUIVIRAL | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Cancelado |
+| 105500080 | MESILATO DE SAQUINAVIR (PORT 344/98 LISTA C4) | UCI - FARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 105830195 | MESILATO DE SAQUINAVIR (PORT 344/98 LISTA C4) | GERMED FARMACEUTICA LTDA | Cancelado |
+| 106460114 | MESILATO DE SAQUINAVIR (PORT 344/98 LISTA C4) | LABORATORIO QUIMICO FARMACEUTICO BERGAMO LTDA | Cancelado |
+| 108840348 | SAQUINAVIR (PORT. 344/98 LT C4) | INDÚSTRIA QUÍMICA DO ESTADO DE GOIÁS S/A - IQUEGO | Cancelado |
+| 118610082 | SAQUINAVIR | ATIVUS FARMACÊUTICA LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ---
 

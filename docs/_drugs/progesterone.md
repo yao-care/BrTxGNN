@@ -85,6 +85,8 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 A progesterona está comercializada no Brasil, com 7 registros válidos e 9 cancelados, num total de 16. Abaixo estão cinco dos registros válidos de produto de princípio ativo único.
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100890365 | CRINONE | MERCK S/A | Ativo |
@@ -103,6 +105,8 @@ A progesterona está comercializada no Brasil, com 7 registros válidos e 9 canc
 | 123610094 | PROLUTEX | UCB BIOPHARMA LTDA. | Cancelado |
 | 156200023 | ÁGAPE | VIDFARMA INDÚSTRIA DE MEDICAMENTOS LTDA | Cancelado |
 | 187590004 | PROGESTERONA | BESINS HEALTHCARE BRASIL COMERCIAL E DISTRIBUIDORA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

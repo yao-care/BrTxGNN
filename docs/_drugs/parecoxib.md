@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 510
 evidence_level: L3
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Parecoxib: nova indicação prevista, Enxaqueca (migraine disorder) (nível de evidência L3). Indicação original: Antiinflamatórios"
 monitor_inn: "parecoxib"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "pulmonary hypertension"]
@@ -84,13 +84,20 @@ O medicamento está comercializado.
 
 <!-- review:end br-lic-20261106-parecoxib-2 -->
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 100431460 | PAXIBE | Não informada | Antiinflamatórios |
-| Registro 121100472 | BEXTRA IM/IV | Não informada | Antiinflamatórios |
-| Registro 100470668 | QUOXAD | Não informada | Antiinflamatórios |
-| Registro 109650006 | PARECOXIBE SÓDICO | Não informada | Antiinflamatórios |
-| Registro 100431457 | PARECOXIBE SÓDICO | Não informada | Antiinflamatórios |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 100431457 | PARECOXIBE SÓDICO | Ativo |
+| 100431460 | PAXIBE | Ativo |
+| 109650006 | PARECOXIBE SÓDICO | Ativo |
+| 121100472 | BEXTRA IM/IV | Ativo |
+| 155730067 | PARECOXIBE SÓDICO | Ativo |
+| 155730069 | COXDUO | Ativo |
+| 155840660 | PABEXHY | Ativo |
+| 100470668 | QUOXAD | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

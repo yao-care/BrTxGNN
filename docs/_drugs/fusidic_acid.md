@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 330
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fusidic Acid: nova indicação prevista, Ceratite de exposição (exposure keratitis) (nível de evidência L5). Indicação original: Antiinfecciosos tópicos"
 monitor_inn: "fusidic acid"
 predicted_indications: ["exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "parasitic eyelid infestation"]
@@ -73,13 +73,17 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 185690002 | VERUTEX | Não informada | Antiinfecciosos tópicos |
-| Registro nº 155840106 | ÁCIDO FUSÍDICO | Não informada | Antiinfecciosos tópicos |
-| Registro nº 185690001 | VERUTEX B | Não informada | Antiinfecciosos tópicos – associações medicamentosas |
-| Registro nº 110130273 | DERMOTIL FUSID | Não informada | Antiinfecciosos tópicos – associações medicamentosas |
-| Registro nº 118190298 | ÁCIDO FUSÍDICO + VALERATO DE BETAMETASONA | Não informada | Antimicóticos para uso tópico |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 110130273 | DERMOTIL FUSID | Ativo |
+| 118190298 | ÁCIDO FUSÍDICO + VALERATO DE BETAMETASONA | Ativo |
+| 155840106 | ÁCIDO FUSÍDICO | Ativo |
+| 185690001 | VERUTEX B | Ativo |
+| 185690002 | VERUTEX | Ativo |
+
+<!-- licenses:end -->
 
 Os cinco registros constam como válidos.
 

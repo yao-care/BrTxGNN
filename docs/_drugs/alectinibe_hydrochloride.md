@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB11363
 monitor_inn: "Alectinib"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "lung germ cell tumor", "pulmonary sulcus neoplasm", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "junctional epidermolysis bullosa"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Alectinibe Hydrochloride: nova indicação prevista, Fibromatose gengival (fibromatosis, gingival) (nível de evidência L5). No Brasil, registros na ANVISA: 1 (ativos: 1)"
 ---
 
@@ -62,9 +62,13 @@ Não foi identificado um vínculo mecanístico plausível com a fibromatose geng
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 101000668 | ALECENSA | Não informada | Não informada |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 101000668 | ALECENSA | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

@@ -5,7 +5,7 @@ layout: default
 title: Nitazoxanide
 parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 471
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Nitazoxanide: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
 monitor_inn: "Nitazoxanide"
 predicted_indications: []
@@ -50,6 +50,8 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 
 Principais registros:
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100431104 | NITAZOXANIDA | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -83,7 +85,9 @@ Principais registros:
 | 103720258 | EPARÁ | SUPERA FARMA LABORATÓRIOS S.A | Cancelado |
 | 104810080 | HELITON | 1FARMA INDUSTRIA FARMACEUTICA LTDA | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 39 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

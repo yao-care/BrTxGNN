@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 526
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Piperacillin: nova indicação prevista, Artrite Reumatoide (rheumatoid arthritis) (nível de evidência L5). Indicação original: Penicilinas penicilinase-resistentes"
 monitor_inn: "piperacillin"
 predicted_indications: ["rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "sclerosing cholangitis", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy", "WHIM syndrome"]
@@ -102,13 +102,24 @@ O medicamento está comercializado. Os 5 principais:
 
 <!-- review:end br-lic-20261106-piperacillin-1 -->
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 100470621 | Piperacilina sódica + tazobactam sódico | Não informada | Penicilinas penicilinase-resistentes |
-| Registro 121100095 | Tazocin | Não informada | Penicilinas penicilinase-resistentes |
-| Registro 104971432 | Tazomaz | Não informada | Penicilinas penicilinase-resistentes |
-| Registro 100630287 | Pype | Não informada | Penicilinas penicilinase-resistentes |
-| Registro 103700788 | Pipta | Não informada | Penicilinas penicilinase-resistentes |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 100430810 | PIPERACILINA SÓDICA + TAZOBACTAM SÓDICO | Ativo |
+| 100470621 | PIPERACICLINA SÓDICA + TAZOBACTAM SÓDICO | Ativo |
+| 100630287 | PYPE | Ativo |
+| 102010062 | PIPERACILINA SÓDICA + TAZOBACTAM SÓDICO | Ativo |
+| 103700788 | PIPTA | Ativo |
+| 104971432 | TAZOMAZ | Ativo |
+| 116370184 | PIPERAZAM | Ativo |
+| 121100095 | TAZOCIN | Ativo |
+| 155620034 | PIPERACILINA SÓDICA+TAZOBACTAM SÓDICO | Ativo |
+| 174200011 | PIPERACILINA SÓDICA + TAZOBACTAM SÓDICO | Ativo |
+| 188300002 | PIPERACILINA SÓDICA + TAZOBACTAM SÓDICO | Ativo |
+| 100410176 | PIPERACILINA SÓDICA + TAZOBACTAM SÓDICO | Cancelado |
+
+<!-- licenses:end -->
 
 ---
 

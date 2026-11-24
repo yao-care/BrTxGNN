@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 246
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cyclosporine: nova indicação prevista, Doença granulomatosa crônica autossômica recessiva (Granulomatous dis… (nível de evidência L4). Indicação original: Outros medicamentos com ação no aparelho vis…"
 monitor_inn: "Cyclosporine"
 predicted_indications: ["granulomatous disease, chronic, autosomal recessive", "brain aneurysm", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital ichthyosiform erythroderma", "fetal erythroblastosis", "brachydactyly-syndactyly syndrome", "prolapse of lacrimal gland"]
@@ -83,6 +83,8 @@ Atualmente não há ensaios clínicos relacionados registrados para esta indica�
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100680020 | SANDIMMUN | NOVARTIS BIOCIENCIAS S.A | Ativo |
@@ -105,6 +107,8 @@ Atualmente não há ensaios clínicos relacionados registrados para esta indica�
 | 135690187 | CICLOSPORINA | EMS SIGMA PHARMA LTDA | Cancelado |
 | 137640025 | ZINOGRAF ME | ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 
+<!-- licenses:end -->
+
 ---
 
 ## Considerações de Segurança
@@ -123,7 +127,7 @@ Atualmente não há ensaios clínicos relacionados registrados para esta indica�
 **Decisão: Hold**
 
 **Justificativa:**
-- Não há ensaios clínicos nem estudos que mostrem benefício direto da ciclosporina na DGC; a única publicação é indireta (TCTH). A pontuação alta do TxGNN, isolada, não basta, e a imunossupressão pode ser desfavorável em um paciente com risco elevado de infecção. O medicamento é comercializado no Brasil, com 5 registros válidos de 5.
+- Não há ensaios clínicos nem estudos que mostrem benefício direto da ciclosporina na DGC; a única publicação é indireta (TCTH). A pontuação alta do TxGNN, isolada, não basta, e a imunossupressão pode ser desfavorável em um paciente com risco elevado de infecção. O medicamento é comercializado no Brasil, com 5 registros válidos de 19.
 
 **Para prosseguir, é necessário:**
 - Estudos pré-clínicos ou clínicos que avaliem diretamente a ciclosporina na DGC (inclusive na inflamação granulomatosa e na DECH pós-TCTH).

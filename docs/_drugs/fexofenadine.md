@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 316
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Fexofenadine: nova indicação prevista, Conjuntivite da rosácea (rosacea conjunctivitis) (nível de evidência L5). Indicação original: Anti-histamínicos sistêmicos"
 monitor_inn: "Fexofenadine"
 predicted_indications: ["rosacea conjunctivitis"]
@@ -79,6 +79,8 @@ Principais registros:
 
 <!-- review:end br-lic-20261106-fexofenadine-1 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100431273 | ALTIVA | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -112,7 +114,9 @@ Principais registros:
 | 167730635 | LEXLER | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
 | 167730664 | LEXLER | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 62 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

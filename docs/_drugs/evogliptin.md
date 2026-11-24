@@ -78,10 +78,14 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100431343 | SUGANON | EUROFARMA LABORATORIOS S.A. | Ativo |
 | 100431502 | TARTARATO DE EVOGLIPTINA | EUROFARMA LABORATORIOS S.A. | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

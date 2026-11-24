@@ -77,10 +77,14 @@ Os inibidores seletivos de RET (selpercatinibe e pralsetinibe) são a opção di
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 170560116 | VITRAKVI | BAYER S.A. | Ativo |
 | 170560117 | VITRAKVI | BAYER S.A. | Ativo |
+
+<!-- licenses:end -->
 
 ## Citotoxicidade
 

@@ -78,12 +78,16 @@ Para artrite reumatoide, a única publicação é o relato de caso [36628042](ht
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 183960002 | VISIPAQUE | GE HEALTHCARE DO BRASIL COMÉRCIO E SERVIÇOS PARA E | Ativo |
 | 103940518 | VISIPAQUE | LABORATÓRIO AMERICANO DE FARMACOTERAPIA S/A | Cancelado |
 | 172870392 | VISIPAQUE | HYPERA S.A. | Cancelado |
 | 178170099 | VISIPAQUE | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

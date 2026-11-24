@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB09073
 monitor_inn: "Palbociclib"
 predicted_indications: ["hyperthyroidism", "rheumatoid arthritis", "thrombotic disease", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Palbociclibe: nova indicação prevista, Hipertireoidismo (hyperthyroidism) (nível de evidência L5). No Brasil, registros na ANVISA: 8 (ativos: 7)"
 ---
 
@@ -65,13 +65,20 @@ Além disso, o palbociclibe causa mielossupressão (neutropenia), o que represen
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| 115410021 | Palbociclibe | — | Não informada |
-| 115410022 | Sedecib | — | Não informada |
-| 121100467 | Ibrance | — | Não informada |
-| 121100495 | Agatha | — | Não informada |
-| 121100502 | Ibrance | — | Não informada |
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 115410021 | PALBOCICLIBE | CIPLA BRASIL IMPORTADORA E DISTRIBUIDORA DE MEDICA | Ativo |
+| 115410022 | SEDECIB | CIPLA BRASIL IMPORTADORA E DISTRIBUIDORA DE MEDICA | Ativo |
+| 121100467 | IBRANCE | PFIZER BRASIL LTDA | Ativo |
+| 121100495 | AGATHA | PFIZER BRASIL LTDA | Ativo |
+| 121100502 | IBRANCE | PFIZER BRASIL LTDA | Ativo |
+| 151430084 | PALBOCICLIBE | DR. REDDYS FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 151430086 | CYDIKRIZ | DR. REDDYS FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 102160257 | IBRANCE | LABORATÓRIOS PFIZER LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 Os dados compilados incluem 8 registros no total (7 válidos e 1 cancelado); a tabela acima mostra os 5 principais.
 

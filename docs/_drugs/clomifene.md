@@ -71,6 +71,8 @@ Atualmente não há literatura relacionada.
 
 Os registros locais indicam o medicamento como comercializado, com 2 registros válidos e 6 cancelados, num total de 8 registros.
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 135690591 | INDUX | EMS SIGMA PHARMA LTDA | Ativo |
@@ -81,6 +83,8 @@ Os registros locais indicam o medicamento como comercializado, com 2 registros v
 | 102980190 | CLOMIFEN | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Cancelado |
 | 105830160 | INDUX | GERMED FARMACEUTICA LTDA | Cancelado |
 | 111240018 | SEROPHENE | SERONO PRODUTOS FARMACÊUTICOS LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

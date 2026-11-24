@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Lansoprazole"
 predicted_indications: ["duodenal obstruction"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lansoprazole: nova indicação prevista, obstrução duodenal (duodenal obstruction) (nível de evidência L5). Indicação original: ANTIULCEROSOS"
 ---
 
@@ -72,6 +72,8 @@ Os dados de situação dos registros são inconsistentes entre si, por isso a si
 
 <!-- review:end br-lic-20261111-lansoprazole-1 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 102351114 | LANSOPRAZOL | EMS S/A | Ativo |
@@ -105,7 +107,9 @@ Os dados de situação dos registros são inconsistentes entre si, por isso a si
 | 103700163 | LANOGASTRO | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
 | 103900111 | LAMPRAZ | FARMOQUÍMICA S/A | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 65 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 541
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Potassium Iodide: nova indicação prevista, Doença da cavidade nasal (nasal cavity disease) (nível de evidência L4). Indicação original: Outros produtos não enquadrados em classe terapêutica específic"
 monitor_inn: "Potassium Iodide"
 predicted_indications: ["nasal cavity disease"]
@@ -79,13 +79,23 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Todos os 11 registros encontrados estão válidos. Os 5 principais:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 112330050 | LAQFA - Iodeto de Potássio | Não informada | Outros produtos não enquadrados em classe terapêutica específica |
-| Registro 118190015 | Spectolab Balsâmico | Não informada | Expectorantes balsâmicos e mucolítico |
-| Registro 178170997 | Benexpec | Não informada | Expectorantes balsâmicos e mucolítico |
-| Registro 102351357 | Secrelise | Não informada | Expectorantes balsâmicos e mucolítico |
-| Registro 102351464 | Multitosse | Não informada | Expectorantes balsâmicos e mucolítico |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 100410165 | ADDAVEN | Ativo |
+| 102350339 | GEROVITAL | Ativo |
+| 102351357 | SECRELISE | Ativo |
+| 102351454 | CLORIDRATO DE OXOMEMAZINA + IODETO DE POTÁSSIO + BENZOATO DE | Ativo |
+| 102351464 | MULTITOSSE | Ativo |
+| 112330050 | LAQFA - IODETO DE POTÁSSIO | Ativo |
+| 118190015 | SPECTOLAB BALSAMICO | Ativo |
+| 155840701 | CLORIDRATO DE OXOMEMAZINA + IODETO DE POTÁSSIO + BENZOATO DE | Ativo |
+| 155840708 | TOSSEXPEC | Ativo |
+| 167730271 | EXPEC | Ativo |
+| 178170997 | BENEXPEC | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

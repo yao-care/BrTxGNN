@@ -82,9 +82,13 @@ Ambas são revisões sobre o transtorno do trabalho em turnos, e não estudos di
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 155730053 | NUVIGIL | TEVA FARMACÊUTICA LTDA. | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

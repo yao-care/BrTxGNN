@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB09009
 monitor_inn: "Articaine"
 predicted_indications: ["gout", "exostosis", "allergic asthma", "intrinsic asthma"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Articaína Hydrochloride: nova indicação prevista, gota (gout) (nível de evidência L5). Indicação original: ANESTESICOS LOCAIS"
 ---
 
@@ -71,10 +71,14 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 101770025 | ARTICAINE | Não informada | Anestésicos locais |
-| Registro 109930015 | SEPTANEST | Não informada | Não informada |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 101770025 | ARTICAINE | Ativo |
+| 109930015 | SEPTANEST | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

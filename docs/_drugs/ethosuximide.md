@@ -64,9 +64,13 @@ Assim, a única sustentação da previsão é a pontuação muito alta do modelo
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 101180141 | ETOXIN | APSEN FARMACEUTICA S/A | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

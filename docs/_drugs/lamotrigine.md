@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "LAMOTRIGINE"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lamotrigine: nova indicação prevista, neoplasia do nervo trigêmeo (trigeminal nerve neoplasm) (nível de evidência L5). Indicação original: ANTICONVULSIVANTES"
 ---
 
@@ -76,6 +76,8 @@ Atualmente não há ensaios clínicos relacionados registrados para esta indica�
 
 Os dados compilados indicam situação de comercialização "Comercializado" e 20 registros, mas a lista pode ser parcial. Os registros listados são de medicamentos de lamotrigina isolada.
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100431059 | LÉPTICO | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -109,7 +111,9 @@ Os dados compilados indicam situação de comercialização "Comercializado" e 2
 | 101810611 | LAMOTRIGINA | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 | 101810617 | LAMORGIN | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 54 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

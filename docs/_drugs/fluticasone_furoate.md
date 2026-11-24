@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 325
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fluticasone Furoate: nova indicação prevista, Eczema atópico (atopic eczema) (nível de evidência L5). Indicação original: Glicocorticoides tópicos simples, exceto uso oftálmico"
 monitor_inn: "FLUTICASONE FUROATE"
 predicted_indications: ["atopic eczema", "bronchitis", "2-hydroxyethyl methacrylate sensitization", "dermatitis, atopic", "contact dermatitis", "occupational dermatitis", "phototoxic dermatitis"]
@@ -76,11 +76,15 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Todos os 3 registros abaixo estão válidos; o medicamento está comercializado.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 101070271 | AVAMYS | — | Glicocorticoides tópicos simples, exceto uso oftálmico |
-| Registro 101070299 | RELVAR ELLIPTA | — | Antiasmáticos |
-| Registro 101070344 | TRELEGY | — | Broncodilatadores |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 101070271 | AVAMYS | Ativo |
+| 101070299 | RELVAR ELLIPTA | Ativo |
+| 101070344 | TRELEGY | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

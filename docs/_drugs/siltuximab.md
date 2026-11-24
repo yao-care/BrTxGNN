@@ -85,11 +85,15 @@ Para a indicação principal (mastocitoma extracutâneo), atualmente não há li
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 171260007 | SYLVANT | RECORDATI RARE DISEASES COMÉRCIO DE MEDICAMENTOS L | Ativo |
 | 112363411 | SYLVANT | JANSSEN-CILAG FARMACÊUTICA LTDA | Cancelado |
 | 151890004 | SYLVANT | COLLECT IMPORTAÇÃO E COMÉRCIO LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Amoxicillin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Amoxicillin: nova indicação prevista, síndrome de hiperviscosidade policlonal (polyclonal hyperviscosity syndrome) (nível de evidência L5). Indicação original: PENICILINA DE AMPLO ESPECTRO"
 ---
 
@@ -71,6 +71,8 @@ Atualmente não há literatura relacionada.
 
 Os dados compilados indicam situação de comercialização "Comercializado", com 20 registros listados (a lista pode ser parcial). Os registros abaixo são produtos de ingrediente único.
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100430727 | AMOXICILINA | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -104,7 +106,9 @@ Os dados compilados indicam situação de comercialização "Comercializado", co
 | 102351143 | POLICLAVUMOXIL | EMS S/A | Ativo |
 | 102351144 | POLICLAVUMOXIL BD | EMS S/A | Ativo |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 359 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

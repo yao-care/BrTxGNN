@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 369
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Insulin Human: nova indicação prevista, Ooforite autoimune (autoimmune oophoritis) (nível de evidência L5). Indicação original: Antidiabéticos"
 monitor_inn: "insulin human"
 predicted_indications: ["autoimmune oophoritis", "focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "pancreatic agenesis", "idiopathic localized lipodystrophy"]
@@ -92,6 +92,8 @@ O medicamento é comercializado no Brasil.
 
 <!-- review:end br-lic-20261106-insulin_human-1 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 112080085 | LQFEX - INSULINA HUMANA R | LABORATÓRIO QUÍMICO FARMACÊUTICO DO EXÉRCITO | Ativo |
@@ -125,7 +127,9 @@ O medicamento é comercializado no Brasil.
 | 112600178 | HUMULIN 70N/30R | ELI LILLY DO BRASIL LTDA | Cancelado |
 | 113000267 | INSUMAN | SANOFI-AVENTIS FARMACÊUTICA LTDA | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 44 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 Há outros 8 registros cancelados (incluindo Afrezza, Wosulin 70/30, Wosulin R, Novolin N e Humulin N), todos com a mesma indicação.
 

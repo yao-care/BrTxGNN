@@ -1729,7 +1729,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-lic-20261106-benzbromarone-1",
@@ -1852,7 +1854,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-lic-20261106-betahistine_dihydrochloride-1",
@@ -2821,19 +2825,19 @@
    "file": "calcitriol.md",
    "action": "correct",
    "claim": "O fármaco consta como comercializado no Brasil, com 2 registros válidos e 10 cancelados, segundo os dados regulatórios compilados. Os detalhes individuais dos registros não estão disponíveis nos dados deste relatório.",
-   "replacement": "O fármaco consta como comercializado no Brasil, com 2 registros válidos e 10 cancelados, segundo os dados regulatórios compilados.",
-   "note": "Removido: a afirmação contradizia os dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 11 registros para este medicamento, 2 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização.",
+   "replacement": "O fármaco consta como comercializado no Brasil, com 2 registros válidos e 9 cancelados, segundo os dados regulatórios compilados.",
+   "note": "Removido: a afirmação contradizia os dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06; números atualizados em 2026-11-24). Nos dados (dados abertos de medicamentos da ANVISA) constam 11 registros para este medicamento, 2 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：generic）",
    "sources": [
     {
      "title": "ANVISA – Dados abertos de medicamentos",
      "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
-     "accessed": "2026-11-06"
+     "accessed": "2026-11-23"
     }
    ],
-   "checked": "2026-11-06",
+   "checked": "2026-11-24",
    "summary": "Removido: “Os detalhes individuais dos registros não estão disponíveis nos dados deste relatório”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）；2026-11-24 ANVISA 資料更新後同 id 重發（replacement 的張數照事實層）",
    "history": [
     {
      "id": "br-lic-20261106-calcitriol-1",
@@ -2856,6 +2860,29 @@
      "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
      "retired": "2026-11-12",
      "reason": "錨點那句的張數／狀態由 br-lic-20261112-calcitriol-1 依事實層更正；錨點改成句中不受更正影響的部分，框的位置不變"
+    },
+    {
+     "id": "br-lic-20261106-calcitriol-1",
+     "drug": "calcitriol",
+     "file": "calcitriol.md",
+     "action": "correct",
+     "claim": "O fármaco consta como comercializado no Brasil, com 2 registros válidos e 10 cancelados, segundo os dados regulatórios compilados. Os detalhes individuais dos registros não estão disponíveis nos dados deste relatório.",
+     "replacement": "O fármaco consta como comercializado no Brasil, com 2 registros válidos e 10 cancelados, segundo os dados regulatórios compilados.",
+     "note": "Removido: a afirmação contradizia os dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 11 registros para este medicamento, 2 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：generic）",
+     "sources": [
+      {
+       "title": "ANVISA – Dados abertos de medicamentos",
+       "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-06",
+     "summary": "Removido: “Os detalhes individuais dos registros não estão disponíveis nos dados deste relatório”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
+     "anchor": "O fármaco consta como comercializado no Brasil,",
+     "retired": "2026-11-24",
+     "reason": "ANVISA 每週資料更新後（data-20261123-132649，situação 2026-11-23）事實層變成 11 張、有效 2、註銷 9；replacement 裡的張數照 scripts/rewrite_license_counts.py 的規則更新（查核紀錄的句子程式不會自動改）"
     }
    ],
    "anchor": "O fármaco consta como comercializado no Brasil,"
@@ -4185,7 +4212,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-lic-20261106-donepezil-1",
@@ -4266,7 +4295,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-row-20261112-doxycycline-2",
@@ -4286,7 +4317,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-row-20261112-doxycycline-3",
@@ -4306,7 +4339,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-row-20261112-doxycycline-4",
@@ -4326,7 +4361,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-lic-20261106-dupilumab-1",
@@ -4486,7 +4523,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-row-20261112-eltrombopag-2",
@@ -4506,7 +4545,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-lic-20261106-empagliflozin-1",
@@ -4788,7 +4829,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-lic-20261106-estradiol_cypionate-1",
@@ -4828,7 +4871,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-row-20261112-estradiol_cypionate-2",
@@ -4848,7 +4893,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-row-20261112-estradiol_cypionate-3",
@@ -4868,7 +4915,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-row-20261112-estradiol_cypionate-4",
@@ -4888,7 +4937,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-lic-20261106-estradiol_valerate-1",
@@ -6014,7 +6065,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-lic-20261106-insulin_human-1",
@@ -6378,7 +6431,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-lic-20261106-lactose-1",
@@ -6973,7 +7028,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-row-20261112-loxoprofen-2",
@@ -6993,7 +7050,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-row-20261112-loxoprofen-3",
@@ -7013,7 +7072,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-row-20261112-loxoprofen-4",
@@ -7033,7 +7094,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-lic-20261106-magnesium_carbonate-1",
@@ -7273,7 +7336,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-lic-20261106-meloxicam-1",
@@ -7353,7 +7418,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-lic-20261106-memantine-1",
@@ -7834,7 +7901,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-row-20261112-micafungin-2",
@@ -7854,7 +7923,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-row-20261112-micafungin-3",
@@ -7874,7 +7945,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-row-20261112-micafungin-4",
@@ -7894,7 +7967,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-lic-20261031-miconazole-1",
@@ -9291,7 +9366,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-row-20261112-phenytoin-2",
@@ -9311,7 +9388,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-row-20261112-phenytoin-3",
@@ -9331,7 +9410,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-row-20261112-phenytoin-4",
@@ -9351,7 +9432,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-row-20261112-phenytoin-5",
@@ -9371,7 +9454,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-lic-20261106-piperacillin-1",
@@ -9691,7 +9776,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-lic-20261106-potassium_chloride-1",
@@ -11102,19 +11189,19 @@
    "file": "spironolactone.md",
    "action": "correct",
    "claim": "Todos os 8 registros estão válidos; o medicamento é comercializado no Brasil, com 8 licenças válidas de 8.",
-   "replacement": "O medicamento é comercializado no Brasil, com 8 licenças válidas de 8.",
-   "note": "Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 29 registros para este medicamento, 10 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização.",
+   "replacement": "O medicamento é comercializado no Brasil, com 10 licenças válidas de 29.",
+   "note": "Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06; números atualizados em 2026-11-24). Nos dados (dados abertos de medicamentos da ANVISA) constam 29 registros para este medicamento, 10 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
    "sources": [
     {
      "title": "ANVISA – Dados abertos de medicamentos",
      "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
-     "accessed": "2026-11-06"
+     "accessed": "2026-11-23"
     }
    ],
-   "checked": "2026-11-06",
+   "checked": "2026-11-24",
    "summary": "Removido: “Todos os 8 registros estão válidos; o”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）；2026-11-24 ANVISA 資料更新後同 id 重發（replacement 的張數照事實層）",
    "history": [
     {
      "id": "br-lic-20261106-spironolactone-2",
@@ -11137,6 +11224,29 @@
      "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
      "retired": "2026-11-12",
      "reason": "錨點那句的張數／狀態由 br-lic-20261112-spironolactone-1 依事實層更正；錨點改成句中不受更正影響的部分，框的位置不變"
+    },
+    {
+     "id": "br-lic-20261106-spironolactone-2",
+     "drug": "spironolactone",
+     "file": "spironolactone.md",
+     "action": "correct",
+     "claim": "Todos os 8 registros estão válidos; o medicamento é comercializado no Brasil, com 8 licenças válidas de 8.",
+     "replacement": "O medicamento é comercializado no Brasil, com 8 licenças válidas de 8.",
+     "note": "Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 29 registros para este medicamento, 10 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
+     "sources": [
+      {
+       "title": "ANVISA – Dados abertos de medicamentos",
+       "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-06",
+     "summary": "Removido: “Todos os 8 registros estão válidos; o”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
+     "anchor": "O medicamento é comercializado",
+     "retired": "2026-11-24",
+     "reason": "ANVISA 每週資料更新後（data-20261123-132649，situação 2026-11-23）事實層變成 29 張、有效 10、註銷 19；replacement 裡的張數照 scripts/rewrite_license_counts.py 的規則更新（查核紀錄的句子程式不會自動改）"
     }
    ],
    "anchor": "O medicamento é comercializado"
@@ -12371,7 +12481,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-lic-20261106-tyrosine-1",
@@ -12472,7 +12584,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-lic-20261106-urofollitropin-1",
@@ -12632,7 +12746,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-lic-20261106-vonoprazan-1",
@@ -12792,7 +12908,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-lic-20261106-zinc_chloride-1",
@@ -12832,7 +12950,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-lic-20261106-zinc_oxide-1",
@@ -12976,7 +13096,9 @@
    ],
    "checked": "2026-11-12",
    "method": "2026-11-12 人工核對：查核機制的許可證檢查（gate 第 18 項）發現許可證表有 4 個號碼不屬於本藥，逐筆對照 data/raw/anvisa_medicamentos.csv（DADOS_ABERTOS_MEDICAMENTOS）的 PRINCIPIO_ATIVO",
-   "anchor": "| Registro | Produto | Forma farmacêutica | Situação |"
+   "anchor": "| Registro | Produto | Forma farmacêutica | Situação |",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-lic-20261112-ganciclovir-2",
@@ -12997,7 +13119,9 @@
    ],
    "checked": "2026-11-12",
    "method": "2026-11-12 人工核對：查核機制的許可證檢查（gate 第 18 項）發現許可證表有 4 個號碼不屬於本藥，逐筆對照 data/raw/anvisa_medicamentos.csv（DADOS_ABERTOS_MEDICAMENTOS）的 PRINCIPIO_ATIVO",
-   "anchor": "| Registro | Produto | Forma farmacêutica | Situação |"
+   "anchor": "| Registro | Produto | Forma farmacêutica | Situação |",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-lic-20261112-amikacin-1",
@@ -13180,19 +13304,43 @@
    "file": "aztreonam.md",
    "action": "correct",
    "claim": "Dos 11 registros, 3 estão válidos e 8 cancelados.",
-   "replacement": "Dos 12 registros, 3 estão válidos e 9 cancelados.",
-   "summary": "Registros: 11 (8 cancelados) → 12 (9 cancelados)",
-   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 12 registros para este medicamento, 3 válidos e 9 cancelados ou caducos; os números atuais estão no Resumo rápido.",
-   "finding": "AI 產生的正文的張數／狀態是 10-31 依成分重建前舊證據包（最多 20 筆）的數字；事實層 total 12、valid 3、cancelled 9、partial False（data-20261105-122515）",
+   "replacement": "Dos 12 registros, 2 estão válidos e 10 cancelados.",
+   "summary": "Registros: 11 (8 cancelados) → 12 (10 cancelados)",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA (situação de 2026-11-23): 12 registros para este medicamento, 2 válidos e 10 cancelados ou caducos; os números atuais estão no Resumo rápido.",
+   "finding": "AI 產生的正文的張數／狀態是 10-31 依成分重建前舊證據包（最多 20 筆）的數字；事實層 total 12、valid 2、cancelled 10、partial False（data-20261123-132649）",
    "sources": [
     {
      "title": "ANVISA – Dados abertos de medicamentos",
      "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
-     "accessed": "2026-11-05"
+     "accessed": "2026-11-23"
     }
    ],
-   "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（正文張數對事實層）"
+   "checked": "2026-11-24",
+   "method": "2026-11-12 人工查核（正文張數對事實層）；2026-11-24 ANVISA 資料更新後同 id 重發（replacement 的張數照事實層）",
+   "history": [
+    {
+     "id": "br-lic-20261112-aztreonam-1",
+     "drug": "aztreonam",
+     "file": "aztreonam.md",
+     "action": "correct",
+     "claim": "Dos 11 registros, 3 estão válidos e 8 cancelados.",
+     "replacement": "Dos 12 registros, 3 estão válidos e 9 cancelados.",
+     "summary": "Registros: 11 (8 cancelados) → 12 (9 cancelados)",
+     "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 12 registros para este medicamento, 3 válidos e 9 cancelados ou caducos; os números atuais estão no Resumo rápido.",
+     "finding": "AI 產生的正文的張數／狀態是 10-31 依成分重建前舊證據包（最多 20 筆）的數字；事實層 total 12、valid 3、cancelled 9、partial False（data-20261105-122515）",
+     "sources": [
+      {
+       "title": "ANVISA – Dados abertos de medicamentos",
+       "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-12",
+     "method": "2026-11-12 人工查核（正文張數對事實層）",
+     "retired": "2026-11-24",
+     "reason": "ANVISA 每週資料更新後（data-20261123-132649，situação 2026-11-23）事實層變成 12 張、有效 2、註銷 10；replacement 裡的張數照 scripts/rewrite_license_counts.py 的規則更新（查核紀錄的句子程式不會自動改）"
+    }
+   ]
   },
   {
    "id": "br-lic-20261112-calcitriol-1",
@@ -13569,19 +13717,43 @@
    "file": "mometasone.md",
    "action": "correct",
    "claim": "dos 9 registros encontrados, 9 estão vigentes",
-   "replacement": "dos 58 registros, 28 estão vigentes",
-   "summary": "Registros vigentes: 9 de 9 → 28 de 58",
-   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 58 registros para este medicamento, 28 válidos e 30 cancelados ou caducos; os números atuais estão no Resumo rápido.",
-   "finding": "AI 產生的正文的張數／狀態是 10-31 依成分重建前舊證據包（最多 20 筆）的數字；事實層 total 58、valid 28、cancelled 30、partial False（data-20261105-122515）",
+   "replacement": "dos 58 registros, 26 estão vigentes",
+   "summary": "Registros vigentes: 9 de 9 → 26 de 58",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA (situação de 2026-11-23): 58 registros para este medicamento, 26 válidos e 32 cancelados ou caducos; os números atuais estão no Resumo rápido.",
+   "finding": "AI 產生的正文的張數／狀態是 10-31 依成分重建前舊證據包（最多 20 筆）的數字；事實層 total 58、valid 26、cancelled 32、partial False（data-20261123-132649）",
    "sources": [
     {
      "title": "ANVISA – Dados abertos de medicamentos",
      "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
-     "accessed": "2026-11-05"
+     "accessed": "2026-11-23"
     }
    ],
-   "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（正文張數對事實層）"
+   "checked": "2026-11-24",
+   "method": "2026-11-12 人工查核（正文張數對事實層）；2026-11-24 ANVISA 資料更新後同 id 重發（replacement 的張數照事實層）",
+   "history": [
+    {
+     "id": "br-lic-20261112-mometasone-1",
+     "drug": "mometasone",
+     "file": "mometasone.md",
+     "action": "correct",
+     "claim": "dos 9 registros encontrados, 9 estão vigentes",
+     "replacement": "dos 58 registros, 28 estão vigentes",
+     "summary": "Registros vigentes: 9 de 9 → 28 de 58",
+     "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 58 registros para este medicamento, 28 válidos e 30 cancelados ou caducos; os números atuais estão no Resumo rápido.",
+     "finding": "AI 產生的正文的張數／狀態是 10-31 依成分重建前舊證據包（最多 20 筆）的數字；事實層 total 58、valid 28、cancelled 30、partial False（data-20261105-122515）",
+     "sources": [
+      {
+       "title": "ANVISA – Dados abertos de medicamentos",
+       "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-12",
+     "method": "2026-11-12 人工查核（正文張數對事實層）",
+     "retired": "2026-11-24",
+     "reason": "ANVISA 每週資料更新後（data-20261123-132649，situação 2026-11-23）事實層變成 58 張、有效 26、註銷 32；replacement 裡的張數照 scripts/rewrite_license_counts.py 的規則更新（查核紀錄的句子程式不會自動改）"
+    }
+   ]
   },
   {
    "id": "br-lic-20261112-mometasone-2",
@@ -13609,19 +13781,43 @@
    "file": "procaine.md",
    "action": "correct",
    "claim": "dos 4 registros encontrados, 4 têm licença válida",
-   "replacement": "dos 40 registros, 8 têm licença válida",
-   "summary": "Registros válidos: 4 de 4 → 8 de 40",
-   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 40 registros para este medicamento, 8 válidos e 32 cancelados ou caducos; os números atuais estão no Resumo rápido.",
-   "finding": "AI 產生的正文的張數／狀態是 10-31 依成分重建前舊證據包（最多 20 筆）的數字；事實層 total 40、valid 8、cancelled 32、partial False（data-20261105-122515）",
+   "replacement": "dos 40 registros, 7 têm licença válida",
+   "summary": "Registros válidos: 4 de 4 → 7 de 40",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA (situação de 2026-11-23): 40 registros para este medicamento, 7 válidos e 33 cancelados ou caducos; os números atuais estão no Resumo rápido.",
+   "finding": "AI 產生的正文的張數／狀態是 10-31 依成分重建前舊證據包（最多 20 筆）的數字；事實層 total 40、valid 7、cancelled 33、partial False（data-20261123-132649）",
    "sources": [
     {
      "title": "ANVISA – Dados abertos de medicamentos",
      "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
-     "accessed": "2026-11-05"
+     "accessed": "2026-11-23"
     }
    ],
-   "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（正文張數對事實層）"
+   "checked": "2026-11-24",
+   "method": "2026-11-12 人工查核（正文張數對事實層）；2026-11-24 ANVISA 資料更新後同 id 重發（replacement 的張數照事實層）",
+   "history": [
+    {
+     "id": "br-lic-20261112-procaine-1",
+     "drug": "procaine",
+     "file": "procaine.md",
+     "action": "correct",
+     "claim": "dos 4 registros encontrados, 4 têm licença válida",
+     "replacement": "dos 40 registros, 8 têm licença válida",
+     "summary": "Registros válidos: 4 de 4 → 8 de 40",
+     "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 40 registros para este medicamento, 8 válidos e 32 cancelados ou caducos; os números atuais estão no Resumo rápido.",
+     "finding": "AI 產生的正文的張數／狀態是 10-31 依成分重建前舊證據包（最多 20 筆）的數字；事實層 total 40、valid 8、cancelled 32、partial False（data-20261105-122515）",
+     "sources": [
+      {
+       "title": "ANVISA – Dados abertos de medicamentos",
+       "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-12",
+     "method": "2026-11-12 人工查核（正文張數對事實層）",
+     "retired": "2026-11-24",
+     "reason": "ANVISA 每週資料更新後（data-20261123-132649，situação 2026-11-23）事實層變成 40 張、有效 7、註銷 33；replacement 裡的張數照 scripts/rewrite_license_counts.py 的規則更新（查核紀錄的句子程式不會自動改）"
+    }
+   ]
   },
   {
    "id": "br-lic-20261112-rivastigmine-1",
@@ -13629,19 +13825,43 @@
    "file": "rivastigmine.md",
    "action": "correct",
    "claim": "Todos os 17 registros encontram-se válidos.",
-   "replacement": "Dos 42 registros, 19 encontram-se válidos.",
-   "summary": "Registros válidos: “todos os 17” → 19 de 42",
-   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 42 registros para este medicamento, 19 válidos e 23 cancelados ou caducos; os números atuais estão no Resumo rápido.",
-   "finding": "AI 產生的正文的張數／狀態是 10-31 依成分重建前舊證據包（最多 20 筆）的數字；事實層 total 42、valid 19、cancelled 23、partial False（data-20261105-122515）",
+   "replacement": "Dos 42 registros, 18 encontram-se válidos.",
+   "summary": "Registros válidos: “todos os 17” → 18 de 42",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA (situação de 2026-11-23): 42 registros para este medicamento, 18 válidos e 24 cancelados ou caducos; os números atuais estão no Resumo rápido.",
+   "finding": "AI 產生的正文的張數／狀態是 10-31 依成分重建前舊證據包（最多 20 筆）的數字；事實層 total 42、valid 18、cancelled 24、partial False（data-20261123-132649）",
    "sources": [
     {
      "title": "ANVISA – Dados abertos de medicamentos",
      "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
-     "accessed": "2026-11-05"
+     "accessed": "2026-11-23"
     }
    ],
-   "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（正文張數對事實層）"
+   "checked": "2026-11-24",
+   "method": "2026-11-12 人工查核（正文張數對事實層）；2026-11-24 ANVISA 資料更新後同 id 重發（replacement 的張數照事實層）",
+   "history": [
+    {
+     "id": "br-lic-20261112-rivastigmine-1",
+     "drug": "rivastigmine",
+     "file": "rivastigmine.md",
+     "action": "correct",
+     "claim": "Todos os 17 registros encontram-se válidos.",
+     "replacement": "Dos 42 registros, 19 encontram-se válidos.",
+     "summary": "Registros válidos: “todos os 17” → 19 de 42",
+     "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 42 registros para este medicamento, 19 válidos e 23 cancelados ou caducos; os números atuais estão no Resumo rápido.",
+     "finding": "AI 產生的正文的張數／狀態是 10-31 依成分重建前舊證據包（最多 20 筆）的數字；事實層 total 42、valid 19、cancelled 23、partial False（data-20261105-122515）",
+     "sources": [
+      {
+       "title": "ANVISA – Dados abertos de medicamentos",
+       "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-12",
+     "method": "2026-11-12 人工查核（正文張數對事實層）",
+     "retired": "2026-11-24",
+     "reason": "ANVISA 每週資料更新後（data-20261123-132649，situação 2026-11-23）事實層變成 42 張、有效 18、註銷 24；replacement 裡的張數照 scripts/rewrite_license_counts.py 的規則更新（查核紀錄的句子程式不會自動改）"
+    }
+   ]
   },
   {
    "id": "br-lic-20261112-ropivacaine-1",
@@ -13801,7 +14021,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-row-20261112-cysteine-2",
@@ -13821,7 +14043,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-row-20261112-cysteine-3",
@@ -13841,7 +14065,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-row-20261112-givosiran-1",
@@ -13861,7 +14087,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-row-20261112-hydrocortisone_acetate-1",
@@ -13881,7 +14109,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-row-20261112-hydrocortisone_acetate-2",
@@ -13901,7 +14131,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-row-20261112-hydrocortisone_acetate-3",
@@ -13921,7 +14153,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-row-20261112-hydrocortisone_acetate-4",
@@ -13941,7 +14175,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-row-20261112-hydrocortisone_acetate-5",
@@ -13961,7 +14197,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-row-20261112-phenol-1",
@@ -13981,7 +14219,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-row-20261112-phenol-2",
@@ -14001,7 +14241,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-row-20261112-phenol-3",
@@ -14021,7 +14263,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-row-20261112-sodium_citrate-1",
@@ -14041,7 +14285,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-row-20261112-sodium_citrate-2",
@@ -14061,7 +14307,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-row-20261112-sodium_citrate-3",
@@ -14081,7 +14329,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-row-20261112-sodium_citrate-4",
@@ -14101,7 +14351,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-row-20261112-sodium_citrate-5",
@@ -14121,7 +14373,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-row-20261112-sodium_lauryl_sulfate-1",
@@ -14141,7 +14395,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-row-20261112-sodium_lauryl_sulfate-2",
@@ -14161,7 +14417,9 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "id": "br-lic-20261112-adapalene-1",
@@ -14281,7 +14539,9 @@
     }
    ],
    "checked": "2026-11-13",
-   "method": "2026-11-13 人工查核（每週排程停損頁，正文對 ANVISA 新事實）"
+   "method": "2026-11-13 人工查核（每週排程停損頁，正文對 ANVISA 新事實）",
+   "status": "superseded",
+   "superseded_by": "程式許可證表（scripts/sync_license_tables.py，2026-11-24 起依證據包產生、每週同步）"
   },
   {
    "drug": "sodium_carbonate",

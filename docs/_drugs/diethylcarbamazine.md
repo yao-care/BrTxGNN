@@ -78,9 +78,13 @@ As publicações abaixo tratam de filariose e suas complicações. Nenhuma avali
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 110630093 | DIETILCARBAMAZINA CITRATO | FUNDAÇÃO OSWALDO CRUZ | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

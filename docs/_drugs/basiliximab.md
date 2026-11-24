@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 107
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Basiliximab: known uses and market status in Brazil; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -73,10 +73,13 @@ O modelo TxGNN não apresenta nenhum candidato com pontuação igual ou superior
 
 ## Informações de Comercialização no Brasil
 
-| Registro | Produto | Forma farmacêutica | Situação |
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
-| 100680894 | BASILIXIMAB |  | Cancelado |
-| 100680001 | SIMULECT |  | Ativo |
+| 100680001 | SIMULECT | NOVARTIS BIOCIENCIAS S.A | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

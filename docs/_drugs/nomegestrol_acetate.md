@@ -3,7 +3,7 @@ layout: default
 title: Nomegestrol Acetate
 parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 476
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Nomegestrol Acetate: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
 predicted_indications: []
 indication_count: 0
@@ -71,10 +71,14 @@ O modelo TxGNN não apresentou nenhum candidato com pontuação igual ou superio
 
 ## Informações de Comercialização no Brasil
 
-| Registro | Produto | Forma farmacêutica | Situação |
-|------|------|------|------|
-| 100330209 | ACETATO DE NOMEGESTROL, ESTRADIOL HEMI-HIDRATADO |  | Ativo |
-| 197110002 | ACETATO DE NOMEGESTROL, ESTRADIOL HEMI-HIDRATADO |  | Ativo |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 100330209 | IZIZ | Ativo |
+| 197110002 | STEZZA | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB06769
 monitor_inn: "Bendamustine"
 predicted_indications: ["mantle cell lymphoma", "chronic myelogenous leukemia, BCR-ABL1 positive", "Hodgkins lymphoma", "small intestinal Burkitt lymphoma", "small intestinal mucosa-associated lymphoid tissue lymphoma", "thyroid gland mucosa-associated lymphoid tissue lymphoma", "breast mucosa-associated lymphoid tissue lymphoma", "tonsillar lymphoma", "MALT lymphoma", "relapsing-remitting multiple sclerosis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Bendamustina Hydrochloride: nova indicação prevista, Linfoma de células do manto (mantle cell lymphoma) (nível de evidência L1). Indicação original: ANTINEOPLASICOS CITOTOXICOS"
 ---
 
@@ -111,13 +111,18 @@ Os dados compilados incluem 20 publicações. A tabela mostra as 10 mais relevan
 
 Há registros ativos de medicamentos de ingrediente único contendo cloridrato de bendamustina, e o produto está comercializado no Brasil. A lista abaixo mostra 5 dos 6 registros. O sexto, RIBOMUSTIN (nº 112363413), está cancelado.
 
-| Número de Registro | Nome Comercial | Situação |
-|---------|------|------|
-| 155730039 | Cloridrato de Bendamustina | Válido |
-| 155730047 | Benalq | Válido |
-| 182610020 | Bendy | Válido |
-| 182610018 | Cloridrato de Bendamustina | Válido |
-| 151430099 | Musbeno | Válido |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 151430099 | MUSBENO | Ativo |
+| 155730039 | CLORIDRATO DE BENDAMUSTINA | Ativo |
+| 155730047 | BENALQ | Ativo |
+| 182610018 | CLORIDRATO DE BENDAMUSTINA | Ativo |
+| 182610020 | BENDY | Ativo |
+| 112363413 | RIBOMUSTIN | Cancelado |
+
+<!-- licenses:end -->
 
 ---
 

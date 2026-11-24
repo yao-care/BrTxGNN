@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 405
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Levobunolol: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
 predicted_indications: []
 ---
@@ -73,11 +73,15 @@ Os candidatos que o modelo TxGNN (pontuação ≥ 0,99) gerou para o Levobunolol
 
 ## Informações de Comercialização no Brasil
 
-| Registro | Produto | Forma farmacêutica | Situação |
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
-| 101470041 | BETAGAN |  | Cancelado |
-| 117250020 | B-TABLOCK |  | Cancelado |
-| 102980491 | B-TABLOCK |  | Ativo |
+| 102980491 | B-TABLOCK | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 101470041 | BETAGAN | ALLERGAN PRODUTOS FARMACÊUTICOS LTDA | Cancelado |
+| 117250020 | B-TABLOCK | LATINOFARMA INDUSTRIAS FARMACEUTICAS LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

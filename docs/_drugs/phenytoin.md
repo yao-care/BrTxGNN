@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 524
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Phenytoin: nova indicação prevista, Neoplasia do nervo trigêmeo (trigeminal nerve neoplasm) (nível de evidência L5). Indicação original: Anticonvulsivantes"
 monitor_inn: "PHENYTOIN"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
@@ -78,43 +78,24 @@ Para a neuralgia do trigêmeo (indicação alternativa, não a de maior pontuaç
 
 Todos os 12 registros estão válidos (12 de 12 licenças válidas). Principais registros (máximo de 5):
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 110390036 | FURP - Fenitoína | Não informada | Anticonvulsivantes |
-| Registro 103700473 | Fenitoína | Não informada | Anticonvulsivantes |
-| Registro 107150171 | Fenitoína | Não informada | Anticonvulsivantes |
-| Registro 112090023 | FUNED - Fenitoína | Não informada | Anticonvulsivantes |
-| Registro 107150095 | Dantalin | Não informada | Anticonvulsivantes |
+<!-- licenses:begin -->
 
-<!-- review:begin br-row-20261112-phenytoin-1 -->
+| Registro | Produto | Situação |
+|------|------|------|
+| 102980015 | FENITAL | Ativo |
+| 102980446 | FENITOINA SODICA | Ativo |
+| 102980453 | FENITAL ORAL | Ativo |
+| 103700473 | FENITOÍNA | Ativo |
+| 103700507 | FENITOÍNA SÓDICA | Ativo |
+| 107150095 | DANTALIN | Ativo |
+| 107150171 | FENITOÍNA | Ativo |
+| 110390036 | FURP - FENITOINA | Ativo |
+| 112090023 | FUNED - FENITOÍNA | Ativo |
+| 113430171 | FENITOÍNA SÓDICA | Ativo |
+| 113430193 | FENITOÍNA | Ativo |
+| 178170938 | HIDANTAL | Ativo |
 
-> **Correção de verificação (2026-11-12)**: Texto original: “FURP - Fenitoína / Não informada / Anticonvulsivantes (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 110390036 (FURP - FENITOINA) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-row-20261112-phenytoin-1 -->
-
-<!-- review:begin br-row-20261112-phenytoin-2 -->
-
-> **Correção de verificação (2026-11-12)**: Texto original: “Registro 103700473 / Fenitoína / Não informada / Anticonvulsivantes (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 103700473 (FENITOÍNA) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-row-20261112-phenytoin-2 -->
-
-<!-- review:begin br-row-20261112-phenytoin-3 -->
-
-> **Correção de verificação (2026-11-12)**: Texto original: “Registro 107150171 / Fenitoína / Não informada / Anticonvulsivantes (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 107150171 (FENITOÍNA) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-row-20261112-phenytoin-3 -->
-
-<!-- review:begin br-row-20261112-phenytoin-4 -->
-
-> **Correção de verificação (2026-11-12)**: Texto original: “FUNED - Fenitoína / Não informada / Anticonvulsivantes (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 112090023 (FUNED - FENITOÍNA) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-row-20261112-phenytoin-4 -->
-
-<!-- review:begin br-row-20261112-phenytoin-5 -->
-
-> **Correção de verificação (2026-11-12)**: Texto original: “Dantalin / Não informada / Anticonvulsivantes (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 107150095 (DANTALIN) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-row-20261112-phenytoin-5 -->
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 
@@ -152,11 +133,11 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “já que não há registro válido” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Tabela: registro 110390036 (FURP - FENITOINA) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Tabela: registro 103700473 (FENITOÍNA) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Tabela: registro 107150171 (FENITOÍNA) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Tabela: registro 112090023 (FUNED - FENITOÍNA) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Tabela: registro 107150095 (DANTALIN) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 110390036 (FURP - FENITOINA) está ativo, não cancelado | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 103700473 (FENITOÍNA) está ativo, não cancelado | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 107150171 (FENITOÍNA) está ativo, não cancelado | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 112090023 (FUNED - FENITOÍNA) está ativo, não cancelado | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 107150095 (DANTALIN) está ativo, não cancelado | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Extended Phenytoin Sodium (phenytoin sodium) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=363cd347-d25e-42b9-9ce7-30642f3cb353) |
 
 <!-- review:end log -->

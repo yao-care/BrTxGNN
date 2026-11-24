@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00531
 monitor_inn: "Cyclophosphamide"
 predicted_indications: ["vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cyclophosphamide Monohydrate: nova indicação prevista, Anomalias vertebrais e disfunção endócrina e de células T variável (vertebral anomalies and variable endocrine and T-cell dysfunction) (nível de evidência L5)."
 ---
 
@@ -64,9 +64,13 @@ A pontuação alta (0,9938) reflete apenas um cálculo do modelo. Sem ensaios cl
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 106830168 | GENUXAL | Não informada | ANTINEOPLASICO |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 106830168 | GENUXAL | Ativo |
+
+<!-- licenses:end -->
 
 ## Citotoxicidade
 

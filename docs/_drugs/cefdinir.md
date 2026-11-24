@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 206
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Cefdinir: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
 predicted_indications: []
 ---
@@ -75,11 +75,15 @@ O modelo TxGNN não apresenta nenhum candidato com pontuação igual ou superior
 
 ## Informações de Comercialização no Brasil
 
-| Registro | Produto | Forma farmacêutica | Situação |
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
-| 100431524 | TERCEN |  | Ativo |
-| 100431506 | TERZA |  | Ativo |
-| 100431539 | CEFDINIR |  | Ativo |
+| 100431506 | TERZA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431524 | TERCEN | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431539 | CEFDINIR | EUROFARMA LABORATORIOS S.A. | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 683
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "ZINC SULFATE"
 predicted_indications: ["pharyngitis", "nasal cavity disease", "acute laryngopharyngitis", "congenital prothrombin deficiency"]
 description: "Zinc Sulfate: nova indicação prevista, Faringite (pharyngitis) (nível de evidência L5). Indicação original: OUTROS SUPLEMS MINERAIS EXCETO DE FERRO E P/ REHIDRATACAO"
@@ -78,11 +78,15 @@ A pontuação do TxGNN é alta, mas ela indica apenas a força da previsão comp
 
 Há 3 registros vigentes de produtos com sulfato de zinco isolado.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 117950003 | NESH ZINCO | Não informada | Outros suplementos minerais, exceto de ferro e para reidratação |
-| Registro 103700113 | COLÍRIO TEUTO | Não informada | Outros medicamentos com ação no aparelho visual |
-| Registro 102980488 | MAXIBELL | Não informada | Descongestionantes oftálmicos |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 102980488 | MAXIBELL | Ativo |
+| 103700113 | COLÍRIO TEUTO | Ativo |
+| 117950003 | NESH ZINCO | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

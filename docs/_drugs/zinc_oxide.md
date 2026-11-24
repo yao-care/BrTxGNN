@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 682
 evidence_level: L4
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Zinc Oxide: nova indicação prevista, Acne (acne (disease)) (nível de evidência L4). Indicação original: Emolientes e protetores da pele e mucosas"
 monitor_inn: "Zinc oxide"
 predicted_indications: ["acne (disease)", "anorectal stricture", "anal polyp", "papillary conjunctivitis", "postinfectious vasculitis"]
@@ -93,6 +93,8 @@ Principais registros:
 
 <!-- review:end br-lic-20261106-zinc_oxide-1 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 101550091 | VITERGAN ZINCO | MARJAN INDÚSTRIA E COMÉRCIO LTDA | Ativo |
@@ -126,7 +128,9 @@ Principais registros:
 | 155840113 | NISTATINA + ÓXIDO DE ZINCO | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
 | 155840174 | BABYNEO | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 187 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ---
 

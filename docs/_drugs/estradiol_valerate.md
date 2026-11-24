@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 301
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Estradiol Valerate: nova indicação prevista, Forma sintomática da síndrome do X frágil em mulheres portadoras (sym… (nível de evidência L5). Indicação original: Estrogênios associados a outros fármac…"
 monitor_inn: "ESTRADIOL VALERATE"
 predicted_indications: ["symptomatic form of fragile X syndrome in female carrier", "blepharophimosis-epicanthus inversus-ptosis", "partial trisomy/tetrasomy of the short arm of chromosome 5", "partial trisomy/tetrasomy of the short arm of chromosome 12", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "partial trisomy/tetrasomy of the short arm of chromosome 18", "ovarian remnant syndrome", "anovulation", "luteoma of pregnancy", "ovarian dysfunction"]
@@ -110,15 +110,24 @@ Para referência, publicações selecionadas ligadas à anovulação e à disfun
 
 ## Informações de Comercialização no Brasil
 
-Dos 10 registros, 10 estão válidos. Principais registros:
+Dos 10 registros, 9 estão válidos. Principais registros:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 115600240 | Finifert | Não informada | Estrogênios associados a outros fármacos, exclusive androgênios |
-| Registro nº 170560127 | Tambella | Não informada | Anticoncepcionais |
-| Registro nº 170560054 | Cicloprimogyna | Não informada | Hormônios sexuais, exclusive ocitócicos |
-| Registro nº 170560049 | Qlaira | Não informada | Anticoncepcionais |
-| Registro nº 170560043 | Mesigyna | Não informada | Anticoncepcionais |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 100430928 | ENANTATO DE NORETISTERONA + VALERATO DE ESTRADIOL | Ativo |
+| 104971494 | CLIMENE | Ativo |
+| 115600215 | ENANTATO DE NORETISTERONA + VALERATO DE ESTRADIOL | Ativo |
+| 115600224 | NOREGYNA | Ativo |
+| 115600234 | ENANTATO DE NORETISTERONA + VALERATO DE ESTRADIOL | Ativo |
+| 115600240 | FINIFERT | Ativo |
+| 170560043 | MESIGYNA | Ativo |
+| 170560049 | QLAIRA | Ativo |
+| 170560127 | TAMBELLA | Ativo |
+| 170560054 | CICLOPRIMOGYNA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

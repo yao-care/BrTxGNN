@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 277
 evidence_level: L2
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Doxorubicin: nova indicação prevista, Sarcoma de Ewing (Ewing sarcoma) (nível de evidência L2). Indicação original: Antineoplásico"
 monitor_inn: "Doxorubicin"
 predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "rhabdomyosarcoma (disease)"]
@@ -98,7 +98,9 @@ Observação: em vários ensaios acima a doxorrubicina faz parte do esquema de b
 
 ## Informações de Comercialização no Brasil
 
-Medicamento comercializado no país, com 8 registros válidos de 8.
+Medicamento comercializado no país, com 8 registros válidos de 36.
+
+<!-- licenses:begin -->
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -133,7 +135,9 @@ Medicamento comercializado no país, com 8 registros válidos de 8.
 | 127480010 | DOXO - BIG | OPEM REPRESENTAÇÃO IMPORTADORA EXPORTADORA E DISTR | Cancelado |
 | 131390005 | FAULDOXO | DISAQ FARMACÊUTICA LTDA | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 36 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Citotoxicidade
 

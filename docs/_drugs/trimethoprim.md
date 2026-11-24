@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 656
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Trimethoprim"
 predicted_indications: ["punctate epithelial keratoconjunctivitis"]
 description: "Trimethoprim: nova indicação prevista, Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconjunctivitis) (nível de evidência L5). Indicação original: TRIMETOPRIMA EM ASSOCIACAO COM SUL…"
@@ -104,6 +104,8 @@ Dos 111 registros, 23 constam como válidos. Principais registros:
 
 <!-- review:end br-lic-20261112-trimethoprim-1 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100431282 | SUBTRAX | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -137,7 +139,9 @@ Dos 111 registros, 23 constam como válidos. Principais registros:
 | 101070168 | ESPECTRIN | GLAXOSMITHKLINE BRASIL LTDA | Cancelado |
 | 101830121 | SULFAMETOXAZOL+TRIMETOPRIMA | LABORATORIO FARMACEUTICO DO ESTADO DE PERNAMBUCO G | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 111 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ---
 

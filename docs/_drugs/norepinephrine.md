@@ -95,6 +95,8 @@ Há ressalvas importantes: a norepinefrina não tem papel estabelecido como bron
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 102980072 | XYLESTESIN | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
@@ -117,6 +119,8 @@ Há ressalvas importantes: a norepinefrina não tem papel estabelecido como bron
 | 120690030 | DRENALIB | LABORATÓRIOS LIBRA DO BRASIL LTDA | Cancelado |
 | 127480003 | NOREPINE | OPEM REPRESENTAÇÃO IMPORTADORA EXPORTADORA E DISTR | Cancelado |
 | 162500003 | LEVOPHED | HOSPIRA PRODUTOS HOSPITALARES LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 A tabela mostra apenas os 5 primeiros. Entre os demais constam produtos como Hyponor, Noradrem, Epikabi (vasoconstritores) e Xylestesin e Xylestesin com norepinefrina (anestésicos locais).
 

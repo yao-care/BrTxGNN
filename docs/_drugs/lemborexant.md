@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 397
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Lemborexant: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
 predicted_indications: []
 ---
@@ -72,9 +72,13 @@ Todos os candidatos que o modelo TxGNN gerou para o Lemborexant e que puderam se
 
 ## Informações de Comercialização no Brasil
 
-| Registro | Produto | Forma farmacêutica | Situação |
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
-| 173100007 | LEMBOREXANTE |  | Ativo |
+| 173100007 | DAYVIGO | EISAI LABORATÓRIOS LTDA | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

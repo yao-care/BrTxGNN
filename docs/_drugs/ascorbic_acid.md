@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Ascorbic acid"
 predicted_indications: ["non-syndromic esophageal malformation", "esophageal disease", "congenital prothrombin deficiency", "injury", "biotin metabolic disease", "perinatal disease", "segmental odontomaxillary dysplasia", "florid cemento-osseous dysplasia", "disease by subcellular system affected"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ascorbic Acid: nova indicação prevista, Malformação esofágica não sindrômica (non-syndromic esophageal malformation) (nível de evidência L5). Indicação original: MONOVITAMINAS EXCETO VITAMINA K"
 ---
 
@@ -73,13 +73,34 @@ Atualmente não há literatura relacionada.
 
 Os dados compilados indicam 20 registros, dos quais 19 válidos e 1 cancelado; a lista abaixo pode ser parcial e mostra apenas os cinco principais.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 170560016 | Redoxon | Não informada | Monovitaminas exceto vitamina K |
-| Registro 101860038 | Santisavit C | Não informada | Monovitaminas exceto vitamina K |
-| Registro 103700204 | Cevita | Não informada | Monovitaminas exceto vitamina K |
-| Registro 110850028 | Vitamina C Injetável | Não informada | Vitaminas e suplementos minerais |
-| Registro 170560105 | Aspirina C Efervescente | Não informada | Analgésicos não narcóticos |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 100380038 | PETIVIT BC | Ativo |
+| 101550236 | VAGI C | Ativo |
+| 101860031 | VITASANTISA C | Ativo |
+| 101860038 | SANTISAVIT C | Ativo |
+| 101910061 | CAMOMILINA C | Ativo |
+| 103700204 | CEVITA | Ativo |
+| 103870065 | ÁCIDO ASCÓRBICO HYPOFARMA | Ativo |
+| 103920089 | BERITIN BC | Ativo |
+| 103920229 | BONPETI | Ativo |
+| 104971153 | NEO CEBETIL COMPLEXO | Ativo |
+| 110850028 | VITAMINA C INJETÁVEL | Ativo |
+| 115600171 | ASPARGIL C | Ativo |
+| 115600178 | VITERGYL ZINCO | Ativo |
+| 115600192 | VITERGYL C | Ativo |
+| 116370082 | VITARISTON C | Ativo |
+| 144930031 | VITAXON C | Ativo |
+| 170560016 | REDOXON | Ativo |
+| 170560105 | ASPIRINA C EFERVESCENTE | Ativo |
+| 178170774 | APRACUR | Ativo |
+| 183260309 | DACTIL OB | Cancelado |
+
+Os dados contêm apenas parte dos registros; a lista pode estar incompleta.
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

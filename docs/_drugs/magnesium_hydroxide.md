@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "MAGNESIUM HYDROXIDE"
 predicted_indications: ["stomach disease"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Magnesium Hydroxide: nova indicação prevista, Doença do estômago (nível de evidência L5). Indicação original: Antiácido"
 ---
 
@@ -103,13 +103,25 @@ Abaixo, os 5 principais. A forma farmacêutica não consta nos dados compilados.
 
 <!-- review:end br-lic-20261106-magnesium_hydroxide-1 -->
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 155840396 | Gastrol | Não informada | Antiácido |
-| Registro nº 115600111 | Gastroliv | Não informada | Antiácido |
-| Registro nº 101430057 | Droxaine | Não informada | Antiácidos e antiulcerosos associados |
-| Registro nº 102350111 | Gelmax | Não informada | Antiácidos e antiulcerosos |
-| Registro nº 157211215 | Mylanta Plus | Não informada | Antiácido |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 100430696 | SIMECO PLUS | Ativo |
+| 101430057 | DROXAINE | Ativo |
+| 102350111 | GELMAX | Ativo |
+| 102350716 | GELMAX DIM | Ativo |
+| 115600111 | GASTROLIV | Ativo |
+| 117170021 | GASTROFTAL | Ativo |
+| 138410052 | KOLLANGEL TABS | Ativo |
+| 155840396 | GASTROL | Ativo |
+| 155840640 | PEPSAMAR PLUS | Ativo |
+| 157211215 | MYLANTA PLUS | Ativo |
+| 178170094 | ESTOMAZIL PASTILHAS | Ativo |
+| 178170971 | ESTOMAZIL | Ativo |
+| 177940044 | INÁZY | Cancelado |
+
+<!-- licenses:end -->
 
 ---
 

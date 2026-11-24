@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 599
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Sulfamethoxazole: nova indicação prevista, Conjuntivite contagiosa aguda (acute contagious conjunctivitis) (nível de evidência L5). Indicação original: Trimetoprima em associação com sulfas"
 monitor_inn: "Sulfamethoxazole"
 predicted_indications: ["acute contagious conjunctivitis"]
@@ -78,6 +78,8 @@ Dos 112 registros, 23 constam como válidos. Abaixo, os 5 principais:
 
 <!-- review:end br-lic-20261112-sulfamethoxazole-1 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100431282 | SUBTRAX | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -111,7 +113,9 @@ Dos 112 registros, 23 constam como válidos. Abaixo, os 5 principais:
 | 101070168 | ESPECTRIN | GLAXOSMITHKLINE BRASIL LTDA | Cancelado |
 | 101830121 | SULFAMETOXAZOL+TRIMETOPRIMA | LABORATORIO FARMACEUTICO DO ESTADO DE PERNAMBUCO G | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 112 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

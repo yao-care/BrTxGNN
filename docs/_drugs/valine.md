@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 663
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Valine: nova indicação prevista, Colangite esclerosante (Sclerosing Cholangitis) (nível de evidência L4). Indicação original: Nutrientes parenterais"
 monitor_inn: "Valine"
 predicted_indications: ["sclerosing cholangitis", "angle-closure glaucoma", "hyperthyroidism", "aqueous misdirection", "traumatic glaucoma", "neovascular glaucoma", "glaucomatous atrophy of optic disc", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "obsolete bundle branch block", "hyperthyroxinemia"]
@@ -77,13 +77,27 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Todos os 15 registros estão válidos. São listados os 5 principais:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 100410131 | Nephrotect | Não informada | Nutrientes parenterais |
-| Registro nº 100410159 | Aminoven 10% Infant | Não informada | Nutrientes parenterais |
-| Registro nº 100850145 | Amixal | Não informada | Nutrientes parenterais |
-| Registro nº 100850109 | Nutriflex Plus | Não informada | Nutrientes parenterais |
-| Registro nº 100410149 | SmofKabiven livre de eletrólitos | Não informada | Nutrientes parenterais |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 100410131 | NEPHROTECT | Ativo |
+| 100410133 | AMINOSTERIL N-HEPA 8% | Ativo |
+| 100410149 | SMOFKABIVEN LIVRE DE ELETRÓLITOS | Ativo |
+| 100410150 | SMOFKABIVEN | Ativo |
+| 100410159 | AMINOVEN 10% INFANT | Ativo |
+| 100419935 | AMINOVEN | Ativo |
+| 100850109 | NUTRIFLEX PLUS | Ativo |
+| 100850124 | NUTRIFLEX LIPID | Ativo |
+| 100850145 | AMIXAL | Ativo |
+| 100850246 | NUTRIFLEX LIPID | Ativo |
+| 100850247 | NUTRIFLEX | Ativo |
+| 106830098 | PRIMENE | Ativo |
+| 106830181 | OLIMEL | Ativo |
+| 106830185 | NUMETA NEO | Ativo |
+| 106830186 | NUMETA PED | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

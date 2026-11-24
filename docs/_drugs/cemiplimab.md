@@ -64,10 +64,14 @@ Essa ligação, porém, é puramente computacional. Não foram fornecidos ensaio
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 122140130 | LIBTAYO | ADIUM S.A. | Ativo |
 | 183260303 | LIBTAYO | SANOFI MEDLEY FARMACÊUTICA LTDA. | Cancelado |
+
+<!-- licenses:end -->
 
 Há 1 registro válido e 1 cancelado, num total de 2 registros.
 

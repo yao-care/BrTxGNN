@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 332
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Gadoteridol: usos conhecidos e situação de mercado no Brasil; atualmente sem novo candidato a indicação"
 predicted_indications: []
 ---
@@ -72,9 +72,13 @@ O modelo TxGNN não apresenta nenhum candidato com pontuação igual ou superior
 
 ## Informações de Comercialização no Brasil
 
-| Registro | Produto | Forma farmacêutica | Situação |
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
-| 180370002 | PROHANCE |  | Ativo |
+| 180370002 | PROHANCE | BRACCO IMAGING DO BRASIL IMPORTAÇÃO E DISTRIBUIÇÃO | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

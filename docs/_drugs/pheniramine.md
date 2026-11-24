@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 519
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-24
 monitor_inn: "pheniramine"
 predicted_indications: ["nasal cavity disease"]
 description: "Pheniramine: nova indicação prevista, Nasal cavity disease (nível de evidência L5). Indicação original: DESCONGESTIONATES OFTALMICOS"
@@ -77,13 +77,19 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 104971282 | Cristalin | Não informada | Descongestionantes oftálmicos |
-| Registro nº 100681115 | Claril | Não informada | Descongestionantes oftálmicos |
-| Registro nº 154230193 | Cloridrato de nafazolina + maleato de feniramina | Não informada | Descongestionantes oftálmicos |
-| Registro nº 155840212 | Clanistil | Não informada | Descongestionantes oftálmicos |
-| Registro nº 186200022 | Colírio Moura Brasil Aliv | Não informada | Descongestionantes oftálmicos |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 100681115 | CLARIL | Ativo |
+| 104971282 | CRISTALIN | Ativo |
+| 104971463 | UNICLARIN | Ativo |
+| 154230192 | OCUTIL | Ativo |
+| 154230193 | CLORIDRATO DE NAFAZOLINA+MALEATO DE FENIRAMINA | Ativo |
+| 155840212 | CLANISTIL | Ativo |
+| 186200022 | COLÍRIO MOURA BRASIL ALIV | Cancelado |
+
+<!-- licenses:end -->
 
 Dos 7 registros encontrados, 6 estão válidos; a tabela lista apenas os 5 principais.
 

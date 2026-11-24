@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Desloratadine"
 predicted_indications: ["nasal cavity disease", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "rosacea conjunctivitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Desloratadine: nova indicação prevista, Doença da cavidade nasal (nasal cavity disease) (nível de evidência L5). Indicação original: ANTI-HISTAMINICOS SISTEMICOS"
 ---
 
@@ -83,6 +83,8 @@ Principais:
 
 <!-- review:end br-lic-20261111-desloratadine-1 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100290187 | DESALEX D12 | ORGANON FARMACÊUTICA LTDA. | Ativo |
@@ -116,7 +118,9 @@ Principais:
 | 105730620 | DESLORATADINA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
 | 105730694 | DESLORATADINA + SULFATO DE PSEUDOEFEDRINA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 107 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

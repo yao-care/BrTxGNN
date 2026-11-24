@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB01128
 monitor_inn: "Bicalutamide"
 predicted_indications: ["hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "leprosy", "multiple endocrine neoplasia", "pulmonary hypertension", "female breast carcinoma", "nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Bicalutamida: nova indicação prevista, Hipertricose (hypertrichosis (disease)) (nível de evidência L5). No Brasil, registros na ANVISA: 10 (ativos: 6)"
 ---
 
@@ -75,13 +75,22 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| 100431055 | Bicalutamida (Eurofarma) | Não informada | Não registrada |
-| 116180062 | Casodex | Não informada | Não registrada |
-| 116370189 | Bicalutamida (Blau) | Não informada | Não registrada |
-| 155370017 | Bicalutamida (Accord) | Não informada | Não registrada |
-| 155370055 | Bycal | Não informada | Não registrada |
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431055 | BICALUTAMIDA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 116180062 | CASODEX | ASTRAZENECA DO BRASIL LTDA | Ativo |
+| 116370189 | BICALUTAMIDA | BLAU FARMACÊUTICA S.A. | Ativo |
+| 155370017 | BICALUTAMIDA | ACCORD FARMACÊUTICA LTDA | Ativo |
+| 155370055 | BYCAL | ACCORD FARMACÊUTICA LTDA | Ativo |
+| 155370112 | BYCAL 150 | ACCORD FARMACÊUTICA LTDA | Ativo |
+| 100470416 | GEPEPROSTIN | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100680915 | GEPEPROSTIN | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 122140039 | LUTAMIDAL | ADIUM S.A. | Cancelado |
+| 149320010 | BICALUTAMIDA | KEMMI PHARMA LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 Há 10 registros no total, dos quais 6 estão válidos; os 5 acima são os principais registros válidos.
 

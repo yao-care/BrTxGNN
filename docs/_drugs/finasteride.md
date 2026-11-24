@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 318
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Finasteride: nova indicação prevista, Hipertricose universal congênita tipo Ambras (Ambras type hypertricho… (nível de evidência L5). Indicação original: Inibidor da alfa-redutase"
 monitor_inn: "FINASTERIDE"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]
@@ -79,7 +79,9 @@ Como referência indireta, a segunda indicação prevista (hipertricose em geral
 
 ## Informações de Comercialização no Brasil
 
-Dos registros, 20 estão válidos. Principais exemplos:
+Dos registros, 27 estão válidos. Principais exemplos:
+
+<!-- licenses:begin -->
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -114,7 +116,9 @@ Dos registros, 20 estão válidos. Principais exemplos:
 | 100290028 | PROSCAR | ORGANON FARMACÊUTICA LTDA. | Cancelado |
 | 100330083 | FINALOP | LIBBS FARMACÊUTICA LTDA | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 86 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Citotoxicidade
 

@@ -92,10 +92,14 @@ Esses estudos têm caráter indireto e não substituem evidência específica da
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 106390282 | INZELM | TAKEDA PHARMA LTDA. | Ativo |
 | 178171012 | VOPA | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Ativo |
+
+<!-- licenses:end -->
 
 ---
 

@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB11595
 monitor_inn: "Atezolizumab"
 predicted_indications: ["uterine ligament adenocarcinoma", "endocervical carcinoma", "adenoid cystic carcinoma of the cervix uteri", "uterine ligament serous adenocarcinoma", "signet ring cell variant cervical mucinous adenocarcinoma", "intestinal variant cervical mucinous adenocarcinoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Atezolizumabe: nova indicação prevista, Adenocarcinoma do ligamento uterino (uterine ligament adenocarcinoma) (nível de evidência L5). No Brasil, registros na ANVISA: 1 (ativos: 1)"
 ---
 
@@ -62,9 +62,13 @@ No entanto, a pontuação muito alta do modelo (0,9993) não é sustentada por n
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 101000665 | TECENTRIQ | Não informada | Não registrada nos dados locais |
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 101000665 | TECENTRIQ | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

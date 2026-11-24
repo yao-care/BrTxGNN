@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 278
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Doxycycline: nova indicação prevista, Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconj… (nível de evidência L5). Indicação original: Antibióticos sistêmicos simples (classe das t…"
 monitor_inn: "Doxycycline"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "exposure keratitis", "chronic gingivitis"]
@@ -85,36 +85,16 @@ Atualmente não há ensaios clínicos relacionados registrados para esta indica�
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 108840304 | Iquego - Doxiciclina | Não informada | Antibióticos sistêmicos simples |
-| Registro nº 103700108 | Clordox | Não informada | Classe das tetraciclinas |
-| Registro nº 121100437 | Vibramicina | Não informada | Classe das tetraciclinas |
-| Registro nº 100470330 | Doxiciclina | Não informada | Classe das tetraciclinas |
+<!-- licenses:begin -->
 
-<!-- review:begin br-row-20261112-doxycycline-1 -->
+| Registro | Produto | Situação |
+|------|------|------|
+| 100470330 | DOXICICLINA | Ativo |
+| 103700108 | CLORDOX | Ativo |
+| 108840304 | IQUEGO - DOXICICLINA | Ativo |
+| 121100437 | VIBRAMICINA | Ativo |
 
-> **Correção de verificação (2026-11-12)**: Texto original: “Registro nº 108840304 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 108840304 (IQUEGO - DOXICICLINA) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-row-20261112-doxycycline-1 -->
-
-<!-- review:begin br-row-20261112-doxycycline-2 -->
-
-> **Correção de verificação (2026-11-12)**: Texto original: “Registro nº 103700108 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 103700108 (CLORDOX) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-row-20261112-doxycycline-2 -->
-
-<!-- review:begin br-row-20261112-doxycycline-3 -->
-
-> **Correção de verificação (2026-11-12)**: Texto original: “Registro nº 121100437 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 121100437 (VIBRAMICINA) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-row-20261112-doxycycline-3 -->
-
-<!-- review:begin br-row-20261112-doxycycline-4 -->
-
-> **Correção de verificação (2026-11-12)**: Texto original: “Registro nº 100470330 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 100470330 (DOXICICLINA) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-row-20261112-doxycycline-4 -->
+<!-- licenses:end -->
 
 ---
 
@@ -178,10 +158,10 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 |------|------|------|------|
 | 2026-11-06 | Removido: “Os quatro registros constam como cancelados; não há registro válido nos dados compilados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “já que não há registro válido no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Tabela: registro 108840304 (IQUEGO - DOXICICLINA) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Tabela: registro 103700108 (CLORDOX) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Tabela: registro 121100437 (VIBRAMICINA) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Tabela: registro 100470330 (DOXICICLINA) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 108840304 (IQUEGO - DOXICICLINA) está ativo, não cancelado | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 103700108 (CLORDOX) está ativo, não cancelado | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 121100437 (VIBRAMICINA) está ativo, não cancelado | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 100470330 (DOXICICLINA) está ativo, não cancelado | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Doxycyclate Hyclate (doxycycline hyclate) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4dc319c1-b7ef-40e4-9e66-fb24cfdefea8) |
 
 <!-- review:end log -->

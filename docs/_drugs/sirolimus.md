@@ -79,12 +79,16 @@ Nenhuma das publicações encontradas testa o sirolimo diretamente em lipossarco
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 121100453 | RAPAMUNE | PFIZER BRASIL LTDA | Ativo |
 | 100640062 | SIROMUNE | DE MAYO INDS QUIMS FTCAS LTDA | Cancelado |
 | 102160254 | RAPAMUNE | LABORATÓRIOS PFIZER LTDA | Cancelado |
 | 121100117 | RAPAMUNE | PFIZER BRASIL LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

@@ -87,12 +87,16 @@ Nenhum dos estudos citados investiga diretamente, em humanos, a hipertensão pul
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 188300110 | INSPRA | VIATRIS FARMACEUTICA DO BRASIL LTDA | Ativo |
 | 188300112 | ZIMIF | VIATRIS FARMACEUTICA DO BRASIL LTDA | Ativo |
 | 102160199 | INSPRA | LABORATÓRIOS PFIZER LTDA | Cancelado |
 | 115350010 | INSPRA | UPJOHN BRASIL IMPORTADORA E DISTRIBUIDORA DE MEDIC | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

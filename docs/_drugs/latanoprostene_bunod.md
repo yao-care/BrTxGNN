@@ -96,9 +96,13 @@ Para outras indicações previstas, foram identificadas as publicações abaixo,
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 119610029 | VYZULTA | BL INDÚSTRIA OTICA LTDA | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

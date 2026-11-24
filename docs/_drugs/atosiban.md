@@ -83,12 +83,16 @@ A única indicação com alguma literatura é "doença vascular". Os estudos rec
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 128760010 | TRACTOCILE | LABORATÓRIOS FERRING LTDA | Ativo |
 | 128760022 | ACETATO DE ATOSIBANA | LABORATÓRIOS FERRING LTDA | Ativo |
 | 155370051 | ACETATO DE ATOSIBANA | ACCORD FARMACÊUTICA LTDA | Ativo |
 | 155370058 | ATTOSY | ACCORD FARMACÊUTICA LTDA | Ativo |
+
+<!-- licenses:end -->
 
 Os 4 registros estão **válidos** (4 de 4); o medicamento é comercializado no Brasil.
 

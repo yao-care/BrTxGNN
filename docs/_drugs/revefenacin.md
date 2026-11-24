@@ -71,9 +71,13 @@ Uma segunda previsão do modelo, "doença pulmonar obstrutiva", tem evidência m
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 188300100 | YUPELRI | VIATRIS FARMACEUTICA DO BRASIL LTDA | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

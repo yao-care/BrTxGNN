@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00381
 monitor_inn: "Amlodipine"
 predicted_indications: ["brain stem infarction", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "cerebral artery occlusion", "Braddock syndrome", "MRI defined brain infarct", "ABri amyloidosis", "intracerebral hemorrhage"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Amlodipine Besylate: nova indicação prevista, Infarto do tronco encefálico (brain stem infarction) (nível de evidência L5). Indicação original: ANTI-HIPERTENSIVOS SIMPLES"
 ---
 
@@ -66,13 +66,34 @@ Nenhum ensaio clínico ou publicação foi associado especificamente a esta doen
 
 O fármaco consta como comercializado, com registros válidos de produtos de princípio ativo único. A lista abaixo pode ser parcial, pois há pelo menos 20 registros.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| 151670029 | Besilato de Anlodipino | Não informada | Anti-hipertensivos simples |
-| 100890387 | Roxflan | Não informada | Anti-hipertensivos simples |
-| 118190274 | Anlusbed | Não informada | Anti-hipertensivos simples |
-| 188300080 | Norvasc | Não informada | Não informada |
-| 103920150 | Amlodil | Não informada | Anti-hipertensivos |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 100470275 | AMLOVASC | Ativo |
+| 100630261 | BESILATO DE ANLODIPINO | Ativo |
+| 100890273 | BESILATO DE ANLODIPINO | Ativo |
+| 100890387 | ROXFLAN | Ativo |
+| 102980341 | BESILATO DE ANLODIPINO | Ativo |
+| 103700372 | BESILATO DE ANLODIPINO | Ativo |
+| 103920150 | AMLODIL | Ativo |
+| 103920187 | BESILATO DE ANLODIPINO | Ativo |
+| 104300018 | NEMODINE | Ativo |
+| 104810103 | BESILATO DE ANLODIPINO | Ativo |
+| 105730584 | CORDAREX | Ativo |
+| 105730597 | BESILATO DE ANLODIPINO | Ativo |
+| 109740310 | BESILATO DE ANLODIPINO | Ativo |
+| 118190274 | ANLUSBED | Ativo |
+| 125680197 | BESILATO DE ANLODIPINO | Ativo |
+| 135690680 | ANLO | Ativo |
+| 143810161 | BESILATO DE ANLODIPINO | Ativo |
+| 151670029 | BESILATO DE ANLODIPINO | Ativo |
+| 154230207 | BESILATO DE ANLODIPINO | Ativo |
+| 188300080 | NORVASC | Ativo |
+
+Os dados contêm apenas parte dos registros; a lista pode estar incompleta.
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

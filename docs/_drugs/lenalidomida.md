@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00480
 monitor_inn: "Lenalidomide"
 predicted_indications: ["myeloid leukemia", "refractory cytopenia of childhood", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lenalidomida: nova indicação prevista, Leucemia mieloide (myeloid leukemia) (nível de evidência L1). No Brasil, registros na ANVISA: 11 (ativos: 9)"
 ---
 
@@ -97,13 +97,23 @@ A literatura compilada é composta principalmente por revisões sobre síndromes
 
 Há registros válidos de lenalidomida isolada no Brasil, e o medicamento é comercializado. O texto de indicação aprovada não está registrado nos dados locais. Principais registros (de 11 no total; 9 válidos e 2 cancelados):
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 101800410 | Revlimid | Não informada | Não registrada |
-| Registro 100431442 | Nuvyor | Não informada | Não registrada |
-| Registro 151430080 | Lenangio | Não informada | Não registrada |
-| Registro 155370142 | Lyone | Não informada | Não registrada |
-| Registro 123520299 | Lassya | Não informada | Não registrada |
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431441 | LENALIDOMIDA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431442 | NUVYOR | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 101800410 | REVLIMID | BRISTOL-MYERS SQUIBB FARMACÊUTICA LTDA | Ativo |
+| 123520299 | LASSYA | RANBAXY FARMACÊUTICA LTDA | Ativo |
+| 146820120 | LENALIDOMIDA | SUN FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 151430080 | LENANGIO | DR. REDDYS FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 151430081 | LENALIDOMIDA | DR. REDDYS FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 155370139 | LENALIDOMIDA | ACCORD FARMACÊUTICA LTDA | Ativo |
+| 155370142 | LYONE | ACCORD FARMACÊUTICA LTDA | Ativo |
+| 146820123 | LASSYA | SUN FARMACÊUTICA DO BRASIL LTDA | Cancelado |
+| 196140002 | REVLIMID | CELGENE BRASIL PRODUTOS FARMACÊUTICOS LTDA. | Cancelado |
+
+<!-- licenses:end -->
 
 ## Citotoxicidade
 

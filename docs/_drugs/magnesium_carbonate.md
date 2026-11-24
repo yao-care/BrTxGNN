@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 431
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "MAGNESIUM CARBONATE"
 predicted_indications: ["gastroduodenitis", "gastroparesis (disease)", "stomach disease", "duodenal obstruction"]
 description: "Magnesium Carbonate: nova indicação prevista, Gastroduodenitis (nível de evidência L5). Indicação original: ANALGESICOS NAO NARCOTICOS"
@@ -92,10 +92,14 @@ Outras previsões do modelo têm evidências igualmente fracas:
 
 Os 2 registros estão válidos.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 135690647 | SOMALGIN CARDIO | Não informada | Analgésicos não narcóticos |
-| Registro nº 137640180 | MAGNESIA BISURADA | Não informada | Antiácido |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 135690647 | SOMALGIN CARDIO | Ativo |
+| 137640180 | MAGNESIA BISURADA | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

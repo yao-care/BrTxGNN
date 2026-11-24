@@ -86,9 +86,13 @@ As publicações abaixo referem-se à indicação **Alopecia** (rank 4), a únic
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 102980041 | TENSURIL | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 162
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bupivacaine: nova indicação prevista, Acrodermatite crônica atrófica (Acrodermatitis chronica atrophicans) (nível de evidência L5). Indicação original: Anestésicos locais"
 monitor_inn: "BUPIVACAINE"
 predicted_indications: ["acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis"]
@@ -80,6 +80,8 @@ A indicação aprovada em todos é "Anestésicos locais". Principais registros:
 
 <!-- review:end br-lic-20261106-bupivacaine-1 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 102980053 | NEOCAINA | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
@@ -106,6 +108,8 @@ A indicação aprovada em todos é "Anestésicos locais". Principais registros:
 | 142770032 | BUPICAN | CLARIS PRODUTOS FARMACÊUTICOS DO BRASIL LTDA | Cancelado |
 | 172870296 | DORCAÍNA | HYPERA S.A. | Cancelado |
 
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 - **Contraindicações no grafo de conhecimento (não extraídas de bula)**: o grafo de conhecimento do TxGNN associa a bupivacaína a diversas condições de risco, entre elas: hipertensão, insuficiência hepática, doença renal, epilepsia, DPOC, insuficiência respiratória, doenças cardíacas (infarto do miocárdio, doença arterial coronariana, fibrilação atrial, doença de condução cardíaca, parada cardíaca súbita), diabetes e cetoacidose diabética, hipotireoidismo, hemoglobinopatias, glaucoma de ângulo fechado, hiperplasia prostática benigna e doença inflamatória intestinal. Esses itens devem ser confirmados na bula.
@@ -117,13 +121,13 @@ A indicação aprovada em todos é "Anestésicos locais". Principais registros:
 **Decisão: Hold**
 
 **Justificativa:**
-- Não há ensaios clínicos nem literatura para nenhuma das indicações previstas (nível L5). A pontuação do TxGNN é apenas uma previsão do modelo de deep learning, sem mecanismo plausível, e há preocupações de segurança em populações específicas. O medicamento está comercializado no Brasil, com 12 registros válidos de 12.
+- Não há ensaios clínicos nem literatura para nenhuma das indicações previstas (nível L5). A pontuação do TxGNN é apenas uma previsão do modelo de deep learning, sem mecanismo plausível, e há preocupações de segurança em populações específicas. O medicamento está comercializado no Brasil, com 12 registros válidos de 23.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), pois a triagem de segurança não pode avançar sem ela
 - Obter dados de mecanismo de ação (por exemplo, via DrugBank) para avaliar qualquer vínculo mecanístico
 - Realizar estudos pré-clínicos ou revisão da literatura que sustentem alguma das indicações previstas
-- Avaliar a compatibilidade de vias de administração e a situação regulatória, dado que o medicamento está comercializado, com 12 registros válidos de 12
+- Avaliar a compatibilidade de vias de administração e a situação regulatória, dado que o medicamento está comercializado, com 12 registros válidos de 23
 
 <!-- review:begin log -->
 

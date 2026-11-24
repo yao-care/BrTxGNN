@@ -64,10 +64,14 @@ Além disso, o câncer de mama HER2-positivo já conta com ADCs estabelecidos qu
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 101000674 | ROPOLIVY | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Ativo |
 | 101000669 | ROPOLIVY | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Cancelado |
+
+<!-- licenses:end -->
 
 ## Citotoxicidade
 

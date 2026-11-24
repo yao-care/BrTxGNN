@@ -103,6 +103,8 @@ Literatura das outras previsões (selecionada, priorizando RCT, depois revisões
 
 Os 5 registros estão válidos; o medicamento é comercializado.
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 101430075 | PLIAGLIS | MEGALABS FARMACEUTICA S.A. | Ativo |
@@ -121,6 +123,8 @@ Os 5 registros estão válidos; o medicamento é comercializado.
 | 161680001 | PLIAGLIS | CML PRODUTOS MÉDICOS LTDA | Cancelado |
 | 183260296 | ISETIONATO DE HEXAMIDINA + CLORIDRATO DE TETRACAÍNA | SANOFI MEDLEY FARMACÊUTICA LTDA. | Cancelado |
 | 183260310 | HEXOMEDINE | SANOFI MEDLEY FARMACÊUTICA LTDA. | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

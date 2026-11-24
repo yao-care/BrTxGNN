@@ -83,12 +83,16 @@ Ressalva importante: a classe dos retinoides (sobretudo a isotretinoína) é con
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 110130288 | ACITRETINA | GLENMARK FARMACÊUTICA LTDA | Ativo |
 | 155730046 | NEOTIGASON | TEVA FARMACÊUTICA LTDA. | Ativo |
 | 101000543 | NEOTIGASON | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Cancelado |
 | 110130271 | NEOTIGASON | GLENMARK FARMACÊUTICA LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

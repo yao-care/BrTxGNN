@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 422
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lithium Carbonate: nova indicação prevista, Pseudoacondroplasia (pseudoachondroplasia) (nível de evidência L5). Indicação original: Antidepressivos"
 monitor_inn: "Lithium carbonate"
 predicted_indications: ["pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia", "myosclerosis", "brachyolmia-amelogenesis imperfecta syndrome", "brachydactyly-syndactyly syndrome", "Behr syndrome", "WHIM syndrome", "combined immunodeficiency due to moesin deficiency"]
@@ -90,13 +90,22 @@ Os 10 registros encontram-se válidos (10 de 10 licenças válidas). A forma far
 
 <!-- review:end br-lic-20261106-lithium_carbonate-1 -->
 
-| Número de Registro | Nome Comercial | Indicação Aprovada |
-|---------|------|-----------|
-| Registro nº 113430167 | Carbonato de Lítio | Antidepressivos |
-| Registro nº 100430518 | Carbolitium | Antidepressivos |
-| Registro nº 102980545 | Carbonato de Lítio | Antidepressivos |
-| Registro nº 109740347 | Carbonato de Lítio | Antidepressivos |
-| Registro nº 102980556 | Literata | Antidepressivos |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 100430518 | CARBOLITIUM | Ativo |
+| 100431166 | CARBONATO DE LÍTIO | Ativo |
+| 100630260 | CARBONATO DE LÍTIO | Ativo |
+| 102980545 | CARBONATO DE LÍTIO | Ativo |
+| 102980556 | LITERATA | Ativo |
+| 103720250 | CARLIT | Ativo |
+| 109740309 | BILYT | Ativo |
+| 109740347 | CARBONATO DE LÍTIO | Ativo |
+| 113430167 | CARBONATO DE LÍTIO | Ativo |
+| 113430215 | BIPOLIT | Ativo |
+
+<!-- licenses:end -->
 
 ---
 

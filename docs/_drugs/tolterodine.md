@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 646
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Tolterodine: known uses and market status in Brazil; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,9 +72,18 @@ Todos os candidatos que o modelo TxGNN gerou para Tolterodine correspondem a uso
 
 ## Informações de Comercialização no Brasil
 
-| Registro | Produto | Forma farmacêutica | Situação |
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
-| 188300109 | TARTARATO DE TOLTERODINA |  | Ativo |
+| 188300109 | DETRUSITOL | VIATRIS FARMACEUTICA DO BRASIL LTDA | Ativo |
+| 102160172 | DETRUSITOL | LABORATÓRIOS PFIZER LTDA | Cancelado |
+| 102160278 | DETRUSITOL | LABORATÓRIOS PFIZER LTDA | Cancelado |
+| 115350008 | DETRUSITOL | UPJOHN BRASIL IMPORTADORA E DISTRIBUIDORA DE MEDIC | Cancelado |
+| 121100351 | DETRUSITOL | PFIZER BRASIL LTDA | Cancelado |
+| 123890058 | DETRUSITOL | PHARMACIA BRASIL LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

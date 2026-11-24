@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 586
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "SIMVASTATIN"
 predicted_indications: ["brain stem infarction", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Simvastatin: nova indicação prevista, Brain stem infarction (nível de evidência L5). Indicação original: ANTILIPEMICOS"
@@ -103,6 +103,8 @@ Os cinco principais:
 
 <!-- review:end br-lic-20261106-simvastatin-1 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100290135 | VYTORIN | ORGANON FARMACÊUTICA LTDA. | Ativo |
@@ -136,7 +138,9 @@ Os cinco principais:
 | 123520048 | SINVASTATINA | RANBAXY FARMACÊUTICA LTDA | Ativo |
 | 123520302 | EZETIMIBA + SINVASTATINA | RANBAXY FARMACÊUTICA LTDA | Ativo |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 110 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 Outros nomes comerciais entre os registros cancelados: Clinfar, Simlip, Sinvastacor, Sinvax e Sinvastamed.
 

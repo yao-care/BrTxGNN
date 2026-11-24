@@ -65,11 +65,15 @@ Uma segunda previsão do modelo, a síndrome de Goodman (acrocefalopolissindacti
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 128760024 | DURATOCIN | LABORATÓRIOS FERRING LTDA | Ativo |
 | 128760025 | TOCYNAE | LABORATÓRIOS FERRING LTDA | Ativo |
 | 128760012 | DURATOCIN | LABORATÓRIOS FERRING LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

@@ -83,10 +83,14 @@ Nenhuma publicação estuda diretamente o modafinil na insônia. Os estudos abai
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100330145 | STAVIGILE | LIBBS FARMACÊUTICA LTDA | Ativo |
 | 104750051 | VIGIL | LUNDBECK BRASIL LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 Há 1 registro válido e 1 cancelado, dos 2 registros totais.
 

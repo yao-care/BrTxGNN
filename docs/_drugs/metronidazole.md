@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 455
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Metronidazole: nova indicação prevista, Pneumocistose (Pneumocystosis) (nível de evidência L5). Indicação original: Amebicidas, giardicidas e tricomonicidas"
 monitor_inn: "Metronidazole"
 predicted_indications: ["pneumocystosis", "punctate epithelial keratoconjunctivitis", "ulcerative proctosigmoiditis", "nocardiosis", "postmenopausal atrophic vaginitis", "Cryptococcal meningitis", "papillary conjunctivitis", "myiasis", "cap polyposis", "ulceration of vulva"]
@@ -102,6 +102,8 @@ O medicamento está comercializado. Listados os cinco principais:
 
 <!-- review:end br-lic-20261106-metronidazole-2 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100410129 | ENDONIDAZOL | FRESENIUS KABI BRASIL LTDA | Ativo |
@@ -135,7 +137,9 @@ O medicamento está comercializado. Listados os cinco principais:
 | 135640013 | METRONIDAZOL + NITRATO DE MICONAZOL | EXELTIS LABORATORIO FARMACEUTICO LTDA | Ativo |
 | 143810134 | METRONIDAZOL | CIMED INDUSTRIA S.A | Ativo |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 141 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ---
 

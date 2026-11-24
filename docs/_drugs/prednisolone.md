@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 545
 evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Prednisolone: nova indicação prevista, Alopecia Areata (alopecia areata) (nível de evidência L2). Indicação original: Glicocorticoides sistêmicos"
 monitor_inn: "Prednisolone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "prolapse of lacrimal gland"]
@@ -91,6 +91,8 @@ Foram selecionadas as 10 publicações mais relevantes (de 20 recuperadas).
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100431269 | PREDNISOLONA | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -124,7 +126,9 @@ Foram selecionadas as 10 publicações mais relevantes (de 20 recuperadas).
 | 125680129 | FOSFATO SÓDICO DE PREDNISOLONA | PRATI DONADUZZI & CIA LTDA | Ativo |
 | 125680268 | PREDNISOLONA | PRATI DONADUZZI & CIA LTDA | Ativo |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 92 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

@@ -63,9 +63,13 @@ A pontuação elevada (0,9910) vem do modelo TxGNN (aprendizado profundo) e pode
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 177170010 | XOSPATA® | ASTELLAS FARMA BRASIL IMPORTAÇÃO E DISTRIBUIÇÃO DE | Ativo |
+
+<!-- licenses:end -->
 
 ## Citotoxicidade
 

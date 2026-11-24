@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 346
 evidence_level: L4
 indication_count: 4
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Glutamic Acid: nova indicação prevista, Osteoporose pós-menopausa (postmenopausal osteoporosis) (nível de evidência L4). Indicação original: Polivitamínicos com minerais"
 monitor_inn: "GLUTAMIC ACID"
 predicted_indications: ["postmenopausal osteoporosis", "pregnancy associated osteoporosis", "primary hereditary glaucoma", "gastroparesis (disease)"]
@@ -100,13 +100,22 @@ Dos 10 registros, 10 estão válidos; o medicamento está comercializado no Bras
 
 <!-- review:end br-lic-20261106-glutamic_acid-1 -->
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 104440053 | Organoneuro Cerebral | — | Polivitamínicos com minerais |
-| Registro 100850145 | Amixal | — | Nutrientes parenterais |
-| Registro 100850109 | Nutriflex Plus | — | Nutrientes parenterais |
-| Registro 100850246 | Nutriflex Lipid | — | Nutrientes parenterais |
-| Registro 100850124 | Nutriflex Lipid | — | Nutrientes parenterais |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 100419938 | KABIVEN | Ativo |
+| 100850109 | NUTRIFLEX PLUS | Ativo |
+| 100850124 | NUTRIFLEX LIPID | Ativo |
+| 100850145 | AMIXAL | Ativo |
+| 100850246 | NUTRIFLEX LIPID | Ativo |
+| 100850247 | NUTRIFLEX | Ativo |
+| 104440053 | ORGANONEURO CEREBRAL | Ativo |
+| 106830181 | OLIMEL | Ativo |
+| 106830185 | NUMETA NEO | Ativo |
+| 106830186 | NUMETA PED | Ativo |
+
+<!-- licenses:end -->
 
 ---
 

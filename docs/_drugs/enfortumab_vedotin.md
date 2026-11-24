@@ -63,10 +63,14 @@ Outras indicações previstas pelo modelo (também todas de nível L5 e com reco
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 121100501 | PADCEV | PFIZER BRASIL LTDA | Ativo |
 | 122140119 | PADCEV | ADIUM S.A. | Cancelado |
+
+<!-- licenses:end -->
 
 ## Citotoxicidade
 

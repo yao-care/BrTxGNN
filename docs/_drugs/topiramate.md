@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 647
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Topiramate: nova indicação prevista, Neoplasma do nervo trigêmeo (trigeminal nerve neoplasm) (nível de evidência L5). Indicação original: Anticonvulsivantes"
 monitor_inn: "TOPIRAMATE"
 predicted_indications: ["trigeminal nerve neoplasm"]
@@ -77,6 +77,8 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100330158 | ÉGIDE | LIBBS FARMACÊUTICA LTDA | Ativo |
@@ -86,7 +88,6 @@ Atualmente não há literatura relacionada.
 | 102350753 | TOPIRAMATO | EMS S/A | Ativo |
 | 102351423 | TODUZE | EMS S/A | Ativo |
 | 102980445 | TÊMPORA | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
-| 103700564 | TOPIRAMATO | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
 | 103920193 | TOPIRAMATO | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
 | 105730461 | VIDMAX | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
 | 105730686 | TOPIRAMATO | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
@@ -96,7 +97,6 @@ Atualmente não há literatura relacionada.
 | 118190359 | TOPIRAMATO | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
 | 123520298 | TOPIRAMATO | RANBAXY FARMACÊUTICA LTDA | Ativo |
 | 155370023 | TOPIRAMATO | ACCORD FARMACÊUTICA LTDA | Ativo |
-| 155370024 | ARASID | ACCORD FARMACÊUTICA LTDA | Cancelado |
 | 155840597 | TOPIRAMATO | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
 | 156510031 | TOPIRAMATO | ZYDUS NIKKHO FARMACÊUTICA LTDA | Ativo |
 | 167730642 | TOPIRAMATO | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
@@ -104,13 +104,17 @@ Atualmente não há literatura relacionada.
 | 100470413 | TOPTIL | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 | 101810620 | TOPIRAMATO | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 | 101810621 | TOPIT | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 103700564 | TOPIRAMATO | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
 | 103700565 | TEMAX | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
 | 103720275 | ÓPERA | SUPERA FARMA LABORATÓRIOS S.A | Cancelado |
 | 104971486 | TOPIRAMATO | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Cancelado |
 | 105730387 | TOPIRAMATO | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Cancelado |
 | 105830433 | TOPIRAMATO (PORT.344/98 - LISTA C1) | GERMED FARMACEUTICA LTDA | Cancelado |
+| 112130403 | TOPIRAMATO | BIOSINTÉTICA FARMACÊUTICA LTDA | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 38 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 Há outros 15 registros cancelados (por exemplo, Toduze, Ritop, Têmpora e Vidmax), todos com a mesma indicação.
 

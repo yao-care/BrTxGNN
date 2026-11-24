@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "RAMIPRIL"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome", "brain stem infarction", "Prinzmetal angina", "intracerebral hemorrhage", "ABri amyloidosis", "cerebral artery occlusion"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ramipril: nova indicação prevista, Hipertensão pulmonar de mecanismo multifatorial incerto (nível de evidência L5). Indicação original: Hipertensão arterial e doenças cerebrovasculares"
 ---
 
@@ -83,6 +83,8 @@ Atualmente não há literatura relacionada.
 
 A lista abaixo mostra apenas os registros válidos. Há pelo menos 20 registros no total e a lista compilada pode ser parcial. Os registros não trazem texto de indicação aprovada nem forma farmacêutica. Alguns nomes comerciais podem corresponder a associações, o que deve ser confirmado na bula.
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100330086 | NAPRIX | LIBBS FARMACÊUTICA LTDA | Ativo |
@@ -101,7 +103,7 @@ A lista abaixo mostra apenas os registros válidos. Há pelo menos 20 registros 
 | 105250048 | RAMIPRIL + BESILATO DE ANLODIPINO | TORRENT DO BRASIL LTDA | Cancelado |
 | 105250052 | ECATOR ANLO | TORRENT DO BRASIL LTDA | Cancelado |
 | 105830439 | RAMIPRIL + HIDROCLOROTIAZIDA | GERMED FARMACEUTICA LTDA | Cancelado |
-| 109740150 | RAMIZ  A | BIOLAB SANUS FARMACÊUTICA LTDA | Cancelado |
+| 109740150 | RAMIZ A | BIOLAB SANUS FARMACÊUTICA LTDA | Cancelado |
 | 109740156 | PRESSNOR | BIOLAB SANUS FARMACÊUTICA LTDA | Cancelado |
 | 109740161 | PRESSNOR H | BIOLAB SANUS FARMACÊUTICA LTDA | Cancelado |
 | 112130329 | RAMIPRIL | BIOSINTÉTICA FARMACÊUTICA LTDA | Cancelado |
@@ -116,7 +118,9 @@ A lista abaixo mostra apenas os registros válidos. Há pelo menos 20 registros 
 | 155840135 | ATENSEC | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Cancelado |
 | 167730340 | RAMIPRIL + HIDROCLOROTIAZIDA | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 32 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ---
 

@@ -64,11 +64,15 @@ Portanto, a previsão deve ser tratada como hipótese inicial, sem sustentação
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 135690020 | SIGMACALCIDOL | EMS SIGMA PHARMA LTDA | Ativo |
 | 106460156 | INNOSFEN | LABORATORIO QUIMICO FARMACEUTICO BERGAMO LTDA | Cancelado |
 | 112130175 | ALFAD | BIOSINTÉTICA FARMACÊUTICA LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 Dos 3 registros, 1 está válido e 2 estão cancelados. Todos são de produto de um único princípio ativo.
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "EZETIMIBE"
 predicted_indications: ["cholesterol-ester transfer protein deficiency"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ezetimibe: nova indicação prevista, Deficiência da proteína de transferência de ésteres de colesterol (nível de evidência L5). Indicação original: Antilipêmicos"
 ---
 
@@ -76,6 +76,8 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Lista parcial (pelo menos 20 registros; abaixo, os 5 principais):
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100290076 | EZETROL | ORGANON FARMACÊUTICA LTDA. | Ativo |
@@ -109,7 +111,9 @@ Lista parcial (pelo menos 20 registros; abaixo, os 5 principais):
 | 156510106 | EZETIMIBA + SINVASTATINA | ZYDUS NIKKHO FARMACÊUTICA LTDA | Ativo |
 | 167730407 | EZETIMIBA | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 64 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

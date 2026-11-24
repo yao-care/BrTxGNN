@@ -89,11 +89,15 @@ Foram recuperadas 20 publicações; abaixo estão as mais relevantes para hipert
 
 O medicamento é comercializado no Brasil: os 3 registros existentes estão válidos (3 de 3).
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 128760006 | GLYPRESSIN | LABORATÓRIOS FERRING LTDA | Ativo |
 | 193570005 | ACETATO DE TERLIPRESSINA | VOLPHARMA DISTRIBUIDORA DE PRODUTOS HOSPITALARES E | Ativo |
 | 193570006 | TERGLY | VOLPHARMA DISTRIBUIDORA DE PRODUTOS HOSPITALARES E | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

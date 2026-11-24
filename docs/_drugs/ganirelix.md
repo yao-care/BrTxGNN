@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 336
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Ganirelix: nova indicação prevista, Hipertricose (hypertrichosis) (nível de evidência L5). Indicação original: Outros produtos não enquadrados em classe terapêutica específica (cla…"
 monitor_inn: "ganirelix"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial male-limited precocious puberty", "persistent fetal circulation syndrome", "aromatase excess syndrome", "centra precocious puberty 1", "familial isolated trichomegaly"]
@@ -67,12 +67,16 @@ Outras previsões do modelo seguem o mesmo padrão. Entre as dez principais, a m
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100290212 | ORGALUTRAN | ORGANON FARMACÊUTICA LTDA. | Ativo |
 | 146820122 | ACETATO DE GANIRRELIX | SUN FARMACÊUTICA DO BRASIL LTDA | Ativo |
 | 146820126 | FERTESSA | SUN FARMACÊUTICA DO BRASIL LTDA | Ativo |
 | 101710097 | ORGALUTRAN | MERCK SHARP & DOHME FARMACEUTICA LTDA. | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 
@@ -103,7 +107,7 @@ A previsão para hipertricose é apoiada apenas pelo modelo (L5), sem ensaios cl
 - Obter e analisar a bula na ANVISA para advertências e contraindicações, hoje ausentes e que bloqueiam a triagem de segurança
 - Complementar os dados detalhados de mecanismo de ação (MOA) no DrugBank
 - Realizar busca sistemática na literatura e em registros de ensaios para hipertricose e para as indicações endócrinas reprodutivas (especialmente puberdade precoce central)
-- Avaliar a situação regulatória e a disponibilidade de formas farmacêuticas, considerando que o medicamento é comercializado, com 3 registros válidos de 3
+- Avaliar a situação regulatória e a disponibilidade de formas farmacêuticas, considerando que o medicamento é comercializado, com 3 registros válidos de 4
 - Considerar a priorização de indicações com maior plausibilidade biológica em vez da hipertricose
 
 <!-- review:begin log -->

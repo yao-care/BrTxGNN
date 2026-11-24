@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 189
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Carbamazepine: nova indicação prevista, Neoplasia do nervo trigêmeo (trigeminal nerve neoplasm) (nível de evidência L4). Indicação original: Anticonvulsivantes"
 monitor_inn: "CARBAMAZEPINE"
 predicted_indications: ["trigeminal nerve neoplasm", "beta-ketothiolase deficiency", "Rett syndrome, congenital variant"]
@@ -103,6 +103,8 @@ Seguem os 5 primeiros da lista.
 
 <!-- review:end br-lic-20261106-carbamazepine-1 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100630280 | CARBAMAZEPINA | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
@@ -136,7 +138,9 @@ Seguem os 5 primeiros da lista.
 | 101910071 | VATE | THERASKIN FARMACEUTICA LTDA. | Cancelado |
 | 102350980 | CARBAMAZEPINA (PORT 344/98 - LISTA C1) | EMS S/A | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 67 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ---
 

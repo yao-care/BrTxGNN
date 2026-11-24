@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Thiamine"
 predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "primary hereditary glaucoma", "open-angle glaucoma"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Thiamine: nova indicação prevista, Resistência ao hormônio tireoidiano por mutação no receptor beta do hormônio tireoidiano (nível de evidência L5). Indicação original: Vitaminas e suplementos minerais"
 ---
 
@@ -96,6 +96,8 @@ Para a indicação principal (resistência ao hormônio tireoidiano) não há li
 
 A lista abaixo mostra 5 dos pelo menos 20 registros; a lista completa pode estar incompleta.
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100380038 | PETIVIT BC | BRASTERAPICA PHARMACEUTICA LTDA. | Ativo |
@@ -117,7 +119,7 @@ A lista abaixo mostra 5 dos pelo menos 20 registros; a lista completa pode estar
 | 103720302 | RENOVI B | SUPERA FARMA LABORATÓRIOS S.A | Ativo |
 | 103720306 | RENOVI B PLUS | SUPERA FARMA LABORATÓRIOS S.A | Ativo |
 | 103870029 | HYPLEX B | HYPOFARMA - INSTITUTO DE HYPODERMIA E FARMÁCIA LTD | Ativo |
-| 103920089 | BERITIN   BC | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 103920089 | BERITIN BC | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
 | 103920229 | BONPETI | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
 | 104400220 | BENERVA | CELLERA FARMACEUTICA S.A. | Ativo |
 | 104400233 | NAÉVIA | CELLERA FARMACEUTICA S.A. | Ativo |
@@ -129,7 +131,9 @@ A lista abaixo mostra 5 dos pelo menos 20 registros; a lista completa pode estar
 | 105730367 | COMBIRON FÓLICO | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
 | 106890207 | NEOPLEXUS | KLEY HERTZ FARMACEUTICA S.A | Ativo |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 436 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ---
 

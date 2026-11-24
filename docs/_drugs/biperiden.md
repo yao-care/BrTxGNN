@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Biperiden"
 predicted_indications: ["Rasmussen subacute encephalitis", "myelitis", "PLA2G6-associated neurodegeneration", "transaldolase deficiency", "fructose-1,6-bisphosphatase deficiency", "progressive supranuclear palsy-corticobasal syndrome", "paralysis agitans, juvenile, of Hunt", "Lewy body dementia", "attention deficit-hyperactivity disorder", "X-linked intellectual disability-ataxia-apraxia syndrome"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Biperiden: nova indicação prevista, Encefalite subaguda de Rasmussen (Rasmussen subacute encephalitis) (nível de evidência L5). No Brasil, registros na ANVISA: 10 (ativos: 5)"
 ---
 
@@ -63,7 +63,7 @@ A pontuação do modelo é muito alta (0,9994), mas não é acompanhada por nenh
 
 ## Informações de Comercialização no Brasil
 
-O medicamento consta como comercializado no Brasil, com 5 registros válidos e 8 cancelados, totalizando 13. Os dados compilados para este relatório não trazem o detalhamento dos registros (nome comercial, forma farmacêutica), por isso não é apresentada tabela.
+O medicamento consta como comercializado no Brasil, com 5 registros válidos e 5 cancelados, totalizando 10. Os dados compilados para este relatório não trazem o detalhamento dos registros (nome comercial, forma farmacêutica), por isso não é apresentada tabela.
 
 ## Considerações de Segurança
 

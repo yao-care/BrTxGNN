@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB08889
 monitor_inn: "Carfilzomib"
 predicted_indications: ["CMM7", "pediatric leptomeningeal melanoma", "epithelioid cell uveal melanoma", "vulvar melanoma (disease)", "melanoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Carfilzomibe: nova indicação prevista, CMM7 (nível de evidência L5). No Brasil, registros na ANVISA: 7 (ativos: 7)"
 ---
 
@@ -73,13 +73,19 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| 102440010 | KYPROLIS | Não informada | Não informada |
-| 151430106 | ZOFYSERVE | Não informada | Não informada |
-| 155370131 | CARFILZOMIBE | Não informada | Não informada |
-| 155370134 | KARFYLOR | Não informada | Não informada |
-| 155840725 | CARFILZOMIBE | Não informada | Não informada |
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 102440010 | KYPROLIS | AMGEN BIOTECNOLOGIA DO BRASIL LTDA. | Ativo |
+| 151430106 | ZOFYSERVE | DR. REDDYS FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 155370131 | CARFILZOMIBE | ACCORD FARMACÊUTICA LTDA | Ativo |
+| 155370134 | KARFYLOR | ACCORD FARMACÊUTICA LTDA | Ativo |
+| 155840725 | CARFILZOMIBE | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 182610021 | CARFILZOMIBE | NATCOFARMA DO BRASIL LTDA | Ativo |
+| 182610023 | ZYXOMIB | NATCOFARMA DO BRASIL LTDA | Ativo |
+
+<!-- licenses:end -->
 
 Há mais registros válidos além dos cinco listados (7 no total, todos válidos e de produto isolado).
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Diphenhydramine"
 predicted_indications: ["rosacea conjunctivitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Diphenhydramine: nova indicação prevista, conjuntivite rosácea (rosacea conjunctivitis) (nível de evidência L5). Indicação original: ANTI-HISTAMINICOS SISTEMICOS"
 ---
 
@@ -72,14 +72,18 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| 102980170 | Difenidrin | Não informada | Anti-histamínicos sistêmicos |
-| 101180653 | Lenix | Não informada | Antieméticos e antinauseantes |
-| 102350421 | Endcoff | Não informada | Antitussígenos |
-| 157211204 | Benalet | Não informada | Antitussígenos – associações medicamentosas |
-| 155840134 | Calamyn | Não informada | Antialérgicos tópicos |
-| 115600099 | Benatux | Não informada | Produtos para orofaringe |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 101180653 | LENIX | Ativo |
+| 102350421 | ENDCOFF | Ativo |
+| 102980170 | DIFENIDRIN | Ativo |
+| 115600099 | BENATUX | Ativo |
+| 155840134 | CALAMYN | Ativo |
+| 157211204 | BENALET | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

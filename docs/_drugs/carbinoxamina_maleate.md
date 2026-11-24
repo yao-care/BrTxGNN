@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB00748
 monitor_inn: "Carbinoxamine"
 predicted_indications: ["nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Carbinoxamina Maleate: nova indicação prevista, Doença da cavidade nasal (nasal cavity disease) (nível de evidência L5). Indicação original: PRODUTOS PARA TERAPIA SINTOMATICA DA GRIPE"
 ---
 
@@ -65,13 +65,22 @@ Do ponto de vista biológico, reduzir a rinorreia, os espirros e a congestão na
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| 178170925 | Coristina D Solução | Não informada | Produtos para terapia sintomática da gripe |
-| 173900007 | Naldecon Noite | Não informada | Analgésicos não narcóticos |
-| 178170855 | Fluviral Noite | Não informada | Produtos para terapia sintomática da gripe |
-| 104971453 | Biogripe | Não informada | Produto para terapia sintomática da gripe |
-| 104971554 | Perfenol Multi | Não informada | Produto para terapia sintomática da gripe |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 104971164 | NASALIV | Ativo |
+| 104971453 | BIOGRIPE | Ativo |
+| 104971554 | PERFENOL MULTI | Ativo |
+| 155840214 | NEOLEFRIN | Ativo |
+| 173900007 | NALDECON NOITE | Ativo |
+| 173900008 | NALDECON PACK | Ativo |
+| 178170768 | BENEGRIP MULTI | Ativo |
+| 178170855 | FLUVIRAL NOITE | Ativo |
+| 178170868 | BENEGRIP MULTI NOITE | Ativo |
+| 178170925 | CORISTINA D SOLUÇÃO | Ativo |
+
+<!-- licenses:end -->
 
 A lista mostra apenas os 5 principais registros.
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Tenoxicam"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "headache disorder", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "trigeminal autonomic cephalalgia", "alopecia"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Tenoxicam: nova indicação prevista, Brachydactyly-syndactyly syndrome (nível de evidência L5). No Brasil, registros na ANVISA: 37 (ativos: 14)"
 ---
 
@@ -80,6 +80,8 @@ Esse mecanismo é plausível para cefaleias: as prostaglandinas participam da se
 
 Foram listados 5 dos pelo menos 20 registros localizados (a lista pode estar incompleta). Nenhum traz texto de indicação aprovada nem forma farmacêutica nos dados compilados.
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100430757 | TENOXICAM | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -113,7 +115,9 @@ Foram listados 5 dos pelo menos 20 registros localizados (a lista pode estar inc
 | 123520034 | TENOXICAM | RANBAXY FARMACÊUTICA LTDA | Cancelado |
 | 123520092 | TENOXICAM | RANBAXY FARMACÊUTICA LTDA | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 37 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

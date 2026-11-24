@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Ceftriaxone"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "chronic otitis media"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ceftriaxone: nova indicação prevista, hiperamilasemia (hyperamylasemia) (nível de evidência L5). No Brasil, registros na ANVISA: 54 (ativos: 15)"
 ---
 
@@ -79,6 +79,8 @@ Nenhuma publicação estuda diretamente a ceftriaxona como tratamento da hiperam
 
 Há registros válidos de ceftriaxona de componente único. Principais registros listados:
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100430706 | CEFTRIAXONA DISSÓDICA HEMIEPTAIDRATADA | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -111,6 +113,10 @@ Há registros válidos de ceftriaxona de componente único. Principais registros
 | 104650135 | NEOCEFTRIONA | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
 | 104650398 | CEFTRIAXONA SODICA | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
 | 104970178 | TRIOXINA | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 54 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 Ao todo, há 54 registros, dos quais 15 estão válidos e 39 cancelados. A tabela mostra apenas 5 deles.
 

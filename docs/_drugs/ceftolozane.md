@@ -75,10 +75,14 @@ Para a indicação principal (uretrite por Ureaplasma), atualmente não há lite
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 101710231 | ZERBAXA | MERCK SHARP & DOHME FARMACEUTICA LTDA. | Ativo |
 | 100290200 | ZERBAXA | ORGANON FARMACÊUTICA LTDA. | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

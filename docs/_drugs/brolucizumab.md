@@ -70,10 +70,14 @@ Segundo a seção “Mechanism of Action” da bula aprovada pela FDA dos EUA (P
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100681185 | VSIQQ | NOVARTIS BIOCIENCIAS S.A | Ativo |
 | 100470634 | VSIQQ | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

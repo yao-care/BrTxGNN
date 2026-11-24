@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 153
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Brinzolamide: usos conhecidos e situação de mercado no Brasil; atualmente nenhuma indicação candidata nova"
 predicted_indications: []
 ---
@@ -72,11 +72,17 @@ Todos os candidatos que o modelo TxGNN gerou para Brinzolamide correspondem a us
 
 ## Informações de Comercialização no Brasil
 
-| Registro | Produto | Forma farmacêutica | Situação |
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
-| 100681114 | BRINZOLAMIDA |  | Ativo |
-| 100681131 | BRINZOLAMIDA, TARTARATO DE BRIMONIDINA |  | Ativo |
-| 100681108 | BRINZOLAMIDA, MALEATO DE TIMOLOL |  | Ativo |
+| 100681108 | AZORGA | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 100681114 | AZOPT | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 100681131 | SIMBRINZA | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 100230225 | AZOPT | ALCON LABORATÓRIOS DO BRASIL LTDA. | Cancelado |
+| 100230270 | AZORGA | ALCON LABORATÓRIOS DO BRASIL LTDA. | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

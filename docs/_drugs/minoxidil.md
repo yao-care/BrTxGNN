@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 10
 monitor_inn: "Minoxidil"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "pseudopelade of Brocq", "pulmonary arterial hypertension", "pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension associated with congenital heart disease", "primary hereditary glaucoma", "pulmonary arterial hypertension associated with chronic hemolytic anemia", "pulmonary arterial hypertension associated with schistosomiasis"]
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-24
 description: "Minoxidil: nova indicação prevista, hipotricose simples do couro cabeludo (hypotrichosis simplex of the scalp) (nível de evidência L4). No Brasil, registros na ANVISA: 34 (ativos: 23)"
 ---
 
@@ -77,6 +77,8 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Há ao menos 34 registros, e a lista abaixo pode ser parcial. Existem registros válidos no país.
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100431433 | DIXIL | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -109,6 +111,10 @@ Há ao menos 34 registros, e a lista abaixo pode ser parcial. Existem registros 
 | 121100382 | LONITEN | PFIZER BRASIL LTDA | Cancelado |
 | 123520271 | MINOXIDIL | RANBAXY FARMACÊUTICA LTDA | Cancelado |
 | 123890004 | REGAINE | PHARMACIA BRASIL LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 34 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

@@ -95,6 +95,8 @@ Não há literatura relacionada à indicação principal (mastocitoma extracutâ
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100470649 | PIRFENIDONA | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
@@ -102,6 +104,8 @@ Não há literatura relacionada à indicação principal (mastocitoma extracutâ
 | 122140114 | EGURINEL | ADIUM S.A. | Ativo |
 | 155730075 | ESDONA | TEVA FARMACÊUTICA LTDA. | Ativo |
 | 101000663 | ESBRIET | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

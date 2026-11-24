@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 522
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Phenylalanine: nova indicação prevista, Colangite esclerosante (sclerosing cholangitis) (nível de evidência L5). Indicação original: Nutrientes parenterais"
 monitor_inn: "PHENYLALANINE"
 predicted_indications: ["sclerosing cholangitis", "congenital prothrombin deficiency"]
@@ -77,13 +77,27 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Os 15 registros estão válidos. São listados os 5 principais:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 100410131 | Nephrotect | — | Nutrientes parenterais |
-| Registro 100410159 | Aminoven 10% Infant | — | Nutrientes parenterais |
-| Registro 100850145 | Amixal | — | Nutrientes parenterais |
-| Registro 100850109 | Nutriflex Plus | — | Nutrientes parenterais |
-| Registro 100410149 | SmofKabiven livre de eletrólitos | — | Nutrientes parenterais |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 100410131 | NEPHROTECT | Ativo |
+| 100410133 | AMINOSTERIL N-HEPA 8% | Ativo |
+| 100410149 | SMOFKABIVEN LIVRE DE ELETRÓLITOS | Ativo |
+| 100410150 | SMOFKABIVEN | Ativo |
+| 100410159 | AMINOVEN 10% INFANT | Ativo |
+| 100419935 | AMINOVEN | Ativo |
+| 100419938 | KABIVEN | Ativo |
+| 100850109 | NUTRIFLEX PLUS | Ativo |
+| 100850124 | NUTRIFLEX LIPID | Ativo |
+| 100850145 | AMIXAL | Ativo |
+| 100850246 | NUTRIFLEX LIPID | Ativo |
+| 100850247 | NUTRIFLEX | Ativo |
+| 106830098 | PRIMENE | Ativo |
+| 106830185 | NUMETA NEO | Ativo |
+| 106830186 | NUMETA PED | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

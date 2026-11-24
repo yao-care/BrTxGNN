@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 542
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Potassium Sulfate: usos conhecidos e situação de mercado no Brasil; atualmente nenhuma nova indicação candidata"
 predicted_indications: []
 ---
@@ -72,9 +72,13 @@ O modelo TxGNN não apresenta nenhum candidato com pontuação igual ou superior
 
 ## Informações de Comercialização no Brasil
 
-| Registro | Produto | Forma farmacêutica | Situação |
-|------|------|------|------|
-| 102350339 | RETINOL, VITAMINA A, VITAMINA B1, VITAMINA B2, VITAMINA B6,  |  | Ativo |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 102350339 | GEROVITAL | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

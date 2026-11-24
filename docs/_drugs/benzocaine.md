@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 122
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Benzocaine: nova indicação prevista, Conjuntivite Papilar (Papillary Conjunctivitis) (nível de evidência L5). Indicação original: Anestésicos locais"
 monitor_inn: "BENZOCAINE"
 predicted_indications: ["papillary conjunctivitis"]
@@ -71,6 +71,8 @@ Os 5 principais:
 
 <!-- review:end br-lic-20261106-benzocaine-1 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100431409 | ANDOLBA | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -104,7 +106,9 @@ Os 5 principais:
 | 104650210 | NEOPIRIDIN | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
 | 105040011 | POMADA DE ERVA DE BICHO ADRENALINA E HAMAMÉLIS COMPOSTA IMES | LABORATÓRIOS OSÓRIO DE MORAES LTDA | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 49 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

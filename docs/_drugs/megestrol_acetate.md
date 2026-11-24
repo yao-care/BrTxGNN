@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 439
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Megestrol acetate"
 predicted_indications: ["hereditary breast ovarian cancer syndrome", "borderline epithelial tumor of ovary", "uterine carcinosarcoma", "placenta cancer", "ovarian clear cell adenocarcinoma", "ovarian cancer", "malignant dysgerminomatous germ cell tumor of ovary"]
 description: "Megestrol Acetate: nova indicação prevista, Hereditary breast ovarian cancer syndrome (nível de evidência L5). Indicação original: ANTINEOPLASICO"
@@ -70,15 +70,13 @@ O ensaio disponível (NCT00729586) é um estudo Phase 2 randomizado e concluído
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 106460123 | FEMIGESTROL | Não informada | Antineoplásico |
+<!-- licenses:begin -->
 
-<!-- review:begin br-row-20261112-megestrol_acetate-1 -->
+| Registro | Produto | Situação |
+|------|------|------|
+| 106460123 | FEMIGESTROL | Ativo |
 
-> **Correção de verificação (2026-11-12)**: Texto original: “Registro nº 106460123 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 106460123 (FEMIGESTROL) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-row-20261112-megestrol_acetate-1 -->
+<!-- licenses:end -->
 
 ## Citotoxicidade
 
@@ -135,7 +133,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 |------|------|------|------|
 | 2026-11-06 | Removido: “e o único registro brasileiro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Definir a situação regulatória: o registro está cancelado, e seria necessário um novo registro ou outra via de acesso” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Tabela: registro 106460123 (FEMIGESTROL) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 106460123 (FEMIGESTROL) está ativo, não cancelado | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: megestrol acetate prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2dc921d5-e423-4379-a345-151e87d13651) |
 
 <!-- review:end log -->

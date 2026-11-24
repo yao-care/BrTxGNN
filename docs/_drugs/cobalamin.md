@@ -76,6 +76,8 @@ Para a indicação principal (hiperfosfatemia), atualmente não há literatura r
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 109740008 | CRONOBÊ | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
@@ -83,6 +85,8 @@ Para a indicação principal (hiperfosfatemia), atualmente não há literatura r
 | 109740083 | DEXA-CRONOBE | BIOLAB SANUS FARMACÊUTICA LTDA | Cancelado |
 | 109740127 | CRONEURIT | BIOLAB SANUS FARMACÊUTICA LTDA | Cancelado |
 | 136310011 | POLIVITAMINAS E POLIMINERAIS PARA CABELOS E UNHAS | TRANSCONTINENTAL TRADING LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

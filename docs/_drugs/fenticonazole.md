@@ -76,6 +76,8 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Há registros com situação válida; a situação geral de comercialização é "Comercializado".
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100431072 | GINNA | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -96,6 +98,8 @@ Há registros com situação válida; a situação geral de comercialização é
 | 167730148 | NITRATO DE FENTICONAZOL | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 | 167730152 | FENTIGYN | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 | 194270012 | FENTICREM | MOMENTA FARMACÊUTICA LTDA. | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

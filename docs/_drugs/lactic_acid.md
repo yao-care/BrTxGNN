@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 385
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lactic Acid: nova indicação prevista, Coarctação atípica da aorta (atypical coarctation of aorta) (nível de evidência L5). Indicação original: Demulcentes e outros medicamentos de uso oral para trata…"
 monitor_inn: "lactic acid"
 predicted_indications: ["atypical coarctation of aorta", "aortic malformation", "non-syndromic esophageal malformation", "amenorrhea (disease)", "dry eye syndrome"]
@@ -90,15 +90,13 @@ Os demais trabalhos recuperados tratam de endocardite, biomarcadores perioperat�
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 101430024 | MALVATRICIN | Não informada | Demulcentes e outros medicamentos de uso oral para tratamento da orofaringe |
+<!-- licenses:begin -->
 
-<!-- review:begin br-row-20261112-lactic_acid-1 -->
+| Registro | Produto | Situação |
+|------|------|------|
+| 101430024 | MALVATRICIN | Ativo |
 
-> **Correção de verificação (2026-11-12)**: Texto original: “Registro nº 101430024 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 101430024 (MALVATRICIN) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-row-20261112-lactic_acid-1 -->
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 
@@ -137,7 +135,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, o único registro no Brasil está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Tabela: registro 101430024 (MALVATRICIN) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 101430024 (MALVATRICIN) está ativo, não cancelado | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte (revisado em 2026-11-20; versão anterior guardada no registro) | [ChEMBL CHEMBL1200559 (lactic acid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200559) |
 
 <!-- review:end log -->

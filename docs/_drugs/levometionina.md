@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00134
 monitor_inn: "Methionine"
 predicted_indications: ["acne (disease)", "severe nonproliferative diabetic retinopathy", "craniostenosis cataract", "mature cataract", "diabetes mellitus type 2 associated cataract", "nuclear senile cataract", "cortical cataract", "tetanic cataract", "immature cataract", "diabetic cataract"]
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-24
 description: "Levometionina: nova indicação prevista, Acne (acne (disease)) (nível de evidência L5). No Brasil, registros na ANVISA: 88 (ativos: 21)"
 ---
 
@@ -89,13 +89,44 @@ Há registros ativos apenas de produtos que associam a levometionina a outros co
 
 <!-- review:end br-lic-20261119-levometionina-2 -->
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| 100410150 | SMOFKABIVEN | Não informada | Não registrada |
-| 100850109 | NUTRIFLEX PLUS | Não informada | Não registrada |
-| 100850124 | NUTRIFLEX LIPID | Não informada | Não registrada |
-| 100850247 | NUTRIFLEX | Não informada | Não registrada |
-| 106830181 | OLIMEL | Não informada | Não registrada |
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100410131 | NEPHROTECT | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100410133 | AMINOSTERIL N-HEPA 8% | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100410149 | SMOFKABIVEN LIVRE DE ELETRÓLITOS | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100410150 | SMOFKABIVEN | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100410159 | AMINOVEN 10% INFANT | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100419935 | AMINOVEN | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100419938 | KABIVEN | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100850109 | NUTRIFLEX PLUS | LABORATORIOS B. BRAUN S/A | Ativo |
+| 100850124 | NUTRIFLEX LIPID | LABORATORIOS B. BRAUN S/A | Ativo |
+| 100850145 | AMIXAL | LABORATORIOS B. BRAUN S/A | Ativo |
+| 100850246 | NUTRIFLEX LIPID | LABORATORIOS B. BRAUN S/A | Ativo |
+| 100850247 | NUTRIFLEX | LABORATORIOS B. BRAUN S/A | Ativo |
+| 102980493 | REGENCEL | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 106830098 | PRIMENE | BAXTER HOSPITALAR LTDA | Ativo |
+| 106830181 | OLIMEL | BAXTER HOSPITALAR LTDA | Ativo |
+| 106830185 | NUMETA NEO | BAXTER HOSPITALAR LTDA | Ativo |
+| 106830186 | NUMETA PED | BAXTER HOSPITALAR LTDA | Ativo |
+| 144930011 | ABCLER ABNAT | AIRELA INDÚSTRIA FARMACÊUTICA LTDA. | Ativo |
+| 167730285 | NATUS GERIN | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 178170079 | EPOCLER | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Ativo |
+| 196240004 | FIGZ | KYMBERG FARMACEUTICA DO BRASIL LTDA | Ativo |
+| 100020089 | TIAMINA + ASSOCIAÇÕES | LABORATORIO SEDABEL LTDA | Cancelado |
+| 100140054 | SILIMALON | QUIMICA FARMACEUTICA NIKKHO DO BRASIL LTDA | Cancelado |
+| 100320047 | HECROSINE | ORTOQUIMICA INDUSTRIA QUÍMICO-FARMACÊUTICA LTDA | Cancelado |
+| 100380001 | AMINOLYSIN | BRASTERAPICA PHARMACEUTICA LTDA. | Cancelado |
+| 100410003 | AMINOSTERIL HEPA | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100410004 | AMINOSTERIL NEFRO | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100410020 | SOLUÇÃO DE AMINOÁCIDOS COM ELETRÓLITOS E SEM CARBOIDRATOS AM | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100410026 | AMINOSTERIL 10% | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100410027 | AMINOSTERIL 800 | FRESENIUS KABI BRASIL LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 88 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

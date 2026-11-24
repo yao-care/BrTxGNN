@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 20
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Acetic Acid: nova indicação prevista, Transtorno pós-bacteriano (post-bacterial disorder) (nível de evidência L5). Indicação original: Produtos para hemodiálise"
 monitor_inn: "acetic acid"
 predicted_indications: ["post-bacterial disorder", "postinfectious vasculitis", "post-infectious syndrome", "Chagas cardiomyopathy", "infective urethral stricture", "infection-related hemolytic uremic syndrome", "drug-induced osteoporosis", "pityriasis simplex", "tinea corporis"]
@@ -94,12 +94,16 @@ Observação: as demais referências levantadas para tinea corporis (estudos com
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada | Situação |
-|---------|------|------|-----------|------|
-| 116880014 | CPHD - Concentrado Ácido para Hemodiálise sem Glicose | Não informada | Produtos para hemodiálise | Ativo |
-| 110850045 | Fração Ácida Ca++ 3,0 mEq/L 1:44 | Não informada | Produtos para hemodiálise | Ativo |
-| 110850041 | Farmace CPHD - Fração Ácida com Cálcio 2,5 mEq/L | Não informada | Produtos para hemodiálise | Ativo |
-| 116880004 | Farmarin CPHD | Não informada | Produtos para hemodiálise | Ativo |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 110850041 | FARMACE CPHD - FRAÇÃO ÁCIDA COM CÁLCIO 2,5 MEQ/L | Ativo |
+| 110850045 | FRAÇÃO ÁCIDA CA ++ 3,0 MEQ/L 1:44 | Ativo |
+| 116880004 | FARMARIN CPHD | Ativo |
+| 116880014 | CPHD - CONCENTRADO ÁCIDO PARA HEMODIÁLISE SEM GLICOSE | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

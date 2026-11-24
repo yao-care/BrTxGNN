@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 364
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "imipenem"
 predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "sinusitis", "chronic rhinosinusitis", "typhoid fever", "chronic ethmoidal sinusitis", "paranasal sinus neoplasm (disease)", "eosinophilia-myalgia syndrome"]
 description: "Imipenem: nova indicação prevista, Esclerodermia difusa (diffuse scleroderma) (nível de evidência L5). No Brasil, registros na ANVISA: 21 (ativos: 8)"
@@ -63,6 +63,8 @@ A esclerodermia difusa é uma doença autoimune e fibrosante, sem causa bacteria
 
 Entre os registros válidos de produtos com imipenem (em associação com cilastatina) estão:
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100630137 | TIEPEM | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
@@ -70,7 +72,6 @@ Entre os registros válidos de produtos com imipenem (em associação com cilast
 | 101710236 | RECARBRIO | MERCK SHARP & DOHME FARMACEUTICA LTDA. | Ativo |
 | 102010053 | PENEXIL | QUIMICA HALLER LTDA | Ativo |
 | 104970228 | IMICIL | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
-| 110110037 | IMIPENEM + CILASTATINA SÓDICA | NEWCOM FARMACEUTICA LTDA. | Cancelado |
 | 123520204 | IMIPENEM + CILASTATINA SÓDICA | RANBAXY FARMACÊUTICA LTDA | Ativo |
 | 137040002 | IMIPENEM + CILASTATINA SÓDICA | MIDFARMA PRODUTOS FARMACEUTICOS LTDA | Ativo |
 | 155620013 | IMIPENEM + CILASTATINA | ANTIBIÓTICOS DO BRASIL LTDA | Ativo |
@@ -79,15 +80,18 @@ Entre os registros válidos de produtos com imipenem (em associação com cilast
 | 100430578 | CLASTIPEN | EUROFARMA LABORATORIOS S.A. | Cancelado |
 | 104650186 | INFEPEN | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
 | 106460125 | MENIPEN | LABORATORIO QUIMICO FARMACEUTICO BERGAMO LTDA | Cancelado |
+| 110110037 | IMIPENEM + CILASTATINA SÓDICA | NEWCOM FARMACEUTICA LTDA. | Cancelado |
 | 112830051 | ITINEM | LABORATORIO ITAFARMA LTDA | Cancelado |
 | 114020069 | IMIPENEM + CILASTATINA SÓDICA | NOVAFARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 | 120690020 | IMIPENEM + CILASTATINA SODICA | LABORATÓRIOS LIBRA DO BRASIL LTDA | Cancelado |
-| 124730003 | IMIPENEM + CILASTATINA SÓDICA |  TARGO COMÉRCIO INTERNACIONAL LIMITADA | Cancelado |
+| 124730003 | IMIPENEM + CILASTATINA SÓDICA | TARGO COMÉRCIO INTERNACIONAL LIMITADA | Cancelado |
 | 137640124 | IMISTAT | ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 | 137640125 | IMIPENÉM MONOIDRATADO + CILASTATINA SÓDICA | ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 | 188300029 | IMIPENÉM MONOIDRATADO + CILASTATINA SÓDICA | VIATRIS FARMACEUTICA DO BRASIL LTDA | Cancelado |
 
-A lista acima mostra apenas parte dos registros. No total, são 21 registros, dos quais 9 estão válidos e 12 cancelados.
+<!-- licenses:end -->
+
+A lista acima mostra apenas parte dos registros. No total, são 21 registros, dos quais 8 estão válidos e 13 cancelados.
 
 ## Considerações de Segurança
 

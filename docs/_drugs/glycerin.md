@@ -88,6 +88,8 @@ Para a indicação de maior pontuação (síndrome da cauda equina), não há li
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 103110005 | GLICERINA 12% | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Ativo |
@@ -101,6 +103,8 @@ Para a indicação de maior pontuação (síndrome da cauda equina), não há li
 | 104910058 | GLICERINA | JP INDUSTRIA FARMACEUTICA S/A | Cancelado |
 | 108170045 | SUPOSITÓRIO DE GLICERINA GRANADO | CASA GRANADO LABORATÓRIOS, FARMÁCIAS E DROGARIAS S | Cancelado |
 | 113440001 | GLICENAX | ENDOMED LABORATORIO FARMACEUTICO LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

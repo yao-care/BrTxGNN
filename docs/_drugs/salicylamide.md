@@ -74,6 +74,8 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 105710006 | DRENOGRIP | BELFAR LTDA | Ativo |
@@ -83,6 +85,8 @@ Atualmente não há ensaios clínicos relacionados registrados.
 | 108580030 | RESPRAX | PRODOTTI LABORATÓRIO FARMACÊUTICO LTDA. | Cancelado |
 | 109170006 | GRIPIN C | MEDQUIMICA INDUSTRIA FARMACEUTICA LTDA. | Cancelado |
 | 122830072 | BENEGRIP | DM INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

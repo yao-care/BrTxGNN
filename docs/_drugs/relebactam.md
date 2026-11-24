@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Relebactam"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Relebactam: nova indicação prevista, Hiperamilasemia (nível de evidência L5). Indicação original: Infecção do trato urinário e pielonefrite"
 ---
 
@@ -69,9 +69,13 @@ A pontuação alta (0,9922) é uma previsão do modelo TxGNN (aprendizado profun
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 101710236 | RECARBRIO | Não informada | Não informada no registro |
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 101710236 | RECARBRIO | MERCK SHARP & DOHME FARMACEUTICA LTDA. | Ativo |
+
+<!-- licenses:end -->
 
 ---
 

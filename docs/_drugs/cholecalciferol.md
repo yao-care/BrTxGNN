@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "CHOLECALCIFEROL"
 predicted_indications: ["acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "renal osteodystrophy", "renal tubular acidosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cholecalciferol: nova indicação prevista, Displasia acromesomélica tipo Campailla-Martinelli (nível de evidência L5). Indicação original: Vitamina D e análogos"
 ---
 
@@ -74,6 +74,8 @@ Atualmente não há literatura relacionada.
 
 Foram identificados pelo menos 20 registros válidos de produtos com colecalciferol isolado, e a lista pode estar incompleta. Abaixo, os 5 primeiros:
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100290180 | FOSAMAX D | ORGANON FARMACÊUTICA LTDA. | Ativo |
@@ -107,7 +109,9 @@ Foram identificados pelo menos 20 registros válidos de produtos com colecalcife
 | 105730133 | VIT. BIO D | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
 | 105730163 | VIT. D SOLEIL | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 297 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

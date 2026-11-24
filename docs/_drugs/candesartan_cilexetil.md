@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "candesartan cilexetil"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Candesartan Cilexetil: nova indicação prevista, Doença renal hipertensiva maligna (malignant hypertensive renal disease) (nível de evidência L5). Indicação original: ANTI-HIPERTENSIVOS SIMPLES"
 ---
 
@@ -70,6 +70,8 @@ Abaixo estão os 5 primeiros; a lista não é exaustiva.
 
 <!-- review:end br-lic-20261111-candesartan_cilexetil-1 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100330177 | CANDESARTANA CILEXETILA+HIDROCLOROTIAZIDA | LIBBS FARMACÊUTICA LTDA | Ativo |
@@ -97,13 +99,15 @@ Abaixo estão os 5 primeiros; a lista não é exaustiva.
 | 102351091 | BLOCAND | EMS S/A | Cancelado |
 | 102351097 | CANDESARTANA CILEXETILA+HIDROCLOROTIAZIDA | EMS S/A | Cancelado |
 | 105530219 | BLOPRESS | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Cancelado |
-| 105530237 | BLOPRESS  H | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Cancelado |
+| 105530237 | BLOPRESS H | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Cancelado |
 | 105730479 | CANDESARTANA CILEXETILA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Cancelado |
 | 105730480 | CADENZA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Cancelado |
 | 105830767 | CANDEMED | GERMED FARMACEUTICA LTDA | Cancelado |
 | 105830774 | CANDEMED HCT | GERMED FARMACEUTICA LTDA | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 49 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

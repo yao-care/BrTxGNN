@@ -106,12 +106,16 @@ Os ensaios abaixo se referem à malária por *P. falciparum*, a indicação orig
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100680103 | COARTEM | NOVARTIS BIOCIENCIAS S.A | Ativo |
 | 100440114 | PALUTHER | RHODIA FARMA LTDA. | Cancelado |
 | 113000272 | PALUTHER | SANOFI-AVENTIS FARMACÊUTICA LTDA | Cancelado |
 | 118610074 | ARTER | ATIVUS FARMACÊUTICA LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ---
 

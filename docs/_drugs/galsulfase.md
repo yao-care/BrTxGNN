@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 334
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Galsulfase: known uses and market status in Brazil; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,9 +72,13 @@ O modelo TxGNN não apresentou nenhum candidato com pontuação igual ou superio
 
 ## Informações de Comercialização no Brasil
 
-| Registro | Produto | Forma farmacêutica | Situação |
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
-| 173330001 | NAGLAZYME |  | Ativo |
+| 173330001 | NAGLAZYME | BIOMARIN BRASIL FARMACÊUTICA LTDA | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 342
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Givosiran: nova indicação prevista, Esclerose hepatoportal (hepatoportal sclerosis) (nível de evidência L5). Indicação original: Outros produtos que atuam sobre o sistema nervoso"
 monitor_inn: "givosiran"
 predicted_indications: ["hepatoportal sclerosis", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "primitive portal vein thrombosis", "hepatopulmonary syndrome", "chronic hepatitis C virus infection", "glycogen storage disease due to hepatic glycogen synthase deficiency", "chronic hepatitis B virus infection", "disorder of phenylalanine metabolism"]
@@ -69,15 +69,13 @@ Atualmente não há literatura relacionada para esclerose hepatoportal.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 193610002 | GIVLAARI | Não informada | Outros produtos que atuam sobre o sistema nervoso |
+<!-- licenses:begin -->
 
-<!-- review:begin br-row-20261112-givosiran-1 -->
+| Registro | Produto | Situação |
+|------|------|------|
+| 193610002 | GIVLAARI | Ativo |
 
-> **Correção de verificação (2026-11-12)**: Texto original: “Registro 193610002 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 193610002 (GIVLAARI) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-row-20261112-givosiran-1 -->
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 
@@ -108,7 +106,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-12 | Tabela: registro 193610002 (GIVLAARI) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 193610002 (GIVLAARI) está ativo, não cancelado | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Givlaari (givosiran sodium) prescribing information, Alnylam Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=167e663c-11e1-497b-a3fc-951d65d58eaa) |
 
 <!-- review:end log -->

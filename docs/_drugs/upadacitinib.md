@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 660
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Upadacitinib: nova indicação prevista, Síndrome de microftalmia colobomatosa com displasia rizomélica (colob… (nível de evidência L5). Indicação original: Imunossupressores seletivos"
 monitor_inn: "upadacitinib"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
@@ -66,15 +66,13 @@ A pontuação muito alta (0,9961) vem do modelo TxGNN (deep learning) e pode ref
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 198600017 | RINVOQ | Não informada | Imunossupressores seletivos |
+<!-- licenses:begin -->
 
-<!-- review:begin br-row-20261112-upadacitinib-1 -->
+| Registro | Produto | Situação |
+|------|------|------|
+| 198600017 | RINVOQ | Ativo |
 
-> **Correção de verificação (2026-11-12)**: Texto original: “Registro nº 198600017 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 198600017 (RINVOQ) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-row-20261112-upadacitinib-1 -->
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 
@@ -125,7 +123,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, o único registro no Brasil está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “já que o registro encontrado está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Tabela: registro 198600017 (RINVOQ) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 198600017 (RINVOQ) está ativo, não cancelado | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Rinvoq (upadacitinib) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2966aec7-2ef0-923c-d8ff-fe1a957bf095) |
 
 <!-- review:end log -->

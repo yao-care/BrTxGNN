@@ -89,6 +89,8 @@ Dos 13 registros, 7 encontram-se **válidos**; o medicamento está comercializad
 
 <!-- review:end br-lic-20261112-ropivacaine-1 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 102980339 | ROPI | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
@@ -104,6 +106,8 @@ Dos 13 registros, 7 encontram-se **válidos**; o medicamento está comercializad
 | 116180094 | NAROPIN | ASTRAZENECA DO BRASIL LTDA | Cancelado |
 | 121100334 | PIGESIC | PFIZER BRASIL LTDA | Cancelado |
 | 121100337 | CLORIDRATO DE ROPIVACAINA | PFIZER BRASIL LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 Existem ainda outros 3 registros cancelados (NAROPIN, HYROVI e ROPI), não listados por limite de 5 itens.
 

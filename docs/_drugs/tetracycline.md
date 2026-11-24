@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 626
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tetracycline: nova indicação prevista, Ceratoconjuntivite epitelial punctata (Punctate Epithelial Keratoconj… (nível de evidência L5). Indicação original: Classe das tetraciclinas"
 monitor_inn: "Tetracycline"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "chronic ethmoidal sinusitis", "chronic rhinosinusitis", "paranasal sinus neoplasm (disease)"]
@@ -74,6 +74,8 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 103700010 | TETRACLIN | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
@@ -87,7 +89,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 | 125680171 | CLORIDRATO DE TETRACICLINA | PRATI DONADUZZI & CIA LTDA | Ativo |
 | 158190016 | TERICIN AT | ARESE PHARMA LTDA. | Ativo |
 | 100380028 | TETRACAPS | BRASTERAPICA PHARMACEUTICA LTDA. | Cancelado |
-| 100430621 | ANFOTERICINA B + CLORIDRATO DE  TETRACICLINA | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100430621 | ANFOTERICINA B + CLORIDRATO DE TETRACICLINA | EUROFARMA LABORATORIOS S.A. | Cancelado |
 | 100470261 | FOCOTRIN | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 | 101800073 | TALSUTIN | BRISTOL-MYERS SQUIBB FARMACÊUTICA LTDA | Cancelado |
 | 101800131 | TETREX | BRISTOL-MYERS SQUIBB FARMACÊUTICA LTDA | Cancelado |
@@ -107,7 +109,9 @@ Atualmente não há ensaios clínicos relacionados registrados.
 | 103970066 | KANDINAL | PRODUTOS FARMACÊUTICOS MILLET ROUX | Cancelado |
 | 104040115 | TETRALUP | LUPER INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 71 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 Observação: todos os 10 registros encontrados têm licença válida atualmente. Os cinco acima são apresentados como amostra.
 

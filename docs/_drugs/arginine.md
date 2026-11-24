@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 73
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-24
 description: "Arginine: nova indicação prevista, Gastroparesia (Gastroparesis) (nível de evidência L4). Indicação original: Vitaminas e suplementos minerais"
 monitor_inn: "ARGININE"
 predicted_indications: ["gastroparesis (disease)"]
@@ -99,6 +99,8 @@ Foram encontrados 94 registros, dos quais 27 estão válidos; o medicamento é c
 
 <!-- review:end br-lic-20261112-arginine-2 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100410131 | NEPHROTECT | FRESENIUS KABI BRASIL LTDA | Ativo |
@@ -132,7 +134,9 @@ Foram encontrados 94 registros, dos quais 27 estão válidos; o medicamento é c
 | 100330010 | ENERGOPLEX | LIBBS FARMACÊUTICA LTDA | Cancelado |
 | 100410003 | AMINOSTERIL HEPA | FRESENIUS KABI BRASIL LTDA | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 94 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ---
 

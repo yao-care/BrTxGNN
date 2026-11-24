@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 588
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Sodium Acetate: nova indicação prevista, Deficiência congênita de protrombina (congenital prothrombin deficien… (nível de evidência L5). Indicação original: Produtos para hemodiálise"
 monitor_inn: "Sodium acetate"
 predicted_indications: ["congenital prothrombin deficiency", "epiglottitis", "urinary tract infection (disease)", "sclerosing cholangitis", "gonococcal urethritis", "Ureaplasma urethritis", "dyspepsia", "uterine inflammatory disease", "gastroparesis (disease)", "xanthogranulomatous pyelonephritis"]
@@ -86,6 +86,8 @@ O medicamento está comercializado. Principais registros (30 de 41):
 
 <!-- review:end br-lic-20261112-sodium_acetate-1 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100410150 | SMOFKABIVEN | FRESENIUS KABI BRASIL LTDA | Ativo |
@@ -113,13 +115,15 @@ O medicamento está comercializado. Principais registros (30 de 41):
 | 101620093 | ACETATO DE SÓDIO | DARROW LABORATÓRIOS S/A | Cancelado |
 | 101620241 | SOLUÇÃO ELETROLÍTICA C/ 55 MEQ LACTATO E 5% DE GLICOSE | LABORATÓRIOS PIERRE FABRE DO BRASIL LTDA | Cancelado |
 | 103110010 | SOLUÇÃO ELETROLÍTICA GLICOSADA | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Cancelado |
-| 103110044 | SOLUÇÃO  POLIELETROLITICA | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Cancelado |
+| 103110044 | SOLUÇÃO POLIELETROLITICA | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Cancelado |
 | 106830068 | TRAVASOL | BAXTER HOSPITALAR LTDA | Cancelado |
 | 106830097 | CLINIMIX | BAXTER HOSPITALAR LTDA | Cancelado |
 | 106830157 | OLICLINOMEL | BAXTER HOSPITALAR LTDA | Cancelado |
-| 113440017 | SOLUCAO DE AMINOACIDOS 10% COM CARBOIDRATOS E  ELETROLITOS | ENDOMED LABORATORIO FARMACEUTICO LTDA | Cancelado |
+| 113440017 | SOLUCAO DE AMINOACIDOS 10% COM CARBOIDRATOS E ELETROLITOS | ENDOMED LABORATORIO FARMACEUTICO LTDA | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 41 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

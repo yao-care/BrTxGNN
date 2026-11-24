@@ -72,11 +72,15 @@ Atualmente não há literatura relacionada.
 
 Há 3 registros associados à clorambucila: 1 válido e 2 cancelados. O medicamento consta como comercializado.
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 137640148 | LEUKERAN | ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
 | 100250073 | LEUKERAN | GLAXO WELLCOME S/A | Cancelado |
 | 101070208 | LEUKERAN | GLAXOSMITHKLINE BRASIL LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Citotoxicidade
 

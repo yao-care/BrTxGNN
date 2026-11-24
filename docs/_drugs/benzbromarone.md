@@ -84,10 +84,14 @@ Nenhum dos estudos abaixo avalia a benzbromarona como tratamento da hipouricemia
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100380103 | ZILARICINA | BRASTERAPICA PHARMACEUTICA LTDA. | Ativo |
 | 104450128 | NARCARICINA | LABORATORIO SINTERAPICO INDUSTRIAL FTCO LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

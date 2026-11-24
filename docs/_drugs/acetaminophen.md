@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 18
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-24
 description: "Acetaminophen: usos conhecidos e situação de mercado no Brasil; atualmente nenhuma nova indicação candidata"
 predicted_indications: []
 ---
@@ -72,30 +72,34 @@ Os candidatos que o modelo TxGNN (pontuação ≥ 0,99) gerou para Acetaminophen
 
 ## Informações de Comercialização no Brasil
 
-| Registro | Produto | Forma farmacêutica | Situação |
-|------|------|------|------|
-| 162410009 | PARACETAMOL |  | Cancelado |
-| 100410163 | PARACETAMOL |  | Ativo |
-| 109630049 | PARACETAMOL |  | Cancelado |
-| 167250010 | PARACETAMOL |  | Ativo |
-| 147610028 | PARACETAMOL |  | Cancelado |
-| 118190187 | PARACETAMOL |  | Cancelado |
-| 154230008 | PARACETAMOL |  | Ativo |
-| 100850148 | PARACETAMOL |  | Ativo |
-| 103110178 | PARACETAMOL |  | Ativo |
-| 103110179 | PARACETAMOL |  | Ativo |
-| 143810109 | PARACETAMOL |  | Ativo |
-| 115600235 | PARACETAMOL |  | Cancelado |
-| 108840327 | PARACETAMOL |  | Cancelado |
-| 118190041 | PARACETAMOL |  | Ativo |
-| 102350418 | PARACETAMOL |  | Ativo |
-| 192900010 | PARACETAMOL |  | Ativo |
-| 103700736 | PARACETAMOL |  | Cancelado |
-| 147610016 | PARACETAMOL |  | Cancelado |
-| 106890213 | PARACETAMOL |  | Ativo |
-| 121420001 | PARACETAMOL |  | Ativo |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 100410163 | KABIPAMOL | Ativo |
+| 100850148 | AMENIFLAC | Ativo |
+| 102350418 | EMSGRIP | Ativo |
+| 103110178 | HALEXMINOPHEN | Ativo |
+| 103110179 | HALEXMINOPHEN | Ativo |
+| 106890213 | STILGRIP CHÁ | Ativo |
+| 118190041 | DORSANOL | Ativo |
+| 121420001 | VICK PYRENA | Ativo |
+| 143810109 | CIMEGRIPE 77C | Ativo |
+| 154230008 | TYLALGIN | Ativo |
+| 167250010 | PRODUTO TESTE 21.08 | Ativo |
+| 192900010 | SONRIDOR | Ativo |
+| 103700736 | PARACETAMOL | Cancelado |
+| 108840327 | IQUEGO - PARACETAMOL | Cancelado |
+| 109630049 | PARACETAMOL | Cancelado |
+| 115600235 | CYFENOL BABY | Cancelado |
+| 118190187 | MULTIGRIP DOR E FEBRE | Cancelado |
+| 147610016 | PARACETAMOL | Cancelado |
+| 147610028 | TILENATI | Cancelado |
+| 162410009 | PARACETAMOL | Cancelado |
 
 Os dados contêm apenas parte dos registros; a lista pode estar incompleta.
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Clobutinol"
 predicted_indications: ["typhoid fever", "mucocutaneous leishmaniasis", "leishmaniasis, diffuse cutaneous", "diffuse scleroderma", "pneumonia", "trigonitis", "bronchiolitis obliterans with obstructive pulmonary disease", "paratyphoid fever", "cystitis", "combined immunodeficiency due to DOCK8 deficiency"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clobutinol: nova indicação prevista, febre tifoide (typhoid fever) (nível de evidência L5). No Brasil, registros na ANVISA: 18 (ativos: 2)"
 ---
 
@@ -69,7 +69,7 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-Os dados locais indicam 2 registros válidos e 18 cancelados. Esta lista pode estar incompleta, pois os registros são parciais, e nenhum registro detalhado está disponível para listagem neste relatório.
+Os dados locais indicam 2 registros válidos e 16 cancelados. Esta lista pode estar incompleta, pois os registros são parciais, e nenhum registro detalhado está disponível para listagem neste relatório.
 
 ## Considerações de Segurança
 

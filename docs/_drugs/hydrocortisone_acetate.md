@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 356
 evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "HYDROCORTISONE ACETATE"
 predicted_indications: ["alopecia areata", "telogen effluvium", "alopecia mucinosa", "Quinquaud's folliculitis decalvans", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "seborrheic keratosis"]
 description: "Hydrocortisone Acetate: nova indicação prevista, Alopecia areata (nível de evidência L2). Indicação original: GLICOCORTICOIDES TOP. SIMP. EXC. USO OFTALM"
@@ -77,43 +77,18 @@ Há uma ressalva importante: a hidrocortisona é um corticosteroide de baixa pot
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 104971333 | Acetato de Hidrocortisona | Não informada | Glicocorticoides tópicos simples, exceto uso oftálmico |
-| Registro 103700527 | Acetato de Hidrocortisona | Não informada | Glicocorticoides tópicos simples, exceto uso oftálmico |
-| Registro 103700768 | Acecorthyl | Não informada | Glicocorticoides tópicos simples, exceto uso oftálmico |
-| Registro 104971404 | Cortigen | Não informada | Glicocorticoides tópicos simples, exceto uso oftálmico |
-| Registro 104970020 | Cortisonal | Não informada | Anti-inflamatórios e antirreumáticos – associações medicamentosas |
+<!-- licenses:begin -->
 
-<!-- review:begin br-row-20261112-hydrocortisone_acetate-1 -->
+| Registro | Produto | Situação |
+|------|------|------|
+| 103700527 | ACETATO DE HIDROCORTISONA | Ativo |
+| 103700768 | ACECORTHYL | Ativo |
+| 104970020 | CORTISONAL | Ativo |
+| 104971333 | ACETATO DE HIDROCORTISONA | Ativo |
+| 104971404 | CORTIGEN | Ativo |
+| 137640159 | XYLOPROCT | Ativo |
 
-> **Correção de verificação (2026-11-12)**: Texto original: “Registro 104971333 / Acetato de Hidrocortisona / Não informada / Glicocorticoides tópicos simples, exceto uso oftálmico (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 104971333 (ACETATO DE HIDROCORTISONA) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-row-20261112-hydrocortisone_acetate-1 -->
-
-<!-- review:begin br-row-20261112-hydrocortisone_acetate-2 -->
-
-> **Correção de verificação (2026-11-12)**: Texto original: “Registro 103700527 / Acetato de Hidrocortisona / Não informada / Glicocorticoides tópicos simples, exceto uso oftálmico (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 103700527 (ACETATO DE HIDROCORTISONA) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-row-20261112-hydrocortisone_acetate-2 -->
-
-<!-- review:begin br-row-20261112-hydrocortisone_acetate-3 -->
-
-> **Correção de verificação (2026-11-12)**: Texto original: “Acecorthyl / Não informada / Glicocorticoides tópicos simples, exceto uso oftálmico (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 103700768 (ACECORTHYL) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-row-20261112-hydrocortisone_acetate-3 -->
-
-<!-- review:begin br-row-20261112-hydrocortisone_acetate-4 -->
-
-> **Correção de verificação (2026-11-12)**: Texto original: “Cortigen / Não informada / Glicocorticoides tópicos simples, exceto uso oftálmico (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 104971404 (CORTIGEN) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-row-20261112-hydrocortisone_acetate-4 -->
-
-<!-- review:begin br-row-20261112-hydrocortisone_acetate-5 -->
-
-> **Correção de verificação (2026-11-12)**: Texto original: “Anti-inflamatórios e antirreumáticos – associações medicamentosas (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 104970020 (CORTISONAL) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-row-20261112-hydrocortisone_acetate-5 -->
+<!-- licenses:end -->
 
 Há 6 registros válidos no total; os cinco principais estão listados acima.
 
@@ -144,11 +119,11 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-12 | Tabela: registro 104971333 (ACETATO DE HIDROCORTISONA) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Tabela: registro 103700527 (ACETATO DE HIDROCORTISONA) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Tabela: registro 103700768 (ACECORTHYL) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Tabela: registro 104971404 (CORTIGEN) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Tabela: registro 104970020 (CORTISONAL) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 104971333 (ACETATO DE HIDROCORTISONA) está ativo, não cancelado | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 103700527 (ACETATO DE HIDROCORTISONA) está ativo, não cancelado | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 103700768 (ACECORTHYL) está ativo, não cancelado | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 104971404 (CORTIGEN) está ativo, não cancelado | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 104970020 (CORTISONAL) está ativo, não cancelado | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Alkindi Sprinkle (hydrocortisone) prescribing information, Eton Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=26c13a5f-7119-4c6a-bf10-fda4e07d7682) |
 
 <!-- review:end log -->

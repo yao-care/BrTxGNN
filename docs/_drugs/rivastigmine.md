@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 572
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Rivastigmine: nova indicação prevista, Glaucoma (glaucoma) (nível de evidência L5). Indicação original: Outros produtos que atuam sobre o sistema nervoso"
 monitor_inn: "RIVASTIGMINE"
 predicted_indications: ["glaucoma"]
@@ -76,13 +76,15 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Dos 42 registros, 19 encontram-se válidos. Abaixo, os 5 principais:
+Dos 42 registros, 18 encontram-se válidos. Abaixo, os 5 principais:
 
 <!-- review:begin br-lic-20261112-rivastigmine-1 -->
 
-> **Correção de verificação (2026-11-12)**: Texto original: “Todos os 17 registros encontram-se válidos.” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 42 registros para este medicamento, 19 válidos e 23 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “Todos os 17 registros encontram-se válidos.” Corrigido conforme os dados abertos de medicamentos da ANVISA (situação de 2026-11-23): 42 registros para este medicamento, 18 válidos e 24 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261112-rivastigmine-1 -->
+
+<!-- licenses:begin -->
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -104,7 +106,6 @@ Dos 42 registros, 19 encontram-se válidos. Abaixo, os 5 principais:
 | 125760042 | HEMITARTARATO DE RIVASTIGMINA | UNITED MEDICAL LTDA | Ativo |
 | 135690644 | VASTIGMA | EMS SIGMA PHARMA LTDA | Ativo |
 | 143810266 | HEMITARTARATO DE RIVASTIGMINA | CIMED INDUSTRIA S.A | Ativo |
-| 154230245 | HIDROGENOTARTARATO DE RIVASTIGMINA | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Cancelado |
 | 100470489 | HIDROGENOTARTARATO DE RIVASTIGMINA (PORT. 344/98 - LISTA C1) | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 | 100470509 | RIGMINA | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 | 100470631 | HEMITARTARATO DE RIVASTIGMINA | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
@@ -116,8 +117,11 @@ Dos 42 registros, 19 encontram-se válidos. Abaixo, os 5 principais:
 | 103720303 | REC | SUPERA FARMA LABORATÓRIOS S.A | Cancelado |
 | 105730448 | HEMITARTARATO DE RIVASTIGMINA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Cancelado |
 | 105830739 | TIGMA | GERMED FARMACEUTICA LTDA | Cancelado |
+| 105830745 | HEMITARTARATO DE RIVASTIGMINA | GERMED FARMACEUTICA LTDA | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 42 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 
@@ -161,7 +165,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-10-31 | Removido: “diante da situação "apenas cancelados"” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Registros válidos: “todos os 17” → 19 de 42 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | Registros válidos: “todos os 17” → 18 de 42 | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: rivastigmine tartrate prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=52781229-ee82-43f9-a113-4419a611978d) |
 
 <!-- review:end log -->

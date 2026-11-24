@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB08885
 monitor_inn: "Aflibercept"
 predicted_indications: ["esotropia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Aflibercepte: nova indicação prevista, Esotropia (nível de evidência L5). No Brasil, registros na ANVISA: 6 (ativos: 5)"
 ---
 
@@ -64,13 +64,18 @@ Apesar da pontuação alta, a injeção intraocular de anti-VEGF não é um trat
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 102440027 | PAVBLU | Não informada | Não registrada |
-| Registro 116640011 | YESAFILI | Não informada | Não registrada |
-| Registro 170560097 | EYLIA | Não informada | Não registrada |
-| Registro 183260338 | ZALTRAP | Não informada | Não registrada |
-| Registro 192160007 | EYDENZELT | Não informada | Não registrada |
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 102440027 | PAVBLU | AMGEN BIOTECNOLOGIA DO BRASIL LTDA. | Ativo |
+| 116640011 | YESAFILI | BIOCON BIOLOGICS DO BRASIL LTDA | Ativo |
+| 170560097 | EYLIA | BAYER S.A. | Ativo |
+| 183260338 | ZALTRAP | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+| 192160007 | EYDENZELT | CELLTRION HEALTHCARE DISTRIBUICAO DE PRODUTOS FARM | Ativo |
+| 113001148 | ZALTRAP | SANOFI-AVENTIS FARMACÊUTICA LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 Há 6 registros no total, dos quais 5 estão válidos e 1 cancelado (um registro antigo do ZALTRAP, omitido da tabela acima).
 

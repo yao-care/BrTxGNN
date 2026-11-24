@@ -78,6 +78,8 @@ Também há um estudo de sensibilidade de *S. typhi* (PMID 8354556, 1993) em que
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 103700297 | SULFATO DE AMICACINA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
@@ -98,6 +100,8 @@ Também há um estudo de sensibilidade de *S. typhi* (PMID 8354556, 1993) em que
 | 116370107 | AMICILON | BLAU FARMACÊUTICA S.A. | Cancelado |
 | 120190055 | KLEBICIL | GREENPHARMA QUÍMICA E FARMACÊUTICA LTDA | Cancelado |
 | 189000008 | AMICILON | ARISTON INDÚSTRIAS QUÍMICAS E FARMACÊUTICAS LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

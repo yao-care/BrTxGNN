@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 547
 evidence_level: L3
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Prednisone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "prolapse of lacrimal gland"]
 description: "Prednisone: nova indicação prevista, Alopecia areata (nível de evidência L3). No Brasil, registros na ANVISA: 65 (ativos: 22)"
@@ -85,6 +85,8 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Há 65 registros no total, dos quais 22 válidos e 43 cancelados. Abaixo, os principais registros válidos.
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100290189 | METICORTEN | ORGANON FARMACÊUTICA LTDA. | Ativo |
@@ -117,6 +119,10 @@ Há 65 registros no total, dos quais 22 válidos e 43 cancelados. Abaixo, os pri
 | 103700238 | ARTINIZONA | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
 | 103700448 | PREDNISONA | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
 | 103920080 | PREDCORT | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 65 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

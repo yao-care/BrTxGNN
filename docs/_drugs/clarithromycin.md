@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Clarithromycin"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "punctate epithelial keratoconjunctivitis", "blood group incompatibility"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clarithromycin: nova indicação prevista, Hiperamilasemia (nível de evidência L5). Indicação original: Macrolídeos"
 ---
 
@@ -75,6 +75,8 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Os registros abaixo correspondem aos cinco primeiros da lista, que pode estar incompleta (pelo menos 20 registros válidos de produtos com um único princípio ativo).
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100431538 | CLARITROMICINA | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -108,7 +110,9 @@ Os registros abaixo correspondem aos cinco primeiros da lista, que pode estar in
 | 183260025 | CLARITROMICINA | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
 | 100330071 | MACLICIN | LIBBS FARMACÊUTICA LTDA | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 75 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

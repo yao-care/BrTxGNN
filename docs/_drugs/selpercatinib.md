@@ -75,9 +75,13 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 112600204 | RETSEVMO | ELI LILLY DO BRASIL LTDA | Ativo |
+
+<!-- licenses:end -->
 
 ## Citotoxicidade
 

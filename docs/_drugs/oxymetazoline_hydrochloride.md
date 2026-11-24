@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00935
 monitor_inn: "Oxymetazoline"
 predicted_indications: ["nasal cavity disease", "headache disorder"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Oxymetazoline Hydrochloride: nova indicação prevista, Doença da cavidade nasal (nasal cavity disease) (nível de evidência L5). Indicação original: DESCONGESTIONANTES NASAIS TOPICOS"
 ---
 
@@ -74,13 +74,17 @@ Nenhum dos estudos abaixo avalia diretamente a doença da cavidade nasal como ca
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 155840385 | Cloridrato de oximetazolina | Não informada | Descongestionantes nasais tópicos |
-| Registro 103700469 | Cloridrato de oximetazolina | Não informada | Descongestionantes nasais tópicos |
-| Registro 178170934 | Aturgyl | Não informada | Descongestionantes nasais tópicos |
-| Registro 103700360 | Oxifrin | Não informada | Descongestionantes nasais tópicos |
-| Registro 102350782 | Cloridrato de oximetazolina | Não informada | Descongestionantes nasais tópicos |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 102350782 | CLORIDRATO DE OXIMETAZOLINA | Ativo |
+| 103700360 | OXIFRIN | Ativo |
+| 103700469 | CLORIDRATO DE OXIMETAZOLINA | Ativo |
+| 155840385 | CLORIDRATO DE OXIMETAZOLINA | Ativo |
+| 178170934 | ATURGYL | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

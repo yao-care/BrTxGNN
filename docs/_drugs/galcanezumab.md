@@ -72,10 +72,14 @@ Em ambas, também não há vínculo mecanístico crível. No caso do excesso de 
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100330224 | EMGALITY | LIBBS FARMACÊUTICA LTDA | Ativo |
 | 112600200 | EMGALITY | ELI LILLY DO BRASIL LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

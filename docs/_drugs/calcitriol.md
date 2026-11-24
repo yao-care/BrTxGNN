@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "CALCITRIOL"
 predicted_indications: ["obsolete vitamin D deficiency", "renal tubular acidosis", "acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "hereditary hypophosphatemic rickets"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Calcitriol: nova indicação prevista, Deficiência de vitamina D obsoleta (obsolete vitamin D deficiency) (nível de evidência L5). No Brasil, registros na ANVISA: 11 (ativos: 2)"
 ---
 
@@ -66,7 +66,7 @@ O fármaco consta como comercializado no Brasil, com 2 registros válidos e 9 ca
 
 <!-- review:begin br-lic-20261106-calcitriol-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “O fármaco consta como comercializado no Brasil, com 2 registros válidos e 10 cancelados, segundo os dados regulatórios compilados. Os detalhes individuais dos registros não estão disponíveis nos dados deste relatório.” Removido: a afirmação contradizia os dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 11 registros para este medicamento, 2 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “O fármaco consta como comercializado no Brasil, com 2 registros válidos e 10 cancelados, segundo os dados regulatórios compilados. Os detalhes individuais dos registros não estão disponíveis nos dados deste relatório.” Removido: a afirmação contradizia os dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06; números atualizados em 2026-11-24). Nos dados (dados abertos de medicamentos da ANVISA) constam 11 registros para este medicamento, 2 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-calcitriol-1 -->
 
@@ -105,7 +105,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “Os detalhes individuais dos registros não estão disponíveis nos dados deste relatório” | Corrigido (revisado em 2026-11-12; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | Removido: “Os detalhes individuais dos registros não estão disponíveis nos dados deste relatório” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Registros cancelados: 10 → 9 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: calcitriol prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=45f78bbe-4bbc-404d-a061-ead3db50908e) |
 

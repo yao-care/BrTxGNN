@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Dantrolene"
 predicted_indications: ["moderate multiminicore disease with hand involvement", "King-Denborough syndrome", "congenital multicore myopathy with external ophthalmoplegia", "central core myopathy", "hypokalemic periodic paralysis", "thyrotoxic periodic paralysis", "myopathy, centronuclear"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Dantrolene: nova indicação prevista, Doença de multiminicore moderada com acometimento das mãos (moderate multiminicore disease with hand involvement) (nível de evidência L5). Indicação original: REL…"
 ---
 
@@ -70,9 +70,13 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica |
-|---------|------|------|
-| Registro 102980206 | DANTROLEN | Não registrada nos dados locais |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 102980206 | DANTROLEN | Ativo |
+
+<!-- licenses:end -->
 
 O registro listado é de medicamento de ingrediente único. A lista pode não refletir todos os produtos existentes.
 

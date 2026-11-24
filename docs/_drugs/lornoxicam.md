@@ -78,11 +78,15 @@ Vale ressaltar que a plausibilidade mecanística é um argumento de classe, e n�
 
 Há 3 registros de medicamentos com lornoxicam isolado: 1 válido e 2 cancelados.
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 109740216 | XEFO | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
 | 101740022 | LORNOX | AVERT LABORATÓRIOS LTDA | Cancelado |
 | 109740238 | LORNOX | BIOLAB SANUS FARMACÊUTICA LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

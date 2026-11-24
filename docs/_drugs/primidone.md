@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 550
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Primidone: nova indicação prevista, Neoplasia do nervo trigêmeo (trigeminal nerve neoplasm) (nível de evidência L5). Indicação original: Anticonvulsivantes"
 monitor_inn: "primidone"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
@@ -85,11 +85,15 @@ Para a indicação principal (neoplasia do nervo trigêmeo), atualmente não há
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 101180131 | PRIMID | APSEN FARMACEUTICA S/A | Ativo |
 | 101180659 | PRIMID | APSEN FARMACEUTICA S/A | Ativo |
 | 121100033 | EPIDONA | PFIZER BRASIL LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Citotoxicidade
 
@@ -107,7 +111,7 @@ Para advertências principais e demais informações de segurança, consulte a b
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão principal (neoplasia do nervo trigêmeo) é L5, sem ensaios, sem literatura e sem vínculo mecanístico plausível; a pontuação alta vem do modelo TxGNN (deep learning) e pode refletir semelhanças aprendidas entre doenças relacionadas, não evidência biológica. No Brasil, a primidona está comercializada, com 2 registros válidos de 2.
+- A previsão principal (neoplasia do nervo trigêmeo) é L5, sem ensaios, sem literatura e sem vínculo mecanístico plausível; a pontuação alta vem do modelo TxGNN (deep learning) e pode refletir semelhanças aprendidas entre doenças relacionadas, não evidência biológica. No Brasil, a primidona está comercializada, com 2 registros válidos de 3.
 - As previsões do espectro de epilepsias reflexas (por exemplo, audiogênicas e por micção) são biologicamente mais coerentes, mas têm evidência apenas indireta (L4) e são pouco relevantes, pois a primidona já é anticonvulsivante.
 
 **Para prosseguir, é necessário:**

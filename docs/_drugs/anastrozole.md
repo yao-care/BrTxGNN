@@ -66,6 +66,8 @@ Em resumo, a previsão deve ser tratada como hipótese computacional, sem respal
 
 Os dados compilados mostram situação de comercialização "Comercializado", com 18 registros listados como válidos. Os cinco principais registros:
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100330153 | ANASTROLIBBS | LIBBS FARMACÊUTICA LTDA | Ativo |
@@ -88,6 +90,8 @@ Os dados compilados mostram situação de comercialização "Comercializado", co
 | 169170006 | ANASTROZOL | BIOTEC BIOLOGICA INDÚSTRIA FARMACÊUTICA LTDA. | Ativo |
 | 120690039 | ANASTROL | LABORATÓRIOS LIBRA DO BRASIL LTDA | Cancelado |
 | 122140042 | TROZOLET | ADIUM S.A. | Cancelado |
+
+<!-- licenses:end -->
 
 ## Citotoxicidade
 

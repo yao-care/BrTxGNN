@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ertapenem"
 predicted_indications: ["bacterial arthritis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ertapenem: nova indicação prevista, artrite bacteriana (bacterial arthritis) (nível de evidência L5). Indicação original: ANTIBIOTICOS SISTEMICOS SIMPLES"
 ---
 
@@ -82,12 +82,16 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 174200004 | Ertapeném sódico | Não informada | Antibióticos sistêmicos simples |
-| Registro 155620061 | Ertapeném sódico | Não informada | Antibacterianos para uso sistêmico |
-| Registro 102010064 | Ertapeném sódico | Não informada | Antibióticos sistêmicos simples |
-| Registro 101710224 | Invanz | Não informada | Antibióticos sistêmicos simples |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 101710224 | INVANZ | Ativo |
+| 102010064 | ERTAPENÉM SÓDICO | Ativo |
+| 155620061 | ERTAPENÉM SÓDICO | Ativo |
+| 174200004 | ERTAPENÉM SÓDICO | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

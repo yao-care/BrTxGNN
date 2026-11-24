@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 604
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Tafamidis: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
 predicted_indications: []
 ---
@@ -74,11 +74,15 @@ O modelo TxGNN não apresentou nenhum candidato com pontuação igual ou superio
 
 ## Informações de Comercialização no Brasil
 
-| Registro | Produto | Forma farmacêutica | Situação |
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
-| 121100462 | VYNDAQEL |  | Ativo |
-| 102160242 | VYNDAQEL |  | Cancelado |
-| 121100489 | VYNKELLA |  | Ativo |
+| 121100462 | VYNDAQEL | PFIZER BRASIL LTDA | Ativo |
+| 121100489 | VYNKELLA | PFIZER BRASIL LTDA | Ativo |
+| 102160242 | VYNDAQEL | LABORATÓRIOS PFIZER LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

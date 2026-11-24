@@ -102,6 +102,8 @@ Não há literatura para alopecia. As publicações abaixo se referem a cefaleia
 
 Os 3 registros (3 de 3) estão **válidos**; o medicamento está comercializado.
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 110110006 | LACTATO DE MILRINONA | NEWCOM FARMACEUTICA LTDA. | Ativo |
@@ -111,6 +113,8 @@ Os 3 registros (3 de 3) estão **válidos**; o medicamento está comercializado.
 | 113001015 | PRIMACOR | SANOFI-AVENTIS FARMACÊUTICA LTDA | Cancelado |
 | 119240025 | PRIMACOR | SANOFI WINTHROP FARMACEUTICA LTDA | Cancelado |
 | 120330223 | PRIMACOR | SANOFI - SYNTHELABO FARMACÊUTICA LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

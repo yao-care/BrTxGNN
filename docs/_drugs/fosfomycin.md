@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "fosfomycin"
 predicted_indications: ["uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "epiglottitis", "urogenital tuberculosis", "laryngitis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "pyelitis"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Fosfomycin: nova indicação prevista, Doença inflamatória uterina (uterine inflammatory disease) (nível de evidência L5). Indicação original: Antibióticos sistêmicos simples"
 ---
 
@@ -97,13 +97,21 @@ A tabela mostra os 5 primeiros.
 
 <!-- review:end br-lic-20261106-fosfomycin-1 -->
 
-| Número de Registro | Nome Comercial | Indicação Aprovada |
-|---------|------|-----------|
-| Registro nº 100840139 | Monuril | Antibióticos sistêmicos simples |
-| Registro nº 101180640 | Fosfomicina trometamol | Antibióticos sistêmicos simples |
-| Registro nº 117170082 | Fosfomicina trometamol | Antibióticos sistêmicos simples |
-| Registro nº 117170084 | Fosfomicina trometamol | Antibióticos sistêmicos simples |
-| Registro nº 114620043 | Myfos | Antibióticos sistêmicos simples |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 100840139 | MONURIL | Ativo |
+| 101180618 | TRATURIL | Ativo |
+| 101180640 | FOSFOMICINA TROMETAMOL | Ativo |
+| 114620043 | MYFOS | Ativo |
+| 117170082 | FOSFOMICINA TROMETAMOL | Ativo |
+| 117170083 | FOSMORYL | Ativo |
+| 117170084 | FOSFOMICINA TROMETAMOL | Ativo |
+| 135640012 | VIZURIA | Ativo |
+| 156510124 | CYSTOREN | Cancelado |
+
+<!-- licenses:end -->
 
 ---
 

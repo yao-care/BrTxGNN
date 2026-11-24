@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 540
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Potassium Hydroxide: known uses and market status in Brazil; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,9 +72,13 @@ O modelo TxGNN não apresenta nenhum candidato com pontuação igual ou superior
 
 ## Informações de Comercialização no Brasil
 
-| Registro | Produto | Forma farmacêutica | Situação |
-|------|------|------|------|
-| 100850109 | ISOLEUCINA, LEUCINA, CLORIDRATO DE LISINA, levometionina, FE |  | Ativo |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 100850109 | NUTRIFLEX PLUS | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 360
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Idursulfase: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
 predicted_indications: []
 ---
@@ -72,10 +72,15 @@ O modelo TxGNN não apresentou nenhum candidato com pontuação igual ou superio
 
 ## Informações de Comercialização no Brasil
 
-| Registro | Produto | Forma farmacêutica | Situação |
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
-| 106390300 | ELAPRASE |  | Cancelado |
-| 169790001 | ELAPRASE |  | Cancelado |
+| 126270001 | ELAPRASE | TAKEDA FARMACEUTICA BRASIL LTDA | Ativo |
+| 106390300 | ELAPRASE | TAKEDA PHARMA LTDA. | Cancelado |
+| 169790001 | ELAPRASE | SHIRE FARMACÊUTICA BRASIL LTDA. | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

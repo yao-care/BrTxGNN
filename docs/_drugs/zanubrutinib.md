@@ -86,10 +86,14 @@ Observação: nenhuma publicação trata especificamente de leucemia mieloide. O
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 186420001 | BRUKINSA | BEONE MEDICINES BRASIL LTDA | Ativo |
 | 122140116 | BRUKINSA | ADIUM S.A. | Cancelado |
+
+<!-- licenses:end -->
 
 ## Citotoxicidade
 

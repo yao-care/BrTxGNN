@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Histidine"
 predicted_indications: ["gastroparesis (disease)", "sclerosing cholangitis"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Histidine: nova indicação prevista, gastroparesia (gastroparesis (disease)) (nível de evidência L5). Indicação original: PRODUTOS PARA DIETAS ESPECIAIS"
 ---
 
@@ -69,6 +69,8 @@ A pontuação alta (0,9955) é uma previsão computacional, sem respaldo clínic
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100410133 | AMINOSTERIL N-HEPA 8% | FRESENIUS KABI BRASIL LTDA | Ativo |
@@ -88,7 +90,7 @@ A pontuação alta (0,9955) é uma previsão computacional, sem respaldo clínic
 | 106830186 | NUMETA PED | BAXTER HOSPITALAR LTDA | Ativo |
 | 100410003 | AMINOSTERIL HEPA | FRESENIUS KABI BRASIL LTDA | Cancelado |
 | 100410004 | AMINOSTERIL NEFRO | FRESENIUS KABI BRASIL LTDA | Cancelado |
-| 100410020 | SOLUÇÃO DE AMINOÁCIDOS COM ELETRÓLITOS E SEM CARBOIDRATOS  A | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100410020 | SOLUÇÃO DE AMINOÁCIDOS COM ELETRÓLITOS E SEM CARBOIDRATOS AM | FRESENIUS KABI BRASIL LTDA | Cancelado |
 | 100410026 | AMINOSTERIL 10% | FRESENIUS KABI BRASIL LTDA | Cancelado |
 | 100410041 | AMINOSTERIL HEPA 8% + GLICOSE | FRESENIUS KABI BRASIL LTDA | Cancelado |
 | 100850001 | AMINOPLASMAL L 10 A | LABORATORIOS B. BRAUN S/A | Cancelado |
@@ -102,7 +104,9 @@ A pontuação alta (0,9955) é uma previsão computacional, sem respaldo clínic
 | 106830157 | OLICLINOMEL | BAXTER HOSPITALAR LTDA | Cancelado |
 | 106830176 | OLICLINOMEL N8-800 | BAXTER HOSPITALAR LTDA | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 32 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 A lista mostra 5 dos 17 registros.
 

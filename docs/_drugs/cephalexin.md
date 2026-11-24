@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 215
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Cephalexin: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
 predicted_indications: []
 ---
@@ -72,30 +72,44 @@ Os candidatos que o modelo TxGNN (pontuação ≥ 0,99) gerou para Cephalexin co
 
 ## Informações de Comercialização no Brasil
 
-| Registro | Produto | Forma farmacêutica | Situação |
-|------|------|------|------|
-| 100430742 | CEFALEXINA MONOIDRATADA |  | Ativo |
-| 155620022 | CEFALEXINA MONOIDRATADA |  | Ativo |
-| 155840056 | CEFALEXINA |  | Ativo |
-| 118190191 | CEFALEXINA MONOIDRATADA |  | Ativo |
-| 107150140 | CEFALEXINA |  | Ativo |
-| 118190245 | CEFALEXINA MONOIDRATADA |  | Cancelado |
-| 104970014 | CEFALEXINA MONOIDRATADA |  | Ativo |
-| 103700382 | CEFALEXINA |  | Ativo |
-| 105830417 | CEFALEXINA MONOIDRATADA |  | Ativo |
-| 103700647 | CEFALEXINA |  | Ativo |
-| 156260017 | CEFALEXINA MONOIDRATADA |  | Ativo |
-| 104971354 | CEFALEXINA MONOIDRATADA |  | Ativo |
-| 103700509 | CEFALEXINA |  | Ativo |
-| 155620052 | CEFALEXINA MONOIDRATADA |  | Ativo |
-| 103700770 | CEFALEXINA |  | Ativo |
-| 151670020 | CEFALEXINA |  | Ativo |
-| 155620023 | CEFALEXINA MONOIDRATADA |  | Ativo |
-| 151670008 | CEFALEXINA |  | Ativo |
-| 104971443 | CEFALEXINA MONOIDRATADA |  | Ativo |
-| 155620001 | CEFALEXINA MONOIDRATADA |  | Ativo |
+<!-- licenses:begin -->
 
-Os dados contêm apenas parte dos registros; a lista pode estar incompleta.
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100430742 | CEFALEXINA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 102350553 | CEFALEXINA | EMS S/A | Ativo |
+| 102351156 | CEFALEXINA | EMS S/A | Ativo |
+| 102351370 | CEFALEXINA | EMS S/A | Ativo |
+| 103700382 | CEFALEXINA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700509 | CEFALEXINA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700647 | LEXIN | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700770 | LEXIN | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 104970014 | UNI CEFALEXIN | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971354 | CEFALEXINA | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971355 | CEFALEXINA | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971443 | CEF | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971444 | CEF | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 105830417 | CEFALEXINA | GERMED FARMACEUTICA LTDA | Ativo |
+| 107150140 | CEFABEN | CAZI QUIMICA FARMACEUTICA INDUSTRIA E COMERCIO LTD | Ativo |
+| 110390025 | FURP-CEFALEXINA | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Ativo |
+| 118190058 | CEFAGEL | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 118190191 | CEFALEXINA | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 118190192 | CEFALEXINA MONOIDRATADA | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 123520063 | CEFALEXINA | RANBAXY FARMACÊUTICA LTDA | Ativo |
+| 143810113 | CEFALEXINA | CIMED INDUSTRIA S.A | Ativo |
+| 151670008 | CEFALEXINA | AUROBINDO PHARMA INDÚSTRIA FARMACÊUTICA LIMITADA | Ativo |
+| 151670020 | CEFALEXINA | AUROBINDO PHARMA INDÚSTRIA FARMACÊUTICA LIMITADA | Ativo |
+| 155620001 | KEFORAL | ANTIBIÓTICOS DO BRASIL LTDA | Ativo |
+| 155620022 | CEFALEXINA | ANTIBIÓTICOS DO BRASIL LTDA | Ativo |
+| 155620023 | CEFALEXINA | ANTIBIÓTICOS DO BRASIL LTDA | Ativo |
+| 155620052 | CEFALEXINA | ANTIBIÓTICOS DO BRASIL LTDA | Ativo |
+| 155840056 | CEFALEXINA | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 155840294 | CEFALEXINA | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 156260017 | KEFLEX | LABORATÓRIOS BAGÓ DO BRASIL S/A | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 108 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

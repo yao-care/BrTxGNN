@@ -86,6 +86,8 @@ As demais previsões (pós-bacteriano, otite externa, estenose uretral infeccios
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 102980483 | FLUTINOL | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
@@ -95,6 +97,8 @@ As demais previsões (pós-bacteriano, otite externa, estenose uretral infeccios
 | 101470167 | FLUMEX-N | ALLERGAN PRODUTOS FARMACÊUTICOS LTDA | Cancelado |
 | 115600136 | OFTRATE | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Cancelado |
 | 117250028 | FLUTINOL | LATINOFARMA INDUSTRIAS FARMACEUTICAS LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ---
 

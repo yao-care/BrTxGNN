@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB06285
 monitor_inn: "Teriparatide"
 predicted_indications: ["duodenal ulcer (disease)", "non-syndromic esophageal malformation", "duodenal obstruction", "duodenogastric reflux", "esophageal disease", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "succinyl-CoA:3-ketoacid CoA transferase deficiency", "amenorrhea (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Teriparatida: nova indicação prevista, Duodenal ulcer (disease) (nível de evidência L5). No Brasil, registros na ANVISA: 4 (ativos: 4)"
 ---
 
@@ -70,12 +70,16 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 101180680 | FORZY | Não informada | Não registrada |
-| Registro 112600079 | FORTEO | Não informada | Não registrada |
-| Registro 155370135 | SONDELBAY | Não informada | Não registrada |
-| Registro 191290004 | TERROSA | Não informada | Não registrada |
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 101180680 | FORZY | APSEN FARMACEUTICA S/A | Ativo |
+| 112600079 | FORTEO | ELI LILLY DO BRASIL LTDA | Ativo |
+| 155370135 | SONDELBAY | ACCORD FARMACÊUTICA LTDA | Ativo |
+| 191290004 | TERROSA | GEDEON RICHTER DO BRASIL IMPORTADORA, EXPORTADORA  | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

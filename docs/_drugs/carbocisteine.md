@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 194
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Carbocisteine: nova indicação prevista, Gota (Gout) (nível de evidência L5). Indicação original: Expectorantes"
 monitor_inn: "Carbocisteine"
 predicted_indications: ["gout"]
@@ -94,6 +94,8 @@ O medicamento é comercializado atualmente. Principais registros:
 
 <!-- review:end br-lic-20261106-carbocisteine-1 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 102350461 | CARBOCISTEÍNA | EMS S/A | Ativo |
@@ -127,7 +129,9 @@ O medicamento é comercializado atualmente. Principais registros:
 | 105830400 | CARBOCISTEÍNA | GERMED FARMACEUTICA LTDA | Cancelado |
 | 105830492 | CARBOCISTEÍNA | GERMED FARMACEUTICA LTDA | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 60 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

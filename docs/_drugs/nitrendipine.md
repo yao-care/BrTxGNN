@@ -85,6 +85,8 @@ Atualmente não há ensaios clínicos relacionados registrados para enxaqueca.
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100330045 | CALTREN | LIBBS FARMACÊUTICA LTDA | Ativo |
@@ -94,6 +96,8 @@ Atualmente não há ensaios clínicos relacionados registrados para enxaqueca.
 | 104290058 | BAYPRESS | BAYER S.A. | Cancelado |
 | 112130043 | NITRENCORD | BIOSINTÉTICA FARMACÊUTICA LTDA | Cancelado |
 | 112130302 | NITRENDIPINO | BIOSINTÉTICA FARMACÊUTICA LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ---
 

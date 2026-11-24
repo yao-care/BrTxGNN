@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Avibactam"
 predicted_indications: ["ureter tuberculosis", "urinary schistosomiasis", "polyclonal hyperviscosity syndrome", "hyperamylasemia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Avibactam: nova indicação prevista, Tuberculose do ureter (nível de evidência L5). Indicação original: Pielonefrite"
 ---
 
@@ -69,11 +69,15 @@ Qualquer uso clínico dependeria de associação com um beta-lactâmico. Como n�
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 121100443 | TORGENA | Não informada | Não informada |
-| Registro 121100486 | RYAMBIC | Não informada | Não informada |
-| Registro 121100485 (cancelado) | CEFTAZIDIMA PENTAIDRATADA + AVIBACTAM SÓDICO | Não informada | Não informada |
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 121100443 | TORGENA | PFIZER BRASIL LTDA | Ativo |
+| 121100486 | RYAMBIC | PFIZER BRASIL LTDA | Ativo |
+| 121100485 | CEFTAZIDIMA PENTAIDRATADA + AVIBACTAM SODICO | PFIZER BRASIL LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 Os três registros pertencem à Pfizer Brasil Ltda. O texto de indicação aprovada não consta nos registros compilados.
 

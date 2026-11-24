@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB06282
 monitor_inn: "Levocetirizine"
 predicted_indications: ["rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Levocetirizine Dihydrochloride: nova indicação prevista, Artrite reumatoide (rheumatoid arthritis) (nível de evidência L5). Indicação original: ANTIALERGICOS"
 ---
 
@@ -73,13 +73,34 @@ A pontuação do TxGNN é uma previsão computacional, sem apoio de ensaios clí
 
 Há pelo menos 20 registros válidos de produtos de ingrediente único, e a lista pode estar incompleta. Principais registros:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| 106890211 | ZALERV | Não informada | Antialérgicos |
-| 100431124 | Dicloridrato de levocetirizina | Não informada | Antialérgicos |
-| 100430996 | ZINA | Não informada | Antialérgicos |
-| 110130283 | VOCETY | Não informada | Antialérgicos |
-| 178170872 | RIZI | Não informada | Antialérgicos |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 100430996 | ZINA | Ativo |
+| 100431124 | DICLORIDRATO DE LEVOCETIRIZINA | Ativo |
+| 100431423 | MONTELUCASTE DE SÓDIO + DICLORIDRATO DE LEVOCETIRIZINA | Ativo |
+| 100431461 | ZINA ODT | Ativo |
+| 102351375 | DICLORIDRATO DE LEVOCETIRIZINA | Ativo |
+| 105350250 | DICLORIDRATO DE LEVOCETIRIZINA | Ativo |
+| 105831013 | DICLORIDRATO DE LEVOCETIRIZINA | Ativo |
+| 106890211 | ZALERV | Ativo |
+| 110130274 | LEVOLUKAST | Ativo |
+| 110130283 | VOCETY | Ativo |
+| 110130295 | DICLORIDRATO DE LEVOCETIRIZINA | Ativo |
+| 123520249 | DICLORIDRATO DE LEVOCETIRIZINA | Ativo |
+| 123610088 | ZYXEM | Ativo |
+| 141070648 | DICLORIDRATO DE LEVOCETIRIZINA | Ativo |
+| 146820059 | DICLORIDRATO DE LEVOCETIRIZINA | Ativo |
+| 155840564 | DICLORIDRATO DE LEVOCETIRIZINA | Ativo |
+| 155840700 | DICLORIDRATO DE LEVOCETIRIZINA | Ativo |
+| 167730672 | ZINLERG | Ativo |
+| 178170872 | RIZI | Ativo |
+| 178170993 | TORVEXA | Ativo |
+
+Os dados contêm apenas parte dos registros; a lista pode estar incompleta.
+
+<!-- licenses:end -->
 
 ---
 

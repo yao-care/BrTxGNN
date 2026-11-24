@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 306
 evidence_level: L2
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Everolimus: nova indicação prevista, Lipossarcoma (liposarcoma) (nível de evidência L2). Indicação original: Agente imunossupressor"
 monitor_inn: "Everolimus"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "embryonal extrahepatic bile duct rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "prostate embryonal rhabdomyosarcoma"]
@@ -38,7 +38,7 @@ Nível de evidência: **L2** | Indicações previstas: **8**
 
 ## Resumo em Uma Frase
 
-Everolimo é um inibidor de mTOR, registrado no Brasil como agente imunossupressor e antineoplásico (comercializado, com 11 registros válidos de 11).
+Everolimo é um inibidor de mTOR, registrado no Brasil como agente imunossupressor e antineoplásico (comercializado, com 11 registros válidos de 14).
 O modelo TxGNN prevê que pode ser eficaz para **lipossarcoma (liposarcoma)**,
 atualmente com **1 ensaio clínico** (Fase 2, em combinação com ribociclibe) e **4 publicações** apoiando esta direção, sendo apenas uma delas um estudo clínico direto.
 
@@ -81,6 +81,8 @@ A lógica biológica é coerente, mas a evidência clínica disponível é um ú
 
 Todos os 11 registros constam como válidos. Os cinco principais:
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100680959 | CERTICAN | NOVARTIS BIOCIENCIAS S.A | Ativo |
@@ -97,6 +99,8 @@ Todos os 11 registros constam como válidos. Os cinco principais:
 | 100330198 | OSYS | LIBBS FARMACÊUTICA LTDA | Cancelado |
 | 100470642 | ROMUFY | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 | 110390169 | EVEROLIMO | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Cancelado |
+
+<!-- licenses:end -->
 
 ## Citotoxicidade
 

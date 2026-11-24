@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 423
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Loperamide: nova indicação prevista, Conjuntivite contagiosa aguda (acute contagious conjunctivitis) (nível de evidência L5). Indicação original: Antidiarreicos simples sem ação antimicrobiana"
 monitor_inn: "Loperamide"
 predicted_indications: ["acute contagious conjunctivitis", "amebic dysentery", "conjunctivitis", "gastroduodenitis", "pseudomembranous conjunctivitis", "parasitic conjunctivitis", "serous conjunctivitis except viral", "chronic follicular conjunctivitis", "conjunctival folliculosis", "Angelucci syndrome"]
@@ -90,6 +90,8 @@ Para a indicação principal (conjuntivite contagiosa aguda) não há literatura
 
 Os 8 registros estão válidos (8 de 8); o medicamento está comercializado atualmente.
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100470318 | DIASEC | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
@@ -114,6 +116,8 @@ Os 8 registros estão válidos (8 de 8); o medicamento está comercializado atua
 | 155840464 | CLORIDRATO DE LOPERAMIDA | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Cancelado |
 | 172870119 | MAGNOSTASE | HYPERA S.A. | Cancelado |
 
+<!-- licenses:end -->
+
 Há outros 3 registros cancelados (nº 100470525, 105350156 e 117170026), não listados por limite de 5 registros.
 
 ---
@@ -133,7 +137,7 @@ Consulte a bula para as demais informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão não tem ensaios clínicos, literatura nem mecanismo plausível (nível L5), e a pontuação alta vem do modelo TxGNN (deep learning) e pode refletir semelhanças aprendidas entre doenças relacionadas, não evidência biológica. O medicamento está comercializado no Brasil, com 8 registros válidos de 8.
+- A previsão não tem ensaios clínicos, literatura nem mecanismo plausível (nível L5), e a pontuação alta vem do modelo TxGNN (deep learning) e pode refletir semelhanças aprendidas entre doenças relacionadas, não evidência biológica. O medicamento está comercializado no Brasil, com 8 registros válidos de 21.
 - Os únicos sinais da literatura nas previsões relacionadas indicam risco, não benefício.
 
 **Para prosseguir, seria necessário:**

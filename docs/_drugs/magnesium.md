@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 430
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Magnesium: usos conhecidos e situação de mercado no Brasil; atualmente sem novo candidato a indicação"
 predicted_indications: []
 ---
@@ -72,14 +72,18 @@ O modelo TxGNN não apresenta nenhum candidato com pontuação igual ou superior
 
 ## Informações de Comercialização no Brasil
 
-| Registro | Produto | Forma farmacêutica | Situação |
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
-| 128420009 | CEREBRUM COMPOSITUM |  | Cancelado |
-| 128420020 | SPASCUPREEL |  | Cancelado |
-| 161980002 | SPASCUPREEL |  | Ativo |
-| 102660070 | COMPLEXO HOMEOPÁTICO COLOCYNTHIS ALMEIDA PRADO 36 |  | Cancelado |
-| 128420025 | TESTIS COMPOSITUM |  | Cancelado |
-| 102660084 | COMPLEXO HOMEOPÁTICO DROSERA ALMEIDA PRADO 39 |  | Cancelado |
+| 161980002 | SPASCUPREEL | HEEL DO BRASIL BIOMÉDICA LTDA | Ativo |
+| 102660070 | COMPLEXO HOMEOPÁTICO COLOCYNTHIS ALMEIDA PRADO 36 | FARMÁCIA E LABORATÓRIO HOMEOPÁTICO ALMEIDA PRADO L | Cancelado |
+| 102660084 | COMPLEXO HOMEOPÁTICO DROSERA ALMEIDA PRADO 39 | FARMÁCIA E LABORATÓRIO HOMEOPÁTICO ALMEIDA PRADO L | Cancelado |
+| 128420009 | CEREBRUM COMPOSITUM | PROBIOS COMÉRCIO IMPORTAÇÃO E EXPORTAÇÃO LTDA | Cancelado |
+| 128420020 | SPASCUPREEL | PROBIOS COMÉRCIO IMPORTAÇÃO E EXPORTAÇÃO LTDA | Cancelado |
+| 128420025 | TESTIS COMPOSITUM | PROBIOS COMÉRCIO IMPORTAÇÃO E EXPORTAÇÃO LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

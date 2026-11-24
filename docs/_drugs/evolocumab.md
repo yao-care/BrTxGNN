@@ -92,9 +92,13 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 102440007 | REPATHA | AMGEN BIOTECNOLOGIA DO BRASIL LTDA. | Ativo |
+
+<!-- licenses:end -->
 
 ---
 

@@ -72,9 +72,13 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100290031 | RENITEC | ORGANON FARMACÊUTICA LTDA. | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

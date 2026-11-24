@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB01076
 monitor_inn: "Atorvastatin"
 predicted_indications: ["HIV infectious disease", "brain stem infarction", "cholesterol-ester transfer protein deficiency", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Atorvastatin Calcium: nova indicação prevista, Infecção por HIV (HIV infectious disease) (nível de evidência L1). Indicação original: ANTILIPEMICOS"
 ---
 
@@ -109,13 +109,34 @@ Observação: os ensaios de fase 1 sobre interações medicamentosas (como NCT00
 
 A lista abaixo pode ser parcial (pelo menos 20 registros identificados, dos quais 18 válidos e 2 cancelados).
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| 188300084 | Lipitor | Não informada | Antilipêmicos |
-| 188300088 | Citalor | Não informada | Antilipêmicos |
-| 143810273 | Vaztmed | Não informada | Antilipêmicos |
-| 118190474 | Torvilip | Não informada | Antilipêmicos |
-| 105830690 | Atorless | Não informada | Antilipêmicos |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 100431074 | VAST | Ativo |
+| 100431137 | ATORVASTATINA CÁLCICA | Ativo |
+| 100470543 | ATORVASTATINA CALCICA | Ativo |
+| 100681150 | ATORVASTATINA CÁLCICA | Ativo |
+| 103700562 | ATORVASTATINA CÁLCICA | Ativo |
+| 103720263 | ATEROMA | Ativo |
+| 105830690 | ATORLESS | Ativo |
+| 105830864 | ATORVASTATINA CÁLCICA | Ativo |
+| 110390231 | ATORVASTATINA CÁLCICA | Ativo |
+| 118190198 | ATORVASTATINA CÁLCICA | Ativo |
+| 118190468 | ATORVASTATINA CÁLCICA | Ativo |
+| 118190474 | TORVILIP | Ativo |
+| 143810273 | VAZTMED | Ativo |
+| 143810274 | ATORVASTATINA CÁLCICA | Ativo |
+| 154230308 | ATORVASTATINA CÁLCICA | Ativo |
+| 155840418 | ATORVASTATINA CÁLCICA | Ativo |
+| 188300084 | LIPITOR | Ativo |
+| 188300088 | CITALOR | Ativo |
+| 103700559 | LIPTHAL | Cancelado |
+| 167730488 | LIPIGRAN | Cancelado |
+
+Os dados contêm apenas parte dos registros; a lista pode estar incompleta.
+
+<!-- licenses:end -->
 
 ---
 

@@ -71,9 +71,13 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 183260480 | CABLIVI | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 382
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ketoconazole: nova indicação prevista, Acne (acne (disease)) (nível de evidência L4). Indicação original: Antimicótico"
 monitor_inn: "KETOCONAZOLE"
 predicted_indications: ["acne (disease)"]
@@ -92,6 +92,8 @@ O medicamento está comercializado. Os cinco primeiros são listados abaixo (a f
 
 <!-- review:end br-lic-20261106-ketoconazole-1 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100430797 | CETOCONAZOL + DIPROPIONATO DE BETAMETASONA | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -125,7 +127,9 @@ O medicamento está comercializado. Os cinco primeiros são listados abaixo (a f
 | 105710149 | CETOCONAZOL + DIPROPIONATO DE BETAMETASONA + SULFATO DE NEOM | BELFAR LTDA | Ativo |
 | 105710153 | BETACORTAZOL | BELFAR LTDA | Ativo |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 259 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

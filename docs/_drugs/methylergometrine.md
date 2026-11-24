@@ -81,10 +81,14 @@ Para a indicação principal (hipertricose), atualmente não há literatura rela
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 104970126 | ERGOMETRIN | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
 | 100680076 | METHERGIN | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

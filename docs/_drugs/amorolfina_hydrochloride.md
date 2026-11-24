@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB09056
 monitor_inn: "Amorolfine"
 predicted_indications: ["drug-induced osteoporosis", "disease of retroperitoneum", "disease of uterine broad ligament", "lumbar spinal stenosis", "celiac trunk compression syndrome", "abdominal ectopic pregnancy", "abdominal cystic lymphangioma", "lymph node palisaded myofibroblastoma", "sacrum chordoma", "urethral disease"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Amorolfina Hydrochloride: nova indicação prevista, Osteoporose induzida por fármacos (drug-induced osteoporosis) (nível de evidência L5). Indicação original: ANTIMICOTICOS PARA USO TOPICO"
 ---
 
@@ -65,12 +65,16 @@ Deve ser interpretada com cautela e não constitui evidência de eficácia.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 129160036 | Loceryl | Não informada | Antimicóticos para uso tópico |
-| Registro 106890203 | Unha Sana | Não informada | Antimicóticos para uso tópico |
-| Registro 105830763 | Onicoryl | Não informada | Antimicóticos para uso tópico |
-| Registro 102351285 | Dermoceryl | Não informada | Antimicóticos para uso tópico |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 102351285 | DERMOCERYL | Ativo |
+| 105830763 | ONICORYL | Ativo |
+| 106890203 | UNHA SANA | Ativo |
+| 129160036 | LOCERYL | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

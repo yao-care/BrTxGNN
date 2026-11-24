@@ -3,7 +3,7 @@ layout: default
 title: Iopamidol
 parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 371
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Iopamidol: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
 predicted_indications: []
 indication_count: 0
@@ -71,12 +71,15 @@ O modelo TxGNN não apresenta nenhum candidato com pontuação igual ou superior
 
 ## Informações de Comercialização no Brasil
 
-| Registro | Produto | Forma farmacêutica | Situação |
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
-| 180370001 | IOPAMIRON |  | Ativo |
-| 100200051 | IOPAMIRON |  | Cancelado |
-| 130450006 | IOPAMIDOL |  | Cancelado |
-| 106460173 | PAMIGRAF |  | Cancelado |
+| 180370001 | IOPAMIRON | BRACCO IMAGING DO BRASIL IMPORTAÇÃO E DISTRIBUIÇÃO | Ativo |
+| 100200051 | IOPAMIRON | UNIAO QUIMICA INTERNACIONAL LTDA | Cancelado |
+| 106460173 | PAMIGRAF | LABORATORIO QUIMICO FARMACEUTICO BERGAMO LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

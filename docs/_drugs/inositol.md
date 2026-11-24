@@ -92,6 +92,8 @@ Várias outras publicações recuperadas (estresse nitrosativo, FMO2, coesinopat
 
 Os registros não trazem texto de indicação aprovada nem forma farmacêutica, e são produtos de composição multivitamínica ou associada.
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 167730285 | NATUS GERIN | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
@@ -123,6 +125,8 @@ Os registros não trazem texto de indicação aprovada nem forma farmacêutica, 
 | 172870347 | GERIVIX | HYPERA S.A. | Cancelado |
 | 172870421 | METIOCOLIN B 12 | HYPERA S.A. | Cancelado |
 | 178170106 | METIOCOLIN B 12 | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

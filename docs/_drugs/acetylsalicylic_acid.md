@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "acetylsalicylic acid"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "trigeminal autonomic cephalalgia", "thrombophilia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Acetylsalicylic Acid: nova indicação prevista, atrofodermia vermiculada (atrophoderma vermiculata) (nível de evidência L5). Indicação original: ANALGESICOS"
 ---
 
@@ -72,13 +72,34 @@ Atualmente não há literatura relacionada.
 
 Os dados compilados indicam situação de comercialização "Comercializado". As informações de registro, no entanto, são parciais, e a lista abaixo pode estar incompleta.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| 112080008 | LQFEX - ÁCIDO ACETILSALICÍLICO | Não informada | Analgésicos |
-| 100431489 | SALIPREVI | Não informada | Antiagregante plaquetário |
-| 100431468 | ÁCIDO ACETILSALICÍLICO | Não informada | Antiagregante plaquetário |
-| 178170931 | AAS PROTECT | Não informada | Antiagregante plaquetário |
-| 170560022 | ASPIRINA PREVENT | Não informada | Antiagregante plaquetário |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 100431468 | ÁCIDO ACETILSALICÍLICO | Ativo |
+| 100431489 | SALIPREVI | Ativo |
+| 100490106 | CALMADOR | Ativo |
+| 100660047 | ALICURA | Ativo |
+| 102350508 | ACIDO ACETILSALICILICO | Ativo |
+| 103920090 | SEDALIVE | Ativo |
+| 104810137 | ÁCIDO ACETILSALICÍLICO | Ativo |
+| 105730718 | CLOPIN DUO | Ativo |
+| 112080008 | LQFEX - ÁCIDO ACETILSALICÍLICO | Ativo |
+| 135690647 | SOMALGIN CARDIO | Ativo |
+| 143810104 | ÁCIDO ACETILSALICÍLICO | Ativo |
+| 170560020 | ASPIRINA | Ativo |
+| 170560022 | ASPIRINA PREVENT | Ativo |
+| 170560105 | ASPIRINA C EFERVESCENTE | Ativo |
+| 178170004 | MELHORAL | Ativo |
+| 178170007 | DORIL | Ativo |
+| 178170093 | ENGOV | Ativo |
+| 178170123 | DORIL ENXAQUECA | Ativo |
+| 178170820 | MIGRAINEX | Ativo |
+| 178170931 | AAS PROTECT | Ativo |
+
+Os dados contêm apenas parte dos registros; a lista pode estar incompleta.
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

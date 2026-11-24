@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 643
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tobramycin: nova indicação prevista, Ceratite por Exposição (Exposure Keratitis) (nível de evidência L4). Indicação original: Antiinfecciosos tópicos para uso oftálmico"
 monitor_inn: "Tobramycin"
 predicted_indications: ["exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "epidemic keratoconjunctivitis"]
@@ -90,6 +90,8 @@ O medicamento é comercializado. Os cinco principais:
 
 <!-- review:end br-lic-20261111-tobramycin-2 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100580112 | BRAMITOB | CHIESI FARMACÊUTICA LTDA | Ativo |
@@ -123,7 +125,9 @@ O medicamento é comercializado. Os cinco principais:
 | 101470147 | TOBRAGAN | ALLERGAN PRODUTOS FARMACÊUTICOS LTDA | Cancelado |
 | 101470158 | TOBRAMICINA + DEXAMETASONA | ALLERGAN PRODUTOS FARMACÊUTICOS LTDA | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 60 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

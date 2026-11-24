@@ -3,7 +3,7 @@ layout: default
 title: Copper
 parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 242
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Copper: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
 predicted_indications: []
 indication_count: 0
@@ -70,14 +70,17 @@ O modelo TxGNN não apresenta nenhum candidato com pontuação igual ou superior
 
 ## Informações de Comercialização no Brasil
 
-| Registro | Produto | Forma farmacêutica | Situação |
-|------|------|------|------|
-| 101550091 | ÁCIDO ASCÓRBICO, ZINCO, ÓXIDO DE ZINCO, COBRE, ÓXIDO CÚPRICO |  | Ativo |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 101550091 | VITERGAN ZINCO | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 
 Consulte a bula para informações de segurança.
-
 
 ## Aviso de isenção de responsabilidade
 

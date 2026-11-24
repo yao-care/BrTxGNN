@@ -63,10 +63,14 @@ Outras previsões do modelo seguem o mesmo padrão: ocupam as posições 2 a 10 
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 116180301 | ULTOMIRIS | ASTRAZENECA DO BRASIL LTDA | Ativo |
 | 198110004 | ULTOMIRIS | ALEXION SERVICOS E FARMACEUTICA DO BRASIL LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

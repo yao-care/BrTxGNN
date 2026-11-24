@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 248
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cysteine: nova indicação prevista, Síndrome do olho seco (Dry Eye Syndrome) (nível de evidência L4). Indicação original: Nutrientes parenterais"
 monitor_inn: "Cysteine"
 predicted_indications: ["dry eye syndrome", "closed-angle glaucoma", "nasal cavity disease", "acute laryngopharyngitis", "pharyngitis", "exercise-induced malignant hyperthermia", "angle-closure glaucoma"]
@@ -82,29 +82,15 @@ Os demais artigos recuperados tratam de síndrome de Sjögren, biomarcadores ou 
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 106830098 | PRIMENE | Não informada | Nutrientes parenterais |
-| Registro 106830186 | NUMETA PED | Não informada | Reposição hidroeletrolítica e alimentação parenteral |
-| Registro 106830185 | NUMETA NEO | Não informada | Reposição hidroeletrolítica e alimentação parenteral |
+<!-- licenses:begin -->
 
-<!-- review:begin br-row-20261112-cysteine-1 -->
+| Registro | Produto | Situação |
+|------|------|------|
+| 106830098 | PRIMENE | Ativo |
+| 106830185 | NUMETA NEO | Ativo |
+| 106830186 | NUMETA PED | Ativo |
 
-> **Correção de verificação (2026-11-12)**: Texto original: “Registro 106830098 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 106830098 (PRIMENE) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-row-20261112-cysteine-1 -->
-
-<!-- review:begin br-row-20261112-cysteine-2 -->
-
-> **Correção de verificação (2026-11-12)**: Texto original: “Registro 106830186 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 106830186 (NUMETA PED) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-row-20261112-cysteine-2 -->
-
-<!-- review:begin br-row-20261112-cysteine-3 -->
-
-> **Correção de verificação (2026-11-12)**: Texto original: “Registro 106830185 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 106830185 (NUMETA NEO) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-row-20261112-cysteine-3 -->
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 
@@ -136,9 +122,9 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-12 | Tabela: registro 106830098 (PRIMENE) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Tabela: registro 106830186 (NUMETA PED) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Tabela: registro 106830185 (NUMETA NEO) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 106830098 (PRIMENE) está ativo, não cancelado | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 106830186 (NUMETA PED) está ativo, não cancelado | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 106830185 (NUMETA NEO) está ativo, não cancelado | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Elcys (cysteine hydrochloride) prescribing information, Exela Pharma Sciences, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=52317b38-b2e6-4a1c-b5b0-43cada0d205e) |
 
 <!-- review:end log -->

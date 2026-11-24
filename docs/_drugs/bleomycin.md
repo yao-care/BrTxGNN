@@ -82,6 +82,8 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100431498 | SULFATO DE BLEOMICINA | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -95,6 +97,8 @@ Atualmente não há ensaios clínicos relacionados registrados.
 | 122140020 | TECNOMICINA | ADIUM S.A. | Cancelado |
 | 123610062 | CINALEO | UCB BIOPHARMA LTDA. | Cancelado |
 | 155730006 | TEVABLEO | TEVA FARMACÊUTICA LTDA. | Cancelado |
+
+<!-- licenses:end -->
 
 ## Citotoxicidade
 

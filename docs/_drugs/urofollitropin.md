@@ -64,12 +64,16 @@ Outras indicações previstas, como enxaqueca com aura de tronco encefálico, s�
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 187590013 | FOSTIMON-M | BESINS HEALTHCARE BRASIL COMERCIAL E DISTRIBUIDORA | Ativo |
 | 123610009 | FOSTIMON | UCB BIOPHARMA LTDA. | Cancelado |
 | 123610080 | FOSTIMON-M | UCB BIOPHARMA LTDA. | Cancelado |
 | 128760016 | BRAVELLE | LABORATÓRIOS FERRING LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

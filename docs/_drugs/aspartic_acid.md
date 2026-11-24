@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 82
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Aspartic Acid: nova indicação prevista, Acidose Tubular Renal (Renal Tubular Acidosis) (nível de evidência L5). Indicação original: Nutrientes parenterais"
 monitor_inn: "ASPARTIC ACID"
 predicted_indications: ["renal tubular acidosis"]
@@ -81,13 +81,21 @@ Nenhuma publicação testa o ácido aspártico como tratamento da acidose tubula
 
 Os 9 registros estão válidos (9 de 9); o medicamento está comercializado.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 100850145 | AMIXAL | Não informada | Nutrientes parenterais |
-| Registro 100850109 | NUTRIFLEX PLUS | Não informada | Nutrientes parenterais |
-| Registro 100850246 | NUTRIFLEX LIPID | Não informada | Nutrientes parenterais |
-| Registro 100850124 | NUTRIFLEX LIPID | Não informada | Nutrientes parenterais |
-| Registro 100850247 | NUTRIFLEX | Não informada | Nutrientes parenterais |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 100419938 | KABIVEN | Ativo |
+| 100850109 | NUTRIFLEX PLUS | Ativo |
+| 100850124 | NUTRIFLEX LIPID | Ativo |
+| 100850145 | AMIXAL | Ativo |
+| 100850246 | NUTRIFLEX LIPID | Ativo |
+| 100850247 | NUTRIFLEX | Ativo |
+| 106830181 | OLIMEL | Ativo |
+| 106830185 | NUMETA NEO | Ativo |
+| 106830186 | NUMETA PED | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

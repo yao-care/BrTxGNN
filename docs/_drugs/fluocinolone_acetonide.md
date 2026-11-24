@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 322
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 monitor_inn: "fluocinolone acetonide"
 predicted_indications: ["lichen planus pemphigoides"]
 description: "Fluocinolone Acetonide: nova indicação prevista, pênfigoide líquen plano (lichen planus pemphigoides) (nível de evidência L5). Indicação original: DESMELANIZANTES"
@@ -66,13 +66,21 @@ Porém, não há ensaios nem literatura nos dados compilados para a fluocinolona
 
 Os dados compilados indicam 9 registros válidos, e a situação de mercado é "Comercializado".
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 167730078 | SUAVICID | Não informada | Desmelanizantes |
-| Registro 105830630 | HORMOSKIN | Não informada | Desmelanizantes |
-| Registro 101910295 | VITACID PLUS | Não informada | Desmelanizantes |
-| Registro 102350930 | Hidroquinona + Tretinoína + Fluocinolona acetonida | Não informada | Desmelanizantes |
-| Registro 154230164 | Fluocinolona acetonida + sulfato de polimixina B + sulfato de neomicina | Não informada | Glicocorticoides tópicos - associação medicamentosa |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 101910295 | VITACID PLUS | Ativo |
+| 102350930 | HIDROQUINONA+ TRETINOINA + FLUOCINOLONA ACETONIDA | Ativo |
+| 102351257 | OTOMIXYN | Ativo |
+| 103850016 | ELOTIN | Ativo |
+| 105830630 | HORMOSKIN | Ativo |
+| 154230164 | FLUOCINOLONA ACETONIDA + SULFATO DE POLIMIXINA B + SULFATO D | Ativo |
+| 154230165 | OTOSYLASE | Ativo |
+| 167730007 | FLUOCINOLONA ACETONIDA + SULFATO DE POLIMIXINA B + SULFATO D | Ativo |
+| 167730078 | SUAVICID | Ativo |
+
+<!-- licenses:end -->
 
 Há mais 4 registros além dos cinco listados acima.
 

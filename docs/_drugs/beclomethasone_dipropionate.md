@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 110
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Beclomethasone Dipropionate: nova indicação prevista, Eczema atópico (atopic eczema) (nível de evidência L3). Indicação original: Antiasmáticos"
 monitor_inn: "BECLOMETHASONE DIPROPIONATE"
 predicted_indications: ["atopic eczema"]
@@ -90,13 +90,25 @@ Dos 13 registros encontrados, 12 estão válidos; o medicamento é comercializad
 
 <!-- review:end br-lic-20261113-beclomethasone_dipropionate-1 -->
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 110130294 | Dipropionato de Beclometasona | – | Antiasmáticos |
-| Registro nº 100580104 | Alerfin | – | Corticosteroides tópicos |
-| Registro nº 100580009 | Clenil | – | Antiasmáticos |
-| Registro nº 101070188 | Beclosol | – | Glicocorticoides tópicos simples, exceto uso oftálmico |
-| Registro nº 100580120 | Trimbow | – | Outros produtos para o aparelho respiratório |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 100580009 | CLENIL | Ativo |
+| 100580077 | CLENIL COMPOSITUM A | Ativo |
+| 100580104 | ALERFIN | Ativo |
+| 100580111 | CLENIL HFA | Ativo |
+| 100580114 | FOSTAIR | Ativo |
+| 100580116 | CLENIL COMPOSITUM HFA | Ativo |
+| 100580119 | DIPROPIONATO DE BECLOMETASONA | Ativo |
+| 100580120 | TRIMBOW | Ativo |
+| 101070188 | BECLOSOL | Ativo |
+| 110130277 | DIPROPIONATO DE BECLOMETASONA | Ativo |
+| 110130293 | AILUK | Ativo |
+| 110130294 | DIPROPIONATO DE BECLOMETASONA | Ativo |
+| 110130296 | AILUK | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

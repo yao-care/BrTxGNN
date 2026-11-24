@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 600
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Sumatriptan: usos conhecidos e situação de mercado no Brasil; atualmente nenhum novo candidato a indicação"
 predicted_indications: []
 ---
@@ -72,13 +72,24 @@ Os candidatos que o modelo TxGNN gerou para o Sumatriptan (pontuação ≥ 0,99)
 
 ## Informações de Comercialização no Brasil
 
-| Registro | Produto | Forma farmacêutica | Situação |
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
-| 100330163 | SUCCINATO DE SUMATRIPTANA |  | Ativo |
-| 100330029 | SUCCINATO DE SUMATRIPTANA |  | Ativo |
-| 109740339 | SUCCINATO DE SUMATRIPTANA |  | Ativo |
-| 109740348 | SUCCINATO DE SUMATRIPTANA |  | Ativo |
-| 100330176 | SUCCINATO DE SUMATRIPTANA, NAPROXENO SÓDICO |  | Ativo |
+| 100330029 | SUMAX | LIBBS FARMACÊUTICA LTDA | Ativo |
+| 100330163 | SUMAX | LIBBS FARMACÊUTICA LTDA | Ativo |
+| 100330176 | SUMAXPRO | LIBBS FARMACÊUTICA LTDA | Ativo |
+| 109740339 | SUCCINATO DE SUMATRIPTANA | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 109740348 | SUTRIPTAN | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 100250051 | IMIGRAN | GLAXO WELLCOME S/A | Cancelado |
+| 100680949 | SUCCINATO DE SUMATRIPTANO | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 101070194 | IMIGRAN | GLAXOSMITHKLINE BRASIL LTDA | Cancelado |
+| 101070308 | SUCCINATO DE SUMATRIPTANA | GLAXOSMITHKLINE BRASIL LTDA | Cancelado |
+| 104920160 | SUCCINATO DE SUMATRIPTANA | BIOLAB FARMA GENERICOS LTDA | Cancelado |
+| 104920170 | SUTRIPTAN | BIOLAB FARMA GENERICOS LTDA | Cancelado |
+| 104920219 | SUTRIPTAN | BIOLAB FARMA GENERICOS LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

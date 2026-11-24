@@ -101,10 +101,14 @@ A coerência mecanística é boa, mas os resultados clínicos são mistos. Um re
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 112363431 | ZAVESCA | JANSSEN-CILAG FARMACÊUTICA LTDA | Ativo |
 | 155380002 | ZAVESCA | ACTELION PHARMACEUTICALS DO BRASIL LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ---
 

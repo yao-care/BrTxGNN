@@ -85,10 +85,14 @@ A indicação original registrada no Brasil é apenas "antineoplásico", sem esp
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 122140133 | YONDELIS | ADIUM S.A. | Ativo |
 | 112363395 | YONDELIS | JANSSEN-CILAG FARMACÊUTICA LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Citotoxicidade
 

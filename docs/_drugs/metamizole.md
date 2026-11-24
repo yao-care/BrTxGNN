@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 446
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Metamizole: nova indicação prevista, Artrite Reumatoide (Rheumatoid Arthritis) (nível de evidência L5). Indicação original: Analgésicos não narcóticos"
 monitor_inn: "Metamizole"
 predicted_indications: ["rheumatoid arthritis", "migraine disorder", "exostosis", "migraine with brainstem aura", "gout", "antithrombin deficiency type 2", "brachydactyly-syndactyly syndrome", "tendinitis", "factor 5 excess with spontaneous thrombosis"]
@@ -90,6 +90,8 @@ Dos 496 registros, 171 constam como válidos. Abaixo, os 5 principais:
 
 <!-- review:end br-lic-20261112-metamizole-1 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 101860012 | SANTIDOR | SANTISA LABORATÓRIO FARMACÊUTICO S/A | Ativo |
@@ -123,7 +125,9 @@ Dos 496 registros, 171 constam como válidos. Abaixo, os 5 principais:
 | 104810133 | RELAXMED | 1FARMA INDUSTRIA FARMACEUTICA LTDA | Ativo |
 | 104810162 | DIPIRONA MONOIDRATADA | 1FARMA INDUSTRIA FARMACEUTICA LTDA | Ativo |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 496 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

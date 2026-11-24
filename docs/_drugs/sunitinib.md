@@ -90,6 +90,8 @@ O medicamento é comercializado.
 
 <!-- review:end br-lic-20261106-sunitinib-1 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 121100466 | SUTENT | PFIZER BRASIL LTDA | Ativo |
@@ -100,6 +102,8 @@ O medicamento é comercializado.
 | 182610019 | MALATO DE SUNITINIBE | NATCOFARMA DO BRASIL LTDA | Ativo |
 | 182610022 | XUNIB | NATCOFARMA DO BRASIL LTDA | Ativo |
 | 102160205 | SUTENT | LABORATÓRIOS PFIZER LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Citotoxicidade
 

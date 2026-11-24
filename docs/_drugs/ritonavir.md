@@ -94,6 +94,8 @@ Os registros não trazem texto de indicação aprovada nem forma farmacêutica n
 
 <!-- review:end br-lic-20261111-ritonavir-1 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 101830153 | RITONAVIR | LABORATORIO FARMACEUTICO DO ESTADO DE PERNAMBUCO G | Ativo |
@@ -111,6 +113,8 @@ Os registros não trazem texto de indicação aprovada nem forma farmacêutica n
 | 198600009 | NORVIR | ABBVIE FARMACÊUTICA LTDA. | Cancelado |
 | 198600012 | VIEKIRA | ABBVIE FARMACÊUTICA LTDA. | Cancelado |
 | 198600015 | NORVIR | ABBVIE FARMACÊUTICA LTDA. | Cancelado |
+
+<!-- licenses:end -->
 
 Registros válidos de produtos em associação (apenas para referência): Kaletra (198600010), Lopinavir + Ritonavir (102980436) e Paxlovid (121100496).
 

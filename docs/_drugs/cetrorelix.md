@@ -83,10 +83,14 @@ As demais previsões entre as 10 primeiras também carecem de evidências (todas
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100890369 | CETROTIDE | MERCK S/A | Ativo |
 | 111240220 | CETROTIDE | SERONO PRODUTOS FARMACÊUTICOS LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ---
 

@@ -82,6 +82,8 @@ Os artigos abaixo são indiretos: nenhum estuda a epilepsia visual em si.
 
 Os registros abaixo não trazem texto de indicação aprovada nem forma farmacêutica. Vários nomes comerciais indicam produtos à base de diazepam, o que deve ser verificado na fonte regulatória.
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 105530045 | NOCTAL | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Ativo |
@@ -91,6 +93,8 @@ Os registros abaixo não trazem texto de indicação aprovada nem forma farmacê
 | 110390007 | FURP-DIAZEPAM | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Cancelado |
 | 112060008 | NUPLAM-DIAZEPAM | UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE | Cancelado |
 | 113430086 | DIAZEPAMIL | HIPOLABOR FARMACEUTICA LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 Há ainda 2 registros cancelados (Diazepamil e Diazepam Composto Injetável), totalizando 7.
 

@@ -73,6 +73,8 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 101180021 | OTO - XILODASE | APSEN FARMACEUTICA S/A | Ativo |
@@ -82,6 +84,8 @@ Atualmente não há ensaios clínicos relacionados registrados.
 | 101180037 | XILODASE | APSEN FARMACEUTICA S/A | Cancelado |
 | 102350306 | VASOLIS | EMS S/A | Cancelado |
 | 103720020 | LANABIOTIC | SUPERA FARMA LABORATÓRIOS S.A | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

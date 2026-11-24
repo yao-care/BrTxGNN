@@ -92,9 +92,13 @@ Literatura das previsões relacionadas (schwannoma e tumor rabdoide):
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 116180285 | KOSELUGO | ASTRAZENECA DO BRASIL LTDA | Ativo |
+
+<!-- licenses:end -->
 
 ## Citotoxicidade
 

@@ -69,12 +69,16 @@ A pontuação alta (0,9958) reflete apenas a previsão computacional do modelo, 
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 137640160 | FLORINEFE | ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
 | 100840102 | PANOTIL | ZAMBON LABORATÓRIOS FARMACÊUTICOS LTDA. | Cancelado |
 | 100840112 | RINOFLUIMUCIL | ZAMBON LABORATÓRIOS FARMACÊUTICOS LTDA. | Cancelado |
 | 101800022 | FLORINEFE | BRISTOL-MYERS SQUIBB FARMACÊUTICA LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ---
 

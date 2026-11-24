@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 538
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Potassium Bicarbonate: nova indicação prevista, Gastroduodenite (Gastroduodenitis) (nível de evidência L5). Indicação original: Antiácido"
 monitor_inn: "POTASSIUM BICARBONATE"
 predicted_indications: ["gastroduodenitis"]
@@ -64,15 +64,13 @@ Há ressalvas importantes: a pontuação elevada do TxGNN (0,9972) é apenas uma
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 173900005 | LUFTAGASTRO | Não informada | Antiácido |
+<!-- licenses:begin -->
 
-<!-- review:begin br-row-20261112-potassium_bicarbonate-1 -->
+| Registro | Produto | Situação |
+|------|------|------|
+| 173900005 | LUFTAGASTRO | Ativo |
 
-> **Correção de verificação (2026-11-12)**: Texto original: “Registro nº 173900005 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 173900005 (LUFTAGASTRO) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-row-20261112-potassium_bicarbonate-1 -->
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 
@@ -114,7 +112,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “e o único registro brasileiro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Tabela: registro 173900005 (LUFTAGASTRO) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 173900005 (LUFTAGASTRO) está ativo, não cancelado | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: sodium bicarbonate prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b50c858a-00c8-4cb2-ad73-8797f19e656d) |
 
 <!-- review:end log -->

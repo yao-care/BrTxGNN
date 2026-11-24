@@ -89,10 +89,14 @@ Nenhum desses trabalhos demonstra eficácia do posaconazol contra a pneumocistos
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 101710196 | NOXAFIL | MERCK SHARP & DOHME FARMACEUTICA LTDA. | Ativo |
 | 166140011 | NOXAFIL | SCHERING-PLOUGH PRODUTOS FARMACÊUTICOS LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ---
 

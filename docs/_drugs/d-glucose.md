@@ -5,7 +5,7 @@ layout: default
 title: D-Glucose
 parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 249
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "D-Glucose: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
 monitor_inn: "D-glucose"
 predicted_indications: []
@@ -56,6 +56,8 @@ Principais registros (30 de 212):
 
 <!-- review:end br-lic-20261112-d-glucose-1 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100410011 | SOLUÇÃO GLICOFISIOLÓGICA | FRESENIUS KABI BRASIL LTDA | Ativo |
@@ -85,11 +87,13 @@ Principais registros (30 de 212):
 | 103460005 | GLICOSE BEKER | BEKER PRODUTOS FÁRMACO HOSPITALARES LTDA | Ativo |
 | 103460013 | SOLUÇÃO GLICOFISIOLÓGICA BEKER | BEKER PRODUTOS FÁRMACO HOSPITALARES LTDA | Ativo |
 | 103460014 | SOLUÇÃO PARA DIÁLISE PERITONIAL COM GLICOSE | BEKER PRODUTOS FÁRMACO HOSPITALARES LTDA | Ativo |
-| 103870016 | GLICOSE  HYPOFARMA | HYPOFARMA - INSTITUTO DE HYPODERMIA E FARMÁCIA LTD | Ativo |
+| 103870016 | GLICOSE HYPOFARMA | HYPOFARMA - INSTITUTO DE HYPODERMIA E FARMÁCIA LTD | Ativo |
 | 104910019 | JP GLICOFISIOLÓGICO | JP INDUSTRIA FARMACEUTICA S/A | Ativo |
 | 104910020 | JP GLICOSE | JP INDUSTRIA FARMACEUTICA S/A | Ativo |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 212 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

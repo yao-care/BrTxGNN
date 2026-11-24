@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 247
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Cyproterone Acetate: nova indicação prevista, Enxaqueca (migraine disorder) (nível de evidência L4). Indicação original: Progestágenos simples"
 monitor_inn: "Cyproterone acetate"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Prinzmetal angina", "antithrombin deficiency type 2", "heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "amenorrhea (disease)", "breast fibrocystic disease", "thrombophilia"]
@@ -77,13 +77,34 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 O medicamento está comercializado, com 20 registros válidos; abaixo, os 5 principais.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 156260034 | Androcur | — | Progestágenos simples |
-| Registro nº 106460174 | Acetato de Ciproterona | — | Progestágenos simples |
-| Registro nº 115600197 | Acetato de Ciproterona + Etinilestradiol | — | Andrógenos simples |
-| Registro nº 119130001 | Acetato de Ciproterona + Etinilestradiol | — | Anticoncepcionais |
-| Registro nº 105730768 | Dunia 35 | — | Estrógenos associados a outros fármacos, exceto andrógenos |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 100430598 | SELENE | Ativo |
+| 100431308 | ETINILESTRADIOL + ACETATO DE CIPROTERONA | Ativo |
+| 100890247 | DICLIN | Ativo |
+| 102351235 | JAQUE | Ativo |
+| 102351400 | ACETATO DE CIPROTERONA+ETINILESTRADIOL | Ativo |
+| 104971469 | TESS | Ativo |
+| 104971559 | ACETATO DE CIPROTERONA + ETINILESTRADIOL | Ativo |
+| 105730768 | DUNIA 35 | Ativo |
+| 106460174 | ACETATO DE CIPROTERONA | Ativo |
+| 115600197 | ACETATO DE CIPROTERONA + ETINILESTRADIOL | Ativo |
+| 115600222 | FERANE 35 | Ativo |
+| 119130001 | ACETATO DE CIPROTERONA + ETINILESTRADIOL | Ativo |
+| 119130003 | LEILA | Ativo |
+| 135690158 | ARTEMIDIS 35 | Ativo |
+| 156260034 | ANDROCUR | Ativo |
+| 156510120 | DUELLE | Ativo |
+| 167730444 | REPOPIL 35 | Ativo |
+| 167730675 | ACETATO DE CIPROTERONA + ETINILESTRADIOL | Ativo |
+| 170560072 | DIANE 35 | Ativo |
+| 178170129 | LYDIAN | Ativo |
+
+Os dados contêm apenas parte dos registros; a lista pode estar incompleta.
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

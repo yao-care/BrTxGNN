@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 658
 evidence_level: L3
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Tryptophan: nova indicação prevista, Síndrome das Pernas Inquietas (Restless Legs Syndrome) (nível de evidência L3). Indicação original: Produtos para dietas especiais"
 monitor_inn: "Tryptophan"
 predicted_indications: ["restless legs syndrome", "primary hereditary glaucoma", "open-angle glaucoma", "insomnia (disease)", "methemoglobinemia", "methemoglobinemia, alpha type", "methemoglobin reductase deficiency", "congenital prothrombin deficiency"]
@@ -81,13 +81,29 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Dos 17 registros encontrados, os 17 estão válidos. Principais registros:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 100419923 | Ketosteril | Não informada | Produtos para dietas especiais |
-| Registro 100410131 | Nephrotect | Não informada | Nutrientes parenterais |
-| Registro 100410159 | Aminoven 10% Infant | Não informada | Nutrientes parenterais |
-| Registro 106830181 | Olimel | Não informada | Reposição hidroeletrolítica e alimentação parenteral |
-| Registro 106830186 | Numeta Ped | Não informada | Reposição hidroeletrolítica e alimentação parenteral |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 100410131 | NEPHROTECT | Ativo |
+| 100410133 | AMINOSTERIL N-HEPA 8% | Ativo |
+| 100410149 | SMOFKABIVEN LIVRE DE ELETRÓLITOS | Ativo |
+| 100410150 | SMOFKABIVEN | Ativo |
+| 100410159 | AMINOVEN 10% INFANT | Ativo |
+| 100419923 | KETOSTERIL | Ativo |
+| 100419935 | AMINOVEN | Ativo |
+| 100419938 | KABIVEN | Ativo |
+| 100850109 | NUTRIFLEX PLUS | Ativo |
+| 100850124 | NUTRIFLEX LIPID | Ativo |
+| 100850145 | AMIXAL | Ativo |
+| 100850246 | NUTRIFLEX LIPID | Ativo |
+| 100850247 | NUTRIFLEX | Ativo |
+| 106830098 | PRIMENE | Ativo |
+| 106830181 | OLIMEL | Ativo |
+| 106830185 | NUMETA NEO | Ativo |
+| 106830186 | NUMETA PED | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

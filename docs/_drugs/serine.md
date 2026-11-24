@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 584
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Serine: nova indicação prevista, Miopatia visceral familiar (familial visceral myopathy) (nível de evidência L5). Indicação original: Nutrientes parenterais"
 monitor_inn: "Serine"
 predicted_indications: ["familial visceral myopathy", "intestinal obstruction", "myopathic intestinal pseudoobstruction", "unclassified intestinal pseudoobstruction", "neuronal intestinal dysplasia, type B", "intestinal pseudoobstruction, neuronal, chronic idiopathic, X-linked", "exercise-induced malignant hyperthermia", "aqueous misdirection"]
@@ -92,6 +92,8 @@ Principais registros:
 
 <!-- review:end br-lic-20261106-serine-1 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100410133 | AMINOSTERIL N-HEPA 8% | FRESENIUS KABI BRASIL LTDA | Ativo |
@@ -121,7 +123,9 @@ Principais registros:
 | 106830157 | OLICLINOMEL | BAXTER HOSPITALAR LTDA | Cancelado |
 | 106830176 | OLICLINOMEL N8-800 | BAXTER HOSPITALAR LTDA | Cancelado |
 | 113440016 | SOLUCAO DE AMINOACIDOS 4,08% | ENDOMED LABORATORIO FARMACEUTICO LTDA | Cancelado |
-| 113440017 | SOLUCAO DE AMINOACIDOS 10% COM CARBOIDRATOS E  ELETROLITOS | ENDOMED LABORATORIO FARMACEUTICO LTDA | Cancelado |
+| 113440017 | SOLUCAO DE AMINOACIDOS 10% COM CARBOIDRATOS E ELETROLITOS | ENDOMED LABORATORIO FARMACEUTICO LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ---
 

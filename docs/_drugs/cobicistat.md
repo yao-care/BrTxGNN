@@ -74,10 +74,14 @@ Não foram fornecidos dados veterinários, ensaios clínicos ou literatura. Alé
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 112363434 | SYMTUZA® | JANSSEN-CILAG FARMACÊUTICA LTDA | Ativo |
 | 109290009 | GENVOYA | GILEAD SCIENCES FARMACEUTICA DO BRASIL LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ---
 

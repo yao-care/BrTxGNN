@@ -106,9 +106,13 @@ Ressalva importante: não existe ensaio de Fase 3, e os dados de Fase 1/2 dispon
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 139000002 | BELEODAQ | PINT PHARMA PRODUTOS MEDICO-HOSPITALARES E FARMACE | Ativo |
+
+<!-- licenses:end -->
 
 ---
 

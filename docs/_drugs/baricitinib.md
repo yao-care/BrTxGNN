@@ -64,9 +64,13 @@ A pontuação elevada (0,9994) é apenas uma previsão computacional e pode refl
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 112600198 | OLUMIANT | ELI LILLY DO BRASIL LTDA | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

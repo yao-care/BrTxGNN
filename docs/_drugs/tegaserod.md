@@ -74,10 +74,14 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100680185 | ZELMAC | NOVARTIS BIOCIENCIAS S.A | Cancelado |
 | 109740242 | ZELMAC | BIOLAB SANUS FARMACÊUTICA LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

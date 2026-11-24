@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 437
 evidence_level: L3
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Medroxyprogesterone acetate"
 predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
 description: "Medroxyprogesterone Acetate: nova indicação prevista, Doença fibrocística da mama (breast fibrocystic disease) (nível de evidência L3). Indicação original: PROGESTAGENOS SIMPLES"
@@ -84,13 +84,20 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Há 8 registros válidos, todos de produtos de ingrediente único.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 104971189 | DEMEDROX | Não informada | Progestágenos simples |
-| Registro 121100400 | PROVERA | Não informada | Progestágenos simples |
-| Registro 105830220 | CONTRACEP | Não informada | Progestágenos simples |
-| Registro 121100367 | DEPO-PROVERA | Não informada | Progestágenos simples |
-| Registro 110360266 | CYCLOFEMINA | Não informada | Anticoncepcionais |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 104971189 | DEMEDROX | Ativo |
+| 105830220 | CONTRACEP | Ativo |
+| 110360266 | CYCLOFEMINA | Ativo |
+| 110360267 | LYNDAVELUNO | Ativo |
+| 110360270 | ACETATO DE MEDROXIPROGESTERONA +CIPIONATO DE ESTRADIOL | Ativo |
+| 110360271 | NAOMI | Ativo |
+| 121100367 | DEPO-PROVERA | Ativo |
+| 121100400 | PROVERA | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

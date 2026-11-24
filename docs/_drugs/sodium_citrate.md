@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 591
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Sodium Citrate: nova indicação prevista, Conjuntivite papilar (papillary conjunctivitis) (nível de evidência L5). Indicação original: Antitussígenos"
 monitor_inn: "Sodium citrate"
 predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "stomach disease", "postgastrectomy syndrome", "gastroduodenitis", "familial visceral myopathy", "rosacea conjunctivitis", "allergic urticaria"]
@@ -95,43 +95,17 @@ Os demais artigos recuperados para as diversas indicações são, em sua maioria
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 102350421 | ENDCOFF | Não informada | Antitussígenos |
-| Registro nº 157211204 | BENALET | Não informada | Antitussígenos – associações medicamentosas |
-| Registro nº 115600099 | BENATUX | Não informada | Produtos para orofaringe |
-| Registro nº 114620040 | UNIZINCO SORO | Não informada | Antidiarreicos |
-| Registro nº 103110096 | SOLUÇÃO SALINA BALANCEADA - HALEX ISTAR | Não informada | Medicamentos com ação no aparelho visual |
+<!-- licenses:begin -->
 
-<!-- review:begin br-row-20261112-sodium_citrate-1 -->
+| Registro | Produto | Situação |
+|------|------|------|
+| 102350421 | ENDCOFF | Ativo |
+| 103110096 | SOLUÇÃO SALINA BALANCEADA - HALEX ISTAR | Ativo |
+| 114620040 | UNIZINCO SORO | Ativo |
+| 115600099 | BENATUX | Ativo |
+| 157211204 | BENALET | Ativo |
 
-> **Correção de verificação (2026-11-12)**: Texto original: “Registro nº 102350421 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 102350421 (ENDCOFF) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-row-20261112-sodium_citrate-1 -->
-
-<!-- review:begin br-row-20261112-sodium_citrate-2 -->
-
-> **Correção de verificação (2026-11-12)**: Texto original: “Registro nº 157211204 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 157211204 (BENALET) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-row-20261112-sodium_citrate-2 -->
-
-<!-- review:begin br-row-20261112-sodium_citrate-3 -->
-
-> **Correção de verificação (2026-11-12)**: Texto original: “Registro nº 115600099 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 115600099 (BENATUX) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-row-20261112-sodium_citrate-3 -->
-
-<!-- review:begin br-row-20261112-sodium_citrate-4 -->
-
-> **Correção de verificação (2026-11-12)**: Texto original: “Registro nº 114620040 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 114620040 (UNIZINCO SORO) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-row-20261112-sodium_citrate-4 -->
-
-<!-- review:begin br-row-20261112-sodium_citrate-5 -->
-
-> **Correção de verificação (2026-11-12)**: Texto original: “Registro nº 103110096 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 103110096 (SOLUÇÃO SALINA BALANCEADA - HALEX ISTAR) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-row-20261112-sodium_citrate-5 -->
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 
@@ -170,11 +144,11 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-12 | Tabela: registro 102350421 (ENDCOFF) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Tabela: registro 157211204 (BENALET) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Tabela: registro 115600099 (BENATUX) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Tabela: registro 114620040 (UNIZINCO SORO) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Tabela: registro 103110096 (SOLUÇÃO SALINA BALANCEADA - HALEX ISTAR) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 102350421 (ENDCOFF) está ativo, não cancelado | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 157211204 (BENALET) está ativo, não cancelado | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 115600099 (BENATUX) está ativo, não cancelado | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 114620040 (UNIZINCO SORO) está ativo, não cancelado | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 103110096 (SOLUÇÃO SALINA BALANCEADA - HALEX ISTAR) está ativo, não cancelado | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

@@ -8,7 +8,7 @@ indication_count: 7
 drugbank_id: DB06594
 monitor_inn: "Agomelatine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "neurotic disorder", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type", "Keppen-Lubinsky syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Agomelatina: nova indicação prevista, Paroxismo tortícolo benigno da infância (benign paroxysmal torticollis of infancy) (nível de evidência L5). No Brasil, registros na ANVISA: 7 (ativos: 5)"
 ---
 
@@ -65,13 +65,19 @@ A pontuação elevada (0,9996) reflete apenas a previsão do modelo. Também nã
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| 102351276 | Agomelatina (EMS) | Não informada | Não registrada nos dados locais |
-| 112780073 | Valdoxan (Servier) | Não informada | Não registrada nos dados locais |
-| 112780082 | Agoxom (Servier) | Não informada | Não registrada nos dados locais |
-| 155730062 | Elencos (Teva) | Não informada | Não registrada nos dados locais |
-| 155730063 | Agomelatina (Teva) | Não informada | Não registrada nos dados locais |
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 102351276 | AGOMELATINA | EMS S/A | Ativo |
+| 112780073 | VALDOXAN | LABORATÓRIOS SERVIER DO BRASIL LTDA | Ativo |
+| 112780082 | AGOXOM | LABORATÓRIOS SERVIER DO BRASIL LTDA | Ativo |
+| 155730062 | ELENCOS | TEVA FARMACÊUTICA LTDA. | Ativo |
+| 155730063 | AGOMELATINA | TEVA FARMACÊUTICA LTDA. | Ativo |
+| 112780078 | AGOMELATINA | LABORATÓRIOS SERVIER DO BRASIL LTDA | Cancelado |
+| 112780090 | VILLEXOM | LABORATÓRIOS SERVIER DO BRASIL LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 Foram identificados 7 registros, dos quais 5 válidos e 2 cancelados; a tabela lista os 5 principais.
 

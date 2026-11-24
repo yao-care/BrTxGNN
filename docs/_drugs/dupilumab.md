@@ -85,10 +85,14 @@ Ressalva importante: o único ensaio listado trata de rinossinusite crônica sem
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 183260335 | DUPIXENT | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
 | 113001175 | DUPIXENT | SANOFI-AVENTIS FARMACÊUTICA LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

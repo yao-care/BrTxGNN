@@ -74,6 +74,8 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 101180109 | COLCHIS | APSEN FARMACEUTICA S/A | Ativo |
@@ -93,6 +95,8 @@ Atualmente não há ensaios clínicos relacionados registrados.
 | 126750377 | GOLTRITE | NOVA QUIMICA FARMACÊUTICA S/A | Cancelado |
 | 142570072 | COCINAX | LUCIOMED FARMACÊUTICA DO BRASIL LTDA | Cancelado |
 | 154230036 | CIXIN | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Cancelado |
+
+<!-- licenses:end -->
 
 Foram listados 5 dos 7 registros de medicamentos de ingrediente único; a lista está limitada aos cinco principais.
 

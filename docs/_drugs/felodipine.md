@@ -92,12 +92,16 @@ Um relato de caso (PMID 15222138, angina de Prinzmetal induzida por nicergolina)
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 116180241 | SELOZOK FIX | ASTRAZENECA DO BRASIL LTDA | Ativo |
 | 100470396 | FELODIPINO | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 | 116180074 | SPLENDIL | ASTRAZENECA DO BRASIL LTDA | Cancelado |
 | 116180235 | ATACAND COMB | ASTRAZENECA DO BRASIL LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

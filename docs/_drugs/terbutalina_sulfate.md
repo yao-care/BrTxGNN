@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00871
 monitor_inn: "Terbutaline"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Terbutalina Sulfate: nova indicação prevista, Malformação respiratória (respiratory malformation) (nível de evidência L5). Indicação original: BRONCODILATADORES"
 ---
 
@@ -97,13 +97,18 @@ Nenhum desses estudos avalia diretamente a terbutalina em malformação respirat
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 104971176 | TERBUTIL | Não informada | Broncodilatadores |
-| Registro 113430176 | Sulfato de Terbutalina | Não informada | Broncodilatadores |
-| Registro 120190142 | Sulfato de Terbutalina | Não informada | Broncodilatadores |
-| Registro 125680088 | Sulfato de Terbutalina | Não informada | Broncodilatadores |
-| Registro 167730050 | BRONQUITOSS | Não informada | Broncodilatadores |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 104971176 | TERBUTIL | Ativo |
+| 113430176 | SULFATO DE TERBUTALINA | Ativo |
+| 120190142 | SULFATO DE TERBUTALINA | Ativo |
+| 125680088 | SULFATO DE TERBUTALINA | Ativo |
+| 167730050 | BRONQUITOSS | Ativo |
+| 100410174 | SULFATO DE TERBUTALINA | Cancelado |
+
+<!-- licenses:end -->
 
 Há ainda um registro cancelado, não listado acima.
 

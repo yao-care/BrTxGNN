@@ -90,6 +90,8 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100330130 | FAULBLASTINA | LIBBS FARMACÊUTICA LTDA | Ativo |
@@ -104,6 +106,8 @@ Atualmente não há ensaios clínicos relacionados registrados.
 | 127480002 | VELBAN | OPEM REPRESENTAÇÃO IMPORTADORA EXPORTADORA E DISTR | Cancelado |
 | 131390015 | FAULBLASTINA | DISAQ FARMACÊUTICA LTDA | Cancelado |
 | 155730029 | TEVAVINBLA | TEVA FARMACÊUTICA LTDA. | Cancelado |
+
+<!-- licenses:end -->
 
 Dos 12 registros contabilizados, 3 estão válidos e 9 cancelados.
 

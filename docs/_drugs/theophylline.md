@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "THEOPHYLLINE"
 predicted_indications: ["thrombotic disease", "nasal cavity disease", "laryngotracheitis", "tracheal disease", "pharyngitis", "acute laryngopharyngitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Theophylline: nova indicação prevista, Doença trombótica (thrombotic disease) (nível de evidência L5). Indicação original: BRONCODILATADORES"
 ---
 
@@ -80,9 +80,13 @@ Nenhum dos artigos recuperados avalia a teofilina como tratamento de doença tro
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 105530305 | TEOLONG | Não informada | Broncodilatadores |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 105530305 | TEOLONG | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

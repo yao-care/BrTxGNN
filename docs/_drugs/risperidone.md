@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 569
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Risperidone: nova indicação prevista, Paralisia do olhar horizontal familiar com escoliose progressiva (gaz… (nível de evidência L5). Indicação original: Neurolépticos (antipsicótico)"
 monitor_inn: "RISPERIDONE"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania"]
@@ -80,6 +80,8 @@ Abaixo estão 5 dos registros, incluindo os nomes comerciais distintos.
 
 <!-- review:end br-lic-20261106-risperidone-1 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100431002 | RISS | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -99,6 +101,7 @@ Abaixo estão 5 dos registros, incluindo os nomes comerciais distintos.
 | 105730599 | ZARGUS | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
 | 105830532 | RISPERIDONA | GERMED FARMACEUTICA LTDA | Ativo |
 | 109740292 | RISPERIDONA | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 112360031 | RISPERDAL | JANSSEN-CILAG FARMACÊUTICA LTDA | Ativo |
 | 118190404 | RISPERIDONA | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
 | 123520210 | RISPERIDONA | RANBAXY FARMACÊUTICA LTDA | Ativo |
 | 125680232 | RISPERIDONA | PRATI DONADUZZI & CIA LTDA | Ativo |
@@ -111,9 +114,10 @@ Abaixo estão 5 dos registros, incluindo os nomes comerciais distintos.
 | 183260478 | RISPERIDONA | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
 | 100430984 | RISPERIDONA | EUROFARMA LABORATORIOS S.A. | Cancelado |
 | 100470519 | RISPALUM | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
-| 100680975 | RISPERIDONA | NOVARTIS BIOCIENCIAS S.A | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 54 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

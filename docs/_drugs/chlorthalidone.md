@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "CHLORTHALIDONE"
 predicted_indications: ["primary hereditary glaucoma", "open-angle glaucoma", "malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease", "acute pulmonary heart disease", "congenital hypotrichosis milia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Chlorthalidone: nova indicação prevista, glaucoma hereditário primário (primary hereditary glaucoma) (nível de evidência L5). Indicação original: DIURETICOS SIMPLES"
 ---
 
@@ -72,6 +72,8 @@ Atualmente não há literatura relacionada.
 
 Os dados compilados indicam situação de comercialização "Comercializado". A lista de registros pode ser parcial. Abaixo, os principais registros de medicamentos de ingrediente único (nomes comerciais conforme os dados locais):
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100430951 | ATENOLOL + CLORTALIDONA | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -105,7 +107,9 @@ Os dados compilados indicam situação de comercialização "Comercializado". A 
 | 100890288 | ATENOLOL + CLORTALIDONA | MERCK S/A | Cancelado |
 | 101160115 | CLORTALIDONA | KNOLL PRODS QUIMS FARMACEUTICOS LTDA. | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 71 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

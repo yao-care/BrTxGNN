@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB01048
 monitor_inn: "Abacavir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Abacavir Sulfate: nova indicação prevista, Infecção pelo vírus da imunodeficiência símia (simian immunodeficiency virus infection) (nível de evidência L5). Indicação original: ANTIVIROTICOS"
 ---
 
@@ -77,10 +77,14 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| 101070234 | ZIAGENAVIR | Não informada | Antivirótico |
-| 101070326 | TRIUMEQ | Não informada | Antirretroviral |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 101070234 | ZIAGENAVIR | Ativo |
+| 101070326 | TRIUMEQ | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

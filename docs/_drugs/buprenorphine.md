@@ -74,6 +74,8 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 122140134 | BUPRENORFINA | ADIUM S.A. | Ativo |
@@ -84,6 +86,8 @@ Atualmente não há ensaios clínicos relacionados registrados.
 | 100930162 | TEMGESIC | MANTECORP INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A. | Cancelado |
 | 122140077 | RESTIVA | ADIUM S.A. | Cancelado |
 | 172870522 | TEMGESIC | HYPERA S.A. | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

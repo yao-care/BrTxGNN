@@ -71,11 +71,15 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 105730120 | NEO DECAPEPTYL | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
 | 128760009 | GONAPEPTYL DEPOT | LABORATÓRIOS FERRING LTDA | Ativo |
 | 128760014 | GONAPEPTYL DAILY | LABORATÓRIOS FERRING LTDA | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

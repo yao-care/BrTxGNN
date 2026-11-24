@@ -66,9 +66,13 @@ As demais previsões entre as 10 primeiras são, em sua maioria, variantes ou do
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 101000662 | COTELLIC | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Ativo |
+
+<!-- licenses:end -->
 
 ## Citotoxicidade
 

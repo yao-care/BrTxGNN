@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 468
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Neratinib: usos conhecidos e situação de mercado no Brasil; atualmente nenhuma nova indicação candidata"
 predicted_indications: []
 ---
@@ -75,9 +75,13 @@ Todos os candidatos que o modelo TxGNN gerou para o Neratinib (pontuação ≥ 0
 
 ## Informações de Comercialização no Brasil
 
-| Registro | Produto | Forma farmacêutica | Situação |
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
-| 139000004 | MALEATO DE NERATINIBE |  | Ativo |
+| 139000004 | NERLYNX | PINT PHARMA PRODUTOS MEDICO-HOSPITALARES E FARMACE | Ativo |
+
+<!-- licenses:end -->
 
 ## Citotoxicidade
 

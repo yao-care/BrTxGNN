@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Clavulanic acid"
 predicted_indications: ["Ureaplasma urethritis", "gonococcal urethritis", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "urogenital tuberculosis", "celiac trunk compression syndrome", "abdominal ectopic pregnancy", "abdominal cystic lymphangioma", "lymph node palisaded myofibroblastoma", "disease of uterine broad ligament"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Clavulanic Acid: nova indicação prevista, Uretrite por Ureaplasma (Ureaplasma urethritis) (nível de evidência L5). Indicação original: Antibióticos sistêmicos – associações medicamentosas"
 ---
 
@@ -106,10 +106,14 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 105730210 | NOVAMOX | Não informada | Antibióticos sistêmicos – associações medicamentosas |
-| Registro 101070076 | CLAVULIN | Não informada | Antibióticos sistêmicos – associações medicamentosas entre antiinfecciosos |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 101070076 | CLAVULIN | Ativo |
+| 105730210 | NOVAMOX | Ativo |
+
+<!-- licenses:end -->
 
 Os textos de indicação correspondem a classificações de categoria terapêutica, não a indicações clínicas detalhadas.
 

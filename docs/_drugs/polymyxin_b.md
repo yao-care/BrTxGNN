@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 534
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Polymyxin B: nova indicação prevista, Bronquite (bronchitis) (nível de evidência L4). Indicação original: Antibióticos sistêmicos simples"
 monitor_inn: "Polymyxin B"
 predicted_indications: ["bronchitis", "laryngotracheitis"]
@@ -115,13 +115,34 @@ Para a indicação **infecção do trato respiratório** (4ª previsão, 98,89%)
 
 Há 20 registros válidos e o medicamento é comercializado no país. Principais registros:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 188300026 | POLIXIL B | Não informada | Antibióticos sistêmicos simples |
-| Registro nº 100430918 | SULFATO DE POLIMIXINA B | Não informada | Antibióticos sistêmicos simples |
-| Registro nº 155620062 | SULFATO DE POLIMIXINA B | Não informada | Antibacterianos para uso sistêmico |
-| Registro nº 104971311 | MAXINOM | Não informada | Anti-infecciosos tópicos para uso oftálmico |
-| Registro nº 100681106 | MAXITROL | Não informada | Anti-infecciosos tópicos – associações medicamentosas |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 100430918 | SULFATO DE POLIMIXINA B | Ativo |
+| 100681106 | MAXITROL | Ativo |
+| 102350174 | PREDMICIN | Ativo |
+| 102351257 | OTOMIXYN | Ativo |
+| 102980568 | SPOX | Ativo |
+| 102980572 | SULFATO DE POLIMIXINA B | Ativo |
+| 103900154 | OTOSPORIN | Ativo |
+| 103900187 | LIDOSPORIN | Ativo |
+| 104971311 | MAXINOM | Ativo |
+| 104971471 | POLYCID | Ativo |
+| 116370171 | SULFATO DE POLIMIXINA B | Ativo |
+| 116370195 | POLY B | Ativo |
+| 154230164 | FLUOCINOLONA ACETONIDA + SULFATO DE POLIMIXINA B + SULFATO D | Ativo |
+| 154230165 | OTOSYLASE | Ativo |
+| 154230188 | MAXIVIEW | Ativo |
+| 154230191 | DEXAMETASONA + SULFATO DE NEOMICINA + SULFATO DE POLIMIXINA  | Ativo |
+| 154230354 | TRIVIEW | Ativo |
+| 155620062 | SULFATO DE POLIMIXINA B | Ativo |
+| 188300026 | POLIXIL B | Ativo |
+| 127480011 | BEDFORDPOLY - B | Cancelado |
+
+Os dados contêm apenas parte dos registros; a lista pode estar incompleta.
+
+<!-- licenses:end -->
 
 ---
 

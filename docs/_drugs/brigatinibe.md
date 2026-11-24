@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB12267
 monitor_inn: "Brigatinib"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "pulmonary sulcus neoplasm", "lung germ cell tumor", "junctional epidermolysis bullosa", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Brigatinibe: nova indicação prevista, Fibromatose gengival (fibromatosis, gingival) (nível de evidência L5). No Brasil, registros na ANVISA: 2 (ativos: 1)"
 ---
 
@@ -64,10 +64,14 @@ Por isso, a previsão deve ser tratada como uma hipótese a ser explorada, e nã
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 126270026 | EVOBRIG | Não informada | Não registrada nos dados locais |
-| Registro 106390281 | EVOBRIG | Não informada | Não registrada nos dados locais |
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 126270026 | EVOBRIG | TAKEDA FARMACEUTICA BRASIL LTDA | Ativo |
+| 106390281 | EVOBRIG | TAKEDA PHARMA LTDA. | Cancelado |
+
+<!-- licenses:end -->
 
 ## Citotoxicidade
 

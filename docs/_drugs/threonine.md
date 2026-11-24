@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 634
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Threonine: nova indicação prevista, Gastroparesia (Gastroparesis) (nível de evidência L5). Indicação original: Produtos para dietas especiais"
 monitor_inn: "THREONINE"
 predicted_indications: ["gastroparesis (disease)"]
@@ -72,6 +72,8 @@ Dos 33 registros, 15 estão válidos. São listados abaixo os 5 principais.
 
 <!-- review:end br-lic-20261112-threonine-1 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100410133 | AMINOSTERIL N-HEPA 8% | FRESENIUS KABI BRASIL LTDA | Ativo |
@@ -105,7 +107,9 @@ Dos 33 registros, 15 estão válidos. São listados abaixo os 5 principais.
 | 106830157 | OLICLINOMEL | BAXTER HOSPITALAR LTDA | Cancelado |
 | 106830176 | OLICLINOMEL N8-800 | BAXTER HOSPITALAR LTDA | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 33 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Esomeprazole"
 predicted_indications: ["duodenal obstruction"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Esomeprazole: nova indicação prevista, Obstrução duodenal (duodenal obstruction) (nível de evidência L5). Indicação original: ANTIULCEROSOS"
 ---
 
@@ -64,6 +64,8 @@ Não foram encontrados ensaios clínicos nem literatura que estudem diretamente 
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100431061 | ÉSIO | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -97,7 +99,9 @@ Não foram encontrados ensaios clínicos nem literatura que estudem diretamente 
 | 178170954 | ESOL XR | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Ativo |
 | 186100014 | VIMOVO | GRÜNENTHAL DO BRASIL FARMACÊUTICA LTDA. | Ativo |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 57 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 Há 57 registros no total; a tabela mostra apenas os cinco primeiros.
 

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 589
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 monitor_inn: "Sodium carbonate"
 predicted_indications: ["cauda equina syndrome", "anaphylaxis", "food-dependent exercise-induced anaphylaxis", "obsolete neurogenic bladder (disease)", "dry eye syndrome", "ventricular tachycardia"]
 description: "Sodium Carbonate: nova indicação prevista, Síndrome da cauda equina (cauda equina syndrome) (nível de evidência L5). Indicação original: ANTIACIDO"
@@ -106,13 +106,22 @@ Dos 10 registros, 9 estão **válidos** (9 de 10); o produto está comercializad
 
 <!-- review:end br-lic-20261117-sodium_carbonate-1 -->
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 144930071 | Estomanol | Não informada | Antiácido |
-| Registro 103920245 | Stomvyc | Não informada | Antiácido |
-| Registro 143810164 | Frusalt | Não informada | Antiácido |
-| Registro 104810124 | Digiazia | Não informada | Antiácido |
-| Registro 104971402 | Frutaxx | Não informada | Antiácido |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 103920245 | STOMVYC | Ativo |
+| 104810124 | DIGIAZIA | Ativo |
+| 104971402 | FRUTAXX | Ativo |
+| 143810164 | FRUSALT | Ativo |
+| 143810302 | FRUMAGNA | Ativo |
+| 154230185 | STOMALIV | Ativo |
+| 178170039 | ESTOMAZIL | Ativo |
+| 192900003 | SAL DE FRUTA ENO | Ativo |
+| 192900011 | SONRISAL | Ativo |
+| 144930071 | ESTOMANOL | Cancelado |
+
+<!-- licenses:end -->
 
 Entre os demais estão Sal de Fruta Eno e Sonrisal.
 

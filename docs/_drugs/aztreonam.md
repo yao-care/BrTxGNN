@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Aztreonam"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "gonococcal urethritis", "Ureaplasma urethritis", "blood group incompatibility", "premalignant hematological system disease", "epiglottitis", "monoclonal gammopathy", "xanthogranulomatous pyelonephritis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Aztreonam: nova indicação prevista, Hiperamilasemia (hyperamylasemia) (nível de evidência L5). No Brasil, registros na ANVISA: 12 (ativos: 2)"
 ---
 
@@ -64,19 +64,20 @@ Por isso, esta previsão deve ser tratada como uma hipótese não sustentada, e 
 
 ## Informações de Comercialização no Brasil
 
-Segundo os dados compilados, há registros válidos de aztreonam de agente único no Brasil, e a situação geral é de comercialização. Dos 12 registros, 3 estão válidos e 9 cancelados.
+Segundo os dados compilados, há registros válidos de aztreonam de agente único no Brasil, e a situação geral é de comercialização. Dos 12 registros, 2 estão válidos e 10 cancelados.
 
 <!-- review:begin br-lic-20261112-aztreonam-1 -->
 
-> **Correção de verificação (2026-11-12)**: Texto original: “Dos 11 registros, 3 estão válidos e 8 cancelados.” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 12 registros para este medicamento, 3 válidos e 9 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “Dos 11 registros, 3 estão válidos e 8 cancelados.” Corrigido conforme os dados abertos de medicamentos da ANVISA (situação de 2026-11-23): 12 registros para este medicamento, 2 válidos e 10 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261112-aztreonam-1 -->
+
+<!-- licenses:begin -->
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100630199 | AZANEM | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
 | 100630231 | AZTREONAM | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
-| 110110003 | AZEUS | NEWCOM FARMACEUTICA LTDA. | Cancelado |
 | 100410178 | AZEUS | FRESENIUS KABI BRASIL LTDA | Cancelado |
 | 100430032 | AZTREONAM | EUROFARMA LABORATORIOS S.A. | Cancelado |
 | 100430704 | AZETRAM | EUROFARMA LABORATORIOS S.A. | Cancelado |
@@ -84,8 +85,11 @@ Segundo os dados compilados, há registros válidos de aztreonam de agente únic
 | 102010059 | AZAXIL | QUIMICA HALLER LTDA | Cancelado |
 | 102700118 | AZTREONAM | ARISTON INDS QUIMS FTCAS LTDA | Cancelado |
 | 104971129 | UNI AZTRENAM | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Cancelado |
+| 110110003 | AZEUS | NEWCOM FARMACEUTICA LTDA. | Cancelado |
 | 112830063 | ITATREONAM | LABORATORIO ITAFARMA LTDA | Cancelado |
 | 114020060 | AZEUS | NOVAFARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 
@@ -113,7 +117,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-12 | Registros: 11 (8 cancelados) → 12 (9 cancelados) | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | Registros: 11 (8 cancelados) → 12 (10 cancelados) | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: aztreonam prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d4500795-3b07-4a7d-b432-73cafbb3dbc6) |
 
 <!-- review:end log -->

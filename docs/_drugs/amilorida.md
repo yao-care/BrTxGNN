@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB00594
 monitor_inn: "Amiloride"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Amilorida: nova indicação prevista, doença renal hipertensiva maligna (malignant hypertensive renal disease) (nível de evidência L5). No Brasil, registros na ANVISA: 21 (ativos: 3)"
 ---
 
@@ -66,11 +66,33 @@ A pontuação alta do modelo (0,9982) é o único suporte da previsão. Não há
 
 A amilorida está comercializada no Brasil, mas, entre os registros compilados, os três válidos são de produtos em associação (com hidroclorotiazida). Esses registros descrevem os produtos combinados e não a amilorida como único princípio ativo.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| 100430981 | DIUPRESS | Não informada | Texto de indicação não registrado |
-| 102350675 | CLORIDRATO DE AMILORIDA + HIDROCLOROTIAZIDA | Não informada | Texto de indicação não registrado |
-| 107150018 | DIUREZIN | Não informada | Texto de indicação não registrado |
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100430981 | DIUPRESS | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 102350675 | CLORIDRATO DE AMILORIDA + HIDROCLOROTIAZIDA | EMS S/A | Ativo |
+| 107150018 | DIUREZIN | CAZI QUIMICA FARMACEUTICA INDUSTRIA E COMERCIO LTD | Ativo |
+| 100290137 | MODURETIC | ORGANON FARMACÊUTICA LTDA. | Cancelado |
+| 100430192 | DIURISA | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 101160123 | BASF AMILORIDA + HIDROCLOROTIAZIDA | KNOLL PRODS QUIMS FARMACEUTICOS LTDA. | Cancelado |
+| 101380009 | DIUPRESS | ISA LABORATORIOS LTDA | Cancelado |
+| 103920135 | ANCLORIC | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Cancelado |
+| 104650143 | AMILORID | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 105830344 | CLORIDRATO DE AMILORIDA + HIDROCLOROTIAZIDA | GERMED FARMACEUTICA LTDA | Cancelado |
+| 105830837 | CLORIDRATO DE AMILORIDA + HIDROCLOROTIAZIDA | GERMED FARMACEUTICA LTDA | Cancelado |
+| 107150163 | DIUREZIN A | CAZI QUIMICA FARMACEUTICA INDUSTRIA E COMERCIO LTD | Cancelado |
+| 110650040 | MODURETIC | PRODOME QUÍMICA E FARMACÊUTICA LTDA | Cancelado |
+| 112130284 | CLORIDRATO DE AMILORIDA + HIDROCLOROTIAZIDA | BIOSINTÉTICA FARMACÊUTICA LTDA | Cancelado |
+| 123520147 | CLORIDRATO DE AMILORIDA + HIDROCLOROTIAZIDA | RANBAXY FARMACÊUTICA LTDA | Cancelado |
+| 134890002 | AMIRÉTIC | BIOLAB FARMACEUTICA LTDA | Cancelado |
+| 135690166 | CLORIDRATO DE AMILORIDA + HIDROCLOROTIAZIDA | EMS SIGMA PHARMA LTDA | Cancelado |
+| 155840188 | AMILORID | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Cancelado |
+| 167730189 | CLORIDRATO DE AMILORIDA + HIDROCLOROTIAZIDA | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 167730474 | CLORIDRATO DE AMILORIDA + HIDROCLOROTIAZIDA | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 172870120 | AMILORID | HYPERA S.A. | Cancelado |
+
+<!-- licenses:end -->
 
 Dos 21 registros localizados, 3 estão válidos e 18 estão cancelados.
 

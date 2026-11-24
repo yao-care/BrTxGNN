@@ -98,6 +98,8 @@ Foram compilados 20 estudos. Abaixo estão os 10 mais relevantes.
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 155370107 | BUSSULFANO | ACCORD FARMACÊUTICA LTDA | Ativo |
@@ -107,6 +109,8 @@ Foram compilados 20 estudos. Abaixo estão os 10 mais relevantes.
 | 137640149 | MYLERAN | ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 | 155370109 | BUXILFAM | ACCORD FARMACÊUTICA LTDA | Cancelado |
 | 155370137 | BUXILFAM | ACCORD FARMACÊUTICA LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Citotoxicidade
 

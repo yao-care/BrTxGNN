@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 98
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "AZATHIOPRINE"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "WHIM syndrome", "granulomatous disease, chronic, autosomal recessive, 5", "osteoarthritis", "granulomatous disease with defect in neutrophil chemotaxis", "acromesomelic dysplasia, Hunter-Thompson type"]
 description: "Azathioprine: nova indicação prevista, Colobomatous microphthalmia-rhizomelic dysplasia syndrome (nível de evidência L5). Indicação original: IMUNODEPRESSOR"
@@ -98,7 +98,9 @@ Dos ensaios identificados para DII e colite ulcerativa, estes são os mais relev
 
 ## Informações de Comercialização no Brasil
 
-Há 5 registros válidos de 5 no total; o medicamento está comercializado no Brasil.
+Há 5 registros válidos de 14 no total; o medicamento está comercializado no Brasil.
+
+<!-- licenses:begin -->
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -117,6 +119,8 @@ Há 5 registros válidos de 5 no total; o medicamento está comercializado no Br
 | 120190073 | SUPREMUNE | GREENPHARMA QUÍMICA E FARMACÊUTICA LTDA | Cancelado |
 | 126030033 | ASEROPRIN | ÍTACA LABORATÓRIOS LTDA | Cancelado |
 
+<!-- licenses:end -->
+
 ## Considerações de Segurança
 
 - **Contraindicações (associações no grafo de conhecimento, não texto de bula):** pancreatite, trombocitopenia, anemia (incluindo macrocítica), insuficiência renal, infecções (incluindo fúngicas e dermatofitose), linfomas (incluindo linfoma primário do SNC, linfossarcoma e linfoma hepatoesplênico de células T), trombose da veia hepática e síndrome de Budd-Chiari.
@@ -134,10 +138,10 @@ Os dados de advertências e contraindicações da bula da ANVISA não estavam di
 **Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-Há ensaios de Fase 3 e Fase 4, um RCT recente publicado (Gut, 2025) e revisões Cochrane que sustentam o uso na DII, sobretudo na colite ulcerativa. Trata-se de uso já estabelecido, e o medicamento está comercializado no Brasil, com 5 registros válidos de 5. As demais previsões de alta pontuação (síndromes congênitas, osteoartrite, WHIM, doença granulomatosa crônica) devem permanecer em **Hold**, por falta de evidência e de racional mecanístico.
+Há ensaios de Fase 3 e Fase 4, um RCT recente publicado (Gut, 2025) e revisões Cochrane que sustentam o uso na DII, sobretudo na colite ulcerativa. Trata-se de uso já estabelecido, e o medicamento está comercializado no Brasil, com 5 registros válidos de 14. As demais previsões de alta pontuação (síndromes congênitas, osteoartrite, WHIM, doença granulomatosa crônica) devem permanecer em **Hold**, por falta de evidência e de racional mecanístico.
 
 **Para prosseguir, é necessário:**
-- Verificar a disponibilidade comercial da azatioprina no Brasil (5 registros válidos de 5) e a situação regulatória atual.
+- Verificar a disponibilidade comercial da azatioprina no Brasil (5 registros válidos de 14) e a situação regulatória atual.
 - Obter as advertências e contraindicações da bula na ANVISA.
 - Complementar os dados do mecanismo de ação.
 - Implementar protocolo de segurança: genotipagem de TPMT/NUDT15, hemograma e função hepática periódicos, e vigilância de infecções e neoplasias.

@@ -92,6 +92,8 @@ Esses estudos estão fora do tema e não oferecem apoio direto nem indireto rele
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 102350339 | GEROVITAL | EMS S/A | Ativo |
@@ -108,6 +110,8 @@ Esses estudos estão fora do tema e não oferecem apoio direto nem indireto rele
 | 136310011 | POLIVITAMINAS E POLIMINERAIS PARA CABELOS E UNHAS | TRANSCONTINENTAL TRADING LTDA | Cancelado |
 | 137640103 | BIO CAPS E | ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 | 137950002 | VITAMIN C 1000 MG PLUS SUNDOWN | DIVINA DISTRIBUIDORA DE VITAMINAS NATURAIS SUNDOWN | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

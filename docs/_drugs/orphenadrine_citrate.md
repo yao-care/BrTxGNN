@@ -8,7 +8,7 @@ indication_count: 7
 drugbank_id: DB01173
 monitor_inn: "Orphenadrine"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "schizophrenia", "myopia X-linked", "myopia 26, X-linked, female-limited"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Orphenadrine Citrate: nova indicação prevista, Distrofia retiniana com ou sem anomalias extraoculares (retinal dystrophy with or without extraocular anomalies) (nível de evidência L5)."
 ---
 
@@ -75,13 +75,29 @@ Atualmente não há literatura relacionada.
 
 Há 17 registros válidos de produtos com orfenadrina, todos classificados como relaxantes musculares centrais (simples ou em associações medicamentosas). Principais registros:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| 178170975 | Neosaldina Muscular Max | Não informada | Relaxantes musculares centrais – associações medicamentosas |
-| 141070009 | Fenaflex - ODC | Não informada | Relaxantes musculares centrais – associações medicamentosas |
-| 196240008 | Dipbe Flex | Não informada | Relaxantes musculares centrais simples |
-| 186200008 | Dorflex | Não informada | Relaxantes musculares centrais – associações medicamentosas |
-| 104810133 | Relaxmed | Não informada | Relaxantes musculares centrais simples |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 102350072 | DORICIN | Ativo |
+| 102980328 | ANA - FLEX | Ativo |
+| 103700179 | SEDALEX | Ativo |
+| 103700789 | DIPIRONA SODICA+CAFEINA ANIDRA+CITRATO DE ORFENADRINA | Ativo |
+| 104810133 | RELAXMED | Ativo |
+| 105730715 | DORILAX DT | Ativo |
+| 115600255 | DORCIFLEXIN | Ativo |
+| 117170014 | DORTRIRELAX | Ativo |
+| 141070009 | FENAFLEX - ODC | Ativo |
+| 143810051 | NEVRALGEX | Ativo |
+| 155840689 | MIORRELAX | Ativo |
+| 178170975 | NEOSALDINA MUSCULAR MAX | Ativo |
+| 178170977 | NEOSALDINA MUSCULAR | Ativo |
+| 178170981 | LISADOR MUSCULAR | Ativo |
+| 178170995 | FLEXMUSCULAR | Ativo |
+| 186200008 | DORFLEX | Ativo |
+| 196240008 | DIPBE FLEX | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

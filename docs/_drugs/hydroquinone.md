@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 357
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Hydroquinone: nova indicação prevista, Ceratose Seborreica (Seborrheic Keratosis) (nível de evidência L5). Indicação original: Desmelanizantes (despigmentantes)"
 monitor_inn: "hydroquinone"
 predicted_indications: ["seborrheic keratosis", "vulvar inverted follicular keratosis", "exanthem (disease)", "lichen disease"]
@@ -92,6 +92,8 @@ O medicamento é comercializado.
 
 <!-- review:end br-lic-20261111-hydroquinone-1 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 102350930 | HIDROQUINONA+ TRETINOINA + FLUOCINOLONA ACETONIDA | EMS S/A | Ativo |
@@ -115,7 +117,7 @@ O medicamento é comercializado.
 | 105750056 | ELDOQUIN | VALEANT FARMACÊUTICA DO BRASIL LTDA | Cancelado |
 | 105750061 | GLYQUIN XM | VALEANT FARMACÊUTICA DO BRASIL LTDA | Cancelado |
 | 105830610 | HIDROQUINONA | GERMED FARMACEUTICA LTDA | Cancelado |
-| 105830629 | HIDROQUINONA + TRETINOINA + FLUOCINOLONA  ACETONIDA | GERMED FARMACEUTICA LTDA | Cancelado |
+| 105830629 | HIDROQUINONA + TRETINOINA + FLUOCINOLONA ACETONIDA | GERMED FARMACEUTICA LTDA | Cancelado |
 | 105830649 | HIDROQUINONA | GERMED FARMACEUTICA LTDA | Cancelado |
 | 106750050 | CLARIPEL | LABORATÓRIOS STIEFEL LTDA | Cancelado |
 | 109170136 | GLYQUIN XM | MEDQUIMICA INDUSTRIA FARMACEUTICA LTDA. | Cancelado |
@@ -125,7 +127,9 @@ O medicamento é comercializado.
 | 135690497 | HIDROQUINONA | EMS SIGMA PHARMA LTDA | Cancelado |
 | 135690521 | OSKIN | EMS SIGMA PHARMA LTDA | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 40 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 Há ainda outros 7 registros cancelados (entre eles Solaquin, Hidropeek, Lumiderm, Glyquin XM, Suavicid, Hormoskin e uma associação de hidroquinona + tretinoína + acetonido de fluocinolona).
 
@@ -157,7 +161,7 @@ Para as demais informações de segurança (advertências, contraindicações e 
 - Complementar os dados de mecanismo de ação via DrugBank
 - Esclarecer a relevância clínica da despigmentação em ceratose seborreica, com estudos específicos (por exemplo, estudo piloto ou revisão sistemática)
 - Verificar a compatibilidade de via de administração e forma farmacêutica
-- Confirmar a situação regulatória dos 12 registros vigentes e avaliar o perfil de segurança para essa possível indicação
+- Confirmar a situação regulatória dos 11 registros vigentes e avaliar o perfil de segurança para essa possível indicação
 
 <!-- review:begin log -->
 

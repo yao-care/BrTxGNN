@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 292
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Epinephrine: nova indicação prevista, Doença pulmonar obstrutiva (Obstructive Lung Disease) (nível de evidência L5). Indicação original: Vasoconstritores e hipertensores"
 monitor_inn: "epinephrine"
 predicted_indications: ["obstructive lung disease", "Rienhoff syndrome", "respiratory malformation"]
@@ -100,13 +100,28 @@ Foram priorizados ensaios randomizados e revisões sistemáticas.
 
 Todos os 16 registros encontrados estão válidos; abaixo, os 5 principais.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 116370081 | EFRINALIN | — | Vasoconstritores e hipertensores |
-| Registro nº 103870078 | EPINEFRINA | — | Medicamentos com ação no miocárdio |
-| Registro nº 113430001 | ADREN | — | Medicamentos com ação no miocárdio |
-| Registro nº 103870082 | HYFREN | — | Medicamentos com ação no miocárdio |
-| Registro nº 101770016 | ALPHACAINE | — | Anestésicos locais |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 101770016 | ALPHACAINE | Ativo |
+| 101770022 | MEPIADRE | Ativo |
+| 101770025 | ARTICAINE | Ativo |
+| 102980072 | XYLESTESIN | Ativo |
+| 102980160 | NOVABUPI | Ativo |
+| 102980350 | NEOCAÍNA COM VASOCONSTRITOR | Ativo |
+| 103870039 | HYPOCAÍNA | Ativo |
+| 103870078 | EPINEFRINA | Ativo |
+| 103870082 | HYFREN | Ativo |
+| 104970207 | BUPSTESIC COM VASO | Ativo |
+| 109930001 | MEPIVALEM AD | Ativo |
+| 109930014 | LIDOSTESIM AD | Ativo |
+| 109930015 | SEPTANEST | Ativo |
+| 113430001 | ADREN | Ativo |
+| 113430220 | ADREN PED | Ativo |
+| 116370081 | EFRINALIN | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB11989
 monitor_inn: "Benznidazole"
 predicted_indications: ["congenital analbuminemia", "polyclonal hyperviscosity syndrome", "hyperamylasemia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Benznidazol: nova indicação prevista, Analbuminemia congênita (congenital analbuminemia) (nível de evidência L5). No Brasil, registros na ANVISA: 2 (ativos: 1)"
 ---
 
@@ -70,10 +70,14 @@ A pontuação elevada (0,9951) é apenas uma previsão computacional, provavelme
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 101830145 | LAFEPE BENZNIDAZOL | Não informada | Não registrada |
-| Registro 101000074 | ROCHAGAN | Não informada | Não registrada |
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 101830145 | LAFEPE BENZNIDAZOL | LABORATORIO FARMACEUTICO DO ESTADO DE PERNAMBUCO G | Ativo |
+| 101000074 | ROCHAGAN | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Cancelado |
+
+<!-- licenses:end -->
 
 Dos registros, um é válido e um está cancelado (ROCHAGAN).
 

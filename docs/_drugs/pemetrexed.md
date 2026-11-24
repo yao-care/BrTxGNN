@@ -99,6 +99,8 @@ O pemetrexede está comercializado neste país.
 
 <!-- review:end br-lic-20261106-pemetrexed-2 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100330166 | ATRED | LIBBS FARMACÊUTICA LTDA | Ativo |
@@ -128,6 +130,8 @@ O pemetrexede está comercializado neste país.
 | 151430053 | FONHEP | DR. REDDYS FARMACÊUTICA DO BRASIL LTDA | Cancelado |
 | 155730025 | PEMETREXEDE DISSODICO | TEVA FARMACÊUTICA LTDA. | Cancelado |
 | 155730027 | TACTROL | TEVA FARMACÊUTICA LTDA. | Cancelado |
+
+<!-- licenses:end -->
 
 ## Citotoxicidade
 

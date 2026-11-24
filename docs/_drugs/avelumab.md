@@ -82,9 +82,13 @@ A indicação urotelial (posição 9) é a que tem maior respaldo indireto. As p
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100890403 | BAVENCIO | MERCK S/A | Ativo |
+
+<!-- licenses:end -->
 
 ## Citotoxicidade
 

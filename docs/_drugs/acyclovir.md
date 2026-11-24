@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Acyclovir"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "common wart", "post-infectious neuralgia", "hepatitis C induced liver cirrhosis", "eosinophilic pustular folliculitis", "sequela of COVID-19", "vulvovaginal candidiasis", "papular urticaria", "disease of orbital region", "epidemic keratoconjunctivitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Acyclovir: nova indicação prevista, Ceratoconjuntivite epitelial puntata (punctate epithelial keratoconjunctivitis) (nível de evidência L5). Indicação original: ANTIVIROTICOS (INIBE REPLICACAO VIROTI…"
 ---
 
@@ -73,6 +73,8 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100431222 | ACICLOVIR | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -106,7 +108,9 @@ Atualmente não há ensaios clínicos relacionados registrados.
 | 116370217 | ZORVY CREME | BLAU FARMACÊUTICA S.A. | Ativo |
 | 118190435 | ACICLOVIR | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 132 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 A lista apresenta apenas 5 dos registros e pode ser parcial.
 

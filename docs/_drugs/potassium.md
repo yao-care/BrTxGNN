@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 536
 evidence_level: L1
 indication_count: 5
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "Potassium"
 predicted_indications: ["hypertensive disorder", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant renovascular hypertension", "malignant hypertensive renal disease"]
 description: "Potassium: nova indicação prevista, Transtorno hipertensivo (hypertensive disorder) (nível de evidência L1). Indicação original: OUTROS PRODUTOS COM ACAO NO TRATO URINARIO"
@@ -96,13 +96,18 @@ Observação: vários outros ensaios recuperados (por exemplo, NCT01302691, NCT0
 
 Todos os 6 registros encontram-se **válidos** (6 de 6); atualmente há produto de potássio comercializado com registro válido nos dados compilados.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 101180128 | LITOCIT | Não informada | Outros produtos com ação no trato urinário |
-| Registro nº 118190272 | LICITRO | Não informada | Outros produtos com ação no trato urinário |
-| Registro nº 138410049 | HIDRALYTE | Não informada | Reidratantes orais |
-| Registro nº 105530342 | PEDIALYTE 45 ZINCO | Não informada | Reidratantes orais |
-| Registro nº 115600194 | GERILON | Não informada | Vitaminas ou minerais associados a outros fármacos |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 101180128 | LITOCIT | Ativo |
+| 115600194 | GERILON | Ativo |
+| 118190272 | LICITRO | Ativo |
+| 105530342 | PEDIALYTE 45 ZINCO | Cancelado |
+| 138410049 | HIDRALYTE | Cancelado |
+| 177940035 | MATURE | Cancelado |
+
+<!-- licenses:end -->
 
 (Há um sexto registro cancelado, MATURE, nº 177940035, com a indicação de vitaminas ou minerais associados a outros fármacos.)
 

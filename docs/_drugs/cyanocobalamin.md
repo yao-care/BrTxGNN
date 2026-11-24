@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 243
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cyanocobalamin: nova indicação prevista, Doença metabólica da biotina (biotin metabolic disease) (nível de evidência L5). Indicação original: Vitamina B12 (cianocobalamina e análogos)"
 monitor_inn: "CYANOCOBALAMIN"
 predicted_indications: ["biotin metabolic disease"]
@@ -81,6 +81,8 @@ Os cinco principais estão listados abaixo.
 
 <!-- review:end br-lic-20261106-cyanocobalamin-1 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100431326 | NEO B | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -93,7 +95,7 @@ Os cinco principais estão listados abaixo.
 | 103700811 | TIPICI | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
 | 103720302 | RENOVI B | SUPERA FARMA LABORATÓRIOS S.A | Ativo |
 | 103720306 | RENOVI B PLUS | SUPERA FARMA LABORATÓRIOS S.A | Ativo |
-| 103850051 | VI -  FERRIN | LABORATÓRIO FARMACÊUTICO ELOFAR LTDA | Ativo |
+| 103850051 | VI - FERRIN | LABORATÓRIO FARMACÊUTICO ELOFAR LTDA | Ativo |
 | 104440053 | ORGANONEURO CEREBRAL | LABORATÓRIO GROSS S. A. | Ativo |
 | 104971153 | NEO CEBETIL COMPLEXO | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
 | 104971351 | DEXANEURIN | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
@@ -104,7 +106,7 @@ Os cinco principais estão listados abaixo.
 | 106830093 | CERNE-12 | BAXTER HOSPITALAR LTDA | Ativo |
 | 106890207 | NEOPLEXUS | KLEY HERTZ FARMACEUTICA S.A | Ativo |
 | 109740354 | CRONOBE COMPLEX | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
-| 109740357 | CRONOBE COMPLEX  IM | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 109740357 | CRONOBE COMPLEX IM | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
 | 114620021 | BETRAT | MYRALIS INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
 | 114620049 | VITAMINAS B1 + B6 + B12 | MYRALIS INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
 | 115600194 | GERILON | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
@@ -114,7 +116,9 @@ Os cinco principais estão listados abaixo.
 | 121420670 | DEXA-CITONEURIN NFF | PROCTER & GAMBLE DO BRASIL LTDA. | Ativo |
 | 154230370 | CIONYN | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 358 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

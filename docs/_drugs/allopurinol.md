@@ -84,6 +84,8 @@ Nenhuma das publicações abaixo testa o alopurinol em pacientes com porfiria; s
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100470331 | ALOPURINOL | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
@@ -108,6 +110,8 @@ Nenhuma das publicações abaixo testa o alopurinol em pacientes com porfiria; s
 | 110630040 | FAR- MAGUINHOS -ALOPURINOL | FUNDAÇÃO OSWALDO CRUZ | Cancelado |
 | 146680014 | ALOPURINOL | APOTEX DO BRASIL LTDA | Cancelado |
 | 167730406 | ALOPURINOL | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ---
 

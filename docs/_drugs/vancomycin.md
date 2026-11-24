@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 665
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Vancomycin: nova indicação prevista, Esclerodermia difusa (diffuse scleroderma) (nível de evidência L5). Indicação original: Antibióticos sistêmicos simples"
 monitor_inn: "Vancomycin"
 predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "congenital analbuminemia", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "typhoid fever", "blood group incompatibility", "streptococcal pneumonia", "premalignant hematological system disease"]
@@ -81,6 +81,8 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 O medicamento é comercializado no Brasil: os 10 registros estão válidos (10 de 10).
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 102980511 | VANK | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
@@ -114,7 +116,9 @@ O medicamento é comercializado no Brasil: os 10 registros estão válidos (10 d
 | 114020029 | NOVAMICIN | NOVAFARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 | 114020090 | CLORIDRATO DE VANCOMICINA | NOVAFARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 41 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 
@@ -130,7 +134,7 @@ Para advertências e contraindicações baseadas em bula, consulte a bula; esses
 **Decisão: Hold**
 
 **Justificativa:**
-- Para esclerodermia difusa, não há ensaios clínicos, a literatura recuperada é irrelevante e não existe vínculo mecanístico plausível. A pontuação alta do TxGNN (0.9992) vem do modelo TxGNN (deep learning) e pode refletir semelhanças aprendidas entre doenças relacionadas, não evidência biológica; o nível de evidência é L5. O medicamento é comercializado no Brasil, com 10 registros válidos de 10.
+- Para esclerodermia difusa, não há ensaios clínicos, a literatura recuperada é irrelevante e não existe vínculo mecanístico plausível. A pontuação alta do TxGNN (0.9992) vem do modelo TxGNN (deep learning) e pode refletir semelhanças aprendidas entre doenças relacionadas, não evidência biológica; o nível de evidência é L5. O medicamento é comercializado no Brasil, com 10 registros válidos de 41.
 
 **Para prosseguir, é necessário:**
 - Não há justificativa para investir em esclerodermia; recomenda-se não avançar nessa direção, salvo surgimento de evidência biológica nova.

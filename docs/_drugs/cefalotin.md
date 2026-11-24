@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 203
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Cefalotin: nova indicação prevista, Uretrite gonocócica (Gonococcal urethritis) (nível de evidência L5). Indicação original: Cefalosporinas / antibióticos sistêmicos simples"
 monitor_inn: "cefalotin"
 predicted_indications: ["gonococcal urethritis", "Ureaplasma urethritis", "bronchitis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "congenital analbuminemia"]
@@ -89,13 +89,21 @@ O medicamento é comercializado.
 
 <!-- review:end br-lic-20261106-cefalotin-2 -->
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 116370100 | Cefalotina Sódica | Não informada | Cefalosporinas |
-| Registro 100410215 | Cefalotina Sódica | Não informada | Cefalosporinas |
-| Registro 104970176 | Cefalotil | Não informada | Antibióticos sistêmicos simples |
-| Registro 174200013 | Cefalotina Sódica | Não informada | Cefalosporinas |
-| Registro 100630084 | Kefalomax | Não informada | Cefalosporinas |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 100630084 | KEFALOMAX | Ativo |
+| 100630240 | CEFALOTINA SODICA | Ativo |
+| 104970176 | CEFALOTIL | Ativo |
+| 116370100 | CEFALOTINA SÓDICA | Ativo |
+| 116370110 | CEFARISTON | Ativo |
+| 155620004 | KEFLIN NEUTRO | Ativo |
+| 155620056 | CEFALOTINA SÓDICA | Ativo |
+| 174200013 | CEFALOTINA SÓDICA | Ativo |
+| 100410215 | CEFALOTINA SÓDICA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

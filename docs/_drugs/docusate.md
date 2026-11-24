@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 274
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Docusate: nova indicação prevista, Síndrome de Plummer-Vinson (Plummer-Vinson syndrome) (nível de evidência L5). Indicação original: Laxantes irritantes ou estimulantes"
 monitor_inn: "docusate"
 predicted_indications: ["Plummer-Vinson syndrome", "vitamin B12- and folate-independent constitutional megaloblastic anemia"]
@@ -66,15 +66,13 @@ Uma segunda previsão do modelo, **anemia megaloblástica constitucional indepen
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 178170103 | HUMECTOL D | Não informada | Laxantes irritantes ou estimulantes |
+<!-- licenses:begin -->
 
-<!-- review:begin br-row-20261112-docusate-1 -->
+| Registro | Produto | Situação |
+|------|------|------|
+| 178170103 | HUMECTOL D | Ativo |
 
-> **Correção de verificação (2026-11-12)**: Texto original: “Registro nº 178170103 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 178170103 (HUMECTOL D) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-row-20261112-docusate-1 -->
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 
@@ -122,7 +120,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 |------|------|------|------|
 | 2026-11-06 | Removido: “e o único registro no Brasil está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “dado que não há registro vigente no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Tabela: registro 178170103 (HUMECTOL D) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 178170103 (HUMECTOL D) está ativo, não cancelado | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte (revisado em 2026-11-20; versão anterior guardada no registro) | [ChEMBL CHEMBL1477036 (docusate): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1477036) |
 
 <!-- review:end log -->

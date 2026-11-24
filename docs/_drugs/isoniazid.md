@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 376
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Isoniazid: nova indicação prevista, Conjuntivite (Conjunctivitis) (nível de evidência L5). Indicação original: Tuberculostáticos (tratamento da tuberculose)"
 monitor_inn: "isoniazid"
 predicted_indications: ["conjunctivitis"]
@@ -85,7 +85,9 @@ Não há ensaios randomizados entre as publicações. Estão listadas abaixo as 
 
 ## Informações de Comercialização no Brasil
 
-Dos 6 registros, 6 estão válidos no Brasil; o medicamento é comercializado.
+Dos 29 registros, 6 estão válidos no Brasil; o medicamento é comercializado.
+
+<!-- licenses:begin -->
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -118,6 +120,8 @@ Dos 6 registros, 6 estão válidos no Brasil; o medicamento é comercializado.
 | 112080059 | LQFE ISONIAZIDA | LABORATÓRIO QUÍMICO FARMACÊUTICO DO EXÉRCITO | Cancelado |
 | 113050032 | RIFANSIL COMPOSTO | LUMA INDUSTRIA FARMACEUTICA LTDA | Cancelado |
 | 120190003 | ISONIAZIDA | GREENPHARMA QUÍMICA E FARMACÊUTICA LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

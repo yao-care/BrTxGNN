@@ -63,9 +63,13 @@ As demais previsões do modelo TxGNN (deep learning) são câncer de mama com re
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 101000666 | OCREVUS | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

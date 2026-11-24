@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 438
 evidence_level: L2
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "mefenamic acid"
 predicted_indications: ["headache disorder", "trigeminal autonomic cephalalgia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "migraine disorder", "migraine with brainstem aura"]
 description: "Mefenamic Acid: nova indicação prevista, Transtorno de cefaleia (headache disorder) (nível de evidência L2). Indicação original: ANTINFLAMATORIOS ANTIREUMATICOS"
@@ -83,13 +83,22 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 O fármaco consta como comercializado no Brasil, com 10 registros válidos, todos de medicamentos com um único princípio ativo.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 135170062 | Ácido Mefenâmico | Não informada | Anti-inflamatórios antirreumáticos |
-| Registro nº 102350856 | Ácido Mefenâmico | Não informada | Anti-inflamatórios |
-| Registro nº 121100381 | Ponstan | Não informada | Anti-inflamatórios antirreumáticos |
-| Registro nº 167730421 | Ponsdril | Não informada | Anti-inflamatórios |
-| Registro nº 100431309 | Fen | Não informada | Anti-inflamatórios antirreumáticos |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 100431309 | FEN | Ativo |
+| 100431411 | ÁCIDO MEFENÂMICO | Ativo |
+| 102350856 | ÁCIDO MEFENÂMICO | Ativo |
+| 105730674 | ÁCIDO MEFENÂMICO | Ativo |
+| 105830792 | ÁCIDO MEFENÂMICO | Ativo |
+| 121100381 | PONSTAN | Ativo |
+| 135170062 | ACIDO MEFENAMICO | Ativo |
+| 167730420 | ÁCIDO MEFENÂMICO | Ativo |
+| 167730421 | PONSDRIL | Ativo |
+| 183260100 | ACIDO MEFENAMICO | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

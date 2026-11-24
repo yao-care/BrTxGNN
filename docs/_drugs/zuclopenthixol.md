@@ -68,9 +68,13 @@ Nenhum dado de segurança específico está disponível nos dados compilados (se
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 104750045 | CLOPIXOL | LUNDBECK BRASIL LTDA | Ativo |
+
+<!-- licenses:end -->
 
 ## Conclusão e Próximos Passos
 

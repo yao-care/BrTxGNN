@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 8
 monitor_inn: "MAGNESIUM SULFATE"
 predicted_indications: ["thrombotic disease", "pharyngitis", "nasal cavity disease", "psychotic disorder", "acute laryngopharyngitis", "headache disorder", "trigeminal autonomic cephalalgia", "treatment-refractory schizophrenia"]
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-24
 description: "Magnesium Sulfate: nova indicação prevista, Doença trombótica (thrombotic disease) (nível de evidência L3). Indicação original: ELETROLITOS SIMPLES"
 ---
 
@@ -80,12 +80,16 @@ Em humanos, as evidências são limitadas. Há um estudo piloto aberto em pacien
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 155920005 | Sulfato de Magnésio | Não informada | Eletrólitos simples |
-| Registro 103870024 | Hypomagne | Não informada | Eletrólitos simples |
-| Registro 192900002 | Sal de Andrews | Não informada | Não informada |
-| Registro 102350339 | Gerovital | Não informada | Polivitamínicos com minerais |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 102350339 | GEROVITAL | Ativo |
+| 103870024 | HYPOMAGNE | Ativo |
+| 155920005 | SULFATO DE MAGNÉSIO | Ativo |
+| 192900002 | SAL DE ANDREWS | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

@@ -68,9 +68,13 @@ O modelo também previu o **distúrbio primário de liberação plaquetária** (
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 155730045 | CINQAIR | TEVA FARMACÊUTICA LTDA. | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

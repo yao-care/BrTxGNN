@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 509
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "PANTOPRAZOLE"
 predicted_indications: ["duodenal obstruction"]
 description: "Pantoprazole: nova indicação prevista, Duodenal obstruction (nível de evidência L5). Indicação original: ANTIULCEROSOS"
@@ -101,6 +101,8 @@ O medicamento está comercializado no Brasil. Abaixo, os 5 primeiros:
 
 <!-- review:end br-lic-20261106-pantoprazole-1 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100430026 | PANTOPRAZOL | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -134,7 +136,9 @@ O medicamento está comercializado no Brasil. Abaixo, os 5 primeiros:
 | 105831007 | PANTOPRAZOL MAGNÉSICO | GERMED FARMACEUTICA LTDA | Ativo |
 | 106390182 | PANTOZOL | TAKEDA PHARMA LTDA. | Ativo |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 103 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ---
 

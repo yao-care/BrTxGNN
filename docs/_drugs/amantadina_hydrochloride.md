@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00915
 monitor_inn: "Amantadine"
 predicted_indications: ["Rasmussen subacute encephalitis", "transaldolase deficiency", "myelitis", "PLA2G6-associated neurodegeneration"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Amantadina Hydrochloride: nova indicação prevista, Encefalite subaguda de Rasmussen (Rasmussen subacute encephalitis) (nível de evidência L5). Indicação original: ANTIPARKINSONIANOS"
 ---
 
@@ -73,9 +73,13 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 100431410 | MANTIDAN | Não informada | ANTIPARKINSONIANOS |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 100431410 | MANTIDAN | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

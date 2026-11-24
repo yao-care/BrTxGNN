@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 127
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "BETAMETHASONE"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions"]
 description: "Betamethasone: nova indicação prevista, Mucinose folicular (alopecia mucinosa) (nível de evidência L4). No Brasil, registros na ANVISA: 497 (ativos: 172)"
@@ -76,6 +76,8 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Há 497 registros no total, dos quais 172 válidos e 325 cancelados. A tabela lista alguns dos principais.
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100430797 | CETOCONAZOL + DIPROPIONATO DE BETAMETASONA | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -108,6 +110,10 @@ Há 497 registros no total, dos quais 172 válidos e 325 cancelados. A tabela li
 | 102350711 | DIPROPIONATO DE BETAMETASONA | EMS S/A | Ativo |
 | 102350713 | DIPROPIONATO DE BETAMETASONA + SULFATO DE GENTAMICINA | EMS S/A | Ativo |
 | 102350736 | MALEATO DE DEXCLORFENIRAMINA + BETAMETASONA | EMS S/A | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 497 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 555
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Pseudoephedrine: nova indicação prevista, Doença da cavidade nasal (nasal cavity disease) (nível de evidência L5). Indicação original: Anti-histamínicos sistêmicos (em associação)"
 monitor_inn: "PSEUDOEPHEDRINE"
 predicted_indications: ["nasal cavity disease", "allergic urticaria"]
@@ -88,6 +88,8 @@ Principais exemplos:
 
 <!-- review:end br-lic-20261106-pseudoephedrine-1 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100290187 | DESALEX D12 | ORGANON FARMACÊUTICA LTDA. | Ativo |
@@ -121,7 +123,9 @@ Principais exemplos:
 | 167730429 | EXPECTAMIN | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
 | 186200001 | ALLEGRA D | OPELLA HEALTHCARE BRAZIL LTDA | Ativo |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 127 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

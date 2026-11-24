@@ -71,6 +71,8 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100330232 | ADAZO | LIBBS FARMACÊUTICA LTDA | Ativo |
@@ -101,6 +103,8 @@ Atualmente não há literatura relacionada.
 | 135690287 | ADAPALENO | EMS SIGMA PHARMA LTDA | Cancelado |
 | 167730154 | ADAPALENO | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 | 183260033 | ADAPEL | SANOFI MEDLEY FARMACÊUTICA LTDA. | Cancelado |
+
+<!-- licenses:end -->
 
 Estão listados os 28 registros.
 

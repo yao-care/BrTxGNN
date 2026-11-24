@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 375
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Isoleucine: nova indicação prevista, Gastroparesia (Gastroparesis) (nível de evidência L5). Indicação original: Nutrientes parenterais"
 monitor_inn: "ISOLEUCINE"
 predicted_indications: ["gastroparesis (disease)"]
@@ -85,6 +85,8 @@ Dos 31 registros, 14 estão válidos. Principais registros (30 de 31):
 
 <!-- review:end br-lic-20261112-isoleucine-2 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100410133 | AMINOSTERIL N-HEPA 8% | FRESENIUS KABI BRASIL LTDA | Ativo |
@@ -103,7 +105,7 @@ Dos 31 registros, 14 estão válidos. Principais registros (30 de 31):
 | 106830186 | NUMETA PED | BAXTER HOSPITALAR LTDA | Ativo |
 | 100410003 | AMINOSTERIL HEPA | FRESENIUS KABI BRASIL LTDA | Cancelado |
 | 100410004 | AMINOSTERIL NEFRO | FRESENIUS KABI BRASIL LTDA | Cancelado |
-| 100410020 | SOLUÇÃO DE AMINOÁCIDOS COM ELETRÓLITOS E SEM CARBOIDRATOS  A | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100410020 | SOLUÇÃO DE AMINOÁCIDOS COM ELETRÓLITOS E SEM CARBOIDRATOS AM | FRESENIUS KABI BRASIL LTDA | Cancelado |
 | 100410026 | AMINOSTERIL 10% | FRESENIUS KABI BRASIL LTDA | Cancelado |
 | 100410041 | AMINOSTERIL HEPA 8% + GLICOSE | FRESENIUS KABI BRASIL LTDA | Cancelado |
 | 100850001 | AMINOPLASMAL L 10 A | LABORATORIOS B. BRAUN S/A | Cancelado |
@@ -118,7 +120,9 @@ Dos 31 registros, 14 estão válidos. Principais registros (30 de 31):
 | 106830176 | OLICLINOMEL N8-800 | BAXTER HOSPITALAR LTDA | Cancelado |
 | 113440016 | SOLUCAO DE AMINOACIDOS 4,08% | ENDOMED LABORATORIO FARMACEUTICO LTDA | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 31 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 537
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Potassium Acetate: nova indicação prevista, Acidose Tubular Renal (Renal Tubular Acidosis) (nível de evidência L5). Indicação original: Nutrientes parenterais"
 monitor_inn: "POTASSIUM ACETATE"
 predicted_indications: ["renal tubular acidosis"]
@@ -64,12 +64,16 @@ Há, porém, ressalvas importantes. Não existem evidências diretas do acetato 
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 100850246 | Nutriflex Lipid | Não informada | Nutrientes parenterais |
-| Registro nº 100850247 | Nutriflex | Não informada | Nutrientes parenterais |
-| Registro nº 106830186 | Numeta Ped | Não informada | Reposição hidroeletrolítica e alimentação parenteral |
-| Registro nº 106830185 | Numeta Neo | Não informada | Reposição hidroeletrolítica e alimentação parenteral |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 100850246 | NUTRIFLEX LIPID | Ativo |
+| 100850247 | NUTRIFLEX | Ativo |
+| 106830185 | NUMETA NEO | Ativo |
+| 106830186 | NUMETA PED | Ativo |
+
+<!-- licenses:end -->
 
 Os quatro registros constam como válidos; o medicamento está comercializado no Brasil (4 registros válidos de 4).
 

@@ -83,9 +83,13 @@ Observação: para a segunda previsão (hemofilia), foram recuperadas três publ
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 171260002 | PANHEMATIN | RECORDATI RARE DISEASES COMÉRCIO DE MEDICAMENTOS L | Ativo |
+
+<!-- licenses:end -->
 
 ---
 

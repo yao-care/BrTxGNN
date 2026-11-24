@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 518
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Perindopril: nova indicação prevista, Doença renal hipertensiva maligna (malignant hypertensive renal disea… (nível de evidência L5). Indicação original: Anti-hipertensivos"
 monitor_inn: "perindopril"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
@@ -74,6 +74,8 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 102351261 | PERINDOPRIL ERBUMINA + INDAPAMIDA | EMS S/A | Ativo |
@@ -88,6 +90,8 @@ Atualmente não há ensaios clínicos relacionados registrados.
 | 112780051 | COVERSYL | LABORATÓRIOS SERVIER DO BRASIL LTDA | Cancelado |
 | 112780056 | COVERSYL PLUS | LABORATÓRIOS SERVIER DO BRASIL LTDA | Cancelado |
 
+<!-- licenses:end -->
+
 Há ainda um sexto registro (TRIPLIXAM, inibidores da ECA, associações), também cancelado.
 
 ## Considerações de Segurança
@@ -101,7 +105,7 @@ Há ainda um sexto registro (TRIPLIXAM, inibidores da ECA, associações), tamb�
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão tem pontuação alta no modelo TxGNN (deep learning) (0,9977), mas não há ensaios clínicos nem literatura relevante para a doença renal hipertensiva maligna (nível L4). O medicamento está comercializado no Brasil (6 registros válidos de 6), e a segurança renal exige cautela.
+- A previsão tem pontuação alta no modelo TxGNN (deep learning) (0,9977), mas não há ensaios clínicos nem literatura relevante para a doença renal hipertensiva maligna (nível L4). O medicamento está comercializado no Brasil (6 registros válidos de 11), e a segurança renal exige cautela.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), ainda indisponível.

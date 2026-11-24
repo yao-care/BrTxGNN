@@ -81,9 +81,13 @@ Entre as 10 previsões, algumas têm literatura, mas ela se refere sobretudo a u
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 121100476 | LORBRENA | PFIZER BRASIL LTDA | Ativo |
+
+<!-- licenses:end -->
 
 ## Citotoxicidade
 

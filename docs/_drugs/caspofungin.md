@@ -72,6 +72,8 @@ O medicamento está comercializado no Brasil: 4 dos 6 registros são válidos.
 
 <!-- review:end br-lic-20261112-caspofungin-1 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100431107 | ACETATO DE CASPOFUNGINA | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -80,6 +82,8 @@ O medicamento está comercializado no Brasil: 4 dos 6 registros são válidos.
 | 151430076 | KAZFONA | DR. REDDYS FARMACÊUTICA DO BRASIL LTDA | Ativo |
 | 100290033 | CANCIDAS | ORGANON FARMACÊUTICA LTDA. | Cancelado |
 | 101710226 | CANCIDAS | MERCK SHARP & DOHME FARMACEUTICA LTDA. | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

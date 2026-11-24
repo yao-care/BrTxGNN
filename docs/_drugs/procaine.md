@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 551
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-24
 monitor_inn: "Procaine"
 predicted_indications: ["methemoglobinemia", "methemoglobinemia, alpha type", "Tourette syndrome", "anaphylaxis", "methemoglobin reductase deficiency", "hyperthyroidism", "fibromyalgia", "tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis"]
 description: "Procaine: nova indicação prevista, Metemoglobinemia (methemoglobinemia) (nível de evidência L4). Indicação original: ANESTESICOS LOCAIS"
@@ -93,20 +93,21 @@ Nenhum desses trabalhos demonstra benefício da procaína no tratamento da metem
 
 ## Informações de Comercialização no Brasil
 
-O medicamento é comercializado: dos 40 registros, 8 têm licença válida.
+O medicamento é comercializado: dos 40 registros, 7 têm licença válida.
 
 <!-- review:begin br-lic-20261112-procaine-1 -->
 
-> **Correção de verificação (2026-11-12)**: Texto original: “dos 4 registros encontrados, 4 têm licença válida” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 40 registros para este medicamento, 8 válidos e 32 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “dos 4 registros encontrados, 4 têm licença válida” Corrigido conforme os dados abertos de medicamentos da ANVISA (situação de 2026-11-23): 40 registros para este medicamento, 7 válidos e 33 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261112-procaine-1 -->
+
+<!-- licenses:begin -->
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 103420050 | PASSAJÁ | FARMABRAZ BETA ATALAIA FARMACEUTICA LTDA. | Ativo |
 | 103700158 | BENZAPEN G | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
 | 105700050 | DORDENTE | HEARST LABORATÓRIOS DO BRASIL LTDA | Ativo |
-| 110110031 | WONILIN | NEWCOM FARMACEUTICA LTDA. | Cancelado |
 | 110390113 | FURP-BENZILPENICILINA PROCAINA + BENZILPENICILINA POTASSICA | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Ativo |
 | 115600080 | AFTINE | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
 | 116370115 | PENKARON | BLAU FARMACÊUTICA S.A. | Ativo |
@@ -125,16 +126,19 @@ O medicamento é comercializado: dos 40 registros, 8 têm licença válida.
 | 103940492 | FONERGIN | LABORATÓRIO AMERICANO DE FARMACOTERAPIA S/A | Cancelado |
 | 104540006 | TROMBOPLASTINA + ASSOC. | DAIICHI SANKYO BRASIL FARMACÊUTICA LTDA | Cancelado |
 | 104810061 | NETACIL | 1FARMA INDUSTRIA FARMACEUTICA LTDA | Cancelado |
-| 104970216 | PENI  PROC | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Cancelado |
+| 104970216 | PENI PROC | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Cancelado |
 | 105530209 | CLORIDRATO DE PROCAINA INJETÁVEL ABBOTT | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Cancelado |
 | 105830102 | BISMU-JET | GERMED FARMACEUTICA LTDA | Cancelado |
 | 105830169 | DEXANEURIN | GERMED FARMACEUTICA LTDA | Cancelado |
 | 108580247 | PENCIL 400 | PRODOTTI LABORATÓRIO FARMACÊUTICO LTDA. | Cancelado |
 | 108930002 | ANESTESIOL | NUTRACOM INDUSTRIA E COMERCIO LTDA | Cancelado |
 | 109740018 | BENAPEN | BIOLAB SANUS FARMACÊUTICA LTDA | Cancelado |
+| 110110031 | WONILIN | NEWCOM FARMACEUTICA LTDA. | Cancelado |
 | 112350019 | JOSFENOL | JOSPER FARMACÊUTICA LTDA | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 40 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 
@@ -183,7 +187,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 |------|------|------|------|
 | 2026-11-06 | Removido: “e os registros no Brasil estão todos cancelados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “já que não há registro vigente no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Registros válidos: 4 de 4 → 8 de 40 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | Registros válidos: 4 de 4 → 7 de 40 | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

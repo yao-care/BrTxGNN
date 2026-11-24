@@ -77,6 +77,8 @@ Importante: nenhuma das publicações recuperadas estuda diretamente o letrozol 
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100430953 | LETROZOL | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -106,6 +108,8 @@ Importante: nenhuma das publicações recuperadas estuda diretamente o letrozol 
 | 146820080 | LILIYA | SUN FARMACÊUTICA DO BRASIL LTDA | Cancelado |
 | 149320016 | LETROZOL | KEMMI PHARMA LTDA | Cancelado |
 | 151430036 | LETROZOL | DR. REDDYS FARMACÊUTICA DO BRASIL LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Citotoxicidade
 

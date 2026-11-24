@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00819
 monitor_inn: "Acetazolamide"
 predicted_indications: ["exercise-induced malignant hyperthermia", "hypertrophic cardiomyopathy", "congenital myopathy with excess of thin filaments", "hypertrophic cardiomyopathy due to intensive athletic training", "distal myopathy, Tateyama type", "cirrhotic cardiomyopathy", "cardiomyopathy", "intestinal obstruction", "glycogen storage disease due to acid maltase deficiency, late-onset", "unclassified intestinal pseudoobstruction"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Acetazolamida: nova indicação prevista, hipertermia maligna induzida por exercício (exercise-induced malignant hyperthermia) (nível de evidência L5). No Brasil, registros na ANVISA: 3 (ativos: 1)"
 ---
 
@@ -72,11 +72,15 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| 104970289 | DIAMOX | Não informada | Não registrada nos dados locais |
-| 107150117 | ZOLAMOX | Não informada | Não registrada nos dados locais |
-| 121100102 | DIAMOX | Não informada | Não registrada nos dados locais |
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 104970289 | DIAMOX | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 107150117 | ZOLAMOX | CAZI QUIMICA FARMACEUTICA INDUSTRIA E COMERCIO LTD | Cancelado |
+| 121100102 | DIAMOX | PFIZER BRASIL LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 Dos registros listados, 1 está válido e 2 estão cancelados.
 

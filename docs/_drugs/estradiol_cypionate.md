@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 300
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Estradiol Cypionate: nova indicação prevista, Forma sintomática da síndrome do X frágil em mulheres portadoras (sym… (nível de evidência L5). Indicação original: Anticoncepcionais"
 monitor_inn: "Estradiol cypionate"
 predicted_indications: ["symptomatic form of fragile X syndrome in female carrier", "partial trisomy/tetrasomy of the short arm of chromosome 12", "partial trisomy/tetrasomy of the short arm of chromosome 5", "partial trisomy/tetrasomy of the short arm of chromosome 18", "ovarian remnant syndrome", "anovulation", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "blepharophimosis-epicanthus inversus-ptosis", "partial autosomal trisomy/tetrasomy", "luteoma of pregnancy"]
@@ -73,36 +73,16 @@ Atualmente não há literatura relacionada para a indicação principal (síndro
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 110360271 | Naomi | Não informada | Anticoncepcionais |
-| Registro 110360270 | Acetato de medroxiprogesterona + cipionato de estradiol | Não informada | Anticoncepcionais |
-| Registro 110360266 | Cyclofemina | Não informada | Anticoncepcionais |
-| Registro 110360267 | Lyndaveluno | Não informada | Anticoncepcionais |
+<!-- licenses:begin -->
 
-<!-- review:begin br-row-20261112-estradiol_cypionate-1 -->
+| Registro | Produto | Situação |
+|------|------|------|
+| 110360266 | CYCLOFEMINA | Ativo |
+| 110360267 | LYNDAVELUNO | Ativo |
+| 110360270 | ACETATO DE MEDROXIPROGESTERONA +CIPIONATO DE ESTRADIOL | Ativo |
+| 110360271 | NAOMI | Ativo |
 
-> **Correção de verificação (2026-11-12)**: Texto original: “Naomi / Não informada / Anticoncepcionais (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 110360271 (NAOMI) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-row-20261112-estradiol_cypionate-1 -->
-
-<!-- review:begin br-row-20261112-estradiol_cypionate-2 -->
-
-> **Correção de verificação (2026-11-12)**: Texto original: “Acetato de medroxiprogesterona + cipionato de estradiol / Não informada / Anticoncepcionais (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 110360270 (ACETATO DE MEDROXIPROGESTERONA +CIPIONATO DE ESTRADIOL) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-row-20261112-estradiol_cypionate-2 -->
-
-<!-- review:begin br-row-20261112-estradiol_cypionate-3 -->
-
-> **Correção de verificação (2026-11-12)**: Texto original: “Cyclofemina / Não informada / Anticoncepcionais (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 110360266 (CYCLOFEMINA) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-row-20261112-estradiol_cypionate-3 -->
-
-<!-- review:begin br-row-20261112-estradiol_cypionate-4 -->
-
-> **Correção de verificação (2026-11-12)**: Texto original: “Lyndaveluno / Não informada / Anticoncepcionais (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 110360267 (LYNDAVELUNO) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-row-20261112-estradiol_cypionate-4 -->
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 
@@ -139,10 +119,10 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “dado que não há registro vigente no país” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Tabela: registro 110360271 (NAOMI) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Tabela: registro 110360270 (ACETATO DE MEDROXIPROGESTERONA +CIPIONATO DE ESTRADIOL) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Tabela: registro 110360266 (CYCLOFEMINA) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Tabela: registro 110360267 (LYNDAVELUNO) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 110360271 (NAOMI) está ativo, não cancelado | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 110360270 (ACETATO DE MEDROXIPROGESTERONA +CIPIONATO DE ESTRADIOL) está ativo, não cancelado | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 110360266 (CYCLOFEMINA) está ativo, não cancelado | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 110360267 (LYNDAVELUNO) está ativo, não cancelado | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Depo-Estradiol (estradiol cypionate) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9a4229fd-fecd-4ac1-9c4f-6d442533457f) |
 
 <!-- review:end log -->

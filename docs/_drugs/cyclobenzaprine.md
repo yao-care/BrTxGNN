@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 244
 evidence_level: L2
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cyclobenzaprine: nova indicação prevista, Síndrome de Dor Miofascial (Myofascial Pain Syndrome) (nível de evidência L2). Indicação original: Relaxantes musculares"
 monitor_inn: "Cyclobenzaprine"
 predicted_indications: ["myofascial pain syndrome", "neuralgia", "papillary conjunctivitis"]
@@ -97,6 +97,8 @@ O medicamento está comercializado no Brasil. Principais exemplos:
 
 <!-- review:end br-lic-20261106-cyclobenzaprine-2 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100430945 | CLORIDRATO DE CICLOBENZAPRINA | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -130,7 +132,9 @@ O medicamento está comercializado no Brasil. Principais exemplos:
 | 155840043 | CLORIDRATO DE CICLOBENZAPRINA | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
 | 167730107 | MIOFIBRAX | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 58 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

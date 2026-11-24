@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 428
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Loxoprofen: nova indicação prevista, Síndrome de microftalmia colobomatosa com displasia rizomélica (colob… (nível de evidência L5). Indicação original: Anti-inflamatórios"
 monitor_inn: "loxoprofen"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
@@ -64,36 +64,16 @@ A pontuação alta do TxGNN (0,9980) vem do modelo TxGNN (deep learning), é ape
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 102351441 | Loxoprofeno Sódico | Não informada | Anti-inflamatórios |
-| Registro nº 104540159 | Loxonin | Não informada | Anti-inflamatórios |
-| Registro nº 104540188 | Loxonin Flex | Não informada | Anti-inflamatórios |
-| Registro nº 105730495 | Oxotron | Não informada | Anti-inflamatórios |
+<!-- licenses:begin -->
 
-<!-- review:begin br-row-20261112-loxoprofen-1 -->
+| Registro | Produto | Situação |
+|------|------|------|
+| 102351441 | LOXOPROFENO SÓDICO | Ativo |
+| 104540159 | LOXONIN | Ativo |
+| 104540188 | LOXONIN FLEX | Ativo |
+| 105730495 | OXOTRON | Ativo |
 
-> **Correção de verificação (2026-11-12)**: Texto original: “Loxoprofeno Sódico / Não informada / Anti-inflamatórios (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 102351441 (LOXOPROFENO SÓDICO) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-row-20261112-loxoprofen-1 -->
-
-<!-- review:begin br-row-20261112-loxoprofen-2 -->
-
-> **Correção de verificação (2026-11-12)**: Texto original: “Loxonin / Não informada / Anti-inflamatórios (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 104540159 (LOXONIN) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-row-20261112-loxoprofen-2 -->
-
-<!-- review:begin br-row-20261112-loxoprofen-3 -->
-
-> **Correção de verificação (2026-11-12)**: Texto original: “Loxonin Flex / Não informada / Anti-inflamatórios (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 104540188 (LOXONIN FLEX) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-row-20261112-loxoprofen-3 -->
-
-<!-- review:begin br-row-20261112-loxoprofen-4 -->
-
-> **Correção de verificação (2026-11-12)**: Texto original: “Oxotron / Não informada / Anti-inflamatórios (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 105730495 (OXOTRON) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-row-20261112-loxoprofen-4 -->
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 
@@ -133,10 +113,10 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Considerar que não há registro ativo no Brasil, o que exigiria novo processo regulatório” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Tabela: registro 102351441 (LOXOPROFENO SÓDICO) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Tabela: registro 104540159 (LOXONIN) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Tabela: registro 104540188 (LOXONIN FLEX) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Tabela: registro 105730495 (OXOTRON) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 102351441 (LOXOPROFENO SÓDICO) está ativo, não cancelado | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 104540159 (LOXONIN) está ativo, não cancelado | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 104540188 (LOXONIN FLEX) está ativo, não cancelado | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 105730495 (OXOTRON) está ativo, não cancelado | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte (revisado em 2026-11-20; versão anterior guardada no registro) | [ChEMBL CHEMBL19299 (loxoprofen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL19299) |
 
 <!-- review:end log -->

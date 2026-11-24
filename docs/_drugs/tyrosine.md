@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 659
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Tyrosine: nova indicação prevista, Síndrome da cauda equina (cauda equina syndrome) (nível de evidência L5). Indicação original: Produtos para dietas especiais"
 monitor_inn: "Tyrosine"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "angle-closure glaucoma", "hyperthyroidism", "postural orthostatic tachycardia syndrome", "hyperthyroxinemia", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "traumatic glaucoma", "aqueous misdirection", "neovascular glaucoma"]
@@ -79,13 +79,22 @@ Os 10 registros abaixo estão válidos (10 de 10); o medicamento está comercial
 
 <!-- review:end br-lic-20261106-tyrosine-1 -->
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 100419923 | KETOSTERIL | Não informada | Produtos para dietas especiais |
-| Registro 100410131 | NEPHROTECT | Não informada | Nutrientes parenterais |
-| Registro 100850145 | AMIXAL | Não informada | Nutrientes parenterais |
-| Registro 100410149 | SMOFKABIVEN LIVRE DE ELETRÓLITOS | Não informada | Nutrientes parenterais |
-| Registro 106830098 | PRIMENE | Não informada | Nutrientes parenterais |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 100410131 | NEPHROTECT | Ativo |
+| 100410149 | SMOFKABIVEN LIVRE DE ELETRÓLITOS | Ativo |
+| 100410150 | SMOFKABIVEN | Ativo |
+| 100419923 | KETOSTERIL | Ativo |
+| 100419935 | AMINOVEN | Ativo |
+| 100850145 | AMIXAL | Ativo |
+| 106830098 | PRIMENE | Ativo |
+| 106830181 | OLIMEL | Ativo |
+| 106830185 | NUMETA NEO | Ativo |
+| 106830186 | NUMETA PED | Ativo |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

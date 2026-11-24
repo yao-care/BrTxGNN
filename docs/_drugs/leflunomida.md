@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB01097
 monitor_inn: "Leflunomide"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Leflunomida: nova indicação prevista, Síndrome de braquidactilia-sindactilia (brachydactyly-syndactyly syndrome) (nível de evidência L5). No Brasil, registros na ANVISA: 19 (ativos: 7)"
 ---
 
@@ -64,13 +64,31 @@ Esse elo, porém, é frágil. Inibir a DHODH não deveria corrigir uma malforma�
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| 100630311 | Leflunomida (Instituto Biochimico) | Não informada | Não registrada |
-| 102351087 | Leflunomida (EMS) | Não informada | Não registrada |
-| 102980396 | Leflunomida (Cristália) | Não informada | Não registrada |
-| 102980457 | Leflun | Não informada | Não registrada |
-| 183260442 | Arava | Não informada | Não registrada |
+<!-- licenses:begin -->
+
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100630311 | LEFLUNOMIDA | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 102351087 | LEFLUNOMIDA | EMS S/A | Ativo |
+| 102980396 | LEFLUNOMIDA | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980457 | LEFLUN | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 126250098 | LEFLUNOMIDA | LABORATÓRIO FARMACÊUTICO DA MARINHA | Ativo |
+| 126250105 | LFM-LEFLUNOMIDA | LABORATÓRIO FARMACÊUTICO DA MARINHA | Ativo |
+| 183260442 | ARAVA | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+| 102980397 | LEFLUN | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Cancelado |
+| 105730416 | REUMIAN | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Cancelado |
+| 105730417 | LEFLUNOMIDA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Cancelado |
+| 105730633 | LEFLUNOMIDA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Cancelado |
+| 105830764 | LEFLUNOMIDA | GERMED FARMACEUTICA LTDA | Cancelado |
+| 112130429 | LEFLUNOMIDA | BIOSINTÉTICA FARMACÊUTICA LTDA | Cancelado |
+| 113000264 | ARAVA | SANOFI-AVENTIS FARMACÊUTICA LTDA | Cancelado |
+| 122140053 | LEFLUTEC | ADIUM S.A. | Cancelado |
+| 126250094 | LFM-LEFLUNOMIDA | LABORATÓRIO FARMACÊUTICO DA MARINHA | Cancelado |
+| 135690664 | LEMIDA | EMS SIGMA PHARMA LTDA | Cancelado |
+| 167730385 | LEFLUNOMIDA | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 167730386 | ARTGRAN | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 Estes são 5 dos 7 registros válidos; há ainda 12 registros cancelados.
 

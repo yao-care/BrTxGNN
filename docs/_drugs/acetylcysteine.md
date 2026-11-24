@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 22
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Acetylcysteine: nova indicação prevista, Doença trombótica (thrombotic disease) (nível de evidência L2). Indicação original: Expectorantes balsâmicos e mucolítico"
 monitor_inn: "Acetylcysteine"
 predicted_indications: ["thrombotic disease", "closed-angle glaucoma", "nasal cavity disease", "dry eye syndrome", "pharyngitis", "acute laryngopharyngitis", "tracheal disease", "transient ischemic attack (disease)", "laryngotracheitis", "angle-closure glaucoma"]
@@ -99,6 +99,8 @@ O medicamento está comercializado. Principais registros:
 
 <!-- review:end br-lic-20261106-acetylcysteine-1 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100410133 | AMINOSTERIL N-HEPA 8% | FRESENIUS KABI BRASIL LTDA | Ativo |
@@ -121,7 +123,6 @@ O medicamento está comercializado. Principais registros:
 | 105830972 | ACETILCISTEÍNA | GERMED FARMACEUTICA LTDA | Ativo |
 | 115600206 | PULMONARE | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
 | 115600232 | ACETILCISTEÍNA | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
-| 116370073 | ACETILCISTEÍNA | BLAU FARMACÊUTICA S.A. | Cancelado |
 | 116370122 | BROMUC | BLAU FARMACÊUTICA S.A. | Ativo |
 | 125680100 | ACETILCISTEÍNA | PRATI DONADUZZI & CIA LTDA | Ativo |
 | 125680127 | ACETILCISTEÍNA | PRATI DONADUZZI & CIA LTDA | Ativo |
@@ -131,8 +132,11 @@ O medicamento está comercializado. Principais registros:
 | 154230140 | CISTEIL | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
 | 154230289 | ACETILCISTEÍNA | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
 | 155840185 | CETILPLEX | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 155840519 | ACETILCISTEÍNA | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 68 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

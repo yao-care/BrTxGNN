@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 673
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Volanesorsen: nova indicação prevista, Anemia megaloblástica (Megaloblastic Anemia) (nível de evidência L5). Indicação original: Outros agentes modificadores de lipídios"
 monitor_inn: "volanesorsen"
 predicted_indications: ["megaloblastic anemia (disease)", "sclerosing cholangitis", "sickle cell disease and related diseases", "sickle cell-hemoglobin E disease syndrome", "sickle cell-hemoglobin d disease syndrome", "sickle cell-beta-thalassemia disease syndrome", "sickle cell-hemoglobin c disease syndrome", "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome", "meningococcal infection", "paroxysmal nocturnal hemoglobinuria"]
@@ -69,15 +69,13 @@ Outras previsões do modelo (colangite esclerosante, doenças falciformes, menin
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 157700003 | WAYLIVRA | Não informada | Outros agentes modificadores de lipídios |
+<!-- licenses:begin -->
 
-<!-- review:begin br-row-20261112-volanesorsen-1 -->
+| Registro | Produto | Situação |
+|------|------|------|
+| 157700003 | WAYLIVRA | Ativo |
 
-> **Correção de verificação (2026-11-12)**: Texto original: “Registro nº 157700003 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 157700003 (WAYLIVRA) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
-
-<!-- review:end br-row-20261112-volanesorsen-1 -->
+<!-- licenses:end -->
 
 ---
 
@@ -120,7 +118,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “O único registro no Brasil está cancelado, e h” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Tabela: registro 157700003 (WAYLIVRA) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 157700003 (WAYLIVRA) está ativo, não cancelado | Substituído pela tabela de registros gerada por programa (antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

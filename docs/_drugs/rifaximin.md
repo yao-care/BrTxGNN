@@ -71,10 +71,14 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 109740276 | XIFAXAN | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
 | 109740225 | XIFAXAN | BIOLAB SANUS FARMACÊUTICA LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

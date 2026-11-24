@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 565
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "rifampicin"
 predicted_indications: ["conjunctivitis", "multiple endocrine neoplasia", "acne (disease)", "conjunctivitis (disease)", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "rheumatoid arthritis", "acute contagious conjunctivitis", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
 description: "Rifampicin: nova indicação prevista, Conjuntivite (conjunctivitis) (nível de evidência L3). Indicação original: RIFAMPICINAS"
@@ -83,6 +83,8 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 110390016 | FURP-RIFAMPICINA | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Ativo |
@@ -116,7 +118,9 @@ Atualmente não há ensaios clínicos relacionados registrados.
 | 113050032 | RIFANSIL COMPOSTO | LUMA INDUSTRIA FARMACEUTICA LTDA | Cancelado |
 | 113050033 | RIFANSIL | LUMA INDUSTRIA FARMACEUTICA LTDA | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 33 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

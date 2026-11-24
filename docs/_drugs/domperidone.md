@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 275
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Domperidone: nova indicação prevista, Síndrome Nefrogênica de Antidiurese Inapropriada (Nephrogenic Syndrom… (nível de evidência L5). Indicação original: Antieméticos e antinauseantes"
 monitor_inn: "DOMPERIDONE"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
@@ -66,6 +66,8 @@ A pontuação vem do modelo TxGNN (aprendizado profundo) e pode refletir semelha
 
 Todos os 19 registros encontram-se válidos; abaixo, os 5 primeiros. A forma farmacêutica não consta nos dados compilados.
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100431033 | DOMPERIX | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -99,7 +101,9 @@ Todos os 19 registros encontram-se válidos; abaixo, os 5 primeiros. A forma far
 | 105830687 | MOTIRIDONA | GERMED FARMACEUTICA LTDA | Cancelado |
 | 105830692 | DOMPERIDONA | GERMED FARMACEUTICA LTDA | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 40 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

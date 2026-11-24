@@ -69,9 +69,13 @@ Em teoria, a via PI3K/Akt/mTOR está implicada no remodelamento vascular pulmona
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100681165 | PIQRAY | NOVARTIS BIOCIENCIAS S.A | Ativo |
+
+<!-- licenses:end -->
 
 ## Citotoxicidade
 

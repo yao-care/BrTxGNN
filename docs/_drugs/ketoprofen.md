@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 383
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ketoprofen: nova indicação prevista, Displasia acromesomélica tipo Hunter-Thompson (acromesomelic dysplasi… (nível de evidência L5). Indicação original: Anti-inflamatórios e antirreumáticos"
 monitor_inn: "KETOPROFEN"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "WHIM syndrome", "juvenile arthritis due to defect in LACC1"]
@@ -80,6 +80,8 @@ Principais registros (30 de 92):
 
 <!-- review:end br-lic-20261106-ketoprofen-1 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100430722 | CETOPROFENO | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -113,7 +115,9 @@ Principais registros (30 de 92):
 | 105730655 | CETOPROFENO | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
 | 105830925 | CETOPROFENO | GERMED FARMACEUTICA LTDA | Ativo |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 92 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

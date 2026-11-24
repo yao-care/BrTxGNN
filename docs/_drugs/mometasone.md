@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 465
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Mometasone: nova indicação prevista, Linfoma cutâneo primário de células T (primary cutaneous T-cell lymph… (nível de evidência L5). Indicação original: Produtos para terapia nasal de ação específica"
 monitor_inn: "Mometasone"
 predicted_indications: ["primary cutaneous T-cell lymphoma"]
@@ -71,13 +71,15 @@ Há, porém, uma ressalva importante: não existem dados de estudos específicos
 
 ## Informações de Comercialização no Brasil
 
-O medicamento é comercializado no Brasil: dos 58 registros, 28 estão vigentes.
+O medicamento é comercializado no Brasil: dos 58 registros, 26 estão vigentes.
 
 <!-- review:begin br-lic-20261112-mometasone-1 -->
 
-> **Correção de verificação (2026-11-12)**: Texto original: “dos 9 registros encontrados, 9 estão vigentes” Corrigido conforme os dados abertos de medicamentos da ANVISA (2026-11-05): 58 registros para este medicamento, 28 válidos e 30 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-24)**: Texto original: “dos 9 registros encontrados, 9 estão vigentes” Corrigido conforme os dados abertos de medicamentos da ANVISA (situação de 2026-11-23): 58 registros para este medicamento, 26 válidos e 32 cancelados ou caducos; os números atuais estão no Resumo rápido. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261112-mometasone-1 -->
+
+<!-- licenses:begin -->
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -93,8 +95,6 @@ O medicamento é comercializado no Brasil: dos 58 registros, 28 estão vigentes.
 | 102350791 | FUROATO DE MOMETASONA | EMS S/A | Ativo |
 | 102351472 | FUROATO DE MOMETASONA | EMS S/A | Ativo |
 | 102351479 | ATOF | EMS S/A | Ativo |
-| 105730631 | FUROATO DE MOMETASONA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Cancelado |
-| 105730664 | FUROATO DE MOMETASONA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Cancelado |
 | 105830485 | FUROATO DE MOMETASONA | GERMED FARMACEUTICA LTDA | Ativo |
 | 105831053 | FUROATO DE MOMETASONA | GERMED FARMACEUTICA LTDA | Ativo |
 | 105831069 | FUROATO DE MOMETASONA | GERMED FARMACEUTICA LTDA | Ativo |
@@ -111,8 +111,12 @@ O medicamento é comercializado no Brasil: dos 58 registros, 28 estão vigentes.
 | 183260221 | FUROATO DE MOMETASONA | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
 | 100430768 | FUROATO DE MOMETASONA | EUROFARMA LABORATORIOS S.A. | Cancelado |
 | 100430769 | FUROATO DE MOMETASONA | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100930182 | ELOCOM | MANTECORP INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A. | Cancelado |
+| 100930195 | NASONEX | MANTECORP INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A. | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 58 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 (A tabela exibe 2 dos 30 registros cancelados.)
 
@@ -164,7 +168,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, não há registro vigente no Brasil, e as informações de segurança da bula não estão disponíveis” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-11 | Removido: “dado que o medicamento é comercializado no Brasil, com 9 registros vigentes de 9” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
-| 2026-11-12 | Registros vigentes: 9 de 9 → 28 de 58 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-24 | Registros vigentes: 9 de 9 → 26 de 58 | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Contagem exibida: “Exibidos os 5 primeiros de 9 registros cancelados” → “A tabela exibe 2 dos 30 registros cancelados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Asmanex Hfa (mometasone furoate) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0c6d63da-41bc-4894-bead-198e66c848ac) |
 

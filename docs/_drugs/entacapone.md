@@ -77,6 +77,8 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100470632 | STALEVO | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
@@ -93,6 +95,8 @@ Atualmente não há literatura relacionada.
 | 110500050 | ENTACAPONA | LAB INDL FTCO ALAGOAS SA - LIFAL | Cancelado |
 | 167730194 | CAPONA | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 | 167730195 | ENTACAPONA | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

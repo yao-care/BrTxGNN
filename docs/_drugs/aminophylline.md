@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 55
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Aminophylline: nova indicação prevista, Enxaqueca (Migraine Disorder) (nível de evidência L4). Indicação original: Broncodilatadores"
 monitor_inn: "Aminophylline"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis", "Prinzmetal angina", "pulmonary hypertension", "sciatic neuropathy", "hyperthyroidism", "kyphoscoliotic heart disease"]
@@ -91,13 +91,21 @@ O medicamento está comercializado.
 
 <!-- review:end br-lic-20261106-aminophylline-2 -->
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 113430118 | Aminofilina | Não informada | Broncodilatadores |
-| Registro nº 103700669 | Resminoliv | Não informada | Broncodilatadores |
-| Registro nº 103920165 | Aminofilina | Não informada | Broncodilatadores |
-| Registro nº 103870059 | Aminofilina | Não informada | Broncodilatadores |
-| Registro nº 103700286 | Aminofilina | Não informada | Broncodilatadores |
+<!-- licenses:begin -->
+
+| Registro | Produto | Situação |
+|------|------|------|
+| 103700286 | AMINOFILINA | Ativo |
+| 103700445 | AMINOFILINA | Ativo |
+| 103870059 | AMINOFILINA | Ativo |
+| 103920165 | AMINOFILINA | Ativo |
+| 107150067 | ASMAFIN | Ativo |
+| 110850024 | AMINOFILINA | Ativo |
+| 113430118 | AMINOFILINA | Ativo |
+| 113430165 | AMINOFILINA | Ativo |
+| 103700669 | RESMINOLIV | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

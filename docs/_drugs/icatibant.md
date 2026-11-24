@@ -72,6 +72,8 @@ Atualmente não há literatura relacionada.
 
 O medicamento consta como comercializado no Brasil, com 3 registros válidos e 2 cancelados nos dados compilados. A tabela lista os registros disponíveis.
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 115410019 | ACETATO DE ICATIBANTO | CIPLA BRASIL IMPORTADORA E DISTRIBUIDORA DE MEDICA | Ativo |
@@ -79,6 +81,8 @@ O medicamento consta como comercializado no Brasil, com 3 registros válidos e 2
 | 126270019 | FIRAZYR | TAKEDA FARMACEUTICA BRASIL LTDA | Ativo |
 | 106390305 | FIRAZYR | TAKEDA PHARMA LTDA. | Cancelado |
 | 169790003 | FIRAZYR | SHIRE FARMACÊUTICA BRASIL LTDA. | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

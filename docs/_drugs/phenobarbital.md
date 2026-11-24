@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 520
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Phenobarbital: nova indicação prevista, Neoplasia do Nervo Trigêmeo (Trigeminal Nerve Neoplasm) (nível de evidência L5). Indicação original: Anticonvulsivantes"
 monitor_inn: "Phenobarbital"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
@@ -107,6 +107,8 @@ O medicamento é comercializado no Brasil.
 
 <!-- review:end br-lic-20261106-phenobarbital-1 -->
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100630282 | FENOBARBITAL | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
@@ -140,7 +142,9 @@ O medicamento é comercializado no Brasil.
 | 121550015 | SECUFENOTAL | ENGEFARMA PRODS. FARMACÊUTICOS LTDA. | Cancelado |
 | 126250001 | LFM-FENOBARBITAL | LABORATÓRIO FARMACÊUTICO DA MARINHA | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 36 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+
+<!-- licenses:end -->
 
 (Exibidos os 5 principais de um total de 8 registros; os demais incluem Fenocris e outras apresentações de Fenobarbital.)
 

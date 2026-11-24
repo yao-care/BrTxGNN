@@ -79,6 +79,8 @@ Atualmente não há ensaios clínicos relacionados registrados para a otite méd
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 116370123 | CEFOXITINA SÓDICA | BLAU FARMACÊUTICA S.A. | Ativo |
@@ -98,6 +100,8 @@ Atualmente não há ensaios clínicos relacionados registrados para a otite méd
 | 116370087 | CEFTON | BLAU FARMACÊUTICA S.A. | Cancelado |
 | 189000023 | CEFTON | ARISTON INDÚSTRIAS QUÍMICAS E FARMACÊUTICAS LTDA | Cancelado |
 | 189000048 | CEFOXITINA SÓDICA | ARISTON INDÚSTRIAS QUÍMICAS E FARMACÊUTICAS LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 

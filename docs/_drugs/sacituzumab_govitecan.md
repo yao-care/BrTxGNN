@@ -63,9 +63,13 @@ Outras indicações previstas pelo modelo também carecem de respaldo. Para reti
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 109290012 | TRODELVY | GILEAD SCIENCES FARMACEUTICA DO BRASIL LTDA | Ativo |
+
+<!-- licenses:end -->
 
 ## Citotoxicidade
 

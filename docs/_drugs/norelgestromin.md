@@ -63,10 +63,14 @@ A pontuação muito alta (0,9951) é uma previsão baseada em modelo e pode refl
 
 ## Informações de Comercialização no Brasil
 
+<!-- licenses:begin -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 191290002 | EVRA | GEDEON RICHTER DO BRASIL IMPORTADORA, EXPORTADORA  | Ativo |
 | 112363359 | EVRA | JANSSEN-CILAG FARMACÊUTICA LTDA | Cancelado |
+
+<!-- licenses:end -->
 
 ## Considerações de Segurança
 
