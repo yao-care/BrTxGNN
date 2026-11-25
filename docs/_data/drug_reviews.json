@@ -42873,6 +42873,127 @@
    "checked": "2026-11-24",
    "summary": "“no Brasil, que pode estar parcial.” → “no Brasil.”",
    "method": "2026-11-24 第三輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表"
+  },
+  {
+   "id": "br-lic-20261125-apixaban-1",
+   "drug": "apixaban",
+   "file": "apixaban.md",
+   "action": "correct",
+   "claim": "35 registros no total: 28 válidos e 7 cancelados.",
+   "replacement": "registros válidos e cancelados (números atualizados no resumo rápido e na tabela acima).",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página.",
+   "finding": "2026-11-25 第五輪：證據包收錯品項移出（config/bundle_record_exclusions.json）、依原收集規則補收 ANVISA 現行清單（2026-11-25）的新登記號後，正文寫死的張數／「資料不完整」說法跟快照事實層不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-25"
+    }
+   ],
+   "checked": "2026-11-25",
+   "summary": "“35 registros no total: 28 válidos e 7 cancelados.” → “registros válidos e cancelados (números atualizados no resumo rápido e na tabela acima).”",
+   "method": "2026-11-25 第五輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表"
+  },
+  {
+   "id": "br-lic-20261125-citalopram-1",
+   "drug": "citalopram",
+   "file": "citalopram.md",
+   "action": "correct",
+   "claim": "com 5 registros válidos e 15 cancelados; a lista de registros pode estar incompleta.",
+   "replacement": "com registros válidos e cancelados (números atualizados no resumo rápido e na tabela acima).",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA: os números citados vinham de dados que incluíam registros de escitalopram (outro fármaco, o enantiômero S do citalopram), já retirados; a tabela acima traz todos os registros de citalopram nos dados (os números atualizados estão no resumo rápido e na tabela).",
+   "finding": "2026-11-25 第五輪：證據包收錯品項移出（config/bundle_record_exclusions.json）、依原收集規則補收 ANVISA 現行清單（2026-11-25）的新登記號後，正文寫死的張數／「資料不完整」說法跟快照事實層不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-25"
+    }
+   ],
+   "checked": "2026-11-25",
+   "summary": "“com 5 registros válidos e 15 cancelados; a lista de registros pode estar incompleta.” → “com registros válidos e cancelados (números atualizados no resumo rápido e na tabela acima).”",
+   "method": "2026-11-25 第五輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表"
+  },
+  {
+   "id": "br-lic-20261125-iron-1",
+   "drug": "iron",
+   "file": "iron.md",
+   "action": "correct",
+   "claim": " Os dados disponíveis são parciais, portanto a lista de registros pode estar incompleta.",
+   "replacement": "",
+   "note": "Removido: os dados de registro desta página incluíam produtos sem ferro (dipirona, espironolactona, amiodarona e outros), já retirados; a tabela acima agora traz todos os registros com ferro na composição nos dados abertos da ANVISA, e os dados não são mais parciais (os números atualizados estão no resumo rápido e na tabela).",
+   "finding": "2026-11-25 第五輪：證據包收錯品項移出（config/bundle_record_exclusions.json）、依原收集規則補收 ANVISA 現行清單（2026-11-25）的新登記號後，正文寫死的張數／「資料不完整」說法跟快照事實層不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-25"
+    }
+   ],
+   "checked": "2026-11-25",
+   "summary": "Removido: “Os dados disponíveis são parciais, portanto a lista de registros pode estar incompleta.”",
+   "method": "2026-11-25 第五輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表",
+   "anchor": "O ferro está comercializado no Brasil, com registros válidos e cancelados."
+  },
+  {
+   "id": "br-lic-20261125-lenalidomida-1",
+   "drug": "lenalidomida",
+   "file": "lenalidomida.md",
+   "action": "correct",
+   "claim": " (de 11 no total; 10 válidos e 2 cancelados):",
+   "replacement": ":",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página.",
+   "finding": "2026-11-25 第五輪：證據包收錯品項移出（config/bundle_record_exclusions.json）、依原收集規則補收 ANVISA 現行清單（2026-11-25）的新登記號後，正文寫死的張數／「資料不完整」說法跟快照事實層不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-25"
+    }
+   ],
+   "checked": "2026-11-25",
+   "summary": "“(de 11 no total; 10 válidos e 2 cancelados):” → “:”",
+   "method": "2026-11-25 第五輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表"
+  },
+  {
+   "id": "br-lic-20261125-potassium_iodide-1",
+   "drug": "potassium_iodide",
+   "file": "potassium_iodide.md",
+   "action": "correct",
+   "claim": "Todos os 11 registros encontrados estão válidos.",
+   "replacement": "Todos os registros encontrados estão válidos.",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página.",
+   "finding": "2026-11-25 第五輪：證據包收錯品項移出（config/bundle_record_exclusions.json）、依原收集規則補收 ANVISA 現行清單（2026-11-25）的新登記號後，正文寫死的張數／「資料不完整」說法跟快照事實層不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-25"
+    }
+   ],
+   "checked": "2026-11-25",
+   "summary": "“Todos os 11 registros encontrados estão válidos.” → “Todos os registros encontrados estão válidos.”",
+   "method": "2026-11-25 第五輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表"
+  },
+  {
+   "id": "br-lic-20261125-teriparatida-1",
+   "drug": "teriparatida",
+   "file": "teriparatida.md",
+   "action": "correct",
+   "claim": "comercializado no Brasil em quatro registros válidos.",
+   "replacement": "comercializado no Brasil, com registros válidos (números atualizados no resumo rápido e na tabela de registros).",
+   "note": "Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página.",
+   "finding": "2026-11-25 第五輪：證據包收錯品項移出（config/bundle_record_exclusions.json）、依原收集規則補收 ANVISA 現行清單（2026-11-25）的新登記號後，正文寫死的張數／「資料不完整」說法跟快照事實層不符",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-25"
+    }
+   ],
+   "checked": "2026-11-25",
+   "summary": "“comercializado no Brasil em quatro registros válidos.” → “comercializado no Brasil, com registros válidos (números atualizados no resumo rápido e na tabela de registros).”",
+   "method": "2026-11-25 第五輪人工查核：逐句對照證據包 tfda.records、快照事實層與程式表"
   }
  ]
 }

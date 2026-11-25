@@ -5,10 +5,10 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 548
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "PREGABALIN"
 predicted_indications: ["tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "inclusion body myositis", "migraine disorder", "migraine with brainstem aura"]
-description: "Pregabalin: nova indicação prevista, Tendinite (tendinitis) (nível de evidência L5). No Brasil, registros na ANVISA: 86 (ativos: 60)"
+description: "Pregabalin: nova indicação prevista, Tendinite (tendinitis) (nível de evidência L5). No Brasil, registros na ANVISA: 87 (ativos: 61)"
 ---
 
 # Pregabalin
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **tendinite (tendinitis)**, mas, 
 | Nova Indicação Prevista | Tendinite (tendinitis) |
 | Pontuação de Previsão TxGNN | 0.9971 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 60 de 86) |
-| Número de Registros | 86 (ativos: 60) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 61 de 87) |
+| Número de Registros | 87 (ativos: 61) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -113,7 +113,7 @@ Atualmente não há ensaios clínicos relacionados registrados para a tendinite.
 | 105730464 | DORENE TABS | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
 | 105730716 | PREGABALINA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
 
-A tabela mostra até 30 registros (os ativos primeiro), de 86 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 87 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 <!-- licenses:end -->
 

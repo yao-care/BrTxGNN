@@ -8,9 +8,15 @@ indication_count: 4
 drugbank_id: DB00480
 monitor_inn: "Lenalidomide"
 predicted_indications: ["myeloid leukemia", "refractory cytopenia of childhood", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts"]
-last_modified_at: 2026-11-24
-description: "Lenalidomida: nova indicação prevista, Leucemia mieloide (myeloid leukemia) (nível de evidência L1). No Brasil, registros na ANVISA: 11 (ativos: 9)"
+last_modified_at: 2026-11-25
+description: "Lenalidomida: nova indicação prevista, Leucemia mieloide (myeloid leukemia) (nível de evidência L1). No Brasil, registros na ANVISA: 12 (ativos: 10)"
 ---
+
+<!-- review:begin br-lic-20261125-lenalidomida-1 -->
+
+> **Correção de verificação (2026-11-25)**: Texto original: “(de 11 no total; 10 válidos e 2 cancelados):” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261125-lenalidomida-1 -->
 
 # Lenalidomida
 {: .fs-9 }
@@ -49,8 +55,8 @@ Lenalidomida é um imunomodulador oral usado em hematologia oncológica. O model
 | Nova Indicação Prevista | Leucemia mieloide (myeloid leukemia) |
 | Pontuação de Previsão TxGNN | 0.9949 |
 | Nível de Evidência | L1 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 9 de 11) |
-| Número de Registros | 11 (ativos: 9) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 10 de 12) |
+| Número de Registros | 12 (ativos: 10) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 ## Por que Esta Previsão é Razoável?
@@ -95,12 +101,13 @@ A literatura compilada é composta principalmente por revisões sobre síndromes
 
 ## Informações de Comercialização no Brasil
 
-Há registros válidos de lenalidomida isolada no Brasil, e o medicamento é comercializado. O texto de indicação aprovada não está registrado nos dados locais. Principais registros (de 11 no total; 9 válidos e 2 cancelados):
+Há registros válidos de lenalidomida isolada no Brasil, e o medicamento é comercializado. O texto de indicação aprovada não está registrado nos dados locais. Principais registros:
 
 <!-- licenses:begin -->
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
+| 100330238 | ZELAZI | LIBBS FARMACÊUTICA LTDA | Ativo |
 | 100431441 | LENALIDOMIDA | EUROFARMA LABORATORIOS S.A. | Ativo |
 | 100431442 | NUVYOR | EUROFARMA LABORATORIOS S.A. | Ativo |
 | 101800410 | REVLIMID | BRISTOL-MYERS SQUIBB FARMACÊUTICA LTDA | Ativo |
@@ -170,6 +177,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | 2026-11-06 | Removido: “e sem dados regulatórios detalhados 10” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “2. **Recuperar detalhes dos 10 registros ANVISA**: números de registro, nomes comerciais, formas farmacêuticas e indicações aprovadas” | Não aparece mais após a regeneração do relatório (2026-11-16: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Revlimid (lenalidomide) prescribing information, Celgene Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5fa97bf5-28a2-48f1-8955-f56012d296be) |
+| 2026-11-25 | “(de 11 no total; 10 válidos e 2 cancelados):” → “:” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

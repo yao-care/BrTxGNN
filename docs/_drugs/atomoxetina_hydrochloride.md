@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00289
 monitor_inn: "Atomoxetine"
 predicted_indications: ["specific developmental disorder", "faciodigitogenital syndrome", "chondromyxoid fibroma", "trichotillomania", "restless legs syndrome", "manic bipolar affective disorder", "Tourette syndrome", "transient tic disorder", "cerebellar ataxia", "autosomal dominant cerebellar ataxia"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Atomoxetina Hydrochloride: nova indicação prevista, Transtorno específico do desenvolvimento (specific developmental disorder) (nível de evidência L5)."
 ---
 
@@ -51,8 +51,8 @@ atualmente sem ensaios clínicos registrados e com **15 publicações** associad
 | Nova Indicação Prevista | Transtorno específico do desenvolvimento (specific developmental disorder) |
 | Pontuação de Previsão TxGNN | 1.0000 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 2) |
-| Número de Registros | 2 (ativos: 2) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 5) |
+| Número de Registros | 5 (ativos: 5) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -86,8 +86,11 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 | Registro | Produto | Situação |
 |------|------|------|
+| 100431607 | CLORIDRATO DE ATOMOXETINA | Ativo |
 | 101180649 | ATENTAH | Ativo |
 | 101180666 | CLORIDRATO DE ATOMOXETINA | Ativo |
+| 101180676 | FLUTUAH | Ativo |
+| 101180684 | ATENTAH | Ativo |
 
 <!-- licenses:end -->
 

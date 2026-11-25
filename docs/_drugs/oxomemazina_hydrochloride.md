@@ -5,7 +5,7 @@ layout: default
 title: Oxomemazina Hydrochloride
 parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 500
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-25
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -42,8 +42,8 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 | Item | Conteúdo |
 |------|----------|
 | Indicação Original | EXPECTORANTES BALSAMICOS E MUCOLITICO |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 7 de 7) |
-| Número de Registros | 7 (ativos: 7) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 8) |
+| Número de Registros | 8 (ativos: 8) |
 
 ---
 

@@ -8,8 +8,8 @@ indication_count: 9
 drugbank_id: DB06285
 monitor_inn: "Teriparatide"
 predicted_indications: ["duodenal ulcer (disease)", "non-syndromic esophageal malformation", "duodenal obstruction", "duodenogastric reflux", "esophageal disease", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "succinyl-CoA:3-ketoacid CoA transferase deficiency", "amenorrhea (disease)"]
-last_modified_at: 2026-11-24
-description: "Teriparatida: nova indicação prevista, Duodenal ulcer (disease) (nível de evidência L5). No Brasil, registros na ANVISA: 4 (ativos: 4)"
+last_modified_at: 2026-11-25
+description: "Teriparatida: nova indicação prevista, Duodenal ulcer (disease) (nível de evidência L5). No Brasil, registros na ANVISA: 5 (ativos: 5)"
 ---
 
 # Teriparatida
@@ -39,8 +39,14 @@ Nível de evidência: **L5** | Indicações previstas: **9**
 
 ## Resumo em Uma Frase
 
-Teriparatida é um fármaco osteoanabólico, análogo do hormônio paratireoidiano (PTH 1-34), comercializado no Brasil em quatro registros válidos.
+Teriparatida é um fármaco osteoanabólico, análogo do hormônio paratireoidiano (PTH 1-34), comercializado no Brasil, com registros válidos (números atualizados no resumo rápido e na tabela de registros).
 O modelo TxGNN prevê que pode ser eficaz para **úlcera duodenal (duodenal ulcer)**, mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção.
+
+<!-- review:begin br-lic-20261125-teriparatida-1 -->
+
+> **Correção de verificação (2026-11-25)**: Texto original: “comercializado no Brasil em quatro registros válidos.” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261125-teriparatida-1 -->
 
 ## Visão Geral Rápida
 
@@ -50,8 +56,8 @@ O modelo TxGNN prevê que pode ser eficaz para **úlcera duodenal (duodenal ulce
 | Nova Indicação Prevista | Duodenal ulcer (disease) |
 | Pontuação de Previsão TxGNN | 0.9986 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 4) |
-| Número de Registros | 4 (ativos: 4) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 5) |
+| Número de Registros | 5 (ativos: 5) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -76,6 +82,7 @@ Atualmente não há literatura relacionada.
 |------|------|------|------|
 | 101180680 | FORZY | APSEN FARMACEUTICA S/A | Ativo |
 | 112600079 | FORTEO | ELI LILLY DO BRASIL LTDA | Ativo |
+| 115410026 | BONMIDE | CIPLA BRASIL IMPORTADORA E DISTRIBUIDORA DE MEDICA | Ativo |
 | 155370135 | SONDELBAY | ACCORD FARMACÊUTICA LTDA | Ativo |
 | 191290004 | TERROSA | GEDEON RICHTER DO BRASIL IMPORTADORA, EXPORTADORA  | Ativo |
 
@@ -102,11 +109,12 @@ Não há ensaios clínicos nem publicações sobre teriparatida em úlcera duode
 
 ## Registro de verificação
 
-Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Bonsity (teriparatide) prescribing information, Alvogen Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d0c89a2-3849-adf6-007d-aeca21cf417c) |
+| 2026-11-25 | “comercializado no Brasil em quatro registros válidos.” → “comercializado no Brasil, com registros válidos (números atualizados no resumo rápido e na tabela de registros).” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

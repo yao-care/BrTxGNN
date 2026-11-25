@@ -60,10 +60,10 @@
     "u": "/drugs/lenalidomida/",
     "l": "L1",
     "i": "Leucemia mieloide",
-    "lt": 11,
-    "lv": 9,
-    "r": 7,
-    "rs": "Removido: “2. Recuperar detalhes dos 10 registros ANVISA: números de registro, nomes comerciais, formas…",
+    "lt": 12,
+    "lv": 10,
+    "r": 8,
+    "rs": "“(de 11 no total; 10 válidos e 2 cancelados):” → “:”",
     "x": 0
    },
    {
@@ -71,8 +71,8 @@
     "u": "/drugs/potassium/",
     "l": "L1",
     "i": "Transtorno hipertensivo",
-    "lt": 6,
-    "lv": 3,
+    "lt": 8,
+    "lv": 5,
     "r": 4,
     "rs": "Removido: “(Há um sexto registro cancelado, MATURE, nº 177940035, com a indicação de vitaminas ou minerais…",
     "x": 0
@@ -236,8 +236,8 @@
     "u": "/drugs/levonorgestrel/",
     "l": "L2",
     "i": "acne",
-    "lt": 95,
-    "lv": 33,
+    "lt": 96,
+    "lv": 34,
     "r": 2,
     "rs": "Removido: “O detalhamento por registro não está disponível nos dados compilados para este relatório.”",
     "x": 0
@@ -280,8 +280,8 @@
     "u": "/drugs/prednisolone/",
     "l": "L2",
     "i": "alopecia areata",
-    "lt": 92,
-    "lv": 45,
+    "lt": 93,
+    "lv": 46,
     "r": 3,
     "rs": "Removido: “Confirmar a situação regulatória: o medicamento está comercializado no Brasil, com 20 registros…",
     "x": 0
@@ -354,7 +354,7 @@
   },
   "with_current": 54,
   "none_current": 1,
-  "without_data": 3,
+  "without_data": 2,
   "with_reviews": 52,
   "rows": [
    {
@@ -428,10 +428,10 @@
     "u": "/drugs/citalopram/",
     "l": "L3",
     "i": "Transtorno Obsessivo-Compulsivo",
-    "lt": 0,
-    "lv": 5,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "lt": 55,
+    "lv": 22,
+    "r": 2,
+    "rs": "“com 5 registros válidos e 15 cancelados; a lista de registros pode estar incompleta.” → “com registros…",
     "x": 0
    },
    {
@@ -494,8 +494,8 @@
     "u": "/drugs/magnesium-sulfate/",
     "l": "L3",
     "i": "Doença trombótica",
-    "lt": 4,
-    "lv": 4,
+    "lt": 5,
+    "lv": 5,
     "r": 0,
     "rs": "",
     "x": 0
@@ -549,8 +549,8 @@
     "u": "/drugs/prednisone/",
     "l": "L3",
     "i": "alopecia areata",
-    "lt": 65,
-    "lv": 22,
+    "lt": 66,
+    "lv": 23,
     "r": 2,
     "rs": "Removido: “Abaixo, os principais registros válidos.”",
     "x": 0
@@ -626,8 +626,8 @@
     "u": "/drugs/alprazolam/",
     "l": "L4",
     "i": "insomnia (disease)",
-    "lt": 52,
-    "lv": 17,
+    "lt": 53,
+    "lv": 18,
     "r": 2,
     "rs": "Removido: “e a ausência de registro no Brasil”",
     "x": 0
@@ -857,10 +857,10 @@
     "u": "/drugs/potassium-iodide/",
     "l": "L4",
     "i": "Doença da cavidade nasal",
-    "lt": 11,
-    "lv": 11,
-    "r": 4,
-    "rs": "Removido: “Os 5 principais:”",
+    "lt": 12,
+    "lv": 12,
+    "r": 5,
+    "rs": "“Todos os 11 registros encontrados estão válidos.” → “Todos os registros encontrados estão válidos.”",
     "x": 0
    },
    {
@@ -985,7 +985,7 @@
   },
   "with_current": 434,
   "none_current": 3,
-  "without_data": 10,
+  "without_data": 8,
   "with_reviews": 420,
   "rows": [
    {
@@ -993,8 +993,8 @@
     "u": "/drugs/metamizole/",
     "l": "L5",
     "i": "rheumatoid arthritis",
-    "lt": 496,
-    "lv": 171,
+    "lt": 497,
+    "lv": 172,
     "r": 3,
     "rs": "Removido: “Abaixo, os 5 principais:”",
     "x": 0
@@ -1004,8 +1004,8 @@
     "u": "/drugs/amoxicillin/",
     "l": "L5",
     "i": "síndrome de hiperviscosidade policlonal",
-    "lt": 359,
-    "lv": 122,
+    "lt": 361,
+    "lv": 124,
     "r": 2,
     "rs": "“, com 20 registros listados (a lista pode ser parcial). Os registros abaixo são produtos de ingrediente…",
     "x": 0
@@ -1048,8 +1048,8 @@
     "u": "/drugs/caffeine/",
     "l": "L5",
     "i": "Doença da cavidade nasal",
-    "lt": 281,
-    "lv": 76,
+    "lt": 282,
+    "lv": 77,
     "r": 3,
     "rs": "Removido: “dado que não há registros vigentes no Brasil”",
     "x": 0
@@ -1059,8 +1059,8 @@
     "u": "/drugs/cholecalciferol/",
     "l": "L5",
     "i": "acromesomelic dysplasia, Campailla Martinelli type",
-    "lt": 297,
-    "lv": 73,
+    "lt": 298,
+    "lv": 74,
     "r": 2,
     "rs": "“Foram identificados pelo menos 20 registros válidos de produtos com colecalciferol isolado, e a lista pode…”…",
     "x": 0
@@ -1103,8 +1103,8 @@
     "u": "/drugs/pregabalin/",
     "l": "L5",
     "i": "Tendinite",
-    "lt": 86,
-    "lv": 60,
+    "lt": 87,
+    "lv": 61,
     "r": 2,
     "rs": "Removido: “já que o fármaco não tem registro no Brasil”",
     "x": 0
@@ -1125,8 +1125,8 @@
     "u": "/drugs/desloratadine/",
     "l": "L5",
     "i": "Doença da cavidade nasal",
-    "lt": 107,
-    "lv": 55,
+    "lt": 108,
+    "lv": 56,
     "r": 2,
     "rs": "Removido: “Há 20 registros de produtos de desloratadina isolada nos dados compilados (a lista pode estar…",
     "x": 0
@@ -1209,6 +1209,28 @@
     "x": 0
    },
    {
+    "t": "Valsartan",
+    "u": "/drugs/valsartan/",
+    "l": "L5",
+    "i": "Doença renal hipertensiva maligna",
+    "lt": 148,
+    "lv": 48,
+    "r": 1,
+    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "x": 0
+   },
+   {
+    "t": "Ketoprofen",
+    "u": "/drugs/ketoprofen/",
+    "l": "L5",
+    "i": "acromesomelic dysplasia, Hunter-Thompson type",
+    "lt": 94,
+    "lv": 47,
+    "r": 4,
+    "rs": "“O medicamento está comercializado, com 20 registros válidos. Principais registros (5 de 20):” → “Principais…",
+    "x": 0
+   },
+   {
     "t": "Acyclovir",
     "u": "/drugs/acyclovir/",
     "l": "L5",
@@ -1217,28 +1239,6 @@
     "lv": 45,
     "r": 2,
     "rs": "Removido: “A lista apresenta apenas 5 dos registros e pode ser parcial.”",
-    "x": 0
-   },
-   {
-    "t": "Ketoprofen",
-    "u": "/drugs/ketoprofen/",
-    "l": "L5",
-    "i": "acromesomelic dysplasia, Hunter-Thompson type",
-    "lt": 92,
-    "lv": 45,
-    "r": 4,
-    "rs": "“O medicamento está comercializado, com 20 registros válidos. Principais registros (5 de 20):” → “Principais…",
-    "x": 0
-   },
-   {
-    "t": "Valsartan",
-    "u": "/drugs/valsartan/",
-    "l": "L5",
-    "i": "Doença renal hipertensiva maligna",
-    "lt": 144,
-    "lv": 44,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
     "x": 0
    },
    {
@@ -1352,6 +1352,17 @@
     "x": 0
    },
    {
+    "t": "Fexofenadine",
+    "u": "/drugs/fexofenadine/",
+    "l": "L5",
+    "i": "Conjuntivite da rosácea",
+    "lt": 63,
+    "lv": 36,
+    "r": 3,
+    "rs": "Removido: “dado que não há registro válido”",
+    "x": 0
+   },
+   {
     "t": "Cyanocobalamin",
     "u": "/drugs/cyanocobalamin/",
     "l": "L5",
@@ -1360,17 +1371,6 @@
     "lv": 35,
     "r": 3,
     "rs": "Removido: “Foram encontrados 20 registros válidos no Brasil. Os cinco principais estão listados abaixo.”",
-    "x": 0
-   },
-   {
-    "t": "Fexofenadine",
-    "u": "/drugs/fexofenadine/",
-    "l": "L5",
-    "i": "Conjuntivite da rosácea",
-    "lt": 62,
-    "lv": 35,
-    "r": 3,
-    "rs": "Removido: “dado que não há registro válido”",
     "x": 0
    },
    {
@@ -1429,6 +1429,17 @@
     "x": 0
    },
    {
+    "t": "Mirtazapine",
+    "u": "/drugs/mirtazapine/",
+    "l": "L5",
+    "i": "Síndrome de Ohdo e variantes",
+    "lt": 37,
+    "lv": 31,
+    "r": 6,
+    "rs": "Removido: “Exibem-se os 5 primeiros.”",
+    "x": 0
+   },
+   {
     "t": "Clioquinol",
     "u": "/drugs/clioquinol/",
     "l": "L5",
@@ -1448,6 +1459,17 @@
     "lv": 30,
     "r": 3,
     "rs": "Removido: “A lista de registros pode estar incompleta, e os dados não trazem a relação detalhada de…",
+    "x": 0
+   },
+   {
+    "t": "Empagliflozin",
+    "u": "/drugs/empagliflozin/",
+    "l": "L5",
+    "i": "Síndrome do membro rígido focal",
+    "lt": 30,
+    "lv": 30,
+    "r": 2,
+    "rs": "Removido: “Há 8 registros válidos no total; são listados os 5 principais.”",
     "x": 0
    },
    {
@@ -1473,17 +1495,6 @@
     "x": 0
    },
    {
-    "t": "Mirtazapine",
-    "u": "/drugs/mirtazapine/",
-    "l": "L5",
-    "i": "Síndrome de Ohdo e variantes",
-    "lt": 36,
-    "lv": 30,
-    "r": 6,
-    "rs": "Removido: “Exibem-se os 5 primeiros.”",
-    "x": 0
-   },
-   {
     "t": "Pseudoephedrine",
     "u": "/drugs/pseudoephedrine/",
     "l": "L5",
@@ -1492,6 +1503,17 @@
     "lv": 30,
     "r": 2,
     "rs": "Removido: “e o medicamento é comercializado no Brasil, com 20 registros válidos”",
+    "x": 0
+   },
+   {
+    "t": "Apixaban",
+    "u": "/drugs/apixaban/",
+    "l": "L5",
+    "i": "transtorno de enxaqueca",
+    "lt": 36,
+    "lv": 29,
+    "r": 3,
+    "rs": "“35 registros no total: 28 válidos e 7 cancelados.” → “registros válidos e cancelados (números atualizados no…",
     "x": 0
    },
    {
@@ -1525,17 +1547,6 @@
     "lv": 29,
     "r": 2,
     "rs": "Removido: “Os dados de registro disponíveis são parciais. A lista detalhada de registros não está disponível…",
-    "x": 0
-   },
-   {
-    "t": "Apixaban",
-    "u": "/drugs/apixaban/",
-    "l": "L5",
-    "i": "transtorno de enxaqueca",
-    "lt": 35,
-    "lv": 28,
-    "r": 2,
-    "rs": "Removido: “A lista detalhada de registros não está disponível nos dados compilados.”",
     "x": 0
    },
    {
@@ -1594,17 +1605,6 @@
     "x": 0
    },
    {
-    "t": "Empagliflozin",
-    "u": "/drugs/empagliflozin/",
-    "l": "L5",
-    "i": "Síndrome do membro rígido focal",
-    "lt": 27,
-    "lv": 27,
-    "r": 2,
-    "rs": "Removido: “Há 8 registros válidos no total; são listados os 5 principais.”",
-    "x": 0
-   },
-   {
     "t": "Finasteride",
     "u": "/drugs/finasteride/",
     "l": "L5",
@@ -1660,6 +1660,17 @@
     "x": 0
    },
    {
+    "t": "Dienogest",
+    "u": "/drugs/dienogest/",
+    "l": "L5",
+    "i": "Amenorreia",
+    "lt": 37,
+    "lv": 24,
+    "r": 3,
+    "rs": "Removido: “A lista pode estar parcial. A tabela de registros é gerada pelo programa e não está detalhada…",
+    "x": 0
+   },
+   {
     "t": "Lamotrigine",
     "u": "/drugs/lamotrigine/",
     "l": "L5",
@@ -1679,17 +1690,6 @@
     "lv": 24,
     "r": 2,
     "rs": "Removido: “já que não há registro vigente nos dados compilados”",
-    "x": 0
-   },
-   {
-    "t": "Dienogest",
-    "u": "/drugs/dienogest/",
-    "l": "L5",
-    "i": "Amenorreia",
-    "lt": 36,
-    "lv": 23,
-    "r": 3,
-    "rs": "Removido: “A lista pode estar parcial. A tabela de registros é gerada pelo programa e não está detalhada…",
     "x": 0
    },
    {
@@ -1756,6 +1756,17 @@
     "lv": 21,
     "r": 4,
     "rs": "“Há 20 registros válidos. Principais registros (máximo de 5):” → “Principais registros:”",
+    "x": 0
+   },
+   {
+    "t": "Naproxen",
+    "u": "/drugs/naproxen/",
+    "l": "L5",
+    "i": "Síndrome de braquidactilia-sindactilia",
+    "lt": 47,
+    "lv": 21,
+    "r": 2,
+    "rs": "“do naproxeno no Brasil, já que não constam registros nos dados compilados” → “do naproxeno no Brasil”",
     "x": 0
    },
    {
@@ -1880,6 +1891,17 @@
     "x": 0
    },
    {
+    "t": "Topiramate",
+    "u": "/drugs/topiramate/",
+    "l": "L5",
+    "i": "Neoplasma do nervo trigêmeo",
+    "lt": 39,
+    "lv": 20,
+    "r": 5,
+    "rs": "Removido: “Há outros 15 registros cancelados (por exemplo, Toduze, Ritop, Têmpora e Vidmax), todos com a…",
+    "x": 0
+   },
+   {
     "t": "Acetonida De Triamcinolone",
     "u": "/drugs/acetonida-de-triamcinolone/",
     "l": "L5",
@@ -1899,6 +1921,17 @@
     "lv": 19,
     "r": 2,
     "rs": "Removido: “e mostra apenas os cinco principais”",
+    "x": 0
+   },
+   {
+    "t": "Budesonide",
+    "u": "/drugs/budesonide/",
+    "l": "L5",
+    "i": "eczema atópico",
+    "lt": 39,
+    "lv": 19,
+    "r": 3,
+    "rs": "Removido: “já que não há registro válido no mercado brasileiro”",
     "x": 0
    },
    {
@@ -1924,28 +1957,6 @@
     "x": 0
    },
    {
-    "t": "Naproxen",
-    "u": "/drugs/naproxen/",
-    "l": "L5",
-    "i": "Síndrome de braquidactilia-sindactilia",
-    "lt": 45,
-    "lv": 19,
-    "r": 2,
-    "rs": "“do naproxeno no Brasil, já que não constam registros nos dados compilados” → “do naproxeno no Brasil”",
-    "x": 0
-   },
-   {
-    "t": "Topiramate",
-    "u": "/drugs/topiramate/",
-    "l": "L5",
-    "i": "Neoplasma do nervo trigêmeo",
-    "lt": 38,
-    "lv": 19,
-    "r": 5,
-    "rs": "Removido: “Há outros 15 registros cancelados (por exemplo, Toduze, Ritop, Têmpora e Vidmax), todos com a…",
-    "x": 0
-   },
-   {
     "t": "Anastrozole",
     "u": "/drugs/anastrozole/",
     "l": "L5",
@@ -1957,17 +1968,6 @@
     "x": 0
    },
    {
-    "t": "Budesonide",
-    "u": "/drugs/budesonide/",
-    "l": "L5",
-    "i": "eczema atópico",
-    "lt": 38,
-    "lv": 18,
-    "r": 3,
-    "rs": "Removido: “já que não há registro válido no mercado brasileiro”",
-    "x": 0
-   },
-   {
     "t": "Carisoprodol",
     "u": "/drugs/carisoprodol/",
     "l": "L5",
@@ -1976,6 +1976,17 @@
     "lv": 18,
     "r": 3,
     "rs": "“no Brasil, já que não há registros.” → “no Brasil.”",
+    "x": 0
+   },
+   {
+    "t": "Mecobalamin",
+    "u": "/drugs/mecobalamin/",
+    "l": "L5",
+    "i": "sclerosing cholangitis",
+    "lt": 19,
+    "lv": 18,
+    "r": 3,
+    "rs": "Removido: “dado que não há registro válido no Brasil”",
     "x": 0
    },
    {
@@ -2020,6 +2031,17 @@
     "lv": 17,
     "r": 2,
     "rs": "Removido: “Segundo os dados compilados, há 17 registros, todos de produtos com candesartana cilexetila…",
+    "x": 0
+   },
+   {
+    "t": "Glycine",
+    "u": "/drugs/glycine/",
+    "l": "L5",
+    "i": "Doença da cavidade nasal",
+    "lt": 45,
+    "lv": 17,
+    "r": 0,
+    "rs": "",
     "x": 0
    },
    {
@@ -2141,17 +2163,6 @@
     "lv": 16,
     "r": 2,
     "rs": "Removido: “Há 18 registros nos dados compilados, entre produtos isolados e associações (por exemplo, com…",
-    "x": 0
-   },
-   {
-    "t": "Mecobalamin",
-    "u": "/drugs/mecobalamin/",
-    "l": "L5",
-    "i": "sclerosing cholangitis",
-    "lt": 17,
-    "lv": 16,
-    "r": 3,
-    "rs": "Removido: “dado que não há registro válido no Brasil”",
     "x": 0
    },
    {
@@ -2397,6 +2408,17 @@
     "x": 0
    },
    {
+    "t": "Magnesium Hydroxide",
+    "u": "/drugs/magnesium-hydroxide/",
+    "l": "L5",
+    "i": "stomach disease",
+    "lt": 14,
+    "lv": 13,
+    "r": 1,
+    "rs": "Removido: “Há 13 registros válidos, todos de produtos de ingrediente único”",
+    "x": 0
+   },
+   {
     "t": "Sodium Acetate",
     "u": "/drugs/sodium-acetate/",
     "l": "L5",
@@ -2430,6 +2452,17 @@
     "x": 0
    },
    {
+    "t": "Estradiol Valerate",
+    "u": "/drugs/estradiol-valerate/",
+    "l": "L5",
+    "i": "symptomatic form of fragile X syndrome in female carrier",
+    "lt": 13,
+    "lv": 12,
+    "r": 3,
+    "rs": "Removido: “pois não há registros válidos e as formas farmacêuticas não constam nos dados”",
+    "x": 0
+   },
+   {
     "t": "Haloperidol",
     "u": "/drugs/haloperidol/",
     "l": "L5",
@@ -2449,17 +2482,6 @@
     "lv": 12,
     "r": 3,
     "rs": "Removido: “A lista de registros pode estar incompleta (dados parciais) e não foi detalhada nos dados…",
-    "x": 0
-   },
-   {
-    "t": "Magnesium Hydroxide",
-    "u": "/drugs/magnesium-hydroxide/",
-    "l": "L5",
-    "i": "stomach disease",
-    "lt": 13,
-    "lv": 12,
-    "r": 1,
-    "rs": "Removido: “Há 13 registros válidos, todos de produtos de ingrediente único”",
     "x": 0
    },
    {
@@ -2617,6 +2639,17 @@
     "x": 0
    },
    {
+    "t": "Methotrexate",
+    "u": "/drugs/methotrexate/",
+    "l": "L5",
+    "i": "pulmonary blastoma",
+    "lt": 35,
+    "lv": 10,
+    "r": 5,
+    "rs": "Removido: “Por outro lado, o medicamento está comercializado no Brasil, com 10 registros válidos de 10”",
+    "x": 0
+   },
+   {
     "t": "Piroxicam",
     "u": "/drugs/piroxicam/",
     "l": "L5",
@@ -2625,6 +2658,17 @@
     "lv": 10,
     "r": 2,
     "rs": "Removido: “- Não há registro no Brasil, o que também dificulta qualquer avanço regulatório.”",
+    "x": 0
+   },
+   {
+    "t": "Sodium Carbonate",
+    "u": "/drugs/sodium-carbonate/",
+    "l": "L5",
+    "i": "Síndrome da cauda equina",
+    "lt": 11,
+    "lv": 10,
+    "r": 4,
+    "rs": "“Considerar a ausência de registros válidos no Brasil em qualquer planejamento de desenvolvimento” →…",
     "x": 0
    },
    {
@@ -2694,17 +2738,6 @@
     "x": 0
    },
    {
-    "t": "Estradiol Valerate",
-    "u": "/drugs/estradiol-valerate/",
-    "l": "L5",
-    "i": "symptomatic form of fragile X syndrome in female carrier",
-    "lt": 10,
-    "lv": 9,
-    "r": 3,
-    "rs": "Removido: “pois não há registros válidos e as formas farmacêuticas não constam nos dados”",
-    "x": 0
-   },
-   {
     "t": "Fluocinolone Acetonide",
     "u": "/drugs/fluocinolone-acetonide/",
     "l": "L5",
@@ -2716,6 +2749,17 @@
     "x": 0
    },
    {
+    "t": "Gefitinib",
+    "u": "/drugs/gefitinib/",
+    "l": "L5",
+    "i": "Fibromatose gengival",
+    "lt": 11,
+    "lv": 9,
+    "r": 1,
+    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "x": 0
+   },
+   {
     "t": "Mebendazole",
     "u": "/drugs/mebendazole/",
     "l": "L5",
@@ -2724,17 +2768,6 @@
     "lv": 9,
     "r": 2,
     "rs": "Removido: “Há 11 registros, todos de produtos de ingrediente único”",
-    "x": 0
-   },
-   {
-    "t": "Sodium Carbonate",
-    "u": "/drugs/sodium-carbonate/",
-    "l": "L5",
-    "i": "Síndrome da cauda equina",
-    "lt": 10,
-    "lv": 9,
-    "r": 4,
-    "rs": "“Considerar a ausência de registros válidos no Brasil em qualquer planejamento de desenvolvimento” →…",
     "x": 0
    },
    {
@@ -2768,6 +2801,17 @@
     "lv": 8,
     "r": 1,
     "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "x": 0
+   },
+   {
+    "t": "Carfilzomibe",
+    "u": "/drugs/carfilzomibe/",
+    "l": "L5",
+    "i": "CMM7",
+    "lt": 8,
+    "lv": 8,
+    "r": 2,
+    "rs": "Removido: “Há mais registros válidos além dos cinco listados (7 no total, todos válidos e de produto…",
     "x": 0
    },
    {
@@ -2823,28 +2867,6 @@
     "lv": 8,
     "r": 1,
     "rs": "Removido: “Todos os 9 registros são de produtos com fosfomicina isolada e estão válidos. A tabela mostra os 5…",
-    "x": 0
-   },
-   {
-    "t": "Gefitinib",
-    "u": "/drugs/gefitinib/",
-    "l": "L5",
-    "i": "Fibromatose gengival",
-    "lt": 10,
-    "lv": 8,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
-    "x": 0
-   },
-   {
-    "t": "Glycine",
-    "u": "/drugs/glycine/",
-    "l": "L5",
-    "i": "Doença da cavidade nasal",
-    "lt": 0,
-    "lv": 8,
-    "r": 0,
-    "rs": "",
     "x": 0
    },
    {
@@ -2925,17 +2947,6 @@
     "x": 0
    },
    {
-    "t": "Carfilzomibe",
-    "u": "/drugs/carfilzomibe/",
-    "l": "L5",
-    "i": "CMM7",
-    "lt": 7,
-    "lv": 7,
-    "r": 2,
-    "rs": "Removido: “Há mais registros válidos além dos cinco listados (7 no total, todos válidos e de produto…",
-    "x": 0
-   },
-   {
     "t": "Chloramphenicol",
     "u": "/drugs/chloramphenicol/",
     "l": "L5",
@@ -2977,17 +2988,6 @@
     "lv": 7,
     "r": 1,
     "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
-    "x": 0
-   },
-   {
-    "t": "Methotrexate",
-    "u": "/drugs/methotrexate/",
-    "l": "L5",
-    "i": "pulmonary blastoma",
-    "lt": 28,
-    "lv": 7,
-    "r": 5,
-    "rs": "Removido: “Por outro lado, o medicamento está comercializado no Brasil, com 10 registros válidos de 10”",
     "x": 0
    },
    {
@@ -3178,6 +3178,17 @@
     "x": 0
    },
    {
+    "t": "Terbutalina Sulfate",
+    "u": "/drugs/terbutalina-sulfate/",
+    "l": "L5",
+    "i": "Malformação respiratória",
+    "lt": 7,
+    "lv": 6,
+    "r": 5,
+    "rs": "Removido: “Há ainda um registro cancelado, não listado acima.”",
+    "x": 0
+   },
+   {
     "t": "Adenosina",
     "u": "/drugs/adenosina/",
     "l": "L5",
@@ -3216,6 +3227,17 @@
     "l": "L5",
     "i": "Porfiria hepática",
     "lt": 22,
+    "lv": 5,
+    "r": 1,
+    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "x": 0
+   },
+   {
+    "t": "Atomoxetina Hydrochloride",
+    "u": "/drugs/atomoxetina-hydrochloride/",
+    "l": "L5",
+    "i": "Transtorno específico do desenvolvimento",
+    "lt": 5,
     "lv": 5,
     "r": 1,
     "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
@@ -3321,6 +3343,17 @@
     "x": 0
    },
    {
+    "t": "Iron",
+    "u": "/drugs/iron/",
+    "l": "L5",
+    "i": "vitamin B12- and folate-independent constitutional megaloblastic anemia",
+    "lt": 54,
+    "lv": 5,
+    "r": 2,
+    "rs": "Removido: “Os dados disponíveis são parciais, portanto a lista de registros pode estar incompleta.”",
+    "x": 0
+   },
+   {
     "t": "Lisinopril",
     "u": "/drugs/lisinopril/",
     "l": "L5",
@@ -3398,14 +3431,14 @@
     "x": 0
    },
    {
-    "t": "Terbutalina Sulfate",
-    "u": "/drugs/terbutalina-sulfate/",
+    "t": "Teriparatida",
+    "u": "/drugs/teriparatida/",
     "l": "L5",
-    "i": "Malformação respiratória",
-    "lt": 6,
+    "i": "duodenal ulcer (disease)",
+    "lt": 5,
     "lv": 5,
-    "r": 5,
-    "rs": "Removido: “Há ainda um registro cancelado, não listado acima.”",
+    "r": 2,
+    "rs": "“comercializado no Brasil em quatro registros válidos.” → “comercializado no Brasil, com registros válidos…",
     "x": 0
    },
    {
@@ -3596,17 +3629,6 @@
     "x": 0
    },
    {
-    "t": "Teriparatida",
-    "u": "/drugs/teriparatida/",
-    "l": "L5",
-    "i": "duodenal ulcer (disease)",
-    "lt": 4,
-    "lv": 4,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
-    "x": 0
-   },
-   {
     "t": "Thiocolchicoside",
     "u": "/drugs/thiocolchicoside/",
     "l": "L5",
@@ -3794,14 +3816,25 @@
     "x": 0
    },
    {
-    "t": "Iron",
-    "u": "/drugs/iron/",
+    "t": "Levobupivacaína Hydrochloride",
+    "u": "/drugs/levobupivacaína-hydrochloride/",
     "l": "L5",
-    "i": "vitamin B12- and folate-independent constitutional megaloblastic anemia",
-    "lt": 0,
+    "i": "gastroduodenite",
+    "lt": 3,
+    "lv": 3,
+    "r": 0,
+    "rs": "",
+    "x": 0
+   },
+   {
+    "t": "Magnesium Carbonate",
+    "u": "/drugs/magnesium-carbonate/",
+    "l": "L5",
+    "i": "gastroduodenitis",
+    "lt": 3,
     "lv": 3,
     "r": 1,
-    "rs": "“com 4 registros válidos e 16 cancelados” → “com registros válidos e cancelados”",
+    "rs": "Removido: “Carbonato de magnésio é um sal de magnésio usado como antiácido e em associações analgésicas não…",
     "x": 0
    },
    {
@@ -3926,6 +3959,17 @@
     "x": 0
    },
    {
+    "t": "Vonoprazan",
+    "u": "/drugs/vonoprazan/",
+    "l": "L5",
+    "i": "peptic ulcer perforation",
+    "lt": 3,
+    "lv": 3,
+    "r": 2,
+    "rs": "Removido: “Além disso, o medicamento é comercializado no Brasil, com 1 registro válido de 1”",
+    "x": 0
+   },
+   {
     "t": "Zinc Sulfate",
     "u": "/drugs/zinc-sulfate/",
     "l": "L5",
@@ -3978,17 +4022,6 @@
     "lv": 2,
     "r": 0,
     "rs": "",
-    "x": 0
-   },
-   {
-    "t": "Atomoxetina Hydrochloride",
-    "u": "/drugs/atomoxetina-hydrochloride/",
-    "l": "L5",
-    "i": "Transtorno específico do desenvolvimento",
-    "lt": 2,
-    "lv": 2,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
     "x": 0
    },
    {
@@ -4077,6 +4110,17 @@
     "lv": 2,
     "r": 2,
     "rs": "Removido: “(registros hoje apenas cancelados) outros”",
+    "x": 0
+   },
+   {
+    "t": "Cyclophosphamide Monohydrate",
+    "u": "/drugs/cyclophosphamide-monohydrate/",
+    "l": "L5",
+    "i": "Anomalias vertebrais e disfunção endócrina e de células T variável",
+    "lt": 2,
+    "lv": 2,
+    "r": 1,
+    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
     "x": 0
    },
    {
@@ -4179,17 +4223,6 @@
     "x": 0
    },
    {
-    "t": "Levobupivacaína Hydrochloride",
-    "u": "/drugs/levobupivacaína-hydrochloride/",
-    "l": "L5",
-    "i": "gastroduodenite",
-    "lt": 2,
-    "lv": 2,
-    "r": 0,
-    "rs": "",
-    "x": 0
-   },
-   {
     "t": "Lumacaftor",
     "u": "/drugs/lumacaftor/",
     "l": "L5",
@@ -4198,17 +4231,6 @@
     "lv": 2,
     "r": 1,
     "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
-    "x": 0
-   },
-   {
-    "t": "Magnesium Carbonate",
-    "u": "/drugs/magnesium-carbonate/",
-    "l": "L5",
-    "i": "gastroduodenitis",
-    "lt": 2,
-    "lv": 2,
-    "r": 1,
-    "rs": "Removido: “Carbonato de magnésio é um sal de magnésio usado como antiácido e em associações analgésicas não…",
     "x": 0
    },
    {
@@ -4234,6 +4256,17 @@
     "x": 0
    },
    {
+    "t": "Risdiplam",
+    "u": "/drugs/risdiplam/",
+    "l": "L5",
+    "i": "Acne",
+    "lt": 2,
+    "lv": 2,
+    "r": 1,
+    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
+    "x": 0
+   },
+   {
     "t": "Rutin",
     "u": "/drugs/rutin/",
     "l": "L5",
@@ -4253,17 +4286,6 @@
     "lv": 2,
     "r": 1,
     "rs": "Removido: “(sem registro ativo)”",
-    "x": 0
-   },
-   {
-    "t": "Vonoprazan",
-    "u": "/drugs/vonoprazan/",
-    "l": "L5",
-    "i": "peptic ulcer perforation",
-    "lt": 2,
-    "lv": 2,
-    "r": 2,
-    "rs": "Removido: “Além disso, o medicamento é comercializado no Brasil, com 1 registro válido de 1”",
     "x": 0
    },
    {
@@ -4638,17 +4660,6 @@
     "lv": 1,
     "r": 2,
     "rs": "Removido: “dado que o único registro está cancelado”",
-    "x": 0
-   },
-   {
-    "t": "Cyclophosphamide Monohydrate",
-    "u": "/drugs/cyclophosphamide-monohydrate/",
-    "l": "L5",
-    "i": "Anomalias vertebrais e disfunção endócrina e de células T variável",
-    "lt": 1,
-    "lv": 1,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
     "x": 0
    },
    {
@@ -5408,17 +5419,6 @@
     "lv": 1,
     "r": 2,
     "rs": "Removido: “Além disso, o único registro no Brasil está cancelado”",
-    "x": 0
-   },
-   {
-    "t": "Risdiplam",
-    "u": "/drugs/risdiplam/",
-    "l": "L5",
-    "i": "Acne",
-    "lt": 1,
-    "lv": 1,
-    "r": 1,
-    "rs": "Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA",
     "x": 0
    },
    {

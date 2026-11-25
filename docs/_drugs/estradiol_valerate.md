@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 301
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Estradiol Valerate: nova indicação prevista, Forma sintomática da síndrome do X frágil em mulheres portadoras (sym… (nível de evidência L5). Indicação original: Estrogênios associados a outros fármac…"
 monitor_inn: "ESTRADIOL VALERATE"
 predicted_indications: ["symptomatic form of fragile X syndrome in female carrier", "blepharophimosis-epicanthus inversus-ptosis", "partial trisomy/tetrasomy of the short arm of chromosome 5", "partial trisomy/tetrasomy of the short arm of chromosome 12", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "partial trisomy/tetrasomy of the short arm of chromosome 18", "ovarian remnant syndrome", "anovulation", "luteoma of pregnancy", "ovarian dysfunction"]
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para a **forma sintomática da síndro
 | Nova Indicação Prevista | Forma sintomática da síndrome do X frágil em mulheres portadoras (symptomatic form of fragile X syndrome in female carrier) |
 | Pontuação de Previsão TxGNN | 0,9994 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 9 de 10) |
-| Número de Registros | 10 (ativos: 9) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 12 de 13) |
+| Número de Registros | 13 (ativos: 12) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -110,14 +110,17 @@ Para referência, publicações selecionadas ligadas à anovulação e à disfun
 
 ## Informações de Comercialização no Brasil
 
-Dos 10 registros, 9 estão válidos. Principais registros:
+Dos 13 registros, 12 estão válidos. Principais registros:
 
 <!-- licenses:begin -->
 
 | Registro | Produto | Situação |
 |------|------|------|
 | 100430928 | ENANTATO DE NORETISTERONA + VALERATO DE ESTRADIOL | Ativo |
+| 100431587 | VALERATO DE ESTRADIOL + DIENOGESTE | Ativo |
+| 100431608 | IBYZA | Ativo |
 | 104971494 | CLIMENE | Ativo |
+| 104971569 | CICLOPRIMOGYNA | Ativo |
 | 115600215 | ENANTATO DE NORETISTERONA + VALERATO DE ESTRADIOL | Ativo |
 | 115600224 | NOREGYNA | Ativo |
 | 115600234 | ENANTATO DE NORETISTERONA + VALERATO DE ESTRADIOL | Ativo |

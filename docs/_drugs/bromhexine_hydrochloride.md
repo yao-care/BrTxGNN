@@ -5,7 +5,7 @@ layout: default
 title: Bromhexine Hydrochloride
 parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 157
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-25
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -41,8 +41,8 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 | Item | Conteúdo |
 |------|----------|
 | Indicação Original | EXPECTORANTES; EXPECTORANTES BALSAMICOS E MUCOLITICO; EXPECTORANTES SIMPLES; BRONCODILATADORES |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 12 de 15) |
-| Número de Registros | 15 (ativos: 12) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 13 de 16) |
+| Número de Registros | 16 (ativos: 13) |
 
 ---
 

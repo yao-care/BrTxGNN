@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00871
 monitor_inn: "Terbutaline"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Terbutalina Sulfate: nova indicação prevista, Malformação respiratória (respiratory malformation) (nível de evidência L5). Indicação original: BRONCODILATADORES"
 ---
 
@@ -52,8 +52,8 @@ O modelo TxGNN prevê que pode ser útil para **Malformação respiratória (res
 | Nova Indicação Prevista | Malformação respiratória (respiratory malformation) |
 | Pontuação de Previsão TxGNN | 0.9952 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 6) |
-| Número de Registros | 6 (ativos: 5) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 6 de 7) |
+| Número de Registros | 7 (ativos: 6) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -102,6 +102,7 @@ Nenhum desses estudos avalia diretamente a terbutalina em malformação respirat
 | Registro | Produto | Situação |
 |------|------|------|
 | 104971176 | TERBUTIL | Ativo |
+| 110110027 | SULFATO DE TERBUTALINA | Ativo |
 | 113430176 | SULFATO DE TERBUTALINA | Ativo |
 | 120190142 | SULFATO DE TERBUTALINA | Ativo |
 | 125680088 | SULFATO DE TERBUTALINA | Ativo |

@@ -5,7 +5,7 @@ layout: default
 title: Calcium Carbonate
 parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 179
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-25
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -41,8 +41,8 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 | Item | Conteúdo |
 |------|------|
 | Indicação Original | FÁRMACOS PARA O TRATAMENTO DA HIPERCALEMIA E HIPERFOSFATEMIA; ANTIACIDO; OUTROS PRODUTOS PARA O APARELHO DIGESTIVO E METABOLISMO; VITAMINAS E SUPLEMENTOS MINERAIS; ANTIACIDOS E ANTIULCEROSOS |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 12 de 13) |
-| Número de Registros | 13 (ativos: 12) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 14 de 15) |
+| Número de Registros | 15 (ativos: 14) |
 
 ---
 

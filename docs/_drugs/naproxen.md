@@ -5,10 +5,10 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 467
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "NAPROXEN"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome"]
-description: "Naproxen: nova indicação prevista, Síndrome de braquidactilia-sindactilia (brachydactyly-syndactyly syndrome) (nível de evidência L5). No Brasil, registros na ANVISA: 45 (ativos: 19)"
+description: "Naproxen: nova indicação prevista, Síndrome de braquidactilia-sindactilia (brachydactyly-syndactyly syndrome) (nível de evidência L5). No Brasil, registros na ANVISA: 47 (ativos: 21)"
 ---
 
 # Naproxen
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | Síndrome de braquidactilia-sindactilia (brachydactyly-syndactyly syndrome) |
 | Pontuação de Previsão TxGNN | 0.9935 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 19 de 45) |
-| Número de Registros | 45 (ativos: 19) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 21 de 47) |
+| Número de Registros | 47 (ativos: 21) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -78,6 +78,7 @@ Outras previsões do modelo, igualmente sem evidências, foram: síndrome de mic
 | 104971364 | NAXOTEC | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
 | 104971545 | NAPROXENO | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
 | 105350257 | GLOBONAXX | LABORATÓRIO GLOBO SA | Ativo |
+| 105350261 | NAPROXENO SÓDICO | LABORATÓRIO GLOBO SA | Ativo |
 | 105830978 | NAPROXENO SÓDICO | GERMED FARMACEUTICA LTDA | Ativo |
 | 118190351 | NAPROXENO SÓDICO | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
 | 118190473 | NEXOPRAX | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
@@ -85,6 +86,7 @@ Outras previsões do modelo, igualmente sem evidências, foram: síndrome de mic
 | 155840161 | NAPROXENO SÓDICO | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
 | 155840579 | NAPRONAX | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
 | 167730649 | NEXFLEN | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 167730706 | NAPROXENO SÓDICO | LEGRAND PHARMA INDUSTRIA FARMACEUTICA LTDA | Ativo |
 | 170560047 | FLANAX | BAYER S.A. | Ativo |
 | 170560126 | FLANAX XR | BAYER S.A. | Ativo |
 | 178170860 | DORIIPRO | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Ativo |
@@ -98,10 +100,8 @@ Outras previsões do modelo, igualmente sem evidências, foram: síndrome de mic
 | 104290180 | NAPROSYN | BAYER S.A. | Cancelado |
 | 104650243 | NAPRONAX | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
 | 104650412 | NAPROXENO SÓDICO | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
-| 105350136 | FLAMAPROX | LABORATÓRIO GLOBO SA | Cancelado |
-| 105830152 | GYNESTREL | GERMED FARMACEUTICA LTDA | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro), de 45 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 47 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 <!-- licenses:end -->
 

@@ -7,7 +7,7 @@ title: HYDROCHLOROTHIAZIDE
 drugbank_id: DB00999
 permalink: /drugs/hydrochlorothiazide/
 search_exclude: true
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-25
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -19,8 +19,8 @@ evidence_level: N/A
 
 | Item | Conteúdo |
 |------|----------|
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 111 de 367) |
-| Número de Registros | 367 (ativos: 111) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 112 de 368) |
+| Número de Registros | 368 (ativos: 112) |
 | DrugBank ID | [DB00999](https://go.drugbank.com/drugs/DB00999) |
 | Novas indicações previstas | Nenhuma |
 

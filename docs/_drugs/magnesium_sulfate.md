@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 8
 monitor_inn: "MAGNESIUM SULFATE"
 predicted_indications: ["thrombotic disease", "pharyngitis", "nasal cavity disease", "psychotic disorder", "acute laryngopharyngitis", "headache disorder", "trigeminal autonomic cephalalgia", "treatment-refractory schizophrenia"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Magnesium Sulfate: nova indicação prevista, Doença trombótica (thrombotic disease) (nível de evidência L3). Indicação original: ELETROLITOS SIMPLES"
 ---
 
@@ -48,8 +48,8 @@ O sulfato de magnésio é um sal de magnésio com registro vigente no Brasil. O 
 | Nova Indicação Prevista | Doença trombótica (thrombotic disease) |
 | Pontuação de Previsão TxGNN | 0.9990 |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 4) |
-| Número de Registros | 4 (ativos: 4) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 5) |
+| Número de Registros | 5 (ativos: 5) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -88,6 +88,7 @@ Em humanos, as evidências são limitadas. Há um estudo piloto aberto em pacien
 | 103870024 | HYPOMAGNE | Ativo |
 | 155920005 | SULFATO DE MAGNÉSIO | Ativo |
 | 192900002 | SAL DE ANDREWS | Ativo |
+| 192900015 | SAL DE SONRISAL | Ativo |
 
 <!-- licenses:end -->
 

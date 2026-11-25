@@ -8,7 +8,7 @@ nav_order: 90
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-25
 ---
 
 # Atracúrio Besylate
@@ -41,8 +41,8 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 | Item | Conteúdo |
 |------|----------|
 | Indicação Original | RELAXANTES MUSCULARES; RELAXANTES MUSCULARES CENTRAIS SIMPLES |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 4) |
-| Número de Registros | 4 (ativos: 3) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 5) |
+| Número de Registros | 5 (ativos: 4) |
 
 ---
 

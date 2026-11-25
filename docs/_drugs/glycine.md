@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "GLYCINE"
 predicted_indications: ["nasal cavity disease"]
-last_modified_at: 2026-11-24
-description: "Glycine: nova indicação prevista, Doença da cavidade nasal (nasal cavity disease) (nível de evidência L5). No Brasil, registros na ANVISA: pelo menos 20"
+last_modified_at: 2026-11-25
+description: "Glycine: nova indicação prevista, Doença da cavidade nasal (nasal cavity disease) (nível de evidência L5). No Brasil, registros na ANVISA: 45 (ativos: 17)"
 ---
 
 # Glycine
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **doença da cavidade nasal (nasa
 | Nova Indicação Prevista | Doença da cavidade nasal (nasal cavity disease) |
 | Pontuação de Previsão TxGNN | 0,9985 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 8) |
-| Número de Registros | pelo menos 20 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 17 de 45) |
+| Número de Registros | 45 (ativos: 17) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -80,28 +80,38 @@ As duas publicações retornadas são pesquisas básicas sem ligação direta co
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
-| 105530356 | PIASCLEDINE | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Ativo |
-| 105730280 | SOYFEMME | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
-| 115570061 | HIZOFITO | INFAN INDUSTRIA QUIMICA FARMACEUTICA NACIONAL S/A | Ativo |
-| 117170062 | SOYNATI | PHARMASCIENCE INDUSTRIA FARMACEUTICA S.A | Ativo |
-| 120090030 | ISOCLIM | BIONATUS LABORATÓRIO BOTÂNICO LTDA | Ativo |
-| 138410070 | PAUSEFEMME | NATULAB LABORATORIO S.A | Ativo |
-| 144930072 | ISOVIT | AIRELA INDÚSTRIA FARMACÊUTICA LTDA. | Ativo |
-| 170560132 | GINO-MENOPAUSA | BAYER S.A. | Ativo |
-| 100820144 | PIASCLEDINE | ABBOTT PRODUTOS PARA SAÚDE LTDA. | Cancelado |
-| 103700398 | FITOSOY | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
-| 104041972 | SOYCLIM | LUPER INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
-| 104150046 | ISOFLAVERITAS | LABORATORIO HANEMANIANA VERITAS LTDA | Cancelado |
-| 104670277 | ISOFARMA | LABORATORIO FARMAERVAS LTDA | Cancelado |
-| 118610226 | MENOP | ATIVUS FARMACÊUTICA LTDA | Cancelado |
-| 126060014 | AGLICON-SOY | STEVIAFARMA INDUSTRIAL S/A | Cancelado |
-| 126090141 | FLAVOMAX | AMAZON ERVAS LABORATÓRIO BOTÂNICO LTDA | Cancelado |
-| 137640136 | MENOP | ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
-| 138410025 | ISOFLASOY | NATULAB LABORATORIO S.A | Cancelado |
-| 145010023 | ISOGLYCIN | BRASMED BOTÂNICA E FARMACÊUTICA LTDA | Cancelado |
-| 194270057 | BUONA | MOMENTA FARMACÊUTICA LTDA. | Cancelado |
+| 100410131 | NEPHROTECT | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100410133 | AMINOSTERIL N-HEPA 8% | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100410149 | SMOFKABIVEN LIVRE DE ELETRÓLITOS | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100410150 | SMOFKABIVEN | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100410159 | AMINOVEN 10% INFANT | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100419935 | AMINOVEN | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100419938 | KABIVEN | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100850109 | NUTRIFLEX PLUS | LABORATORIOS B. BRAUN S/A | Ativo |
+| 100850145 | AMIXAL | LABORATORIOS B. BRAUN S/A | Ativo |
+| 100850246 | NUTRIFLEX LIPID | LABORATORIOS B. BRAUN S/A | Ativo |
+| 100850247 | NUTRIFLEX | LABORATORIOS B. BRAUN S/A | Ativo |
+| 104910068 | GLICINA JP 1,5% | JP INDUSTRIA FARMACEUTICA S/A | Ativo |
+| 106830084 | BAXTER GLICINA | BAXTER HOSPITALAR LTDA | Ativo |
+| 106830098 | PRIMENE | BAXTER HOSPITALAR LTDA | Ativo |
+| 106830181 | OLIMEL | BAXTER HOSPITALAR LTDA | Ativo |
+| 106830185 | NUMETA NEO | BAXTER HOSPITALAR LTDA | Ativo |
+| 106830186 | NUMETA PED | BAXTER HOSPITALAR LTDA | Ativo |
+| 100410003 | AMINOSTERIL HEPA | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100410026 | AMINOSTERIL 10% | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100410027 | AMINOSTERIL 800 | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100410040 | AMINOSTERIL 10% SS + GLICOSE | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100410041 | AMINOSTERIL HEPA 8% + GLICOSE | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100850001 | AMINOPLASMAL L 10 A | LABORATORIOS B. BRAUN S/A | Cancelado |
+| 100850002 | SOLUÇÃO DE GLICINA A 1,5% B.BRAUN | LABORATORIOS B. BRAUN S/A | Cancelado |
+| 100850122 | PEDIAMINO TAU | LABORATORIOS B. BRAUN S/A | Cancelado |
+| 100850140 | PEDIAMINO TAU | LABORATORIOS B. BRAUN S/A | Cancelado |
+| 105530190 | INTRASOL | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Cancelado |
+| 105830080 | CELLAFORT | GERMED FARMACEUTICA LTDA | Cancelado |
+| 106830068 | TRAVASOL | BAXTER HOSPITALAR LTDA | Cancelado |
+| 106830083 | POLIAMINOÁCIDOS RENAMIN | BAXTER HOSPITALAR LTDA | Cancelado |
 
-Os dados contêm apenas parte dos registros; a lista pode estar incompleta.
+A tabela mostra até 30 registros (os ativos primeiro), de 45 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 <!-- licenses:end -->
 

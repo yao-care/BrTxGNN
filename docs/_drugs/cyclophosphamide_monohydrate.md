@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00531
 monitor_inn: "Cyclophosphamide"
 predicted_indications: ["vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Cyclophosphamide Monohydrate: nova indicação prevista, Anomalias vertebrais e disfunção endócrina e de células T variável (vertebral anomalies and variable endocrine and T-cell dysfunction) (nível de evidência L5)."
 ---
 
@@ -50,8 +50,8 @@ O modelo TxGNN prevê que ela possa ser eficaz para **Anomalias vertebrais e dis
 | Nova Indicação Prevista | Anomalias vertebrais e disfunção endócrina e de células T variável (vertebral anomalies and variable endocrine and T-cell dysfunction) |
 | Pontuação de Previsão TxGNN | 0.9938 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
-| Número de Registros | 1 (ativos: 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 2) |
+| Número de Registros | 2 (ativos: 2) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -69,6 +69,7 @@ A pontuação alta (0,9938) reflete apenas um cálculo do modelo. Sem ensaios cl
 | Registro | Produto | Situação |
 |------|------|------|
 | 106830168 | GENUXAL | Ativo |
+| 151430111 | ZOKEMO | Ativo |
 
 <!-- licenses:end -->
 

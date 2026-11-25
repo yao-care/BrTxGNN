@@ -1,0 +1,26 @@
+{
+  "_doc": "證據包收錯的品項（2026-11-25 第五輪，用戶決定；照 CHTxGNN 第三輪）。原因：早期的 collectors/anvisa.py（ANVISACollector）以「藥名是不是 NOME_PRODUTO／PRINCIPIO_ATIVO／CLASSE_TERAPEUTICA 的子字串」收登記號（最多 20 筆，total_matches＝子字串命中列數；用 data/raw/br_fda_drugs.json 重算，8 個證據包的張數都對得上），所以 citalopram 收到 escitalopram、iron 收到 dipirona（dIPIRONa）、espironolactona、AMIRONA、CORDIRON、RIBAVIRON、IOPAMIRON，glycine 收到 Glycine max（大豆），tretinoína 收到 isotretinoína。10-31 依成分重建時，這些證據包因原有登記號一半以上不在依成分結果裡（「疑似成分對錯」）被略過，所以留到現在。規則：證據包名在 bundles 裡時，紀錄成分欄（active_ingredient／ingredients，依「,」「+」「;」分段；成分欄空白時用品名）有一段符合 family、卻沒有任何一段符合 keep，就從 tfda.records 移到 tfda.excluded_records（附 excluded、excluded_reason、excluded_basis）。有 query_terms 的規則：這個證據包改照 10-31 依成分重建的規則（ANVISA 成分名整詞比對，母目錄 .claude/br_rebuild_by_ingredient_20261031.py 的 parts／has）收，tfda.query_terms 寫成這組成分名、total_matches 改成紀錄數，之後由 scripts/add_current_registrations.py 依現行清單補齊。scripts/exclude_mismatched_records.py 套用（可重複執行；每週 license-refresh.yml 在 license_refresh 前先跑），collectors/brfda.py 收集時也照同一份規則。不收的：iodine 收的 povidone-iodine 品牌（LABORIODINE、PVPIODINE 等，成分 iodopovidona／polivinilpirrolidona-iodo），照 MyTxGNN 第四輪慣例 povidone-iodine 是 iodine 的寫法，照收；calcium、magnesium 收的順勢製劑（calcium phosphoricum、magnesium phosphoricum）與鈣鹽，照離子類慣例照收；lactose 的 cellactose（乳糖＋纖維素的共處理賦形劑）照收。",
+  "rules": [
+    {"bundles": ["citalopram"], "family": "escitalopram", "keep": "(^|[\\s(])citalopram($|[\\s(),])", "query_terms": ["citalopram"],
+     "reason": "成分是 oxalato de escitalopram（escitalopram，citalopram 的 S-鏡像異構物，另一個 INN、另一個藥）；早期收集器以子字串比對，citalopram 是 escitalopram 的一部分",
+     "basis": "ANVISA DADOS_ABERTOS_MEDICAMENTOS 的 PRINCIPIO_ATIVO（例 104400214 KONECTA：OXALATO DE ESCITALOPRAM）；本站另有 escitalopram 證據包"},
+    {"bundles": ["tretinoína"], "family": "isotretinoina", "keep": "(^|[\\s(])tretinoina($|[\\s(),])", "query_terms": ["tretinoina"],
+     "reason": "成分是 isotretinoína（13-cis 維 A 酸，口服治療痤瘡，另一個藥）；早期收集器以子字串比對，tretinoína 是 isotretinoína 的一部分",
+     "basis": "ANVISA PRINCIPIO_ATIVO（例 132650030 ISOTRETINOÍNA）；本站另有 isotretinoin 證據包（query_terms isotretinoina）"},
+    {"bundles": ["zopiclona"], "family": "eszopiclona", "keep": "(^|[\\s(])zopiclona($|[\\s(),])", "query_terms": ["zopiclona"],
+     "reason": "成分是 eszopiclona（zopiclona 的 S-鏡像異構物，另一個 INN）；早期收集器以子字串比對",
+     "basis": "ANVISA PRINCIPIO_ATIVO（例 135170083 ESZOPICLONA）；本站另有 eszopiclona 證據包"},
+    {"bundles": ["glycine"], "family": "^glycine max|soja", "keep": "^(glicina|glycine)$", "query_terms": ["glicina"],
+     "reason": "成分是 Glycine max (L.) Merr.（大豆，植物藥／大豆異黃酮製劑），不是胺基酸 glycine（ANVISA 寫 glicina）；早期收集器以子字串比對",
+     "basis": "ANVISA PRINCIPIO_ATIVO（例 105730280 SOYFEMME：GLYCINE MAX (L.) MERR.）"},
+    {"bundles": ["iron"], "family": ".", "keep": "(^|[\\s(])(ferro|ferroso|ferrico|iron)($|[\\s(),])", "query_terms": ["ferro"],
+     "reason": "成分不含鐵：dipirona（含子字串 iron：dIPIRONa）、espironolactona、amiodarona（AMIRONA）、sinvastatina（CORDIRON）、ribavirina（RIBAVIRON）、iopamidol（IOPAMIRON）等；早期收集器以子字串比對藥名 iron",
+     "basis": "ANVISA PRINCIPIO_ATIVO 與 NOME_PRODUTO（例 100490105 CALM. DOR：DIPIRONA；110860037 AMIRONA：CLORIDRATO DE AMIODARONA）"},
+    {"bundles": ["nicotina"], "family": "nicotinamida", "keep": "(^|[\\s(])nicotina($|[\\s(),])", "query_terms": ["nicotina"],
+     "reason": "成分是 nicotinamida（菸鹼醯胺，維生素 B3）的維生素複方，不是 nicotina（菸鹼）；早期收集器以子字串比對",
+     "basis": "ANVISA PRINCIPIO_ATIVO（例 109220100 BEVIT：…NICOTINAMIDA…）"},
+    {"bundles": ["glucose"], "family": "acarbose", "keep": "(^|[\\s(])(glicose|glucose)($|[\\s(),])", "query_terms": ["glicose", "glucose"],
+     "reason": "成分是 acarbose（品名 AGLUCOSE 含子字串 glucose），不是葡萄糖",
+     "basis": "ANVISA PRINCIPIO_ATIVO（135690035 AGLUCOSE：ACARBOSE）"}
+  ]
+}

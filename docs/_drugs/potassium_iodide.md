@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 541
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Potassium Iodide: nova indicação prevista, Doença da cavidade nasal (nasal cavity disease) (nível de evidência L4). Indicação original: Outros produtos não enquadrados em classe terapêutica específic"
 monitor_inn: "Potassium Iodide"
 predicted_indications: ["nasal cavity disease"]
@@ -50,8 +50,8 @@ atualmente com **nenhum ensaio clínico** e **4 publicações** (relatos de caso
 | Nova Indicação Prevista | Doença da cavidade nasal (nasal cavity disease) |
 | Pontuação de Previsão TxGNN | 0,9995 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 11 de 11) |
-| Número de Registros | 11 (ativos: 11) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 12 de 12) |
+| Número de Registros | 12 (ativos: 12) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -77,7 +77,13 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 11 registros encontrados estão válidos.
+Todos os registros encontrados estão válidos.
+
+<!-- review:begin br-lic-20261125-potassium_iodide-1 -->
+
+> **Correção de verificação (2026-11-25)**: Texto original: “Todos os 11 registros encontrados estão válidos.” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261125-potassium_iodide-1 -->
 
 <!-- licenses:begin -->
 
@@ -93,6 +99,7 @@ Todos os 11 registros encontrados estão válidos.
 | 155840701 | CLORIDRATO DE OXOMEMAZINA + IODETO DE POTÁSSIO + BENZOATO DE | Ativo |
 | 155840708 | TOSSEXPEC | Ativo |
 | 167730271 | EXPEC | Ativo |
+| 167730699 | CLORIDRATO DE OXOMEMAZINA + IODETO DE POTÁSSIO + BENZOATO DE | Ativo |
 | 178170997 | BENEXPEC | Ativo |
 
 <!-- licenses:end -->
@@ -149,6 +156,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | 2026-11-06 | Removido: “Além disso, o iodeto de potássio não tem registro válido no Brasil (todos os 11 estão cancelados) e as informações de segurança da bula estã” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Potassium Iodide (Saturated) (potassium iodide) prescribing information, Emerald Therapeutics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0bdf305f-ed4a-49d1-8901-edaed8d67850) |
 | 2026-11-24 | Removido: “Os 5 principais:” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-25 | “Todos os 11 registros encontrados estão válidos.” → “Todos os registros encontrados estão válidos.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

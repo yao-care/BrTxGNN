@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "BUDESONIDE"
 predicted_indications: ["atopic eczema", "bronchitis", "dermatitis, atopic", "polyp of vocal cord", "polyp of middle ear", "epulis", "fibroepithelial polyp", "uterine polyp", "polyp of frontal sinus", "polyp of external auditory canal"]
-last_modified_at: 2026-11-24
-description: "Budesonide: nova indicação prevista, eczema atópico (atopic eczema) (nível de evidência L5). No Brasil, registros na ANVISA: 38 (ativos: 18)"
+last_modified_at: 2026-11-25
+description: "Budesonide: nova indicação prevista, eczema atópico (atopic eczema) (nível de evidência L5). No Brasil, registros na ANVISA: 39 (ativos: 19)"
 ---
 
 # Budesonide
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **eczema atópico (atopic eczema)
 | Nova Indicação Prevista | eczema atópico (atopic eczema) |
 | Pontuação de Previsão TxGNN | 0,9996 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 18 de 38) |
-| Número de Registros | 38 (ativos: 18) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 19 de 39) |
+| Número de Registros | 39 (ativos: 19) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -101,6 +101,7 @@ Nenhum dos estudos abaixo avalia a eficácia clínica da budesonida em humanos c
 | 116180302 | BREZTRI AEROSPHERE | ASTRAZENECA DO BRASIL LTDA | Ativo |
 | 128760023 | CORAMENT | LABORATÓRIOS FERRING LTDA | Ativo |
 | 167730532 | INALAJET | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 167730705 | BUDESONIDA | LEGRAND PHARMA INDUSTRIA FARMACEUTICA LTDA | Ativo |
 | 100230242 | NEO-RINACTIVE | ALCON LABORATÓRIOS DO BRASIL LTDA. | Cancelado |
 | 100330123 | ARMAX | LIBBS FARMACÊUTICA LTDA | Cancelado |
 | 100580093 | NASON | CHIESI FARMACÊUTICA LTDA | Cancelado |
@@ -112,9 +113,8 @@ Nenhum dos estudos abaixo avalia a eficácia clínica da budesonida em humanos c
 | 100840153 | CORTASM | ZAMBON LABORATÓRIOS FARMACÊUTICOS LTDA. | Cancelado |
 | 105730332 | NOVOPULMON NOVOLIZER | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Cancelado |
 | 109740244 | ENTOCORT | BIOLAB SANUS FARMACÊUTICA LTDA | Cancelado |
-| 112130173 | BUSONID | BIOSINTÉTICA FARMACÊUTICA LTDA | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro), de 38 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 39 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 <!-- licenses:end -->
 

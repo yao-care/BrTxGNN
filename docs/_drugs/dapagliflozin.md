@@ -7,7 +7,7 @@ title: DAPAGLIFLOZIN
 drugbank_id: DB06292
 permalink: /drugs/dapagliflozin/
 search_exclude: true
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-25
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -19,8 +19,8 @@ evidence_level: N/A
 
 | Item | Conteúdo |
 |------|----------|
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 48 de 52) |
-| Número de Registros | 52 (ativos: 48) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 52 de 56) |
+| Número de Registros | 56 (ativos: 52) |
 | DrugBank ID | [DB06292](https://go.drugbank.com/drugs/DB06292) |
 | Novas indicações previstas | Nenhuma |
 

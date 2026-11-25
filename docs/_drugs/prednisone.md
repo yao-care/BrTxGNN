@@ -5,10 +5,10 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 547
 evidence_level: L3
 indication_count: 9
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "Prednisone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "prolapse of lacrimal gland"]
-description: "Prednisone: nova indicação prevista, Alopecia areata (nível de evidência L3). No Brasil, registros na ANVISA: 65 (ativos: 22)"
+description: "Prednisone: nova indicação prevista, Alopecia areata (nível de evidência L3). No Brasil, registros na ANVISA: 66 (ativos: 23)"
 ---
 
 # Prednisone
@@ -50,8 +50,8 @@ atualmente com **nenhum ensaio clínico registrado** e **20 publicações** rela
 | Nova Indicação Prevista | Alopecia areata |
 | Pontuação de Previsão TxGNN | 0.9999 |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 22 de 65) |
-| Número de Registros | 65 (ativos: 22) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 23 de 66) |
+| Número de Registros | 66 (ativos: 23) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 ## Por que Esta Previsão é Razoável?
@@ -83,7 +83,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Há 65 registros no total, dos quais 22 válidos e 43 cancelados.
+Há 66 registros no total, dos quais 23 válidos e 43 cancelados.
 
 <!-- licenses:begin -->
 
@@ -110,6 +110,7 @@ Há 65 registros no total, dos quais 22 válidos e 43 cancelados.
 | 155840572 | PREDNISONA | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
 | 167730516 | PREDINIS | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
 | 167730519 | PREDNISONA | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 170420034 | PREDNISONA | MCG INDUSTRIA FARMACEUTICA E IMPORTAÇAO LTDA | Ativo |
 | 183260500 | PREDNISONA | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
 | 100380080 | PREDITEC | BRASTERAPICA PHARMACEUTICA LTDA. | Cancelado |
 | 100430893 | PREDNISONA | EUROFARMA LABORATORIOS S.A. | Cancelado |
@@ -118,9 +119,8 @@ Há 65 registros no total, dos quais 22 válidos e 43 cancelados.
 | 102350379 | PREDINIS | EMS S/A | Cancelado |
 | 103700238 | ARTINIZONA | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
 | 103700448 | PREDNISONA | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
-| 103920080 | PREDCORT | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro), de 65 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 66 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 <!-- licenses:end -->
 

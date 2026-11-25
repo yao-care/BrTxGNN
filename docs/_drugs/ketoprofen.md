@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 383
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Ketoprofen: nova indicação prevista, Displasia acromesomélica tipo Hunter-Thompson (acromesomelic dysplasi… (nível de evidência L5). Indicação original: Anti-inflamatórios e antirreumáticos"
 monitor_inn: "KETOPROFEN"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "WHIM syndrome", "juvenile arthritis due to defect in LACC1"]
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | Displasia acromesomélica tipo Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) |
 | Pontuação de Previsão TxGNN | 0,9998 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 45 de 92) |
-| Número de Registros | 92 (ativos: 45) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 47 de 94) |
+| Número de Registros | 94 (ativos: 47) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -95,6 +95,7 @@ Principais registros:
 | 102351254 | CETOPROFENO | EMS S/A | Ativo |
 | 102351280 | RHALUNID | EMS S/A | Ativo |
 | 102351463 | CETOPROFENO | EMS S/A | Ativo |
+| 102351487 | CETOPROFENO | EMS S/A | Ativo |
 | 102980276 | CETOPROFENO | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
 | 102980320 | CETOPROFENO | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
 | 103110183 | AXIFLENNID | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Ativo |
@@ -113,9 +114,8 @@ Principais registros:
 | 105730065 | ALGILIVE | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
 | 105730128 | ARTROSIL | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
 | 105730655 | CETOPROFENO | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
-| 105830925 | CETOPROFENO | GERMED FARMACEUTICA LTDA | Ativo |
 
-A tabela mostra até 30 registros (os ativos primeiro), de 92 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 94 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 <!-- licenses:end -->
 

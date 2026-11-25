@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "EMPAGLIFLOZIN"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia"]
-last_modified_at: 2026-11-24
-description: "Empagliflozin: nova indicação prevista, Síndrome do membro rígido focal (focal stiff limb syndrome) (nível de evidência L5). No Brasil, registros na ANVISA: 27 (ativos: 27)"
+last_modified_at: 2026-11-25
+description: "Empagliflozin: nova indicação prevista, Síndrome do membro rígido focal (focal stiff limb syndrome) (nível de evidência L5). No Brasil, registros na ANVISA: 30 (ativos: 30)"
 ---
 
 # Empagliflozin
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | Síndrome do membro rígido focal (focal stiff limb syndrome) |
 | Pontuação de Previsão TxGNN | 0.9906 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 27 de 27) |
-| Número de Registros | 27 (ativos: 27) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 30 de 30) |
+| Número de Registros | 30 (ativos: 30) |
 | Decisão Recomendada | Hold |
 
 Outras previsões do modelo, também sem qualquer evidência: síndrome da pessoa rígida clássica (0.9906) e opsismodisplasia (0.9903).
@@ -95,7 +95,10 @@ A pontuação alta (0,9903) vem do modelo TxGNN (deep learning) e pode refletir 
 | 138450010 | ARDIC | SANUSPHAR PESQUISA E DESENVOVIMENTO LTDA | Ativo |
 | 138450011 | EMBARD | SANUSPHAR PESQUISA E DESENVOVIMENTO LTDA | Ativo |
 | 151430102 | EMPAGLIFLOZINA | DR. REDDYS FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 155730076 | DIAXEMP | TEVA FARMACÊUTICA LTDA. | Ativo |
+| 155840730 | EMPAGLIFLOZINA | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
 | 165070051 | AMPOLDO | CAMBER FARMACEUTICA LTDA | Ativo |
+| 169170012 | EMPAGLIFLOZINA | BIOTEC BIOLOGICA INDÚSTRIA FARMACÊUTICA LTDA. | Ativo |
 | 170420033 | EMPAGLIFLOZINA | MCG INDUSTRIA FARMACEUTICA E IMPORTAÇAO LTDA | Ativo |
 
 <!-- licenses:end -->

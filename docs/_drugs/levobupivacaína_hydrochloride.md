@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB01002
 monitor_inn: "Levobupivacaine"
 predicted_indications: ["gastroduodenitis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Levobupivacaína Hydrochloride: nova indicação prevista, gastroduodenite (gastroduodenitis) (nível de evidência L5). Indicação original: ANESTESICOS LOCAIS"
 ---
 
@@ -49,8 +49,8 @@ A levobupivacaína é um anestésico local de longa duração. O modelo TxGNN pr
 | Nova Indicação Prevista | gastroduodenite (gastroduodenitis) |
 | Pontuação de Previsão TxGNN | 0.9909 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 2) |
-| Número de Registros | 2 (ativos: 2) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
+| Número de Registros | 3 (ativos: 3) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -69,6 +69,7 @@ Há uma limitação importante: o fármaco é administrado por infiltração, vi
 |------|------|------|
 | 102980160 | NOVABUPI | Ativo |
 | 102980315 | NOVABUPI (SEM VASOCONSTRITOR) | Ativo |
+| 102980616 | NOVABUPI PESADA | Ativo |
 
 <!-- licenses:end -->
 

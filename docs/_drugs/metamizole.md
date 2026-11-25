@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 446
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Metamizole: nova indicação prevista, Artrite Reumatoide (Rheumatoid Arthritis) (nível de evidência L5). Indicação original: Analgésicos não narcóticos"
 monitor_inn: "Metamizole"
 predicted_indications: ["rheumatoid arthritis", "migraine disorder", "exostosis", "migraine with brainstem aura", "gout", "antithrombin deficiency type 2", "brachydactyly-syndactyly syndrome", "tendinitis", "factor 5 excess with spontaneous thrombosis"]
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **Artrite Reumatoide (Rheumatoid 
 | Nova Indicação Prevista | Artrite Reumatoide (Rheumatoid Arthritis) |
 | Pontuação de Previsão TxGNN | 0,9978 |
 | Nível de Evidência | L5 (apenas previsão do modelo, sem estudos de eficácia reais) |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 171 de 496) |
-| Número de Registros | 496 (ativos: 171) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 172 de 497) |
+| Número de Registros | 497 (ativos: 172) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -125,7 +125,7 @@ Há registros válidos e cancelados (números atualizados no resumo rápido).
 | 104810133 | RELAXMED | 1FARMA INDUSTRIA FARMACEUTICA LTDA | Ativo |
 | 104810162 | DIPIRONA MONOIDRATADA | 1FARMA INDUSTRIA FARMACEUTICA LTDA | Ativo |
 
-A tabela mostra até 30 registros (os ativos primeiro), de 496 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 497 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 <!-- licenses:end -->
 

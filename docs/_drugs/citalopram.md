@@ -7,8 +7,8 @@ evidence_level: L3
 indication_count: 5
 monitor_inn: "CITALOPRAM"
 predicted_indications: ["obsessive-compulsive disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "schizotypal personality disorder"]
-last_modified_at: 2026-11-24
-description: "Citalopram: nova indicação prevista, Transtorno Obsessivo-Compulsivo (obsessive-compulsive disorder) (nível de evidência L3). No Brasil, registros na ANVISA: pelo menos 20"
+last_modified_at: 2026-11-25
+description: "Citalopram: nova indicação prevista, Transtorno Obsessivo-Compulsivo (obsessive-compulsive disorder) (nível de evidência L3). No Brasil, registros na ANVISA: 55 (ativos: 22)"
 ---
 
 # Citalopram
@@ -50,8 +50,8 @@ atualmente com **4 ensaios clínicos** registrados (nenhum estudando o citalopra
 | Nova Indicação Prevista | Transtorno Obsessivo-Compulsivo (obsessive-compulsive disorder) |
 | Pontuação de Previsão TxGNN | 0,9974 |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 5) |
-| Número de Registros | pelo menos 20 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 22 de 55) |
+| Número de Registros | 55 (ativos: 22) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 ## Por que Esta Previsão é Razoável?
@@ -92,32 +92,48 @@ A literatura recuperada inclui estudos abertos e pequenos estudos clínicos com 
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
+| 100330107 | PROCIMAX | LIBBS FARMACÊUTICA LTDA | Ativo |
+| 100431271 | CITALOPRAM | EUROFARMA LABORATORIOS S.A. | Ativo |
 | 100431387 | CITTÀ | EUROFARMA LABORATORIOS S.A. | Ativo |
-| 105730379 | EXODUS | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
-| 154230199 | OXALATO DE ESCITALOPRAM | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 102350864 | BROMIDRATO DE CITALOPRAM | EMS S/A | Ativo |
+| 102980300 | DENYL | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103700611 | BROMIDRATO DE CITALOPRAM | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 104750043 | CIPRAMIL | LUNDBECK BRASIL LTDA | Ativo |
+| 105250016 | ALCYTAM | TORRENT DO BRASIL LTDA | Ativo |
+| 105250066 | BROMIDRATO DE CITALOPRAM | TORRENT DO BRASIL LTDA | Ativo |
+| 105730543 | CITALOPRAM | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730587 | MAXAPRAN | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105830563 | BROMIDRATO DE CITALOPRAM | GERMED FARMACEUTICA LTDA | Ativo |
+| 109740331 | BROMIDRATO DE CITALOPRAM | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 118190328 | BROMIDRATO DE CITALOPRAM | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 123520101 | CITALOPRAM | RANBAXY FARMACÊUTICA LTDA | Ativo |
+| 125680272 | BROMIDRATO DE CITALOPRAM | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 125680303 | NYPRAM | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 151670018 | BROMIDRATO DE CITALOPRAM | AUROBINDO PHARMA INDÚSTRIA FARMACÊUTICA LIMITADA | Ativo |
 | 155840593 | CITALOPRAM | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
-| 167730418 | OXALATO DE ESCITALOPRAM | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
-| 100470624 | LESDOT | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
-| 100681148 | OXALATO DE ESCITALOPRAM | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 156510011 | CITALOPRAM | ZYDUS NIKKHO FARMACÊUTICA LTDA | Ativo |
+| 167730235 | BROMIDRATO DE CITALOPRAM | LEGRAND PHARMA INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 183260165 | CITALOPRAM (PORT. 344/98, L-C1) | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+| 100430035 | CITALOPRAM | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100430919 | CITTÀ | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100470377 | CITALOPRAM | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100630281 | BROMIDRATO DE CITALOPRAM | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100681143 | CITALOPRAM | NOVARTIS BIOCIENCIAS S.A | Cancelado |
 | 100890286 | CITALOPRAM | MERCK S/A | Cancelado |
 | 100890297 | CITALOPRAM | MERCK S/A | Cancelado |
 | 100890345 | CELAPRAM | MERCK S/A | Cancelado |
-| 100890395 | CITALOPRAM | MERCK S/A | Cancelado |
-| 103900197 | UNITRAM | FARMOQUÍMICA S/A | Cancelado |
-| 104400214 | KONECTA | CELLERA FARMACÊUTICA S.A. | Cancelado |
-| 104540181 | SCITALAX | DAIICHI SANKYO BRASIL FARMACÊUTICA LTDA | Cancelado |
-| 105730408 | OXALATO DE ESCITALOPRAM | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Cancelado |
-| 112130402 | OXALATO DE ESCITALOPRAM | BIOSINTÉTICA FARMACÊUTICA LTDA | Cancelado |
-| 126750215 | OXALATO DE ESCITALOPRAM | NOVA QUIMICA FARMACÊUTICA S/A | Cancelado |
-| 137640126 | SEDOPAN | ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
-| 141070104 | BROMIDRATO DE CITALOPRAM | PHARLAB INDÚSTRIA FARMACÊUTICA S.A. | Cancelado |
-| 167730364 | OXALATO DE ESCITALOPRAM | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 
-Os dados contêm apenas parte dos registros; a lista pode estar incompleta.
+A tabela mostra até 30 registros (os ativos primeiro), de 55 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 <!-- licenses:end -->
 
-Segundo os dados de registro, o citalopram consta como comercializado no Brasil, com 5 registros válidos e 15 cancelados; a lista de registros pode estar incompleta.
+Segundo os dados de registro, o citalopram consta como comercializado no Brasil, com registros válidos e cancelados (números atualizados no resumo rápido e na tabela acima).
+
+<!-- review:begin br-lic-20261125-citalopram-1 -->
+
+> **Correção de verificação (2026-11-25)**: Texto original: “com 5 registros válidos e 15 cancelados; a lista de registros pode estar incompleta.” Corrigido conforme os dados abertos de medicamentos da ANVISA: os números citados vinham de dados que incluíam registros de escitalopram (outro fármaco, o enantiômero S do citalopram), já retirados; a tabela acima traz todos os registros de citalopram nos dados (os números atualizados estão no resumo rápido e na tabela). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261125-citalopram-1 -->
 
 ## Considerações de Segurança
 
@@ -145,11 +161,12 @@ Consulte a bula para as advertências oficiais, que não estavam disponíveis no
 
 ## Registro de verificação
 
-Abaixo, o registro de verificação desta página. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial); as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos. A frase que dizia não haver dados sobre o mecanismo de ação foi substituída por um trecho da bula oficial citada (com tradução não oficial).
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Celexa (citalopram) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4259d9b1-de34-43a4-85a8-41dd214e9177) |
+| 2026-11-25 | “com 5 registros válidos e 15 cancelados; a lista de registros pode estar incompleta.” → “com registros válidos e cancelados (números atualizados no resumo rápido e na tabela acima).” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

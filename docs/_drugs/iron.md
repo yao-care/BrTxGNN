@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "IRON"
 predicted_indications: ["vitamin B12- and folate-independent constitutional megaloblastic anemia", "non-syndromic esophageal malformation", "biotin metabolic disease", "vitamin deficiency disorder", "esophageal disease"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Iron: nova indicação prevista, Anemia megaloblástica constitucional independente de vitamina B12 e folato (vitamin B12- and folate-independent constit… (nível de evidência L5). Indicação original: Nã…"
 ---
 
@@ -48,8 +48,8 @@ O ferro é um suplemento mineral utilizado para repor as reservas do organismo. 
 | Nova Indicação Prevista | Anemia megaloblástica constitucional independente de vitamina B12 e folato (vitamin B12- and folate-independent constitutional megaloblastic anemia) |
 | Pontuação de Previsão TxGNN | 0,9989 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 3) |
-| Número de Registros | pelo menos 20 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 54) |
+| Número de Registros | 54 (ativos: 5) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -66,38 +66,54 @@ Portanto, a plausibilidade biológica é baixa e a previsão deve ser tratada co
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
-| 117720023 | DIPIRONA SÓDICA | EQUIPLEX INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
-| 167730586 | DIPIRONA MONOHIDRATADA | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
-| 180370001 | IOPAMIRON | BRACCO IMAGING DO BRASIL IMPORTAÇÃO E DISTRIBUIÇÃO | Ativo |
-| 100490105 | CALM. DOR | LABORATÓRIO SAÚDE LTDA | Cancelado |
-| 103700345 | NOGRIPE | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
-| 103700480 | SEDALGINA | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
-| 103920156 | BROMETO N-BUTILESCOPOLAMINA + DIPIRONA SODICA | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Cancelado |
-| 104300034 | CORDIRON | DIFFUCAP - CHEMOBRÁS QUÍMICA E FARMACÊUTICA LTDA | Cancelado |
-| 104650491 | NEOCOPAN | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
-| 104810082 | EUCALIPTOL, TERPINEOL, GUAIACOL GLICERIL ÉTER E DIPIRONA | 1FARMA INDUSTRIA FARMACEUTICA LTDA | Cancelado |
-| 104970027 | ESPASMODID COMPOSTO | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Cancelado |
-| 105770151 | BUSCOVERAN COMPOSTO | LABORATIL FARMACEUTICA LTDA | Cancelado |
-| 106750056 | DIPIRONA SODICA | LABORATÓRIOS STIEFEL LTDA | Cancelado |
-| 110860037 | AMIRONA | LASA INDÚSTRIA FARMACÊUTICA LTDA. | Cancelado |
-| 121530001 | RIBAVIRON C | BIOLUNIS FARMACÊUTICA LTDA | Cancelado |
-| 137640040 | ALDOSTERIN | ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
-| 148250001 | DIPIRONA SODICA | S. B. NETO | Cancelado |
-| 151700012 | TERMOSIL | ISOFARMA INDUSTRIAL FARMACÊUTICA LTDA | Cancelado |
-| 170420023 | BUTILBROMETO DE ESCOPOLAMINA + DIPIRONA | MCG INDUSTRIA FARMACEUTICA E IMPORTAÇAO LTDA | Cancelado |
-| 183260444 | LASILACTONA | SANOFI MEDLEY FARMACÊUTICA LTDA. | Cancelado |
+| 103850051 | VI - FERRIN | LABORATÓRIO FARMACÊUTICO ELOFAR LTDA | Ativo |
+| 115600194 | GERILON | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
+| 115600280 | MATURE | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
+| 135690626 | NEUTROFER | EMS SIGMA PHARMA LTDA | Ativo |
+| 144930034 | FORTEVIT | AIRELA INDÚSTRIA FARMACÊUTICA LTDA. | Ativo |
+| 100020091 | POLIVITAMINAS COM MINERAIS | LABORATORIO SEDABEL LTDA | Cancelado |
+| 100200112 | NATELE | UNIAO QUIMICA INTERNACIONAL LTDA | Cancelado |
+| 100430702 | FERRO QUELATO GLICINATO | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 101070008 | BEKELAR | GLAXOSMITHKLINE BRASIL LTDA | Cancelado |
+| 101550243 | FOLIRON | MARJAN INDÚSTRIA E COMÉRCIO LTDA | Cancelado |
+| 102680086 | CITRATO DE FERRO AMONIACAL + ASSOCIAÇÕES | LABORSIL IND FTCA LTDA | Cancelado |
+| 102850888 | GESTAVIT COM FLÚOR | LABORATORIOS GEMBALLA LTDA | Cancelado |
+| 103670104 | PHARMATON | BOEHRINGER INGELHEIM DO BRASIL QUÍMICA E FARMACÊUT | Cancelado |
+| 103670135 | KIDDI FIZZ | BOEHRINGER INGELHEIM DO BRASIL QUÍMICA E FARMACÊUT | Cancelado |
+| 103670139 | COMPLEX PHARMATON | BOEHRINGER INGELHEIM DO BRASIL QUÍMICA E FARMACÊUT | Cancelado |
+| 103670157 | PHARMATON | BOEHRINGER INGELHEIM DO BRASIL QUÍMICA E FARMACÊUT | Cancelado |
+| 103900125 | MATERVIT | FARMOQUÍMICA S/A | Cancelado |
+| 104042000 | PERFER | LUPER INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 104340005 | HEMOFARB | PROFARB LTDA | Cancelado |
+| 104760033 | THIOGENOL | LABORATORIO QUIMICO FARMACEUTICO BARROS LTDA | Cancelado |
+| 104971136 | POLIVITAMINAS + SAIS MINERAIS + EXTRATO DE GINSENG | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Cancelado |
+| 105070019 | TÔNICO SALVOL | LABORATORIO KRAEMER LTDA | Cancelado |
+| 105070020 | URGAMOL | LABORATORIO KRAEMER LTDA | Cancelado |
+| 105110004 | CITRATO DE FERRO AMONIACAL | LABORATORIOS REUNIDOS PARANA LTDA | Cancelado |
+| 105350029 | RARIVIT | LABORATÓRIO GLOBO SA | Cancelado |
+| 105350117 | FERROTRIX | LABORATÓRIO GLOBO SA | Cancelado |
+| 105500125 | FERRIPUR | UCI - FARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 105830191 | NEUTROFER | GERMED FARMACEUTICA LTDA | Cancelado |
+| 105830192 | VIDYN | GERMED FARMACEUTICA LTDA | Cancelado |
+| 105830224 | NEUTROFER FÓLICO | GERMED FARMACEUTICA LTDA | Cancelado |
 
-Os dados contêm apenas parte dos registros; a lista pode estar incompleta.
+A tabela mostra até 30 registros (os ativos primeiro), de 54 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 <!-- licenses:end -->
 
-O ferro está comercializado no Brasil, com registros válidos e cancelados. Os dados disponíveis são parciais, portanto a lista de registros pode estar incompleta.
+O ferro está comercializado no Brasil, com registros válidos e cancelados.
 
 <!-- review:begin br-lic-20261112-iron-1 -->
 
 > **Correção de verificação (2026-11-24)**: Texto original: “com 4 registros válidos e 16 cancelados” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261112-iron-1 -->
+
+<!-- review:begin br-lic-20261125-iron-1 -->
+
+> **Correção de verificação (2026-11-25)**: Texto original: “Os dados disponíveis são parciais, portanto a lista de registros pode estar incompleta.” Removido: os dados de registro desta página incluíam produtos sem ferro (dipirona, espironolactona, amiodarona e outros), já retirados; a tabela acima agora traz todos os registros com ferro na composição nos dados abertos da ANVISA, e os dados não são mais parciais (os números atualizados estão no resumo rápido e na tabela). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261125-iron-1 -->
 
 ## Considerações de Segurança
 
@@ -130,6 +146,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-24 | “com 4 registros válidos e 16 cancelados” → “com registros válidos e cancelados” | Corrigido (revisado em 2026-11-24; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-25 | Removido: “Os dados disponíveis são parciais, portanto a lista de registros pode estar incompleta.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

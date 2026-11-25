@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 451
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Methotrexate: nova indicação prevista, Blastoma Pulmonar (Pulmonary Blastoma) (nível de evidência L5). Indicação original: Antineoplásico"
 monitor_inn: "Methotrexate"
 predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "Hodgkins lymphoma", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
@@ -51,8 +51,8 @@ O modelo TxGNN prevê que pode ser eficaz para **Blastoma Pulmonar (Pulmonary Bl
 | Nova Indicação Prevista | Blastoma Pulmonar (Pulmonary Blastoma) |
 | Pontuação de Previsão TxGNN | 0,9945 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 7 de 28) |
-| Número de Registros | 28 (ativos: 7) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 10 de 35) |
+| Número de Registros | 35 (ativos: 10) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -112,11 +112,17 @@ O metotrexato está atualmente comercializado.
 | 100330137 | FAULDMETRO | LIBBS FARMACÊUTICA LTDA | Ativo |
 | 100431549 | METOTREXATO | EUROFARMA LABORATORIOS S.A. | Ativo |
 | 100431561 | MEXY | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 106460237 | METOTREXATO DE SÓDIO | LABORATORIO QUIMICO FARMACEUTICO BERGAMO LTDA | Ativo |
+| 116370033 | METREXATO | BLAU FARMACÊUTICA S.A. | Ativo |
 | 116370137 | MTX | BLAU FARMACÊUTICA S.A. | Ativo |
 | 116370142 | METOTREXATO | BLAU FARMACÊUTICA S.A. | Ativo |
+| 116370231 | METOTREXATO DE SÓDIO | BLAU FARMACÊUTICA S.A. | Ativo |
 | 122140018 | TECNOMET | ADIUM S.A. | Ativo |
 | 155370010 | HYTAS | ACCORD FARMACÊUTICA LTDA | Ativo |
+| 100410145 | TREXERON | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 101180159 | REUTREXATO | APSEN FARMACEUTICA S/A | Cancelado |
 | 101440018 | TRIXILEM | BIONCOL FARMACÊUTICA LTDA. | Cancelado |
+| 101620230 | LEXATO | LABORATÓRIOS PIERRE FABRE DO BRASIL LTDA | Cancelado |
 | 102160182 | MIANTREX CS | LABORATÓRIOS PFIZER LTDA | Cancelado |
 | 103700197 | TREXAT | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
 | 104970201 | UNI-TREXATO | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Cancelado |
@@ -130,13 +136,11 @@ O metotrexato está atualmente comercializado.
 | 121170132 | METOTREXATO | ASTA MÉDICA LTDA | Cancelado |
 | 123610034 | UNITREXATE | UCB BIOPHARMA LTDA. | Cancelado |
 | 123890063 | MIANTREX CS | PHARMACIA BRASIL LTDA | Cancelado |
+| 126030024 | TREXERON | ÍTACA LABORATÓRIOS LTDA | Cancelado |
 | 127480014 | MTX-BIG | OPEM REPRESENTAÇÃO IMPORTADORA EXPORTADORA E DISTR | Cancelado |
 | 131390002 | FAULDMETRO | DISAQ FARMACÊUTICA LTDA | Cancelado |
-| 150820025 | EMTHEXATE | ASTA MÉDICA-ONCOLOGIA LTDA | Cancelado |
-| 150820046 | METOTREXATO | ASTA MÉDICA-ONCOLOGIA LTDA | Cancelado |
-| 155730002 | TEVAMETHO | TEVA FARMACÊUTICA LTDA. | Cancelado |
-| 167250011 | TESTE CLOEN | EMPRESA DE TESTE LTDA. (VS01) | Cancelado |
-| 167250012 | TESTE CLOEN | EMPRESA DE TESTE LTDA. (VS01) | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro), de 35 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 <!-- licenses:end -->
 

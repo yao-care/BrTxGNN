@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "MAGNESIUM HYDROXIDE"
 predicted_indications: ["stomach disease"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Magnesium Hydroxide: nova indicação prevista, Doença do estômago (nível de evidência L5). Indicação original: Antiácido"
 ---
 
@@ -52,8 +52,8 @@ Os dados compilados para este relatório não incluem nenhum ensaio clínico reg
 | Nova Indicação Prevista | Doença do estômago |
 | Pontuação de Previsão TxGNN | 0,9923 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 12 de 13) |
-| Número de Registros | 13 (ativos: 12) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 13 de 14) |
+| Número de Registros | 14 (ativos: 13) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -112,6 +112,7 @@ Abaixo, os 5 principais. A forma farmacêutica não consta nos dados compilados.
 | 102350111 | GELMAX | Ativo |
 | 102350716 | GELMAX DIM | Ativo |
 | 115600111 | GASTROLIV | Ativo |
+| 115600279 | INÁZY | Ativo |
 | 117170021 | GASTROFTAL | Ativo |
 | 138410052 | KOLLANGEL TABS | Ativo |
 | 155840396 | GASTROL | Ativo |

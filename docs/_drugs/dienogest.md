@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Dienogest"
 predicted_indications: ["amenorrhea (disease)", "primary ovarian failure", "breast fibrocystic disease", "isolated growth hormone deficiency", "symptomatic form of fragile X syndrome in female carrier", "blepharophimosis-epicanthus inversus-ptosis", "hypogonadotropic hypogonadism with or without anosmia", "partial trisomy/tetrasomy of the short arm of chromosome 5", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "partial trisomy/tetrasomy of the short arm of chromosome 18"]
-last_modified_at: 2026-11-24
-description: "Dienogest: nova indicação prevista, Amenorreia (amenorrhea (disease)) (nível de evidência L5). No Brasil, registros na ANVISA: 36 (ativos: 23)"
+last_modified_at: 2026-11-25
+description: "Dienogest: nova indicação prevista, Amenorreia (amenorrhea (disease)) (nível de evidência L5). No Brasil, registros na ANVISA: 37 (ativos: 24)"
 ---
 
 # Dienogest
@@ -50,8 +50,8 @@ mas atualmente não há ensaios clínicos registrados e há **7 publicações** 
 | Nova Indicação Prevista | Amenorreia (amenorrhea (disease)) |
 | Pontuação de Previsão TxGNN | 0,9971 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 23 de 36) |
-| Número de Registros | 36 (ativos: 23) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 24 de 37) |
+| Número de Registros | 37 (ativos: 24) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -84,6 +84,7 @@ Pela regra de teto de evidência, nenhuma das publicações citadas estuda a ame
 | 100431116 | PIETRA ED | EUROFARMA LABORATORIOS S.A. | Ativo |
 | 100431405 | ALURAX | EUROFARMA LABORATORIOS S.A. | Ativo |
 | 100431587 | VALERATO DE ESTRADIOL + DIENOGESTE | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431608 | IBYZA | EUROFARMA LABORATORIOS S.A. | Ativo |
 | 102351355 | DIENOGESTE | EMS S/A | Ativo |
 | 102351369 | LUDILI ED | EMS S/A | Ativo |
 | 105730494 | KALIST | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
@@ -109,9 +110,8 @@ Pela regra de teto de evidência, nenhuma das publicações citadas estuda a ame
 | 105730496 | DIENOGESTE | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Cancelado |
 | 105730773 | MELUREN | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Cancelado |
 | 112130478 | DIENOGESTE | BIOSINTÉTICA FARMACÊUTICA LTDA | Cancelado |
-| 118610285 | DIOST | ATIVUS FARMACÊUTICA LTDA | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro), de 36 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 37 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 <!-- licenses:end -->
 

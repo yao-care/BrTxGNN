@@ -608,3 +608,24 @@ gate（`src/brtxgnn/regulatory/licenses.py` 第 5 項）擋「公開頁快照有
   非 partial 頁的「a lista pode estar incompleta／parcial」一併刪；tamoxifen 10 月刪句後留下的殘句「Essa informação diverge…」刪；新補段落頁以「não há registros／nenhum registro na ANVISA／zero licenças／ausência de registros ativos／não está registrado nem comercializado」或「lista parcial」為前提的句子 14 句（多是下一步待辦）只拿掉錯的前提。
   錨在被刪句上的 16 筆 11-06 紀錄改錨到程式表下方（前版存 history，reanchored）。
 - 驗證：checker 全量前後都是 0、gate exit 0；另寫的寬偵測（否定＋註冊／清單字樣）掃 133 頁，剩下的都是 partial 頁的保留語、不講註冊的句子、或成立的（nitrogen、selenium 確實沒有有效登記）。
+
+## 第五輪：子字串收集器收錯的品項排除、新登記號補收接進每週排程（2026-11-25）
+
+用戶 2026-11-25 第五輪決定（第 1、2 條）。資料：Release data-20261123-132649；ANVISA DADOS_ABERTOS_MEDICAMENTOS.csv 2026-11-25 下載（32,897 個登記號）。
+- 1. 收錯的藥：原因是早期 `collectors/anvisa.py`（ANVISACollector）以「藥名是 NOME_PRODUTO／PRINCIPIO_ATIVO／CLASSE_TERAPEUTICA 的子字串」收（最多 20 筆；用 data/raw/br_fda_drugs.json 重算，各證據包 total_matches 完全對得上），
+  10-31 依成分重建時這些證據包因「原有登記號一半以上不在依成分結果裡」被略過。全量找同類＝這種格式（沒有 query_terms 的 registration_number 格式）的 22 個證據包逐筆看：
+  citalopram 收 13 筆 escitalopram、tretinoína 11 筆 isotretinoína、zopiclona 11 筆 eszopiclona、glycine 20 筆 Glycine max（大豆）、iron 20 筆全不含鐵（dipirona＝dIPIRONa、espironolactona、AMIRONA、CORDIRON、RIBAVIRON、IOPAMIRON）、
+  nicotina 20 筆 nicotinamida 維生素複方、glucose 1 筆 AGLUCOSE（acarbose），共 7 個證據包 96 筆（有公開頁的是 citalopram、glycine、iron；另 4 個沒有藥物頁）。
+  照收不排除：iodine 的 povidone-iodine 品牌（照 MyTxGNN 第四輪慣例算 iodine 的寫法；沒有藥物頁）、calcium／magnesium 的順勢鈣鎂鹽（離子類慣例）、lactose 的 cellactose；其他 license_id 格式證據包的工具標出組逐組看都是鹽類／離子／拼法（例 sodium_acetate 的胺基酸輸液成分欄確實含 acetato de sódio），另 calcium_propionate（noindex）收的是氯化鈣類、sodium_benzoate 等 6 個沒有藥物頁的證據包收的是同一組含鈉輸液（drug_mapping 都對到鈉／鈣離子的 DrugBank ID），照離子類慣例沒動。
+  `config/bundle_record_exclusions.json`（每條附 reason、basis）＋`src/brtxgnn/regulatory/record_exclusions.py`＋`scripts/exclude_mismatched_records.py`（照 CHTxGNN 第三輪）：移到 tfda.excluded_records（不刪資料）；
+  規則另寫 query_terms（citalopram、tretinoina、zopiclona、glicina、ferro、nicotina、glicose／glucose；ferro 照 zinc→zinco 的離子頁慣例），這 7 個證據包改照依成分重建規則收（total_matches 原值存 total_matches_before_exclusion），由下一條的補收補齊：
+  citalopram 7→55 張、glycine 0→45、iron 0→54、tretinoína 9→30、zopiclona 9→11、nicotina 0→16、glucose 1→212。`collectors/brfda.py` 收集時也照同一份規則；每週 license-refresh.yml 在排程前先跑。
+- 2. 新登記號補收：`scripts/add_current_registrations.py (--download | --csv 檔)`，兩種證據包各照原規則：依成分重建的（query_terms）照整詞規則、不設上限、各種狀態都收；原收集器的（license_id 格式）只收不在 2026-03 清單（data/raw/anvisa_medicamentos.csv）也不在 drug_mapping.csv 的 Ativo 新註冊，
+  用本站同一支 map_fda_drugs_to_drugbank 對 DrugBank ID、跟證據包 drugbank_ids 相交才補，records 未滿 20 筆補進、滿了只記 records_not_stored 並算進 total_matches；收錯規則判定的不補；每筆記 source、added。只加不刪、可重複執行（第二次跑 0 筆）。
+  license-refresh.yml 在 merge_duplicate_bundles、exclude_mismatched_records 之後、license_refresh 前以 --download 跑（失敗不擋排程），有排除或補收就照常發新 Release；母目錄 br_rebuild_by_ingredient 重建後要再跑一次。
+  2026-11-25 第一次跑：上面 7 個證據包 397 筆以外，184 個證據包補 337 筆（依成分 47 包 74 筆，其中 68 筆新註冊、6 筆是 methotrexate 原本漏收的 metotrexato de sódio；原收集器 137 包、存進 records 92 筆、只算張數 171 筆；新註冊候選 593 個 Ativo 號、對到 DrugBank 397 個），公開頁 48 頁。
+  （r4 量測 204 包／398 筆是較寬的規則、含複方成分比對，是上限。）
+- 頁面：證據包 local_regulatory 重算 62 個；58 頁概覽狀態列／張數列由 sync_market_rows 同步、程式表 45 頁重排、正文張數程式改寫 5 頁、description 16 頁；正文因此矛盾的 6 句以 `br-lic-20261125-*` 更正（更正文字不寫張數）：
+  apixaban「35 registros no total: 28 válidos e 7 cancelados」、citalopram「5 registros válidos e 15 cancelados; a lista … incompleta」（含 escitalopram 的舊數字）、iron「Os dados disponíveis são parciais…」、lenalidomida「(de 11 no total; 10 válidos e 2 cancelados)」、
+  potassium_iodide「Todos os 11 registros encontrados」、teriparatida「em quatro registros válidos」。正文有變的 58 頁 last_modified_at 改 2026-11-25。
+- 驗證：checker 全量前後都是 0（先跑 dump_license_facts）；gate exit 0；apply --check 0；exclude 與 add 第二次跑 0 筆；另寫的寬偵測（改到的 58 頁正文寫死張數、「parcial／incompleta／pelo menos」、文字數詞）剩 6 行，逐句對過都跟事實層一致。

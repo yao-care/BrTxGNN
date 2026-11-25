@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 260
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Dexchlorpheniramine: usos conhecidos e situação de mercado no Brasil; atualmente nenhuma nova indicação candidata"
 predicted_indications: []
 ---
@@ -47,8 +47,8 @@ Os candidatos que o modelo TxGNN (pontuação ≥ 0,99) gerou para Dexchlorpheni
 | Novas indicações previstas | Nenhuma (todos os candidatos do modelo rastreáveis a uma fonte são usos conhecidos) |
 | Usos conhecidos entre os candidatos do modelo | 2 |
 | Nível de evidência | Não aplicável |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 79 de 191) |
-| Número de Registros | 191 (ativos: 79) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 80 de 192) |
+| Número de Registros | 192 (ativos: 80) |
 
 ## Usos conhecidos entre os candidatos do modelo
 
@@ -108,7 +108,7 @@ Os candidatos que o modelo TxGNN (pontuação ≥ 0,99) gerou para Dexchlorpheni
 | 110850036 | MALEATO DE DEXCLORFENIRAMINA | FARMACE INDÚSTRIA QUÍMICO-FARMACÊUTICA CEARENSE LT | Ativo |
 | 112090126 | FUNED- DEXCLORFENIRAMINA | FUNDAÇÃO EZEQUIEL DIAS - FUNED | Ativo |
 
-A tabela mostra até 30 registros (os ativos primeiro), de 191 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 192 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 <!-- licenses:end -->
 

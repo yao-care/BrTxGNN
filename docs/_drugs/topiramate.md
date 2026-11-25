@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 647
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Topiramate: nova indicação prevista, Neoplasma do nervo trigêmeo (trigeminal nerve neoplasm) (nível de evidência L5). Indicação original: Anticonvulsivantes"
 monitor_inn: "TOPIRAMATE"
 predicted_indications: ["trigeminal nerve neoplasm"]
@@ -51,8 +51,8 @@ O modelo TxGNN prevê que pode ser eficaz para **neoplasma do nervo trigêmeo (t
 | Nova Indicação Prevista | Neoplasma do nervo trigêmeo (trigeminal nerve neoplasm) |
 | Pontuação de Previsão TxGNN | 0,9970 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 19 de 38) |
-| Número de Registros | 38 (ativos: 19) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 20 de 39) |
+| Número de Registros | 39 (ativos: 20) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -84,6 +84,7 @@ Atualmente não há literatura relacionada.
 | 100330158 | ÉGIDE | LIBBS FARMACÊUTICA LTDA | Ativo |
 | 100430959 | AMATO | EUROFARMA LABORATORIOS S.A. | Ativo |
 | 100431148 | TOPIRAMATO | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431614 | AMATO XR | EUROFARMA LABORATORIOS S.A. | Ativo |
 | 100470405 | TOPIRAMATO | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
 | 102350753 | TOPIRAMATO | EMS S/A | Ativo |
 | 102351423 | TODUZE | EMS S/A | Ativo |
@@ -110,9 +111,8 @@ Atualmente não há literatura relacionada.
 | 104971486 | TOPIRAMATO | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Cancelado |
 | 105730387 | TOPIRAMATO | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Cancelado |
 | 105830433 | TOPIRAMATO (PORT.344/98 - LISTA C1) | GERMED FARMACEUTICA LTDA | Cancelado |
-| 112130403 | TOPIRAMATO | BIOSINTÉTICA FARMACÊUTICA LTDA | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro), de 38 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 39 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 <!-- licenses:end -->
 

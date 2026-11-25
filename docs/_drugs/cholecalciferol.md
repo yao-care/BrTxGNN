@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "CHOLECALCIFEROL"
 predicted_indications: ["acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "renal osteodystrophy", "renal tubular acidosis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Cholecalciferol: nova indicação prevista, Displasia acromesomélica tipo Campailla-Martinelli (nível de evidência L5). Indicação original: Vitamina D e análogos"
 ---
 
@@ -50,8 +50,8 @@ Atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta dire�
 | Nova Indicação Prevista | Displasia acromesomélica tipo Campailla-Martinelli |
 | Pontuação de Previsão TxGNN | 0,9978 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 73 de 297) |
-| Número de Registros | 297 (ativos: 73) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 74 de 298) |
+| Número de Registros | 298 (ativos: 74) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -91,6 +91,7 @@ Os registros estão na tabela abaixo (os ativos primeiro); os números atualizad
 | 100431446 | VITAMINA D3 | EUROFARMA LABORATORIOS S.A. | Ativo |
 | 100431571 | ALTAD CAPS DURA | EUROFARMA LABORATORIOS S.A. | Ativo |
 | 100431599 | VITAMINA D3 | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431609 | OHDE CAPS DURA | EUROFARMA LABORATORIOS S.A. | Ativo |
 | 100470662 | VITAMINA D3 | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
 | 101180623 | INPRUV D | APSEN FARMACEUTICA S/A | Ativo |
 | 101180624 | INPRUV D K | APSEN FARMACEUTICA S/A | Ativo |
@@ -113,9 +114,8 @@ Os registros estão na tabela abaixo (os ativos primeiro); os números atualizad
 | 104971485 | VITAMINA D3 | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
 | 105530384 | SOF D | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Ativo |
 | 105730133 | VIT. BIO D | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
-| 105730163 | VIT. D SOLEIL | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
 
-A tabela mostra até 30 registros (os ativos primeiro), de 297 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 298 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 <!-- licenses:end -->
 

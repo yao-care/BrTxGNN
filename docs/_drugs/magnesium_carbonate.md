@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 431
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "MAGNESIUM CARBONATE"
 predicted_indications: ["gastroduodenitis", "gastroparesis (disease)", "stomach disease", "duodenal obstruction"]
 description: "Magnesium Carbonate: nova indicação prevista, Gastroduodenitis (nível de evidência L5). Indicação original: ANALGESICOS NAO NARCOTICOS"
@@ -55,8 +55,8 @@ mas há **0 ensaios clínicos** e apenas **1 publicação** (um estudo in vitro)
 | Nova Indicação Prevista | Gastroduodenitis |
 | Pontuação de Previsão TxGNN | 0.9994 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 2) |
-| Número de Registros | 2 (ativos: 2) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
+| Número de Registros | 3 (ativos: 3) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -90,7 +90,7 @@ Outras previsões do modelo têm evidências igualmente fracas:
 
 ## Informações de Comercialização no Brasil
 
-Os 2 registros estão válidos.
+Os 3 registros estão válidos.
 
 <!-- licenses:begin -->
 
@@ -98,6 +98,7 @@ Os 2 registros estão válidos.
 |------|------|------|
 | 135690647 | SOMALGIN CARDIO | Ativo |
 | 137640180 | MAGNESIA BISURADA | Ativo |
+| 137640185 | PHILLTABS | Ativo |
 
 <!-- licenses:end -->
 
@@ -116,7 +117,7 @@ Para advertências e contraindicações em bula, consulte a bula do medicamento.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão tem pontuação alta (0,9994), mas as evidências se limitam a um estudo in vitro (L4), sem nenhum ensaio clínico. A indicação é essencialmente uma extensão do uso antiácido já conhecido, e os 2 registros no Brasil estão válidos. O tratamento atual da úlcera péptica se baseia em inibidores da bomba de prótons e erradicação do *H. pylori*.
+- A previsão tem pontuação alta (0,9994), mas as evidências se limitam a um estudo in vitro (L4), sem nenhum ensaio clínico. A indicação é essencialmente uma extensão do uso antiácido já conhecido, e os 3 registros no Brasil estão válidos. O tratamento atual da úlcera péptica se baseia em inibidores da bomba de prótons e erradicação do *H. pylori*.
 
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação (MOA) a partir do DrugBank

@@ -5,7 +5,7 @@ layout: default
 title: Cefotaxima Sodium
 parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 208
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-25
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -41,8 +41,8 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 | Item | Conteúdo |
 |------|------|
 | Indicação Original | CEFALOSPORINAS; ANTIBIOTICOS SISTEMICOS SIMPLES |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 4) |
-| Número de Registros | 4 (ativos: 2) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 5) |
+| Número de Registros | 5 (ativos: 3) |
 
 ---
 

@@ -5,10 +5,10 @@ parent: Evidência Alta (L1-L2)
 nav_order: 414
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "LEVONORGESTREL"
 predicted_indications: ["acne (disease)", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
-description: "Levonorgestrel: nova indicação prevista, acne (acne (disease)) (nível de evidência L2). No Brasil, registros na ANVISA: 95 (ativos: 33)"
+description: "Levonorgestrel: nova indicação prevista, acne (acne (disease)) (nível de evidência L2). No Brasil, registros na ANVISA: 96 (ativos: 34)"
 ---
 
 # Levonorgestrel
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **acne (acne (disease))**, com **
 | Nova Indicação Prevista | acne (acne (disease)) |
 | Pontuação de Previsão TxGNN | 0.9988 |
 | Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 33 de 95) |
-| Número de Registros | 95 (ativos: 33) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 34 de 96) |
+| Número de Registros | 96 (ativos: 34) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 ## Por que Esta Previsão é Razoável?
@@ -93,6 +93,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 | 104971501 | TRIQUILAR | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
 | 104971502 | MIRANOVA | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
 | 104971569 | CICLOPRIMOGYNA | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971580 | PILEM UNO | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
 | 105730774 | HORA H | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
 | 109740061 | GESTRELAN | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
 | 109740115 | LEVEL | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
@@ -113,9 +114,8 @@ Atualmente não há ensaios clínicos relacionados registrados.
 | 146820089 | LEVONORGESTREL | SUN FARMACÊUTICA DO BRASIL LTDA | Ativo |
 | 155840079 | NEODIA | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
 | 155840148 | LEVONORGESTREL | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
-| 170560106 | MIRENA | BAYER S.A. | Ativo |
 
-A tabela mostra até 30 registros (os ativos primeiro), de 95 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 96 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 <!-- licenses:end -->
 
@@ -125,7 +125,7 @@ A tabela mostra até 30 registros (os ativos primeiro), de 95 registros nos dado
 
 <!-- review:end br-lic-20261124c-levonorgestrel-1 -->
 
-Há 95 registros no total, dos quais 33 válidos e 62 cancelados.
+Há 96 registros no total, dos quais 34 válidos e 62 cancelados.
 
 ## Considerações de Segurança
 

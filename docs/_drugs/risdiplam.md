@@ -5,10 +5,10 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 568
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "Risdiplam"
 predicted_indications: ["acne (disease)"]
-description: "Risdiplam: nova indicação prevista, Acne (acne (disease)) (nível de evidência L5). No Brasil, registros na ANVISA: 1 (ativos: 1)"
+description: "Risdiplam: nova indicação prevista, Acne (acne (disease)) (nível de evidência L5). No Brasil, registros na ANVISA: 2 (ativos: 2)"
 ---
 
 # Risdiplam
@@ -51,8 +51,8 @@ O modelo TxGNN prevê que pode ser eficaz para **acne (disease)**, mas atualment
 | Nova Indicação Prevista | Acne (acne (disease)) |
 | Pontuação de Previsão TxGNN | 0.9945 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
-| Número de Registros | 1 (ativos: 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 2) |
+| Número de Registros | 2 (ativos: 2) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -95,6 +95,7 @@ Atualmente não há literatura relacionada.
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 101000670 | EVRYSDI | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Ativo |
+| 101000681 | EVRYSDI GO | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Ativo |
 
 <!-- licenses:end -->
 

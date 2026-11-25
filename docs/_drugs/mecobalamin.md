@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 436
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Mecobalamin: nova indicação prevista, Colangite Esclerosante (Sclerosing Cholangitis) (nível de evidência L5). Indicação original: Monovitaminas, exceto vitamina K"
 monitor_inn: "mecobalamin"
 predicted_indications: ["sclerosing cholangitis", "multiple endocrine neoplasia", "bone Paget disease"]
@@ -52,8 +52,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | Colangite Esclerosante (Sclerosing Cholangitis) |
 | Pontuação de Previsão TxGNN | 0,9950 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 16 de 17) |
-| Número de Registros | 17 (ativos: 16) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 18 de 19) |
+| Número de Registros | 19 (ativos: 18) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -96,7 +96,9 @@ Principais registros:
 | 114620042 | MECOBE | MYRALIS INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
 | 114620052 | MECOBALAMINA | MYRALIS INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
 | 114620054 | PERI B12 | MYRALIS INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 121420676 | CITONEURIN B12 SUBLINGUAL | PROCTER & GAMBLE DO BRASIL LTDA. | Ativo |
 | 135170093 | MECOBALAMINA | ALTHAIA S.A. INDUSTRIA FARMACEUTICA | Ativo |
+| 135170101 | VIVADOZE | ALTHAIA S.A. INDUSTRIA FARMACEUTICA | Ativo |
 | 156650006 | BMAST | DROXTER INDUSTRIA, COMÉRCIO E PARTICIPAÇÕES LTDA | Ativo |
 | 103410056 | METHYCOBAL | TRB PHARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA LTDA | Cancelado |
 

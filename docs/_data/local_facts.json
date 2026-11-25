@@ -12,20 +12,20 @@
  "public_pages": 565,
  "licence_snapshot": "br_licenses.json.gz",
  "licence": {
-  "drugs_with_data": 549,
-  "drugs_with_current": 544,
+  "drugs_with_data": 552,
+  "drugs_with_current": 547,
   "drugs_none_current": 5,
-  "drugs_without_data": 16,
+  "drugs_without_data": 13,
   "drugs_partial": 0,
-  "items_total": 18447,
-  "items_current": 6430
+  "items_total": 18663,
+  "items_current": 6532
  },
  "reviews": {
-  "records": 1268,
+  "records": 1274,
   "pages": 540,
   "public_pages_with_records": 503,
   "by_action": {
-   "correct": 856,
+   "correct": 862,
    "mechanism": 412
   }
  },
@@ -47,8 +47,8 @@
    "t": "Metamizole",
    "u": "/drugs/metamizole/",
    "l": "L5",
-   "lt": 496,
-   "lv": 171,
+   "lt": 497,
+   "lv": 172,
    "r": 3,
    "i": "rheumatoid arthritis"
   },
@@ -56,8 +56,8 @@
    "t": "Amoxicillin",
    "u": "/drugs/amoxicillin/",
    "l": "L5",
-   "lt": 359,
-   "lv": 122,
+   "lt": 361,
+   "lv": 124,
    "r": 2,
    "i": "síndrome de hiperviscosidade policlonal"
   },
@@ -92,8 +92,8 @@
    "t": "Dexchlorpheniramine",
    "u": "/drugs/dexchlorpheniramine/",
    "l": "N/A",
-   "lt": 191,
-   "lv": 79,
+   "lt": 192,
+   "lv": 80,
    "r": 0,
    "i": ""
   },
@@ -101,8 +101,8 @@
    "t": "Caffeine",
    "u": "/drugs/caffeine/",
    "l": "L5",
-   "lt": 281,
-   "lv": 76,
+   "lt": 282,
+   "lv": 77,
    "r": 3,
    "i": "Doença da cavidade nasal"
   }
@@ -157,6 +157,15 @@
  "no_current_more": 0,
  "most_reviewed": [
   {
+   "t": "Lenalidomida",
+   "u": "/drugs/lenalidomida/",
+   "l": "L1",
+   "lt": 12,
+   "lv": 10,
+   "r": 8,
+   "i": "Leucemia mieloide"
+  },
+  {
    "t": "Phenytoin",
    "u": "/drugs/phenytoin/",
    "l": "L5",
@@ -182,15 +191,6 @@
    "lv": 6,
    "r": 7,
    "i": "alopecia areata"
-  },
-  {
-   "t": "Lenalidomida",
-   "u": "/drugs/lenalidomida/",
-   "l": "L1",
-   "lt": 11,
-   "lv": 9,
-   "r": 7,
-   "i": "Leucemia mieloide"
   },
   {
    "t": "Levometionina",
@@ -221,6 +221,42 @@
   "i": "Transtorno de cefaleia"
  },
  "recent_reviews": [
+  {
+   "t": "Teriparatida",
+   "u": "/drugs/teriparatida/",
+   "s": "“comercializado no Brasil em quatro registros válidos.” → “comercializado no Brasil, com registros válidos…",
+   "d": "2026-11-25"
+  },
+  {
+   "t": "Potassium Iodide",
+   "u": "/drugs/potassium-iodide/",
+   "s": "“Todos os 11 registros encontrados estão válidos.” → “Todos os registros encontrados estão válidos.”",
+   "d": "2026-11-25"
+  },
+  {
+   "t": "Lenalidomida",
+   "u": "/drugs/lenalidomida/",
+   "s": "“(de 11 no total; 10 válidos e 2 cancelados):” → “:”",
+   "d": "2026-11-25"
+  },
+  {
+   "t": "Iron",
+   "u": "/drugs/iron/",
+   "s": "Removido: “Os dados disponíveis são parciais, portanto a lista de registros pode estar incompleta.”",
+   "d": "2026-11-25"
+  },
+  {
+   "t": "Citalopram",
+   "u": "/drugs/citalopram/",
+   "s": "“com 5 registros válidos e 15 cancelados; a lista de registros pode estar incompleta.” → “com registros…",
+   "d": "2026-11-25"
+  },
+  {
+   "t": "Apixaban",
+   "u": "/drugs/apixaban/",
+   "s": "“35 registros no total: 28 válidos e 7 cancelados.” → “registros válidos e cancelados (números atualizados no…",
+   "d": "2026-11-25"
+  },
   {
    "t": "Venetoclax",
    "u": "/drugs/venetoclax/",
@@ -328,45 +364,45 @@
    "u": "/drugs/indacaterol/",
    "s": "Removido: “A lista detalhada de registros não está disponível nos dados compilados.”",
    "d": "2026-11-24"
-  },
-  {
-   "t": "Ibuprofen",
-   "u": "/drugs/ibuprofen/",
-   "s": "Removido: “Os dados de registro são parciais, e a lista detalhada de registros não está disponível neste…",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Hesperidin",
-   "u": "/drugs/hesperidin/",
-   "s": "Removido: “Não há detalhes de registros individuais disponíveis nos dados compilados para este relatório.”",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Haloperidol",
-   "u": "/drugs/haloperidol/",
-   "s": "Removido: “A lista de registros pode estar incompleta.”",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Guaifenesin",
-   "u": "/drugs/guaifenesin/",
-   "s": "Removido: “Os detalhes de cada registro não constam nos dados compilados para este relatório.”",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Flurbiprofen",
-   "u": "/drugs/flurbiprofen/",
-   "s": "Removido: “Os dados compilados não trazem o detalhamento individual dos registros (número, nome comercial e…",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Flunitrazepam",
-   "u": "/drugs/flunitrazepam/",
-   "s": "“Os dados locais não trazem o detalhamento de nomes comerciais, formas farmacêuticas ou textos de indicação…",
-   "d": "2026-11-24"
   }
  ],
  "recent_licence_reviews": [
+  {
+   "t": "Teriparatida",
+   "u": "/drugs/teriparatida/",
+   "s": "“comercializado no Brasil em quatro registros válidos.” → “comercializado no Brasil, com registros válidos…",
+   "d": "2026-11-25"
+  },
+  {
+   "t": "Potassium Iodide",
+   "u": "/drugs/potassium-iodide/",
+   "s": "“Todos os 11 registros encontrados estão válidos.” → “Todos os registros encontrados estão válidos.”",
+   "d": "2026-11-25"
+  },
+  {
+   "t": "Lenalidomida",
+   "u": "/drugs/lenalidomida/",
+   "s": "“(de 11 no total; 10 válidos e 2 cancelados):” → “:”",
+   "d": "2026-11-25"
+  },
+  {
+   "t": "Iron",
+   "u": "/drugs/iron/",
+   "s": "Removido: “Os dados disponíveis são parciais, portanto a lista de registros pode estar incompleta.”",
+   "d": "2026-11-25"
+  },
+  {
+   "t": "Citalopram",
+   "u": "/drugs/citalopram/",
+   "s": "“com 5 registros válidos e 15 cancelados; a lista de registros pode estar incompleta.” → “com registros…",
+   "d": "2026-11-25"
+  },
+  {
+   "t": "Apixaban",
+   "u": "/drugs/apixaban/",
+   "s": "“35 registros no total: 28 válidos e 7 cancelados.” → “registros válidos e cancelados (números atualizados no…",
+   "d": "2026-11-25"
+  },
   {
    "t": "Venetoclax",
    "u": "/drugs/venetoclax/",
@@ -377,42 +413,6 @@
    "t": "Tezacaftor",
    "u": "/drugs/tezacaftor/",
    "s": "“e a viabilidade regulatória, já que não há registro no Brasil” → “e a viabilidade regulatória”",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Tamoxifen",
-   "u": "/drugs/tamoxifen/",
-   "s": "Removido: “Essa informação diverge da realidade esperada para um fármaco amplamente usado e deve ser…",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Sofosbuvir",
-   "u": "/drugs/sofosbuvir/",
-   "s": "“do sofosbuvir no Brasil, pois os registros compilados indicam zero licenças.” → “do sofosbuvir no Brasil.”",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Salbutamol",
-   "u": "/drugs/salbutamol/",
-   "s": "Removido: “Os dados compilados para este relatório não trazem o detalhamento individual dos registros…",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Rasburicase",
-   "u": "/drugs/rasburicase/",
-   "s": "“de acesso, já que não há registro no Brasil.” → “de acesso.”",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Propofol",
-   "u": "/drugs/propofol/",
-   "s": "“no Brasil, pois os dados compilados indicam ausência de registros ativos.” → “no Brasil.”",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Piroxicam",
-   "u": "/drugs/piroxicam/",
-   "s": "Removido: “- Não há registro no Brasil, o que também dificulta qualquer avanço regulatório.”",
    "d": "2026-11-24"
   }
  ],

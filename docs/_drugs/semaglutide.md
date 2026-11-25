@@ -7,7 +7,7 @@ title: SEMAGLUTIDE
 drugbank_id: DB13928
 permalink: /drugs/semaglutide/
 search_exclude: true
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-25
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -19,8 +19,8 @@ evidence_level: N/A
 
 | Item | Conteúdo |
 |------|----------|
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 16 de 16) |
-| Número de Registros | 16 (ativos: 16) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 20 de 20) |
+| Número de Registros | 20 (ativos: 20) |
 | DrugBank ID | [DB13928](https://go.drugbank.com/drugs/DB13928) |
 | Novas indicações previstas | Nenhuma |
 

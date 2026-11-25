@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 674
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "vonoprazan"
 predicted_indications: ["peptic ulcer perforation", "hiatus hernia (disease)", "achlorhydria", "pylorospasm", "Dieulafoy lesion", "cascade stomach", "gastric dilatation", "hemorrhagic duodenitis"]
 description: "Vonoprazan: nova indicação prevista, Peptic ulcer perforation (nível de evidência L5). Indicação original: MEDICAMENTOS PARA ÚLCERA PÉPTICA E DOENÇAS DE REFLUXO GASTRESOFÁGICO"
@@ -51,8 +51,8 @@ O modelo TxGNN prevê que pode ser eficaz para **perfuração de úlcera péptic
 | Nova Indicação Prevista | Peptic ulcer perforation |
 | Pontuação de Previsão TxGNN | 0.9997 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 2) |
-| Número de Registros | 2 (ativos: 2) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
+| Número de Registros | 3 (ativos: 3) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -96,6 +96,7 @@ Esses estudos têm caráter indireto e não substituem evidência específica da
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
+| 101180683 | RELIFY | APSEN FARMACEUTICA S/A | Ativo |
 | 106390282 | INZELM | TAKEDA PHARMA LTDA. | Ativo |
 | 178171012 | VOPA | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Ativo |
 

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 589
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "Sodium carbonate"
 predicted_indications: ["cauda equina syndrome", "anaphylaxis", "food-dependent exercise-induced anaphylaxis", "obsolete neurogenic bladder (disease)", "dry eye syndrome", "ventricular tachycardia"]
 description: "Sodium Carbonate: nova indicação prevista, Síndrome da cauda equina (cauda equina syndrome) (nível de evidência L5). Indicação original: ANTIACIDO"
@@ -51,8 +51,8 @@ O modelo TxGNN prevê que ele possa ser eficaz para **síndrome da cauda equina 
 | Nova Indicação Prevista | Síndrome da cauda equina (cauda equina syndrome) |
 | Pontuação de Previsão TxGNN | 0.9980 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 9 de 10) |
-| Número de Registros | 10 (ativos: 9) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 10 de 11) |
+| Número de Registros | 11 (ativos: 10) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -111,6 +111,7 @@ Há registros **válidos** e cancelados (números atualizados no resumo rápido)
 | Registro | Produto | Situação |
 |------|------|------|
 | 103920245 | STOMVYC | Ativo |
+| 104730047 | ESTOMANOL | Ativo |
 | 104810124 | DIGIAZIA | Ativo |
 | 104971402 | FRUTAXX | Ativo |
 | 143810164 | FRUSALT | Ativo |

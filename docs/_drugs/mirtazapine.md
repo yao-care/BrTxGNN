@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 462
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Mirtazapine: nova indicação prevista, Síndrome de Ohdo e variantes (Ohdo syndrome and variants) (nível de evidência L5). Indicação original: Antidepressivos"
 monitor_inn: "MIRTAZAPINE"
 predicted_indications: ["Ohdo syndrome and variants", "blepharophimosis - intellectual disability syndrome, Ohdo type", "benign paroxysmal torticollis of infancy"]
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | Síndrome de Ohdo e variantes (Ohdo syndrome and variants) |
 | Pontuação de Previsão TxGNN | 0,9942 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 30 de 36) |
-| Número de Registros | 36 (ativos: 30) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 31 de 37) |
+| Número de Registros | 37 (ativos: 31) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -108,10 +108,10 @@ Os registros são de medicamentos de componente único; há registros **válidos
 | 151670052 | MIRTAZAPINA | AUROBINDO PHARMA INDÚSTRIA FARMACÊUTICA LIMITADA | Ativo |
 | 155840566 | MIRTAZAPINA | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
 | 156510126 | MIRTAZAPINA | ZYDUS NIKKHO FARMACÊUTICA LTDA | Ativo |
+| 165070058 | ZAPIRE | CAMBER FARMACEUTICA LTDA | Ativo |
 | 167730606 | MIRTAZAPINA | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
-| 183260289 | MIRTAZAPINA | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
 
-A tabela mostra até 30 registros (os ativos primeiro), de 36 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 37 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 <!-- licenses:end -->
 

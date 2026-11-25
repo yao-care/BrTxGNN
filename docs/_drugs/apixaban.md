@@ -5,10 +5,10 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 72
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "Apixaban"
 predicted_indications: ["migraine disorder"]
-description: "Apixaban: nova indicação prevista, transtorno de enxaqueca (migraine disorder) (nível de evidência L5). No Brasil, registros na ANVISA: 35 (ativos: 28)"
+description: "Apixaban: nova indicação prevista, transtorno de enxaqueca (migraine disorder) (nível de evidência L5). No Brasil, registros na ANVISA: 36 (ativos: 29)"
 ---
 
 # Apixaban
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser útil para **transtorno de enxaqueca (migrain
 | Nova Indicação Prevista | transtorno de enxaqueca (migraine disorder) |
 | Pontuação de Previsão TxGNN | 0.9902 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 28 de 35) |
-| Número de Registros | 35 (ativos: 28) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 29 de 36) |
+| Número de Registros | 36 (ativos: 29) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -87,6 +87,7 @@ Os únicos relatos específicos da apixabana apontam em direções que não sust
 | 101180657 | APICS | APSEN FARMACEUTICA S/A | Ativo |
 | 101180658 | APIXABANA | APSEN FARMACEUTICA S/A | Ativo |
 | 102351434 | APIXABANA | EMS S/A | Ativo |
+| 102351488 | XAKILIS | EMS S/A | Ativo |
 | 105250122 | IXABI | TORRENT DO BRASIL LTDA | Ativo |
 | 105250123 | APIXABANA | TORRENT DO BRASIL LTDA | Ativo |
 | 105831045 | APIXABANA | GERMED FARMACEUTICA LTDA | Ativo |
@@ -110,19 +111,24 @@ Os únicos relatos específicos da apixabana apontam em direções que não sust
 | 183260487 | APIXABANA | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
 | 188300099 | EKNUS | VIATRIS FARMACEUTICA DO BRASIL LTDA | Ativo |
 | 100470652 | PIXTEN | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
-| 101800400 | ELIQUIS | BRISTOL-MYERS SQUIBB FARMACÊUTICA LTDA | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro), de 35 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 36 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 <!-- licenses:end -->
 
-Segundo os dados compilados, a apixabana está comercializada no Brasil, com 35 registros no total: 28 válidos e 7 cancelados.
+Segundo os dados compilados, a apixabana está comercializada no Brasil, com registros válidos e cancelados (números atualizados no resumo rápido e na tabela acima).
 
 <!-- review:begin br-lic-20261124c-apixaban-1 -->
 
 > **Correção de verificação (2026-11-24)**: Texto original: “A lista detalhada de registros não está disponível nos dados compilados.” Removido: a frase dizia que a lista de registros não estava disponível ou não seria apresentada; esta seção agora traz a tabela de registros gerada por programa a partir dos dados abertos de medicamentos da ANVISA, com todos os registros do medicamento nos dados (os números atualizados estão no resumo rápido e na tabela). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261124c-apixaban-1 -->
+
+<!-- review:begin br-lic-20261125-apixaban-1 -->
+
+> **Correção de verificação (2026-11-25)**: Texto original: “35 registros no total: 28 válidos e 7 cancelados.” Corrigido conforme os dados abertos de medicamentos da ANVISA: o número ou a situação dos registros informado não correspondia aos dados; o texto não traz mais números fixos, e os números atualizados estão no resumo rápido e na tabela de registros desta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261125-apixaban-1 -->
 
 ## Considerações de Segurança
 
@@ -160,6 +166,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 |------|------|------|------|
 | 2026-11-19 | Frase “não há dados sobre o mecanismo de ação” substituída por trecho da bula dos EUA | Frase sobre a falta de dados do mecanismo de ação substituída por um trecho com fonte | [DailyMed: Eliquis (apixaban) prescribing information, Aphena Pharma Solutions - Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41a133ef-e461-48ad-8221-b735bdd0ec25) |
 | 2026-11-24 | Removido: “A lista detalhada de registros não está disponível nos dados compilados.” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-25 | “35 registros no total: 28 válidos e 7 cancelados.” → “registros válidos e cancelados (números atualizados no resumo rápido e na tabela acima).” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

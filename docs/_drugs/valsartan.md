@@ -5,10 +5,10 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 664
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "VALSARTAN"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease", "Prinzmetal angina"]
-description: "Valsartan: nova indicação prevista, Doença renal hipertensiva maligna (malignant hypertensive renal disease) (nível de evidência L5). No Brasil, registros na ANVISA: 144 (ativos: 44)"
+description: "Valsartan: nova indicação prevista, Doença renal hipertensiva maligna (malignant hypertensive renal disease) (nível de evidência L5). No Brasil, registros na ANVISA: 148 (ativos: 48)"
 ---
 
 # Valsartan
@@ -50,8 +50,8 @@ Não há **nenhum ensaio clínico** e há apenas **1 publicação** associada, u
 | Nova Indicação Prevista | Doença renal hipertensiva maligna (malignant hypertensive renal disease) |
 | Pontuação de Previsão TxGNN | 0.9997 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 44 de 144) |
-| Número de Registros | 144 (ativos: 44) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 48 de 148) |
+| Número de Registros | 148 (ativos: 48) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -89,6 +89,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 | 100681189 | NEPARVIS | NOVARTIS BIOCIENCIAS S.A | Ativo |
 | 102351012 | VALSARTANA | EMS S/A | Ativo |
 | 102351055 | VALSARTANA+HIDROCLOROTIAZIDA | EMS S/A | Ativo |
+| 102351490 | SACUBITRIL VALSARTANA SÓDICA | EMS S/A | Ativo |
 | 103700720 | VALSARTANA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
 | 103700732 | TEUVART | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
 | 103720259 | AVAL | SUPERA FARMA LABORATÓRIOS S.A | Ativo |
@@ -107,9 +108,8 @@ Atualmente não há ensaios clínicos relacionados registrados.
 | 118190371 | VALSARTANA | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
 | 118190465 | ARACOR HCT | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
 | 123520234 | VALSARTANA+HIDROCLOROTIAZIDA | RANBAXY FARMACÊUTICA LTDA | Ativo |
-| 135170035 | VALSARTANA | ALTHAIA S.A. INDUSTRIA FARMACEUTICA | Ativo |
 
-A tabela mostra até 30 registros (os ativos primeiro), de 144 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 148 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 <!-- licenses:end -->
 

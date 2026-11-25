@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 43
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Alprazolam: nova indicação prevista, Insônia (insomnia) (nível de evidência L4). Indicação original: Transtorno de ansiedade"
 monitor_inn: "ALPRAZOLAM"
 predicted_indications: ["insomnia (disease)", "benign paroxysmal torticollis of infancy"]
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **18 publicações** relacionadas, 
 | Nova Indicação Prevista | Insônia (insomnia) |
 | Pontuação de Previsão TxGNN | 0,9981 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 17 de 52) |
-| Número de Registros | 52 (ativos: 17) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 18 de 53) |
+| Número de Registros | 53 (ativos: 18) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -104,6 +104,7 @@ Foram selecionadas as publicações mais relevantes entre as disponíveis (nenhu
 | 178170867 | APRAZ | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Ativo |
 | 183260059 | ALPRAZOLAM | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
 | 188300091 | FRONTAL | VIATRIS FARMACEUTICA DO BRASIL LTDA | Ativo |
+| 194270117 | ALPRAZOLAM | MOMENTA FARMACÊUTICA LTDA. | Ativo |
 | 100430041 | ALPRAZOLAM | EUROFARMA LABORATORIOS S.A. | Cancelado |
 | 100470403 | ALPRAZOLAM | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 | 100680911 | ALPRAZOLAM | NOVARTIS BIOCIENCIAS S.A | Cancelado |
@@ -116,9 +117,8 @@ Foram selecionadas as publicações mais relevantes entre as disponíveis (nenhu
 | 103700544 | TEUFRON | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
 | 103700659 | TEUFRON | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
 | 104650296 | NEOZOLAM | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
-| 104920141 | ARROPLAM | BIOLAB FARMA GENERICOS LTDA | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro), de 52 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 53 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 <!-- licenses:end -->
 

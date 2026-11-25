@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 662
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Valganciclovir: known uses and market status in Brazil; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -47,8 +47,8 @@ O modelo TxGNN não apresenta nenhum candidato com pontuação igual ou superior
 | Novas indicações previstas | Nenhuma (nenhum candidato do modelo obteve pontuação igual ou superior a 0,99) |
 | Usos conhecidos registrados para este medicamento | 0 |
 | Nível de evidência | Não aplicável |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 4) |
-| Número de Registros | 4 (ativos: 2) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 5) |
+| Número de Registros | 5 (ativos: 3) |
 
 ## Usos conhecidos registrados para este medicamento
 
@@ -76,6 +76,7 @@ O modelo TxGNN não apresenta nenhum candidato com pontuação igual ou superior
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
+| 116370237 | CLORIDRATO DE VALGANCICLOVIR | BLAU FARMACÊUTICA S.A. | Ativo |
 | 151430049 | CLORIDRATO DE VALGANCICLOVIR | DR. REDDYS FARMACÊUTICA DO BRASIL LTDA | Ativo |
 | 189770003 | VALCYTE | BIOPAS BRASIL PRODUTOS FARMACEUTICOS LTDA | Ativo |
 | 101000593 | VALCYTE | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Cancelado |

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 316
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Fexofenadine: nova indicação prevista, Conjuntivite da rosácea (rosacea conjunctivitis) (nível de evidência L5). Indicação original: Anti-histamínicos sistêmicos"
 monitor_inn: "Fexofenadine"
 predicted_indications: ["rosacea conjunctivitis"]
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | Conjuntivite da rosácea (rosacea conjunctivitis) |
 | Pontuação de Previsão TxGNN | 0,9985 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 35 de 62) |
-| Número de Registros | 62 (ativos: 35) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 36 de 63) |
+| Número de Registros | 63 (ativos: 36) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -109,12 +109,12 @@ Principais registros:
 | 155840603 | CLORIDRATO DE FEXOFENADINA | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
 | 155840606 | DESRINITE | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
 | 155840712 | CLORIDRATO DE FEXOFENADINA | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 155840731 | DESRINITE | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
 | 156490006 | CLORIDRATO DE FEXOFENADINA | UNICHEM FARMACÊUTICA DO BRASIL LTDA | Ativo |
 | 167730630 | CLORIDRATO DE FEXOFENADINA | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
 | 167730635 | LEXLER | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
-| 167730664 | LEXLER | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
 
-A tabela mostra até 30 registros (os ativos primeiro), de 62 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
+A tabela mostra até 30 registros (os ativos primeiro), de 63 registros nos dados. A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 <!-- licenses:end -->
 
