@@ -1,8 +1,441 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-11-25T07:31:01.166913+00:00",
-  "total_fetched": 0,
-  "unique_count": 0,
-  "health_related_count": 0,
-  "news": []
+  "fetched_at": "2026-11-25T21:15:27.236177+00:00",
+  "total_fetched": 98,
+  "unique_count": 97,
+  "health_related_count": 36,
+  "news": [
+    {
+      "id": "09bb919231be",
+      "title": "Cientistas inundam mapa do GTA e fazem descoberta sobre o mundo real - UOL",
+      "published": "2026-11-25T18:21:28+00:00",
+      "summary": "Cientistas inundam mapa do GTA e fazem descoberta sobre o mundo real&nbsp;&nbsp;UOL",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVmJGWDBNWGdUVnQwejVMUXZLZ3VPMmhTWGpPdjVjYmdhaFZyVUFoX2FkVVF0UnVBeEVBYWdkV2ZKUy1tWWdZcUQ4NlBjS1lzOEphNGFZdFhnTWNtQjBOTGFyZUJ3dk1Vc0ZKcmJIX2VPR3BkTW1RT09Gd3I5TGxDNDVvT3lpSzhyMU9URWZQOTJUMnVFWF9sTUpITExPY0hYaVlYc0lrdW9EZjEzWGRWNEhudjBEZ083Z29nSU5sZDdUR1hIOEhUVGx3MA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ff20ea1be9fc",
+      "title": "Pesquisadores da UTFPR de Campo Mourão vencem prêmio estadual - Tribuna do Interior",
+      "published": "2026-11-25T11:53:00+00:00",
+      "summary": "Pesquisadores da UTFPR de Campo Mourão vencem prêmio estadual&nbsp;&nbsp;Tribuna do Interior",
+      "sources": [
+        {
+          "name": "Tribuna do Interior",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ1NYRnlsUlgtbVk4U0FsclZmZHA4cEw5STVvOWhVM1hZMnV5VjBmQ3NNQ3hfT2xwQXdkSEg4bk9Rc0c2cWIxZEQzOE56OXlVdzRoWDBsN2NOMV9EVU5CaE1tUVBCM2p3TV9rNTg4TzA2ZU1UNF81RzBHM19DTXowQVdPT3J0c2ZISjdGUUc1RldJMWJBX1ZOMFZxT1MtTS1BZDUxRXZnbUJrYW9KS29aamVn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c351b2374878",
+      "title": "Como age o novo medicamento aprovado pela Anvisa para tratar câncer de mama - UOL",
+      "published": "2026-11-25T11:25:50+00:00",
+      "summary": "Como age o novo medicamento aprovado pela Anvisa para tratar câncer de mama&nbsp;&nbsp;UOLAnvisa aprova novo medicamento para tratar câncer de mama&nbsp;&nbsp;Agência BrasilAnvisa aprova medicamento para tratamento de câncer de mama inicial e grave&nbsp;&nbsp;CNN BrasilAnvisa aprova novo medicamento para câncer de mama&nbsp;&nbsp;G1Ministério da Saúde repassa R$ 8 milhões e atualiza tratamento de câncer de mama no SUS&nbsp;&nbsp;O Tempo",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNY2NYaFFfRzRIdUV6aHdJY1FtUUt2ZjVWUDF0Mk5EUGY0WXFGeWxXWFhHMXRhVmdQR05SeGhvdDg2U0x6Q1o3WWhqMXdfelpuR3BNMWl0SE12YkQ2S2JLYVZWa3M1RFBTSTc5ZzRhN25BczBCcmMza1FOSGExeXJXX2k2U0NZb0luV09hQmZlakJrQ2FONFlwd1pZbG1OWVdhSEdfTW1vcUgtaEFRQkh1QjNHS1hkOGpiT1JNVnJYekxrNzRCV0t4Z2VxVE1LV2F4Q2FoS3pCbk1tMEROdkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2afba7a00be6",
+      "title": "Terras raras: pesquisadores de Goiás desenvolvem técnica que aumenta concentração de minérios em rejeitos da extração de ouro - G1",
+      "published": "2026-11-25T10:35:35+00:00",
+      "summary": "Terras raras: pesquisadores de Goiás desenvolvem técnica que aumenta concentração de minérios em rejeitos da extração de ouro&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQZVFxQnMzX1pSZ2xMdHZiVVVaQ2Z4LS1HR0dPWkZnYUdzdVBnd1VvMkdrWnI5LTNfeXB4cG5PQldUcnB3d3ZHUkpUSHRsZjB1N3lZbVYzbXNrYTVFSHNzMXlNTE5BRGczZWJRbk5aMHRRdDljbmgyXy1YQ1JSekU1UW54djEwMGtoTld3R1M4X051MExxRUpiUXJPUlBUUUdtWGdUdEZtMEI3SzJwQ3R0Rl9LOURadm10bkJUT1JYdkU5RGJjNjI1dVFuS1ZtS0lWU2JMSjNnVE5kc0Zjck94c1hsaVpqT0V3ekZsbGI2RnZHQ0w1Z29lN0t4NENMQU84dG5WTy1LSTZ0TWvSAZoCQVVfeXFMTlFmTFpSV2t3ZXh6a0g0VkUxUjFJZXJMSUNZQlBXYjBnNXE2VkVZRGhuLUpVZnBHY0FDWlJoOFVhQzVDbUtWQzdtOF9Kc3Vwa2Jsb0VoaGw5THkyblNzYnlJUG9oS1hCNUdRRFJRdE40VHBaczUyS2E4N1R4b1MwdTl1bDBHY2w5ZUtqTUQ1bWVQQVZ0TlVielBzNHpuRXIxT3c2QUMySk56Wl93MGlsSExTQUtIbmRqb2tiQ1JXSHBBZXIyQ0RuS3lkX3RQeFRzdGtOdDUwd1F1SkFSd051aHA1NjRSRHlUX3J3S3d4VEwyRlNkMklNSm40THRENzJnWTBRaVJrNHVmTWtXSExSaWF0RDV5X095cjlR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bd6ff97012a9",
+      "title": "Um link entre os microplásticos e o câncer do cólon? - Brazil Journal",
+      "published": "2026-11-25T09:50:00+00:00",
+      "summary": "Um link entre os microplásticos e o câncer do cólon?&nbsp;&nbsp;Brazil Journal",
+      "sources": [
+        {
+          "name": "Brazil Journal",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNmFmdV9kQmhPRjBGaXJMa1BXLUZEUXdOWGpNNUVZNGlXdU9CX252aHBIVGE3ZVJVc1J2NTU0UUtLUmQ4dzAxdUFPc1g2R20zV2tUUHNmY2pIblRBaHM2YVo5U0dFV0R1SHpYSkowVGZ1SVVPWktmbTBHV3dBM2xpY0d0UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b1e9fb572987",
+      "title": "Doença autoimune a fez sentir dor até no banho e evitar praia por vergonha - UOL",
+      "published": "2026-11-25T08:30:00+00:00",
+      "summary": "Doença autoimune a fez sentir dor até no banho e evitar praia por vergonha&nbsp;&nbsp;UOL",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObzNNS2FxNkhuRl9uVmJXcFJCUllyM1UweGFoZUtyRWJYMm9XRWd3M21ySUxDRkdua19IQ1JCSDk1Ni1fSXJDakktZWlKOXo4TGtmT3NvVE1SUXRMNU1nMlNaUDNjX0VoVkpfNnhwX3dMUTZSa0FLWlkzMkx5Z3pVSURwbmtldlFfVzVraUtTeVpFcjk3OEktX0s0VXI3TjRsQkh3THJFOW02RDEyZVdWNlVnR1l1cmtDNlZQVDdCdkU1QjVIWlhPa3h6QTVHczBucmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bbaf3a0de036",
+      "title": "Câncer de próstata: saiba quando fazer exames e como identificar a doença - Gshow",
+      "published": "2026-11-25T08:00:00+00:00",
+      "summary": "Câncer de próstata: saiba quando fazer exames e como identificar a doença&nbsp;&nbsp;GshowCâncer de próstata pode ser detectado em hospitais e unidades da rede pública&nbsp;&nbsp;SenadoNovembro Azul reforça importância da prevenção ao câncer de próstata&nbsp;&nbsp;G1RECORD Paulista promove palestra de conscientização sobre o Novembro Azul&nbsp;&nbsp;R7Saúde masculina: 10 hábitos que ajudam a reduzir fatores de risco para o câncer de próstata&nbsp;&nbsp;GZH",
+      "sources": [
+        {
+          "name": "Gshow",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYUk1MlhCcUdad3FNSjcxc3dEMUlJai1vZl9oSGpXTWJQeVNCQXB6b3FibEN1OFFUNVFMdTNidzk4ZzVPVVlPMGlUcUdpM0NvemhVMFlsamlUV0dlSzdWT29WalJJVmExYlU3TkE5YV8zSGR0RXdHSzZWTktub0xVdy04eTRUTndHYWt0dkJOSTJwTVZxWDE2aFlWTkYzdHRrQm14dmQ3U09fSHJybERHQ0FESUtvM254amxYRmx4ejRKUnhXdTU0X0d30gHYAUFVX3lxTE81VmJzVE93czRvYzBMWGluMmN2QUsya01YQU50QXNVTHp4LUlCSUZFWUlUMU5VTzdNNm5SSnV3NTlLZXBRSEhvdFpvNmdTMkVscGR4eWpxV29ITm9RUHV5ZXZUT1pSb3FISkJDeWl4NTZQRVpsVXhsTUFoX2lOZXpIcTZrVW5rRl9FdERnQmRyMXB3OHBuclNJY2ptU2pnSU9HMTNaX2ExZklHNE1ncXpCZ1FqMEowb1JxSGFQaE9QTG9WUGFSUGVEcVZ5bzVCMGk5QlJUbVNTcw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3c843ac7512b",
+      "title": "Respirar devagar pode acalmar o cérebro? Estudo revela conexão entre nariz e ansiedade - O GLOBO",
+      "published": "2026-11-25T07:30:01+00:00",
+      "summary": "Respirar devagar pode acalmar o cérebro? Estudo revela conexão entre nariz e ansiedade&nbsp;&nbsp;O GLOBOTécnica de respiração 4-7-8 antes de dormir: como o método popularizado pelo médico Andrew Weil ativa o sistema nervoso parassimpático para reduzir a ansiedade e ajudar no sono&nbsp;&nbsp;Brasil 247Estudo liga respiração nasal lenta a menor ansiedade em camundongos&nbsp;&nbsp;Diário do Centro do MundoCiência revela como a respiração acalma o cérebro&nbsp;&nbsp;comunhao.com.br",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQV2J3R19kM2NhQk5rZ0szYTVqdTBrNUJQRWlTNmZ0Uk9Qa1d6UlNhblN0b1pEU1Y4b2NIM0tNdi0wd0lIQlp5eG4tSEJvWWJaWjVtTGZLczdIcko4U3gxMHF4MGhhS3Bpb1UtVHg1Ym1iQ2M3bUlOM2IwVnFMT2F1enpTUXFXSkh5ckdkeHBDOXdEOGUxSS1JUnRuRm1RV3pocGI0T3dLSkFtb3Q5ZkhFblBsclIycDdydkpWNll1LTdoUHctOXF6QzBQUmFZdFJGemtLTlpXdljSAecBQVVfeXFMTzN3elhIdS1vWDFfRUJTSG1Cblp2VHdxMGNGUUhlb3FVa2M5cUJvZ29Ra2RsZFJXd0dIZVNEOFMwWmNva2Z2Z2VJclFLTEJKcUFSdDE0cXZWVm1tbHM5MzlseGVwNmw0WDBiQzQ3V1NBM0ZFS0ExYzFNVG82U25vRWhZeXBReDR3LUpONDA4c3hzX05WZjlwX1VOek80S0VwanBvZEZJcjB3RVBJN2JMTTFiNlR0YnAxSDZkNkNUckxJTWY2enZfSzNBcFdNWnFiZlpuR25OamtXRmt5WUV2MnEzSlM2R3ow?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0c27f7f77bd9",
+      "title": "Fluoxetina, escitalopram e duloxetina: estudo mostra diferenças na ação de antidepressivos - G1",
+      "published": "2026-11-25T07:00:56+00:00",
+      "summary": "Fluoxetina, escitalopram e duloxetina: estudo mostra diferenças na ação de antidepressivos&nbsp;&nbsp;G1Estudo compara 21 antidepressivos e aponta os três que mantêm melhor resposta ao tratamento&nbsp;&nbsp;Assine AbrilRevisão de 115 estudos aponta três antidepressivos que melhor sustentam a resposta ao tratamento&nbsp;&nbsp;O CafezinhoEstudo aponta melhor resposta sustentada de escitalopram e duloxetina que fluoxetina&nbsp;&nbsp;Diário do Centro do MundoEscitalopram, duloxetina e fluoxetina: es",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWmNjd295WDRzX0huSE1qR2xSLWk3ZHFxcWxkVXNGNl9ocFBoZzRTTDFtSVZXTHBDdHZ4SkVkcE1XUG9qUE5DWW1qanFXZXJQUlNHQnNDQkFTZVBfN1gxb0VHTTUyTTItVGd0MHlVY0w4WDRSelFVUjBCQWpoU1A5LUZoTlBiRVVCclZBUE5xQ2hfTXBYN05WbjZmZV9RTGlCaGZQUWUwZzE0OXRSdUdia04wNkxJV1F2aDFlWTlXQVhsci1QekFFclYxNjVYUTBYUEJXc29XSdIB5gFBVV95cUxNMVczcnEzcXJxczA4MzI2bXRIRGxValRMYkZYSUx4UmtWRF9xZGd2TURQMmREMzc5cTZmWlFVTkUyUG5vY2haZ0RVOFJIQjNDSU9aTWMzbGVTcEp5Snh5eWRnbDN6R0dWdDV0dlpEZjFvSktDTU5tUFJ4cjBkMUp6WUdRTE5IcmVWUWFkRWpScUZ1MmV2R094Y2dJeU9QNWVObFBtR244ZW9kQzVSNXFiVDJEQmk5b3ZCbUpMQUFmdVVWUU5YMFNOTEF5cENGcFRVTFF2Mjhfa3VPMVRvb3BmMWZVdmZaQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e44b842289cf",
+      "title": "É possível mudar o formato do umbigo? Cirurgia revelada por Marina Sena explica como - O GLOBO",
+      "published": "2026-11-25T06:30:00+00:00",
+      "summary": "É possível mudar o formato do umbigo? Cirurgia revelada por Marina Sena explica como&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTlRpUVV2SVl4N0RMVXhPOEF3OFVSSUQxaG9oVzg5Tm1jalp1WVJZMndHeUtQZ1RILUFKcU9DVlFuLWhRdEVCcmJ1NFNOR0R1bllUMDNwREpqY0h3WnhEeEUzcVBkY1VuSFZWTjk4bDlXQXZFeWJXSmlncFdPcXk0ZEJWelBQTjdFbjdoaTRTRnQzSUc3N1dHTG1KX2VOX1J4cUY3RTFicXNSM1VfZ1RsdEl2dU9KRU5GSUEzajV3YmN6Y0NrdnMwMkxNdXBJeHpYbTk00gHiAUFVX3lxTE5EVXNpdFVqbTBCZWs1amNhQkN3OXIzd1BaRzhKWFR3YTRtcnFDa1hNcGRsX0hWUWFDSFMtbExUdHBVaFlTX25Hek1kcnBfS1VYdG9RUWZYX3RSN3ZLOXppRFJ0bV9sLVNaTWFHaExsN0V4WFJlQ1ZndjFDaGRlNk1jdm9FRXJDNHkwcjJOcXdrZER3RkFBS3o5MkJ2R1Z5eFBSb0hMVm1wRndBeFMyZHpLOGpnblBVa3V5TnBwaW1yU1ZzMkQ5U214WWNRTE53TUtHLVY1QXRSX2hFTFFxYVZpSFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1338e19fa990",
+      "title": "Covid: o crescimento acelerado no número de casos - O Assunto #1852 - G1",
+      "published": "2026-11-25T03:30:00+00:00",
+      "summary": "Covid: o crescimento acelerado no número de casos - O Assunto #1852&nbsp;&nbsp;G1Covid volta a crescer: o que a ciência já ensinou sobre tratar a doença&nbsp;&nbsp;Assine AbrilCurva de novos casos de Covid sobe rápido e acende alerta&nbsp;&nbsp;R7Porto Velho aparece entre as capitais em que a Covid-19 volta a pressionar as internações por síndrome respiratória aguda grave (SRAG). O alerta vem do Boletim InfoGripe, da Fundação Oswaldo Cruz (Fiocruz), que aponta alta concentrada em crianças. Ai&nb",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQkRiY294THR1YnZVVk5EaE5IVVpPTVRGa19DWF9MNmw5ZXdoelViSFdwS2hQWUhzUWRTNjJKYllYSzR3aXVVT2lMRnBfTkRRbUIwRV9MbHdzSUdyMzZTb3BkYVA0ZlJnOVBLYnFxUFViUUxjSl81OEJZaEM2MTI3OXlSaXpPWTVVT1owTWhGNnlIaEtCeFFKY1VnakZIcVBGSktOSFVUR3ppNXNvV2pCYzFIWmZwYzJVV0FqSlNIN3NZOUV5Q0HSAdQBQVVfeXFMTUkwNGE5VFNHRlZLN0ZnREZiaDhyRmZJaUVHUFRwLXpIOGFneE5BZ2trM09wVHRJM2g2cnNGUWJ5dUFFV3A0TnMyY0VLR3NsdjRSSmlzb2hFcG8wb25tR2JSUWk0ZmdrZW0tOGo0VjNmSERMejlJNE9lUUxYM2V2c3NXT3BrdklmU25sa1FxYUM4YUY4VFZqcDBEUVBYMEZSWFZGVHRtWUphRV8xQnl0ZlJfY19LczUwR3huaVpnT2w1UkxSUnhHU3l0cTVvb2hnQTljNmo?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8b6873e38d34",
+      "title": "Simulações indicam como temperatura e acidez facilitam entrada do vírus da dengue nas células - Agência FAPESP",
+      "published": "2026-11-25T03:00:25+00:00",
+      "summary": "Simulações indicam como temperatura e acidez facilitam entrada do vírus da dengue nas células&nbsp;&nbsp;Agência FAPESP",
+      "sources": [
+        {
+          "name": "Agência FAPESP",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOE9MWElvc0xtYlpGZ21KdEZpZnJZVkRIaTdjcGhieVVYUzFJc2xyamFfYmRnVlkwX1YxUDB3YWZ3UUZaV0lZLUhiMTVjQlRxX1NmOUYxYk5kWG9aSVdfNjN6VlZlX1MyTjB2VWJMMFRkaWJvQWh6OGJyN1A0NzBqY2RqWk9Zc1ZTMEQzOU5Wb0tpODRBNUxMbENOZl9xd0puZ1d4b0VHWllkNll4UVZaYktIUjdBLUdHUjVuUWRXc2RNWjg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c8f4c8140eb0",
+      "title": "'No momento da notícia, o chão some': evento do UOL fala de vida com câncer - UOL",
+      "published": "2026-11-25T00:09:44+00:00",
+      "summary": "'No momento da notícia, o chão some': evento do UOL fala de vida com câncer&nbsp;&nbsp;UOL'Entrei na exceção do 1%': jornalista e ex-âncora da Record fez cirurgia e 15 sessões de radioterapia em 3 meses de tratamento contra câncer de mama; doença foi descoberta antes dos 40 anos em Thalita Oliveira: 'Corpo doía de tanto chorar': Fotos&nbsp;&nbsp;www.purepeople.com.brCâncer: A Vida Não Para:&nbsp;&nbsp;UOL",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTEVYUW1fclRHdVozalh3WTZSd0t0ZUJGVUw3MzkxT05CM181OG80UTV2Vmt6aVJKYl9ZdmNjallzWWtjMHRhdTg5ZklYb0ZQMVNjQ1RodGUzZmRTcGFEbFYxRTR4Qlg3NUhRSGdlUHBRR0dJYlVEUV9NdWtONGd0d0d4eUhCSm82Z09mVWNtRzYtTU14SlVoNkxZUFJOczIyTFRyenRWNTBUQ2RadEpCQ0RKUWx6OG94Zl9DMEE3S1dvUi13dTNSaG5IVVg1aFV0cXRZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "392daff64114",
+      "title": "São Paulo deve começar vacinação contra Mpox nesta quarta-feira (25) - CNN Brasil",
+      "published": "2026-11-24T22:53:46+00:00",
+      "summary": "São Paulo deve começar vacinação contra Mpox nesta quarta-feira (25)&nbsp;&nbsp;CNN BrasilMpox: número de casos passa de 1 500 no Brasil e São Paulo inicia vacinação com novas doses&nbsp;&nbsp;VEJARio recebe nesta semana novas doses de vacina contra a mpox&nbsp;&nbsp;Agência BrasilPiauí confirma dois casos de Mpox; pacientes são de Teresina&nbsp;&nbsp;G1Estado de São Paulo começa a aplicar vacina contra mpox; saiba quem pode receber&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZGlHRGtmTGdsY2t6cTF2YkFuenRTbHZwVXdJd2RNZWEyMExjUS1QX0hZY3ptTWlyWE5ld0pxVFJQQ1ZfVThuQU5HczlSMDdOSm9kUGpfZFV2NUtZRUlCYk9RNjlpdWJpcUw3ZnNMN1kyam5PTVRLRjA4M3lSbDRlTF9CMGhGN2ZzNVpucG9qejc2Z0kzODRUQ25qX1lGOGxxSjJhTw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "27d67a927f75",
+      "title": "Aquecimento global pode tornar raios duas vezes mais comuns, estima estudo - Globo",
+      "published": "2026-11-24T22:05:16+00:00",
+      "summary": "Aquecimento global pode tornar raios duas vezes mais comuns, estima estudo&nbsp;&nbsp;Globo",
+      "sources": [
+        {
+          "name": "Globo",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSGxnTVZQaWdxUm9KWnJEdWpJaHNQMEh5UDVVRTNxc0JKeHIxd1JMRnZLZXJoTmdmUkZPQ2tPM1VqZERVWEhrTm00Q3FxRmpZME52TF9QTmpnYmVoN01kUHpOUGh3c2lva19sclJ5Sy04NjZaV3JoVWpOUFZIUG1PcjB2ZHptYWM1UTNYX2Y1bGhjRmthSWVRWHNOWDlCNEwyV2NpellYTkV3eTFMdVRBdS1BaVFuM3NmSlBKeVNGc05qMkZaRnY0NzJHcW5aWDJhaEhUNDVXemowYzVOVDdXQWVzQ0PSAfMBQVVfeXFMTnprRi1ITUNpb1l6ME9MaTh1amstdGdPYnFrVGl3TFJYcGxQZVpZdmhqcW5SallDTmJyRGpIQ25pQzY1SXFMSFpVcXQzMGxIS3B2VGJscEg0LUkwYkoxd1hGRjF6TTNYa2MtcExsTGROcUFsSU8yN3VQWFJScnJBQUFSZTNLaGpPUmwzNHZjVVBWLUltcVpmbGNSSnJMOTJQQ3RjSkM4Q1VSbVgweUEwS3VPUkl0aFltb2ZXYTNHaEcya1hyMzZpSlcwckt2OGdtS3d2U2J3YVJzNWpjVUFsbHdfNlRxSmEwTW1aOUM5SGRFZ3NJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8c1ecf6a03e9",
+      "title": "Pela revisão do processo de aquisição da cladribina (Mavenclad) pelo Ministério da Saúde - Petição Pública Brasil",
+      "published": "2026-11-24T19:55:32+00:00",
+      "summary": "Pela revisão do processo de aquisição da cladribina (Mavenclad) pelo Ministério da Saúde&nbsp;&nbsp;Petição Pública Brasil",
+      "sources": [
+        {
+          "name": "Petição Pública Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaSWFoS0ZNZXUybmhMQ0piSW81ekVYc1pwRENKS1hqckExYVFidERQaDRpdjJVY084aHNIbzFQNHJ0RGdjejlta1BYWEdHTWFVX1Q5Vjd4OTFONlg4cE5xMTdn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c5cdbc97166e",
+      "title": "Sobe para 221 o número de casos de mpox no Ceará em 2026; veja sintomas - G1",
+      "published": "2026-11-24T19:43:43+00:00",
+      "summary": "Sobe para 221 o número de casos de mpox no Ceará em 2026; veja sintomas&nbsp;&nbsp;G1Mais de 220 casos de MPOX confirmados no Ceará&nbsp;&nbsp;G1Ceará chega a 188 casos de mpox confirmados; 84% em Fortaleza&nbsp;&nbsp;O POVOQuixeramobim registra dois casos suspeitos de Mpox&nbsp;&nbsp;Quixeramobim AgoraCeará supera os 200 casos de mpox; conheça os sintomas&nbsp;&nbsp;OpiniãoCE",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQTRkTnlHcnV2dnRIT1RVWDNnOE1vMUNQRzhpMlNQSTg1akRlQVZ5RjJoWWhTdGJDcGtuMGZDN2lQRDZLcTRlZHNubXpDR3l4YlNfR1E2Tk1rY2VxdXpHWFJXTktoX1liWWR4enNCR2FpY0d5Q3JXcy0xNEpNRTdlZVVRd2xlLU0tRmUtWVI3MzlvVDE4ZURWSEhYeFBvV1JLOE00Ni1fNVJqRnVhaUxydGhiakRLZ3JYZmxDNkc1RGhhZ2_SAdIBQVVfeXFMT3V5S2xUMFBwU1p5bHZkSnBJdllhclBBY0JQZVh0c2RuaWFBQzI4NmN3REpFcGpjZk9FVU1JaFpkVlpCeExhdVNacDhXaVpFM01NTUV1SGk4YThpajhva29qZDdpNURDbGhTQ2ZlaE5PZFpILU8tWXAxZUFyNjJOX0V4N1FuV01vRVloV3MzNXhmdXNlXzdITnl6QVEtbkMzRjBkaU1yQnFTeUtxckZCdFlvcDBfeWhjcVk5WEFNMkswa2VoZjhOQlV6bzFuX3ZTUzRn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "14bfbd805410",
+      "title": "Primeiro caso de Mpox é confirmado e mais dois são investigados em Aracaju - Infonet",
+      "published": "2026-11-24T19:20:42+00:00",
+      "summary": "Primeiro caso de Mpox é confirmado e mais dois são investigados em Aracaju&nbsp;&nbsp;InfonetAracaju confirma primeiro caso de Mpox em 2026 e investiga mais dois&nbsp;&nbsp;G1Prefeitura reforça monitoramento após confirmação de caso de Mpox em Aracaju&nbsp;&nbsp;Prefeitura de AracajuAracaju confirma 1º caso de Mpox em mulher e aumenta vigilância epidemiológica&nbsp;&nbsp;Natal em FocoAracaju confirma caso de Mpox e mantém duas notificações em investigação&nbsp;&nbsp;RO Acontece",
+      "sources": [
+        {
+          "name": "Infonet",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN1BTZ2gta0dNdHpXY1NMS2ZPMGFIMC1IdWg5ZHdTS1UzSWpnMm4yNXhualZXeXlpeWtmZWlMeW4tbm8zWnpqc3pGcW16Q0dpNkZHUkxxTUEza0ZvUnZzcjhlQzltRzdYSUdwYm1ObzRwd1Jnd2U5am1oR0xmVmZTUVNmZ3paMDA4ZUVOZ2F5ZW9Gd1BFRnBoRXIzc0x3VUgzRHhESEJCZU1EU0RvNHMzWk5STQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c839583859bd",
+      "title": "Albert Einstein, físico: \"Uma vida tranquila e modesta traz mais felicidade do que a busca pelo sucesso.\" - Minha Vida Saúde",
+      "published": "2026-11-24T17:33:11+00:00",
+      "summary": "Albert Einstein, físico: \"Uma vida tranquila e modesta traz mais felicidade do que a busca pelo sucesso.\"&nbsp;&nbsp;Minha Vida Saúde",
+      "sources": [
+        {
+          "name": "Minha Vida Saúde",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GcFQ3Rm5sUXE2WDgtWlBjZlNYMndqamwzbUc0WkF1VkJ2TTRsUUZ6Y04taldGVkpjZzN3RW5fWEFrTWw1N3V3RzV1d0dxNVlqRTM5dldiNUNITlpXMTRDU9IBZkFVX3lxTE1PS1owblBTN3VvdmxaYi1fa3Axc3p5WkZyanIwZGtRTk8yVHRKM25VTGRMUXQ3X2FwUFZqTURLVFcybTZWaFY5VmFZMHNxWU1BbmJzZUFIdG41bEtjLWZYRzAwT3BxUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ae4d0cfecae5",
+      "title": "Como funcionam as vacinas contra o câncer que o Brasil quer testar em 2027? - Exame",
+      "published": "2026-11-24T17:14:20+00:00",
+      "summary": "Como funcionam as vacinas contra o câncer que o Brasil quer testar em 2027?&nbsp;&nbsp;Exame",
+      "sources": [
+        {
+          "name": "Exame",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNazJOQ1JOenBlOTRnTlREWFpxUGtJQ3ZoSHVhQlNCV0hORTQwMHZfQzVkNkRtenJXSTVWa1dwUVE3Y1lnQ0lkb3hzeVdTMTU5Vk1PTFkzd05OX3dKMXp2ZzBwbTFhU25aZ0ZrM0t3ekk4aTdSYTN1d1NwVUxWRVR1TGQ3S192X0h6OFdoLW9oUm91YzJNZUIyNGVhWUdEbDAzTTJF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "55b2b9027dac",
+      "title": "Caminhar trechos curtos ou fazer tudo de uma vez? Estudo responde o que ajuda a glicose - UOL",
+      "published": "2026-11-24T13:53:58+00:00",
+      "summary": "Caminhar trechos curtos ou fazer tudo de uma vez? Estudo responde o que ajuda a glicose&nbsp;&nbsp;UOLÉ melhor caminhar 45 minutos seguidos ou dividi-los durante o dia? Estudo revela a melhor opção para a saúde&nbsp;&nbsp;O GLOBOEstudo revela método de caminhada que pode trazer mais benefícios à saúde&nbsp;&nbsp;TerraCaminhar de 10 a 15 minutos logo após o almoço ou jantar ajuda os músculos a absorver glicose e reduz os picos de açúcar no sangue, mostram estudos clínicos&nbsp;&nbsp;Brasil 247Cie",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPS3hzNkJuOGdhbWJIT2lEZHNqZ1RObndWaE5LVjY0dkUwWTZZWEFUQVNCU1lhdlI5M0RZZmVVU0txdkI2TkFOQzJrQTZJbmFOZXI4NF9jLVkyZlZYR3VybnhkY0hkSkU5Y0lOa3ZtN1JoVUNBaEVyYjJxemJNREdqbG05UWdnUnl3VTBDVWNTVXBnMENoLUJ2OC02eEJxQ3BDdHpwN3VBa1ZLR1hLOEdQMDR5U1ZEUzBob21RdHdTREIzRTB4UjFtQ3I0alNYeTN1cDFZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1767dc654f88",
+      "title": "Exercício ou dieta? Revisão compara relação com a longevidade - UOL",
+      "published": "2026-11-24T13:45:22+00:00",
+      "summary": "Exercício ou dieta? Revisão compara relação com a longevidade&nbsp;&nbsp;UOLO que importa mais para a longevidade: alimentação saudável ou exercício físico? Nova revisão de estudos responde&nbsp;&nbsp;O GLOBO5 hábitos que podem acrescentar mais de 10 anos à vida, segundo Harvard&nbsp;&nbsp;TerraPassos no dia a dia superam dieta rigorosa: reduzem mortalidade em até dois terços&nbsp;&nbsp;Правда.Ру",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUVU2Q2E3TEFHNHhXd096OE9SNFpqb0RLNlpvY3UyYWRWeDRlbUwtb0xHR1JoZVdkMGhYbXJfbEZtU1ZrN3VyQnZLbUJFZU5iYXBWSUVPNU5XSS1BT25HaHJrMmtLUlhVeEt5bzlwSndpdXFsOXNTOHZKVUp1YjZfbXZsNDRTRVpVMl96bklrS0l4amRScl80bnZJNkJ4QkNiODlpQWRhZXpvak5rTDNpWGpoQ05oU2M5RFpWODVyQ2c2Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a65d330fe287",
+      "title": "Estudo elege os nomes femininos mais agradáveis ao ouvido humano - CNN Brasil",
+      "published": "2026-11-24T13:30:14+00:00",
+      "summary": "Estudo elege os nomes femininos mais agradáveis ao ouvido humano&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMjZhRkYxWWZLYnRoMVJ2RnEtVW1xejhsckdSZVE4aFdwcE1iNnEzSVFhRkhleFhIc0ZYenNEMWtHQ2FmLTc0d3hNMDVlMG9LbVZIOXhOelp1bVdXOG5YZWtvUGU0eVc3S0pBU0lKNGliV2NnUkJHbUMxUTZCNTdMRmFfTl8wdEZiMmYzNVhWZ01iU1VpcjVNM2ktUFdCUlVLaVFDU284UkZGWXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "81ff5e7f2568",
+      "title": "EUA registram três novos casos de gripe aviária em humanos, incluindo uma morte, diz OMS - G1",
+      "published": "2026-11-24T13:05:58+00:00",
+      "summary": "EUA registram três novos casos de gripe aviária em humanos, incluindo uma morte, diz OMS&nbsp;&nbsp;G1EUA notificam a OMS sobre dois infectados e uma morte por gripe aviária&nbsp;&nbsp;MidiamaxOMS: Os EUA têm 3 casos de infecção pelo vírus H5N1, incluindo 1 óbito.&nbsp;&nbsp;Vietnam.vnGripe aviária: OMS anuncia primeira morte humana no mundo associada a contacto com vacas infetadas e alerta para consumo de leite cru&nbsp;&nbsp;Executive DigestAlerta epidemiológico Influenza aviária A(H5N1) na Re",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5LaVBTYjFselFpVlVRcm92M1pqVmZpRzdueWcwcTVYTjN3V1hLMGgtNU14NDE5ZVpXZ29saUlEOU51TFJQT1N0OUhKSGtEdzlSRW5GcGJHUkNOSHdQTEI0eGF4dTAyTW9wV2FLblJORnhDQm1yek80WGVGWHBmUdIBjAFBVV95cUxQMDdNQzVBOC01Z0tGWGF5VmFsT1o3TkJKa3ZEbXpOc3VPYjFXLVdPcVlUZGdQZkI2Q0tTU3YxT3JsMDQ5VmlCN1lockx4MC1jZFJBQUdFUVpSRVVSS2tPUU0ycV9YZ1czOWcweERNOXhjM2JsUTIwOThTOHVhT3RscU4wSmlfWXZNcE1EUA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e108028ae279",
+      "title": "Primeira tecnologia brasileira com microrganismo editado para fixação biológica de nitrogênio é lançada pela Simbiose - Canal Rural",
+      "published": "2026-11-24T10:35:00+00:00",
+      "summary": "Primeira tecnologia brasileira com microrganismo editado para fixação biológica de nitrogênio é lançada pela Simbiose&nbsp;&nbsp;Canal Rural",
+      "sources": [
+        {
+          "name": "Canal Rural",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcGNCbVNsQnNrUS1qeGFmTzNreUZsMmtSN2Vwd2w1YjdmX1YweGYxZV9hSVZUOHNzXzljb1JGUjlaY2FzcEZ3dTJ1bU9ZMkVsX1BBRTFSSEIyTGdMdndjakUteWdIUTBUWURGVUNVbVdvZFVwWWJXWldlam9SQlF2ZGZpRUVKdGU1Zlo4YnZvVTc0c3JqWnRBT0lYaXBwUll4SFFFZUVhR0NjZzNQR0J2U1ZtQUppV1NaUXFTMkkxQThndw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8fc59a48cce4",
+      "title": "Um a cada quatro brasileiros foi vítima de golpe em compras de fim de ano, mostra pesquisa; saiba como se proteger - Terra",
+      "published": "2026-11-24T08:00:00+00:00",
+      "summary": "Um a cada quatro brasileiros foi vítima de golpe em compras de fim de ano, mostra pesquisa; saiba como se proteger&nbsp;&nbsp;Terra",
+      "sources": [
+        {
+          "name": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQWldIZFRPRTZxWFdteGdmMmJRdEhwNVdnWVZzcEd6SWNmalRxd1h5UVo3eV9YZ3lQcVp1bjdFWjdKb20zRUdCYWV3dF9kNU9ZSjlzRnVjVkhZZFRuWlVzQi1TOE9nYXkwOFNZTjBLU2V1RVBBWjVLU3ktSTJaYS1XMG1nOHdfSGdfSDZIeHlLNDVleFhtcEJkVHZmMVpGT052MmZzUXlmUEF4eUZ1Z3czN1EwSHdlcUNCZjdUaGY5eEl4b2dIYlpGQ00zVDBhbFgwS2ZTUXhNTE1LbXY2blNyVlBjMGJyQmtmRGpCZWluazFQc1FWRTVnOW93bEhLUUZ5a0tsZUtaZEdNREhXTk5aNjhkam1RNG8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6dc9078a93e2",
+      "title": "Na Antártida, pesquisadores estudam instalar uma cortina de 80 km no caminho da água quente que chega à geleira Thwaites - Revista Oeste",
+      "published": "2026-11-24T07:17:26+00:00",
+      "summary": "Na Antártida, pesquisadores estudam instalar uma cortina de 80 km no caminho da água quente que chega à geleira Thwaites&nbsp;&nbsp;Revista Oeste",
+      "sources": [
+        {
+          "name": "Revista Oeste",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQY0MxUWNNcFE0OGVxY0pKVkxVTVdyeXZGUURLd1ozMlpTWmhsblEzRXk1ODBId0k4VzdxOU50UUVVR2pyd2lnQTU0UDBaWlJqZDhYS0E5RnpWWndsYkJVbU9NcWpSQWcwMTBJc1hPRTNNTTd2VmFpQlEzNkdsTXdzcUpVMjFydUF6ZjkwNnJjNE5rRjFweUtONjFQWklYYks4ZHZ1SGYzN1FtbWRfVnRzcExJQl9jWExDMW03Rk1oYVBpZmFUenYzbG5VZWp4SEtMQnhxc1RnMEhDbTA2eXZEOXBra1dFY1M1Z1lPRHpQOEhVcnJzNWxhZEpRMA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7008666c46aa",
+      "title": "Três casos de Mpox são confirmados no sudoeste da Bahia - G1",
+      "published": "2026-11-24T01:03:14+00:00",
+      "summary": "Três casos de Mpox são confirmados no sudoeste da Bahia&nbsp;&nbsp;G1Após confirmação de caso de Mpox, Secretaria Municipal de Saúde intensifica vigilância e orienta população&nbsp;&nbsp;Prefeitura Municipal de Vitória da Conquista - PMVCParamirim confirma dois casos de mpox e monitora pacientes&nbsp;&nbsp;Achei SudoesteBahia tem redução de 24% nos casos de Mpox&nbsp;&nbsp;ba.gov.brBahia tem 19 casos de Mpox em 2026; Brasil chega a 1.499 no ano&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUEtSdDdQTHUtc3o4eFZJN0lVVUdSTE9ybzI4UElGazJLbmc2QXVVSTAxcVNPWTEwYllJTFFwUXNrLWZfWWJlaFktNmtPRlZFTG5ucnBCQ2RhOEpSLU9DWk9tRUxnSERlSTFEc3RPWTZhOEdXRGNIWTZ2S1NSNWIzeE0wZ29qNDduTmdMaS1wQ3VCTndI0gGjAUFVX3lxTE1Ba0VIM1FsUDRFWWZmb0VHZGZuWDlBWlJJc3RVaGh6U2JfY2hOUEJucnM0NlFkLTRVNHAzb1RfLW9vbEpCTVNHbXExNC1hMEdlLWtXZWpwYzc1T19pR1Y1VmVvWnlPeHAyczN0cUY0Z0V3MV94SGI4MGtONHZ0OXdabWg5blBOYlN6WU5GbmtqX1ZSSzhVQ2x1MEVRdWtNZ0YyOXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c5ffe69c9ba6",
+      "title": "Baratas polinizadoras? Pesquisa brasileira identifica comportamento inusitado - Superinteressante",
+      "published": "2026-11-23T23:00:00+00:00",
+      "summary": "Baratas polinizadoras? Pesquisa brasileira identifica comportamento inusitado&nbsp;&nbsp;Superinteressante",
+      "sources": [
+        {
+          "name": "Superinteressante",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSmlOcDlhcU9GWVJyN3V5UWNwNkVzLWQzdkplcEd6SWdwNnZjalZwOGhDdlBXbHQydDFyWmt2MmlMaTNyLVVZMXRZT1NfWGxBWkl6OXRmWGlTNFNsdFVUREFmN1VyT25YRUhPdVJ0TkFJYzJjamVwc2RaendPdlE1RE91X3AwU1I3ZjRsUE5IVWwtRVIwWVh6Y0xNcmZvc0ZfLV9VNGNLVEowRFllYnVnNVNydVRkbm1UZUhjbHVMYmhMdjRUZzM2ZFNKUGZFdUt2eHVIbTRRa0VtQkZ3LWtFYmNoRm1UakU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "68217e3b746f",
+      "title": "A IA pode enxergar o mundo de um jeito diferente do cérebro humano, diz estudo - Exame",
+      "published": "2026-11-23T22:01:47+00:00",
+      "summary": "A IA pode enxergar o mundo de um jeito diferente do cérebro humano, diz estudo&nbsp;&nbsp;Exame",
+      "sources": [
+        {
+          "name": "Exame",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbl9BSDlac0dRVWlqdzZHWVR1dl9nUXVWbU1DaEVsbmUtYUIwaHYzX0NnYVhvbzc2aFU0VWVtS3FzcHRXdzVyMmtMWFdVaThON2YzaHVZcmJ1YlR6RnlRbGRtWVUzQXJjQnhUUG1GNGlRQ0FlNzd2MlJySERXbTI1blpTdXlNVEpLZFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a6a8f730d134",
+      "title": "Inpa tem três pesquisadores eleitos para a Academia Brasileira de Ciências - www.gov.br",
+      "published": "2026-11-23T21:34:13+00:00",
+      "summary": "Inpa tem três pesquisadores eleitos para a Academia Brasileira de Ciências&nbsp;&nbsp;www.gov.br",
+      "sources": [
+        {
+          "name": "www.gov.br",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSlNfXzdZamY0RE56WEhIR3lHZElCYWJLaEg3Sll2UmFQUkg3Rkc5RF9Pak5Da0Y2US04Mm91NlQwNlRlSTRRVnVXLWFXSktGejNiU1luTE1BUHE1LTc5bngtVWtmcnBzdjdjTW9RU2hFc2hDQURZalplQkdtQ3c1RFVOeVZmTHZXcG1vYWl0X0FGQ2piWlJqbVlGSTRWdlkyQzFiekNBZWVnOFBmdTYtLWVsaVBUektZQl9VaEJYdVdJU2xUWkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f9bfe802a72d",
+      "title": "Prefeitura emite nota sobre casos de Covid-19 em Sete Lagoas - Sete Lagoas .com.br",
+      "published": "2026-11-23T20:11:00+00:00",
+      "summary": "Prefeitura emite nota sobre casos de Covid-19 em Sete Lagoas&nbsp;&nbsp;Sete Lagoas .com.brMunicípios da região registram alta da Covid-19; Sete Lagoas mantém casos sob controle&nbsp;&nbsp;Sete DiasVacinação contra a Covid-19: veja quem deve receber as doses em Sete Lagoas&nbsp;&nbsp;Sete Lagoas .com.brPrefeitura de Sete Lagoas atualiza sobre casos de Covid-19&nbsp;&nbsp;Conexão 424Covid-19: Sete Lagoas confirma aumento de casos, mas não divulga números&nbsp;&nbsp;Conexão 424",
+      "sources": [
+        {
+          "name": "Sete Lagoas .com.br",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTXo4VjJOQzR3Q1dxVjd3QnktdWsyQXM1SXA0UnFnakQwSUFZekVpTjV3ZzVLS3Q4YWFQUVd5bElfS2tPRmtZSDYtUUFORlZuRlpBQmxqd1JFV3d5ZWRnUUU5X0tyZW1ydmtjbjRIQm5wT0puQmxCaF9tNVc4NWhwUzhUSnBOY1VXMXF3NDZVQnpKcWx2Z3hQdExWWThQOWxsc3pQSzFLNFFHbkhJUWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b8901e34965c",
+      "title": "13 informações que as pessoas não contam ao médico e os riscos à saúde - Portal Drauzio Varella",
+      "published": "2026-11-23T19:06:22+00:00",
+      "summary": "13 informações que as pessoas não contam ao médico e os riscos à saúde&nbsp;&nbsp;Portal Drauzio Varella",
+      "sources": [
+        {
+          "name": "Portal Drauzio Varella",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb2J0eDlqejZSUElHWW5PTkYwM1lVZXhCX0xzQTgyRWtyb2hBSkNObFRYaFdqUFVONUtwSXBkRkI4U1hyZFU1VEpiLW04bTdlcElIdFdiM1lKS2U4RmJnb05udURKbzlwTjB5ZkRDSE9CZF9iTUFqSVhxOURDc19MSTEtWjZ1YThNRWNyODc4YzZ6MjZYQkRXaWpQVVRTcEI0TTdsbkxwTUJEQnZ1VHZURHQ2NVpoY3dFVEJN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cfccebe1d319",
+      "title": "Calvície: pente desenvolvido na China supera minoxidil e finasterida em testes com ratos - G1",
+      "published": "2026-11-23T15:49:39+00:00",
+      "summary": "Calvície: pente desenvolvido na China supera minoxidil e finasterida em testes com ratos&nbsp;&nbsp;G1Pente experimental estimula crescimento capilar e supera tratamentos convencionais contra calvície&nbsp;&nbsp;Folha de S.PauloPente experimental supera Minoxidil e Finasterida em testes de recrescimento capilar com ratos&nbsp;&nbsp;www.radio96fmns.com.br🪮 Pesquisadores criam pente elétrico que faz o cabelo crescer novamente!&nbsp;&nbsp;Techno-ScienceComo funciona o pente desenvolvido na China qu",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTE5wYnNPUTlGQVpLM1pyLTcwUGxjUkpJdG9wOUI5R01UMEhNQ0FjbzZNQkl3OHVMR2tLZnRhUGgxTGEzcEhmNzhFWXVQME16SVBOazFEQ3E4UmFBYTJxWGgxRWozX0tVN2xxandWUUp0ZUh2U1RfcFV2TF93RThGakM3QzNLZmFTRWxPR3I4M3RYeGF6QlVaTmtFNERFTjllZ0dUVXNNSHoxRFczZTI4VFQ3NGhVMjd3YjFQQkxR0gHMAUFVX3lxTE1wcGxxMFJ1M29oNmxVa0tlQU5ZVG1BbzRUbDMwZGtpcU9BMHVvY2d4YVhHNmFfN3ZOa2p1NEozOUlrLVhOSTZwS3VFaTJpV0VOdzhNbWEtVDVRVXlBekpmLVc4UkhKSFZjei1seWNBXzZzM0ZnZWdsOEJ3QjdkU2tmLWdqU0dCOFlDYlFzaUQzcmNRRkp4cnFRSC03UUVqWUdHRUJveU9PcVE4d0s1WUVvT0gxbENmSHo1WWd3MXd1N1kzYTM3QTFoX0tQNQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c85736850db3",
+      "title": "Fadiga ocular: conheça as causas, os sintomas e como evitar - Portal Drauzio Varella",
+      "published": "2026-11-20T19:05:28+00:00",
+      "summary": "Fadiga ocular: conheça as causas, os sintomas e como evitar&nbsp;&nbsp;Portal Drauzio VarellaOftalmologista alerta que uso excessivo de telas pode agravar miopia em crianças e adolescentes&nbsp;&nbsp;Info NewssAumento alarmante de doenças oculares entre os jovens.&nbsp;&nbsp;Vietnam.vnMiopia: a epidemia silenciosa da infância&nbsp;&nbsp;Dhoje Interior",
+      "sources": [
+        {
+          "name": "Portal Drauzio Varella",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRmFVTmJNNVRlYkZLOHZLd0xZbVBlR3RtcTR5b1NWZXVPc2lwR1dKYU1TQm9QeHZmd3Y2NzhxS1N4b2Rxc2FXa080dzR1ZEJsQUtaMGFpb2FUQUVKOEZtb3VZTk9Pdm5TSndaY0VqdTBaV3gyc2RNQWtpSTZqTzJLZE40MUtodl9rNzNyS0ZvU1g5WmtJSXdsSXhKZTdkUGU2Z3Z6cy1CMi0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a92daf162813",
+      "title": "Como comprimido diário é a grande esperança contra um dos cânceres mais letais - BBC",
+      "published": "2026-11-20T15:21:44+00:00",
+      "summary": "Como comprimido diário é a grande esperança contra um dos cânceres mais letais&nbsp;&nbsp;BBC\"É o maior avanço que vimos em décadas\": medicamento para tratar cancro do pâncreas reduziu e até 'eliminou' tumor&nbsp;&nbsp;CNN PortugalCâncer de pâncreas: conheça a pílula que faz tumores ficarem indetectáveis em parte dos pacientes&nbsp;&nbsp;ExameNova combinação contra câncer de pâncreas apresenta resposta tumoral de 60,7%&nbsp;&nbsp;Afya | HomeMedicamento contra o câncer de pâncreas controla a doen",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QSjlnVmRodTl3MnN5cVNSTnJnSUx6cl9BQTJZd01wUDlrMkw5Zk53MjdpQ1pjbHpaVF9tNmF0X2NkYkFUT0gtT3lLTDJaTkhFZ0V6NGZoMVItdnVJcG1aRWZJRdIBaEFVX3lxTE9xd0tjYVZ4a1RwTU1MU2VJMmNyMks2cHpKUW4xbUl4LS11X0NEZ0N3akxpbDEzSkZZdGE5dVpvVjZ3NnRPcnQzV2JncmU2RlJuZmo5TGVvbmk1SWdvNUVxV2JwdUdSTlNJ?oc=5"
+        }
+      ]
+    }
+  ]
 }

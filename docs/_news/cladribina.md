@@ -1,16 +1,81 @@
 ---
-layout: id_redirect
-permalink: /news/cladribina/
-sitemap: false
-search_exclude: true
+layout: default
+title: "Notícias sobre CLADRIBINA"
+parent: Notícias de Saúde
 nav_exclude: true
+description: "Notícias de saúde relacionadas com CLADRIBINA. 0 indicações previstas."
+permalink: /news/cladribina/
+last_modified_at: 2026-11-25
 ---
-<!DOCTYPE html>
-<html>
-<meta charset="utf-8">
-<title>Redirecting&hellip;</title>
-<link rel="canonical" href="{{ site.url }}/news/">
-<meta http-equiv="refresh" content="0; url=/news/">
-<script>location="/news/"</script>
-<a href="/news/">/news/</a>
-</html>
+
+# Notícias sobre CLADRIBINA
+
+[← Voltar à visão geral das notícias]({{ '/news/' | relative_url }})
+
+---
+
+<p class="key-answer" data-question="Que notícias há sobre CLADRIBINA?">
+<strong>CLADRIBINA</strong> tem atualmente <strong>1 notícias</strong> e 0 indicações previstas.
+</p>
+
+<div class="key-takeaway">
+Esta página combina as indicações previstas por IA para CLADRIBINA com as notícias de saúde mais recentes. As indicações destacadas em laranja têm cobertura noticiosa recente.
+</div>
+
+<div class="drug-info-card">
+<strong>Informações do medicamento</strong>
+<ul>
+</ul>
+
+</div>
+
+## Notícias relacionadas (1)
+
+### [Pela revisão do processo de aquisição da cladribina (Mavenclad) pelo Ministério da Saúde - Petição Pública Brasil](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaSWFoS0ZNZXUybmhMQ0piSW81ekVYc1pwRENKS1hqckExYVFidERQaDRpdjJVY084aHNIbzFQNHJ0RGdjejlta1BYWEdHTWFVX1Q5Vjd4OTFONlg4cE5xMTdn?oc=5)
+
+2026-11-24 <span class="news-drug-tag">CLADRIBINA</span>
+
+Fonte: [Petição Pública Brasil](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaSWFoS0ZNZXUybmhMQ0piSW81ekVYc1pwRENKS1hqckExYVFidERQaDRpdjJVY084aHNIbzFQNHJ0RGdjejlta1BYWEdHTWFVX1Q5Vjd4OTFONlg4cE5xMTdn?oc=5)
+
+---
+
+
+<div class="disclaimer">
+<strong>Aviso de isenção de responsabilidade</strong>: As notícias desta página são recolhidas automaticamente e servem apenas como referência para investigação; não constituem aconselhamento médico.
+</div>
+
+<style>
+.indication-matched {
+  background: #fff3e0;
+  padding: 4px 8px;
+  border-radius: 4px;
+  border-left: 3px solid #ff9800;
+}
+.indication-tag {
+  display: inline-block;
+  background: #ff9800;
+  color: white;
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-size: 0.8em;
+  margin-left: 8px;
+}
+.news-indication-tag {
+  display: inline-block;
+  background: #ff9800;
+  color: white;
+  padding: 2px 10px;
+  border-radius: 12px;
+  font-size: 0.85em;
+  margin-left: 4px;
+}
+.news-drug-tag {
+  display: inline-block;
+  background: #1565c0;
+  color: white;
+  padding: 2px 10px;
+  border-radius: 12px;
+  font-size: 0.85em;
+  margin-left: 4px;
+}
+</style>

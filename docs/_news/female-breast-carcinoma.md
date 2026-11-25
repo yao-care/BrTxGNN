@@ -3,9 +3,9 @@ layout: default
 title: "Notícias sobre câncer de mama (female breast carcinoma)"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre câncer de mama (female breast carcinoma). 5 notícias, 12 medicamentos relacionados."
+description: "Notícias de saúde sobre câncer de mama (female breast carcinoma). 7 notícias, 12 medicamentos relacionados."
 permalink: /news/female-breast-carcinoma/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-25
 ---
 
 # Notícias sobre câncer de mama (female breast carcinoma)
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre câncer de mama (female breast carcinoma)?">
-<strong>câncer de mama (female breast carcinoma)</strong> tem atualmente <strong>5 notícias</strong> e 12 medicamentos relacionados.
+<strong>câncer de mama (female breast carcinoma)</strong> tem atualmente <strong>7 notícias</strong> e 12 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,23 @@ Esta página reúne as notícias de saúde mais recentes sobre «câncer de mama
 </ul>
 </div>
 
-## Notícias relacionadas (5)
+## Notícias relacionadas (7)
+
+### [Como age o novo medicamento aprovado pela Anvisa para tratar câncer de mama](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNY2NYaFFfRzRIdUV6aHdJY1FtUUt2ZjVWUDF0Mk5EUGY0WXFGeWxXWFhHMXRhVmdQR05SeGhvdDg2U0x6Q1o3WWhqMXdfelpuR3BNMWl0SE12YkQ2S2JLYVZWa3M1RFBTSTc5ZzRhN25BczBCcmMza1FOSGExeXJXX2k2U0NZb0luV09hQmZlakJrQ2FONFlwd1pZbG1OWVdhSEdfTW1vcUgtaEFRQkh1QjNHS1hkOGpiT1JNVnJYekxrNzRCV0t4Z2VxVE1LV2F4Q2FoS3pCbk1tMEROdkE?oc=5)
+
+2026-11-25
+
+Fonte: [UOL](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNY2NYaFFfRzRIdUV6aHdJY1FtUUt2ZjVWUDF0Mk5EUGY0WXFGeWxXWFhHMXRhVmdQR05SeGhvdDg2U0x6Q1o3WWhqMXdfelpuR3BNMWl0SE12YkQ2S2JLYVZWa3M1RFBTSTc5ZzRhN25BczBCcmMza1FOSGExeXJXX2k2U0NZb0luV09hQmZlakJrQ2FONFlwd1pZbG1OWVdhSEdfTW1vcUgtaEFRQkh1QjNHS1hkOGpiT1JNVnJYekxrNzRCV0t4Z2VxVE1LV2F4Q2FoS3pCbk1tMEROdkE?oc=5)
+
+---
+
+### ['No momento da notícia, o chão some': evento do UOL fala de vida com câncer](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTEVYUW1fclRHdVozalh3WTZSd0t0ZUJGVUw3MzkxT05CM181OG80UTV2Vmt6aVJKYl9ZdmNjallzWWtjMHRhdTg5ZklYb0ZQMVNjQ1RodGUzZmRTcGFEbFYxRTR4Qlg3NUhRSGdlUHBRR0dJYlVEUV9NdWtONGd0d0d4eUhCSm82Z09mVWNtRzYtTU14SlVoNkxZUFJOczIyTFRyenRWNTBUQ2RadEpCQ0RKUWx6OG94Zl9DMEE3S1dvUi13dTNSaG5IVVg1aFV0cXRZ?oc=5)
+
+2026-11-25
+
+Fonte: [UOL](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTEVYUW1fclRHdVozalh3WTZSd0t0ZUJGVUw3MzkxT05CM181OG80UTV2Vmt6aVJKYl9ZdmNjallzWWtjMHRhdTg5ZklYb0ZQMVNjQ1RodGUzZmRTcGFEbFYxRTR4Qlg3NUhRSGdlUHBRR0dJYlVEUV9NdWtONGd0d0d4eUhCSm82Z09mVWNtRzYtTU14SlVoNkxZUFJOczIyTFRyenRWNTBUQ2RadEpCQ0RKUWx6OG94Zl9DMEE3S1dvUi13dTNSaG5IVVg1aFV0cXRZ?oc=5)
+
+---
 
 ### [Anvisa aprova novo medicamento para tratar câncer de mama - Agência Brasil](https://news.google.com/rss/articles/CBMisgFBVV95cUxQNTc5TE5ocGdjUkV3R25PNlZKX3c0UE5vbVlZdlR1MFZualdjbm1wLU1YWTNxQXp4WjIzbFh5Zy1uaVNzNlBpbUlLcjE4VHVKdUtBcWNrbTBWU1FXUkdQVUtOTkJFdFFBWDhGNWU2cUxtTFhaQ2s0S2JtMm9FWHNnSXdWdGRmeEszU25VTG9zZkZvT1JGM2x0QTdSUmJ6SDBlUmluczV2Q3RUVnZZcmVXWldB?oc=5)
 

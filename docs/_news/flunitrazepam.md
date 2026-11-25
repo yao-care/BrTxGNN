@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Flunitrazepam. 8 indicações previstas."
 permalink: /news/flunitrazepam/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 ---
 
 # Notícias sobre Flunitrazepam
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Flunitrazepam?">
-<strong>Flunitrazepam</strong> tem atualmente <strong>6 notícias</strong> e 8 indicações previstas.
+<strong>Flunitrazepam</strong> tem atualmente <strong>7 notícias</strong> e 8 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ Esta página combina as indicações previstas por IA para Flunitrazepam com as 
 <p><a href="{{ '/drugs/flunitrazepam/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (6)
+## Notícias relacionadas (7)
+
+### [Respirar devagar pode acalmar o cérebro? Estudo revela conexão entre nariz e ansiedade - O GLOBO](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQV2J3R19kM2NhQk5rZ0szYTVqdTBrNUJQRWlTNmZ0Uk9Qa1d6UlNhblN0b1pEU1Y4b2NIM0tNdi0wd0lIQlp5eG4tSEJvWWJaWjVtTGZLczdIcko4U3gxMHF4MGhhS3Bpb1UtVHg1Ym1iQ2M3bUlOM2IwVnFMT2F1enpTUXFXSkh5ckdkeHBDOXdEOGUxSS1JUnRuRm1RV3pocGI0T3dLSkFtb3Q5ZkhFblBsclIycDdydkpWNll1LTdoUHctOXF6QzBQUmFZdFJGemtLTlpXdljSAecBQVVfeXFMTzN3elhIdS1vWDFfRUJTSG1Cblp2VHdxMGNGUUhlb3FVa2M5cUJvZ29Ra2RsZFJXd0dIZVNEOFMwWmNva2Z2Z2VJclFLTEJKcUFSdDE0cXZWVm1tbHM5MzlseGVwNmw0WDBiQzQ3V1NBM0ZFS0ExYzFNVG82U25vRWhZeXBReDR3LUpONDA4c3hzX05WZjlwX1VOek80S0VwanBvZEZJcjB3RVBJN2JMTTFiNlR0YnAxSDZkNkNUckxJTWY2enZfSzNBcFdNWnFiZlpuR25OamtXRmt5WUV2MnEzSlM2R3ow?oc=5)
+
+2026-11-25 <span class="news-indication-tag">ansiedade</span>
+
+Fonte: [O GLOBO](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQV2J3R19kM2NhQk5rZ0szYTVqdTBrNUJQRWlTNmZ0Uk9Qa1d6UlNhblN0b1pEU1Y4b2NIM0tNdi0wd0lIQlp5eG4tSEJvWWJaWjVtTGZLczdIcko4U3gxMHF4MGhhS3Bpb1UtVHg1Ym1iQ2M3bUlOM2IwVnFMT2F1enpTUXFXSkh5ckdkeHBDOXdEOGUxSS1JUnRuRm1RV3pocGI0T3dLSkFtb3Q5ZkhFblBsclIycDdydkpWNll1LTdoUHctOXF6QzBQUmFZdFJGemtLTlpXdljSAecBQVVfeXFMTzN3elhIdS1vWDFfRUJTSG1Cblp2VHdxMGNGUUhlb3FVa2M5cUJvZ29Ra2RsZFJXd0dIZVNEOFMwWmNva2Z2Z2VJclFLTEJKcUFSdDE0cXZWVm1tbHM5MzlseGVwNmw0WDBiQzQ3V1NBM0ZFS0ExYzFNVG82U25vRWhZeXBReDR3LUpONDA4c3hzX05WZjlwX1VOek80S0VwanBvZEZJcjB3RVBJN2JMTTFiNlR0YnAxSDZkNkNUckxJTWY2enZfSzNBcFdNWnFiZlpuR25OamtXRmt5WUV2MnEzSlM2R3ow?oc=5)
+
+---
 
 ### [Ansiedade climática: quando uma reação esperada se transforma em medo paralisador - Jornal da USP](https://news.google.com/rss/articles/CBMisgFBVV95cUxORjBzV0gtTEhzbVMtNkdGa213Nkl2UV9oWGJOQUYyekNDdDVnSEN0bXdpN1BRcW9XY0tvVDFhampSOC12cE52WGIxc1ZYTmpVMkxoUTUyTU10RXNneVJGS1Q4UE9RUUkxTVlUbXNiQzdoTUlTMFNtWTkwQ3czblZReV9OSjhVdGIwb1VjWndpNUN0U3F6Rl9lU1RqRmNsM0t1bDF0dmlhNjZuMFFsVGVLWDhn?oc=5)
 

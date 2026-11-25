@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Sorafenib. 6 indicações previstas."
 permalink: /news/sorafenib/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 ---
 
 # Notícias sobre Sorafenib
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Sorafenib?">
-<strong>Sorafenib</strong> tem atualmente <strong>93 notícias</strong> e 6 indicações previstas.
+<strong>Sorafenib</strong> tem atualmente <strong>98 notícias</strong> e 6 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,47 @@ Esta página combina as indicações previstas por IA para Sorafenib com as not�
 <p><a href="{{ '/drugs/sorafenib/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (93)
+## Notícias relacionadas (98)
+
+### [Como age o novo medicamento aprovado pela Anvisa para tratar câncer de mama](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNY2NYaFFfRzRIdUV6aHdJY1FtUUt2ZjVWUDF0Mk5EUGY0WXFGeWxXWFhHMXRhVmdQR05SeGhvdDg2U0x6Q1o3WWhqMXdfelpuR3BNMWl0SE12YkQ2S2JLYVZWa3M1RFBTSTc5ZzRhN25BczBCcmMza1FOSGExeXJXX2k2U0NZb0luV09hQmZlakJrQ2FONFlwd1pZbG1OWVdhSEdfTW1vcUgtaEFRQkh1QjNHS1hkOGpiT1JNVnJYekxrNzRCV0t4Z2VxVE1LV2F4Q2FoS3pCbk1tMEROdkE?oc=5)
+
+2026-11-25 <span class="news-indication-tag">câncer</span> <span class="news-indication-tag">câncer de mama</span>
+
+Fonte: [UOL](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNY2NYaFFfRzRIdUV6aHdJY1FtUUt2ZjVWUDF0Mk5EUGY0WXFGeWxXWFhHMXRhVmdQR05SeGhvdDg2U0x6Q1o3WWhqMXdfelpuR3BNMWl0SE12YkQ2S2JLYVZWa3M1RFBTSTc5ZzRhN25BczBCcmMza1FOSGExeXJXX2k2U0NZb0luV09hQmZlakJrQ2FONFlwd1pZbG1OWVdhSEdfTW1vcUgtaEFRQkh1QjNHS1hkOGpiT1JNVnJYekxrNzRCV0t4Z2VxVE1LV2F4Q2FoS3pCbk1tMEROdkE?oc=5)
+
+---
+
+### [Um link entre os microplásticos e o câncer do cólon? - Brazil Journal](https://news.google.com/rss/articles/CBMigwFBVV95cUxQNmFmdV9kQmhPRjBGaXJMa1BXLUZEUXdOWGpNNUVZNGlXdU9CX252aHBIVGE3ZVJVc1J2NTU0UUtLUmQ4dzAxdUFPc1g2R20zV2tUUHNmY2pIblRBaHM2YVo5U0dFV0R1SHpYSkowVGZ1SVVPWktmbTBHV3dBM2xpY0d0UQ?oc=5)
+
+2026-11-25 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Brazil Journal](https://news.google.com/rss/articles/CBMigwFBVV95cUxQNmFmdV9kQmhPRjBGaXJMa1BXLUZEUXdOWGpNNUVZNGlXdU9CX252aHBIVGE3ZVJVc1J2NTU0UUtLUmQ4dzAxdUFPc1g2R20zV2tUUHNmY2pIblRBaHM2YVo5U0dFV0R1SHpYSkowVGZ1SVVPWktmbTBHV3dBM2xpY0d0UQ?oc=5)
+
+---
+
+### [Câncer de próstata: saiba quando fazer exames e como identificar a doença](https://news.google.com/rss/articles/CBMiygFBVV95cUxOYUk1MlhCcUdad3FNSjcxc3dEMUlJai1vZl9oSGpXTWJQeVNCQXB6b3FibEN1OFFUNVFMdTNidzk4ZzVPVVlPMGlUcUdpM0NvemhVMFlsamlUV0dlSzdWT29WalJJVmExYlU3TkE5YV8zSGR0RXdHSzZWTktub0xVdy04eTRUTndHYWt0dkJOSTJwTVZxWDE2aFlWTkYzdHRrQm14dmQ3U09fSHJybERHQ0FESUtvM254amxYRmx4ejRKUnhXdTU0X0d30gHYAUFVX3lxTE81VmJzVE93czRvYzBMWGluMmN2QUsya01YQU50QXNVTHp4LUlCSUZFWUlUMU5VTzdNNm5SSnV3NTlLZXBRSEhvdFpvNmdTMkVscGR4eWpxV29ITm9RUHV5ZXZUT1pSb3FISkJDeWl4NTZQRVpsVXhsTUFoX2lOZXpIcTZrVW5rRl9FdERnQmRyMXB3OHBuclNJY2ptU2pnSU9HMTNaX2ExZklHNE1ncXpCZ1FqMEowb1JxSGFQaE9QTG9WUGFSUGVEcVZ5bzVCMGk5QlJUbVNTcw?oc=5)
+
+2026-11-25 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Gshow](https://news.google.com/rss/articles/CBMiygFBVV95cUxOYUk1MlhCcUdad3FNSjcxc3dEMUlJai1vZl9oSGpXTWJQeVNCQXB6b3FibEN1OFFUNVFMdTNidzk4ZzVPVVlPMGlUcUdpM0NvemhVMFlsamlUV0dlSzdWT29WalJJVmExYlU3TkE5YV8zSGR0RXdHSzZWTktub0xVdy04eTRUTndHYWt0dkJOSTJwTVZxWDE2aFlWTkYzdHRrQm14dmQ3U09fSHJybERHQ0FESUtvM254amxYRmx4ejRKUnhXdTU0X0d30gHYAUFVX3lxTE81VmJzVE93czRvYzBMWGluMmN2QUsya01YQU50QXNVTHp4LUlCSUZFWUlUMU5VTzdNNm5SSnV3NTlLZXBRSEhvdFpvNmdTMkVscGR4eWpxV29ITm9RUHV5ZXZUT1pSb3FISkJDeWl4NTZQRVpsVXhsTUFoX2lOZXpIcTZrVW5rRl9FdERnQmRyMXB3OHBuclNJY2ptU2pnSU9HMTNaX2ExZklHNE1ncXpCZ1FqMEowb1JxSGFQaE9QTG9WUGFSUGVEcVZ5bzVCMGk5QlJUbVNTcw?oc=5)
+
+---
+
+### ['No momento da notícia, o chão some': evento do UOL fala de vida com câncer](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTEVYUW1fclRHdVozalh3WTZSd0t0ZUJGVUw3MzkxT05CM181OG80UTV2Vmt6aVJKYl9ZdmNjallzWWtjMHRhdTg5ZklYb0ZQMVNjQ1RodGUzZmRTcGFEbFYxRTR4Qlg3NUhRSGdlUHBRR0dJYlVEUV9NdWtONGd0d0d4eUhCSm82Z09mVWNtRzYtTU14SlVoNkxZUFJOczIyTFRyenRWNTBUQ2RadEpCQ0RKUWx6OG94Zl9DMEE3S1dvUi13dTNSaG5IVVg1aFV0cXRZ?oc=5)
+
+2026-11-25 <span class="news-indication-tag">câncer</span> <span class="news-indication-tag">câncer de mama</span>
+
+Fonte: [UOL](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTEVYUW1fclRHdVozalh3WTZSd0t0ZUJGVUw3MzkxT05CM181OG80UTV2Vmt6aVJKYl9ZdmNjallzWWtjMHRhdTg5ZklYb0ZQMVNjQ1RodGUzZmRTcGFEbFYxRTR4Qlg3NUhRSGdlUHBRR0dJYlVEUV9NdWtONGd0d0d4eUhCSm82Z09mVWNtRzYtTU14SlVoNkxZUFJOczIyTFRyenRWNTBUQ2RadEpCQ0RKUWx6OG94Zl9DMEE3S1dvUi13dTNSaG5IVVg1aFV0cXRZ?oc=5)
+
+---
+
+### [Como funcionam as vacinas contra o câncer que o Brasil quer testar em 2027?](https://news.google.com/rss/articles/CBMiowFBVV95cUxNazJOQ1JOenBlOTRnTlREWFpxUGtJQ3ZoSHVhQlNCV0hORTQwMHZfQzVkNkRtenJXSTVWa1dwUVE3Y1lnQ0lkb3hzeVdTMTU5Vk1PTFkzd05OX3dKMXp2ZzBwbTFhU25aZ0ZrM0t3ekk4aTdSYTN1d1NwVUxWRVR1TGQ3S192X0h6OFdoLW9oUm91YzJNZUIyNGVhWUdEbDAzTTJF?oc=5)
+
+2026-11-24 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Exame](https://news.google.com/rss/articles/CBMiowFBVV95cUxNazJOQ1JOenBlOTRnTlREWFpxUGtJQ3ZoSHVhQlNCV0hORTQwMHZfQzVkNkRtenJXSTVWa1dwUVE3Y1lnQ0lkb3hzeVdTMTU5Vk1PTFkzd05OX3dKMXp2ZzBwbTFhU25aZ0ZrM0t3ekk4aTdSYTN1d1NwVUxWRVR1TGQ3S192X0h6OFdoLW9oUm91YzJNZUIyNGVhWUdEbDAzTTJF?oc=5)
+
+---
 
 ### [Câncer cresce entre jovens e acende alerta; veja 5 fatores associados ao aumento dos casos antes dos 50 anos - Jornal Correio](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQU2VLSjMyVTBqMzNZQUFZbi1namhpRjZILTZMRWMxQ3JrRy1VVGRsWGZqcnFxRnNmREcyWWg1b01kcXZiRmFwdXNRX3pRaGZBNGhBeVpnYUszYUtmNVpKSWQyckdzRUpQc3FWRW04S1ZWZzdMODZFWUwyUUJMTHJjMkZYMV9NVTBJM0ZxWjdxMVQta2JqczlFb1lqSy00TXZzUVpFcmVXeVFCYktWVlFEUERPVmZnY082SUZHTVBCeVJ0TGpsUmVKbFhZZ1FTWlFTSEhFMTkyajFYSEZiMlJPUXVnem5ZWjg?oc=5)
 
@@ -130,7 +170,7 @@ Fonte: [G1](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQk91d1lvYnoyQUl
 
 ### [Como comprimido diário é a grande esperança contra um dos cânceres mais letais](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QSjlnVmRodTl3MnN5cVNSTnJnSUx6cl9BQTJZd01wUDlrMkw5Zk53MjdpQ1pjbHpaVF9tNmF0X2NkYkFUT0gtT3lLTDJaTkhFZ0V6NGZoMVItdnVJcG1aRWZJRdIBaEFVX3lxTE9xd0tjYVZ4a1RwTU1MU2VJMmNyMks2cHpKUW4xbUl4LS11X0NEZ0N3akxpbDEzSkZZdGE5dVpvVjZ3NnRPcnQzV2JncmU2RlJuZmo5TGVvbmk1SWdvNUVxV2JwdUdSTlNJ?oc=5)
 
-2026-11-20 <span class="news-indication-tag">câncer</span>
+2026-11-20 <span class="news-indication-tag">câncer</span> <span class="news-indication-tag">tumor</span>
 
 Fonte: [BBC](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QSjlnVmRodTl3MnN5cVNSTnJnSUx6cl9BQTJZd01wUDlrMkw5Zk53MjdpQ1pjbHpaVF9tNmF0X2NkYkFUT0gtT3lLTDJaTkhFZ0V6NGZoMVItdnVJcG1aRWZJRdIBaEFVX3lxTE9xd0tjYVZ4a1RwTU1MU2VJMmNyMks2cHpKUW4xbUl4LS11X0NEZ0N3akxpbDEzSkZZdGE5dVpvVjZ3NnRPcnQzV2JncmU2RlJuZmo5TGVvbmk1SWdvNUVxV2JwdUdSTlNJ?oc=5)
 
