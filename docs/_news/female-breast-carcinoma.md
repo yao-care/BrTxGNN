@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde sobre câncer de mama (female breast carcinoma). 7 notícias, 12 medicamentos relacionados."
 permalink: /news/female-breast-carcinoma/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-26
 ---
 
 # Notícias sobre câncer de mama (female breast carcinoma)
@@ -51,7 +51,7 @@ Fonte: [UOL](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNY2NYaFFfRzRIdU
 
 ---
 
-### ['No momento da notícia, o chão some': evento do UOL fala de vida com câncer](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTEVYUW1fclRHdVozalh3WTZSd0t0ZUJGVUw3MzkxT05CM181OG80UTV2Vmt6aVJKYl9ZdmNjallzWWtjMHRhdTg5ZklYb0ZQMVNjQ1RodGUzZmRTcGFEbFYxRTR4Qlg3NUhRSGdlUHBRR0dJYlVEUV9NdWtONGd0d0d4eUhCSm82Z09mVWNtRzYtTU14SlVoNkxZUFJOczIyTFRyenRWNTBUQ2RadEpCQ0RKUWx6OG94Zl9DMEE3S1dvUi13dTNSaG5IVVg1aFV0cXRZ?oc=5)
+### ['No momento da notícia, o chão some': evento fala de vida com câncer](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTEVYUW1fclRHdVozalh3WTZSd0t0ZUJGVUw3MzkxT05CM181OG80UTV2Vmt6aVJKYl9ZdmNjallzWWtjMHRhdTg5ZklYb0ZQMVNjQ1RodGUzZmRTcGFEbFYxRTR4Qlg3NUhRSGdlUHBRR0dJYlVEUV9NdWtONGd0d0d4eUhCSm82Z09mVWNtRzYtTU14SlVoNkxZUFJOczIyTFRyenRWNTBUQ2RadEpCQ0RKUWx6OG94Zl9DMEE3S1dvUi13dTNSaG5IVVg1aFV0cXRZ?oc=5)
 
 2026-11-25
 
