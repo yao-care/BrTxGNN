@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Oxaliplatin?">
-<strong>Oxaliplatin</strong> tem atualmente <strong>98 notícias</strong> e 4 indicações previstas.
+<strong>Oxaliplatin</strong> tem atualmente <strong>102 notícias</strong> e 4 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,31 @@ Esta página combina as indicações previstas por IA para Oxaliplatin com as no
 <p><a href="{{ '/drugs/oxaliplatin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (98)
+## Notícias relacionadas (102)
+
+### [Por que o câncer pode ser diferente entre brasileiros? Atlas genético inédito é lançado para investigar tumores e orientar tratamentos](https://news.google.com/rss/articles/CBMilAJBVV95cUxOWVV4R1J6NmwwYlpxckEyblNSZkdGa3BUYWdyUWJhVDJrdGNGXzZiZGVHZ1JHVFRUSzJyVlBHYzRDUUVZWFlBR1AtTW1lYW9Bekg1eTNxd1BxZ2ZvZkVrdXlJNVJ1UUZIQVNSVGhQOWpNdlFuTHJCZkZwOHIxLWJFajljcTY2WHRpS3hzaHNXOTlYMEFXRUNMSWxydmlXZ3VLYnhHckw0S3Q2dnF3WExlVzZ0X2g5V0Y1dXFQM2wtLUlWNENrdTMzU2NkajJFT3U0bnlFTHZQQkR5TEZTNnFwWVJDeUR1OHJNUklrem44dUNoXzVJVHVVMmF4UmJTNElTMmR6aVV4empqeFFBaThWdEdEdHjSAaMCQVVfeXFMUFlhSk1tTTVoYmRwRV9MTFFMOEJ6QUlXTmE0S3gxVV9Sa1RZRVVhTzRrelEyZ1h5R280cUc4bjgwaXdhZXRVU1ZOWkZwX0l5azV2dmtBcFJXcnVHNUh4eC1ZN0RUWWE0NnpPdkpScUFWTTMtVVZveHprclN2Z1VXZmgzcDJoVm1nUG1pX2NGWHpLVUtpOXRWaDR0eEVqQ0ROc1BiczVmZHh4cEs5UFQteHBHZlRhMWNrVEFoV0tqMENfczRVSlJYYnFCdElsTXhRbFBRbGtNOHlUMV9UMlczVU01ZzNtY2hzbDBMU09FaGtfalhiYVhMMTRQT0U5YS15VzhESW4yZUUtNlV2Z2V5cDRCM2tycUVRUDdGeFJDakIxZW53?oc=5)
+
+2026-11-26 <span class="news-indication-tag">câncer</span>
+
+Fonte: [G1](https://news.google.com/rss/articles/CBMilAJBVV95cUxOWVV4R1J6NmwwYlpxckEyblNSZkdGa3BUYWdyUWJhVDJrdGNGXzZiZGVHZ1JHVFRUSzJyVlBHYzRDUUVZWFlBR1AtTW1lYW9Bekg1eTNxd1BxZ2ZvZkVrdXlJNVJ1UUZIQVNSVGhQOWpNdlFuTHJCZkZwOHIxLWJFajljcTY2WHRpS3hzaHNXOTlYMEFXRUNMSWxydmlXZ3VLYnhHckw0S3Q2dnF3WExlVzZ0X2g5V0Y1dXFQM2wtLUlWNENrdTMzU2NkajJFT3U0bnlFTHZQQkR5TEZTNnFwWVJDeUR1OHJNUklrem44dUNoXzVJVHVVMmF4UmJTNElTMmR6aVV4empqeFFBaThWdEdEdHjSAaMCQVVfeXFMUFlhSk1tTTVoYmRwRV9MTFFMOEJ6QUlXTmE0S3gxVV9Sa1RZRVVhTzRrelEyZ1h5R280cUc4bjgwaXdhZXRVU1ZOWkZwX0l5azV2dmtBcFJXcnVHNUh4eC1ZN0RUWWE0NnpPdkpScUFWTTMtVVZveHprclN2Z1VXZmgzcDJoVm1nUG1pX2NGWHpLVUtpOXRWaDR0eEVqQ0ROc1BiczVmZHh4cEs5UFQteHBHZlRhMWNrVEFoV0tqMENfczRVSlJYYnFCdElsTXhRbFBRbGtNOHlUMV9UMlczVU01ZzNtY2hzbDBMU09FaGtfalhiYVhMMTRQT0U5YS15VzhESW4yZUUtNlV2Z2V5cDRCM2tycUVRUDdGeFJDakIxZW53?oc=5)
+
+---
+
+### [Câncer de intestino: 6 sintomas que você pode não se dar conta](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZjh1cTdfY3RhNnZPbHllTjBPZUlBVXBKX01hUVBDa2w0WXZERWZ3dUxweTg2T2c5LXNQaXU3eGoxQm9td21Bc2hVQzAzbjczc2RfV2U4Y240MTdEa3IzY3lMbVZ5M1ZPWTZFbVpYTVBZbTZ0QTFhOGNjd1R5WWc3eGdHcnJIcGZyeng5MzdzS0Zya3E2eGJoY1N1X0lfemhHWG1LSEhPTkLSAbABQVVfeXFMUGJsYWk4OHU0YUlIUDdBdE5EUGprOGZTQVY5eWxJLURYV3h4UHNyUlV5RFlONUVLVEJ5Y0hGeU8tTENuT0cwdFAtb1JZS2NVQUFTVDhseHpfVEpldl9vcTFlVl9laG1mRVd4STBEMVl2VzJ1aTBMS2hQZWRXR2w5RWFncmNIMTFJZGhwQ0ZueGs1LXR4RENvd1V0eEZFcm9WU1FSaGlFUFd6T3NYZ3gzZTU?oc=5)
+
+2026-11-26 <span class="news-indication-tag">câncer</span>
+
+Fonte: [DOL](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZjh1cTdfY3RhNnZPbHllTjBPZUlBVXBKX01hUVBDa2w0WXZERWZ3dUxweTg2T2c5LXNQaXU3eGoxQm9td21Bc2hVQzAzbjczc2RfV2U4Y240MTdEa3IzY3lMbVZ5M1ZPWTZFbVpYTVBZbTZ0QTFhOGNjd1R5WWc3eGdHcnJIcGZyeng5MzdzS0Zya3E2eGJoY1N1X0lfemhHWG1LSEhPTkLSAbABQVVfeXFMUGJsYWk4OHU0YUlIUDdBdE5EUGprOGZTQVY5eWxJLURYV3h4UHNyUlV5RFlONUVLVEJ5Y0hGeU8tTENuT0cwdFAtb1JZS2NVQUFTVDhseHpfVEpldl9vcTFlVl9laG1mRVd4STBEMVl2VzJ1aTBMS2hQZWRXR2w5RWFncmNIMTFJZGhwQ0ZueGs1LXR4RENvd1V0eEZFcm9WU1FSaGlFUFd6T3NYZ3gzZTU?oc=5)
+
+---
+
+### [Entenda como devem funcionar os testes da vacina contra o câncer no Brasil - CNN Brasil](https://news.google.com/rss/articles/CBMirwFBVV95cUxOSExoTjZSTnhTM3RMMXlPWEJnQXNJX1U0UzlHX2M4bW1YVW9lV2hEOFdIOVJCbzE4NVQ1aGVuNmpacU9uNjVGb2JTSllnVXBjSlBRaTBmY3VhdnZka0xkcFFpTmRWSFhpV0Z6ajJVZEFxOXZjclZUNzROT0RZd05tS3lYTGF5a0JwOXN3dWs1RkxPN0ExMzRoNWtvdTVFUVVfekwtNVd0Z01GcjZreXJj?oc=5)
+
+2026-11-25 <span class="news-indication-tag">câncer</span>
+
+Fonte: [CNN Brasil](https://news.google.com/rss/articles/CBMirwFBVV95cUxOSExoTjZSTnhTM3RMMXlPWEJnQXNJX1U0UzlHX2M4bW1YVW9lV2hEOFdIOVJCbzE4NVQ1aGVuNmpacU9uNjVGb2JTSllnVXBjSlBRaTBmY3VhdnZka0xkcFFpTmRWSFhpV0Z6ajJVZEFxOXZjclZUNzROT0RZd05tS3lYTGF5a0JwOXN3dWs1RkxPN0ExMzRoNWtvdTVFUVVfekwtNVd0Z01GcjZreXJj?oc=5)
+
+---
 
 ### [Como age o novo medicamento aprovado pela Anvisa para tratar câncer de mama](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNY2NYaFFfRzRIdUV6aHdJY1FtUUt2ZjVWUDF0Mk5EUGY0WXFGeWxXWFhHMXRhVmdQR05SeGhvdDg2U0x6Q1o3WWhqMXdfelpuR3BNMWl0SE12YkQ2S2JLYVZWa3M1RFBTSTc5ZzRhN25BczBCcmMza1FOSGExeXJXX2k2U0NZb0luV09hQmZlakJrQ2FONFlwd1pZbG1OWVdhSEdfTW1vcUgtaEFRQkh1QjNHS1hkOGpiT1JNVnJYekxrNzRCV0t4Z2VxVE1LV2F4Q2FoS3pCbk1tMEROdkE?oc=5)
 
@@ -171,6 +195,14 @@ Fonte: [G1](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQk91d1lvYnoyQUl
 2026-11-20 <span class="news-indication-tag">câncer</span> <span class="news-indication-tag">tumor</span>
 
 Fonte: [BBC](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QSjlnVmRodTl3MnN5cVNSTnJnSUx6cl9BQTJZd01wUDlrMkw5Zk53MjdpQ1pjbHpaVF9tNmF0X2NkYkFUT0gtT3lLTDJaTkhFZ0V6NGZoMVItdnVJcG1aRWZJRdIBaEFVX3lxTE9xd0tjYVZ4a1RwTU1MU2VJMmNyMks2cHpKUW4xbUl4LS11X0NEZ0N3akxpbDEzSkZZdGE5dVpvVjZ3NnRPcnQzV2JncmU2RlJuZmo5TGVvbmk1SWdvNUVxV2JwdUdSTlNJ?oc=5)
+
+---
+
+### [Quais bebidas podem aumentar o risco de câncer de estômago? Um estudo alerta contra o consumo diário - Guia Muriaé](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOHB2TEJVOG1VSUVTTlBmd0N2QVkzNEk2Q1JHZnkwc1ZKR1lnOWU5c194cUV4RGxLVWZLNWt2TnN0WjhxUzVtUVdsSEh4M1Nqb2tRZ0Y5eUV1ZE9yaENrcks1Q1d3R3dGVDQ5NmJxcTI3Q2RtLWNEUVJyV2RIRkRhcnhGeWlNX2VlUnNtOUtUOTRYX29Yb0paTXoyY1p6allxWDVHVUV0NG94NEE5WE0wVl8yYlZ4dVA2VzFqQU1Hay1mMG9qVVhvQmk1NV9SUm9DX3llX1lva0F2OThwNXc?oc=5)
+
+2026-11-20 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Guia Muriaé](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOHB2TEJVOG1VSUVTTlBmd0N2QVkzNEk2Q1JHZnkwc1ZKR1lnOWU5c194cUV4RGxLVWZLNWt2TnN0WjhxUzVtUVdsSEh4M1Nqb2tRZ0Y5eUV1ZE9yaENrcks1Q1d3R3dGVDQ5NmJxcTI3Q2RtLWNEUVJyV2RIRkRhcnhGeWlNX2VlUnNtOUtUOTRYX29Yb0paTXoyY1p6allxWDVHVUV0NG94NEE5WE0wVl8yYlZ4dVA2VzFqQU1Hay1mMG9qVVhvQmk1NV9SUm9DX3llX1lva0F2OThwNXc?oc=5)
 
 ---
 
