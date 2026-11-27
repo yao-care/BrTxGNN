@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com ENTACAPONE. 10 indicações previstas."
 permalink: /news/entacapone/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
 # Notícias sobre ENTACAPONE
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre ENTACAPONE?">
-<strong>ENTACAPONE</strong> tem atualmente <strong>21 notícias</strong> e 10 indicações previstas.
+<strong>ENTACAPONE</strong> tem atualmente <strong>22 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ Esta página combina as indicações previstas por IA para ENTACAPONE com as not
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (21)
+## Notícias relacionadas (22)
+
+### [Exercício no trabalho x lazer: esforço físico profissional parece elevar risco de demência](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOEEzNmJTY1dkaWlOUkpaT2l1SDg1eTBjdlNMYjJ1ZUhDUWp4UG5XeUM2NzJ0ekRYWHR4YS1oNFp3cUp2eUJEMzFkRjZObTZfYVNSNk1TNElVckl0bFZaemlDUC1GRmg5T0V0SzVDeU5QWDk4eTRBWU5RQkhZMXpEejNlRUZXajF0djh0TFRHdDdJeVhjYmwxMmg1M2JNbkR5ajM1VWtudnlrUnd5ODF0cmM0UjROYkVpLTBidElqaFFleWc?oc=5)
+
+2026-11-27 <span class="news-indication-tag">demência</span>
+
+Fonte: [UOL](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOEEzNmJTY1dkaWlOUkpaT2l1SDg1eTBjdlNMYjJ1ZUhDUWp4UG5XeUM2NzJ0ekRYWHR4YS1oNFp3cUp2eUJEMzFkRjZObTZfYVNSNk1TNElVckl0bFZaemlDUC1GRmg5T0V0SzVDeU5QWDk4eTRBWU5RQkhZMXpEejNlRUZXajF0djh0TFRHdDdJeVhjYmwxMmg1M2JNbkR5ajM1VWtudnlrUnd5ODF0cmM0UjROYkVpLTBidElqaFFleWc?oc=5)
+
+---
 
 ### [Demência: como um diagnóstico claro ajuda pacientes e suas famílias a lidarem melhor com o declínio cognitivo](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUHVyLWJRZ2Y1UktZNVg4NHJLV25McTMyWUpiVUVDeWtwWTd2SnBVQW5YZllfQnVacFBxTjl3V2MtaDhqX3UzMmVMWlFuWVZSdDBjbHhyNEhSTmlyUWJ3V1VqNjhHM3dmUFpiVzNTT05rUHpUTmRORGNkMGJjYlV3MXhwRkxYVHc1bG5semhkXzVWdWlfMFpsdWhRcFJvMkc1cHAwSFFGWno3eDVQTmJIcm52dUlBQWI5dDZVaUo4Zk1rLVE3MXcweV9salNsMVJITGo2V2kwODAzV1RmUGl5d21IQjJZOW1YdVIwaERsakYtQQ?oc=5)
 

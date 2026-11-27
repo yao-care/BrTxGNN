@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com TICAGRELOR. 9 indicações previstas."
 permalink: /news/ticagrelor/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-27
 ---
 
 # Notícias sobre TICAGRELOR
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre TICAGRELOR?">
-<strong>TICAGRELOR</strong> tem atualmente <strong>5 notícias</strong> e 9 indicações previstas.
+<strong>TICAGRELOR</strong> tem atualmente <strong>4 notícias</strong> e 9 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ Esta página combina as indicações previstas por IA para TICAGRELOR com as not
 <p><a href="{{ '/drugs/ticagrelor/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (5)
+## Notícias relacionadas (4)
 
 ### [Bebidas energéticas podem representar risco cardiovascular para adultos jovens](https://news.google.com/rss/articles/CBMipwFBVV95cUxONXctSkJzZjc0SmRnQnR3VnlPSUk2SmM4ZXRDc1IyVWRiRVZBQlVBRmxaUE1kSlF4Y3JweWppLVZEODA0SkpoXzd2X1RHeUpiZlpsaGlDdGFZbVF3NUxuU1RlYjVHQm1JMGJhMWNNM2Q5WHkxTm45ZVR3UHc2VXpfM1ltREt4SUVEOW4wNXFwT2cxbzhPRkdMRlpSV3FNOUNjaHhqSTFjWQ?oc=5)
 
@@ -72,14 +72,6 @@ Fonte: [Rádio Itatiaia](https://news.google.com/rss/articles/CBMinAFBVV95cUxNRU
 2026-11-03 <span class="news-indication-tag">cardiovascular</span>
 
 Fonte: [UOL](https://news.google.com/rss/articles/CBMivgFBVV95cUxPSUdYTlFwdy1VYUpLYVU0TkZyOWo1VXpLbVpTdFJIYUdQSVVVOGVoTnMtUWpnU3BXYkczYjZqZ0tfdjcyWHRjRU05LVp4TG1IZ19MREJjcDVXMUZLTlBvT19ubDJ0RlBINy1CVUI1bHVfUDlTOHh3Y3V6NGdfWkRHM0MtYnVpQmNjRVhUM3lOMGdsR1JrMGVqUFg2ZHJxdkhxUDJyRWRWS2JqQWc1X3RFajgzU19xcU0ya2xpdnNB?oc=5)
-
----
-
-### [Quantos degraus você deveria subir ao dia para proteger o coração? Estudo traz estimativa](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMjFmQk9EV05MWjhnSV9SN3d0TlU0bjBNY2htRzRGUHdkdXZGSVluclowX2FKdjJ2aGpYSEgxREVtbFVMV0hIRkFyQlJBSmRBNDAzTjBNbThHVzVyV00taElveUN1bXBqWFBfbElQX0hwZnEyUW5vS2VUY2pCMWFoVmlKY2FYaXM4NU1qTnJ2TkFNUVRyR1JwY1VXWFQwMUpiTVNqWHJETVZzNW14OHBKN05tT0k0ODBDTWZrdUR4WGphSV9FY1FnQUhyZ3VSV3ZSNnlSU1U4eWQ?oc=5)
-
-2026-10-28 <span class="news-indication-tag">cardiovascular</span>
-
-Fonte: [Estadão](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMjFmQk9EV05MWjhnSV9SN3d0TlU0bjBNY2htRzRGUHdkdXZGSVluclowX2FKdjJ2aGpYSEgxREVtbFVMV0hIRkFyQlJBSmRBNDAzTjBNbThHVzVyV00taElveUN1bXBqWFBfbElQX0hwZnEyUW5vS2VUY2pCMWFoVmlKY2FYaXM4NU1qTnJ2TkFNUVRyR1JwY1VXWFQwMUpiTVNqWHJETVZzNW14OHBKN05tT0k0ODBDTWZrdUR4WGphSV9FY1FnQUhyZ3VSV3ZSNnlSU1U4eWQ?oc=5)
 
 ---
 

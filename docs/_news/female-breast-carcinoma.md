@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre câncer de mama (female breast carcinoma)"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre câncer de mama (female breast carcinoma). 6 notícias, 12 medicamentos relacionados."
+description: "Notícias de saúde sobre câncer de mama (female breast carcinoma). 7 notícias, 12 medicamentos relacionados."
 permalink: /news/female-breast-carcinoma/
 last_modified_at: 2026-11-27
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre câncer de mama (female breast carcinoma)?">
-<strong>câncer de mama (female breast carcinoma)</strong> tem atualmente <strong>6 notícias</strong> e 12 medicamentos relacionados.
+<strong>câncer de mama (female breast carcinoma)</strong> tem atualmente <strong>7 notícias</strong> e 12 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,23 @@ Esta página reúne as notícias de saúde mais recentes sobre «câncer de mama
 </ul>
 </div>
 
-## Notícias relacionadas (6)
+## Notícias relacionadas (7)
+
+### [FDA aprova primeiro remédio novo em 20 anos para câncer de mama em fase inicial; preço pode chegar a R$ 120 mil por mês](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZEQyRm5KQkRiSk5uc1JuUzNVcFNGS1ZDQVp0dXgxZzhpMUxhaW82UGI3N3VjakVMejJpZFQ0Nk9zWGZlbm94NzFXdldpSmNiZUozRkdpaVRZVDdxUGg5dndhMWl2ZDlySlNvckJtcGlZWkRrTzBvV2wtSFhzZzZyUkE4dDJ0Rnp3RnlnRDlwdVE0aFhQcEdrLUY5WmQyZjFkTVNRXzlRZE4yM1Q0aElIZEdSbVNnVjBMN2hWbnVnRkxzaExCallhUU1Yby1zVXMwLXQyWFFFZndBZ0tLbHRvT1hvaVJ5MWxwRzJYdTlqcUNFeGJHdUQ0NHJHd0tBZ9IBjAJBVV95cUxQS2JXcmdWZlNHR0xxbXh2SnEycHpZTWxoOW1ielJhTmxwYzFHLUNUOEJMc2JuT01ub29ZcldVY3hZVUV1X09kU1Qtd0o1alozRVBobzVuMHpBazBzdXhpZkRPVmNremh3VDF6ekJEXzhyaXhCenNMM0VrcUJxVWZZWHUzTFpMSUNWWU41djdMRWstMENJWU84QnF4RXBQMlRIRmRweTI2X3NwS3RWMVFjWjA0UGpBbll3SVFWeUE4eFF0bTB3c1RPQk1JcTkwLUZWdmMwcFNjS09OSExESVduZlVrMm9sY2o0Q2lQTkRWMEUxbkt0emJDMkhsZjBEdEJXTzNWMDFEN3ZOS1VR?oc=5)
+
+2026-11-27
+
+Fonte: [G1](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZEQyRm5KQkRiSk5uc1JuUzNVcFNGS1ZDQVp0dXgxZzhpMUxhaW82UGI3N3VjakVMejJpZFQ0Nk9zWGZlbm94NzFXdldpSmNiZUozRkdpaVRZVDdxUGg5dndhMWl2ZDlySlNvckJtcGlZWkRrTzBvV2wtSFhzZzZyUkE4dDJ0Rnp3RnlnRDlwdVE0aFhQcEdrLUY5WmQyZjFkTVNRXzlRZE4yM1Q0aElIZEdSbVNnVjBMN2hWbnVnRkxzaExCallhUU1Yby1zVXMwLXQyWFFFZndBZ0tLbHRvT1hvaVJ5MWxwRzJYdTlqcUNFeGJHdUQ0NHJHd0tBZ9IBjAJBVV95cUxQS2JXcmdWZlNHR0xxbXh2SnEycHpZTWxoOW1ielJhTmxwYzFHLUNUOEJMc2JuT01ub29ZcldVY3hZVUV1X09kU1Qtd0o1alozRVBobzVuMHpBazBzdXhpZkRPVmNremh3VDF6ekJEXzhyaXhCenNMM0VrcUJxVWZZWHUzTFpMSUNWWU41djdMRWstMENJWU84QnF4RXBQMlRIRmRweTI2X3NwS3RWMVFjWjA0UGpBbll3SVFWeUE4eFF0bTB3c1RPQk1JcTkwLUZWdmMwcFNjS09OSExESVduZlVrMm9sY2o0Q2lQTkRWMEUxbkt0emJDMkhsZjBEdEJXTzNWMDFEN3ZOS1VR?oc=5)
+
+---
+
+### [Como age o novo medicamento aprovado pela Anvisa para tratar câncer de mama](https://news.google.com/rss/articles/CBMixgFBVV95cUxNQ24zX3ZHalV0MTF6MGZDLVRrTjJGQUZuZlZhMzU5dVZ4UVc4VXR2bmRIOE94V1czVmVrSkdodm83V0VsTXc0Zm1iTXlpbGxKaW95aUd0eVhHbnpORWVWbnV6Nm9GTmVGRHRFa0k3dzQyVndyR3VVdU9jMEVnanIxUXQ0TWg1LWtkaUItbWlkekoxaTU1cWJEcTU5SmNFVTNwazFXNTR0LTRBTjE3YVdNT3NFMEdqVmJ6N2ctTTRmWEFMSDdxeHfSAdQBQVVfeXFMTUk3VDRwSFRubHhrYWo2LW56emVGeC1wRWszVkU2bElnd0tjMW5QQS15eXg0bTA4ZHdKblVCV0tDT0prdS1kRUR1Mm0xZEItTVJYbC1SS0lMTkZ6Ny1pYkJhUzdMQUxOMzlUaUU4OHVFZGV0LVlLTHRpOEtwVDZfNVUxRWNnc0pQT3ZMU19CTXphNnlWLThUNjhlOHF2WEo2Mm9lRlZjY1pkZkFTa2lRMVlsdC1xeEktSlVzZ2k3NUJuTlVtZ0lqcVhuNTYyNzlDZlJDRHA?oc=5)
+
+2026-11-25
+
+Fonte: [G1](https://news.google.com/rss/articles/CBMixgFBVV95cUxNQ24zX3ZHalV0MTF6MGZDLVRrTjJGQUZuZlZhMzU5dVZ4UVc4VXR2bmRIOE94V1czVmVrSkdodm83V0VsTXc0Zm1iTXlpbGxKaW95aUd0eVhHbnpORWVWbnV6Nm9GTmVGRHRFa0k3dzQyVndyR3VVdU9jMEVnanIxUXQ0TWg1LWtkaUItbWlkekoxaTU1cWJEcTU5SmNFVTNwazFXNTR0LTRBTjE3YVdNT3NFMEdqVmJ6N2ctTTRmWEFMSDdxeHfSAdQBQVVfeXFMTUk3VDRwSFRubHhrYWo2LW56emVGeC1wRWszVkU2bElnd0tjMW5QQS15eXg0bTA4ZHdKblVCV0tDT0prdS1kRUR1Mm0xZEItTVJYbC1SS0lMTkZ6Ny1pYkJhUzdMQUxOMzlUaUU4OHVFZGV0LVlLTHRpOEtwVDZfNVUxRWNnc0pQT3ZMU19CTXphNnlWLThUNjhlOHF2WEo2Mm9lRlZjY1pkZkFTa2lRMVlsdC1xeEktSlVzZ2k3NUJuTlVtZ0lqcVhuNTYyNzlDZlJDRHA?oc=5)
+
+---
 
 ### [Como age o novo medicamento aprovado pela Anvisa para tratar câncer de mama](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNY2NYaFFfRzRIdUV6aHdJY1FtUUt2ZjVWUDF0Mk5EUGY0WXFGeWxXWFhHMXRhVmdQR05SeGhvdDg2U0x6Q1o3WWhqMXdfelpuR3BNMWl0SE12YkQ2S2JLYVZWa3M1RFBTSTc5ZzRhN25BczBCcmMza1FOSGExeXJXX2k2U0NZb0luV09hQmZlakJrQ2FONFlwd1pZbG1OWVdhSEdfTW1vcUgtaEFRQkh1QjNHS1hkOGpiT1JNVnJYekxrNzRCV0t4Z2VxVE1LV2F4Q2FoS3pCbk1tMEROdkE?oc=5)
 
@@ -80,14 +96,6 @@ Fonte: [G1](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYU1LUXZaSFFtZ0p
 2026-11-10
 
 Fonte: [Folha de S.Paulo](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOeE1tUDRKYVpVTHVrNmtabzNZOG9WdFIyWDIzc3E5YVUyLWJaTUhSMmtvZnBsaU5iWlFaa3hMNkdDOFpGdFRpRHp0WVJnOHhKVXloTnV0VnRld0hCMWR5Qm50dElpeWRfLUlpXzd4YmVJRFpVV1g2QTAtanhsQnp6dXlRRmNtZHZrTGRJUkN5MVdOclpTY045UXprdXBQUWhfNXdaUGFkclhXMGpHNXRZVE1HU0M0TFllTFdlWjFUMnZzY2hHbkM0Uy1qQlY1bndfV29haE4wN3RhZWpQbjNtbGJiZzl0VGtMYnVpNlpwWGJWNl9YdTg5YWN3?oc=5)
-
----
-
-### [Outubro Rosa: Prefeitura de Bom Jesus promove aulão de pilates e zumba e reforça a importância da prevenção ao câncer de mama - Portal Ponto X](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNV0ZKZEM2S090emQ3a1pLOUVmcEtnSjRFWWVlRXJ6RkFxQjB4ZXdRXzBhQ0ppLW9TdDF3V1lhb3R6NElpQm5ldlpuQjZYRUlvOEV6QkRLYzBaeVRCVnAzNjZxQ1VLdzgyV1dldGpxOWtIS1NJWGp0QzNfUDFPY21ldFNGMTZrS2hSWjlTVjJqLTU0aF9xdnBDRTEyRzJvYlJ0UlRWaTBobXpxc0NEWWpmMzhmenBHdk9BS25meHQ3OVhSZW5ubmlkYU9NdUZNZldSUV9TLVg0a3hhQVo4U2pyQTRMOW40ejI4WEVVR1RzZURkckliamFn?oc=5)
-
-2026-10-28
-
-Fonte: [Portal Ponto X](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNV0ZKZEM2S090emQ3a1pLOUVmcEtnSjRFWWVlRXJ6RkFxQjB4ZXdRXzBhQ0ppLW9TdDF3V1lhb3R6NElpQm5ldlpuQjZYRUlvOEV6QkRLYzBaeVRCVnAzNjZxQ1VLdzgyV1dldGpxOWtIS1NJWGp0QzNfUDFPY21ldFNGMTZrS2hSWjlTVjJqLTU0aF9xdnBDRTEyRzJvYlJ0UlRWaTBobXpxc0NEWWpmMzhmenBHdk9BS25meHQ3OVhSZW5ubmlkYU9NdUZNZldSUV9TLVg0a3hhQVo4U2pyQTRMOW40ejI4WEVVR1RzZURkckliamFn?oc=5)
 
 ---
 

@@ -3,9 +3,9 @@ layout: default
 title: "Notícias sobre demência (dementia)"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre demência (dementia). 21 notícias, 4 medicamentos relacionados."
+description: "Notícias de saúde sobre demência (dementia). 22 notícias, 4 medicamentos relacionados."
 permalink: /news/dementia/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
 # Notícias sobre demência (dementia)
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre demência (dementia)?">
-<strong>demência (dementia)</strong> tem atualmente <strong>21 notícias</strong> e 4 medicamentos relacionados.
+<strong>demência (dementia)</strong> tem atualmente <strong>22 notícias</strong> e 4 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ Esta página reúne as notícias de saúde mais recentes sobre «demência» e l
 </ul>
 </div>
 
-## Notícias relacionadas (21)
+## Notícias relacionadas (22)
+
+### [Exercício no trabalho x lazer: esforço físico profissional parece elevar risco de demência](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOEEzNmJTY1dkaWlOUkpaT2l1SDg1eTBjdlNMYjJ1ZUhDUWp4UG5XeUM2NzJ0ekRYWHR4YS1oNFp3cUp2eUJEMzFkRjZObTZfYVNSNk1TNElVckl0bFZaemlDUC1GRmg5T0V0SzVDeU5QWDk4eTRBWU5RQkhZMXpEejNlRUZXajF0djh0TFRHdDdJeVhjYmwxMmg1M2JNbkR5ajM1VWtudnlrUnd5ODF0cmM0UjROYkVpLTBidElqaFFleWc?oc=5)
+
+2026-11-27
+
+Fonte: [UOL](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOEEzNmJTY1dkaWlOUkpaT2l1SDg1eTBjdlNMYjJ1ZUhDUWp4UG5XeUM2NzJ0ekRYWHR4YS1oNFp3cUp2eUJEMzFkRjZObTZfYVNSNk1TNElVckl0bFZaemlDUC1GRmg5T0V0SzVDeU5QWDk4eTRBWU5RQkhZMXpEejNlRUZXajF0djh0TFRHdDdJeVhjYmwxMmg1M2JNbkR5ajM1VWtudnlrUnd5ODF0cmM0UjROYkVpLTBidElqaFFleWc?oc=5)
+
+---
 
 ### [Demência: como um diagnóstico claro ajuda pacientes e suas famílias a lidarem melhor com o declínio cognitivo](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUHVyLWJRZ2Y1UktZNVg4NHJLV25McTMyWUpiVUVDeWtwWTd2SnBVQW5YZllfQnVacFBxTjl3V2MtaDhqX3UzMmVMWlFuWVZSdDBjbHhyNEhSTmlyUWJ3V1VqNjhHM3dmUFpiVzNTT05rUHpUTmRORGNkMGJjYlV3MXhwRkxYVHc1bG5semhkXzVWdWlfMFpsdWhRcFJvMkc1cHAwSFFGWno3eDVQTmJIcm52dUlBQWI5dDZVaUo4Zk1rLVE3MXcweV9salNsMVJITGo2V2kwODAzV1RmUGl5d21IQjJZOW1YdVIwaERsakYtQQ?oc=5)
 
