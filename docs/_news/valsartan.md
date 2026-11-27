@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com VALSARTAN. 6 indicações previstas."
 permalink: /news/valsartan/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
 # Notícias sobre VALSARTAN
@@ -90,7 +90,7 @@ Fonte: [Gshow](https://news.google.com/rss/articles/CBMiygFBVV95cUxOYUk1MlhCcUda
 
 ### ['No momento da notícia, o chão some': evento fala de vida com câncer](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTEVYUW1fclRHdVozalh3WTZSd0t0ZUJGVUw3MzkxT05CM181OG80UTV2Vmt6aVJKYl9ZdmNjallzWWtjMHRhdTg5ZklYb0ZQMVNjQ1RodGUzZmRTcGFEbFYxRTR4Qlg3NUhRSGdlUHBRR0dJYlVEUV9NdWtONGd0d0d4eUhCSm82Z09mVWNtRzYtTU14SlVoNkxZUFJOczIyTFRyenRWNTBUQ2RadEpCQ0RKUWx6OG94Zl9DMEE3S1dvUi13dTNSaG5IVVg1aFV0cXRZ?oc=5)
 
-2026-11-25 <span class="news-indication-tag">câncer</span> <span class="news-indication-tag">câncer de mama</span>
+2026-11-25 <span class="news-indication-tag">câncer</span>
 
 Fonte: [UOL](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTEVYUW1fclRHdVozalh3WTZSd0t0ZUJGVUw3MzkxT05CM181OG80UTV2Vmt6aVJKYl9ZdmNjallzWWtjMHRhdTg5ZklYb0ZQMVNjQ1RodGUzZmRTcGFEbFYxRTR4Qlg3NUhRSGdlUHBRR0dJYlVEUV9NdWtONGd0d0d4eUhCSm82Z09mVWNtRzYtTU14SlVoNkxZUFJOczIyTFRyenRWNTBUQ2RadEpCQ0RKUWx6OG94Zl9DMEE3S1dvUi13dTNSaG5IVVg1aFV0cXRZ?oc=5)
 
