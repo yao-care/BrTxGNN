@@ -15,7 +15,7 @@ last_modified_at: 2026-11-28
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Albendazole?">
-<strong>Albendazole</strong> tem atualmente <strong>132 notícias</strong> e 1 indicações previstas.
+<strong>Albendazole</strong> tem atualmente <strong>134 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ Esta página combina as indicações previstas por IA para Albendazole com as no
 <p><a href="{{ '/drugs/albendazole/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (132)
+## Notícias relacionadas (134)
+
+### [Falha na ereção pode avisar sobre infarto com anos de antecedência; veja o que fazer](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMGUzaVVKdXMySVk1dWFITno2cDFHYTR3MmQzRmoyWGx4SGRpd3d4WkxxX2Zsb0tNdjMtaDdCYkRCMGs0dDZIcnhvQXdCWllIQTNCWGk1eGU4VzlnUmFOcHBTSmZLWXNxZjA4WE41ZmhINlRyclpmWWNnc2JHbUV3ZHpGQmpEc1BfZE1rSERILTVfOUFRaXlaYW9ldkJfYTMwU3FlNG1xbVV2RjM0NENRTUdfMk1tYnJEaEFCUFNqQTY0V1dha09vLV9JYWVMd2Vk0gHfAUFVX3lxTFBneVNfcEY5bkw5NlJqS3hIOVN4OV9GS1U5S0xYdFU1cERPVlluUEtQR2lzRXhZb2tlMzBGUnNGVmdfZHljYUZ4bXFjZGxzZ0JxRk01QlNqYmhObXdzd0NWQl9RNVh2VG1fME9IR0RUMFZTaUZFZGhpRDhCbHoydW1xYlhQcGdrNXhjbWNFRHl2RzZDM20yWmw1bzVpMEMyZWhZU2tReGxVdjhZTWo3dkxEMmV6SHhZT1puNzZwalZaUkVsYzU3Tm51Rm0xRFVaY2tKSXhzeTBKbHRZSFVQczg?oc=5)
+
+2026-11-28 <span class="news-indication-tag">câncer</span>
+
+Fonte: [G1](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMGUzaVVKdXMySVk1dWFITno2cDFHYTR3MmQzRmoyWGx4SGRpd3d4WkxxX2Zsb0tNdjMtaDdCYkRCMGs0dDZIcnhvQXdCWllIQTNCWGk1eGU4VzlnUmFOcHBTSmZLWXNxZjA4WE41ZmhINlRyclpmWWNnc2JHbUV3ZHpGQmpEc1BfZE1rSERILTVfOUFRaXlaYW9ldkJfYTMwU3FlNG1xbVV2RjM0NENRTUdfMk1tYnJEaEFCUFNqQTY0V1dha09vLV9JYWVMd2Vk0gHfAUFVX3lxTFBneVNfcEY5bkw5NlJqS3hIOVN4OV9GS1U5S0xYdFU1cERPVlluUEtQR2lzRXhZb2tlMzBGUnNGVmdfZHljYUZ4bXFjZGxzZ0JxRk01QlNqYmhObXdzd0NWQl9RNVh2VG1fME9IR0RUMFZTaUZFZGhpRDhCbHoydW1xYlhQcGdrNXhjbWNFRHl2RzZDM20yWmw1bzVpMEMyZWhZU2tReGxVdjhZTWo3dkxEMmV6SHhZT1puNzZwalZaUkVsYzU3Tm51Rm0xRFVaY2tKSXhzeTBKbHRZSFVQczg?oc=5)
+
+---
 
 ### [Exercício no trabalho x lazer: esforço físico profissional parece elevar risco de demência](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOEEzNmJTY1dkaWlOUkpaT2l1SDg1eTBjdlNMYjJ1ZUhDUWp4UG5XeUM2NzJ0ekRYWHR4YS1oNFp3cUp2eUJEMzFkRjZObTZfYVNSNk1TNElVckl0bFZaemlDUC1GRmg5T0V0SzVDeU5QWDk4eTRBWU5RQkhZMXpEejNlRUZXajF0djh0TFRHdDdJeVhjYmwxMmg1M2JNbkR5ajM1VWtudnlrUnd5ODF0cmM0UjROYkVpLTBidElqaFFleWc?oc=5)
 
@@ -120,6 +128,14 @@ Fonte: [G1](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUHVyLWJRZ2Y1Ukt
 2026-11-26 <span class="news-indication-tag">câncer</span>
 
 Fonte: [DOL](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZjh1cTdfY3RhNnZPbHllTjBPZUlBVXBKX01hUVBDa2w0WXZERWZ3dUxweTg2T2c5LXNQaXU3eGoxQm9td21Bc2hVQzAzbjczc2RfV2U4Y240MTdEa3IzY3lMbVZ5M1ZPWTZFbVpYTVBZbTZ0QTFhOGNjd1R5WWc3eGdHcnJIcGZyeng5MzdzS0Zya3E2eGJoY1N1X0lfemhHWG1LSEhPTkLSAbABQVVfeXFMUGJsYWk4OHU0YUlIUDdBdE5EUGprOGZTQVY5eWxJLURYV3h4UHNyUlV5RFlONUVLVEJ5Y0hGeU8tTENuT0cwdFAtb1JZS2NVQUFTVDhseHpfVEpldl9vcTFlVl9laG1mRVd4STBEMVl2VzJ1aTBMS2hQZWRXR2w5RWFncmNIMTFJZGhwQ0ZueGs1LXR4RENvd1V0eEZFcm9WU1FSaGlFUFd6T3NYZ3gzZTU?oc=5)
+
+---
+
+### [A doença rara que levou influenciadora a clínica psiquiátrica por 2 meses: 'Fui rotulada como psicótica por ser mulher'](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ndGZpckJESTdWYkZ3eXBkLTBrZldNS29iN0xJLVRXcEw1aHZ5UkdKc2Y3WWh3QmlleGUxNlRhb0FuQUhxclduQnNwM0xaQkdQUy0yX3BDNzZHSTlsQ2EzMmNzVdIBaEFVX3lxTE1WczZ0dUg4UGJTWGd2MlpoS2MwWWEycG5PU1BjOE1iWWdsRWowZHNtMlBTOXVrd2RjaE5Fbl9lNXdIbHpxNW8xMm54MWZiZTZmY3puU1FCamljQ0hCbW9DX2d0XzhXVF9K?oc=5)
+
+2026-11-25 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">psicose</span>
+
+Fonte: [BBC](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ndGZpckJESTdWYkZ3eXBkLTBrZldNS29iN0xJLVRXcEw1aHZ5UkdKc2Y3WWh3QmlleGUxNlRhb0FuQUhxclduQnNwM0xaQkdQUy0yX3BDNzZHSTlsQ2EzMmNzVdIBaEFVX3lxTE1WczZ0dUg4UGJTWGd2MlpoS2MwWWEycG5PU1BjOE1iWWdsRWowZHNtMlBTOXVrd2RjaE5Fbl9lNXdIbHpxNW8xMm54MWZiZTZmY3puU1FCamljQ0hCbW9DX2d0XzhXVF9K?oc=5)
 
 ---
 

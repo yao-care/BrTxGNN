@@ -15,7 +15,7 @@ last_modified_at: 2026-11-28
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre CHLORTHALIDONE?">
-<strong>CHLORTHALIDONE</strong> tem atualmente <strong>112 notícias</strong> e 9 indicações previstas.
+<strong>CHLORTHALIDONE</strong> tem atualmente <strong>114 notícias</strong> e 9 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ Esta página combina as indicações previstas por IA para CHLORTHALIDONE com as
 <p><a href="{{ '/drugs/chlorthalidone/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (112)
+## Notícias relacionadas (114)
+
+### [Falha na ereção pode avisar sobre infarto com anos de antecedência; veja o que fazer](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMGUzaVVKdXMySVk1dWFITno2cDFHYTR3MmQzRmoyWGx4SGRpd3d4WkxxX2Zsb0tNdjMtaDdCYkRCMGs0dDZIcnhvQXdCWllIQTNCWGk1eGU4VzlnUmFOcHBTSmZLWXNxZjA4WE41ZmhINlRyclpmWWNnc2JHbUV3ZHpGQmpEc1BfZE1rSERILTVfOUFRaXlaYW9ldkJfYTMwU3FlNG1xbVV2RjM0NENRTUdfMk1tYnJEaEFCUFNqQTY0V1dha09vLV9JYWVMd2Vk0gHfAUFVX3lxTFBneVNfcEY5bkw5NlJqS3hIOVN4OV9GS1U5S0xYdFU1cERPVlluUEtQR2lzRXhZb2tlMzBGUnNGVmdfZHljYUZ4bXFjZGxzZ0JxRk01QlNqYmhObXdzd0NWQl9RNVh2VG1fME9IR0RUMFZTaUZFZGhpRDhCbHoydW1xYlhQcGdrNXhjbWNFRHl2RzZDM20yWmw1bzVpMEMyZWhZU2tReGxVdjhZTWo3dkxEMmV6SHhZT1puNzZwalZaUkVsYzU3Tm51Rm0xRFVaY2tKSXhzeTBKbHRZSFVQczg?oc=5)
+
+2026-11-28 <span class="news-indication-tag">câncer</span>
+
+Fonte: [G1](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMGUzaVVKdXMySVk1dWFITno2cDFHYTR3MmQzRmoyWGx4SGRpd3d4WkxxX2Zsb0tNdjMtaDdCYkRCMGs0dDZIcnhvQXdCWllIQTNCWGk1eGU4VzlnUmFOcHBTSmZLWXNxZjA4WE41ZmhINlRyclpmWWNnc2JHbUV3ZHpGQmpEc1BfZE1rSERILTVfOUFRaXlaYW9ldkJfYTMwU3FlNG1xbVV2RjM0NENRTUdfMk1tYnJEaEFCUFNqQTY0V1dha09vLV9JYWVMd2Vk0gHfAUFVX3lxTFBneVNfcEY5bkw5NlJqS3hIOVN4OV9GS1U5S0xYdFU1cERPVlluUEtQR2lzRXhZb2tlMzBGUnNGVmdfZHljYUZ4bXFjZGxzZ0JxRk01QlNqYmhObXdzd0NWQl9RNVh2VG1fME9IR0RUMFZTaUZFZGhpRDhCbHoydW1xYlhQcGdrNXhjbWNFRHl2RzZDM20yWmw1bzVpMEMyZWhZU2tReGxVdjhZTWo3dkxEMmV6SHhZT1puNzZwalZaUkVsYzU3Tm51Rm0xRFVaY2tKSXhzeTBKbHRZSFVQczg?oc=5)
+
+---
 
 ### [Câncer de intestino: 6 sintomas que você pode estar ignorando - GMC Online](https://news.google.com/rss/articles/CBMiowFBVV95cUxQX3JqSU5mbThWZFU2VHNSeTJPUWlLeDNzaTltVV9EYkNGc2JLZFJQeXJqOHdvZTJQc0ZXQkVUb2ZickNQRVRHc3lQVXpZeEtCQlVTNXFNQjIzdzI3NEVwQTJ2cUQ0bXA1WkdVVGJWcXRQVUJwLXZvVW53bVZKU0tyUmFsc0pEU3hxQkszc0tSNDBmc0daTTU5YjZ1RTduRHRoeUtn0gGoAUFVX3lxTE9KYUs2cDBtdVFzdzBTZUh4WmRVSW4tUHNDUVVzMVZGcjdhTkdBNl9mZmVSbE1wMWlmUjdPZ1FaUjVTeGFfMVdjU0wzN1RJUHJMOWFEYklYVEhWZ0ZFS0NEeHFZaTlaeWR1QWpsT3FjVFZQNXNkUHF3NjVYSXk1R1lXY3ZuejM4aU1LVTdLRHlQdllPbXhzUkZRaVBhaHJUcDhvM0s5Zk01VQ?oc=5)
 
@@ -112,6 +120,14 @@ Fonte: [G1](https://news.google.com/rss/articles/CBMilAJBVV95cUxOWVV4R1J6NmwwYlp
 2026-11-26 <span class="news-indication-tag">câncer</span>
 
 Fonte: [DOL](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZjh1cTdfY3RhNnZPbHllTjBPZUlBVXBKX01hUVBDa2w0WXZERWZ3dUxweTg2T2c5LXNQaXU3eGoxQm9td21Bc2hVQzAzbjczc2RfV2U4Y240MTdEa3IzY3lMbVZ5M1ZPWTZFbVpYTVBZbTZ0QTFhOGNjd1R5WWc3eGdHcnJIcGZyeng5MzdzS0Zya3E2eGJoY1N1X0lfemhHWG1LSEhPTkLSAbABQVVfeXFMUGJsYWk4OHU0YUlIUDdBdE5EUGprOGZTQVY5eWxJLURYV3h4UHNyUlV5RFlONUVLVEJ5Y0hGeU8tTENuT0cwdFAtb1JZS2NVQUFTVDhseHpfVEpldl9vcTFlVl9laG1mRVd4STBEMVl2VzJ1aTBMS2hQZWRXR2w5RWFncmNIMTFJZGhwQ0ZueGs1LXR4RENvd1V0eEZFcm9WU1FSaGlFUFd6T3NYZ3gzZTU?oc=5)
+
+---
+
+### [A doença rara que levou influenciadora a clínica psiquiátrica por 2 meses: 'Fui rotulada como psicótica por ser mulher'](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ndGZpckJESTdWYkZ3eXBkLTBrZldNS29iN0xJLVRXcEw1aHZ5UkdKc2Y3WWh3QmlleGUxNlRhb0FuQUhxclduQnNwM0xaQkdQUy0yX3BDNzZHSTlsQ2EzMmNzVdIBaEFVX3lxTE1WczZ0dUg4UGJTWGd2MlpoS2MwWWEycG5PU1BjOE1iWWdsRWowZHNtMlBTOXVrd2RjaE5Fbl9lNXdIbHpxNW8xMm54MWZiZTZmY3puU1FCamljQ0hCbW9DX2d0XzhXVF9K?oc=5)
+
+2026-11-25 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">psicose</span>
+
+Fonte: [BBC](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ndGZpckJESTdWYkZ3eXBkLTBrZldNS29iN0xJLVRXcEw1aHZ5UkdKc2Y3WWh3QmlleGUxNlRhb0FuQUhxclduQnNwM0xaQkdQUy0yX3BDNzZHSTlsQ2EzMmNzVdIBaEFVX3lxTE1WczZ0dUg4UGJTWGd2MlpoS2MwWWEycG5PU1BjOE1iWWdsRWowZHNtMlBTOXVrd2RjaE5Fbl9lNXdIbHpxNW8xMm54MWZiZTZmY3puU1FCamljQ0hCbW9DX2d0XzhXVF9K?oc=5)
 
 ---
 
