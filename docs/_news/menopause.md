@@ -3,9 +3,9 @@ layout: default
 title: "Notícias sobre menopausa (menopause)"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre menopausa (menopause). 9 notícias, 14 medicamentos relacionados."
+description: "Notícias de saúde sobre menopausa (menopause). 10 notícias, 14 medicamentos relacionados."
 permalink: /news/menopause/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-28
 ---
 
 # Notícias sobre menopausa (menopause)
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre menopausa (menopause)?">
-<strong>menopausa (menopause)</strong> tem atualmente <strong>9 notícias</strong> e 14 medicamentos relacionados.
+<strong>menopausa (menopause)</strong> tem atualmente <strong>10 notícias</strong> e 14 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ Esta página reúne as notícias de saúde mais recentes sobre «menopausa» e l
 </ul>
 </div>
 
-## Notícias relacionadas (9)
+## Notícias relacionadas (10)
+
+### [Depressão na menopausa e na menstruação segundo a psicologia - Rádio Itatiaia](https://news.google.com/rss/articles/CBMinAFBVV95cUxPOWwzc1U4RzFEekF4TDU1bTRDMjFYT0tWZzRyS2FEZGhlTjNydG5nZ25IbHZfQlJHMXVRT2xJaDRBOE9IN2ZwbjloZlBIRjhFb3hHcmJrX1o1b0JTYzhSZnZCejVia28zejJ5UUdNVDZTTlI2YWVKTWJiczRMa2YwalJPUVJBYWN2Q1AwNVppX29vR3FfRU1qRHZ3d3o?oc=5)
+
+2026-11-27
+
+Fonte: [Rádio Itatiaia](https://news.google.com/rss/articles/CBMinAFBVV95cUxPOWwzc1U4RzFEekF4TDU1bTRDMjFYT0tWZzRyS2FEZGhlTjNydG5nZ25IbHZfQlJHMXVRT2xJaDRBOE9IN2ZwbjloZlBIRjhFb3hHcmJrX1o1b0JTYzhSZnZCejVia28zejJ5UUdNVDZTTlI2YWVKTWJiczRMa2YwalJPUVJBYWN2Q1AwNVppX29vR3FfRU1qRHZ3d3o?oc=5)
+
+---
 
 ### [56% das Mulheres Confundem Efeitos da Menopausa com Envelhecimento - Forbes Brasil](https://news.google.com/rss/articles/CBMirwFBVV95cUxPdWJBY0dUOXFjWmdXV3R2dF9NME5lMTBjT0F2TENFS0JpQ2tSRmpGVzc5eVNLOWF2QllfZ3ZYSU5yZzVCc3ZNbllZMmRHbnl4SndkaXB5ckdsdVBZSHN4VHZSbE9tSjVDNkdzQnFKZFhtdjRpTC1IMEt0Wm1pQkxLekEwR1Qwa25FSU4xdFVlWUc3WmdUVVloY2tpc09ENW1YY0I5ajRwVzdMd1Awd1VB?oc=5)
 

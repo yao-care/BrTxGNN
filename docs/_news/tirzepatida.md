@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com TIRZEPATIDA. 0 indicações previstas."
 permalink: /news/tirzepatida/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-28
 ---
 
 # Notícias sobre TIRZEPATIDA
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre TIRZEPATIDA?">
-<strong>TIRZEPATIDA</strong> tem atualmente <strong>7 notícias</strong> e 0 indicações previstas.
+<strong>TIRZEPATIDA</strong> tem atualmente <strong>8 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -29,13 +29,21 @@ Esta página combina as indicações previstas por IA para TIRZEPATIDA com as no
 
 </div>
 
-## Notícias relacionadas (7)
+## Notícias relacionadas (8)
 
 ### [Opinião - Bruno Gualano: Na era das canetas, suar pra quê? - Folha de S.Paulo](https://news.google.com/rss/articles/CBMingFBVV95cUxPbUhVMXBXTEptY3BTNmxCMHNENU56Q3hxRk96T2k1LTU2MVR6TjVMQ3pmX0xZVjNQS1A0WndCWDFBdGJSeEk1VEhCbWFHQ2NPc19vWkxtMlk1MEVEdVRwQmFnbVhFTzlpalg5YnNFcFZVQjFMV0p6WkZ4cFRfUGVFa01vUkdEV0lEUEFFb2lNaVVtOGt6LTgtZDFNR01fQQ?oc=5)
 
 2026-11-24 <span class="news-drug-tag">TIRZEPATIDA</span>
 
 Fonte: [Folha de S.Paulo](https://news.google.com/rss/articles/CBMingFBVV95cUxPbUhVMXBXTEptY3BTNmxCMHNENU56Q3hxRk96T2k1LTU2MVR6TjVMQ3pmX0xZVjNQS1A0WndCWDFBdGJSeEk1VEhCbWFHQ2NPc19vWkxtMlk1MEVEdVRwQmFnbVhFTzlpalg5YnNFcFZVQjFMV0p6WkZ4cFRfUGVFa01vUkdEV0lEUEFFb2lNaVVtOGt6LTgtZDFNR01fQQ?oc=5)
+
+---
+
+### [Como a saliva de um lagarto deu origem ao Mounjaro e ao Ozempic](https://news.google.com/rss/articles/CBMioAFBVV95cUxQS0tnU0pRbnhoTjQzbEx5TV9MZjNYU3hCc0t5dkJrSUZXdER2VUJRZ29BOEJjRG91SjZUeFFXcl9YTmdraGJORl9fRGprYml3MVhaUlFuZ1k5RGVyQjlXUmZNNVJWcGRMX09ka3BuazJHRW1mMnBrdW94YkJ1SU9JbHlxRDFTVWU3MnZuOHJ3V3pmVldmYW5YV3ZIU2JEeExU?oc=5)
+
+2026-11-23 <span class="news-drug-tag">TIRZEPATIDA</span>
+
+Fonte: [Superinteressante](https://news.google.com/rss/articles/CBMioAFBVV95cUxQS0tnU0pRbnhoTjQzbEx5TV9MZjNYU3hCc0t5dkJrSUZXdER2VUJRZ29BOEJjRG91SjZUeFFXcl9YTmdraGJORl9fRGprYml3MVhaUlFuZ1k5RGVyQjlXUmZNNVJWcGRMX09ka3BuazJHRW1mMnBrdW94YkJ1SU9JbHlxRDFTVWU3MnZuOHJ3V3pmVldmYW5YV3ZIU2JEeExU?oc=5)
 
 ---
 

@@ -3,9 +3,9 @@ layout: default
 title: "Notícias sobre câncer de mama (female breast carcinoma)"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre câncer de mama (female breast carcinoma). 7 notícias, 12 medicamentos relacionados."
+description: "Notícias de saúde sobre câncer de mama (female breast carcinoma). 8 notícias, 12 medicamentos relacionados."
 permalink: /news/female-breast-carcinoma/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
 # Notícias sobre câncer de mama (female breast carcinoma)
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre câncer de mama (female breast carcinoma)?">
-<strong>câncer de mama (female breast carcinoma)</strong> tem atualmente <strong>7 notícias</strong> e 12 medicamentos relacionados.
+<strong>câncer de mama (female breast carcinoma)</strong> tem atualmente <strong>8 notícias</strong> e 12 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ Esta página reúne as notícias de saúde mais recentes sobre «câncer de mama
 </ul>
 </div>
 
-## Notícias relacionadas (7)
+## Notícias relacionadas (8)
+
+### [Dia Nacional de Combate ao Câncer: 6 alimentos que ajudam a reduzir o risco da doença - O GLOBO](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYUNGWjNmd3RvNlFINmQ4SU9DYmRPOHN0YjFpM2F4ekdZdXpDQjdoQXdrdjd4akZCbVV6akNOM1R1NV9OeXZuZG04Vm9jM3NHdmNxdzlERm40YnBBVF95V004ZF9qbXg4NU1Lc1hzSDgwQm5NNGNtNVJPSkFSOENWUGx1YjRUczBLOXR6NFE2c2dSaEZzTHZZeWYzd3lIbFZuREpMVmItQXNQLUE3MWpBQUwzZFA1NHk3empMMkw1QXcwRm0wVHJicjUxUGxSMUFwTERYeTZJWdIB5gFBVV95cUxQbVMxa3N3MHNjTVMycEpwSTJXZ2ZwR3JSalM2S1FoX2xONFRIVVVpUDM2MmROd2xHOUpQc1EwaF8xdXZhV0dWMzhQQ3ZlZGRtZGRhVXJHUkFRVkpURWVRWmE0QlppTGQtY2xSU05KTjNnUExZU29Ea2ZzM3NEdzdtWWwzVEhvMDRYQWxGNFNsVVQxZGxvUW5ad2pNbWZXYVVNQTdmc2p4eFhvbmNuTVRKanJqdjI2cFp3VG9mN1p4NE1DSDVVY1BCT0gxajlWVkdtT3MyRDV4cm9OOE9rRDVUcEEyMEtMQQ?oc=5)
+
+2026-11-27
+
+Fonte: [O GLOBO](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYUNGWjNmd3RvNlFINmQ4SU9DYmRPOHN0YjFpM2F4ekdZdXpDQjdoQXdrdjd4akZCbVV6akNOM1R1NV9OeXZuZG04Vm9jM3NHdmNxdzlERm40YnBBVF95V004ZF9qbXg4NU1Lc1hzSDgwQm5NNGNtNVJPSkFSOENWUGx1YjRUczBLOXR6NFE2c2dSaEZzTHZZeWYzd3lIbFZuREpMVmItQXNQLUE3MWpBQUwzZFA1NHk3empMMkw1QXcwRm0wVHJicjUxUGxSMUFwTERYeTZJWdIB5gFBVV95cUxQbVMxa3N3MHNjTVMycEpwSTJXZ2ZwR3JSalM2S1FoX2xONFRIVVVpUDM2MmROd2xHOUpQc1EwaF8xdXZhV0dWMzhQQ3ZlZGRtZGRhVXJHUkFRVkpURWVRWmE0QlppTGQtY2xSU05KTjNnUExZU29Ea2ZzM3NEdzdtWWwzVEhvMDRYQWxGNFNsVVQxZGxvUW5ad2pNbWZXYVVNQTdmc2p4eFhvbmNuTVRKanJqdjI2cFp3VG9mN1p4NE1DSDVVY1BCT0gxajlWVkdtT3MyRDV4cm9OOE9rRDVUcEEyMEtMQQ?oc=5)
+
+---
 
 ### [FDA aprova primeiro remédio novo em 20 anos para câncer de mama em fase inicial; preço pode chegar a R$ 120 mil por mês](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZEQyRm5KQkRiSk5uc1JuUzNVcFNGS1ZDQVp0dXgxZzhpMUxhaW82UGI3N3VjakVMejJpZFQ0Nk9zWGZlbm94NzFXdldpSmNiZUozRkdpaVRZVDdxUGg5dndhMWl2ZDlySlNvckJtcGlZWkRrTzBvV2wtSFhzZzZyUkE4dDJ0Rnp3RnlnRDlwdVE0aFhQcEdrLUY5WmQyZjFkTVNRXzlRZE4yM1Q0aElIZEdSbVNnVjBMN2hWbnVnRkxzaExCallhUU1Yby1zVXMwLXQyWFFFZndBZ0tLbHRvT1hvaVJ5MWxwRzJYdTlqcUNFeGJHdUQ0NHJHd0tBZ9IBjAJBVV95cUxQS2JXcmdWZlNHR0xxbXh2SnEycHpZTWxoOW1ielJhTmxwYzFHLUNUOEJMc2JuT01ub29ZcldVY3hZVUV1X09kU1Qtd0o1alozRVBobzVuMHpBazBzdXhpZkRPVmNremh3VDF6ekJEXzhyaXhCenNMM0VrcUJxVWZZWHUzTFpMSUNWWU41djdMRWstMENJWU84QnF4RXBQMlRIRmRweTI2X3NwS3RWMVFjWjA0UGpBbll3SVFWeUE4eFF0bTB3c1RPQk1JcTkwLUZWdmMwcFNjS09OSExESVduZlVrMm9sY2o0Q2lQTkRWMEUxbkt0emJDMkhsZjBEdEJXTzNWMDFEN3ZOS1VR?oc=5)
 

@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Basiliximab. 0 indicações previstas."
 permalink: /news/basiliximab/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
 # Notícias sobre Basiliximab
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Basiliximab?">
-<strong>Basiliximab</strong> tem atualmente <strong>109 notícias</strong> e 0 indicações previstas.
+<strong>Basiliximab</strong> tem atualmente <strong>110 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,13 @@ Esta página combina as indicações previstas por IA para Basiliximab com as no
 <p><a href="{{ '/drugs/basiliximab/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (109)
+## Notícias relacionadas (110)
 
-### [Do laboratório ao paciente: como a ciência mudou o tratamento do câncer](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUGNNTXo4ZzNEakljYldJdzBITjRWejJsT0RvNFJrOUw1WTFDZUpsejdQUlB5cGVfMFpkQzIzOGVNMDVJR0FWMWhSR2Z2bkkxZU1pMkV5Y1NTd005VElTQTcwSzdYUmdlV2ZyS1lVblhwS1hEdFlvT3B3WWkzZ1RCY240a3JFOFdSbjJtVmhucDVYVXEyaEpvbERfaG9NVkNmalFmT194ZVl0M2RJb2RjbVk1dU1YUVV4VlprU2lrTlY2aTBIelVPX2NiUElMT1hLVmtB?oc=5)
+### [Câncer de intestino: 6 sintomas que você pode estar ignorando - GMC Online](https://news.google.com/rss/articles/CBMiowFBVV95cUxQX3JqSU5mbThWZFU2VHNSeTJPUWlLeDNzaTltVV9EYkNGc2JLZFJQeXJqOHdvZTJQc0ZXQkVUb2ZickNQRVRHc3lQVXpZeEtCQlVTNXFNQjIzdzI3NEVwQTJ2cUQ0bXA1WkdVVGJWcXRQVUJwLXZvVW53bVZKU0tyUmFsc0pEU3hxQkszc0tSNDBmc0daTTU5YjZ1RTduRHRoeUtn0gGoAUFVX3lxTE9KYUs2cDBtdVFzdzBTZUh4WmRVSW4tUHNDUVVzMVZGcjdhTkdBNl9mZmVSbE1wMWlmUjdPZ1FaUjVTeGFfMVdjU0wzN1RJUHJMOWFEYklYVEhWZ0ZFS0NEeHFZaTlaeWR1QWpsT3FjVFZQNXNkUHF3NjVYSXk1R1lXY3ZuejM4aU1LVTdLRHlQdllPbXhzUkZRaVBhaHJUcDhvM0s5Zk01VQ?oc=5)
 
 2026-11-27 <span class="news-indication-tag">câncer</span>
 
-Fonte: [UOL](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUGNNTXo4ZzNEakljYldJdzBITjRWejJsT0RvNFJrOUw1WTFDZUpsejdQUlB5cGVfMFpkQzIzOGVNMDVJR0FWMWhSR2Z2bkkxZU1pMkV5Y1NTd005VElTQTcwSzdYUmdlV2ZyS1lVblhwS1hEdFlvT3B3WWkzZ1RCY240a3JFOFdSbjJtVmhucDVYVXEyaEpvbERfaG9NVkNmalFmT194ZVl0M2RJb2RjbVk1dU1YUVV4VlprU2lrTlY2aTBIelVPX2NiUElMT1hLVmtB?oc=5)
+Fonte: [GMC Online](https://news.google.com/rss/articles/CBMiowFBVV95cUxQX3JqSU5mbThWZFU2VHNSeTJPUWlLeDNzaTltVV9EYkNGc2JLZFJQeXJqOHdvZTJQc0ZXQkVUb2ZickNQRVRHc3lQVXpZeEtCQlVTNXFNQjIzdzI3NEVwQTJ2cUQ0bXA1WkdVVGJWcXRQVUJwLXZvVW53bVZKU0tyUmFsc0pEU3hxQkszc0tSNDBmc0daTTU5YjZ1RTduRHRoeUtn0gGoAUFVX3lxTE9KYUs2cDBtdVFzdzBTZUh4WmRVSW4tUHNDUVVzMVZGcjdhTkdBNl9mZmVSbE1wMWlmUjdPZ1FaUjVTeGFfMVdjU0wzN1RJUHJMOWFEYklYVEhWZ0ZFS0NEeHFZaTlaeWR1QWpsT3FjVFZQNXNkUHF3NjVYSXk1R1lXY3ZuejM4aU1LVTdLRHlQdllPbXhzUkZRaVBhaHJUcDhvM0s5Zk01VQ?oc=5)
 
 ---
 
@@ -48,9 +48,17 @@ Fonte: [UOL](https://news.google.com/rss/articles/CBMixAFBVV95cUxNQ0dUV3U0VjVZQn
 
 ---
 
-### [Dia Nacional de Combate ao Câncer: 6 alimentos que ajudam a reduzir o risco da doença - O GLOBO](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYUNGWjNmd3RvNlFINmQ4SU9DYmRPOHN0YjFpM2F4ekdZdXpDQjdoQXdrdjd4akZCbVV6akNOM1R1NV9OeXZuZG04Vm9jM3NHdmNxdzlERm40YnBBVF95V004ZF9qbXg4NU1Lc1hzSDgwQm5NNGNtNVJPSkFSOENWUGx1YjRUczBLOXR6NFE2c2dSaEZzTHZZeWYzd3lIbFZuREpMVmItQXNQLUE3MWpBQUwzZFA1NHk3empMMkw1QXcwRm0wVHJicjUxUGxSMUFwTERYeTZJWdIB5gFBVV95cUxQbVMxa3N3MHNjTVMycEpwSTJXZ2ZwR3JSalM2S1FoX2xONFRIVVVpUDM2MmROd2xHOUpQc1EwaF8xdXZhV0dWMzhQQ3ZlZGRtZGRhVXJHUkFRVkpURWVRWmE0QlppTGQtY2xSU05KTjNnUExZU29Ea2ZzM3NEdzdtWWwzVEhvMDRYQWxGNFNsVVQxZGxvUW5ad2pNbWZXYVVNQTdmc2p4eFhvbmNuTVRKanJqdjI2cFp3VG9mN1p4NE1DSDVVY1BCT0gxajlWVkdtT3MyRDV4cm9OOE9rRDVUcEEyMEtMQQ?oc=5)
+### [Do laboratório ao paciente: como a ciência mudou o tratamento do câncer](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUGNNTXo4ZzNEakljYldJdzBITjRWejJsT0RvNFJrOUw1WTFDZUpsejdQUlB5cGVfMFpkQzIzOGVNMDVJR0FWMWhSR2Z2bkkxZU1pMkV5Y1NTd005VElTQTcwSzdYUmdlV2ZyS1lVblhwS1hEdFlvT3B3WWkzZ1RCY240a3JFOFdSbjJtVmhucDVYVXEyaEpvbERfaG9NVkNmalFmT194ZVl0M2RJb2RjbVk1dU1YUVV4VlprU2lrTlY2aTBIelVPX2NiUElMT1hLVmtB?oc=5)
 
 2026-11-27 <span class="news-indication-tag">câncer</span>
+
+Fonte: [UOL](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUGNNTXo4ZzNEakljYldJdzBITjRWejJsT0RvNFJrOUw1WTFDZUpsejdQUlB5cGVfMFpkQzIzOGVNMDVJR0FWMWhSR2Z2bkkxZU1pMkV5Y1NTd005VElTQTcwSzdYUmdlV2ZyS1lVblhwS1hEdFlvT3B3WWkzZ1RCY240a3JFOFdSbjJtVmhucDVYVXEyaEpvbERfaG9NVkNmalFmT194ZVl0M2RJb2RjbVk1dU1YUVV4VlprU2lrTlY2aTBIelVPX2NiUElMT1hLVmtB?oc=5)
+
+---
+
+### [Dia Nacional de Combate ao Câncer: 6 alimentos que ajudam a reduzir o risco da doença - O GLOBO](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYUNGWjNmd3RvNlFINmQ4SU9DYmRPOHN0YjFpM2F4ekdZdXpDQjdoQXdrdjd4akZCbVV6akNOM1R1NV9OeXZuZG04Vm9jM3NHdmNxdzlERm40YnBBVF95V004ZF9qbXg4NU1Lc1hzSDgwQm5NNGNtNVJPSkFSOENWUGx1YjRUczBLOXR6NFE2c2dSaEZzTHZZeWYzd3lIbFZuREpMVmItQXNQLUE3MWpBQUwzZFA1NHk3empMMkw1QXcwRm0wVHJicjUxUGxSMUFwTERYeTZJWdIB5gFBVV95cUxQbVMxa3N3MHNjTVMycEpwSTJXZ2ZwR3JSalM2S1FoX2xONFRIVVVpUDM2MmROd2xHOUpQc1EwaF8xdXZhV0dWMzhQQ3ZlZGRtZGRhVXJHUkFRVkpURWVRWmE0QlppTGQtY2xSU05KTjNnUExZU29Ea2ZzM3NEdzdtWWwzVEhvMDRYQWxGNFNsVVQxZGxvUW5ad2pNbWZXYVVNQTdmc2p4eFhvbmNuTVRKanJqdjI2cFp3VG9mN1p4NE1DSDVVY1BCT0gxajlWVkdtT3MyRDV4cm9OOE9rRDVUcEEyMEtMQQ?oc=5)
+
+2026-11-27 <span class="news-indication-tag">câncer</span> <span class="news-indication-tag">câncer de mama</span>
 
 Fonte: [O GLOBO](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYUNGWjNmd3RvNlFINmQ4SU9DYmRPOHN0YjFpM2F4ekdZdXpDQjdoQXdrdjd4akZCbVV6akNOM1R1NV9OeXZuZG04Vm9jM3NHdmNxdzlERm40YnBBVF95V004ZF9qbXg4NU1Lc1hzSDgwQm5NNGNtNVJPSkFSOENWUGx1YjRUczBLOXR6NFE2c2dSaEZzTHZZeWYzd3lIbFZuREpMVmItQXNQLUE3MWpBQUwzZFA1NHk3empMMkw1QXcwRm0wVHJicjUxUGxSMUFwTERYeTZJWdIB5gFBVV95cUxQbVMxa3N3MHNjTVMycEpwSTJXZ2ZwR3JSalM2S1FoX2xONFRIVVVpUDM2MmROd2xHOUpQc1EwaF8xdXZhV0dWMzhQQ3ZlZGRtZGRhVXJHUkFRVkpURWVRWmE0QlppTGQtY2xSU05KTjNnUExZU29Ea2ZzM3NEdzdtWWwzVEhvMDRYQWxGNFNsVVQxZGxvUW5ad2pNbWZXYVVNQTdmc2p4eFhvbmNuTVRKanJqdjI2cFp3VG9mN1p4NE1DSDVVY1BCT0gxajlWVkdtT3MyRDV4cm9OOE9rRDVUcEEyMEtMQQ?oc=5)
 
@@ -106,7 +114,7 @@ Fonte: [CNN Brasil](https://news.google.com/rss/articles/CBMirwFBVV95cUxOSExoTjZ
 
 ### [Como age o novo medicamento aprovado pela Anvisa para tratar câncer de mama](https://news.google.com/rss/articles/CBMixgFBVV95cUxNQ24zX3ZHalV0MTF6MGZDLVRrTjJGQUZuZlZhMzU5dVZ4UVc4VXR2bmRIOE94V1czVmVrSkdodm83V0VsTXc0Zm1iTXlpbGxKaW95aUd0eVhHbnpORWVWbnV6Nm9GTmVGRHRFa0k3dzQyVndyR3VVdU9jMEVnanIxUXQ0TWg1LWtkaUItbWlkekoxaTU1cWJEcTU5SmNFVTNwazFXNTR0LTRBTjE3YVdNT3NFMEdqVmJ6N2ctTTRmWEFMSDdxeHfSAdQBQVVfeXFMTUk3VDRwSFRubHhrYWo2LW56emVGeC1wRWszVkU2bElnd0tjMW5QQS15eXg0bTA4ZHdKblVCV0tDT0prdS1kRUR1Mm0xZEItTVJYbC1SS0lMTkZ6Ny1pYkJhUzdMQUxOMzlUaUU4OHVFZGV0LVlLTHRpOEtwVDZfNVUxRWNnc0pQT3ZMU19CTXphNnlWLThUNjhlOHF2WEo2Mm9lRlZjY1pkZkFTa2lRMVlsdC1xeEktSlVzZ2k3NUJuTlVtZ0lqcVhuNTYyNzlDZlJDRHA?oc=5)
 
-2026-11-25 <span class="news-indication-tag">câncer</span> <span class="news-indication-tag">câncer de mama</span>
+2026-11-25 <span class="news-drug-tag">PERTUZUMABE</span> <span class="news-indication-tag">câncer</span> <span class="news-indication-tag">câncer de mama</span>
 
 Fonte: [G1](https://news.google.com/rss/articles/CBMixgFBVV95cUxNQ24zX3ZHalV0MTF6MGZDLVRrTjJGQUZuZlZhMzU5dVZ4UVc4VXR2bmRIOE94V1czVmVrSkdodm83V0VsTXc0Zm1iTXlpbGxKaW95aUd0eVhHbnpORWVWbnV6Nm9GTmVGRHRFa0k3dzQyVndyR3VVdU9jMEVnanIxUXQ0TWg1LWtkaUItbWlkekoxaTU1cWJEcTU5SmNFVTNwazFXNTR0LTRBTjE3YVdNT3NFMEdqVmJ6N2ctTTRmWEFMSDdxeHfSAdQBQVVfeXFMTUk3VDRwSFRubHhrYWo2LW56emVGeC1wRWszVkU2bElnd0tjMW5QQS15eXg0bTA4ZHdKblVCV0tDT0prdS1kRUR1Mm0xZEItTVJYbC1SS0lMTkZ6Ny1pYkJhUzdMQUxOMzlUaUU4OHVFZGV0LVlLTHRpOEtwVDZfNVUxRWNnc0pQT3ZMU19CTXphNnlWLThUNjhlOHF2WEo2Mm9lRlZjY1pkZkFTa2lRMVlsdC1xeEktSlVzZ2k3NUJuTlVtZ0lqcVhuNTYyNzlDZlJDRHA?oc=5)
 

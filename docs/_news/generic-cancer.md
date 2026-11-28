@@ -3,9 +3,9 @@ layout: default
 title: "Notícias sobre câncer (generic_cancer)"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre câncer (generic_cancer). 109 notícias, 93 medicamentos relacionados."
+description: "Notícias de saúde sobre câncer (generic_cancer). 110 notícias, 93 medicamentos relacionados."
 permalink: /news/generic-cancer/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
 # Notícias sobre câncer (generic_cancer)
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre câncer (generic_cancer)?">
-<strong>câncer (generic_cancer)</strong> tem atualmente <strong>109 notícias</strong> e 93 medicamentos relacionados.
+<strong>câncer (generic_cancer)</strong> tem atualmente <strong>110 notícias</strong> e 93 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
@@ -119,13 +119,13 @@ Esta página reúne as notícias de saúde mais recentes sobre «câncer» e lis
 </ul>
 </div>
 
-## Notícias relacionadas (109)
+## Notícias relacionadas (110)
 
-### [Do laboratório ao paciente: como a ciência mudou o tratamento do câncer](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUGNNTXo4ZzNEakljYldJdzBITjRWejJsT0RvNFJrOUw1WTFDZUpsejdQUlB5cGVfMFpkQzIzOGVNMDVJR0FWMWhSR2Z2bkkxZU1pMkV5Y1NTd005VElTQTcwSzdYUmdlV2ZyS1lVblhwS1hEdFlvT3B3WWkzZ1RCY240a3JFOFdSbjJtVmhucDVYVXEyaEpvbERfaG9NVkNmalFmT194ZVl0M2RJb2RjbVk1dU1YUVV4VlprU2lrTlY2aTBIelVPX2NiUElMT1hLVmtB?oc=5)
+### [Câncer de intestino: 6 sintomas que você pode estar ignorando - GMC Online](https://news.google.com/rss/articles/CBMiowFBVV95cUxQX3JqSU5mbThWZFU2VHNSeTJPUWlLeDNzaTltVV9EYkNGc2JLZFJQeXJqOHdvZTJQc0ZXQkVUb2ZickNQRVRHc3lQVXpZeEtCQlVTNXFNQjIzdzI3NEVwQTJ2cUQ0bXA1WkdVVGJWcXRQVUJwLXZvVW53bVZKU0tyUmFsc0pEU3hxQkszc0tSNDBmc0daTTU5YjZ1RTduRHRoeUtn0gGoAUFVX3lxTE9KYUs2cDBtdVFzdzBTZUh4WmRVSW4tUHNDUVVzMVZGcjdhTkdBNl9mZmVSbE1wMWlmUjdPZ1FaUjVTeGFfMVdjU0wzN1RJUHJMOWFEYklYVEhWZ0ZFS0NEeHFZaTlaeWR1QWpsT3FjVFZQNXNkUHF3NjVYSXk1R1lXY3ZuejM4aU1LVTdLRHlQdllPbXhzUkZRaVBhaHJUcDhvM0s5Zk01VQ?oc=5)
 
 2026-11-27
 
-Fonte: [UOL](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUGNNTXo4ZzNEakljYldJdzBITjRWejJsT0RvNFJrOUw1WTFDZUpsejdQUlB5cGVfMFpkQzIzOGVNMDVJR0FWMWhSR2Z2bkkxZU1pMkV5Y1NTd005VElTQTcwSzdYUmdlV2ZyS1lVblhwS1hEdFlvT3B3WWkzZ1RCY240a3JFOFdSbjJtVmhucDVYVXEyaEpvbERfaG9NVkNmalFmT194ZVl0M2RJb2RjbVk1dU1YUVV4VlprU2lrTlY2aTBIelVPX2NiUElMT1hLVmtB?oc=5)
+Fonte: [GMC Online](https://news.google.com/rss/articles/CBMiowFBVV95cUxQX3JqSU5mbThWZFU2VHNSeTJPUWlLeDNzaTltVV9EYkNGc2JLZFJQeXJqOHdvZTJQc0ZXQkVUb2ZickNQRVRHc3lQVXpZeEtCQlVTNXFNQjIzdzI3NEVwQTJ2cUQ0bXA1WkdVVGJWcXRQVUJwLXZvVW53bVZKU0tyUmFsc0pEU3hxQkszc0tSNDBmc0daTTU5YjZ1RTduRHRoeUtn0gGoAUFVX3lxTE9KYUs2cDBtdVFzdzBTZUh4WmRVSW4tUHNDUVVzMVZGcjdhTkdBNl9mZmVSbE1wMWlmUjdPZ1FaUjVTeGFfMVdjU0wzN1RJUHJMOWFEYklYVEhWZ0ZFS0NEeHFZaTlaeWR1QWpsT3FjVFZQNXNkUHF3NjVYSXk1R1lXY3ZuejM4aU1LVTdLRHlQdllPbXhzUkZRaVBhaHJUcDhvM0s5Zk01VQ?oc=5)
 
 ---
 
@@ -134,6 +134,14 @@ Fonte: [UOL](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUGNNTXo4ZzNEak
 2026-11-27
 
 Fonte: [UOL](https://news.google.com/rss/articles/CBMixAFBVV95cUxNQ0dUV3U0VjVZQnFwM2JFQ09Ec01XXzFnLS0zZlZHdzJvUWJhV1BPWG1aVGpHUWNINlVZRlJJNkJEbktXLUZ4TG51XzBhX2kwZlBGMWFzNldNMnEycWJmSEt3WURwSldsWTV1Y25SUlJMcXdqOFoxSjZwU1FudFg5Zkp2WFVNQ3lKTjhQT3FvWmNmYlp4cEMtRGtKdl9oU1o2OXJwZFEydG42b3ZSMkswYlpXcGhYX2ZCYU1vQlM3ODlZQVQx?oc=5)
+
+---
+
+### [Do laboratório ao paciente: como a ciência mudou o tratamento do câncer](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUGNNTXo4ZzNEakljYldJdzBITjRWejJsT0RvNFJrOUw1WTFDZUpsejdQUlB5cGVfMFpkQzIzOGVNMDVJR0FWMWhSR2Z2bkkxZU1pMkV5Y1NTd005VElTQTcwSzdYUmdlV2ZyS1lVblhwS1hEdFlvT3B3WWkzZ1RCY240a3JFOFdSbjJtVmhucDVYVXEyaEpvbERfaG9NVkNmalFmT194ZVl0M2RJb2RjbVk1dU1YUVV4VlprU2lrTlY2aTBIelVPX2NiUElMT1hLVmtB?oc=5)
+
+2026-11-27
+
+Fonte: [UOL](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUGNNTXo4ZzNEakljYldJdzBITjRWejJsT0RvNFJrOUw1WTFDZUpsejdQUlB5cGVfMFpkQzIzOGVNMDVJR0FWMWhSR2Z2bkkxZU1pMkV5Y1NTd005VElTQTcwSzdYUmdlV2ZyS1lVblhwS1hEdFlvT3B3WWkzZ1RCY240a3JFOFdSbjJtVmhucDVYVXEyaEpvbERfaG9NVkNmalFmT194ZVl0M2RJb2RjbVk1dU1YUVV4VlprU2lrTlY2aTBIelVPX2NiUElMT1hLVmtB?oc=5)
 
 ---
 

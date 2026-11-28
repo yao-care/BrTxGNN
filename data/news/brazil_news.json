@@ -1,10 +1,46 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-11-27T20:48:13.215407+00:00",
-  "total_fetched": 97,
-  "unique_count": 95,
+  "fetched_at": "2026-11-28T06:48:49.435059+00:00",
+  "total_fetched": 88,
+  "unique_count": 86,
   "health_related_count": 38,
   "news": [
+    {
+      "id": "db2b3803b415",
+      "title": "SES confirma segundo caso de Mpox em 2026, em morador de Cuiabá - Midia Jur",
+      "published": "2026-11-27T21:09:00+00:00",
+      "summary": "SES confirma segundo caso de Mpox em 2026, em morador de Cuiabá&nbsp;&nbsp;Midia JurSegundo caso de mpox é confirmado em MT; sete estão em investigação&nbsp;&nbsp;G1Secretaria de Saúde confirma primeiro caso de mpox em Rondonópolis&nbsp;&nbsp;Prefeitura de RondonópolisMT confirma primeiro caso de Mpox; paciente é morador de Rondonópolis&nbsp;&nbsp;MOMENTO MTMT registra primeiro caso de Mpox, conhecida como varíola dos macacos&nbsp;&nbsp;VG Notícias",
+      "sources": [
+        {
+          "name": "Midia Jur",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeVVSeDA4aTNiV1EyV3hKaFhkUGdsSkIxc2VMSWU4eU1mSGZJOG5TUi02MWNPNjAzRWc3Y1JNYVRfMHlKOHd3N1V6X2F0UVJlRjRHQlpOTUtrbXBweW1YaDAtTk85Ui1HcW9mLWFqbXBIWkcxYnZOOW1oZkNPS19NbDRlUDl2ekd6WTByaWFpM2FJSTBxd2hzQUlJay05bG1hMDAwNA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "268eb4583bf0",
+      "title": "Mpox dispara e novembro tem mais casos do que todos os outros meses juntos - CNN Brasil",
+      "published": "2026-11-27T20:48:55+00:00",
+      "summary": "Mpox dispara e novembro tem mais casos do que todos os outros meses juntos&nbsp;&nbsp;CNN BrasilPor que o Brasil vive surto de mpox? O que se sabe — e o que não se sabe — sobre os novos casos da doença&nbsp;&nbsp;BBCDF recebe 250 doses de vacina contra mpox; número de casos chega a 78&nbsp;&nbsp;MetrópolesSaúde reforça orientações de prevenção contra a Mpox&nbsp;&nbsp;Prefeitura Municipal de MacaéMpox: saiba como ocorre a transmissão e quando procurar atendimento&nbsp;&nbsp;Governo do Estado do ",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcnd2VDVqenFmWU04TWVhbHVrSGk0MXIwNGZjXzdkdXVkaEUyMDdvR01UOUNKb2pzaElpcTlwZUFDNjhaUVNBUlVvRnhxcmx3cmNMM09jQ0ZJeVZrZGRqNmE1cGJfbGNRam95eE9TZm1leDJKVXkyajE2UVBqN0pEREp3bjgtM0ltR1ZRS01QQ2w5bnJmbXJ6YUxrU092eEtPd1NhYnVFUUtVejJwcGZv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "464a0039248b",
+      "title": "Rãzinha com som de motor ganha destaque em pesquisa científica internacional - Primeira Página",
+      "published": "2026-11-27T19:20:08+00:00",
+      "summary": "Rãzinha com som de motor ganha destaque em pesquisa científica internacional&nbsp;&nbsp;Primeira Página",
+      "sources": [
+        {
+          "name": "Primeira Página",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQ1dGaDNOLUVEb19SR1VtMHJfODB5UjllWHJoSVVNOERsQjhaNThabU5sbTlFUll0MEJKNHNxVF9FRE1Yb1ZocG1aRm1qV1UyWHhCd09IaTZIY056UTgtRkhFMGZ6VUJ2eU00cjlrZ2JJc0p1ZkpIVndpNm9hajJsck9iSnUyblg1V1pGQjdGV0phV2tzV0ZNTE5ZZVBaR3RVWldIQ29saXBLTlYxbkVxOUhXcVQxdVFraWc5Yy1aT09CQUE1aHBZbVJOcTRSYmpHc2RacVFpdVRpZ0dteW1uSU45UmtzeUhF?oc=5"
+        }
+      ]
+    },
     {
       "id": "e5a5c86ec7df",
       "title": "Exercício no trabalho x lazer: esforço físico profissional parece elevar risco de demência - UOL",
@@ -14,6 +50,18 @@
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOEEzNmJTY1dkaWlOUkpaT2l1SDg1eTBjdlNMYjJ1ZUhDUWp4UG5XeUM2NzJ0ekRYWHR4YS1oNFp3cUp2eUJEMzFkRjZObTZfYVNSNk1TNElVckl0bFZaemlDUC1GRmg5T0V0SzVDeU5QWDk4eTRBWU5RQkhZMXpEejNlRUZXajF0djh0TFRHdDdJeVhjYmwxMmg1M2JNbkR5ajM1VWtudnlrUnd5ODF0cmM0UjROYkVpLTBidElqaFFleWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cccdf5e51e7a",
+      "title": "Depressão na menopausa e na menstruação segundo a psicologia - Rádio Itatiaia",
+      "published": "2026-11-27T16:25:23+00:00",
+      "summary": "Depressão na menopausa e na menstruação segundo a psicologia&nbsp;&nbsp;Rádio Itatiaia",
+      "sources": [
+        {
+          "name": "Rádio Itatiaia",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOWwzc1U4RzFEekF4TDU1bTRDMjFYT0tWZzRyS2FEZGhlTjNydG5nZ25IbHZfQlJHMXVRT2xJaDRBOE9IN2ZwbjloZlBIRjhFb3hHcmJrX1o1b0JTYzhSZnZCejVia28zejJ5UUdNVDZTTlI2YWVKTWJiczRMa2YwalJPUVJBYWN2Q1AwNVppX29vR3FfRU1qRHZ3d3o?oc=5"
         }
       ]
     },
@@ -30,14 +78,38 @@
       ]
     },
     {
-      "id": "07cbc57d04db",
-      "title": "Do laboratório ao paciente: como a ciência mudou o tratamento do câncer - UOL",
-      "published": "2026-11-27T13:29:00+00:00",
-      "summary": "Do laboratório ao paciente: como a ciência mudou o tratamento do câncer&nbsp;&nbsp;UOLVeja mais manchetes e perspectivas no Google Notícias",
+      "id": "dbd0f5c399f3",
+      "title": "Como pesquisa de brasileiro feita no espaço pode ajudar a entender o Alzheimer - Globo",
+      "published": "2026-11-27T14:45:13+00:00",
+      "summary": "Como pesquisa de brasileiro feita no espaço pode ajudar a entender o Alzheimer&nbsp;&nbsp;Globo",
       "sources": [
         {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUGNNTXo4ZzNEakljYldJdzBITjRWejJsT0RvNFJrOUw1WTFDZUpsejdQUlB5cGVfMFpkQzIzOGVNMDVJR0FWMWhSR2Z2bkkxZU1pMkV5Y1NTd005VElTQTcwSzdYUmdlV2ZyS1lVblhwS1hEdFlvT3B3WWkzZ1RCY240a3JFOFdSbjJtVmhucDVYVXEyaEpvbERfaG9NVkNmalFmT194ZVl0M2RJb2RjbVk1dU1YUVV4VlprU2lrTlY2aTBIelVPX2NiUElMT1hLVmtB?oc=5"
+          "name": "Globo",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVDAwdnkyUGhBdnVFTm8yYVFWemEzMEZ0QW41dkpFWDFSN1BSbnQ4eFNHM2kxc1lVeXlEUVJLN3pzdUpXRkd1Mk9aRjBLSXhqVDM2a0dHc3BWcGNCNnY3TklIMTJ0QXByRjlWSnZFeWZCbS1fNW5RN3NtOWtlU1BCQmNhMUZnd0RYaFJVcU1jbVFqUjVzTFpvMEdwZDRoeGhXbF94QXY5R1FUdy1pZ1JkUE1hdW5GOExaY1l3ZXV3TUxsVzZsQjlTdlllWmJ0RHRZ0gHfAUFVX3lxTFAzVURrMEZqQ1ZjYno2ZnlTeUtGMTh5c1Z2ajdMY3RORzhrOHpETFZtdlNYemtFTGZXTF94bFQwOGE4WEhYRWxxMWFrejdLdmdEcFR3YTBTWmNBTk52U1J4ZlF6MHNXZ1VOMi1DaEZmVDBzb2VWeEE3aEVLQ00tV1YyRV9yM212d1FLTDdaUlFhSXhHak1sZlNxM2VHQnk4Q1MtRHdOd21wUW85V1ppY2RZYWYydTlRRVJ3NjBsbFRSWE5VOWhoX1JyTVBYOUJkZm1VQzUxN2NaVVlXSUtPdzg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "99d316319153",
+      "title": "Câncer de intestino: 6 sintomas que você pode estar ignorando - GMC Online",
+      "published": "2026-11-27T13:16:00+00:00",
+      "summary": "Câncer de intestino: 6 sintomas que você pode estar ignorando&nbsp;&nbsp;GMC OnlineSUS disponibilizará testes para ampliar diagnóstico de câncer de intestino em pessoas entre 50 e 75 anos&nbsp;&nbsp;Jornal da USPCasos de câncer de intestino e de ovário estão aumentando entre adultos jovens&nbsp;&nbsp;TerraCâncer antes dos 50: por que os casos aumentam entre jovens e quais sinais não ignorar&nbsp;&nbsp;BHAZSUS terá medicamentos para 13 tipos de câncer e teste de intestino para uso em casa&nbsp;&n",
+      "sources": [
+        {
+          "name": "GMC Online",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX3JqSU5mbThWZFU2VHNSeTJPUWlLeDNzaTltVV9EYkNGc2JLZFJQeXJqOHdvZTJQc0ZXQkVUb2ZickNQRVRHc3lQVXpZeEtCQlVTNXFNQjIzdzI3NEVwQTJ2cUQ0bXA1WkdVVGJWcXRQVUJwLXZvVW53bVZKU0tyUmFsc0pEU3hxQkszc0tSNDBmc0daTTU5YjZ1RTduRHRoeUtn0gGoAUFVX3lxTE9KYUs2cDBtdVFzdzBTZUh4WmRVSW4tUHNDUVVzMVZGcjdhTkdBNl9mZmVSbE1wMWlmUjdPZ1FaUjVTeGFfMVdjU0wzN1RJUHJMOWFEYklYVEhWZ0ZFS0NEeHFZaTlaeWR1QWpsT3FjVFZQNXNkUHF3NjVYSXk1R1lXY3ZuejM4aU1LVTdLRHlQdllPbXhzUkZRaVBhaHJUcDhvM0s5Zk01VQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "566fce4c23c3",
+      "title": "As recentes descobertas de exoplanetas feitas por astrônomos com ajuda da IA - VEJA",
+      "published": "2026-11-27T10:00:12+00:00",
+      "summary": "As recentes descobertas de exoplanetas feitas por astrônomos com ajuda da IA&nbsp;&nbsp;VEJA",
+      "sources": [
+        {
+          "name": "VEJA",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOEI4YkRSSWowV0tCUzBMLXBVRG1DWHA5c255eGgzaThXMGJDYWp1QmJ3YzMzRHl2LWQ1WTREUXVXY1NSLU5GTE1yLU9Ka2JEZnVwVzFUNWNpVkRwTXFrRGRaVFB1aU9nNzByQVdoOVUxYTJ0NngtTFRpYTFxc0Fwa0ZZc2o0cjdyVkZ6bmlwZ25iRWlucWxiLVFBdUVyeWczaVlHREpPLXgxMnVnVUxTUg?oc=5"
         }
       ]
     },
@@ -54,10 +126,22 @@
       ]
     },
     {
+      "id": "07cbc57d04db",
+      "title": "Do laboratório ao paciente: como a ciência mudou o tratamento do câncer - UOL",
+      "published": "2026-11-27T08:29:00+00:00",
+      "summary": "Do laboratório ao paciente: como a ciência mudou o tratamento do câncer&nbsp;&nbsp;UOLVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUGNNTXo4ZzNEakljYldJdzBITjRWejJsT0RvNFJrOUw1WTFDZUpsejdQUlB5cGVfMFpkQzIzOGVNMDVJR0FWMWhSR2Z2bkkxZU1pMkV5Y1NTd005VElTQTcwSzdYUmdlV2ZyS1lVblhwS1hEdFlvT3B3WWkzZ1RCY240a3JFOFdSbjJtVmhucDVYVXEyaEpvbERfaG9NVkNmalFmT194ZVl0M2RJb2RjbVk1dU1YUVV4VlprU2lrTlY2aTBIelVPX2NiUElMT1hLVmtB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f0a3032f8a11",
       "title": "Dia Nacional de Combate ao Câncer: 6 alimentos que ajudam a reduzir o risco da doença - O GLOBO",
       "published": "2026-11-27T07:30:00+00:00",
-      "summary": "Dia Nacional de Combate ao Câncer: 6 alimentos que ajudam a reduzir o risco da doença&nbsp;&nbsp;O GLOBOEstado reforça prevenção ao câncer e registra quase 70 mil consultas especializadas no CEPON este ano&nbsp;&nbsp;Governo de Santa CatarinaCâncer pode ser prevenido com mudanças de hábitos e vacinação, alerta oncologista&nbsp;&nbsp;CBN RibeirãoCâncer no Brasil em 2026, diagnóstico e tratamento no SUS&nbsp;&nbsp;Revista NewslabO câncer não tem calendário. A informação também não deveria ter&nbsp",
+      "summary": "Dia Nacional de Combate ao Câncer: 6 alimentos que ajudam a reduzir o risco da doença&nbsp;&nbsp;O GLOBODia Nacional de Luta contra o Câncer de Mama: conheça histórias de cuidado, acolhimento e esperança&nbsp;&nbsp;GAZDo diagnóstico do câncer à proteção financeira&nbsp;&nbsp;Tribuna HojeEstado reforça prevenção ao câncer e registra quase 70 mil consultas especializadas no CEPON este ano&nbsp;&nbsp;Governo de Santa CatarinaO câncer não tem calendário. A informação também não deveria ter&nbsp;&nbs",
       "sources": [
         {
           "name": "O GLOBO",
@@ -69,7 +153,7 @@
       "id": "4efd9f78c722",
       "title": "Datafolha: 58% dos brasileiros não utilizam protetor facial diariamente; entenda os riscos e o que é recomendado - O GLOBO",
       "published": "2026-11-27T07:30:00+00:00",
-      "summary": "Datafolha: 58% dos brasileiros não utilizam protetor facial diariamente; entenda os riscos e o que é recomendado&nbsp;&nbsp;O GLOBOBrasileiros sabem que sol causa câncer de pele, mas 72% não passam protetor&nbsp;&nbsp;UOL NotíciasLula, Bob Marley e a armadilha do câncer de pele: por que ele ataca áreas protegidas do sol&nbsp;&nbsp;bra1.com.brPergunte ao Especialista: quais as suas dúvidas sobre câncer de pele?&nbsp;&nbsp;GZHPequenos cuidados, grandes resultados para a saúde da pele&nbsp;&nbsp;Po",
+      "summary": "Datafolha: 58% dos brasileiros não utilizam protetor facial diariamente; entenda os riscos e o que é recomendado&nbsp;&nbsp;O GLOBOBrasileiros sabem que sol causa câncer de pele, mas 72% não passam protetor&nbsp;&nbsp;UOL NotíciasMaioria dos brasileiros não usa protetor solar facial todos os dias; conheça os riscos&nbsp;&nbsp;TerraCâncer de pele: ultrassom dermatológico pode complementar a avaliação&nbsp;&nbsp;Estado de MinasPergunte ao Especialista: quais as suas dúvidas sobre câncer de pele?&n",
       "sources": [
         {
           "name": "O GLOBO",
@@ -78,14 +162,14 @@
       ]
     },
     {
-      "id": "a6e1d66a50e9",
-      "title": "FDA aprova primeiro remédio novo em 20 anos para câncer de mama em fase inicial; preço pode chegar a R$ 120 mil por mês - G1",
-      "published": "2026-11-27T07:00:00+00:00",
-      "summary": "FDA aprova primeiro remédio novo em 20 anos para câncer de mama em fase inicial; preço pode chegar a R$ 120 mil por mês&nbsp;&nbsp;G1Após duas décadas, EUA aprovam novo tratamento hormonal para câncer de mama&nbsp;&nbsp;MetrópolesCientistas desenvolvem novo comprimido que reduz o risco de retorno do câncer de mama&nbsp;&nbsp;Exame27/11/2026 | Giredestrant, hemodiafiltração e Alzheimer&nbsp;&nbsp;Afya | HomePrimeiro remédio para câncer de mama em fase inicial é aprovado nos EUA&nbsp;&nbsp;CNN Bra",
+      "id": "ae3ac60c6cb4",
+      "title": "Mulher sofre dois infartos após tomar bebidas geladas rapidamente; entenda - O GLOBO",
+      "published": "2026-11-27T06:00:00+00:00",
+      "summary": "Mulher sofre dois infartos após tomar bebidas geladas rapidamente; entenda&nbsp;&nbsp;O GLOBOInfarto após tomar bebida gelada? Entenda caso descrito na Califórnia&nbsp;&nbsp;Assine AbrilRelato de caso nos EUA sugere que bebida gelada pode romper artéria do coração&nbsp;&nbsp;O CafezinhoMulher teve dois infartos após ingerir bebidas geladas; estudo investiga possível relação&nbsp;&nbsp;Diário do Centro do Mundo",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZEQyRm5KQkRiSk5uc1JuUzNVcFNGS1ZDQVp0dXgxZzhpMUxhaW82UGI3N3VjakVMejJpZFQ0Nk9zWGZlbm94NzFXdldpSmNiZUozRkdpaVRZVDdxUGg5dndhMWl2ZDlySlNvckJtcGlZWkRrTzBvV2wtSFhzZzZyUkE4dDJ0Rnp3RnlnRDlwdVE0aFhQcEdrLUY5WmQyZjFkTVNRXzlRZE4yM1Q0aElIZEdSbVNnVjBMN2hWbnVnRkxzaExCallhUU1Yby1zVXMwLXQyWFFFZndBZ0tLbHRvT1hvaVJ5MWxwRzJYdTlqcUNFeGJHdUQ0NHJHd0tBZ9IBjAJBVV95cUxQS2JXcmdWZlNHR0xxbXh2SnEycHpZTWxoOW1ielJhTmxwYzFHLUNUOEJMc2JuT01ub29ZcldVY3hZVUV1X09kU1Qtd0o1alozRVBobzVuMHpBazBzdXhpZkRPVmNremh3VDF6ekJEXzhyaXhCenNMM0VrcUJxVWZZWHUzTFpMSUNWWU41djdMRWstMENJWU84QnF4RXBQMlRIRmRweTI2X3NwS3RWMVFjWjA0UGpBbll3SVFWeUE4eFF0bTB3c1RPQk1JcTkwLUZWdmMwcFNjS09OSExESVduZlVrMm9sY2o0Q2lQTkRWMEUxbkt0emJDMkhsZjBEdEJXTzNWMDFEN3ZOS1VR?oc=5"
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZnlGbjU4eWNPSVpYb2J4dEZEVVByNE5wN0pMRzhiUkNDZTNDcTNPdFMyaTRUaXkxOXZkaVk5X1psUE1WX2hJMUhwOXllTzFPY3pjX3BqQklINTVsdWhxRkN3VEdlVlNwMU5DOUJod1V3RTJESGYteG8tWGJlTU04Y1lrMkNNY09oYWl5TW5FVWtnNVRxRmJ2elhLeUtqRUJ1YmNEd3o4LVZEdGN2Zll6YkxlM0VlZDBqOUszWHlBOFFfN2pURTJYbtIB1wFBVV95cUxPcmxtOEcwSEV4VTRqZzBQcnc0QTBzSnRYUEprWVoyY2plbDFjOVh4RVRKc05pY3VTYVdaLWoxVjNtRW9ld3ZINkNvRjgtMnM0bHZaclRRZnZHbE5ibGtvbmM2amFnNGIyOXRSVnd6SWFNOWhybjVEUmJDUktTc2tLNDktdWM4dmNxdFN1eTRyaHlXdXBEN2E1cDFJUzUxZVdJazVUdGp1TmJIT1Q3X1ZPS2U5dXRFTGNBb2tSSWJEY0xJWlByQVBqRWVvaDdTZXpQMWlyNnZZdw?oc=5"
         }
       ]
     },
@@ -102,14 +186,14 @@
       ]
     },
     {
-      "id": "e2282753f677",
-      "title": "Experimento realizado no espaço pode ajudar a detectar sinais precoces do Alzheimer; pesquisa tem participação da Nasa e de pesquisadores brasileiros - CNN Brasil",
-      "published": "2026-11-26T23:03:46+00:00",
-      "summary": "Experimento realizado no espaço pode ajudar a detectar sinais precoces do Alzheimer; pesquisa tem participação da Nasa e de pesquisadores brasileiros&nbsp;&nbsp;CNN Brasil",
+      "id": "1dc440279948",
+      "title": "O que ocorre no intestino de quem toma café regularmente - Folha de S.Paulo",
+      "published": "2026-11-26T23:40:00+00:00",
+      "summary": "O que ocorre no intestino de quem toma café regularmente&nbsp;&nbsp;Folha de S.PauloCafé é mais benéfico para homens do que mulheres? O que diz estudo sul-coreano com 44 mil participantes&nbsp;&nbsp;VEJACafé pode fazer bem ao coração? Veja o que acontece com o organismo com o consumo frequente da bebida&nbsp;&nbsp;Rádio ItatiaiaCafé diário provoca mudanças no funcionamento do intestino&nbsp;&nbsp;Jornal Correio do BrasilConsumo excessivo de café acende alerta: 26% dos brasileiros tomaram mais de",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPNURieG9seDVfMURON1BGQUVQZDB5blhLTGlzTHBBbEtmb2JsNlc1WENZcjBldnRacm1aT0JnMXhLNUU2UGxQSHZBZ0NqNUxsSU1MQ1ZRVW85RzktUG96MU5fTmpqeWo2bW5GTENaTE1qT2NBRFJfaERGMXp4aEZlY3ByUWdBaFY0RktpY1QwMWNYYm5LMGpuUURYcGtWTEVkS2FnQWNzdTBvcTVxcTVUUkhRSDFpaXBLZGt5blFRbExaOFpVam1RVTk4enc3Vlp4cE9GYXlFOHpQcDVjRzRiZ2szQ3I2a3VtOEZyT0NoaUFRMGlaejVjMUl4bDdTZVoyblBZMkhUS3lFUlpBbkVkamhZNzI?oc=5"
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdElaZ19Hc3VGU2dhT1p4elZpVnJhamtTY194NXBUbzQ2SzlVNlJtS3M0enl1djJnLWJLc3R2NmdjNVZ3RDgwLUhGYmtyMVR2UEMzRXV1ZnRDYmZfMkNrWW1UNkNEcUVycEQyZG85ZGtlZ3JGaVdTYnVtUzBlRGVRSW91MW5tYzVpeU9VTGpfOXlfNTNBVm9qdXpzUTZ3dHdiM2M0RWJLblN4elp0LU1CWQ?oc=5"
         }
       ]
     },
@@ -117,7 +201,7 @@
       "id": "9d033d9b594d",
       "title": "Vinte cidades do Ceará já confirmaram casos de Mpox; veja lista - Diário do Nordeste",
       "published": "2026-11-26T21:37:00+00:00",
-      "summary": "Vinte cidades do Ceará já confirmaram casos de Mpox; veja lista&nbsp;&nbsp;Diário do NordesteSaiba como identificar e prevenir a transmissão da mpox&nbsp;&nbsp;TV Brasil |Mais de 220 casos de MPOX confirmados no Ceará&nbsp;&nbsp;G1Ceará chega a 188 casos de mpox confirmados; 84% em Fortaleza&nbsp;&nbsp;O POVOMpox: Prefeitura de Fortaleza orienta sobre sintomas, atendimento e critérios para vacinação&nbsp;&nbsp;Prefeitura de Fortaleza",
+      "summary": "Vinte cidades do Ceará já confirmaram casos de Mpox; veja lista&nbsp;&nbsp;Diário do NordesteSaiba como identificar e prevenir a transmissão da mpox&nbsp;&nbsp;TV Brasil |Mais de 220 casos de MPOX confirmados no Ceará&nbsp;&nbsp;G1Mpox: Prefeitura de Fortaleza orienta sobre sintomas, atendimento e critérios para vacinação&nbsp;&nbsp;Prefeitura de FortalezaCeará registra 77 novos casos de mpox em uma semana; total chega a 252&nbsp;&nbsp;O POVO",
       "sources": [
         {
           "name": "Diário do Nordeste",
@@ -129,23 +213,11 @@
       "id": "258cbbe66273",
       "title": "Mpox: Piauí confirma mais dois casos e chega a quatro registros em 2026 - CidadeVerde.com",
       "published": "2026-11-26T21:12:00+00:00",
-      "summary": "Mpox: Piauí confirma mais dois casos e chega a quatro registros em 2026&nbsp;&nbsp;CidadeVerde.comQuatro casos confirmados de Mpox são de Teresina; saiba como se prevenir&nbsp;&nbsp;G1Secretaria de Saúde do Piauí confirma dois casos de Mpox em Teresina&nbsp;&nbsp;Portal Clube NewsPrefeitura reforça vigilância epidemiológica da Mpox após confirmação de quatro casos em Teresina&nbsp;&nbsp;Fundação Municipal de Saúde de TeresinaSesapi orienta a população sobre prevenção e cuidados contra a Mpox no ",
+      "summary": "Mpox: Piauí confirma mais dois casos e chega a quatro registros em 2026&nbsp;&nbsp;CidadeVerde.comQuatro casos confirmados de Mpox são de Teresina; saiba como se prevenir&nbsp;&nbsp;G1Secretaria de Saúde do Piauí confirma dois casos de Mpox em Teresina&nbsp;&nbsp;Portal Clube NewsPiauí tem 4 casos confirmados de Mpox e 9 suspeitos&nbsp;&nbsp;GP1Teresina registra 11 notificações de Mpox e intensifica vigilância após quatro casos confirmados&nbsp;&nbsp;Portal O Dia",
       "sources": [
         {
           "name": "CidadeVerde.com",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTFAwUWZ0MVhUV1ZvMmR1NUdZbUR0MzVTUHkwdExpMXhhZ3RibFlvanlGYU4yRjR1OUxUeFpBRG9CS3FRNUpkNDhhZU5FWTNlU3NxcG91Sm13blFCN1NFN2xTY0xUam9rblhDdm52LVY5TXVXTVpLSDUwTmRqNGMyTE5VcHR6YTlaSm96akpyZHBldkkyeTlVWVBjcWpHUVJoRFVaQUQzMnpEUUxMc0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "74fadc5f0b04",
-      "title": "Primeiro caso de mpox é confirmado em Rondonópolis (MT) - G1",
-      "published": "2026-11-26T20:15:24+00:00",
-      "summary": "Primeiro caso de mpox é confirmado em Rondonópolis (MT)&nbsp;&nbsp;G1Secretaria de saúde de Rondonópolis confirma primeiro caso de MPOX&nbsp;&nbsp;G1Secretaria de Saúde confirma primeiro caso de mpox em Rondonópolis&nbsp;&nbsp;Prefeitura de RondonópolisMorador de Rondonópolis é primeiro paciente infectado pela Mpox no Estado&nbsp;&nbsp;Gazeta DigitalMT registra primeiro caso de Mpox, conhecida como varíola dos macacos&nbsp;&nbsp;VG Notícias",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUlZPYzRsZnRFQV9WZHJkaWJEMlRHSmhVOXdvWFItZlJwMXhySGRvYWpsU0pRSUFvVDBzbU5KcTctUU94X0tmYkw4clpFbmljOTZEUmU4QktMUU9SeHpKZ3VOOGpsbkJZaVBVRngzdkV4SGtiZ0tlUVpJS2VDNTB4WWNSRF9MM042WU1BSHVwMWQ5YWd0WWJUVUZxQmNXanZMVXZ0XzMzUFM1QWxQaGRha1AwT1fSAcMBQVVfeXFMTk5nQzY2TGNBeDFwWFR2YmdhQ2tMXzR1Q2llenEyUmMwZHNncmw3U0pSWC1LVUg4b3Q3UU9uamdoSlR4a1lQS0dhOXpBSWRPMXVObzBSSGNhQi03cHJrWmF1ZFZGdzUtRTZfMHFlaVBiWVF0Q1JqZTl2VVNLZ0RHX3dhVjhpX2x5UDVzTVhsbHAwUjdiX25tVzVuMWh2MUx0aWUzVHQyWW02MjlsaWRRMHZkYjB4djBFYnRHREdRcnNoeTNZ?oc=5"
         }
       ]
     },
@@ -162,22 +234,10 @@
       ]
     },
     {
-      "id": "7b11c659c50f",
-      "title": "Humberto Martins passa por procedimento no cérebro para tratar doença neurológica - NSC Total",
-      "published": "2026-11-26T18:24:56+00:00",
-      "summary": "Humberto Martins passa por procedimento no cérebro para tratar doença neurológica&nbsp;&nbsp;NSC Total",
-      "sources": [
-        {
-          "name": "NSC Total",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdlRteDQzVHpfeHhOZ2pWZWN3WTNrN3RLVUhoN2RXSXB4Y1lqWWZzYmxQVldnYXVVN1VPcGtyaWtQUUZSY3RjM0s4al9jTlF5dEZBLWtia0NZWGE4a1dBMDlPUklwdjNGUmhxeUJZRURHbmNNb3ZYc3NsMThjdnJwZ0k2dHhkVVlvZ3AxWVNxRWVuR2FsYThtRWU2WmROT0RrbEVfUXBPb1FOZVpJaXVNcWgtV1hwWXI0V2V1aGJBX3FxZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "54232dd42606",
       "title": "Novas diretrizes para câncer de próstata: rastreamento individualizado e uso da ressonância antes da biópsia - Portal Drauzio Varella",
       "published": "2026-11-26T18:06:31+00:00",
-      "summary": "Novas diretrizes para câncer de próstata: rastreamento individualizado e uso da ressonância antes da biópsia&nbsp;&nbsp;Portal Drauzio VarellaNovembro Azul: por que os homens ainda têm tanta dificuldade para cuidar da própria saúde?&nbsp;&nbsp;O GLOBONovembro Azul reforça a importância do diagnóstico precoce do câncer de próstata&nbsp;&nbsp;G1Seminário debate a prevenção ao câncer de próstata e a saúde do homem&nbsp;&nbsp;Correio do PovoAgência de Comunicação - Cartão de TODOS reúne médicos em a",
+      "summary": "Novas diretrizes para câncer de próstata: rastreamento individualizado e uso da ressonância antes da biópsia&nbsp;&nbsp;Portal Drauzio VarellaNovembro Azul: por que os homens ainda têm tanta dificuldade para cuidar da própria saúde?&nbsp;&nbsp;O GLOBOAgência de Comunicação - Cartão de TODOS reúne médicos em ação de Novembro Azul&nbsp;&nbsp;Estadão Blue StudioCâncer de próstata pode ser detectado em hospitais e unidades da rede pública&nbsp;&nbsp;Senado FederalSeminário debate a prevenção ao cânc",
       "sources": [
         {
           "name": "Portal Drauzio Varella",
@@ -198,26 +258,14 @@
       ]
     },
     {
-      "id": "d4ce9c7bfeca",
-      "title": "Hospital Regional de Piripiri realiza primeira cirurgia ortognática da história - GP1",
-      "published": "2026-11-26T17:44:00+00:00",
-      "summary": "Hospital Regional de Piripiri realiza primeira cirurgia ortognática da história&nbsp;&nbsp;GP1",
+      "id": "8d727b27dfa2",
+      "title": "Pesquisador da OpenAI usa GPT-6 Astra para propor teoria da gravidade quântica - Exame",
+      "published": "2026-11-26T17:55:41+00:00",
+      "summary": "Pesquisador da OpenAI usa GPT-6 Astra para propor teoria da gravidade quântica&nbsp;&nbsp;Exame",
       "sources": [
         {
-          "name": "GP1",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZlFHNVhralVkRmlkSTFHVEtsZzI4ZDJHSnpTNjNleHJjSXhndmtnaEhrUGpUOUYtN2FDTTlLVFphWE9mQUhtQjlUTUQ3aXA0Tk1ySVdMdlFuWExPVTNYTXhnZFBzd05xUHM5QURXd09xTWctVXlWVjQ3MmY0c2xNNlQ5ZVBQSVRhMTVXSWpMRm5Sd2p6YlY0QUR2OE5paDZRVS10LUpLTk9GOWhzclBCRWNha0NmbjNtcG8zRWk5Snl2bW1IUC1vOVZ6WGt6VU5aQWdmVkNB0gHbAUFVX3lxTFBDcjdsaXpBaFN0eU9CczdMcnZRcGNCdWc0UmxJYW5QWjREUERvSHZEWW56R194QjBueklSellVX21KWVIwVlVHTkc4QW5IU0xzSnNtaG5UTk5EaXZoSm96YTJ4MUJiY2JCNDAxblYtd3gtd04tNHVvZGdPUzlLdHRwUTR0V0ZELU9aX3o0MUFXdGNDQ2xzVS12VGdoV3p1bG1fOFFzaDlJYVJtZHgxcU9oTXpmclFMb3VGc3RiNnZvclA0NUh0U1ZkTEJ3ZU5abGxLRi1NbVEzQmV6VQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7b8565011964",
-      "title": "Ministério da Saúde reforça vacinação contra covid-19 com mensagens à população e envio de doses aos estados - Governo Federal",
-      "published": "2026-11-26T17:26:38+00:00",
-      "summary": "Ministério da Saúde reforça vacinação contra covid-19 com mensagens à população e envio de doses aos estados&nbsp;&nbsp;Governo FederalMinistério da Saúde reforça vacinação contra Covid-19 com envio de doses aos estados; veja quem pode se imunizar&nbsp;&nbsp;O GLOBOMinistério da Saúde envia mensagens para incentivar vacinação contra a covid-19&nbsp;&nbsp;Campo Grande NewsMinistério da Saúde reforça vacinação contra covid-19 e monitora nova variante&nbsp;&nbsp;Brasil de FatoMinistério da Saúde en",
-      "sources": [
-        {
-          "name": "Governo Federal",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZzB3cVVfX2RZMEl0WmQ1SDFUZE1tVkUtdm5rWEdXWUhyemZrXzZuOURYU2lVamcyV1hQaFR6SzZ1T1RnNlhMSkJrS2hBTkt3MDR3dFBKWWJPVGVMTkxYeU05LTNrOTBpY3lRY2ZRdjE3Y3Z4MC1sOFRzNk5sbHVFbU5zQkkxbXRMdENoczdneENLeWxDLWpnemlZbXo0UkFhckpRaG5LTk9tM3paLUVIMU9veUo5RGR6UFBoRFRlbXRuUnZnOW9aU2JtQXN4VEFEczd2cFRxLVhBQURUdTB3N1l0LTQ3bTV1a0t0Wi13UEZVVEtjb2k1MERvdDVkZDVp?oc=5"
+          "name": "Exame",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR3FrZ0oxYlI2MXhRLUR0WnZrdDA4RlZyYW1hZURRUjhuaVNBRnQweUNGcTA3S0g3V0VGbDhUTEh2X2hOcnFLSWdWOVMxOFdBOUNIVWZnNjlSdUUwWlRFamhGVkJ0Z0NlRXFWdEl1MXJGbU5FYTMwRjVZb0VTWFFXd0RrSmVBNlJPSGFMMWs5NzQwamVWZ1FMa0NiTmtqWUFKY3kyREFERlVuZzV5S2xhVVBrMlRkT3Mta0VWbVFR?oc=5"
         }
       ]
     },
@@ -234,14 +282,26 @@
       ]
     },
     {
-      "id": "a2545ea5cc87",
-      "title": "Ordem dos exercícios pode influenciar o controle da glicose, diz estudo - Metrópoles",
-      "published": "2026-11-26T14:01:00+00:00",
-      "summary": "Ordem dos exercícios pode influenciar o controle da glicose, diz estudo&nbsp;&nbsp;MetrópolesFazer aeróbico antes da musculação pode melhorar controle da glicose&nbsp;&nbsp;CNN BrasilExercícios aeróbicos e musculação: a ordem pode afetar controle do açúcar no sangue&nbsp;&nbsp;Tribuna do AgresteEstudo relaciona ordem de exercícios a diferentes respostas da glicose em pessoas com diabetes tipo 2&nbsp;&nbsp;BH 24 HorasOrdem de exercícios aeróbicos e musculação pode influenciar controle da glicose,",
+      "id": "3a6c9d182a29",
+      "title": "Espanha avalia risco ambiental após navio-tanque com 7 mil toneladas de diesel virar perto de Ibiza - BBC",
+      "published": "2026-11-26T16:28:59+00:00",
+      "summary": "Espanha avalia risco ambiental após navio-tanque com 7 mil toneladas de diesel virar perto de Ibiza&nbsp;&nbsp;BBC",
       "sources": [
         {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQUhqbEotT0dxaXRaeGtJdENnbTM5RllEeUpKUzdEeG1qUjFnRHNzSjZKcGdXTWRtM1B4U2V4S0t1X3YzaVBxQ2ZiM3VYTVVudG90N252Q0ZpUGI2bHZGMklaRnBFY1ZuOXJiUFBpX3VNN25yLVFXRV9JY2VOU2hxUm1Fb3JHU1BuTUNnVklSMU1jZkE3X21QV2hhVk1zemZzX2cwRE9R?oc=5"
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1WVlhSMktYdWxQeFRXVi1vc2w3VnFjbjN6WXBZTUR3YUZmYTVfRG9ZOGtSbF9DTGRqWlI5MU9Jd0dFYmlSakZXYlEyZFprdmhmMjRCRW5McTZEREQySzN6WmNvUdIBaEFVX3lxTE1oZ1M4a1BwbXdoWG9MSV9RVjhxT21nWXFsa2NzZ1VBTTB1RTlYdWpfVHRfd0QzNGhNd1p4NmRfZHZwWnRvMWMwMkNFeWhnUmVheXZzUjZYZ2h3UnFGSVZSaEZDMHVGMWVW?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "730e6e06b857",
+      "title": "Quanto treino de força por semana está ligado a uma vida mais longa? Dados de 30 anos respondem - UOL",
+      "published": "2026-11-26T15:15:05+00:00",
+      "summary": "Quanto treino de força por semana está ligado a uma vida mais longa? Dados de 30 anos respondem&nbsp;&nbsp;UOLSeu corpo não precisa voltar atrás&nbsp;&nbsp;O GLOBODieta ou treino? Estudo revela o que importa para viver mais&nbsp;&nbsp;CNN BrasilO que importa mais para a longevidade: comer bem ou praticar exercícios físicos todos os dias?&nbsp;&nbsp;www.jornalcruzeiro.com.brExercício físico \"vence\" alimentação saudável (olhando para a longevidade)&nbsp;&nbsp;ZAP Notícias",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONWZJVFcxVXp4YXFGTDQ2SHk5YW11MzFYVEluZ2thUUhKRjJoMW9vWDhEQk5sekl0dFhnSlVBc2o0LXFHWlZhYjhiXzI5MFZESzhFcnV5M0U3bVNTeG0tVmFRQ2Z6a0l1bWstX1Q4S05lVDdZVXdOQ0RSQ3I5UVZyb3VSUWRhZ05IQjVjaUtTSTg0c1d3Y0JaLVRGam1sOV90Nl9rcjEzRi1Ha3BieG5KTlplWGM2YWVEbmY1VG4yb3RILWhOZWFIbkpJTQ?oc=5"
         }
       ]
     },
@@ -261,23 +321,11 @@
       "id": "bd4be3e746ac",
       "title": "Dieta ou treino? Estudo revela o que importa para viver mais - CNN Brasil",
       "published": "2026-11-26T12:49:10+00:00",
-      "summary": "Dieta ou treino? Estudo revela o que importa para viver mais&nbsp;&nbsp;CNN BrasilSeu corpo não precisa voltar atrás&nbsp;&nbsp;O GLOBOQuanto treino de força por semana está ligado a uma vida mais longa? Dados de 30 anos respondem&nbsp;&nbsp;UOLO que importa mais para longevidade: alimentação saudável ou exercício físico?&nbsp;&nbsp;Folha PEExercício físico \"vence\" alimentação saudável (olhando para a longevidade)&nbsp;&nbsp;ZAP Notícias",
+      "summary": "Dieta ou treino? Estudo revela o que importa para viver mais&nbsp;&nbsp;CNN Brasil",
       "sources": [
         {
           "name": "CNN Brasil",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYThfVThqMnNENWJyUElobVRLbFhkMlBiUHRYc09CVVR3eDIzMEY3VjJvVVl3ajR5dFRDVHFsRksxS3BNMG5QSjl4a2pEUXRoQmhtSEY4eDJTa0FQUy1tNDhOeFY3NFRlVHBDeUFCQjV6REh2TzF6SHMzMEMzM3l0enFCYm9yN211bGtfMGlIdUJBU2RkVE1DWF9Bbw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8a3f49a343bd",
-      "title": "Vacinação contra mpox começa nesta quinta-feira (26) no RN; veja quem pode receber as doses - G1",
-      "published": "2026-11-26T12:10:46+00:00",
-      "summary": "Vacinação contra mpox começa nesta quinta-feira (26) no RN; veja quem pode receber as doses&nbsp;&nbsp;G1RN chega a 19 casos confirmados de mpox em 2026; Natal concentra 15 registros&nbsp;&nbsp;Tribuna do NorteVacinação contra a mpox no RN começa para pessoas com HIV&nbsp;&nbsp;Agora RNEudiane Macedo destaca Festa da Vitória e Coronel Azevedo alerta para casos de Mpox no RN&nbsp;&nbsp;Assembleia Legislativa do Rio Grande do NorteRN recebe 100 doses de vacina contra mpox; aplicação ainda não tem ",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxONGEwZ2VWeXVTc0wtMEpWaTlrbXdWckRVaW5GUTdGeTdyS2RvY3g3cTRsZXVHZHNnRVhnTS1DTXBZX1VoOXBSaFRrZVlsYTlXV3FNRDR4NDJ0cjFIaG9uUW51OFVSZEJzcm5ydUpqMi1RdnFHSTBYQnpPcXByTFByU1NFRTZlRVZRY2JmQlpBWEc4bkxNTExLaTN5aDJFblJvOGNuNDlfRnBmUkJscUlPZkZ2YnlDZ2J0OUFtMGtZUkJNR2YtdzZuNnhKWnFNczd2YXQ3MjlTNXEzUEtRZ3RuR0tFbk45NzNEYlo0dkdR0gH8AUFVX3lxTE5BWE5wMTV5eFpEZG15dk81OHdiX1JaZk9qRFF5eVQ5THFndVpaXzdoZWowZ1k2TlF4Zk1HZGdDeGhqTmNIZjR3cFllekhOY1RYbXVZN3BtRS03cGxNekhOUmlFT0tueEpsVkQzT3ZocjFxbFJwdk9qSnc4MVYwbTdkWTIwaGJpNGwtZkw1M21zMThjbmdONE5reDlZUjd5bE1fcF95dkhjTkNqN1g5UlpQVU9ydVZlRkY0dWl4RUhYMW05WjYwejJOTnNkRUxYWWtCR0dlT25JQ0FSRTNxM2xkbEw1UER2ZXBfSnRrVGdnOGxMYWlRUXRfUVhwRg?oc=5"
         }
       ]
     },
@@ -294,6 +342,18 @@
       ]
     },
     {
+      "id": "fc5c378688eb",
+      "title": "Ministério da Saúde identifica mais de 130 mil casos de covid-19 e reforça alerta. PcD tem prioridade na vacinação - Diário PcD",
+      "published": "2026-11-26T10:57:20+00:00",
+      "summary": "Ministério da Saúde identifica mais de 130 mil casos de covid-19 e reforça alerta. PcD tem prioridade na vacinação&nbsp;&nbsp;Diário PcDMinistério da Saúde reforça vacinação contra covid-19 com mensagens à população e envio de doses aos estados&nbsp;&nbsp;Governo FederalMinistério da Saúde enviará alertas para atualizar vacina contra covid&nbsp;&nbsp;TV Brasil |Ministério da Saúde reforça vacinação contra Covid-19 com envio de doses aos estados; veja quem pode se imunizar&nbsp;&nbsp;O GLOBOMinis",
+      "sources": [
+        {
+          "name": "Diário PcD",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTW5zUDdkSmJoN21kNkRpaFpDbEtXdUNBOURBVHJwZVhiOW1Ua1hmZmJrMllHdEJCYlFMakM0QkZPNVlRYVFHaEdMRVJqRjdNbnFaUURzcGJoZExDLVowaXBhMkk1V1YweFNpcG00OFlyOVhHMWlWLThfcGhVWDdoVWFJWVdRS0xjVlBFVk1ob04yNVhrVFd0ajBaaWE1bEFuMWF6dC1YWERqNFBEcktkd0x4TTlYSGVNa3RLTnVtY1oxcFZmNXV3MWNjTERIMmlLcGNFWWRB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c6cfbbe56adc",
       "title": "Estudo explica por que vírus Ebola é muito mais letal em pessoas - Folha de S.Paulo",
       "published": "2026-11-26T09:00:00+00:00",
@@ -302,30 +362,6 @@
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPb0d5cDNWRVd0NElmbWtLWV9sZnlPZ0NHcTFlLWRhdmFpbTBMT1dZNDdTZTJlNUxjZEpjNGtwdFRkdU1kZWpZWHljalJRSWRaRkJ2ZndoNkpoREtSUzVmT2MybzhLN09Zb3NCaERxTXZWUW5menJDY3lIRHg2VTd6eFVBdThFTDlXa0ozS0wtWHFiUF9QdHpaaHM5dFRFTDlkSjFlRnJLdTZrRDBiYk5QQ1gxOFgyd00?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1137cbd875eb",
-      "title": "A influenciadora que ficou 2 meses internada em clínica psiquiátrica por um erro: 'Fui rotulada como psicótica por ser mulher' - G1",
-      "published": "2026-11-26T08:00:01+00:00",
-      "summary": "A influenciadora que ficou 2 meses internada em clínica psiquiátrica por um erro: 'Fui rotulada como psicótica por ser mulher'&nbsp;&nbsp;G1Veja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNQ19XdERVZy1UcnBDMWNZV3k0MkQ5aUJldnJ2RFgzeUplR2YzVjhWUWhzLUZQcnFIbm5JQTlRRFBIVDYzaHZxdUs0S1JTRzl2TDhEdEVpMDhEUDlwZUlwWkhfZVhiOWxJRjRJS0QyRjIyRlg2MFo3T2lnOHhjWFY0TFQxc0w2cmtTUjdTZ0RTcDR4Y2h6ODFIcnk4Qm5MT0gwQVJ0RDFxek5NUGhMY2xpOUFoX0hxQzdMSVdTbVhicHRFRkg0VW5qYjdyYWdWcjNnT2hOcVk5ek5fYzZ0YlF4dEVZUDc1LW5OdHZHS0ZVM3R2OWlMbGN3ZzVXQXVVM0ZpVm9sQmpQUWJkbm16cmh2SEdZQ1VZQVXSAaYCQVVfeXFMTUs0QXI1SWhmMjBCRWdsS2R6Q3V1YTVodVctakczMVotc3EyQ3JaUW5FSTJXbURnNTNaMmh1RUVGcExBSFlKZU1nMTI1eDk5MmMyQkRMWm5uV1NWR1luU2U4U0RFZ21HaUFGTmNvZUV2U2VDc1YwVUxFSmZYT0c5RDVScUt0QnlBMW9SeHV0cm5Idm4yMXBtQXJMYzlhUTRmUk5tcUg0a09wbldfalRSNTFaZUdnN0NQTGxob216ZnZhYmpyUVY4UF91TjBXT3dLYzJYcnowN04xX0FMQ3hHWWctVVR3MkF4UXhsN3N6T0lnRWJvaXp4TmJ0UFRSVk5JMXdXZFhyWmtGU2lIVFc5RnJPU2xRS21kYjBYaVBESWYxRks0RW93?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "eb730033ae7c",
-      "title": "Por que o Brasil vive surto de mpox? O que se sabe — e o que não se sabe — sobre os novos casos da doença - G1",
-      "published": "2026-11-26T07:00:01+00:00",
-      "summary": "Por que o Brasil vive surto de mpox? O que se sabe — e o que não se sabe — sobre os novos casos da doença&nbsp;&nbsp;G1Veja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPM0xZOWpIeTMzcmRaeU84WlIyRmUtVWFpbEJHbms3NlBhLVdDTkJEWkRXZUVwSmFLVHFoV1ZLMWNaaW4yWDhLUnRtNUNfT2NXTHJ6YUwySXp6X3g3QUtXMlgyR1JkY3ZjaWRtdExMVXB0Y2diWjdkZnJtYndHWWdmSHZWeC1OdDJGdnRWMGZnV1BNejkyNk5nVHdMclQ2QTFfaTNNSTQ1WHh6Qm5VU1ZSTDhkRGlYWmpnaDEzM1hTUnN0V0hMUlVFek9jaDR3aHI5RXk2N2lnZi05N0g2ZkdVcktPbnQ2Q0XSAfYBQVVfeXFMTXdkSU1vRFZYSFdnQ2gzMFk1Sk5JZGRheGtObC1iUmlGRWU1RVd3el9tZ2dlVV9KVmhJMERmV0pGcEtMMWdRLTBNUGZGbHk4cFp2Wk1hWjdBZlF5ajZFa05UOVNjSWYyeVkxQjhWdlBoNktjTzRXMlBUcXF0cEpLaUl1bDN2VlZPbUpFOHcteWxCVzl2bjdiTVBpd19mOTN0MkZ5YTJaZm1ETzVlMGZzMTN1YWwzT0Y5Z3EtWnluTURkOW5uaENLdHVKXzJaelZXRzR3d21VVTZjN2N1QmpSTWJIUjNLWWxMbkxuNWx4czZrRkxTYnBB?oc=5"
         }
       ]
     },
@@ -342,34 +378,10 @@
       ]
     },
     {
-      "id": "a5bd9e4123bb",
-      "title": "Câncer de intestino: 6 sintomas que você pode não se dar conta - DOL",
-      "published": "2026-11-26T02:42:01+00:00",
-      "summary": "Câncer de intestino: 6 sintomas que você pode não se dar conta&nbsp;&nbsp;DOLSUS disponibilizará testes para ampliar diagnóstico de câncer de intestino em pessoas entre 50 e 75 anos&nbsp;&nbsp;Jornal da USPCasos de câncer de intestino e de ovário estão aumentando entre adultos jovens&nbsp;&nbsp;TerraCâncer antes dos 50: por que os casos aumentam entre jovens e quais sinais não ignorar&nbsp;&nbsp;BHAZSUS terá medicamentos para 13 tipos de câncer e teste de intestino para uso em casa&nbsp;&nbsp;Br",
-      "sources": [
-        {
-          "name": "DOL",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZjh1cTdfY3RhNnZPbHllTjBPZUlBVXBKX01hUVBDa2w0WXZERWZ3dUxweTg2T2c5LXNQaXU3eGoxQm9td21Bc2hVQzAzbjczc2RfV2U4Y240MTdEa3IzY3lMbVZ5M1ZPWTZFbVpYTVBZbTZ0QTFhOGNjd1R5WWc3eGdHcnJIcGZyeng5MzdzS0Zya3E2eGJoY1N1X0lfemhHWG1LSEhPTkLSAbABQVVfeXFMUGJsYWk4OHU0YUlIUDdBdE5EUGprOGZTQVY5eWxJLURYV3h4UHNyUlV5RFlONUVLVEJ5Y0hGeU8tTENuT0cwdFAtb1JZS2NVQUFTVDhseHpfVEpldl9vcTFlVl9laG1mRVd4STBEMVl2VzJ1aTBMS2hQZWRXR2w5RWFncmNIMTFJZGhwQ0ZueGs1LXR4RENvd1V0eEZFcm9WU1FSaGlFUFd6T3NYZ3gzZTU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5e4f5eb2268a",
-      "title": "Pesquisador paraense é um dos novos membros da Academia Brasileira de Ciências - O Liberal",
-      "published": "2026-11-25T21:43:12+00:00",
-      "summary": "Pesquisador paraense é um dos novos membros da Academia Brasileira de Ciências&nbsp;&nbsp;O Liberal",
-      "sources": [
-        {
-          "name": "O Liberal",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcnRrUGM1T3pqYi1tRjVXYXBmOFR6OUpKNFFSSFZGRkMwd2d0dGlkbWc4UEU4QjZyZm11UHYwMHBMLUt0SlM5UWQ5SldFc3c1d1ZnQWRpZ2I1WnVxM2RIZDBKUXdyVWJ5dDI4UVdKLWoxalZib0I3bjZMQ0l4WEo3UU9Pd0JXQ2F0LWFRZEVsQlJtbGpYUFJZd2RYVTF4UVZxWVVjYlBhUzZxcG9mREZ2Q1gyRzhYQWZ4ZlE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "40cd6555af70",
       "title": "Sobe para 19 o número de casos confirmados de Mpox na Bahia em 2026 - Jornal Correio",
       "published": "2026-11-25T21:08:17+00:00",
-      "summary": "Sobe para 19 o número de casos confirmados de Mpox na Bahia em 2026&nbsp;&nbsp;Jornal CorreioTrês casos de Mpox são confirmados no sudoeste da Bahia&nbsp;&nbsp;G1Bahia registra 19 casos de mpox em 2026; Salvador concentra maioria&nbsp;&nbsp;Rádio MetrópoleAlerta na Saúde | Mpox mobiliza rede e intensifica Vigilância Epidemiológica em Vitória da Conquista&nbsp;&nbsp;Blog AndersonBahia registra redução de 24% nos casos confirmados de Mpox em 2026&nbsp;&nbsp;Bahia Notícias",
+      "summary": "Sobe para 19 o número de casos confirmados de Mpox na Bahia em 2026&nbsp;&nbsp;Jornal CorreioTrês casos de Mpox são confirmados no sudoeste da Bahia&nbsp;&nbsp;G1Bahia registra 19 casos de mpox em 2026; Salvador concentra maioria&nbsp;&nbsp;Rádio MetrópolePrefeito tranquiliza população diante de casos de Mpox em Paramirim&nbsp;&nbsp;Achei SudoesteBahia tem 19 casos de Mpox em 2026; Brasil chega a 1.499 no ano&nbsp;&nbsp;CNN Brasil",
       "sources": [
         {
           "name": "Jornal Correio",
@@ -390,14 +402,14 @@
       ]
     },
     {
-      "id": "fb0f754bec2a",
-      "title": "O hábito simples que pode melhorar seu sono e reduzir o risco de doenças - Globo",
-      "published": "2026-11-25T14:22:41+00:00",
-      "summary": "O hábito simples que pode melhorar seu sono e reduzir o risco de doenças&nbsp;&nbsp;GloboDormir bem é tão importante quanto exercício, dizem especialistas a Kalil&nbsp;&nbsp;CNN BrasilDormir oito horas não garante descanso ao coração se você ignorar esta janela do relógio&nbsp;&nbsp;BandDormir bem pode reduzir o risco de desenvolver 90 doenças, diz pesquisa&nbsp;&nbsp;Tua SaúdeHá um detalhe mais importante do que dormir 8 horas por noite&nbsp;&nbsp;Pplware",
+      "id": "2112a854e024",
+      "title": "O que significa quando uma pessoa não quer abraçar ou ser abraçada, segundo a psicologia? - Minha Vida Saúde",
+      "published": "2026-11-25T16:52:47+00:00",
+      "summary": "O que significa quando uma pessoa não quer abraçar ou ser abraçada, segundo a psicologia?&nbsp;&nbsp;Minha Vida Saúde",
       "sources": [
         {
-          "name": "Globo",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQnhackxpbWxkR3JuNnB2LW83c2VtZEhBRWFuM1QzTHNCbXhMbVQ2aGVkVlVMREdsLWhUVEl4bnE4V0JqOHhzU0l0TzZMZU1fQURzY09SZ0o2MFV4NmZqa3ZpRmFHbkc5aTlKaTZoV3hxZVVMLXBESEdCaUFOMzlGWW9WSV9BaG41SU80ZWVKNHJQX29SNFpUWnE5OHppQnRGWXY1VHA3cEZpa1lWaDZvY1ozZk1zRVozcFFFZGxSUEJXam_SAdIBQVVfeXFMTnFqLWwyVWpvaG9vRzltS09wMmptRWxldUxXMENSQmptNEtHRDNqblVlNFZsS2EyMzktdUFST3MtdUdCVWxMbG8wMHJZQWU2NU1SUUdDeGVza1gtRkY5c1ZmSHU5bW85Q0NDMTI0Tk1aVDVuLVRZdHppc1NfQkVpU2g4RHRKY1BLaVo0eWZjMzJCRFRYREVzMElLV2xSOFVhUnJuOUdVN05kMldPU1JfcjlmZE5DSVhlcENQa3F1Q2ZTRDhhR3ZoQXRwZW5QN0xsTjdR?oc=5"
+          "name": "Minha Vida Saúde",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yMkFEQWNPUmNJVG1KQXpQVlk3S2FZbVVqd0VMUERyTUVWRXlTTWtsTWh5endLMEdvUzhXZWlVaDJDeXNhOFRzVXJSMVhTZFFrdGRTa3ZBaWh2OWJWOWk3LdIBZkFVX3lxTE1jRWRmdVowemJPTU5kSWEzU3Q4N21CcGp1TXlmYTNCbkRZdlVOdUl4LS1IT1hIQmltWUwzQ2VSdGRqRWY3VFZhTTRnLW1LdWw2WUFtNnRkdDJhM3ktcmwzdnM0Tk5vZw?oc=5"
         }
       ]
     },
@@ -405,7 +417,7 @@
       "id": "c13df259e3ad",
       "title": "Como age o novo medicamento aprovado pela Anvisa para tratar câncer de mama - G1",
       "published": "2026-11-25T11:55:13+00:00",
-      "summary": "Como age o novo medicamento aprovado pela Anvisa para tratar câncer de mama&nbsp;&nbsp;G1Anvisa aprova medicamento para tratamento de câncer de mama inicial e grave&nbsp;&nbsp;CNN BrasilAnvisa aprova novo medicamento para câncer de mama&nbsp;&nbsp;G1Novo medicamento é aprovado para tratamento do câncer de mama&nbsp;&nbsp;Rádio MetrópoleMinistério da Saúde repassa R$ 8 milhões e atualiza tratamento de câncer de mama no SUS&nbsp;&nbsp;O Tempo",
+      "summary": "Como age o novo medicamento aprovado pela Anvisa para tratar câncer de mama&nbsp;&nbsp;G1Anvisa aprova medicamento para tratamento de câncer de mama inicial e grave&nbsp;&nbsp;CNN BrasilAnvisa registra o Hertuzo, biossimilar do pertuzumabe, para câncer de mama HER2-positivo&nbsp;&nbsp;Agora RNAnvisa aprova novo medicamento para câncer de mama&nbsp;&nbsp;G1Ministério da Saúde repassa R$ 8 milhões e atualiza tratamento de câncer de mama no SUS&nbsp;&nbsp;O Tempo",
       "sources": [
         {
           "name": "G1",
@@ -446,18 +458,6 @@
         {
           "name": "BBC",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBRNVdtR2E1VUpFRUpOaWx4RkF1WkloTlhZVmxmdDlXcDJMSTRkaWMtRkNjY1VnNzFPZS04MG9zQ3JZVU5jLUxoSGc3X1A2M0VzTVlfUDdFSGVuQUlWd2xiRVFn0gFnQVVfeXFMT0RwTkxVQUM1RXF4UWN0QUMzZzEtTmVTSWYzbGYtTm1Ba1BXTTlGV192c0taeW43VG51cTBhZnhnV0NOU3RvV0xzN21LTXdjOGRNTUhJT2xVZF84alM3OUVseW4xdmJNbw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b53b0b9bcb40",
-      "title": "Brasil avança no desenvolvimento de vacina terapêutica contra o câncer — Ministério da Saúde - Governo Federal",
-      "published": "2026-11-23T21:16:13+00:00",
-      "summary": "Brasil avança no desenvolvimento de vacina terapêutica contra o câncer — Ministério da Saúde&nbsp;&nbsp;Governo FederalVacina contra câncer em estudo no Brasil vai mirar linfomas e tumores de estômago&nbsp;&nbsp;Folha de S.PauloBrasil deve testar vacina contra o câncer a partir de 2027 | Repórter Brasil Tarde | TV Brasil | Notícias&nbsp;&nbsp;TV Brasil |Entenda como devem funcionar os testes da vacina contra o câncer no Brasil&nbsp;&nbsp;CNN BrasilResumão diário #2243: Vacina contra o câncer ter",
-      "sources": [
-        {
-          "name": "Governo Federal",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaVZVQ0d2NmZkTlhmNDJmcU93b3JPSHlaRWd1TU1UUVFMLTQ1d0V4ZGJIbGNCUXl1dWwxMnY3dlo4dHVjMWg2eW5Pcy1teWF4eWhqUVJWNGtaMG5pVjl4d2xmV19UYnN4MlR3YnVWSlY3X21oUUcxQjJDaHRYeVJsRUZKc0dDVmlsVlFKbG5fcGtMT0I1WDhzUGFwX2tSMEdhY0dZVWNMb2pWbUFfNXdoajdZUWxEWkExbTZaMVhTalZwbTBPckJhaE9tU1Judw?oc=5"
         }
       ]
     }
